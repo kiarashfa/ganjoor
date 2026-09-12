@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گل عزیزست هرکجا روید",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر جا که گل شکوفا شود، زیبا و گرامی است، چه در دشت و چه در باغ."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "خار خوارست هرکجا باشد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر جا که خار باشد، به هر حال خوار و ناچیز است، چه در باغی که زیباست و چه در جایی که نازیباست."
     },
     {
       "VOrder": 4,

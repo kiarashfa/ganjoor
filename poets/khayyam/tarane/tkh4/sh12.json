@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "از جملهٔ رفتگانِ این راهِ دراز",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در میان کسانی که از این مسیر طولانی رفته‌اند، آیا کسی هست که برگردد و به ما بگوید چه رمزی در این سفر نهفته است؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "هان‌! بر سر این دو راهه از روی نیاز",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این دو راهه، به خاطر نیاز خود، چیزی نگذار که دیگر نمی‌توانی برگردی!"
     },
     {
       "VOrder": 4,

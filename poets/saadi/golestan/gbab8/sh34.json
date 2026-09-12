@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "کارها به صبر بر آید و مُستَعجِل به سر در آید.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: کارها نیاز به صبر دارند و کسانی که عجله کنند، به نتیجه نمی‌رسند."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "به چشمِ خویش دیدم در بیابان",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دشت و بیابان، با چشم خود دیدم که موجودی آرام و بی‌سر و صدا از همان کسانی که با شتاب و سرعت در حرکت بودند، جلوتر و سریع‌تر می‌رفت."
     },
     {
       "VOrder": 3,
@@ -46,7 +48,8 @@
       "Position": "Right",
       "Text": "سمندِ بادپای از تک فرو ماند",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اسب بادپا در تک تک مراحل شکست خورده و شتربان به آرامی به راه خود ادامه می‌دهد."
     },
     {
       "VOrder": 5,

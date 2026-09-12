@@ -261,7 +261,8 @@
       "Text": "چو دستان شنید این سخن خیره شد",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: وقتی دست‌ها این حرف را شنیدند، به شدت حیرت کردند و چشمانشان از روی او تار شد."
     },
     {
       "VOrder": 2,
@@ -277,7 +278,8 @@
       "Text": "خروشان شد از شاه و بر پای خاست",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: او با شور و هیجان از سمت شاه برخواست و چنین گفت: ای قاضی که حق و حقیقت را برپا می‌داری!"
     },
     {
       "VOrder": 4,
@@ -293,7 +295,8 @@
       "Text": "ز من بود تیزی و نابخردی",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: من از خود سختی و نادانی تو را در وجود پاک و دانای الهی می‌بینم."
     },
     {
       "VOrder": 6,
@@ -309,7 +312,8 @@
       "Text": "سزد گر ببخشی گناه مرا",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: اگر تو خطای مرا ببخشی، شایسته است، چرا که دیو (دشمن یا شیطان) راه درست مرا گم کرده است."
     },
     {
       "VOrder": 8,
@@ -325,7 +329,8 @@
       "Text": "مرا سالیان شد فزون از شمار",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: من سال‌ها است که به حدی از تعداد فراتر رفته‌ام و در برابر هر پادشاهی آماده و مبارز ایستاده‌ام."
     },
     {
       "VOrder": 10,
@@ -341,7 +346,8 @@
       "Text": "ز شاهان ندیدم کز این گونه راه",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: از بین شاهان، هرگز ندیدم کسی که از این نوع راه به دور شده باشد، در حالی که تحت تأثیر آفریدگار خورشید و ماه است."
     },
     {
       "VOrder": 12,
@@ -357,7 +363,8 @@
       "Text": "که ما را جدایی نبود آرزوی",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: ما از جدایی آرزویی نداریم، زیرا این دادگر به ما محبت و رفتار نیکو داشته است."
     },
     {
       "VOrder": 14,
@@ -373,7 +380,8 @@
       "Text": "سخنهای دستان چو بشنید شاه",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: هنگامی که شاه به سخنان دستان گوش داد، آن را پسندید و از او به خاطر خوبی‌ها و صمیمیتش عذرخواهی کرد."
     },
     {
       "VOrder": 16,
@@ -389,7 +397,8 @@
       "Text": "بیازید و بگرفت دستش به دست",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: او را در آغوش گرفت و با دست خود به جایی که باید، برد."
     },
     {
       "VOrder": 18,
@@ -405,7 +414,8 @@
       "Text": "بدانست کاو این سخن جز به مهر",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: او دانست که این کلام تنها با عشق و محبت به پیشگاه شاه خورشیدگونه قابل بیان است."
     },
     {
       "VOrder": 20,
@@ -421,7 +431,8 @@
       "Text": "چنین گفت پس شاه با زال زر",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: شاه به زال زر گفت که اکنون باید تمام کمر خود را ببندید."
     },
     {
       "VOrder": 22,
@@ -437,7 +448,8 @@
       "Text": "تو و رستم و طوس و گودرز و گیو",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: شما و رستم و طوس و گودرز و گیو و هر کس دیگر که شهرت دارد، همگی در یک دسته هستید."
     },
     {
       "VOrder": 24,
@@ -453,7 +465,8 @@
       "Text": "سراپرده از شهر بیرون برید",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: با دور شدن از شهر، پرچم شاهانه به دشت‌های وسیع بیرون از شهر هدایت شد."
     },
     {
       "VOrder": 26,
@@ -469,7 +482,8 @@
       "Text": "ز خرگاه وز خیمه چندان که هست",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: از جایگاه و چادر خود به اندازه‌ای که می‌توانید، بر دشت محلی برای نشستن بسازید."
     },
     {
       "VOrder": 28,
@@ -485,7 +499,8 @@
       "Text": "درفش بزرگان و پیل و سپاه",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: بزرگان، پرچم و سپاهی بزرگ را آماده کنید تا مکانی برای نبرد روشن شود."
     },
     {
       "VOrder": 30,
@@ -501,7 +516,8 @@
       "Text": "چنان کرد رستم که خسرو بگفت",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: رستم به گونه‌ای عمل کرد که خسرو گفت که پرده‌ها را از خانه پنهانی برداشتند."
     },
     {
       "VOrder": 32,
@@ -517,7 +533,8 @@
       "Text": "به هامون کشیدند ایرانیان",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: ایرانیان به دستور فرماندهی، تماماً به سمت هامون روانه شدند و در آنجا تجمع کردند."
     },
     {
       "VOrder": 34,
@@ -533,7 +550,8 @@
       "Text": "سپید و سیاه و بنفش و کبود",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: زمین از رنگ‌های سپید، سیاه، بنفش و کبود پوشیده شده بود و در میان کوه‌ها، خیمه‌های زیادی برپا شده بود."
     },
     {
       "VOrder": 36,
@@ -549,7 +567,8 @@
       "Text": "میان اندرون کاویانی درفش",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: در دل کاویانی، پرچم جهانی به رنگ‌های سرخ، زرد و بنفش شکل گرفته است."
     },
     {
       "VOrder": 38,
@@ -565,7 +584,8 @@
       "Text": "سراپردهٔ زال نزدیک شاه",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: سایه‌بان زال در نزدیکی شاه برپا شده و درفش سیاه نیز از آن آویزان است."
     },
     {
       "VOrder": 40,
@@ -581,7 +601,8 @@
       "Text": "به دست چپش رستم پهلوان",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: در دست چپ او، رستم پهلوان از کابل، بزرگان با روحیه روشن و پاک قرار دارند."
     },
     {
       "VOrder": 42,
@@ -597,7 +618,8 @@
       "Text": "به پیش اندرون طوس و گودرز و گیو",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: در درون طوس، قهرمانان بزرگی همچون گودرز و گیو وجود دارند، همچنین رهام، شاپور و گرگین نیو نیز در همین جمع هستند."
     },
     {
       "VOrder": 44,
@@ -613,7 +635,8 @@
       "Text": "پس پشت او بیژن و گستهم",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: پس از او، بیژن و گستهم و دیگر بزرگان همراه او بودند و در کنار هم قرار داشتند."
     },
     {
       "VOrder": 46,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ساقی، چو نمی‌دهی شرابم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای ساقی، اگر نمی‌توانی شراب به من بدهی، لااقل بجای آب، خونم را به من بده."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "خون شد جگرم، شراب در ده",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من به شدت رنج می‌کشد و حال من خوب نیست، تا کی می‌خواهی بگذاری که این درد عمیق من بیشتر شود؟"
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "دردی غمم مده، که من خود",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دردی به من نده، چون خودم به خاطر دوری تو در حال و روز بدی هستم."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "از تابش می دلم برافروز",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نور عشق و احساساتم را به من ببخش تا بتوانم به روشنی از دنیا فراتر بروم و بر دل خود بتابم."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "در کیسهٔ من چو نیست نقدی",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی در کیف من پولی برای خرید شراب عالی وجود ندارد، می‌دانم که تو هم چیزی به من نخواهی داد."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "چون خاک در توام ، کرم کن",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من مانند خاک به وجود تو وابسته‌ام، لطفاً با یک جرعه شراب مرا به یاد بیاور."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "می ده، که ز هستی عراقی",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بده شراب، شاید یک بار از این دنیای مادی رهایی یابم."
     },
     {
       "VOrder": 14,

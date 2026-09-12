@@ -401,7 +401,8 @@
       "Text": "چو هور از بر کوه زیور نهاد",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: همچون خورشید که بر فراز کوه‌ها می‌درخشد، سپاهیان با شجاعت بر کوه‌ها می‌تازند و سر خود را به سوی کوه‌نشینان می‌سپرند."
     },
     {
       "VOrder": 2,
@@ -417,7 +418,8 @@
       "Text": "زمین آسمانگون ز پولاد تیغ",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: زمین همچون آسمان به نظر می‌رسد، شبیه به تیزی یک شمشیر، از گرد و غبار لشکر بر فراز کوه‌ها احاطه شده است."
     },
     {
       "VOrder": 4,
@@ -433,7 +435,8 @@
       "Text": "خروش پیاده رسیده به ماه",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: صدای پیاده‌نظامی به گوش می‌رسد که به چهره‌ی روشن و زیبا رسیده است، در حالی که از خاک تیره و سیاه عبور کرده‌اند."
     },
     {
       "VOrder": 6,
@@ -449,7 +452,8 @@
       "Text": "سپه چون سوی کوهپایه رسید",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: وقتی سپاه به پای کوه رسید، هیچ‌یک از ایرانیان را مشاهده نکرد."
     },
     {
       "VOrder": 8,
@@ -465,7 +469,8 @@
       "Text": "چو آتش برون زد ز لشکر سمند",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: زمانی که آتش از دل لشکر مانند سمند (اسب تندرو) بیرون زد، به سرعت به سوی کوه بلند حرکت کرد."
     },
     {
       "VOrder": 10,
@@ -481,7 +486,8 @@
       "Text": "بن کوه بی‌انجمن یافتند",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: در پای کوه، به تنهایی و بدون جمعیت، بسیاری از چادرهای قدیمی پیدا کردند."
     },
     {
       "VOrder": 12,
@@ -497,7 +503,8 @@
       "Text": "چنین گفت با لشکر خویش کوش",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: او به سپاهیان خود گفت که با تلاش و اراده پیش بروید، زیرا دشمن در شب فرار کرده است."
     },
     {
       "VOrder": 14,
@@ -513,7 +520,8 @@
       "Text": "نباید شدن بر پی گمرهان",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: نباید در پی گمراهان رفت، زیرا آنها را نباید در مکانی پنهان یافت."
     },
     {
       "VOrder": 16,
@@ -529,7 +537,8 @@
       "Text": "دهند این سپه را دگرباره کار",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که با وجود ناامیدی و مشکلات، هنوز امیدی وجود دارد که کارها به خوبی پیش بروند و فرمانروای دل‌ها همچنان به تلاش ادامه دهد و از چالش‌ها عبور کند."
     },
     {
       "VOrder": 18,
@@ -545,7 +554,8 @@
       "Text": "چو بر کوه زد کوش را اسب دست",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: وقتی که اسب کوش بر کوه رفت، دستش را در میان گرفت و هر یک را برای ادامه مسیر بست."
     },
     {
       "VOrder": 20,
@@ -561,7 +571,8 @@
       "Text": "ز هر سو سپاهی سوی آسمان",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: از هر سمت، سربازانی به سوی آسمان به حرکت درآمدند، مانند تیری که از کمان پرتاب می‌شود."
     },
     {
       "VOrder": 22,
@@ -577,7 +588,8 @@
       "Text": "فزون آمد، افزونتر از سی هزار",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: تعداد پیادگان که به کوه رفتند، به بیش از سی هزار نفر افزایش یافت و به همان اندازه، سواران هم بیشتر شدند."
     },
     {
       "VOrder": 24,
@@ -593,7 +605,8 @@
       "Text": "پلنگ دلاور بر آن کوهسار",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: در آن کوهستان، پلنگ شجاعی وجود نداشت که به آن اندازه دلیر و قوی باشد."
     },
     {
       "VOrder": 26,
@@ -609,7 +622,8 @@
       "Text": "از آن کوه ترسنده گشتند باز",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: از آن کوه افرادی که ترسیده بودند، بازگشتند و جمعیتی از شتر و اسب‌های با گردن‌های بلند در اطرافشان بود."
     },
     {
       "VOrder": 28,
@@ -625,7 +639,8 @@
       "Text": "دل هر کسی تیزتر شد به جنگ",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که دلش بیشتر آماده جنگ و تلاش باشد، در چشمش حتی کوه و سنگ هم کوچک و بی‌اهمیت به نظر می‌رسند."
     },
     {
       "VOrder": 30,
@@ -641,7 +656,8 @@
       "Text": "چو از کوه یک نیمه بگذاشتند",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: زمانی که گروهی از افراد از کوهی عبور کردند، صدای نعره‌ای از سپاه ایران به گوش رسید."
     },
     {
       "VOrder": 32,
@@ -657,7 +673,8 @@
       "Text": "که «پیروز و آباد باد آتبین",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: به امید پیروزی و رونق همیشگی برای کشور چین، جایی که قلب‌ها را به تپش درمی‌آورد."
     },
     {
       "VOrder": 34,
@@ -673,7 +690,8 @@
       "Text": "خروش اندر آمد به گوش یلان",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: صدای بلندی در گوش شیران طنین‌انداز شد و مانند این بود که دل افرادی که در رنج و اندوه هستند، به شدت شکسته شده است."
     },
     {
       "VOrder": 36,
@@ -689,7 +707,8 @@
       "Text": "نمود آتبین شاه نیرنگ خویش",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: آتش شگفتی و ترفندهای شاه را به نمایش گذاشت و او خود را بر کنار گذاشت، بنابراین هر کسی باید بار خود را به دوش بکشد."
     },
     {
       "VOrder": 38,
@@ -705,7 +724,8 @@
       "Text": "چو سنگ اندر آمد ز بالا به زیر",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: وقتی که سنگی از بالا به پایین بیفتد، نه کسی که دلش ضعیف است و نه کسی که شجاع است، در موقعیت خود باقی نمی‌ماند."
     },
     {
       "VOrder": 40,
@@ -721,7 +741,8 @@
       "Text": "ببارید بر چینیان مرگ، سنگ",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: بر چینیان مرگ ببارید، چرا که سنگ نه راهی برای فرار است و نه برای سازماندهی جنگ."
     },
     {
       "VOrder": 42,
@@ -737,7 +758,8 @@
       "Text": "ز هول و خروشِ روان سنگ‌ها",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: سوارانی که از ترس و هیجان به سمت سنگ‌ها می‌گریزند، تا فاصله‌های دوری فرار می‌کنند."
     },
     {
       "VOrder": 44,
@@ -753,7 +775,8 @@
       "Text": "از آن بیکران لشکر پر ز جوش",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: از آن لشکر بی‌پایان و پرشور، بیشتر از پانصد نفر باقی ماندند و تلاش کردند."
     },
     {
       "VOrder": 46,
@@ -769,7 +792,8 @@
       "Text": "نه بر کوه بر نامداری بماند",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: نه بر اوج کوه کسی که نامش شناخته شده است باقی می‌ماند و نه کسی که در دامنه کوه سوار است."
     },
     {
       "VOrder": 48,
@@ -785,7 +809,8 @@
       "Text": "چو آن مایه لشکر به خسرو رسید",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: وقتی که آن تعداد لشکر به شاه رسید، هر لحظه نگرانی جدیدی به او دست می‌داد."
     },
     {
       "VOrder": 50,
@@ -801,7 +826,8 @@
       "Text": "که از صد سوارش یکی رسته بود",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: از میان صد سوار، تنها یکی توانسته بود خود را نجات دهد، اما او هم در حقیقت خسته و ناتوان بود."
     },
     {
       "VOrder": 52,
@@ -817,7 +843,8 @@
       "Text": "همی گفت کاین سختی و بند چیست",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: این شخص می‌پرسید که آیا کسی می‌داند این سختی‌ها و محدودیت‌ها چه معنایی دارند و راز خداوند چیست؟"
     },
     {
       "VOrder": 54,
@@ -833,7 +860,8 @@
       "Text": "به جان و سر نامور شهریار",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: به جان و سر پادشاه مشهور، به خاطر حماسه سواران نیو، با افتخار و شجاعت اشاره دارد."
     },
     {
       "VOrder": 56,
@@ -849,7 +877,8 @@
       "Text": "که سالی من آنجا درنگ آورم",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: سالی را در آن مکان می‌گذرانم تا بتوانم آتش را در دست بگیرم."
     },
     {
       "VOrder": 58,
@@ -865,7 +894,8 @@
       "Text": "بخواهم از او کین فرزند خویش",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهم از او انتقام بگیرم، همانند انتقام مردان و قهرمانان گذشته خواهد بود."
     },
     {
       "VOrder": 60,
@@ -881,7 +911,8 @@
       "Text": "همی بود یک ماه در پیش کوه",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: یک ماه در پیش کوه وجود دارد که به دلیل بدی و ناپسندی در زندگی، مانند آتش به وجود می‌آید و می‌سوزد."
     },
     {
       "VOrder": 62,
@@ -897,7 +928,8 @@
       "Text": "فرود آید از تیغِ آن کوهسار",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: از بالای آن کوه، کسی با تیغ فرود می‌آید و او را در دشت و چمنزار پیدا می‌کند."
     },
     {
       "VOrder": 64,
@@ -913,7 +945,8 @@
       "Text": "یکایک برآید بدو کامِ دل",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: به تدریج هر یک از یارانش به او نزدیک می‌شوند و دل او را شاد می‌کنند، مانند گلی که از خون دوستانش روییده است."
     },
     {
       "VOrder": 66,
@@ -929,7 +962,8 @@
       "Text": "نبود آتبین را بدان هیچ رای",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: آتشین در دل کسی که در کوهستان زندگی می‌کند، هیچ فکری نمی‌تواند او را آرام کند و احساس راحتی کند."
     },
     {
       "VOrder": 68,
@@ -945,7 +979,8 @@
       "Text": "ز خیمه چنان شد سر تیغ کوه",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: از خیمه به قدری سر تیغه کوه بالا رفته بود که گویی آن جمعیت همیشه در آنجا حضور داشته‌اند."
     },
     {
       "VOrder": 70,
@@ -961,7 +996,8 @@
       "Text": "فرود آمدندی چه روز و چه شب",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: در روز و شب، عده‌ای به زمین می‌آیند و از میان کشتگان، لباس‌ها و چیزهای آن‌ها را بر می‌دارند."
     },
     {
       "VOrder": 72,
@@ -977,7 +1013,8 @@
       "Text": "برآمد بر این روزگاری نه دیر",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: در این زمان که به دنیا آمده‌ایم، دو گروه که با یکدیگر می‌جنگند، به ستوه آمده و از جنگ خسته شده‌اند."
     },
     {
       "VOrder": 74,

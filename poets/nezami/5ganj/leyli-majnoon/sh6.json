@@ -421,7 +421,8 @@
       "Text": "ای عالم جان و جان عالم",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای عالم، تو جان و روح تمام جهانی و انسان. دل آدمی و انسان را شاد کن."
     },
     {
       "VOrder": 2,
@@ -437,7 +438,8 @@
       "Text": "تاج تو ورای تاج خورشید",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: تاج تو از تاج خورشید باارزش‌تر است و مقام تو بالاتر از تخت جمشید است."
     },
     {
       "VOrder": 4,
@@ -453,7 +455,8 @@
       "Text": "آبادی عالم از تمامیت",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: بسط و رونق دنیا به هماهنگی و آزادی انسان‌ها از بندگی و وابستگی است."
     },
     {
       "VOrder": 6,
@@ -469,7 +472,8 @@
       "Text": "مولا شده جملهٔ ممالک",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: تمام کشورهای جهان به احترام وجود تو، بی‌درنگ تسلیم فرمانت شده‌اند."
     },
     {
       "VOrder": 8,
@@ -485,7 +489,8 @@
       "Text": "هم ملک جهان به تو مکرم",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: همه دنیا به تو احترام می‌گذارد و همه چیز به دست تو به راحتی و یقین انجام می‌شود."
     },
     {
       "VOrder": 10,
@@ -501,7 +506,8 @@
       "Text": "هم خطبهٔ تو طراز اسلام",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: واژه‌های شما به طرز زیبایی به هم پیوسته‌اند. подразумевается that سخنرانی تو به نوعی نماد و الگوی اسلام است و همچنین سکه‌ای که تو بر آن حک شده‌ای، نشان از مقام خلیفه و مسئولیت‌هایش دارد. به عبارتی دیگر، هم کلام تو و هم نماد مالی تو، نمادهایی از هویت و رهبری اسلامی هستند."
     },
     {
       "VOrder": 12,
@@ -517,7 +523,8 @@
       "Text": "گر خطبهٔ تو دمند بر خاک",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: اگر خطابهٔ تو بر سرزمین طلا بوسه بزند، از آن جایی که خاکی است، خاشاک (پسماند) به وجود می‌آید."
     },
     {
       "VOrder": 14,
@@ -533,7 +540,8 @@
       "Text": "ور سکه تو زنند بر سنگ",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: اگر سکه تو را بر سنگ بزنند، هیچ‌کس به طلا و نقره دست نخواهد زد."
     },
     {
       "VOrder": 16,
@@ -549,7 +557,8 @@
       "Text": "راضی شده از بزرگواریت",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: به خاطر بزرگواری‌ات، سرنوشت بر من خوشحال شده است، حتی اگر نظرم بر ستایش هم نباشد."
     },
     {
       "VOrder": 18,
@@ -565,7 +574,8 @@
       "Text": "میرآخوری تو چرخ را کار",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: تو که مسئول کارهای چرخ هستی، کاه و جو باید به انبار منتقل شود."
     },
     {
       "VOrder": 20,
@@ -581,7 +591,8 @@
       "Text": "آنچ از جو و کاه او نشان است",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که از علائم و نشانه‌های زمین به دست می‌آید، فقط بخشی از واقعیت را نشان می‌دهد. در حالی که خوشه‌ها و زیبایی‌های بزرگتر و عمیق‌تری در کیهان وجود دارند که فراتر از آن بُعد محدود هستند."
     },
     {
       "VOrder": 22,
@@ -597,7 +608,8 @@
       "Text": "بردی ز هوا لطیف خویی",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: تو زیبایی و لطافت را از نسیم خوشگوار به ارمغان آوردی و بویی خوش را از باد صبا دریافت کردی."
     },
     {
       "VOrder": 24,
@@ -613,7 +625,8 @@
       "Text": "فیض تو که چشمهٔ حیات است",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: بهشت تو منبع زندگی است و همواره به ما روزی می‌دهد. این روزی به ما اصل و بنیاد همه چیز را می‌آموزد."
     },
     {
       "VOrder": 26,
@@ -629,7 +642,8 @@
       "Text": "پالودهٔ راوق ربیعی",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: پالوده‌ای که از شیرینی و لطافت خاصی برخوردار است، به خاطر خاک پای تو به وجود آمده و به زیبایی و ارزش تو اشاره دارد."
     },
     {
       "VOrder": 28,
@@ -645,7 +659,8 @@
       "Text": "هرجا که دلی است قاف تا قاف",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: هرجا که قلبی عاشق است، از عشق و محبت به تو به شدت سخن می‌گوید و خود را از هر نوع الخدمة‌ای آزاد می‌پندارد."
     },
     {
       "VOrder": 30,
@@ -661,7 +676,8 @@
       "Text": "چون دست ظفر کلاه بخشی",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: وقتی که دستیافت‌های موفقیت مانند کلاه بر سر می‌گذارند، مانند فضل و رحمت خداوند است که خطاها و گناهان را می‌بخشد."
     },
     {
       "VOrder": 32,
@@ -677,7 +693,8 @@
       "Text": "باقی است به ملک در سیاست",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: در دنیا، همیشه در سیاست و حکمرانی، مهم است که به گذشته و آینده توجه شود؛ زیرا بقا و دوام کشور به تدبیر و مدیریت درست بستگی دارد."
     },
     {
       "VOrder": 34,
@@ -693,7 +710,8 @@
       "Text": "گر پیش روی چراغ راهی",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: اگر در جلو چراغی برای هدایت وجود داشته باشد، یا حتی اگر در پس شما پناهی باشد، دنیا به شما کمک خواهد کرد."
     },
     {
       "VOrder": 36,
@@ -709,7 +727,8 @@
       "Text": "چون مشعله پیش بین موافق",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: زمانی که مشعل در جلوی ما قرار دارد، مانند صبحی روشن و صادق است که به روشنی پیش می‌رود."
     },
     {
       "VOrder": 38,
@@ -725,7 +744,8 @@
       "Text": "دیوان عمل نشان تو داری",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: تو نشان دهنده رفتار و کردار خود هستی و بر جهان اطراف خود تأثیر می‌گذاری."
     },
     {
       "VOrder": 40,
@@ -741,7 +761,8 @@
       "Text": "آنها که در این عمل رئیسند",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: کسانی که در این کار مقام و رهبری دارند، بر خاک تو نام بنده‌ تو را نوشته‌اند."
     },
     {
       "VOrder": 42,
@@ -757,7 +778,8 @@
       "Text": "مستوفی عقل و مشرف رای",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: عقل تو را از نظر بهتری بهره‌مند کرده و در کشور تو، تو را به عنوان مدیر و راهنما قرار داده است."
     },
     {
       "VOrder": 44,
@@ -773,7 +795,8 @@
       "Text": "دولت که نشانهٔ مراد است",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: خوشبختی و نعمت، نشانه‌ی رسیدن به آرزوهاست و در مورد تو ایمان و اعتقاد محکمی وجود دارد."
     },
     {
       "VOrder": 46,
@@ -789,7 +812,8 @@
       "Text": "نصرت که عدو ازو گریزد",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: یاری و پیروزی به گونه‌ای است که دشمن از آن فرار می‌کند و از قدرت و حمایت تو ناشی می‌شود."
     },
     {
       "VOrder": 48,
@@ -805,7 +829,8 @@
       "Text": "گویی عملت که نور دیده است",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: عملت همچون نوری است که از نعمت و پیروزی به وجود آمده و تو را در روشنی و سعادتمندی قرار داده است."
     },
     {
       "VOrder": 50,
@@ -821,7 +846,8 @@
       "Text": "با هر که به حکم هم نبردی",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که با او به مبارزه نپرداختی، به اندازه هزار مرد قدرت و استقامت داری."
     },
     {
       "VOrder": 52,
@@ -837,7 +863,8 @@
       "Text": "بی‌آنکه به خون کنی برش را",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: بدون آنکه به او آسیبی برسانی، می‌توانی او را در آغوش بگیری و آرامش بدهی."
     },
     {
       "VOrder": 54,
@@ -853,7 +880,8 @@
       "Text": "وآنکس که نظر بدو رسانی",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که به او توجه و نگاه نمایید، به موفقیت و خوشبختی واقعی خواهد رسید."
     },
     {
       "VOrder": 56,
@@ -869,7 +897,8 @@
       "Text": "بر فتح نویسی آیتش را",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: اگر بر پیروزی خود تأکید کنی و نشان آن را به همگان نشان دهی، به قدرت و نفوذت افزوده می‌شود."
     },
     {
       "VOrder": 58,
@@ -885,7 +914,8 @@
       "Text": "گرچه نظر تو بر نظامی",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: هرچند نگاه تو بر نظامی خوشبخت و معروف افتاد،  \nاما او به خاطر نام بلندش شناخته شده است."
     },
     {
       "VOrder": 60,
@@ -901,7 +931,8 @@
       "Text": "او نیز که پاسبان کوی است",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: او که نگهبان کوچه و خیابان است، به خاطر تو چهره‌ای خوشبخت و شاداب دارد."
     },
     {
       "VOrder": 62,
@@ -917,7 +948,8 @@
       "Text": "مرغی که همای نام دارد",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: پرنده‌ای که نامش همای است، همچنان که فرخی دارد، تمام ویژگی‌های خوب و زیبایی را در خود دارد."
     },
     {
       "VOrder": 64,
@@ -933,7 +965,8 @@
       "Text": "این مرغ که مهر تست مایه‌ش",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: این پرنده که نماد عشق توست، از خوشحالی و شادابی‌اش نشانه‌های سعادت و خوشبختی را به همراه دارد."
     },
     {
       "VOrder": 66,
@@ -949,7 +982,8 @@
       "Text": "هر مرغ که مرغ صبحگاه است",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: هر پرنده‌ای که در صبح زود می‌خواند، نفسش شبیه دعای یک پادشاه است."
     },
     {
       "VOrder": 68,
@@ -965,7 +999,8 @@
       "Text": "با رفعت و قدر نام دارد",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: با بلندای بلند و ارزش خود، به پیروزی و موفقیت شهرت دارد و در این مقام درخشان است."
     },
     {
       "VOrder": 70,
@@ -981,7 +1016,8 @@
       "Text": "با رفعت و قدر باد جاهت",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: با عظمت و ارزشی که داری، همراه با پیروزی و موفقیت، جایگاه و مقام تو بالا می‌رود."
     },
     {
       "VOrder": 72,
@@ -997,7 +1033,8 @@
       "Text": "عالم همه ساله خرم از تو",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: هر سال جهان باید از خوشی تو بهره‌مند باشد و به دور از ناامیدی و بی‌خبری باشد. دنیا باید همیشه از وجود تو شاداب و سرزنده بماند."
     },
     {
       "VOrder": 74,
@@ -1013,7 +1050,8 @@
       "Text": "اقبال مطیع و یار بادت",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: اقبال با اراده و یار تو همراه است و موفقیت در کارهایت با تو خواهد بود."
     },
     {
       "VOrder": 76,
@@ -1029,7 +1067,8 @@
       "Text": "چشم همه دوستان گشاده",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: چشم تمام دوستان به خاطر موفقیت‌های پادشاه و ولیعهد روشن و پرامید است."
     },
     {
       "VOrder": 78,

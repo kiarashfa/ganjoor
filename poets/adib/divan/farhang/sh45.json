@@ -47,7 +47,8 @@
       "Text": "از یکی تا ده بگو آن، دو، تروا، کاتر، سنک",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "یک un، دو deux، سه trois، چهار quatre، پنج cinq؛ شش six، هفت sept، هشت huit، نُه neuf، ده dix"
     },
     {
       "VOrder": 2,
@@ -63,7 +64,8 @@
       "Text": "عشر ثانی اُنز، دوز است و تریز آنگه کاتُرز",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "یازده onze، دوازده douze، سیزده treize، چهارده quatorze؛ پانزده quinze، شانزده\u00A0seize، هفده\u00A0dix sept، هیجده dix huit، نوزده dix neuf، بیست vingt"
     },
     {
       "VOrder": 4,
@@ -93,7 +95,8 @@
       "Text": "پس ترانت است و کارانت آنگاه سنکانت آمده",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "سی trente، چهل quarante، پنجاه cinquante؛ شصت soixante، هفتاد soixante dix، هشتاد quatre vingt"
     },
     {
       "VOrder": 8,
@@ -123,7 +126,8 @@
       "Text": "کاترون دیز است و سان و میل و میلیون آنگهی",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "نود\u00A0quatre vingt dix، صد cent، هزار mil، میلیون million؛ بیلیون billion، تریلیون trillion، کاترلیون quatrillion"
     },
     {
       "VOrder": 12,

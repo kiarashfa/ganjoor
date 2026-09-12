@@ -191,7 +191,8 @@
       "Text": "رئیس دهی با پسر در رهی",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "کدخدایی و پسرش به لشکر شاه رسیدند و از میان لشکریان گذشتند."
     },
     {
       "VOrder": 2,
@@ -207,7 +208,8 @@
       "Text": "پسر چاوشان دید و تیغ و تبر",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "پسر‌، چاووش‌های لشکر را دید و شمشیرها و تبرها را و لباس‌های زیبای لشکریان و کمربندهای طلای آنها را."
     },
     {
       "VOrder": 4,
@@ -223,7 +225,8 @@
       "Text": "یلان کماندار نخجیر زن",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "همچنین پهلوانان و غلامان کماندار را"
     },
     {
       "VOrder": 6,
@@ -239,7 +242,8 @@
       "Text": "یکی در برش پرنیانی قباه",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "برخی لباس‌های پرنیان پوشیده‌بودند و برخی کلاه مُرصّع بر سر داشتند."
     },
     {
       "VOrder": 8,
@@ -255,7 +259,8 @@
       "Text": "پسر کان همه شوکت و پایه دید",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "وقتی پسر آن همه شکوه و مقام را دید؛ جاه و مقام پدرش در نظر او حقیر به‌نظر رسید"
     },
     {
       "VOrder": 10,
@@ -271,7 +276,8 @@
       "Text": "که حالش بگردید و رنگش بریخت",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "پس رنگ روی کدخدا زرد شد و از وحشت به خرابه‌ای پناه برد."
     },
     {
       "VOrder": 12,
@@ -287,7 +293,8 @@
       "Text": "پسر گفتش آخر بزرگ دهی",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "پسر به او گفت: تو کدخدا هستی تو از بزرگان ده سرتر هستی"
     },
     {
       "VOrder": 14,
@@ -303,7 +310,8 @@
       "Text": "چه بودت که ببریدی از جان امید",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "چه شد که از جان ناامید شدی؟ و از این شکوه و عظمت وحشت‌زده شدی؟"
     },
     {
       "VOrder": 16,
@@ -319,7 +327,8 @@
       "Text": "بلی، گفت سالار و فرماندهم",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "گفت: بله، بزرگ ده هستم اما بزرگ هستم تا زمانی‌که در همان ده هستم."
     },
     {
       "VOrder": 18,
@@ -335,7 +344,8 @@
       "Text": "بزرگان از آن دهشت آلوده‌اند",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "همان بزرگان وقتی که به بارگاه پادشاه می‌رسند (احساس حقارت می‌کنند) و از هیبت و شکوه وحشت‌زده می‌گردند."
     },
     {
       "VOrder": 20,
@@ -351,7 +361,8 @@
       "Text": "تو، ای بی خبر، همچنان در دهی",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "ای بی‌خبر تو بدین جهت خود را مهم می‌پنداری که هنوز در ده هستی."
     },
     {
       "VOrder": 22,
@@ -367,7 +378,8 @@
       "Text": "نگفتند حرفی زبان آوران",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "درباره هر نکته که سخن‌وران و شاعران حرفی‌زده‌اند سعدی حکایت و داستانی می‌آورد."
     },
     {
       "VOrder": 24,
@@ -383,7 +395,8 @@
       "Text": "مگر دیده باشی که در باغ و راغ",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "شاید تو نیز کرمک شب‌تاب را شب‌ها در باغ یا بیشه‌ای دیده باشی"
     },
     {
       "VOrder": 26,
@@ -399,7 +412,8 @@
       "Text": "یکی گفتش ای کرمک شب فروز",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "شخصی از آن کرمک شب‌تاب پرسید که چرا در روزها بیرون نمی‌آیی؟"
     },
     {
       "VOrder": 28,
@@ -415,7 +429,8 @@
       "Text": "ببین کآتشی کرمک خاکزاد",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "ببین آن کرمک متواضع چه پاسخ خردمندانه‌ای داد"
     },
     {
       "VOrder": 30,
@@ -431,7 +446,8 @@
       "Text": "که من روز و شب جز به صحرا نیم",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "من در شب و روز و همیشه در صحرا هستم اما در برابر خورشید دیده‌نمی‌شوم."
     },
     {
       "VOrder": 32,

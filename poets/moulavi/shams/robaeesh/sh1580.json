@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گر هیچ ترا میل سوی ماست بگو",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تمایل و رغبت تو به ماست، این را بگو، وگرنه که راه عاشقانه، راهی است که تنها باید پیموده شود."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گر هیچ مرا در دل تو جاست بگو",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در دل تو جایی برای من هست، لطفاً بگو. اگر نیست، هم بگو. مهم این است که صادقانه بگویی."
     },
     {
       "VOrder": 4,

@@ -251,7 +251,8 @@
       "Text": "کُهی بُد همان جا به دریا کنار",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: در جایی نزدیک دریا، کوهی وجود دارد که در کنار آن سناری قرار گرفته است."
     },
     {
       "VOrder": 2,
@@ -267,7 +268,8 @@
       "Text": "پر انبوه بیشه یکی کوه پیش",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در میان جنگل‌های انبوه، کوهی وجود ندارد که نیم فرسنگ عرضش باشد."
     },
     {
       "VOrder": 4,
@@ -283,7 +285,8 @@
       "Text": "چو موج فراوان فراز آمدی",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: زمانی که امواج فراوان بالا می‌آیند، تو نیز مانند کوهی به احساس حرکت و تغییر می‌رسی و سپس به حالتی جدید بازمی‌گردی."
     },
     {
       "VOrder": 6,
@@ -299,7 +302,8 @@
       "Text": "گهی راست بودی دوان پیلوار",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: گاهی مانند تند و تیز می‌دوی و گاهی مانند سوارانی که در گردش هستند، آهسته حرکت می‌کنی."
     },
     {
       "VOrder": 8,
@@ -315,7 +319,8 @@
       "Text": "گمان برد هر کس که بُد سنگ پشت",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که فکر می‌کند از درد و رنج خود رهایی یافته و به آرامش دست یافته است، در واقع به اندازه‌ای از مشکلات و چالش‌ها فاصله نگرفته که احساس کند به‌کلی از آن‌ها جدا شده است."
     },
     {
       "VOrder": 10,
@@ -331,7 +336,8 @@
       "Text": "سپهبد ز ملاح پرسش گرفت",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: سپهبد از ملاح (کسی که دریا را می‌شناسد) پرسید که از این کوهستان عجیب چه می‌دانی."
     },
     {
       "VOrder": 12,
@@ -347,7 +353,8 @@
       "Text": "چنین گفت ملاح دانش پژوه",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: ملوان دانشمند گفت که از این طرف دریا که ما هستیم، در طرف دیگر آن کوه وجود دارد."
     },
     {
       "VOrder": 14,
@@ -363,7 +370,8 @@
       "Text": "جزیریست بر دامن زنگبار",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: جزیره‌ای در دامن زنگبار وجود دارد که شهری پرجمعیت و با استحکام در آن قرار دارد."
     },
     {
       "VOrder": 16,
@@ -379,7 +387,8 @@
       "Text": "همه سنگ و خارست آن بوم و مرز",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: آن سرزمین و مرز، پر از سنگ و خار است و کاملاً از محصولات زراعی و میوه خالی است."
     },
     {
       "VOrder": 18,
@@ -395,7 +404,8 @@
       "Text": "به یک روزه راهش جزیریست نیز",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: در یک روز راه، جزیره‌ای وجود دارد که سرشار از میوه‌ها، محصولات زراعی و انواع مختلف چیزهاست."
     },
     {
       "VOrder": 20,
@@ -411,7 +421,8 @@
       "Text": "چو آید بهار خوش و دلگشای",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: زمانی که بهار زیبا و دلپذیر فرا می‌رسد، جزیره به شوق و شادی از جا می‌جوشد و جنب و جوش می‌کند."
     },
     {
       "VOrder": 22,
@@ -427,7 +438,8 @@
       "Text": "به کردار کشتی ز راه دراز",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: مثل کشتی که بعد از طی مسیر طولانی به شهر می‌رسد و از آن بالاتر می‌آید."
     },
     {
       "VOrder": 24,
@@ -443,7 +455,8 @@
       "Text": "همه شهر بیرون پذیره شوند",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: تمام مردم شهر به شوق و شادی به سوی آن جزیره حرکت می‌کنند."
     },
     {
       "VOrder": 26,
@@ -459,7 +472,8 @@
       "Text": "ز نخچیر وز هیزم و خوردنی",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: از شکار و چوب و غذا آنچه لازم است را برمی‌دارند."
     },
     {
       "VOrder": 28,
@@ -475,7 +489,8 @@
       "Text": "چو سازند یکساله را کار پیش",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: وقتی که یک ساله را به کار می‌گیرند، جزیره‌ای به سراغش می‌آید که او را به مکان خود برمی‌گرداند."
     },
     {
       "VOrder": 30,
@@ -491,7 +506,8 @@
       "Text": "نه رنج و نه پیشه نشسته بجای",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: نه درد و سختی و نه کار و حرفه‌ای وجود دارد که جای همه چیز را بگیرد؛ هر چه نیاز دارند، خداوند به آن‌ها می‌دهد."
     },
     {
       "VOrder": 32,
@@ -507,7 +523,8 @@
       "Text": "چنین گفت گرشاسب با رهنمون",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: گرشاسب به راهنمای خود گفت که روزهایی که نوشته شده‌اند، هرگز زیاد نمی‌شوند."
     },
     {
       "VOrder": 34,
@@ -523,7 +540,8 @@
       "Text": "از آن بخش کایزد بکردست پیش",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: به آن بخش که خداوند در پیش‌آورده است، نه از مشقت روزی کاسته می‌شود و نه بر آن افزوده می‌گردد."
     },
     {
       "VOrder": 36,
@@ -539,7 +557,8 @@
       "Text": "دد و مرغ و نخچیر چندین هزار",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: به جانوران وحشی، پرندگان و شکارچی‌ها چندین هزار نگاه کن، زیرا وقتی که روز شود، همه چیز آشکار خواهد شد."
     },
     {
       "VOrder": 38,
@@ -555,7 +574,8 @@
       "Text": "شوند از برون گرسنه با نیاز",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: وقتی شب فرامی‌رسد، کسانی که از بیرون با گرسنگی و نیاز به خانه آمده‌اند، دوباره سیر و شکم‌پر می‌شوند."
     },
     {
       "VOrder": 40,
@@ -571,7 +591,8 @@
       "Text": "نه مر طمع را هستشان پیشه ای",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: آنها نه به دنبال طمع هستند و نه در فکر چیز دیگری جز خوردن و تأمین نیازهای اولیه خود."
     },
     {
       "VOrder": 42,
@@ -587,7 +608,8 @@
       "Text": "بگشتند دریا همه سر به سر",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: دریا به حالت همه‌جانبه‌ای برگشته و همه چیز را مشاهده کردند و از دیدن این همه شگفتی شگفت‌زده شدند."
     },
     {
       "VOrder": 44,

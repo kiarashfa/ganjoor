@@ -431,7 +431,8 @@
       "Text": "به چارم روز موعود یوسف خور",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: در روز موعود، یوسف خورشید از افق نیل به آسمان تابید و سر بلند کرد."
     },
     {
       "VOrder": 2,
@@ -447,7 +448,8 @@
       "Text": "به یوسف گفت مالک کای دلارای",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: مالک به یوسف می‌گوید که تو همچون گلی زیبا و دلبر هستی که در کنار رود نیل قرار گرفته‌ای."
     },
     {
       "VOrder": 4,
@@ -463,7 +465,8 @@
       "Text": "ز خود کن گرد ره را شست و شویی",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: از خودت پاکی و صفا را به وجود آور و گرد و غبار را از روی راه بردار تا به نیل آبرو و زیبایی بدهی."
     },
     {
       "VOrder": 6,
@@ -479,7 +482,8 @@
       "Text": "به حکم مالک آن خورشید تابان",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: با فرمان صاحب آن خورشید درخشان، به سرعت به سوی نیل حرکت کرد."
     },
     {
       "VOrder": 8,
@@ -495,7 +499,8 @@
       "Text": "به زیر پیرهن برد از برون دست",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: دست سمن را به زیر پیرهن برد و پرده‌ای نیلوفری به دورش پیچید."
     },
     {
       "VOrder": 10,
@@ -511,7 +516,8 @@
       "Text": "کلاه زرفشان از فرق بنهاد",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: کلاه سفیدی بر سر دارند که از طلا تهیه شده و بر روی آن هم تخم طلا نصب شده است. زاغی که در شب به دنیا آمده، درخشش و زیبایی خاصی دارد."
     },
     {
       "VOrder": 12,
@@ -527,7 +533,8 @@
       "Text": "کشید آنگه چنان پیراهن از فرق",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: در اینجا سخن از کسی است که لباسش را از سر خود کشید و به طوری که قسمت بالا به سمت غرب و قسمت پایین به سمت شرق قرار گرفت. به عبارتی، این تصویر نشان‌دهنده یک حرکت یا تغییر چشمگیر است که به دو سو اشاره دارد."
     },
     {
       "VOrder": 14,
@@ -543,7 +550,8 @@
       "Text": "نمود آن دوش و بر از عطف دامن",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در آن شب، زیبایی و جلوه آنچنان بود که از دور آسمان صبحگاهی را روشن به نظر می‌رسید."
     },
     {
       "VOrder": 16,
@@ -559,7 +567,8 @@
       "Text": "ازار نیلگون بسته به تعجیل",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: لباس آبی رنگی به سرعت بسته شده، مانند اینکه زیبایی نقره‌ای بر لب نیل ظاهر شده است."
     },
     {
       "VOrder": 18,
@@ -575,7 +584,8 @@
       "Text": "ز چرخ نیلگون برخاست فریاد",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: از آسمان آبی فریادی بلند شد که آن ماه زیبا با قدم‌های خود، نیل را زنده کرد."
     },
     {
       "VOrder": 20,
@@ -591,7 +601,8 @@
       "Text": "به جای نیل من بودی چه بودی",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: اگر به جای نهر نیل تو وجود داشتی، چه حالتی داشتی؟ من با بوسیدن پای تو آرامش می‌یافتم، ولی آن حال چه بود؟"
     },
     {
       "VOrder": 22,
@@ -607,7 +618,8 @@
       "Text": "بر آن شد خور که خود را افکند پیش",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: خورشید تصمیم گرفت که خود را به سوی نیل بیفکند و همچون چشمه‌ای، نور و روشنی خود را در آن بپاشد."
     },
     {
       "VOrder": 24,
@@ -623,7 +635,8 @@
       "Text": "نبیند چشمه خود چون سزایش",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: چشمش نمی‌بیند که چگونه به اندازه‌ی خود شایستگی دارد، مانند نیل که دست و پایش را می‌شوید."
     },
     {
       "VOrder": 26,
@@ -639,7 +652,8 @@
       "Text": "به دریا پا نهاد از سوی ساحل",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: او از سوی ساحل به دریا قدم گذاشت و مانند ماهی که در آسمان آبی منزل می‌سازد، در آنجا سکونت کرد."
     },
     {
       "VOrder": 28,
@@ -655,7 +669,8 @@
       "Text": "به طلعت بود خورشید جهانتاب",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: درخشش و زیبایی تو مانند خورشید درخشان است، همچون گل نیلوفر که درون آب نشسته و جلوه‌گری می‌کند."
     },
     {
       "VOrder": 30,
@@ -671,7 +686,8 @@
       "Text": "تنش در آب چون عریان درآمد",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: وقتی که بدنش در آب به حالت عریانی درآمد، روح و جان آب زنده و جاری به او منتقل شد."
     },
     {
       "VOrder": 32,
@@ -687,7 +703,8 @@
       "Text": "گشاد از هم مسلسل گیسوان را",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: موهای گیسوان را به ردیفی آزاد و باز گشوده است و آب روان را به زنجیر کشیده و به هم بسته است."
     },
     {
       "VOrder": 34,
@@ -703,7 +720,8 @@
       "Text": "مهیا ساخت بهر صید خواهی",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: برای شکار و صید، دام معناداری از مه تا ماهی آماده کرده است."
     },
     {
       "VOrder": 36,
@@ -719,7 +737,8 @@
       "Text": "گهی می ریخت آب از دست بر سر",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: گاهی آب از دست می‌ریخت و بر سر می‌پاشید و ماه را مانند پروین زیور می‌بست."
     },
     {
       "VOrder": 38,
@@ -735,7 +754,8 @@
       "Text": "گهی می داد از کف مالش گل",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: گاه می‌زد که از دست او، گلی با زیبایی می‌روئید و او با شانه‌ای که در دست داشت، به ساقه‌های سنبل می‌رسید."
     },
     {
       "VOrder": 40,
@@ -751,7 +771,8 @@
       "Text": "چو گرد از روی و چرک از تن فرو شست",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: زمانی که گرد و خاک از چهره پاک شود و چرک از بدن برطرف گردد، انسان مانند درختی سرسبز و زیبا از کنار رود نیل بلند می‌شود."
     },
     {
       "VOrder": 42,
@@ -767,7 +788,8 @@
       "Text": "ز مفرش دار مالک پیرهن خواست",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: از فرش دار، مالک پیراهنی خواست و گل سمن را در پوشش زیبایی تزیین کرد."
     },
     {
       "VOrder": 44,
@@ -783,7 +805,8 @@
       "Text": "کشید آنگه به بر دیبای زرکش",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: سپس او با دیبای زربافت و پر نقش و نگار به سینه‌اش، زیبایی‌های بسیاری را به نمایش گذاشت."
     },
     {
       "VOrder": 46,
@@ -799,7 +822,8 @@
       "Text": "به زرین تاج مه را قدر بشکست",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: ماه به زیبایی و شکوهی دست یافته که همچون تاجی زرین بر سر دارد، و کمربند مزین و زینتی را به دور کمرش بسته است."
     },
     {
       "VOrder": 48,
@@ -815,7 +839,8 @@
       "Text": "فرو آویخت زلفین دلاویز",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: موهای زیبا و دل‌انگیز او به شکلی آویزان شده که حال و هوای مصر را تداعی می‌کند و از آن عطر خوشی به مشام می‌رسد."
     },
     {
       "VOrder": 50,
@@ -831,7 +856,8 @@
       "Text": "بدان خوبیش در هودج نشاندند",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: او را با خوبی و احترام در هودجی نشاندند و با هدف رفتن به قصر شاه، بر اسبی سوار کردند."
     },
     {
       "VOrder": 52,
@@ -847,7 +873,8 @@
       "Text": "نمود از قصر بیرون تختگاهی",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: از قصر بیرون آمدی و تختی را که شاه بر روی آن لباس خود را می‌کشید، به وضوح دیدم."
     },
     {
       "VOrder": 54,
@@ -863,7 +890,8 @@
       "Text": "به پیشش خیل خوبان صف کشیده",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: در مقابل او، جمعی از بهترین‌ها صف بسته‌اند و منتظر دیدار یوسف هستند."
     },
     {
       "VOrder": 56,
@@ -879,7 +907,8 @@
       "Text": "فراز تخت هودج را نهادند",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: بر بالاترین نقطه‌ی هودج، جهانی را قرار دادند و مردم چشم به آن هودج دوختند."
     },
     {
       "VOrder": 58,
@@ -895,7 +924,8 @@
       "Text": "قضا را بود ز ابر تیره آن روز",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: آن روز، آفتاب روشن، همچون قضا و مقدر، در ابرهای تیره پنهان بود."
     },
     {
       "VOrder": 60,
@@ -911,7 +941,8 @@
       "Text": "به یوسف گفت مالک کای دلارام",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: مالک به یوسف می‌گوید که ای دلبر زیبا، باید از هودج (چادر یا وسیله حمل) به سمت تخت‌گاه (محل نشستن و قدرت) بروی."
     },
     {
       "VOrder": 62,
@@ -927,7 +958,8 @@
       "Text": "تو خورشیدی ز عارض پرده بگشای",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: تو همچون خورشیدی، از پس پرده‌ها بیرون بیا و با نور خود، جهان را زیبا کن."
     },
     {
       "VOrder": 64,
@@ -943,7 +975,8 @@
       "Text": "چو یوسف برج هودج را بپرداخت",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: وقتی یوسف سوار بر کالسکه شد، مانند خورشید بر دیدگان مردم تابید و روشنایی افشاند."
     },
     {
       "VOrder": 66,
@@ -959,7 +992,8 @@
       "Text": "گمان شد ناظران را کافتاب است",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: نگرندگان فکر کردند که خورشید در حال طلوع است، اما در واقع این نور ناشی از بارانی است که از ابرهای آبی به زمین می‌ریزد."
     },
     {
       "VOrder": 68,
@@ -975,7 +1009,8 @@
       "Text": "نظر کردند در مهر جهانتاب",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: نگاهی به زیبایی و درخشش خورشید انداختند و فهمیدند که این نور و تابش از آن او نیست."
     },
     {
       "VOrder": 70,
@@ -991,7 +1026,8 @@
       "Text": "هنوز او در پس ابر است مستور",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: او هنوز در پس ابر پنهان است و نورش مانند تابش یوسف نمایان نمی‌شود."
     },
     {
       "VOrder": 72,
@@ -1007,7 +1043,8 @@
       "Text": "ز حیرت کف زنان اهل نظاره",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: از شدت شگفتی، تماشاگران با دست‌های خود ضربه می‌زنند و از هر سو فریاد برمی‌دارند."
     },
     {
       "VOrder": 74,
@@ -1023,7 +1060,8 @@
       "Text": "که یا رب کیست این فرخنده اختر",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: خداوندا، این ستاره‌ی خوشبخت کیست که هم ماه از او خجلت‌زده است و هم خورشید؟"
     },
     {
       "VOrder": 76,
@@ -1039,7 +1077,8 @@
       "Text": "بتان مصر سر در پیش ماندند",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: بت‌های مصری با سر فرود آمده در مقابل او ایستادند و از لوح او نوشته‌های خود را به فراموشی سپردند."
     },
     {
       "VOrder": 78,
@@ -1055,7 +1094,8 @@
       "Text": "بلی هر جا شود مهر آشکارا",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: در هر جایی که عشق و محبت به وضوح نمایان شود، سها (ستاره) دیگر نمی‌تواند فقط در خفا باشد و باید آشکار شود."
     },
     {
       "VOrder": 80,

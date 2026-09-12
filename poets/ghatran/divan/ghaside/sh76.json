@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "رخ چو لاله شکفته بر گل سور",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "چهره‌ات مانند غنچه تازه دمیده‌ای است از گل سرخ و موهایت سیاه همچون ابر در شب تاریک."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "یابد از رنگ آن‌، بهار بها",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "بهار‌، زیبایی‌اش را از آن دارد (از رخ تو) و عود معطر، بوی خوشش را از این (موی تو)"
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "ویل کرده بر غم رنج مرا",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "مرا دردمند کرده است زیبایی ساج بر عاج و مشک بر کافور. (سیاهی موی بر سپیدی رخ)"
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "زان میان‌ِ چون میان‌ِ زنبورش",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "از آن کمر باریک که به‌شکل کمر زنبور است همچون صدای زیر تنبور در زاری هستم."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "تنگدل زان دهان چون سفته",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "غصه‌دار آن لبان هستم که مثل برگ گل لاله‌ای است که توسط نیش زنبور سوراخ شده است."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "شیره بارد همیشه دیده من",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "چشم من همیشه پر از اشک است از حسرت آن دو خوشه انگور."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "می هجرانش می خورم هر شب",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر شب به یاد جدایی‌اش مشغول می‌شوم و در طول روز به خاطر نگاهش سرمست و شگفت‌زده هستم."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "دهنش پر ز لؤلؤ منظوم",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دهانش پر از مروارید است و سخنانش مانند مرواریدهایی ریز و پراکنده زیبا و دلنشین است."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "لیک با من سخن نگوید هیچ",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "با من سخن نمی‌گوید حتی اگر هزار سخن زیبا برای او بگویم."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "تن و جانم ز چشم او پیچان",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بدن و جانم تحت تأثیر نگاه او در تلاطم‌اند و دلم از موهای او رنج می‌کشد."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "همچو از تیغ تیز میر اجل",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مرگ به مانند تیغ تیزی است که بر سر خان‌ها، پادشاهان و فرمانروایان سایه انداخته و همه را تحت تاثیر قرار می‌دهد."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "تاج میران و مهتران جهان",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این شعر به تشکر و ستایش از کسی اشاره دارد که به عنوان سرور و رئیس در میان فرمانروایان و بزرگان شناخته می‌شود. نام او به عنوان الگوی عظمت و مقام در جهان مطرح شده است."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "کین و جنگس دلیل ماتم و غم",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جنگ و خونریزی باعث اندوه و ماتم است، در حالی که عشق و صلح نشانه شادی و خوشحالی هستند."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "نشود هیچ عیب از او پیدا",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ عیبی از او مشخص نمی‌شود و هیچ رازی از او پنهان نیست."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "خیل ابخازیان از او مقتول",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گروه زیادی از مردم ابخاز به دست او کشته شده‌اند و قبیله قاوردیان به خاطر او تحت تسلط و شکست قرار گرفته‌اند."
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "نکشد بار تیر او باره",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تیر عشق او آن‌قدر سنگین و کشنده است که هیچ بار و باری نمی‌تواند از آن رهایی یابد و حتی با زخم‌هایش هم کسی سودی نمی‌برد."
     },
     {
       "VOrder": 32,
@@ -255,7 +271,8 @@
       "Position": "Right",
       "Text": "تیغش از لشگر و سران سپاه",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تیغ او از لشکر و فرماندهان قوی‌تر است و گرگان و کرکسان را به ترس و تنگنای سختی می‌اندازد."
     },
     {
       "VOrder": 34,
@@ -269,7 +286,8 @@
       "Position": "Right",
       "Text": "گرچه از چه کشید بیژن را",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچند رستم بیژن را از دست دختر تور نجات داد، اما او نیز رنج‌ها و سختی‌های خاص خود را تحمل کرد."
     },
     {
       "VOrder": 36,
@@ -283,7 +301,8 @@
       "Position": "Right",
       "Text": "در همه کارها که رستم کرد",
       "CoupletIndex": 18,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در تمام کارهایی که رستم انجام داد، هیچ کس توانایی مقابله با او را نداشت."
     },
     {
       "VOrder": 38,
@@ -297,7 +316,8 @@
       "Position": "Right",
       "Text": "او بشمشیر میر فضلون را",
       "CoupletIndex": 19,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او شمشیر میرفضلون را از دست کافران ستمگر گرفت."
     },
     {
       "VOrder": 40,
@@ -311,7 +331,8 @@
       "Position": "Right",
       "Text": "کافرانی دلیر چون رستم",
       "CoupletIndex": 20,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کافرانی شجاع مانند رستم و حاکمانی سختگیر مانند فرسیا هستند."
     },
     {
       "VOrder": 42,
@@ -325,7 +346,8 @@
       "Position": "Right",
       "Text": "پس از این هیچ نامه ای بجهان",
       "CoupletIndex": 21,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پس از این دیگر هیچ نامه‌ای در جهان وجود نخواهد داشت جز این که با نام او آغاز شود."
     },
     {
       "VOrder": 44,
@@ -339,7 +361,8 @@
       "Position": "Right",
       "Text": "تخت شاهی از او شده روشن",
       "CoupletIndex": 22,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تخت پادشاهی به خاطر او درخشان و روشن شده است، درست مثل نوری که از خداوند ناشی می‌شود."
     },
     {
       "VOrder": 46,
@@ -353,7 +376,8 @@
       "Position": "Right",
       "Text": "هرکه یک سطر مدح او بنوشت",
       "CoupletIndex": 23,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرکس یک جمله در ستایش او بنویسد، دیگر زحمت آسیب و قساوت را نخواهد کشید."
     },
     {
       "VOrder": 48,
@@ -367,7 +391,8 @@
       "Position": "Right",
       "Text": "کشتگان نیاز و سختی را",
       "CoupletIndex": 24,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسانی که در جستجوی کمک و در شرایط دشوار قرار دارند، همچون افرادی هستند که با نفس حق‌طلبی و بخشندگی او جان تازه‌ای می‌گیرند."
     },
     {
       "VOrder": 50,
@@ -381,7 +406,8 @@
       "Position": "Right",
       "Text": "ای امیری که مر تو را هستند",
       "CoupletIndex": 25,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای امیر، که همه فرمانروایان و سرکشان زیر دست تو هستند و به تو وابسته‌اند."
     },
     {
       "VOrder": 52,
@@ -395,7 +421,8 @@
       "Position": "Right",
       "Text": "هر سرابی ز تو شود دریا",
       "CoupletIndex": 26,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که از تو نشأت بگیرد، مانند سراب به دریا تبدیل می‌شود و هر ویرانی که به تو مربوط باشد، به آبادانی بدل خواهد شد."
     },
     {
       "VOrder": 54,
@@ -409,7 +436,8 @@
       "Position": "Right",
       "Text": "آن کسی کایزدش کند یاری",
       "CoupletIndex": 27,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که خداوند به او کمک کند و شخصی با درک و دانایی باشد، به عنوان رهبر و راهنما شناخته می‌شود."
     },
     {
       "VOrder": 56,
@@ -423,7 +451,8 @@
       "Position": "Right",
       "Text": "بر سپاه مخالفان همه سال",
       "CoupletIndex": 28,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو هر سال مانند مظفر و منصور به جنگ با مخالفان بروی، حتماً در میدان جنگ پیروز خواهی شد."
     },
     {
       "VOrder": 58,
@@ -437,7 +466,8 @@
       "Position": "Right",
       "Text": "بر زمین نام تو بمردی وجود",
       "CoupletIndex": 29,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بر زمین، نام تو تا ابد باقی خواهد ماند، همان‌گونه که ماه در آسمان شناخته شده و مشهور است."
     },
     {
       "VOrder": 60,
@@ -451,7 +481,8 @@
       "Position": "Right",
       "Text": "جود و مردی ز تو عجب نبود",
       "CoupletIndex": 30,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نیکویی و بزرگواری تو چیز عجیبی نیست، مثل اینکه از مشک بویی به مشام برسد و از ماه نوری بتابد."
     },
     {
       "VOrder": 62,
@@ -465,7 +496,8 @@
       "Position": "Right",
       "Text": "تو بخواهنده شادتر باشی",
       "CoupletIndex": 31,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو بخواهی خوشحال‌تر باشی، عشق تو باید از محبوبی که در دوری است، دوری کند."
     },
     {
       "VOrder": 64,
@@ -479,7 +511,8 @@
       "Position": "Right",
       "Text": "ناصبوری بگاه دادن خیر",
       "CoupletIndex": 32,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در زمان نبرد، انحطاط و بی‌تابی نکن، چرا که باید در حین کارزار صبر و تحمل داشته باشی."
     },
     {
       "VOrder": 66,
@@ -493,7 +526,8 @@
       "Position": "Right",
       "Text": "هست چون نام تو بمردی وجود",
       "CoupletIndex": 33,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نام تو همچون ستاره‌ها در آسمان می‌درخشد و وجود تو را به زندگی می‌بخشد."
     },
     {
       "VOrder": 68,
@@ -507,7 +541,8 @@
       "Position": "Right",
       "Text": "مردی و رادی از تو هست پدید",
       "CoupletIndex": 34,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مردی وجود دارد که از تو بیزار است و از تو حس نفرت و زشتی در دلش وجود دارد."
     },
     {
       "VOrder": 70,
@@ -521,7 +556,8 @@
       "Position": "Right",
       "Text": "هرچه یابی همه ببخشی پاک",
       "CoupletIndex": 35,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچه به دست آوری، همه را ببخش و فریب دنیا را نخور. زندگی و دنیا فریبی بیش نیست."
     },
     {
       "VOrder": 72,
@@ -535,7 +571,8 @@
       "Position": "Right",
       "Text": "در دیاری بود که حرب کنی",
       "CoupletIndex": 36,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در یک سرزمین، چیزی وجود داشت که در آن جنگ همیشه ادامه داشت و مردم همواره در حال مبارزه و تلاش بودند."
     },
     {
       "VOrder": 74,
@@ -549,7 +586,8 @@
       "Position": "Right",
       "Text": "بر زمینی شود که سازی بزم",
       "CoupletIndex": 37,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به زمینی می‌رسد که سنگ آن مانند طلا و خاکش مانند کافور سفید و خوشبو است."
     },
     {
       "VOrder": 76,
@@ -563,7 +601,8 @@
       "Position": "Right",
       "Text": "ای بهنگام بزم چون بهرام",
       "CoupletIndex": 38,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو در زمان جشن و شادی مانند بهرام استی و در زمان جنگ و نبرد مانند شاپور."
     },
     {
       "VOrder": 78,
@@ -577,7 +616,8 @@
       "Position": "Right",
       "Text": "دوری آن جوید از برت که بود",
       "CoupletIndex": 39,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که از تو دوری می‌کند، در واقع به دنبال نجات خود از دست مشکلات و خطراتی است که او را تهدید می‌کند. این فرد به نوعی تحت کنترل و تأثیر نیروهای منفی قرار دارد و می‌خواهد از آن‌ها فاصله بگیرد."
     },
     {
       "VOrder": 80,
@@ -591,7 +631,8 @@
       "Position": "Right",
       "Text": "همه شادیست بهره جان ترا",
       "CoupletIndex": 40,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تمام شور و شادی در زندگی توست؛ پس از جانب خداوند بخشنده، روح تو را شاد نگه‌دار."
     },
     {
       "VOrder": 82,
@@ -605,7 +646,8 @@
       "Position": "Right",
       "Text": "همچو منشور دادیش بدهی",
       "CoupletIndex": 41,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر همچون منشوری که به تو داده‌اند، زندگی کنی و رفتار کنی، جهان نیز به تو پاسخ خواهد داد و همه چیز را به تو خواهد بخشید."
     },
     {
       "VOrder": 84,
@@ -619,7 +661,8 @@
       "Position": "Right",
       "Text": "شکر این بنده از تو نیست عجب",
       "CoupletIndex": 42,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بند به این معناست که سپاسگزاری این بنده از تو نیست، بنابراین تعجبی ندارد که تمام دنیا شکرگزار توست. این بیان می‌کند که شکر و سپاس از خداوند طبیعی و قابل درک است."
     },
     {
       "VOrder": 86,
@@ -633,7 +676,8 @@
       "Position": "Right",
       "Text": "گر نیاید همی بخدمت تو",
       "CoupletIndex": 43,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر او نتواند به خدمت تو بیاید، او را به خاطر انسان بودنش عذر بگذار."
     },
     {
       "VOrder": 88,
@@ -647,7 +691,8 @@
       "Position": "Right",
       "Text": "که چنانست پایش از نقرس",
       "CoupletIndex": 44,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پای او به گونه ای است که به بیماری نقرس مبتلا شده و مانند گورها، دچار تغییر و تیرگی شده است."
     },
     {
       "VOrder": 90,
@@ -661,7 +706,8 @@
       "Position": "Right",
       "Text": "تا بود زاری از نمودن دیو",
       "CoupletIndex": 45,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرگاه در زندگی، از حضور شیاطین و مشکلات می‌نالیم، شادی و خوشحالی نیز از شنیدن خوبی‌ها و زیبایی‌ها به وجود می‌آید."
     },
     {
       "VOrder": 92,
@@ -675,7 +721,8 @@
       "Position": "Right",
       "Text": "باد زاری ز دوستان تو فرد",
       "CoupletIndex": 46,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دوستانت در غم و اندوه به سر ببرند، این نشان‌دهنده حال ناخوشایند آنهاست، اما اگر دشمنانت شاد و خوشحال باشند، بهتری این است که از آنها دوری کنی."
     },
     {
       "VOrder": 94,

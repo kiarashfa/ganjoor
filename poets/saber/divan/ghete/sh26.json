@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "هیچ نعمت چو زندگانی نیست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ نعمتی نمی‌تواند به اندازه زندگی شیرین باشد، چرا که خوشی در نزد هر کسی که در آنجا سکونت دارد، معنای خاصی پیدا می‌کند."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "منم آن کس که زندگانی من",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من همان فردی هستم که زندگی‌ام بدون تو از روز مرگ نیز تلخ‌تر و ناگوارتر است."
     },
     {
       "VOrder": 4,

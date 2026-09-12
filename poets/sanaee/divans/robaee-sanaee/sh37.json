@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "روز از طلبت پردهٔ بیکاری ماست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روزها به خاطر خواست تو، ما در تنهایی می‌مانیم و شب‌ها به خاطر اندوه تو، ما در حال بیداری و فکر به تو هستیم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "هجران تو پیرایهٔ غمخواری ماست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فراق تو زینتِ غم‌خواری ماست و عشق تو منبعِ آگاهی ماست."
     },
     {
       "VOrder": 4,

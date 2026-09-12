@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "اگر پسری بودت به برنایی به دبیرستان ده‌، چه دبیری چشم‌روشی است‌.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر پسری بودی و به دبیرستان می‌رفتی، چه دبیری برایتان جالب و جذاب بود؟"
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "چو داری پسر ده به فرهنگیان",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر پسری داری، او را به آموزش معلمان بسپار و در میان دانش‌آموزان به او علم و دانشی را بیاموز."
     },
     {
       "VOrder": 3,
@@ -46,7 +48,8 @@
       "Position": "Right",
       "Text": "دبیری ورا دیده روشن کند",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نوشتن و بیان او، روشنی‌بخش دیده‌هاست و دلش را شاداب کرده، مانند گلی در باغ می‌ماند."
     },
     {
       "VOrder": 5,

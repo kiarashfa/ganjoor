@@ -151,7 +151,8 @@
       "Text": "سکندر چو بر تخت بنشست گفت",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "وقتی اسکندر بر تخت پادشاهی نشست، گفت: آرزو می‌کنم که روح و جان پادشاهان همواره با خرد و اندیشه همراه باشد."
     },
     {
       "VOrder": 2,
@@ -167,7 +168,8 @@
       "Text": "که پیروزگر در جهان ایزدست",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "زیرا تنها خداوند در جهان پیروز و قادر مطلق است، و پادشاهی که از خدا نترسد، انسان بدکار و ستمگری است."
     },
     {
       "VOrder": 4,
@@ -183,7 +185,8 @@
       "Text": "بد و نیک هم بگذرد بی‌گمان",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "بی‌شک روزگارِ خوب و بد هر دو می‌گذرد و هیچ‌کس نمی‌تواند از چنگال زمانه و سرنوشت (مرگ) فرار کند."
     },
     {
       "VOrder": 6,
@@ -199,7 +202,8 @@
       "Text": "هرانکس که آید بدین بارگاه",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هر کسی که به این دربار بیاید و بخواهد از دستِ خود ما، به ما شکایت کند و حقش را بخواهد..."
     },
     {
       "VOrder": 8,
@@ -215,7 +219,8 @@
       "Text": "اگر گاه بار آید ار نیم‌شب",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "فرقی نمی‌کند زمانِ ملاقاتِ عمومی (بارعام) بیاید یا در نیمه‌شب؛ به محض اینکه لب به سخن باز کند، به شکایتش رسیدگی می‌شود."
     },
     {
       "VOrder": 10,
@@ -231,7 +236,8 @@
       "Text": "چو پیروزگر فرهی دادمان",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "از آنجا که خداوندِ پیروز، به ما شکوه و بزرگی بخشیده و درهای بختِ نیک و پیروزی را به روی ما باز کرده است..."
     },
     {
       "VOrder": 12,
@@ -247,7 +253,8 @@
       "Text": "همه زیردستان بیابند بهر",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "باید تمام زیردستان و مردم ما، در هر کجا که هستند (کوه، بیابان، دریا یا شهر)، از این نعمت و قدرت سهمی ببرند و در آسایش باشند."
     },
     {
       "VOrder": 14,
@@ -263,7 +270,8 @@
       "Text": "نخواهیم باژ از جهان پنج سال",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "به مدت پنج سال از هیچ‌کس در جهان خراج و مالیات نمی‌گیریم، مگر از کسی که ادعای برابری و هم‌ترازی با ما را داشته باشد (و بخواهد سرکشی کند)."
     },
     {
       "VOrder": 16,
@@ -279,7 +287,8 @@
       "Text": "به درویش بخشیم بسیار چیز",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "به نیازمندان و فقیران اموال بسیاری می‌بخشیم و از ثروتمندان نیز چیزی طلب نخواهیم کرد."
     },
     {
       "VOrder": 18,
@@ -295,7 +304,8 @@
       "Text": "چو اسکندر این نیکویها بگفت",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "وقتی اسکندر این سخنانِ نیکو را بیان کرد، دلِ پادشاه با عدل و دادگری پیوند خورد (و نیت او بر اجرای عدالت استوار شد)."
     },
     {
       "VOrder": 20,
@@ -311,7 +321,8 @@
       "Text": "ز ایوان برآمد یکی آفرین",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "از سراسر کاخ، صدای تشویق و برای آن پادشاهِ عادلِ زمین بلند شد."
     },
     {
       "VOrder": 22,
@@ -327,7 +338,8 @@
       "Text": "ازان پس پراگنده شد انجمن",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "پس از آن، مجلس به پایان رسید و حاضران پراکنده شدند، و پادشاه (اسکندر) با مشاوران و خردمندان خود به خلوت و گفت‌وگو نشست."
     },
     {
       "VOrder": 24,

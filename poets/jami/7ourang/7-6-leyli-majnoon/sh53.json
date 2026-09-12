@@ -541,7 +541,8 @@
       "Text": "فهرست نویس این جریده",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "نویسنده این دفتر، در سرانجام داستان چنین آورده است."
     },
     {
       "VOrder": 2,
@@ -557,7 +558,8 @@
       "Text": "کان اعرابی حریف موزون",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "آن اعربی، که دوست خوبی بود، پس از دفن مجنون،"
     },
     {
       "VOrder": 4,
@@ -573,7 +575,8 @@
       "Text": "بر آهویی تک جمازه بنشست",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "بر شتری تیز رو نشست و آهنگ یار او [لیلی] کرد."
     },
     {
       "VOrder": 6,
@@ -589,7 +592,8 @@
       "Text": "می‌شد دل و جان درد پرورد",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "\u00A0تا آنکه با دل و جانی دردمند، به دیار لیلی رسید."
     },
     {
       "VOrder": 8,
@@ -605,7 +609,8 @@
       "Text": "پرسان پرسان به خانه خانه",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "به قصد دیدن لیلی [آن یار یگانه]، پرسان پرسان خانه به خانه می‌رفت."
     },
     {
       "VOrder": 10,
@@ -621,7 +626,8 @@
       "Text": "تا برد به سوی خیمه‌اش راه",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "زمانی که به سوی خیمه‌اش می‌رفت، او را چون ماه بیرون خیمه دید."
     },
     {
       "VOrder": 12,
@@ -637,7 +643,8 @@
       "Text": "نی ماه که مهر عالم افروز",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "نه ماه که خورشید جهان افروز، و نه مهر (خورشید) که آتشی جهان سوز."
     },
     {
       "VOrder": 14,
@@ -653,7 +660,8 @@
       "Text": "مه حلیه و مشتری حمایل",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "ماه رخسار و مشتری پیکر؛ دارای خوی حوری و سرشتِ پَری."
     },
     {
       "VOrder": 16,
@@ -669,7 +677,8 @@
       "Text": "از دورش اگر چه دید و بشناخت",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هرچند از دور او را شناخت، اما به روی خود نیاورد."
     },
     {
       "VOrder": 18,
@@ -685,7 +694,8 @@
       "Text": "پرسید که ای مه تمامی",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "از او پرسید: «ای ماه تمام، که امروز اینجایی،"
     },
     {
       "VOrder": 20,
@@ -701,7 +711,8 @@
       "Text": "لیلی که به رخ مه تمام است",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "«لیلی که ماه تمام است چه کسی است و کجا زندگی می‌کند؟»"
     },
     {
       "VOrder": 22,
@@ -717,7 +728,8 @@
       "Text": "گفتا منم آن و رو بگرداند",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "[لیلی] گفت: «منم» و روی برگرداند؛ در حالی که اشک‌ می‌ریخت و می‌خواند:"
     },
     {
       "VOrder": 24,
@@ -733,7 +745,8 @@
       "Text": "کین دل که به پهلوی چپش جاست",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "«دل من که در سمت چپ است، جز راست چیزی از آن نشنیده‌ام."
     },
     {
       "VOrder": 26,
@@ -749,7 +762,8 @@
       "Text": "هر لحظه کند حدیث با من",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "«هر لحظه به من می‌گوید که آن خاک نشینِ چاک‌دامن،"
     },
     {
       "VOrder": 28,
@@ -765,7 +779,8 @@
       "Text": "کاوارهٔ توست در بیابان",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "« که به خاطر تو شتابان آواره کوه و بیابان است،"
     },
     {
       "VOrder": 30,
@@ -781,7 +796,8 @@
       "Text": "از محنت فرقت تو مرده‌ست",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "«از درد جدایی تو مرده و تنها و غریب، جان سپرده است."
     },
     {
       "VOrder": 32,
@@ -797,7 +813,8 @@
       "Text": "ای وای ز بی نصیبی او",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "« ای وای بر بی‌نصیبی، تنهایی‌، بی‌کسی و غریبی او.»"
     },
     {
       "VOrder": 34,
@@ -813,7 +830,8 @@
       "Text": "بگریست عرابی و فغان کرد",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "عربی با ناله و گریه گفت: «ای خاکت، گَردِ ماه آسمان!"
     },
     {
       "VOrder": 36,
@@ -829,7 +847,8 @@
       "Text": "والله که دل تو راست گفته‌ست",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "«به خدا سوگند که دل تو راست گفته و گوهر این راز را نیز به خوبی سُفته است."
     },
     {
       "VOrder": 38,
@@ -845,7 +864,8 @@
       "Text": "مجنون ز غم تو مرد مسکین",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "«مجنون بیچاره از غم تو درگذشت و از دوری تو جان سپرد."
     },
     {
       "VOrder": 40,
@@ -861,7 +881,8 @@
       "Text": "کرده‌ست غزالی اندر آغوش",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "«غزالی را در آغوش گرفته و به یاد تو، شربت مرگ را نوشیده است."
     },
     {
       "VOrder": 42,
@@ -877,7 +898,8 @@
       "Text": "جز دام و ددش کسی به سر نه",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "«هیچ‌کس جز دد و دام سراغش را نمی‌گیرد و از بی‌کسی او غمی فراتر نیست."
     },
     {
       "VOrder": 44,
@@ -893,7 +915,8 @@
       "Text": "من مرده به سر رسیدم او را",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "«من بالای سر مرده او رسیدم و او را تنها و غریب یافتم."
     },
     {
       "VOrder": 46,
@@ -909,7 +932,8 @@
       "Text": "رفتم به دیارش از سر سوز",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "«امروز با ناراحتی همراه اهل قبیله او به دیارش رفتم."
     },
     {
       "VOrder": 48,
@@ -925,7 +949,8 @@
       "Text": "جان خاک ره وفاش کردیم",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "«ما جان خود را خاک راه وفای او کردیم و او را به خاک سپردیم."
     },
     {
       "VOrder": 50,
@@ -941,7 +966,8 @@
       "Text": "این گرد نشسته بر جبینم",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "«و این گردی که بر پیشانی‌ام نشسته، ره‌آوردی از آن خاک است.»"
     },
     {
       "VOrder": 52,
@@ -957,7 +983,8 @@
       "Text": "لیلی چو شنید این خبر را",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "لیلی با شنیدن این خبر، سرش را به جای پای بر زمین گذاشت."
     },
     {
       "VOrder": 54,
@@ -973,7 +1000,8 @@
       "Text": "افتاد میان اشک بسیار",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "در میان اشک‌ فراوان، نگونسار چون تصویری در آب جوی، غرق شد."
     },
     {
       "VOrder": 56,
@@ -989,7 +1017,8 @@
       "Text": "از عمر ملول و از بقا سیر",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "از زندگی خسته و ازبقا سیر، تا دیر زمانی بی‌هوش و بی‌خویشتن ماند."
     },
     {
       "VOrder": 58,
@@ -1005,7 +1034,8 @@
       "Text": "وان دم کامد به خویشتن باز",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "و لحظه‌ای که به خود آمد، این سرود تازه را سر داد:"
     },
     {
       "VOrder": 60,
@@ -1021,7 +1051,8 @@
       "Text": "کافسوس که آرزوی جان رفت",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "«افسوس که آرزوی جان رفت و آرامش از جان ناتوان پَر کشید."
     },
     {
       "VOrder": 62,
@@ -1037,7 +1068,8 @@
       "Text": "من قالب و قیس بود جانم",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "«من مانند قالب بودم و قیس جان من؛ اکنون بدون جان چگونه زنده بمانم؟"
     },
     {
       "VOrder": 64,
@@ -1053,7 +1085,8 @@
       "Text": "زد کوس رحیل جانم اینک",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "«اینک جانم کوس رفتن زد و من نیز اکنون به دنبال او روانه‌ام."
     },
     {
       "VOrder": 66,
@@ -1069,7 +1102,8 @@
       "Text": "بی او روزی که زار میرم",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "«روزی که زار و بدون او مُردم و از جهان رفتم،"
     },
     {
       "VOrder": 68,
@@ -1085,7 +1119,8 @@
       "Text": "نزدیک ویم نهید بستر",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "«بسترم را نزدیک او بگذارید تا سرم را بر کف پایش بگذارم."
     },
     {
       "VOrder": 70,
@@ -1101,7 +1136,8 @@
       "Text": "بی دایه خود ز دل کشم وای",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "«بدون اندوهگساری [دایه] از دل ناله سر دهم و صد بوسه به خاک پای او زنم."
     },
     {
       "VOrder": 72,
@@ -1117,7 +1153,8 @@
       "Text": "روزی که ز جسم ناتوانم",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "«روزی که در تن ناتوان و بدون پوست و مغزِ استخوانم،"
     },
     {
       "VOrder": 74,
@@ -1133,7 +1170,8 @@
       "Text": "چون نی گردد در آن نشیمن",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "نی نشیمن گیرد و تیر غم هزار روزن سازد،"
     },
     {
       "VOrder": 76,
@@ -1149,7 +1187,8 @@
       "Text": "هر روزن ازان شود دهانی",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "«هر روزن دهانی شود و از درد فغان برآورد."
     },
     {
       "VOrder": 78,
@@ -1165,7 +1204,8 @@
       "Text": "با قیس رمیده راز گوید",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "«با قیس از دست رفته رازها در میان گذارد و غم‌های را باز گوید."
     },
     {
       "VOrder": 80,
@@ -1181,7 +1221,8 @@
       "Text": "چون خیزد از استخوانم آواز",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "«جون از استخوانم آواز برخیزد، او نیز نوا سر دهد."
     },
     {
       "VOrder": 82,
@@ -1197,7 +1238,8 @@
       "Text": "با هم باشیم بی غرامت",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "«بدون پشیمانی از گفت و شنید، تا رستاخیز با هم باشیم."
     },
     {
       "VOrder": 84,
@@ -1213,7 +1255,8 @@
       "Text": "وان دم که نم حیات ریزند",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "«زمانی که نم زندگی [بر خاک] بپاشند، تنان پژمرده برمی‌خیزند."
     },
     {
       "VOrder": 86,
@@ -1229,7 +1272,8 @@
       "Text": "آریم به دست یکدگر دست",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "«دست یکدیگر را می‌گیریم و دست در دست برمی‌خیزیم."
     },
     {
       "VOrder": 88,
@@ -1245,7 +1289,8 @@
       "Text": "گردیم به هم در آن مواقف",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "«در آن جایگاه، هر یک باخبر از حال دوست خود خواهیم بود."
     },
     {
       "VOrder": 90,
@@ -1261,7 +1306,8 @@
       "Text": "هر جای که سرنوشت باشد",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "«هر کجا سرنوشت باشد؛ چه در دوخ چه بهشت،"
     },
     {
       "VOrder": 92,
@@ -1277,7 +1323,8 @@
       "Text": "با یکدیگر مقام گیریم",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "«در کنار هم باشیم و با آرامش از هم کام بگیریم.»"
     },
     {
       "VOrder": 94,
@@ -1293,7 +1340,8 @@
       "Text": "این گفت و به خیمه سایه انداخت",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "این را گفت و به خیمه رفت، و از خانه‌ غمکده‌ای ساخت."
     },
     {
       "VOrder": 96,
@@ -1309,7 +1357,8 @@
       "Text": "تا بود درین جهان چنین بود",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "تا بوده در این جهان هستی، درد و رنج همنشین [انسان] بوده است."
     },
     {
       "VOrder": 98,
@@ -1325,7 +1374,8 @@
       "Text": "آن کیست که در جهان چنین نیست",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "کیست که در این جهان چنین نباشد و از دوری دوستان اندوهگین؟"
     },
     {
       "VOrder": 100,
@@ -1341,7 +1391,8 @@
       "Text": "یارب که برافتد از زمانه",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "پروردگارا، کاش آیین جدایی برای همیشه از میان برود."
     },
     {
       "VOrder": 102,

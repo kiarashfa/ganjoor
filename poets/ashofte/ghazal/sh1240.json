@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "بمینا ساقیا صهبا نداری",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای مینا، یا یادت از شراب خوش نیست یا فکر مستی ما را نداری."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "چه حظ از عمر جاویدانت ای خضر",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای خضر، عمر جاویدت چه فایده‌ای دارد اگر لذت نوشیدن شراب سرخ را حس نکنی؟"
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "تو روحی کی در آئینه دهی عکس",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو مانند روحی هستی که در آئینه تصویرش نمایان می‌شود. اگر بگویم هیچ همتایی برای تو وجود ندارد، سخن نادرستی نگفته‌ام."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "چه پروا میکنی پروانه از شمع",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا نگران هستی که پروانه با شمع چه می‌کند؛ تو که از محبوب بی‌پروا هیچ اطلاعی نداری."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "مگر لیلی درون خانه جستی",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا لیلی در خانه پنهان شده است که مجنون نمی‌تواند به دشت برود؟"
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "نه ای بلبل گر از گل مست و شیدا",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بلبل عزیز، اگر از زیبایی گل شاد و سرمست هستی، چرا در زمان‌های دیگر این شور و حال را نداری؟"
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "نیامد گلرخ ما با گل تو",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عزیز دل ما با زیبایی‌های تو بهار را نمی‌آورد و برای ما هیچ نیکی و خوشی ندارید."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "گل من عاشقانش صد هزارند",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گل من، عاشقانش بسیارند و تو، تنها بلبلی شیدا برای خود نداری."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "بخواب ناز چندان ترک یغما",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بخواب و آرامش کن، تا زمانی که تجربه تلخی را فراموش کرده‌ای، زیرا امشب دردی بر دل تو نیست."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "مهل پا از دل ویرانه بیرون",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فکر نکن به راحتی می‌توانی از این دل شکسته و ویران بیرون بروی، چون جای دیگری برای سکونت نداری جز این خرابه."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "نهد آشفته کی سودای زلفش",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دلتنگی و اضطراب کسی که به زیبایی معشوق فکر می‌کند، به او نمی‌گوید که این عشق چه آتش سوزانی در دلش ایجاد کرده است."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "شنیدی علم الاسماء رازم",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شنیدی که علم اسماء و اسرار آن چیست، اما از صاحب اسما و مقام او اطلاعی نداری."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "توسل جست بر اسماء خمسه",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به دنبال پناهگاهی از نام‌های پنجگانه برخیز، اگر چیزی از آنان در دل نداری."
     },
     {
       "VOrder": 26,

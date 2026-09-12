@@ -411,7 +411,8 @@
       "Text": "باز چون موسم زمستان شد",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: وقتی زمستان فرا می‌رسد، آتش از گرمای گلستان جان می‌گیرد."
     },
     {
       "VOrder": 2,
@@ -427,7 +428,8 @@
       "Text": "همه کس رو به آفتاب نشست",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: همه افراد به سمت آفتاب رفتند و همه جهان به پرستش آفتاب مشغول شدند."
     },
     {
       "VOrder": 4,
@@ -443,7 +445,8 @@
       "Text": "بس که افسرده چون یخ افتادند",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: به خاطر حال و هوای غم‌انگیزشان، به شکل یخ و سردی در آمده‌اند و در آرزوی جهنم افتاده‌اند. "
     },
     {
       "VOrder": 6,
@@ -459,7 +462,8 @@
       "Text": "مهر زود از فلک به در می‌رفت",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: خورشید زودتر از آسمان خارج می‌شد تا گرما بیشتر شود."
     },
     {
       "VOrder": 8,
@@ -475,7 +479,8 @@
       "Text": "بلکه مهر جهان‌فروز نبود",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: در اینجا اشاره شده است که مهر، که به معنای خورشید و نماد روشنایی و زندگی است، تنها در شب به کار نمی‌آید و در حقیقت، در تاریکی شب وجود ندارد و روزی برای روشنایی نمی‌آورد. این بیان نشان‌دهنده اهمیت وجود نور و روشنایی در زندگی است و اینکه روزها زمان‌ها و لحظاتی برای زندگی و شکوفایی هستند."
     },
     {
       "VOrder": 10,
@@ -491,7 +496,8 @@
       "Text": "قدر آتش فزون‌تر از گل شد",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: آتش ارزش بیشتری نسبت به گل پیدا کرد و دود آن به مانند شاخ و برگ سنبل شد."
     },
     {
       "VOrder": 12,
@@ -507,7 +513,8 @@
       "Text": "در زمستان زدند شعله بخار",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: در زمستان بخار و گرما به راه افتاد تا گل‌ها شکوفا شوند، درست مانند بهار."
     },
     {
       "VOrder": 14,
@@ -523,7 +530,8 @@
       "Text": "آب از یخ قبای آهن ساخت",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: آب از یخ به شکل آهن درآمد و موج آن از برخورد قوس زره به وجود آمد."
     },
     {
       "VOrder": 16,
@@ -539,7 +547,8 @@
       "Text": "یخ چو آیینه‌ای مشکل شد",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: یخ به مانند یک آینه سخت و زبر شده و نعل مرکب به واسطه‌ی نقره به خوبی صیقل خورده است."
     },
     {
       "VOrder": 18,
@@ -555,7 +564,8 @@
       "Text": "بر یخ آن مرکبی که گام زدی",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: بر روی یخ آن سواری که کردی، سکه‌ای بر نقره‌های خام زدی."
     },
     {
       "VOrder": 20,
@@ -571,7 +581,8 @@
       "Text": "رعد زد بانگ و در ستیز آمد",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: طوفانی آغاز شد و صداهای بلندی به گوش رسید. باران شروع به باریدن کرد و در این میان، رعد و برق به شدت درخشید."
     },
     {
       "VOrder": 22,
@@ -587,7 +598,8 @@
       "Text": "در چنین موسمی که چلهٔ دی",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: در این فصل که در میانهٔ زمستان باران مثل تیر به صورت مداوم می‌بارد."
     },
     {
       "VOrder": 24,
@@ -603,7 +615,8 @@
       "Text": "شاه ترک دیار خویش گرفت",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: شاه ترک از سرزمین خود خارج شد و برای نبرد با دشمن راه جنگ را برگزید."
     },
     {
       "VOrder": 26,
@@ -619,7 +632,8 @@
       "Text": "لشکر انگیخت سوی کشور او",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: لشکر به سمت سرزمین او حرکت کردند تا جایی که بر او تسلط یافتند."
     },
     {
       "VOrder": 28,
@@ -635,7 +649,8 @@
       "Text": "راست کردند صف ز هر طرفی",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: دشمنان از هر سو به صف ایستاده‌اند و آماده نبرد هستند، و در میان آنها نیز پادشاه قرار دارد."
     },
     {
       "VOrder": 30,
@@ -651,7 +666,8 @@
       "Text": "هر طرف تیغ تیز پیدا شد",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: در هر سو که تیغ تیزی دیده می‌شود، نشانه‌ای از شورش و آشوب پدیدار شده است."
     },
     {
       "VOrder": 32,
@@ -667,7 +683,8 @@
       "Text": "زره از خنجر ستیز شکافت",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: زره به وسیلهٔ خنجر جنگ پاره شد و سبزهٔ تازه به دلیل آب تند شکافته شد."
     },
     {
       "VOrder": 34,
@@ -683,7 +700,8 @@
       "Text": "تیغ‌ها چون ز هم گذر کردند",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: زمانی که شمشیرها از کنار هم عبور کردند، مانند قیچی سرها را بریده و قطع کردند."
     },
     {
       "VOrder": 36,
@@ -699,7 +717,8 @@
       "Text": "نیزه بر دوش سرکشان به غرور",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: سلاحی بر دوش دلیران به شکوه همچون عصای موسی بر بالای کوه."
     },
     {
       "VOrder": 38,
@@ -715,7 +734,8 @@
       "Text": "گرد سوی سپهر کرد آهنگ",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: آسمان به دور خود گردشی را آغاز کرد و زمین نیز به خیزش کردند، به‌گونه‌ای که بین آنها درگیری و تضاد به وجود آمد."
     },
     {
       "VOrder": 40,
@@ -731,7 +751,8 @@
       "Text": "بر سر چابکان کوه شکوه",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: در بالای کوه، زیبایی و عظمت میدان به اندازه ابرهایی است که بر فراز کوه قرار دارند."
     },
     {
       "VOrder": 42,
@@ -747,7 +768,8 @@
       "Text": "هر که بر خصم تیغ بیم زدی",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که با سلاح خود بر دشمن حمله کند، او را به شدت آسیب می‌زند و از پا درمی‌آورد."
     },
     {
       "VOrder": 44,
@@ -763,7 +785,8 @@
       "Text": "بر سر هر که تیغ کین خوردی",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: وقتی که بر کسی خشم و کینه‌ات را نثار کنی و از او عبور کنی، خودت نیز در نهایت به افتادن و مشکل برمی‌خوری."
     },
     {
       "VOrder": 46,
@@ -779,7 +802,8 @@
       "Text": "ابروی خصم در سپر نایاب",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: این ابرو که به عنوان نشانه‌ای از زیبایی یا ویژگی‌های خاص توصیف شده، در واقع نادر و ارزشمند است، مانند کشتی‌ای که در دشواری‌های شدید گرفتار شده و به سختی می‌تواند از آن وضعیت خارج شود."
     },
     {
       "VOrder": 48,
@@ -795,7 +819,8 @@
       "Text": "مرد و مرکب فتاده زیر و زبر",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: انسان و اسب هر دو در وضعیتی نابسامان و به هم ریخته قرار دارند، همان‌طور که ظرف نقره‌ای برای خواص و ارزشش معروف است."
     },
     {
       "VOrder": 50,
@@ -811,7 +836,8 @@
       "Text": "باد از آن عرصه چون گذر کردی",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: باد که از آن منطقه عبور کرد، خاک را در فکر و ذهن‌های مردم نشاند."
     },
     {
       "VOrder": 52,
@@ -827,7 +853,8 @@
       "Text": "بس که روی زمین پر از خون شد",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: زمین به قدری پر از خون شده که موج‌های آن مانند رنگ‌های شفق به آسمان می‌تابند."
     },
     {
       "VOrder": 54,
@@ -843,7 +870,8 @@
       "Text": "شفقی کو به اوج گردون‌ست",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: در افق آسمان، زمانی که خورشید غروب می‌کند، رنگ قرمزی که مشاهده می‌شود، نشانه‌ای از خون است که در ذات و وجود او جاری است."
     },
     {
       "VOrder": 56,
@@ -859,7 +887,8 @@
       "Text": "بود درویش در همان منزل",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: یک درویش در همان خانه زندگی می‌کرد که در آنجا، روح او را با محبت و محبت‌پذیری شهید کرده بود."
     },
     {
       "VOrder": 58,
@@ -875,7 +904,8 @@
       "Text": "روی خود را بر آسمان کرده",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: صورتش را به سمت آسمان گرفته و با دستانی بلند شده، دعا می‌کند."
     },
     {
       "VOrder": 60,
@@ -891,7 +921,8 @@
       "Text": "نصرت شاه خویش می‌طلبید",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: او به خاطر قدرت و یاری شاه خود را می‌طلبید، زیرا گفته می‌شود که او بیشتر از آنچه لازم است، درخواست می‌کند."
     },
     {
       "VOrder": 62,
@@ -907,7 +938,8 @@
       "Text": "ناگهان خصم در گریز افتاد",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: ناگهان دشمن به سرعت عقب‌نشینی کرد و نقاط ضعفی در نیروهای خودی به وجود آمد."
     },
     {
       "VOrder": 64,
@@ -923,7 +955,8 @@
       "Text": "پشت ان کس که پشت داد به جنگ",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: کسی که در میدان جنگ به دیگری پشت می‌کند، به مانند تلی از تیرهای پرتاب شده می‌شود که هیچ‌کدام به هدف نمی‌نرسند. در واقع، او به سادگی در برابر خطرات ایستاده و نمی‌تواند از خود دفاع کند."
     },
     {
       "VOrder": 66,
@@ -939,7 +972,8 @@
       "Text": "طرفه حالی که چون نبرد کنند",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: وقتی که دشمنان به هم در می‌افتند، از ترس صدای برخوردشان گرد و غبار به‌پا می‌شود."
     },
     {
       "VOrder": 68,
@@ -955,7 +989,8 @@
       "Text": "طرفه‌تر آن که زان همه لشکر",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: جالب‌تر این که از میان همه آن لشکر که برای نبرد به آن سرزمین آمدند، هیچ‌کدام به اندازه‌ی او درخشان و برجسته نبودند."
     },
     {
       "VOrder": 70,
@@ -971,7 +1006,8 @@
       "Text": "کس نگردید جز رقیب هلاک",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس جز رقیب بی‌نصیب نمی‌شود؛ اگر رقیبی نابود شود، چه اهمیتی دارد؟"
     },
     {
       "VOrder": 72,
@@ -987,7 +1023,8 @@
       "Text": "شاه و لشکر اگرچه شد غمگین",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: اگرچه پادشاه و سپاه ناراحت شدند، اما این بهتر است که سگ کشته شده است."
     },
     {
       "VOrder": 74,
@@ -1003,7 +1040,8 @@
       "Text": "به همین یک فسون ز دست مرو",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: به خاطر همین جادو و فریب، از دست من نرو؛ از این داستان زیبا، چیزی بشنو."
     },
     {
       "VOrder": 76,

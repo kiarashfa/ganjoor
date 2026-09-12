@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای صبح! چو دیدی بر من سیم تنی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای صبح! وقتی که تو زیبایی و جوانی من را دیدی، بر شادی و خوشی‌های ما با لبخندی بی‌صدا اشاره کردی."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گر من بخرید می دمت از کاذب",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر من به تو نوشیدنی می‌فروختم، تو همه دنیا را به من می‌فروختی!"
     },
     {
       "VOrder": 4,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گر نخسپی شبکی جان چه شود",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در حالتی که دلت شکسته و غمگینی، ناامید باشی، چه بر تو می‌گذرد؟ و اگر در دوری و جدایی کسی را نزنیم و به او آسیب نزنیم، چه اتفاقی می‌افتد؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "ور بیاری شبکی روز آری",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر شب در روز بیفتد، برای دل دوستان چه خواهد شد؟"
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "ور دو دیده به تو روشن گردد",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دو چشم به روشنایی تو بینا شوند، در این صورت کوری چشم شیطان چه معنا دارد؟"
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "گر برآری ز دل بحر غبار",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر از دل خود غبار و کدورت‌ها را برطرف کنی، مانند کف دریا که در زمان موسی (علیه‌السلام) به وجود آمد، چه تغییرات شگرفی خواهد داشت."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "ور سلیمان بر موران آید",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر سلیمان بر روی مورچی بیفتد و بخواهد که آن مور را سلیمان کند، چه اتفاقی خواهد افتاد؟"
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "ور چو الیاس قلاووز شوی",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر مانند الیاس، قلاوز و کارشناس شوی، تا زمانی که به لب چشمه حیوان برسی، چه بر تو خواهد گذشت؟"
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "ور بروید ز گل افشانی تو",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر از گل افشانی تو گل و ریحان در همه عالم بروید، چه اتفاقی خواهد افتاد؟"
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "آب حیوان که در آن تاریکیست",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر آب حیاتی که در آن تاریکی وجود دارد، پر شود، چه بر سر شهرها و بیابان‌ها خواهد آمد؟"
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "ور ز خوان کرم و نعمت تو",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دو یا سه مهمان از سفره رحمت و نعمت تو بهره‌مند شوند، چه اتفاقی خواهد افتاد؟"
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "ور ز دلداری و جان بخشی تو",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو بتوانی دل‌ها را آرام کنی و بخشی از جان خود را به دیگران ببخشی، حالا فکر کن که افراد بی‌جان و بی‌روح چه حالتی خواهند داشت."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "ور سواره سوی میدان آیی",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر سوار بر اسب به میدان بیایی، سینه‌ات چنان بزرگ و گسترده خواهد شد که گویی خود میدان است."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "روی چون ماهت اگر بنمایی",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر چهره‌ات را نشان دهی، زیبایی‌ات باعث می‌شود که زهره (سیاره) نیز از زیبایی تو حسرت بخورد و جایگاهش تغییر کند."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "آستین کرم ار افشانی",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در آستین خود کرم‌ها را پخش کنی، نمی‌دانیم که چه بلایی سر گریبان‌مان می‌آید."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "ور بریزی قدحی مالامال",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر جامی پر از می را در هنگامه‌ی مستی بر سر کسی بریزی، چه تاثیری خواهد داشت؟"
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "ور بپوشیم یکی خلعت نو",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر ما لباس نو بپوشیم، برای ما که غلامان تو هستیم، ای سلطان، چه اتفاقی خواهد افتاد؟"
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "ور چو موسی بپذیری چوبی",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر مانند موسی چوبی را بپذیری، آن چوب تبدیل به یک مار خواهد شد. چه اتفاقی خواهد افتاد؟"
     },
     {
       "VOrder": 32,
@@ -255,7 +271,8 @@
       "Position": "Right",
       "Text": "رو به لطف آر و ز دشمن مشنو",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به لطف و مهربانی روی بیاوری و به حرف‌های دشمنان گوش نکنی، وقتی دل آنها را بجویی، چه بر سرشان خواهد آمد؟"
     },
     {
       "VOrder": 34,
@@ -269,7 +286,8 @@
       "Position": "Right",
       "Text": "بس کن ای دل ز فغان جمع نشین",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عزیزم، دیگر از غصه و ناله دست بردار و به آرامش بنشین. اگر تو از نگرانی‌ها و دلشوره‌هایت سخن نگویی، چه بر سر تو خواهد آمد؟"
     },
     {
       "VOrder": 36,

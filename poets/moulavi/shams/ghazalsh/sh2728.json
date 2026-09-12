@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "باغ است و بهار و سرو عالی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا به زیبایی‌های طبیعت در فصل بهار اشاره شده است. باغ و درختان سرو سرسبز، فضایی دلنشین و شاداب را ایجاد کرده‌اند. ما از این مکان زیبا دور نمی‌شویم و از آن لذت می‌بریم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "بگشای نقاب و در فروبند",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صورتت را نمایان کن و پنهان نکن، ما در اینجا هستیم و تو همراه ما، اما خانه خالی است."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "امروز حریف خاص عشقیم",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امروز ما در عشق، همراهی ویژه داریم و بی‌خیال از هر چیزی، به شادی و سرخوشی می‌پردازیم."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "ای مطرب خوش نوای خوش نی",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای موزیسین خوش صدا، به خوبی باید آواز زیبا و دلنشین سر دهی."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "ای ساقی شادکام خوش حال",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای ساقی خوشحال، بیا و شراب را برای ما بیاور تا حال و هوای ما بهتر شود."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "تا خوش بخوریم و خوش بخسبیم",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیایید با دلی شاد و آرامش خاطر زندگی کنیم و از نعمت‌ها و رحمت‌های نامحدود بهره‌مند شویم."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "خوردی نه ز راه حلق و اشکم",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو نه از طریق حلق (گلو) خورده‌ای و نه خواب‌های اشک‌آلودی دیده‌ای، بلکه از نتیجه شب‌های گذشته‌ی خود به این حالت رسیده‌ای."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "ای دل خواهم که آن قدح را",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دل، آرزو دارم که آن جام را بر چشمانم بگذارم و با آن تماس داشته باشم."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "چون نیست شوی تمام در می",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که همسری در زندگی وجود ندارد، آن لحظه‌ای که در می‌گساری است، نشان از کمال و تمامیت می‌باشد."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "پاینده شوی از آن سقاهم",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر از آن سقا و آب حیات بگیری، همیشه پاینده و جاویدان خواهی بود و هیچگاه نمی‌میری یا دچار تغییر نخواهی شد."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "دزدی بگذار و خوش همی‌رو",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دزدی را رها کن و با خیال راحت زندگی کن، از آزمایش‌ها و سختی‌های حاکم در امان باش."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "گویی بنما که ایمنی کو",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد که جایی برای امنیت و آرامش وجود ندارد، زیرا هنوز در حال پرسش و جستجوی آن هستی."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "ای روز بدین خوشی چه روزی",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای روز، این خوشی چه روز خوبی است! این روز بهتر از هزار سال است."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "ای جمله روزها غلامت",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای تمام روزها، بندگان تو هستند، و اینها همگی به خاطر جدایی است و تو به وصالت رسیده‌ای."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "ای روز جمال تو کی بیند",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای روزی که زیبایی تو را می‌بیند، ای روز بزرگ با آن همه زیبایی."
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "هم خود بینی جمال خود را",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نخست به زیبایی خود نگاه کن و سپس به چشمی که به تو نگاه می‌کند و آن را نوازش می‌کنی."
     },
     {
       "VOrder": 32,
@@ -255,7 +271,8 @@
       "Position": "Right",
       "Text": "ای روز نه روز آفتابی",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای روز، نه روزی که آفتاب درخشان باشد، بلکه روزی که از نور و عظمت خداوند روشن شده است."
     },
     {
       "VOrder": 34,
@@ -269,7 +286,8 @@
       "Position": "Right",
       "Text": "خورشید کند سجود هر شام",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر غروب، خورشید به آسمان خم می‌شود و از ماه درخواست می‌کند که هلالی تشکیل دهد."
     },
     {
       "VOrder": 36,
@@ -283,7 +301,8 @@
       "Position": "Right",
       "Text": "ای روز میان روز پنهان",
       "CoupletIndex": 18,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای روزی که در میان روزها پنهانی و در مکان و زمان همیشه حضور داری."
     },
     {
       "VOrder": 38,
@@ -297,7 +316,8 @@
       "Position": "Right",
       "Text": "ای روزی روزها و شب‌ها",
       "CoupletIndex": 19,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای ایامی که روزها و شب‌ها را به سر می‌بری، ای نعمت‌هایی که از سمت جنوب و شمال می‌رسند."
     },
     {
       "VOrder": 40,
@@ -311,7 +331,8 @@
       "Position": "Right",
       "Text": "خامش کنم از کمال گفتن",
       "CoupletIndex": 20,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌خواهم سکوت کنم و از بیان کمالات خودداری کنم، چرا که تو فراتر از هر کمالی هستی."
     },
     {
       "VOrder": 42,
@@ -325,7 +346,8 @@
       "Position": "Right",
       "Text": "پیدا نشوی به قال زیرا",
       "CoupletIndex": 21,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به دنبال تشریح و توضیح نباش، چرا که وجود تو فراتر از همه صحبت‌ها و نظریه‌هاست."
     },
     {
       "VOrder": 44,
@@ -339,7 +361,8 @@
       "Position": "Right",
       "Text": "از قال شود خیال پیدا",
       "CoupletIndex": 22,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از سخن او، خیال و تصوری از تو به وجود می‌آید که فراتر از تخیل و حتی اندیشه است."
     },
     {
       "VOrder": 46,
@@ -353,7 +376,8 @@
       "Position": "Right",
       "Text": "و آن وهم و خیال تشنه توست",
       "CoupletIndex": 23,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این خیال و تصورات، عطش و نیاز به تو دارند، ای کسی که آب پاک و زلال را به آن‌ها عطا کرده‌ای."
     },
     {
       "VOrder": 48,
@@ -367,7 +391,8 @@
       "Position": "Right",
       "Text": "این هر دو در آب جان دهن خشک",
       "CoupletIndex": 24,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این دو نفر در آب جان زندگی می‌کنند، اما در دنیایی که پر از خودخواهی است، حسرت و کمبود دارند."
     },
     {
       "VOrder": 50,
@@ -381,7 +406,8 @@
       "Position": "Right",
       "Text": "باقی غزل ورای پرده",
       "CoupletIndex": 25,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باقی شعر فراتر از آن چیزی است که از تو پنهان مانده در حالتی از اندوه."
     },
     {
       "VOrder": 52,

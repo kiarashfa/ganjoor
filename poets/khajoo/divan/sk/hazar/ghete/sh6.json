@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "ای ز ما مستغنی و امثال ما",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای تو که به ما نیاز نداری، و امثال ما هم از وضعیت تو آگاهند."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "ماجرای بنده اصغا کن از انک",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: قصه من را بشنوید، زیرا این داستان برای شما نا آشنا نیست."
     },
     {
       "VOrder": 4,
@@ -54,7 +56,8 @@
       "Position": "Right",
       "Text": "بر تنم پوشیدنی اینست و بس",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تنها پوششی که بر تنم است، همین است و هیچ چیزی از شما پنهان نیست."
     },
     {
       "VOrder": 6,

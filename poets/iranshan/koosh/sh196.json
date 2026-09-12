@@ -251,7 +251,8 @@
       "Text": "فرستاده برداشت آن خواسته",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: پیام‌رسان درخواست را دریافت کرد و آماده شد تا به عنوان یک کاروان به سوی هدف حرکت کند."
     },
     {
       "VOrder": 2,
@@ -267,7 +268,8 @@
       "Text": "همی رفت تا شهر آمل رسید",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: او به سمت شهر آمل می‌رفت تا اینکه به آنجا رسید و توقف کرد و چادرها را برپا کرد."
     },
     {
       "VOrder": 4,
@@ -283,7 +285,8 @@
       "Text": "فرستادهٔ شاه شد پیش شاه",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: فرستاده‌ای به حضور شاه رفت و درباره‌ی کارهای نیک و مثبت خود صحبت کرد."
     },
     {
       "VOrder": 6,
@@ -299,7 +302,8 @@
       "Text": "که چون من رسیدم شتابان ز کوه",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: وقتی من به سرعت به مقصد رسیدم، کوه مانند پرنده‌ای در حال پرواز از جمعیت دور شده بود."
     },
     {
       "VOrder": 8,
@@ -315,7 +319,8 @@
       "Text": "سرافراز کارم نشسته به جای",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: من در اوج موفقیتم و در این مقام قرار دارم که به جای جوانی با خرد و پاکدامن، جایگاه خود را حفظ کرده‌ام."
     },
     {
       "VOrder": 10,
@@ -331,7 +336,8 @@
       "Text": "چو نام شهنشاه با نامه دید",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: وقتی نام شاهنشاه را در نامه دید، آن را بوسید و با خوشحالی ستایش و تمجید کرد."
     },
     {
       "VOrder": 12,
@@ -347,7 +353,8 @@
       "Text": "سپاهش همه گوهر افشاندند",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: هنگامی که نام پادشاه خوانده شد، جنگجویان همه جواهرات و گنج‌های خود را پراکنده کردند."
     },
     {
       "VOrder": 14,
@@ -363,7 +370,8 @@
       "Text": "دو هفته فزونتر می تیزجوش",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: دو هفته بیشتر از آن زمان، به یاد پادشاه، نوشیدنی‌ای تند و گوارا تهیه کردند."
     },
     {
       "VOrder": 16,
@@ -379,7 +387,8 @@
       "Text": "بیاورد پس هرچه بودش ز گنج",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: او هر آنچه را که داشت، از گنجینه‌اش آورد و ارسال کرد، اما دلش از این کار ناراحت نشد."
     },
     {
       "VOrder": 18,
@@ -395,7 +404,8 @@
       "Text": "سواری هزار است با خواسته",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: در اینجا به زندگی افرادی اشاره شده که در میان جمعیت بسیار زیادی قرار دارند، اما تنها یک نفر به هدف اصلی و خواسته واقعی خود دست یافته است. این نشان‌دهنده‌ی اهمیت تلاش و کوشش در دستیابی به آرزوها و اهداف است."
     },
     {
       "VOrder": 20,
@@ -411,7 +421,8 @@
       "Text": "همانا که از شهریاران پیش",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: در واقع، هیچ‌یک از شاهان گذشته، به اندازه‌ی او بر خود برتری و افزایش نداشته‌اند."
     },
     {
       "VOrder": 22,
@@ -427,7 +438,8 @@
       "Text": "از آن، شادمان شد جهاندار شاه",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: شاه جهان از این خبر خوشحال شد و سپاهش را به راه انداخت تا پیش او بروند."
     },
     {
       "VOrder": 24,
@@ -443,7 +455,8 @@
       "Text": "فرستادهٔ کارم آمد به در",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: خبرنگار کار من به درب آمد و تخت شاه را بوسید."
     },
     {
       "VOrder": 26,
@@ -459,7 +472,8 @@
       "Text": "فریدون چو آن خواسته دید و تخت",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: فریدون زمانی که به آرزوی خود رسید و تخت سلطنت را به دست آورد، بسیار خوشحال شد."
     },
     {
       "VOrder": 28,
@@ -475,7 +489,8 @@
       "Text": "پس آن تخت فیروزهٔ شاهوار",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: آن تخت فیروزه‌ای که به زیبایی شاهانه طراحی شده بود، در خانه‌ای با دیوارهای زرنگار گذاشته شد."
     },
     {
       "VOrder": 30,
@@ -491,7 +506,8 @@
       "Text": "چو بر تخت فیروزه بنشست شاه",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: وقتی شاه بر روی تخت ابریشمی نشست، با لبخند به سپاه خود گفت:"
     },
     {
       "VOrder": 32,
@@ -507,7 +523,8 @@
       "Text": "که پیروز گردم به پیروز بخت",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: من می‌خواهم به لطف بخت پیروز، در هر هفت کشور بر تخت پیروزی بنشینم."
     },
     {
       "VOrder": 34,
@@ -523,7 +540,8 @@
       "Text": "بپرسید کاین تخت فیروزه‌گون",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: سوال کردند که این تخت فیروزه‌ای از چه کاری به اینجا افتاده است و چگونه به این وضعیت درآمده است."
     },
     {
       "VOrder": 36,
@@ -539,7 +557,8 @@
       "Text": "به پاسخ چنین کرد گوینده یاد",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: گوینده به آن شخص یادآوری کرد که این دلیل، مانند این است که تنها دندان‌های یک فیل را به پاداش می‌دهد."
     },
     {
       "VOrder": 38,
@@ -555,7 +574,8 @@
       "Text": "بدان گه که دادش چو مردان فریب",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: آن زمان که او داد و فریادش به‌مانند مردان بلند شد، پس از آن نیرویی به‌قدری قوی به‌طرف او فرستاده شد که تأثیر زیادی گذاشت."
     },
     {
       "VOrder": 40,
@@ -571,7 +591,8 @@
       "Text": "چنین فال زد گفت بر تخت بزم",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: فال خوبی زد و گفت در میهمانی، بر او نیز در نبرد پیروز خواهم شد."
     },
     {
       "VOrder": 42,
@@ -587,7 +608,8 @@
       "Text": "پس آن چیز در گنج بنهاد شاه",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: شاه مقداری از دارایی‌های خود را در گنج گذاشت و به فرستاده‌اش هدیه داد و او به مدت دو ماه مهمان بود."
     },
     {
       "VOrder": 44,

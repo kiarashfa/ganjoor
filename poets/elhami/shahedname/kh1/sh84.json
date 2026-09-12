@@ -171,7 +171,8 @@
       "Text": "بیامد یکی کاروان گشن",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: یک کاروان گرسنه از سرزمین یمن به آن محل آمد."
     },
     {
       "VOrder": 2,
@@ -187,7 +188,8 @@
       "Text": "یکی کاروان بود آراسته",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: یک کاروان وجود داشت که به‌خوبی تزیین شده بود و همه بارهایشان به‌عنوان هدیه و خواسته جمع‌آوری شده بود."
     },
     {
       "VOrder": 4,
@@ -203,7 +205,8 @@
       "Text": "فرستاده بد هدیه هارا تمام",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: فرستاده امیر یمن، تمام هدایا را برای ثروت شام ارسال کرد."
     },
     {
       "VOrder": 6,
@@ -219,7 +222,8 @@
       "Text": "یکی آمد و نزد دارای راز",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: یک نفر آمد و نزد کسی که اسرار زیادی داشت، درباره تمام رازهای آن کاروان صحبت کرد."
     },
     {
       "VOrder": 8,
@@ -235,7 +239,8 @@
       "Text": "بفرمود فرزند خیر الانام",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: فرزند پیامبر اعظم دستور داد که من در این دو جهان، رهبر و پیشوای شما هستم."
     },
     {
       "VOrder": 10,
@@ -251,7 +256,8 @@
       "Text": "مرا می رسد اینهمه خواسته",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: من به اندازه‌ای آرزو دارم که انگار خداوند آن‌ها را برای من خواسته است."
     },
     {
       "VOrder": 12,
@@ -267,7 +273,8 @@
       "Text": "به فرمان فرمانگذار جهان",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: تمام اعضای کاروان به دستور حاکم عالم، در جایی متوقف شدند."
     },
     {
       "VOrder": 14,
@@ -283,7 +290,8 @@
       "Text": "شهنشه سر کاروان را بخواند",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: پادشاه سر کاروان را فرا می‌خواند و بعد به او اینگونه سخن می‌گوید."
     },
     {
       "VOrder": 16,
@@ -299,7 +307,8 @@
       "Text": "که باشد مراساز و برگ سفر",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: کسی برای من خواهد بود که بار سفر شما را به دوش بکشد و همراهتان باشد."
     },
     {
       "VOrder": 18,
@@ -315,7 +324,8 @@
       "Text": "بیاور ز آلات من باربند",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: بیار وسایل و ابزار من را، دل مرا نرنجان و خاطر مرا ناراحت نکن."
     },
     {
       "VOrder": 20,
@@ -331,7 +341,8 @@
       "Text": "همی هر چه خود خواهی ازآن فزون",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: هر چه را که می‌خواهی، بیشتر از آنچه که من دارم، از من بگیر و کرایه‌ی خود را پس بگیر."
     },
     {
       "VOrder": 22,
@@ -347,7 +358,8 @@
       "Text": "سرآهنگ نیز آنچه ازشه شنفت",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: رئیس کاروان خبرهایی را که از پادشاه شنیده بود، به سایر اعضای کاروان منتقل کرد و آن‌ها را از جزئیات مطلع ساخت."
     },
     {
       "VOrder": 24,
@@ -363,7 +375,8 @@
       "Text": "گروهی بماندند نزد امام",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: عده‌ای در کنار امام باقی ماندند و عده‌ای دیگر راهی شام شدند."
     },
     {
       "VOrder": 26,
@@ -379,7 +392,8 @@
       "Text": "چو عبدالله جعفر نامور",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: وقتی عبدالله جعفر به شهرت رسید، متوجه شد که سفرش آغاز شده است."
     },
     {
       "VOrder": 28,

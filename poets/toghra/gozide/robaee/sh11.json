@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "ابر آمده شب که ماهتابت ببرد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ابر آمده تا شب، و نور ماه را از تو می‌گیرد و تو را به سرعت از کوچه به خانه می‌برد."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "از بارش باران اگر آبت ببرد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر باران بیفتد و تو را آبیار نکند، بهتر است که خواب تو را بيدار کند."
     },
     {
       "VOrder": 4,

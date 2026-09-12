@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "نی از تو گذر به هیچ حالی ممکن",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از تو هیچ‌گاه نمی‌توان گذشت، در هیچ وضعیتی امکان ندارد که از تو به وصالی در عمرها دست یابم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "دیدار تو ممکنست و وصل تو محال",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دیدن تو ممکن است، اما وصال تو غیرممکن است. انصافاً این چه عجبی است که غیرممکن به ممکن تبدیل شده."
     },
     {
       "VOrder": 4,

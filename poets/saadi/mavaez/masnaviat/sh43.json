@@ -30,7 +30,8 @@
       "Position": "Right",
       "Text": "به حال نیک و بد راضی شو ای مرد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای مرد، به وضعیت‌های خوب و بدی که داری راضی باش، زیرا نمی‌توانی سرنوشت بد را به خوبی تغییر دهی."
     },
     {
       "VOrder": 2,
@@ -44,7 +45,8 @@
       "Position": "Right",
       "Text": "چو سگ را بخت تاریکست و شبرنگ",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چون سگ دارای شانس و سرنوشت بدی است، بچه‌ها از روی جُنون و بی‌احترامی به او سنگ می‌زنند."
     },
     {
       "VOrder": 4,

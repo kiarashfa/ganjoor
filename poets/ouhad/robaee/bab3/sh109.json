@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "فریاد رسی نیست کسی را از کس",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ کس در هیچ کجای دنیا به داد کسی نمی‌رسد، حتی اگر دلیلی کوچک و بی‌اهمیت مثل پای یک مگس وجود داشته باشد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "شاگرد مشو تو هیچ کس را به هوس",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به کسی دل بسته‌ای، هیچ‌گاه به دنبال آرزوهای بیهوده نباش. قلب تو، بهترین راهنمای توست."
     },
     {
       "VOrder": 4,

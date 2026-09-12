@@ -25,20 +25,23 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "از سادات سبزوار است برادر اعیانی",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: او برادر یکی از خانواده‌های سادات سبزوار است."
     },
     {
       "VOrder": 2,
       "Position": "Paragraph",
       "Text": "میر محمد قاسم نسابه : بس لوند مشرب و بی قید بود، گاهی بگفتن شعر مبادرت می نمود، این مطلع از اوست :",
-      "CoupletIndex": 1
+      "CoupletIndex": 1,
+      "CoupletSummary": "هوش مصنوعی: میر محمد قاسم نسابه فردی با شیرینی طبع و بی‌قاعده بود. گاهی به سرودن شعر می‌پرداخت و این بیت از اوست:"
     },
     {
       "VOrder": 3,
       "Position": "Right",
       "Text": "ای گل شده ای همدم هر خارچه حاصل",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای گل، تو همدم هر خاری شده‌ای، پس چه فایده‌ای دارد که با هر خس و خاری دوست شده‌ای؟"
     },
     {
       "VOrder": 4,

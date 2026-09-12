@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "هر چند که از دست تو آید که کنی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه می‌توانی به دیگران ظلم کنی، اما نباید این کار را انجام بدهی."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "یکبار تواند پس تو با خود جَور",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شاید یک بار بتوانی خود را عادت دهی، اما ممکن است نتوانی آن کاری را که شایسته است، انجام دهی."
     },
     {
       "VOrder": 4,

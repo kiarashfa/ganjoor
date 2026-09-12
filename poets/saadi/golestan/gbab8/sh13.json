@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "هر که با دشمنان صلح می‌کند سر آزار دوستان دارد.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که با دشمنان صلح کند، به دوستان خود آسیب می‌زند."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "بشوی ای خردمند از آن دوست دست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای خردمند، دستت را از دوستی که با دشمنان تو انس گرفته و همراه است، بشوی."
     },
     {
       "VOrder": 3,

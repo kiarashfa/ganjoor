@@ -29,14 +29,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "خویشتن به بندگی کس مسپار.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: به خود را تحت اختیار کسی قرار نده."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "مشو خویشتن بنده در زندگی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در زندگی خودت را بنده و اسیر نکن و همچون دیگران که خود را تسلیم کرده‌اند، بندگی مکن."
     },
     {
       "VOrder": 3,

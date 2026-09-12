@@ -241,7 +241,8 @@
       "Text": "جلایر! گر توانی کرد، کاری",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای جلایر! اگر می‌توانی، تلاشی کن؛ زیرا اگر بخواهی، می‌توانی به زیبایی و ارزشمندی گوهرهایی مانند مروارید دست یابی."
     },
     {
       "VOrder": 2,
@@ -257,7 +258,8 @@
       "Text": "نیاری از چه این لؤلؤ به بازار",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: به چه دلیل این مروارید را به بازار می‌آوری وقتی که مشتری خوب و خریدار مناسبی داری؟"
     },
     {
       "VOrder": 4,
@@ -273,7 +275,8 @@
       "Text": "نثار رهگذار شاه کن زود",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: به زودی هدیه‌ات را به سفره‌دار شاه بده، چون ارزش تو همیشه باقی و فراوان است."
     },
     {
       "VOrder": 6,
@@ -289,7 +292,8 @@
       "Text": "دعا بر ولیعهد شهنشاه",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: دعا می‌کنم برای ولیعهد پادشاه، زیرا او از ابتدا برای این مقام شایسته بود."
     },
     {
       "VOrder": 8,
@@ -305,7 +309,8 @@
       "Text": "شها عرضی جلایر می‌نماید",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: در میان غم و اندوه، زیبایی و روشنی‌ای وجود دارد که باعث می‌شود شادی به دل‌ها بازگردد."
     },
     {
       "VOrder": 10,
@@ -321,7 +326,8 @@
       "Text": "مِهین فرزند دولت شاه مغفور",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: ای فرزند بزرگوار شاه که یادش گرامی است، به قدری از محبت‌های تو خوشحال شده‌ایم که قابل وصف نیست."
     },
     {
       "VOrder": 12,
@@ -337,7 +343,8 @@
       "Text": "کنون امرم نموده ای جلایر",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: اکنون کارم را به گونه‌ای سامان داده‌ای که چرا شاه را از سر تا پا به این شکل نمایان ساخته‌ای؟"
     },
     {
       "VOrder": 14,
@@ -353,7 +360,8 @@
       "Text": "نکردی نظم از چه مرحمت‌هاش",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: چرا در نظم خود از مهربانی‌ها و لطف‌هایش چیزی نمی‌گویی؟ آیا این باعث می‌شود که زیبایی‌های آن پنهان بماند؟"
     },
     {
       "VOrder": 16,
@@ -369,7 +377,8 @@
       "Text": "به من چندان در رحمت گشوده",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: خداوند رحمتش را به گونه‌ای وسیع به من عطا کرده که در میان دیگران از من ستایش می‌شود."
     },
     {
       "VOrder": 18,
@@ -385,7 +394,8 @@
       "Text": "شمرده بنده‌ای از بندگانش",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: بنده‌ای از خداوند را که با نیت خالص به درگاهش مراجعه کند و او را بوسه‌وار احترام گذارد، سزاوار می‌دانند."
     },
     {
       "VOrder": 20,
@@ -401,7 +411,8 @@
       "Text": "نکرده خدمتی مقبولش افتاد",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: اگر چه من خدمتی درخور و پسندیده به او نکرده‌ام، اما آیا جایز است که جانم را در راه او فدای کنم؟"
     },
     {
       "VOrder": 22,
@@ -417,7 +428,8 @@
       "Text": "ندارم گوهری لایق به کارش",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: من هیچ گوهری که شایسته‌ی او باشد ندارم جز اینکه سرم را برای او نثار کنم."
     },
     {
       "VOrder": 24,
@@ -433,7 +445,8 @@
       "Text": "اگر بگذشت بر من روزگاری",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: اگر روزگاری به طور نادانی و بی‌توجهی از کنار مشکلات و سختی‌ها عبور کرده باشم و در میان ذلت و ناتوانی باقی مانده باشم."
     },
     {
       "VOrder": 26,
@@ -449,7 +462,8 @@
       "Text": "بحمدالله که بَختم گشت بیدار",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: خوشبختانه بخت من از خواب بی‌خبر بودن و شب‌های طولانی بیدار شده است."
     },
     {
       "VOrder": 28,
@@ -465,7 +479,8 @@
       "Text": "زمان غم به سر شد دور شادی",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: زمان غم به پایان رسیده و حالا وقت شادی است. بیایید با دست‌های پر از امید، هر آرزویی را جشن بگیریم."
     },
     {
       "VOrder": 30,
@@ -481,7 +496,8 @@
       "Text": "شدم از بندگان حضرت او",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: به دلیل بندگی و خدمت به خدا، به درجه‌ای رسیده‌ام که شایستگی نزدیک‌تر شدن به او را دارم."
     },
     {
       "VOrder": 32,
@@ -497,7 +513,8 @@
       "Text": "پدر گر رفته از این دار فانی",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: اگر پدر از این دنیای فانی رفته باشد، برای شاه زندگی ابدی آرزو می‌کنم."
     },
     {
       "VOrder": 34,
@@ -513,7 +530,8 @@
       "Text": "مرا هم باب و هم مولا و سرور",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: من در درگاه او، هم به عنوان خدمتگزار و هم به عنوان یک شخص ارشد و محترم، آماده‌ی خدمت و انتظار هستم."
     },
     {
       "VOrder": 36,
@@ -529,7 +547,8 @@
       "Text": "شهنشاه بلند اختر بدو داد",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: پادشاه بلندآوازه، سرنوشت نیکویی به او عطا کرد و درهای شهرهای عراق را برای او گشود."
     },
     {
       "VOrder": 38,
@@ -545,7 +564,8 @@
       "Text": "چو بعضی ملک آذربایجانش",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: چند بخشی از سرزمین آذربایجان از دست رفت و دیگر نشان و ناثار آن پیدا نیست."
     },
     {
       "VOrder": 40,
@@ -561,7 +581,8 @@
       "Text": "محال کرمشاهان را عوض داد",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: نعمت و بزرگی‌های پادشاهان را عوض کرد، اما ولیعهدش را به او داد و او را خوشنود کرد."
     },
     {
       "VOrder": 42,

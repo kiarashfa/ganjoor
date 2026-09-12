@@ -65,7 +65,8 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "چون به‌ انجمن خواهی نشست نزدیک‌ مردم دژآگاه منشین که تو نیز دژآگاه نباشی.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که می‌خواهی با دیگران جلسه‌ای برگزار کنی، کنار افرادی که دژآگاه هستند ننشین، چرا که ممکن است تو نیز دژآگاه نشوی."
     },
     {
       "VOrder": 2,
@@ -73,7 +74,8 @@
       "Text": "به هر انجمن پاک و پدرام باش",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: در هر جمع و محفل خوب و شایسته، کوشا و فعال باش و با آرامش رفتار کن."
     },
     {
       "VOrder": 3,
@@ -89,7 +91,8 @@
       "Text": "چو خواهی نشستن پژوهنده شو",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی به آرامش و دانش کافی برسی، باید به نزد افراد با تجربه و دانشمند بروی و از آن‌ها بیاموزی."
     },
     {
       "VOrder": 5,
@@ -105,7 +108,8 @@
       "Text": "به سوی دژ آگاه مردم مرو",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: به سمت دژ مردم مرو نرو و از نادانی هم حمایت نکن."
     },
     {
       "VOrder": 7,
@@ -121,7 +125,8 @@
       "Text": "مبادا چو بینند آنجا ترا",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: مبادا که وقتی آنجا تو را ببینند، تو را هم‌تراز و هم‌دسته‌ی آنها حساب کنند."
     },
     {
       "VOrder": 9,

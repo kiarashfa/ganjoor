@@ -181,7 +181,8 @@
       "Text": "نیم شب دیوانه‌ای خوش می‌گریست",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: در نیمه شب، شخصی دلشکسته و دیوانه‌ای شروع به گریه کرد و گفت که می‌خواهم بگویم این دنیای چه جور جایی است."
     },
     {
       "VOrder": 2,
@@ -197,7 +198,8 @@
       "Text": "حقه‌ای سر برنهاده، ما درو",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: ما به خاطر نادانی خود، در دام فریب و حقه‌ای که آماده شده، گرفتار می‌شویم و از آن بهره‌برداری می‌کنیم."
     },
     {
       "VOrder": 4,
@@ -213,7 +215,8 @@
       "Text": "چون سراین حقه برگیرد اجل",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: زمانی که سرنوشت یا مرگ، کسی را از دنیا ببرد، آن شخص که بار زندگی را به دوش دارد، به سوی بقا و جاودانگی می‌رود."
     },
     {
       "VOrder": 6,
@@ -229,7 +232,8 @@
       "Text": "وانک او بی پر بود، در صد بلا",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: او بی‌پر است، و در میان صد مشکل گیر افتاده و در تنگنا قرار دارد."
     },
     {
       "VOrder": 8,
@@ -245,7 +249,8 @@
       "Text": "مرغ همت را به معنی بال ده",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: به پرنده‌ای که نماد تلاش و آرزو است اجازه پرواز بده و با عقل و دل شایسته به او کمک کن تا به حالت و مرتبه‌ای بلند دست یابد."
     },
     {
       "VOrder": 10,
@@ -261,7 +266,8 @@
       "Text": "پیش از آن کز حقه برگیرند سر",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: قبل از اینکه به تو فریب دهند و تو را به دام بیندازند، خودت را آماده کن و قدرت و توان خود را برای پرواز به کار بگیر."
     },
     {
       "VOrder": 12,
@@ -277,7 +283,8 @@
       "Text": "یا نه، بال و پر بسوز و خویش هم",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: یا اینکه خودت را بسوزان و از همه چیز بگذر تا همیشه در مقام اول نباشی."
     },
     {
       "VOrder": 14,
@@ -293,7 +300,8 @@
       "Text": "دیگری گفتش که انصاف و وفا",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: دیگری از او پرسید که در نزد آن پادشاه، انصاف و وفا چگونه است؟"
     },
     {
       "VOrder": 16,
@@ -309,7 +317,8 @@
       "Text": "حق تعالی داد انصافم بسی",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: خداوند به من انصاف بسیاری داده است و من هرگز به کسی بی‌وفایی نکرده‌ام."
     },
     {
       "VOrder": 18,
@@ -325,7 +334,8 @@
       "Text": "در کسی چون جمع آمد این صفت",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اگر در کسی صفتی همچون جمع و انس وجود داشته باشد، جایگاه و مقام او در دانش و آگاهی چگونه خواهد بود؟"
     },
     {
       "VOrder": 20,
@@ -341,7 +351,8 @@
       "Text": "گفت انصافست سلطان نجات",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: سلطان گفت که انصاف ضروری است و هر کسی که به عدالت و درستی رفتار کند، از سخنان بی‌معنی رهایی می‌یابد."
     },
     {
       "VOrder": 22,
@@ -357,7 +368,8 @@
       "Text": "از تو گر انصاف آید در وجود",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: اگر انصاف تو در وجود بیاید، از تمام عمر که در حال رکوع و سجود بودم، بهتر خواهد بود."
     },
     {
       "VOrder": 24,
@@ -373,7 +385,8 @@
       "Text": "خود فتوت نیست در هر دو جهان",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: شایسته بودن و بزرگواری تنها به انصاف دادن در خفا محدود نمی‌شود، بلکه در هر دو دنیا بالاتر از آن است."
     },
     {
       "VOrder": 26,
@@ -389,7 +402,8 @@
       "Text": "وانک او انصاف بدهد آشکار",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: اگر او به‌طور صریح قضاوت کند، از تزویر و فریب خود کاسته می‌شود، به این نکته توجه کن."
     },
     {
       "VOrder": 28,
@@ -405,7 +419,8 @@
       "Text": "نستدند انصاف، مردان از کسی",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: مردان انصاف را از کسی دریافت نکردند، اما خودشان حقیقت را به خوبی می‌شناختند و به آن عمل می‌کردند."
     },
     {
       "VOrder": 30,

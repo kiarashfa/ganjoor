@@ -461,7 +461,8 @@
       "Text": "چو برداشت پرده ز پیش آفتاب",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: زمانی که پرده را برداشتند و نور خورشید نمایان شد، خواب از سرم پرید و بیدار شدم."
     },
     {
       "VOrder": 2,
@@ -477,7 +478,8 @@
       "Text": "دو بیهوده را دل بدان کار گرم",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: دو نفر بی‌فکر و بی‌هدف به کارهایی مشغولند که تنها باعث شرمندگی‌شان می‌شود و در نتیجه، هیچ فایده‌ای برایشان ندارد."
     },
     {
       "VOrder": 4,
@@ -493,7 +495,8 @@
       "Text": "برفتند هر دو گرازان ز جای",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "گرازان‌: خرامنده‌، رفتن به‌حالت تبختر."
     },
     {
       "VOrder": 6,
@@ -509,7 +512,8 @@
       "Text": "چو از خیمه ایرج به ره بنگرید",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: وقتی ایرج از خیمه خارج شد و به راه نگاه کرد، دلش پر از محبت شد و به سوی آن‌ها دوید."
     },
     {
       "VOrder": 8,
@@ -525,7 +529,8 @@
       "Text": "برفتند با او به خیمه درون",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: آنها به همراه او به درون خیمه رفتند و بیشتر در مورد علت رفتن او صحبت کردند."
     },
     {
       "VOrder": 10,
@@ -541,7 +546,8 @@
       "Text": "بدو گفت تور ار تو از ما کهی",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: به او گفت: تو کهی تصمیم گرفتی کلاه مهی را از سر بگذاری و از ما دور شوی؟"
     },
     {
       "VOrder": 12,
@@ -557,7 +563,8 @@
       "Text": "ترا باید ایران و تخت کیان",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: تو باید به ایران و تخت پادشاهی کیان بیندیشی، حالا من در دروازه‌ای ایستاده‌ام و منتظر تو هستم."
     },
     {
       "VOrder": 14,
@@ -573,7 +580,8 @@
       "Text": "برادر که مهتر به خاور به رنج",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: آیا برادری که بزرگ‌تر است، از شرق به خاطر رنج و زحمت، تاجی بر سرت می‌گذارد و زیر سایه‌ی ثروت چه چیزی دارد؟"
     },
     {
       "VOrder": 16,
@@ -589,7 +597,8 @@
       "Text": "چنین بخششی کان جهان‌جوی کرد",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: بخشش و مهربانی‌ای که آن شخص در پی آن بود، به گونه‌ای بود که حتی به کوچک‌ترها و فرزندان نیز توجه و لطف داشت."
     },
     {
       "VOrder": 18,
@@ -605,7 +614,8 @@
       "Text": "نه تاج کیان مانم اکنون نه گاه",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اکنون نه قدرت و عظمت پادشاهی را دارم، نه زمانه‌ای که در آن اوج بُودم، نه نامی از بزرگی و نه نیرو و سپاه ایران را در اختیار دارم."
     },
     {
       "VOrder": 20,
@@ -621,7 +631,8 @@
       "Text": "چو از تور بشنید ایرج سخن",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: زمانی که ایرج سخن را از تور شنید، پاسخی بی‌نقص و روشن ارائه داد."
     },
     {
       "VOrder": 22,
@@ -637,7 +648,8 @@
       "Text": "بدو گفت کای مهتر کام‌جو‌ی",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: به او گفتند: ای سرور خواهان خوشبختی، اگر به آرامش دل می‌خواهی، آرامش را جستجو کن."
     },
     {
       "VOrder": 24,
@@ -653,7 +665,8 @@
       "Text": "من ایران نخواهم نه خاور نه چین",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: من نه کشوری از ایران می‌خواهم، نه خاورزمین و نه چین، نه سلطنتی و نه هیچ سرزمینی بر روی زمین."
     },
     {
       "VOrder": 26,
@@ -669,7 +682,8 @@
       "Text": "بزرگی که فرجام او تیرگی‌ست",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: بزرگی که سرانجامش به تباهی می‌رسد، بر آن مقام والا باید گریست."
     },
     {
       "VOrder": 28,
@@ -685,7 +699,8 @@
       "Text": "سپهر بلند ار کشد زین تو",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "اگر آسمان بلند به تو مانند غلامان به تو خدمت کند ، در نهایت باید بپذیری که زمین و خاک، سرانجام جایگاه تو خواهد بود."
     },
     {
       "VOrder": 30,
@@ -701,7 +716,8 @@
       "Text": "مرا تخت ایران اگر بود زیر",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: اگرچه تخت و تاج ایران در زیر آسمان قرار دارد، ولی من از داشتن آن‌ها خسته و سیر شده‌ام."
     },
     {
       "VOrder": 32,
@@ -717,7 +733,8 @@
       "Text": "سپردم شما را کلاه و نگین",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: من شما را به کلاه و نگین سپردم، پس با من در این زمینه دشنام و کینه نداشته باشید."
     },
     {
       "VOrder": 34,
@@ -733,7 +750,8 @@
       "Text": "مرا با شما نیست ننگ و نبرد",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: من با شما هیچ ننگ و عیبی ندارم و نباید روحم را در این مورد آزار داد."
     },
     {
       "VOrder": 36,
@@ -749,7 +767,8 @@
       "Text": "زمانه نخواهم به آزار‌تان",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: اگرچه از شما دور هستم و نمی‌توانم شما را ببینم، اما هرگز نمی‌خواهم که زمانه باعث آزار و ناراحتی شما شود."
     },
     {
       "VOrder": 38,
@@ -765,7 +784,8 @@
       "Text": "جز از کهتری نیست آیین من",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: تنها از پست‌فطرتی بی‌نصیبم و اجازه نمی‌دهم که حسادت و ظلم بر رفتار من تسلط یابد."
     },
     {
       "VOrder": 40,
@@ -781,7 +801,8 @@
       "Text": "چو بشنید تور از برادر چنین",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: وقتی تور از برادرش این حرف را شنید، ابروهایش را به خاطر خشم در هم کشید."
     },
     {
       "VOrder": 42,
@@ -797,7 +818,8 @@
       "Text": "نیامدش گفتار ایرج پسند",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: گفتار ایرج برای او خوشایند نبود و در نظر او راست و درست جلوه نمی‌کرد."
     },
     {
       "VOrder": 44,
@@ -813,7 +835,8 @@
       "Text": "به کرسی به خشم اندر آورد پای",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هزمان مخفف هرزمان است."
     },
     {
       "VOrder": 46,
@@ -829,7 +852,8 @@
       "Text": "یکایک برآمد ز جای نشست",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: هر یک از آن‌ها به نوبت از جای خود برخواسته و بر روی آن کرسی طلایی نشسته‌اند."
     },
     {
       "VOrder": 48,
@@ -845,7 +869,8 @@
       "Text": "بزد بر سر خسرو تاجدار",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: تاجی بر سر شیرین‌دلی قرار داد و از او خواست که به جان ایرج توجه کند و مواظب او باشد."
     },
     {
       "VOrder": 50,
@@ -861,7 +886,8 @@
       "Text": "نیایدت گفت ایچ بیم از خدای؟",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: آیا هیچ ترسی از خداوند نداری؟ آیا از پدر خود شرم نکشیدی؟ این رفتار تو نشان‌دهنده‌ی بی‌خویشتنی‌ات است."
     },
     {
       "VOrder": 52,
@@ -877,7 +903,8 @@
       "Text": "مکش مر مرا که‌ت سرانجام کار",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: من را نکش، زیرا سرنوشت من ممکن است به پیچیدگی‌هایی منجر شود که خالق من را تحت تأثیر قرار دهد."
     },
     {
       "VOrder": 54,
@@ -893,7 +920,8 @@
       "Text": "مکن خویشتن را ز مردم‌کشان",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: خودت را به دست افرادی که تو را به سمت بدی می‌کشند، نسپار؛ زیرا پس از این، دیگر نشانی از من نخواهی یافت."
     },
     {
       "VOrder": 56,
@@ -909,7 +937,8 @@
       "Text": "بسنده کنم زین جهان گوشه‌ای",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: از این دنیا به یک گوشه اکتفا می‌کنم و با تلاش مضاعف، توشه‌ای برای خود جمع می‌کنم."
     },
     {
       "VOrder": 58,
@@ -925,7 +954,8 @@
       "Text": "به خون برادر چه بندی کمر؟",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: به خاطر خون برادرت، چرا خود را به زحمت می‌اندازی؟ چه دردی در دل پدر پیر موج می‌زند؟"
     },
     {
       "VOrder": 60,
@@ -941,7 +971,8 @@
       "Text": "جهان خواستی یافتی خون مریز",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: اگر به دنبال به دست آوردن دنیا هستی، پس بی‌دلیل خون ریزی نکن و با خداوند که دارنده جهان است، به نزاع نپرداز."
     },
     {
       "VOrder": 62,
@@ -957,7 +988,8 @@
       "Text": "سخن را چو بشنید پاسخ نداد",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: وقتی سخن را شنید، پاسخی نداد و گویا همان کلام دوباره تکرار شد؛ به مانند وزش باد سرد که بدون تغییری در فضا فر می‌وزد."
     },
     {
       "VOrder": 64,
@@ -973,7 +1005,8 @@
       "Text": "یکی خنجر آبگون برکشید",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: شخصی شمشیری با تیغه‌ای آبی رنگ از غلاف بیرون آورد و تمام بدن او به رنگ خون درآمد."
     },
     {
       "VOrder": 66,
@@ -989,7 +1022,8 @@
       "Text": "بدان تیز زهر‌آبگون خنجر‌ش",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: بدان که آن خنجر با تیزی و زهرآلودگی‌اش، چاک و زخم‌هایی بر تن شاهان کیانی می‌زد."
     },
     {
       "VOrder": 68,
@@ -1005,7 +1039,8 @@
       "Text": "فرود آمد از پای سرو سهی",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: زیرا که قامت بلند سرو، مانند ساعدی که کمر شاهانه‌ای را شکسته باشد، به زمین افتاده است."
     },
     {
       "VOrder": 70,
@@ -1021,7 +1056,8 @@
       "Text": "روان خون از آن چهرهٔ ارغوان",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: روان از آن چهرهٔ زیبا و دلنشین خون می‌ریزد، آن پادشاه جوان و معروف."
     },
     {
       "VOrder": 72,
@@ -1037,7 +1073,8 @@
       "Text": "جهانا بپروردیش در کنار",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: دنیا را از تربیت تو به وجود آورد و سپس به جان کسی که به او پناه بردی، آسیبی نرسانید."
     },
     {
       "VOrder": 74,
@@ -1053,7 +1090,8 @@
       "Text": "نهانی ندانم ترا دوست کیست",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: من نمی‌دانم دوست واقعی تو چه کسی است؛ با این حال، با دیدن آشکار تو باید گریه کرد."
     },
     {
       "VOrder": 76,
@@ -1069,7 +1107,8 @@
       "Text": "سر تاجور ز آن تن پیلوار",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: سر تاجور به دلیل نازکی و زیبایی‌اش با خنجر جدا شد، و سپس کار به حالت قبلی برگشت."
     },
     {
       "VOrder": 78,
@@ -1085,7 +1124,8 @@
       "Text": "بیاگند مغز‌ش به مشک و عبیر",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: به او بگو که مغز و عقلش را با مشک و عطر معطر کند و نزد فردی بزرگ و با تجربه بفرستد."
     },
     {
       "VOrder": 80,
@@ -1101,7 +1141,8 @@
       "Text": "چنین گفت کاینت سر آن نیاز",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: او چنین گفت که ای جوان، برای رسیدن به آن خواسته‌ات، تاجی که متعلق به نیاکانت بود، باید دوباره به دست آوری."
     },
     {
       "VOrder": 82,
@@ -1117,7 +1158,8 @@
       "Text": "کنون خواه تاجش ده و خواه تخت",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "اکنون چه می خواهی تاجش بدهی یا تخت ولی آن درخت سایه گستری که به آن نذر و نیاز میکردند از دست رفت."
     },
     {
       "VOrder": 84,
@@ -1133,7 +1175,8 @@
       "Text": "برفتند باز آن دو بیداد شوم",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: دو نفر که رفتارهای ظالمانه‌ای داشتند، دوباره رفتند؛ یکی به سمت سرزمین ترک و دیگری به سمت روم."
     },
     {
       "VOrder": 86,

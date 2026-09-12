@@ -25,20 +25,23 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "عابدی را حکایت کنند که شبی ده مَن طعام بخوردی و تا سحر خَتْمی در نماز بکردی.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: روایت شده است که عابدی در شبی ده من غذا خورد و تا سحر در نماز مشغول به ذکر و عبادت بود."
     },
     {
       "VOrder": 2,
       "Position": "Paragraph",
       "Text": "صاحبدلی شنید و گفت: اگر نیم نانی بخوردی و بخفتی، بسیار از این فاضل‌تر بودی.",
-      "CoupletIndex": 1
+      "CoupletIndex": 1,
+      "CoupletSummary": "هوش مصنوعی: یکی از حکیمان گفت: اگر تو کمی نان می‌خوردی و استراحت می‌کردی، به مراتب از این فرد دانشمندتر بودی."
     },
     {
       "VOrder": 3,
       "Position": "Right",
       "Text": "اندرون از طعام خالی دار",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "شکم از خوردنی تُهی دار تا به کم‌خواری، دیده‌ات به فروغِ دانش روشن شود."
     },
     {
       "VOrder": 4,
@@ -52,7 +55,8 @@
       "Position": "Right",
       "Text": "تهی از حکمتی به علّتِ آن",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "تو از علم بدان سبب تهیدست مانده‌ای که معده تا بینی از خوردنی می‌انباری."
     },
     {
       "VOrder": 6,

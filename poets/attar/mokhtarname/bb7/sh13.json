@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "شایستهٔ این هوس نهای، تو چه کنی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو چنین آرزویی داری، چه کار می‌توانی از دست بدهی وقتی که در مقام یک مگس حقیر هستی؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "خود را،‌چو تو هیچ کس نهای، تو چه کنی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر خودت را هیچ‌کس بدانی، دیگر چه کاری از دستت برمی‌آید؟ تو که هستی که بخواهی به کسی تبدیل شوی؟"
     },
     {
       "VOrder": 4,

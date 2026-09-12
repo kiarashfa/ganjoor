@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "پیش از من و تو لیل و نهاری بوده‌ست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "قبل از ما همین شب و روز بوده است و جهان بر روال خود کار می‌کرده."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "هر جا که قدم نهی تو بر روی زمین",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هر جا که پا می‌گذاری، نشانه‌ هایی از مردمی که پیش از تو در آنجا بوده‌اند وجود دارد."
     },
     {
       "VOrder": 4,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "چون ز بد گوی من سخن شنوی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر از بدگویی من بشنوی، با عقل خود بر تو اتهام می‌زنم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گویم ار تو نبودیی خرسند",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌گویم اگر تو نبودی، او خوشحال بود، اما برای تو بدی من را نگفت."
     },
     {
       "VOrder": 4,

@@ -1521,7 +1521,8 @@
       "Text": "روزی از صبح فتح نورانی",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "روزی بود که آسمان با صبح و فیروزمندی درخشان خود چهره‌اش را گشاده بود و شاد بود."
     },
     {
       "VOrder": 2,
@@ -1537,7 +1538,8 @@
       "Text": "فرخ و روشن و جهان افروز",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "فرخ و خجسته‌مند بود و دلگشا ؛ چه روزی بود آن روز یادش به یاد!"
     },
     {
       "VOrder": 4,
@@ -1553,7 +1555,8 @@
       "Text": "شه به خوبی چو روی دلبند‌ان",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "شاه بهرام به نیکویی تمام مجلسی زیبا آراست همچون روی زیبای محبوبان و خردمندان را به آن مجلس خوانده بود."
     },
     {
       "VOrder": 6,
@@ -1569,7 +1572,8 @@
       "Text": "روز خانه نه روز بستان بود",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "روز (سرد زمستانی) و ماندن در خانه بود نه روز رفتن به بستان و باغ."
     },
     {
       "VOrder": 8,
@@ -1585,7 +1589,8 @@
       "Text": "شمع و قندیل باغ‌ها مرده",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "فصلی بود که شکوفه و برگی بر درختان نبود و\u00A0 باغبان بی‌توشه بود."
     },
     {
       "VOrder": 10,
@@ -1601,7 +1606,8 @@
       "Text": "بانگ دزدیده بلبلان را زاغ",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "صدای زاغان و کلاغان در آن زمستان بر جای بانگ بلبلان شنیده می‌شد و زاغان فریادکنان تهمت دزدی به بلبلان می‌زدند."
     },
     {
       "VOrder": 12,
@@ -1617,7 +1623,8 @@
       "Text": "زاغ جز هندو‌ی نسب نبوَد",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "آنکه دزد است خود زاغ سیاه‌روی است که دزدی از بدنامان عجب نیست."
     },
     {
       "VOrder": 14,
@@ -1633,7 +1640,8 @@
       "Text": "زاغ مانده به باغ بی‌بلبل",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "زاغ مانده بود و باغ خموش از صدای بلبل و از گل جز خار چیزی بجای نمانده بود."
     },
     {
       "VOrder": 16,
@@ -1649,7 +1657,8 @@
       "Text": "داده نقاش باد شبگیر‌ی",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "باد شبگیری بر روی آب‌، موج‌های و نقش‌های زنجیری می‌کشید."
     },
     {
       "VOrder": 18,
@@ -1665,7 +1674,8 @@
       "Text": "تاب سرما که بُرد از آتش تاب",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "آب را به یخ و قندیل‌های تیز تبدیل کرد و تیزی شمشیر را در برابر تیغ سرمای خود شرمنده کرد. (آب کرد یعنی خجالت‌زده کرد)"
     },
     {
       "VOrder": 20,
@@ -1681,7 +1691,8 @@
       "Text": "دمه پیکان آبدار به دست",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "باد سوزناک سرد زمستانی همچون تیر تیز بر چشمان فرو می‌آمد و چشمه‌ها یخ زده بود."
     },
     {
       "VOrder": 22,
@@ -1697,7 +1708,8 @@
       "Text": "شیر در جوش چون پنیر شده",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "شیر داغ همچون پنیر دلمه می‌بست و خون در بدن یخ می‌زد."
     },
     {
       "VOrder": 24,
@@ -1713,7 +1725,8 @@
       "Text": "کوهْ قاقم‌، زمینْ حواصل‌پوش",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "کوهْ قاقم و زمین حواصل پوشیده بود و آسمان رَدایی از پوستین سنجاب بر دوش کشیده بود."
     },
     {
       "VOrder": 26,
@@ -1729,7 +1742,8 @@
       "Text": "بر بهایم ددان کمین کرده",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "ددان وحشی برای صید چهارپایان اهلی و وحشی کمین کرده بودند و آنها را خورده تا گرم شوند."
     },
     {
       "VOrder": 28,
@@ -1745,7 +1759,8 @@
       "Text": "رستنی در کشیده سر به زمین",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "گیاهی دیده نمی‌شد و همه نباتات گوشه‌نشین گشته بودند."
     },
     {
       "VOrder": 30,
@@ -1761,7 +1776,8 @@
       "Text": "کیمیا کاریِ جهان دو رنگ",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "شگفت‌کاری دنیای دورو کاری کرده بود که آتش و گرما در دسترس نبود."
     },
     {
       "VOrder": 32,
@@ -1777,7 +1793,8 @@
       "Text": "گل ز حکمت به کوزه‌ای پوده",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: گل با حکمت در کوزه‌ای نشسته، و دلی که از حکمت پر شده، به شکلی زیبا زینت داده شده است."
     },
     {
       "VOrder": 34,
@@ -1793,7 +1810,8 @@
       "Text": "زیبقی‌های آبگینهٔ\u00A0آب",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "آبِ چالاک و سیمابی، یخ زده و لایه لایه نقره ناب شده بود. زیبقی یعنی سیماب‌وار\u00A0\u00A0"
     },
     {
       "VOrder": 36,
@@ -1809,7 +1827,8 @@
       "Text": "در چنین فصل تاب‌خانه شاه",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "در چنین فصلی سردو زمستانی‌، گرم‌خانه شاه‌، چهار فصل را نگاه داشته بود."
     },
     {
       "VOrder": 38,
@@ -1825,7 +1844,8 @@
       "Text": "از بسی بوی‌های عطر‌آمیز",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "از فراوانی بوهای خوش، باد زمستانی بهاری شده بود."
     },
     {
       "VOrder": 40,
@@ -1841,7 +1861,8 @@
       "Text": "میوه‌ها و شراب‌های چو نوش",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "میوه‌ها و شراب‌ها خوش همچون عسل، مغز آدم کسل را بیدار می‌کرد."
     },
     {
       "VOrder": 42,
@@ -1857,7 +1878,8 @@
       "Text": "آتش انگیخته ز صندل و عود",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "از صندل و عود آتش افروخته شده بود و دودهای خوش‌عطر همچون هندوان آتش‌پرست در نزدیک آتش بودند."
     },
     {
       "VOrder": 44,
@@ -1873,7 +1895,8 @@
       "Text": "آتشی زو نشاط را پشتی",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "آتشی که پُشتی و پشتیبان نشاط بود (در سرما اشخاص برای گرم شدن کامل‌، پشت به آتش می‌ایستند که گاهی به‌طنز، این‌حالت را مختص ایرانی‌ها می‌شناسند)."
     },
     {
       "VOrder": 46,
@@ -1889,7 +1912,8 @@
       "Text": "خونی از جوش منعقد گشته",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "خون‌ها از گرما به‌جوش آمده و پوست چهره‌ها سرخ‌گون شده بود."
     },
     {
       "VOrder": 48,
@@ -1905,7 +1929,8 @@
       "Text": "فندقی رنگ داده عنابش",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "عناب میوه‌ای است شبیه سنجد و قرمز رنگ."
     },
     {
       "VOrder": 50,
@@ -1921,7 +1946,8 @@
       "Text": "سرخ سیبی دل از میان کنده",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "سیب‌های سرخ برای پذیرایی خالی شده و از دانه انار پر شده بود."
     },
     {
       "VOrder": 52,
@@ -1937,7 +1963,8 @@
       "Text": "کهربا‌یی ز قیر کرده خِضاب",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "خضاب یعنی وسمه، وسمه گیاهی است که برگ‌هایش پس از رسیدن سیاه می‌شود و از آن برای رنگ مو استفاده کنند."
     },
     {
       "VOrder": 54,
@@ -1953,7 +1980,8 @@
       "Text": "ظلمتی کشته از نوالهٔ\u00A0نور",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "نواله نور آتش‌، تاریکی را از بین برده بود و در میان شعله‌های سرخ آتش‌، اخگر پدیدار گشته بود. (گلاله سور: یعنی گلاله سرخ. در کُردی به همین شکل گفته می‌شود)"
     },
     {
       "VOrder": 56,
@@ -1969,7 +1997,8 @@
       "Text": "ترکی از اصل رومیان نسبش",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "زیبارویی از اهالی روم که هندوان که خود به زیبایی چشم معروفند او را قرة‌العین می‌خواندند. (ترک در اینجا یعنی زیبا و زیباروی)"
     },
     {
       "VOrder": 58,
@@ -1985,7 +2014,8 @@
       "Text": "مشعل یونس و چراغ کلیم",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "مشعل و نجات‌بخش یونس (که در تاریکی مانده بود) و شعله راهنمای کلیم و شادی بخش عیسی و باغ گل و گلستان ابراهیم."
     },
     {
       "VOrder": 60,
@@ -2001,7 +2031,8 @@
       "Text": "شوشه‌های زکال مشگین رنگ",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "زکال: زغال"
     },
     {
       "VOrder": 62,
@@ -2017,7 +2048,8 @@
       "Text": "آن سیه رنگ و این عقیق صفات",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "آن سیاه رنگ بود و این همچون عقیق سرخ و همچون گنج یاقوت در ظلمات می‌درخشید."
     },
     {
       "VOrder": 64,
@@ -2033,7 +2065,8 @@
       "Text": "گوهر‌ش داده دیده‌ها را قوت",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "نور آن چشم‌ها را قوت و توان می‌بخشید با رنگ‌های زرد و سرخ و کبود و درخشان چون یاقوت و جواهر."
     },
     {
       "VOrder": 66,
@@ -2049,7 +2082,8 @@
       "Text": "نو عروسی شراره زیور او",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: عروس نو، با زیبایی و زرق و برقش، همچون ماده عطرین و خوشبو در لباسش درخشید."
     },
     {
       "VOrder": 68,
@@ -2065,7 +2099,8 @@
       "Text": "حجله و بزمه‌ای به زر کاری",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "بزمه یعنی گوشه و طرفی از بزمگاه"
     },
     {
       "VOrder": 70,
@@ -2081,7 +2116,8 @@
       "Text": "گرد آن بزمه پرند زده",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: پرنده‌ای در محفل خوشی پرواز کرده و به نوعی خود را برای این مراسم آماده کرده است."
     },
     {
       "VOrder": 72,
@@ -2097,7 +2133,8 @@
       "Text": "بر سر آتش از سر خاصی",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: در کنار آتش، فاخته‌ای پرهایش را به زیبایی می‌ریزد و می‌رقصد."
     },
     {
       "VOrder": 74,
@@ -2113,7 +2150,8 @@
       "Text": "زردی شعله در بخار گیاه",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: شعله زرد رنگی که در بخار گیاه دیده می‌شود، نشان از گنجی ارزشمند دارد که زیر یک مار سیاه پنهان شده است."
     },
     {
       "VOrder": 76,
@@ -2129,7 +2167,8 @@
       "Text": "دوزخی و بهشتیش مشهور",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: در دوزخ به خاطر گرمای شدیدش شناخته شده و بهشت به خاطر نور زیبایش."
     },
     {
       "VOrder": 78,
@@ -2145,7 +2184,8 @@
       "Text": "دوزخ اهل کاروان کنشت",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: دوزخ برای کسانی که به کاروان رفتند، همانند یک گناه است، در حالی که بهشت، جایی است برای کسانی که در مسیر درستی گام برمی‌دارند و راهی را برای عبور از سختی‌ها و رسیدن به خوشبختی پیدا می‌کنند."
     },
     {
       "VOrder": 80,
@@ -2161,7 +2201,8 @@
       "Text": "زند زردشت نغمه‌ساز بر او",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: زند زردشت به عنوان یک شاعری با نغمه‌های زیبا بر او می‌تازد و مانند پروانه‌ای که دور آتشی بچرخد، بر او توجه می‌کند."
     },
     {
       "VOrder": 82,
@@ -2177,7 +2218,8 @@
       "Text": "آب افسرده را گشاده مسام",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: اگر آب را به حال خود رها کنی، ممکن است به انجماد یا افسردگی برسد، اما ای کاش این آتش به نام آتش نمی‌بود و به حالت آرامش بازگشت. "
     },
     {
       "VOrder": 84,
@@ -2193,7 +2235,8 @@
       "Text": "خانه سرسبزتر ز سایه سرو",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "خانه بسیار دلنشین و جایی خوش بود همچون سایه سرو و باده و شراب آماده بود باده‌ای بسیار ناب و سرخ."
     },
     {
       "VOrder": 86,
@@ -2209,7 +2252,8 @@
       "Text": "ریخته آسمان فاخته گون",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: از آسمان بارانی مانند فاخته می‌بارد و این بارش به حدی است که زمین را پر از خون می‌کند."
     },
     {
       "VOrder": 88,
@@ -2225,7 +2269,8 @@
       "Text": "باده در جام آبگینه گهر",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "باده در شیشه و جام گهر‌، دقیقا مثل یخ، شفاف بود و سرخ چون لب معشوق. (جام شفاف بود و باده سرخ)"
     },
     {
       "VOrder": 90,
@@ -2241,7 +2286,8 @@
       "Text": "گور چشمان شراب می‌خوردند",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "گور چشم یعنی کسی که چشمی مانند چشم گور، سیاه و درشت‌ دارد."
     },
     {
       "VOrder": 92,
@@ -2257,7 +2303,8 @@
       "Text": "شاه بهرام گور با یاران",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: شاه بهرام گور با دوستانش مشغول نوشیدن شراب است، مانند دیگر پادشاهان و فرمانروایان."
     },
     {
       "VOrder": 94,
@@ -2273,7 +2320,8 @@
       "Text": "می و نقل و سماع و یاری چند",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: این بیت به بیان حالتی شادی و سرخوشی می‌پردازد که در آن، نوشیدن می، نقل کردن داستان‌ها و سماع کردن همراه با یاری و دوستان به عنوان راه‌هایی برای فراموش کردن غم‌ها و مشکلات اشاره شده است. به طور کلی، مفهوم آن به لذت‌بردن از زندگی و کاهش غم‌ها از طریق خوش‌گذرانی و همراهی با دیگران است."
     },
     {
       "VOrder": 96,
@@ -2289,7 +2337,8 @@
       "Text": "راح گلگون چو گلشکر خنده",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: راهی که مانند گل‌های سرخ و خوشبوست، حالا به سبب اندوهی که به آن دچارشده، شبیه به کسی شده که در آتش زندگی کرده است."
     },
     {
       "VOrder": 98,
@@ -2305,7 +2354,8 @@
       "Text": "مغز‌ها در سماع گرم شده",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: وقتی انسان‌ها در حالت شادی و شور و حال هستند، ذهن‌ها به شدت فعال می‌شوند و احساسات درون آن‌ها با حرارت خاصی شکل می‌گیرد، به‌طوری که مانند مومی نرم و قابل انعطاف می‌شوند."
     },
     {
       "VOrder": 100,
@@ -2321,7 +2371,8 @@
       "Text": "زیرکان راه عیش می‌رُفتند",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: زیرکان به راه سرگرمی و خوشی می‌رفتند و نکات زیبا و باریکی را بیان می‌کردند."
     },
     {
       "VOrder": 102,
@@ -2337,7 +2388,8 @@
       "Text": "هر گرانمایه‌ای ز مایهٔ\u00A0خویش",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: هر فرد باارزشی بر اساس توانایی‌های خود و با توجه به جایگاهی که دارد، صحبت می‌کند."
     },
     {
       "VOrder": 104,
@@ -2353,7 +2405,8 @@
       "Text": "چون سخن در سخن مسلسل گشت",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "هوش مصنوعی: وقتی که حرف‌ها به صورت زنجیره‌ای ادامه پیدا کرد، شخصی که در بیان کردن مطالب مهارت دارد، از کنار ما عبور کرد."
     },
     {
       "VOrder": 106,
@@ -2369,7 +2422,8 @@
       "Text": "کاین درج که‌آسمان‌ ِ شه دارد",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "هوش مصنوعی: اینجا جهانی وجود دارد که آسمان و ویژگی‌های مختلف آن را در بر دارد، و این لحظه‌ای است که او بر آن نظارت می‌کند و آن را تحت نظر دارد."
     },
     {
       "VOrder": 108,
@@ -2385,7 +2439,8 @@
       "Text": "هیچ‌کس را ز خسروان جهان",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس نه در ظاهر و نه در باطن، خسروان جهان را مشاهده نکرده است."
     },
     {
       "VOrder": 110,
@@ -2401,7 +2456,8 @@
       "Text": "هست ما را ز فر تارک او",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "هوش مصنوعی: ما به خاطر او همه چیز را داریم و همه چیز در پی اوست."
     },
     {
       "VOrder": 112,
@@ -2417,7 +2473,8 @@
       "Text": "ایمنی هست و تندرستی هست",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "هوش مصنوعی: امنیت و سلامتی وجود دارد، دشمن در تنگنا قرار دارد و امکانات به وفور در دسترس است."
     },
     {
       "VOrder": 114,
@@ -2433,7 +2490,8 @@
       "Text": "تندرستی و ایمنی و کفاف",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "هوش مصنوعی: سلامتی، امنیت و تأمین نیازهای اساسی، خیلی مهم‌تر از حرف‌ها و ادعاهای پوچ و بی‌محتوا هستند."
     },
     {
       "VOrder": 116,
@@ -2449,7 +2507,8 @@
       "Text": "تن چو پوشیده گشت و حوصله پُر",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "هوش مصنوعی: وقتی که بدن به طور کامل پوشیده می‌شود و روح هم پر از احساسات و تجربیات می‌شود، در دنیا سعی کن نه مانند لعل (که با ارزش و زیباست) باش و نه در حالت خنثی و بی‌طرف."
     },
     {
       "VOrder": 118,
@@ -2465,7 +2524,8 @@
       "Text": "ما که مثل تو پادشا داریم",
       "CoupletIndex": 59,
       "SectionIndex1": 0,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "هوش مصنوعی: ما که مانند تو، پادشاهی نداریم، اما همه چیزهایی که داریم، به خاطر وجود توست."
     },
     {
       "VOrder": 120,
@@ -2481,7 +2541,8 @@
       "Text": "کاشکی چاره‌ای در آن بودی",
       "CoupletIndex": 60,
       "SectionIndex1": 0,
-      "SectionIndex2": 62
+      "SectionIndex2": 62,
+      "CoupletSummary": "هوش مصنوعی: کاش می‌توانستی کاری کنی که چشم بد از ما دور باشد."
     },
     {
       "VOrder": 122,
@@ -2497,7 +2558,8 @@
       "Text": "گردش اختر و پیام سپهر",
       "CoupletIndex": 61,
       "SectionIndex1": 0,
-      "SectionIndex2": 63
+      "SectionIndex2": 63,
+      "CoupletSummary": "هوش مصنوعی: چرخش ستاره‌ها و پیام آسمان نیز در این خوشبختی چهره‌اش را نمایان ساخت."
     },
     {
       "VOrder": 124,
@@ -2513,7 +2575,8 @@
       "Text": "طالع خوشدلی ز ره نشدی",
       "CoupletIndex": 62,
       "SectionIndex1": 0,
-      "SectionIndex2": 64
+      "SectionIndex2": 64,
+      "CoupletSummary": "هوش مصنوعی: اگر خوشبختی و شادی در زندگی به دست نیامده باشد، موجب ناراحتی و افسردگی خوش‌دل‌ها نخواهد شد."
     },
     {
       "VOrder": 126,
@@ -2529,7 +2592,8 @@
       "Text": "تا همه ساله شاه بودی شاد",
       "CoupletIndex": 63,
       "SectionIndex1": 0,
-      "SectionIndex2": 65
+      "SectionIndex2": 65,
+      "CoupletSummary": "هوش مصنوعی: تا همیشه خوشی و شادی در زندگی‌ات برقرار باشد، نباید بگذارید مشکلات و سختی‌ها آن را از بین ببرند."
     },
     {
       "VOrder": 128,
@@ -2545,7 +2609,8 @@
       "Text": "شادمان جان شاه می‌باید",
       "CoupletIndex": 64,
       "SectionIndex1": 0,
-      "SectionIndex2": 66
+      "SectionIndex2": 66,
+      "CoupletSummary": "هوش مصنوعی: خوشحالی و شادی جان شاه باید برای ما هم مهم باشد؛ حتی اگر جان ما فدای او شود، ممکن است ارزشش را داشته باشد."
     },
     {
       "VOrder": 130,
@@ -2561,7 +2626,8 @@
       "Text": "چون سخن‌گو سخن به پایان برد",
       "CoupletIndex": 65,
       "SectionIndex1": 0,
-      "SectionIndex2": 67
+      "SectionIndex2": 67,
+      "CoupletSummary": "هوش مصنوعی: زمانی که سخن‌گو صحبت‌هایش را تمام کرد، هر فردی به آن سخن گوش سپرد و به آن دل بست."
     },
     {
       "VOrder": 132,
@@ -2577,7 +2643,8 @@
       "Text": "دور کرد آن دم از در آن دمه را",
       "CoupletIndex": 66,
       "SectionIndex1": 0,
-      "SectionIndex2": 68
+      "SectionIndex2": 68,
+      "CoupletSummary": "هوش مصنوعی: در آن لحظه، فراروی آن در، با کلامی زیبا و دلکش، همه را مجذوب و خوشنود کرد."
     },
     {
       "VOrder": 134,
@@ -2593,7 +2660,8 @@
       "Text": "در میان بود مردی آزاده",
       "CoupletIndex": 67,
       "SectionIndex1": 0,
-      "SectionIndex2": 69
+      "SectionIndex2": 69,
+      "CoupletSummary": "هوش مصنوعی: در میان جامعه مردی بزرگوار و با احترام وجود داشت که از نسل nobility و دارای آداب و رسوم پسندیده بود."
     },
     {
       "VOrder": 136,
@@ -2609,7 +2677,8 @@
       "Text": "شیده نامی به روشنی چون شید",
       "CoupletIndex": 68,
       "SectionIndex1": 0,
-      "SectionIndex2": 70
+      "SectionIndex2": 70,
+      "CoupletSummary": "هوش مصنوعی: شیده، شخصی است که روشنی او مانند ماه می‌تابد و می‌تواند تصاویری زیبا از هر رنگی، چه سیاه و چه سفید، خلق کند."
     },
     {
       "VOrder": 138,
@@ -2625,7 +2694,8 @@
       "Text": "اوستاد‌ی به شغل رسامی",
       "CoupletIndex": 69,
       "SectionIndex1": 0,
-      "SectionIndex2": 71
+      "SectionIndex2": 71,
+      "CoupletSummary": "هوش مصنوعی: یک استاد در زمینه نقاشی و طراحی در حرفه مهندسی شناخته شده است."
     },
     {
       "VOrder": 140,
@@ -2641,7 +2711,8 @@
       "Text": "از طبیعی و هندسی و نجوم",
       "CoupletIndex": 70,
       "SectionIndex1": 0,
-      "SectionIndex2": 72
+      "SectionIndex2": 72,
+      "CoupletSummary": "هوش مصنوعی: همه چیزهای طبیعی، هندسی و نجومی در دست او هستند، مانند مهره‌های موم که به راحتی شکل می‌گیرند."
     },
     {
       "VOrder": 142,
@@ -2657,7 +2728,8 @@
       "Text": "خرده‌کار‌ی به کار بنایی",
       "CoupletIndex": 71,
       "SectionIndex1": 0,
-      "SectionIndex2": 73
+      "SectionIndex2": 73,
+      "CoupletSummary": "هوش مصنوعی: شغف کوچک در میان کار ساخت و ساز، نقشی زیبا بر چهره می‌نهد."
     },
     {
       "VOrder": 144,
@@ -2673,7 +2745,8 @@
       "Text": "کز لطافت چو کلک و تیشه گشاد",
       "CoupletIndex": 72,
       "SectionIndex1": 0,
-      "SectionIndex2": 74
+      "SectionIndex2": 74,
+      "CoupletSummary": "هوش مصنوعی: به خاطر لطافت و زیبایی هنر و ذوق، جان من به سهولت از زمان جدا می‌شود و دل من از فرهاد گرفته می‌شود."
     },
     {
       "VOrder": 146,
@@ -2689,7 +2762,8 @@
       "Text": "کرده شاگردی خرد به درست",
       "CoupletIndex": 73,
       "SectionIndex1": 0,
-      "SectionIndex2": 75
+      "SectionIndex2": 75,
+      "CoupletSummary": "هوش مصنوعی: آدم خردمند، با شاگردی کردن در زمینه‌های درست و اصولی، به مقام و مقام بالایی می‌رسد که استاد بزرگ او خواهد بود."
     },
     {
       "VOrder": 148,
@@ -2705,7 +2779,8 @@
       "Text": "در\u00A0خَوَرْنَق\u00A0ز نغز‌کاری‌ها",
       "CoupletIndex": 74,
       "SectionIndex1": 0,
-      "SectionIndex2": 76
+      "SectionIndex2": 76,
+      "CoupletSummary": "هوش مصنوعی: در جشن و سرور، از کارهای زیبا و دلپذیر با استاد همراهی و همکاری می‌کند."
     },
     {
       "VOrder": 150,
@@ -2721,7 +2796,8 @@
       "Text": "چون در آن بزم شاه را خوش دید",
       "CoupletIndex": 75,
       "SectionIndex1": 0,
-      "SectionIndex2": 77
+      "SectionIndex2": 77,
+      "CoupletSummary": "هوش مصنوعی: زمانی که در آن مهمانی، پادشاه را خوشحال دید، در حالی که در آب زبانش و در دلش آتش وجود داشت."
     },
     {
       "VOrder": 152,
@@ -2737,7 +2813,8 @@
       "Text": "زد زمین بوس و گشت شاه‌پرست",
       "CoupletIndex": 76,
       "SectionIndex1": 0,
-      "SectionIndex2": 78
+      "SectionIndex2": 78,
+      "CoupletSummary": "هوش مصنوعی: بر روی زمین خم شد و سجده کرد و به احترام شاه ایستاد، چون زمین به او بوسه داد و او توانست دوباره به حالت ایستاده برگردد."
     },
     {
       "VOrder": 154,
@@ -2753,7 +2830,8 @@
       "Text": "گفت اگر باشدم ز شه دستور",
       "CoupletIndex": 77,
       "SectionIndex1": 0,
-      "SectionIndex2": 79
+      "SectionIndex2": 79,
+      "CoupletSummary": "هوش مصنوعی: او گفت اگر از طرف پادشاهی فرمانی برای من صادر شود، از شر چشم‌زخم و حسد دور خواهم بود."
     },
     {
       "VOrder": 156,
@@ -2769,7 +2847,8 @@
       "Text": "که‌آسمان‌سنجم و ستاره‌شناس",
       "CoupletIndex": 78,
       "SectionIndex1": 0,
-      "SectionIndex2": 80
+      "SectionIndex2": 80,
+      "CoupletSummary": "هوش مصنوعی: به عنوان یک ستاره‌شناس و آسمان‌شناس، من به خوبی از کارکرد و رفتار ستاره‌ها و سیاره‌ها آگاه هستم و می‌توانم آن‌ها را با دقت مورد بررسی قرار دهم."
     },
     {
       "VOrder": 158,
@@ -2785,7 +2864,8 @@
       "Text": "در نگارندگی و گُلکاری",
       "CoupletIndex": 79,
       "SectionIndex1": 0,
-      "SectionIndex2": 81
+      "SectionIndex2": 81,
+      "CoupletSummary": "هوش مصنوعی: در خلق مناظر زیبا و طراحی گل‌ها، الهام و مهارت من ناشی از وحی الهی است."
     },
     {
       "VOrder": 160,
@@ -2801,7 +2881,8 @@
       "Text": "نسبتی گیرم از سپهر بلند",
       "CoupletIndex": 80,
       "SectionIndex1": 0,
-      "SectionIndex2": 82
+      "SectionIndex2": 82,
+      "CoupletSummary": "هوش مصنوعی: من از آسمان بالا نسبتی دارم که موجب می‌شود به من آسیبی نرسد."
     },
     {
       "VOrder": 162,
@@ -2817,7 +2898,8 @@
       "Text": "تا بوَد در نشاط‌خانهٔ\u00A0خاک",
       "CoupletIndex": 81,
       "SectionIndex1": 0,
-      "SectionIndex2": 83
+      "SectionIndex2": 83,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که در دنیای مادی و زندگی اینجا هستیم، نباید نگران ستاره‌ها و سرنوشت‌هایی باشیم که در آسمان رقم خورده‌اند."
     },
     {
       "VOrder": 164,
@@ -2833,7 +2915,8 @@
       "Text": "جای در حرز‌گاه جان دارد",
       "CoupletIndex": 82,
       "SectionIndex1": 0,
-      "SectionIndex2": 84
+      "SectionIndex2": 84,
+      "CoupletSummary": "هوش مصنوعی: در زمینی که در آنجا به حفظ جان پرداخته می‌شود، از نظر قدرت می‌تواند مانند آسمان عمل کند و تاثیرگذار باشد."
     },
     {
       "VOrder": 166,
@@ -2849,7 +2932,8 @@
       "Text": "و‌آن چنان است کز گزارش کار",
       "CoupletIndex": 83,
       "SectionIndex1": 0,
-      "SectionIndex2": 85
+      "SectionIndex2": 85,
+      "CoupletSummary": "هوش مصنوعی: این گونه است که از بیان و روایت کار هفت پیکر، همچون هفت حصار می‌چوبم و نگه می‌دارم."
     },
     {
       "VOrder": 168,
@@ -2865,7 +2949,8 @@
       "Text": "رنگ هر گنبدی جداگانه",
       "CoupletIndex": 84,
       "SectionIndex1": 0,
-      "SectionIndex2": 86
+      "SectionIndex2": 86,
+      "CoupletSummary": "هوش مصنوعی: هر گنبدی رنگ و زیبایی خاص خود را دارد که از زیبایی صد معبد هم بیشتر است."
     },
     {
       "VOrder": 170,
@@ -2881,7 +2966,8 @@
       "Text": "شاه را هفت نازنین صنم است",
       "CoupletIndex": 85,
       "SectionIndex1": 0,
-      "SectionIndex2": 87
+      "SectionIndex2": 87,
+      "CoupletSummary": "هوش مصنوعی: شاه هفت زیبای دل‌ربا دارد و هر یک از آن‌ها نشانه‌ای از یک سرزمین خاص را با خود دارند."
     },
     {
       "VOrder": 172,
@@ -2897,7 +2983,8 @@
       "Text": "هست هر کشوری به رکن و اساس",
       "CoupletIndex": 86,
       "SectionIndex1": 0,
-      "SectionIndex2": 88
+      "SectionIndex2": 88,
+      "CoupletSummary": "هوش مصنوعی: هر کشوری به نوعی دارای بنیانی محکم و اساسی است که می‌توان آن را با یک ستاره مقایسه کرد."
     },
     {
       "VOrder": 174,
@@ -2913,7 +3000,8 @@
       "Text": "هفته را بی‌صداع گفت و شنید",
       "CoupletIndex": 87,
       "SectionIndex1": 0,
-      "SectionIndex2": 89
+      "SectionIndex2": 89,
+      "CoupletSummary": "هوش مصنوعی: هفته را بدون دردسر و مشکل گذراند و شنیده که روزهای ستاره، روزهای خوبی هستند که نمایان می‌شوند."
     },
     {
       "VOrder": 176,
@@ -2929,7 +3017,8 @@
       "Text": "در چنان روزهای بزم افروز",
       "CoupletIndex": 88,
       "SectionIndex1": 0,
-      "SectionIndex2": 90
+      "SectionIndex2": 90,
+      "CoupletSummary": "هوش مصنوعی: در روزهایی که شادی و جشن برقرار است، به هر روز بر دایرهٔ شادی افزوده می‌شود."
     },
     {
       "VOrder": 178,
@@ -2945,7 +3034,8 @@
       "Text": "جامه همرنگ خانه در پوشد",
       "CoupletIndex": 89,
       "SectionIndex1": 0,
-      "SectionIndex2": 91
+      "SectionIndex2": 91,
+      "CoupletSummary": "هوش مصنوعی: در لباس هم‌رنگ محیطش می‌شود و در کنار معشوقش، خوشی و نوشیدن شراب را تجربه می‌کند."
     },
     {
       "VOrder": 180,
@@ -2961,7 +3051,8 @@
       "Text": "گر برین گفته شاه کار کند",
       "CoupletIndex": 90,
       "SectionIndex1": 0,
-      "SectionIndex2": 92
+      "SectionIndex2": 92,
+      "CoupletSummary": "هوش مصنوعی: اگر شاه به این سخن عمل کند، خود را بزرگ و ارجمند خواهد ساخت."
     },
     {
       "VOrder": 182,
@@ -2977,7 +3068,8 @@
       "Text": "تا بود عمر بر نشانهٔ\u00A0کار",
       "CoupletIndex": 91,
       "SectionIndex1": 0,
-      "SectionIndex2": 93
+      "SectionIndex2": 93,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که زندگی ادامه دارد، باید از آن به خوبی استفاده کرد و به آثار و کارهای خود توجه داشت."
     },
     {
       "VOrder": 184,
@@ -2993,7 +3085,8 @@
       "Text": "شاه گفتا گرفتم این کردم",
       "CoupletIndex": 92,
       "SectionIndex1": 0,
-      "SectionIndex2": 94
+      "SectionIndex2": 94,
+      "CoupletSummary": "شاه گفت: فرض کن این کارها را کردم؛ خانه‌‌‌ای زرین و دری آهنین و محکم ساختم. (کردم در مصرع دوم یعنی ساختم‌)"
     },
     {
       "VOrder": 186,
@@ -3009,7 +3102,8 @@
       "Text": "عاقبت چون همی بباید مرد",
       "CoupletIndex": 93,
       "SectionIndex1": 0,
-      "SectionIndex2": 95
+      "SectionIndex2": 95,
+      "CoupletSummary": "هوش مصنوعی: در نهایت، وقتی که انسان باید بمیرد، برای چه باید این همه رنج و زحمت را تحمل کند؟"
     },
     {
       "VOrder": 188,
@@ -3025,7 +3119,8 @@
       "Text": "و‌آنچه گفتی که گنبد آرایم",
       "CoupletIndex": 94,
       "SectionIndex1": 0,
-      "SectionIndex2": 96
+      "SectionIndex2": 96,
+      "CoupletSummary": "هوش مصنوعی: آنچه تو گفتی که گنبدی برای زینت خانه درست کنم، من همانطور به تزیین آن ادامه خواهم داد."
     },
     {
       "VOrder": 190,
@@ -3041,7 +3136,8 @@
       "Text": "این‌همه خانه‌های کام و هواست",
       "CoupletIndex": 95,
       "SectionIndex1": 0,
-      "SectionIndex2": 97
+      "SectionIndex2": 97,
+      "CoupletSummary": "هوش مصنوعی: این همه خوشی‌ها و آرزوها در این دنیا وجود دارد، اما خانه واقعی خالق خوشبختی و سعادت کجاست؟"
     },
     {
       "VOrder": 192,
@@ -3057,7 +3153,8 @@
       "Text": "در همه گرچه آفرین گویم",
       "CoupletIndex": 96,
       "SectionIndex1": 0,
-      "SectionIndex2": 98
+      "SectionIndex2": 98,
+      "CoupletSummary": "هوش مصنوعی: اگرچه من در همه جا از خالق و آفریننده ستایش می‌کنم، اما نمی‌توانم او را در کجا پیدا کنم؟"
     },
     {
       "VOrder": 194,
@@ -3073,7 +3170,8 @@
       "Text": "باز گفت این سخن خطا گفتم",
       "CoupletIndex": 97,
       "SectionIndex1": 0,
-      "SectionIndex2": 99
+      "SectionIndex2": 99,
+      "CoupletSummary": "هوش مصنوعی: او بار دیگر می‌گوید که در حرف‌هایش اشتباه کرده و از خود می‌پرسد چرا درباره خالق سخن گفته است."
     },
     {
       "VOrder": 196,
@@ -3089,7 +3187,8 @@
       "Text": "آنکه در جا نشایدش دیدن",
       "CoupletIndex": 98,
       "SectionIndex1": 0,
-      "SectionIndex2": 100
+      "SectionIndex2": 100,
+      "CoupletSummary": "هوش مصنوعی: کسی که نمی‌تواند در یک جا بماند، می‌توان او را در همه جا ستایش کرد."
     },
     {
       "VOrder": 198,
@@ -3105,7 +3204,8 @@
       "Text": "این سخن گفت شاه و گشت خموش",
       "CoupletIndex": 99,
       "SectionIndex1": 0,
-      "SectionIndex2": 101
+      "SectionIndex2": 101,
+      "CoupletSummary": "هوش مصنوعی: شاه این صحبت را بیان کرد و بعد از آن ساکت شد، زیرا آن خواسته در ذهنش به جوش و خروش افتاد."
     },
     {
       "VOrder": 200,
@@ -3121,7 +3221,8 @@
       "Text": "زانکه در کارنامه سمنار",
       "CoupletIndex": 100,
       "SectionIndex1": 0,
-      "SectionIndex2": 102
+      "SectionIndex2": 102,
+      "CoupletSummary": "هوش مصنوعی: چون در تاریخچه سمنار نظاره کرد که در توصیف هفت پیکر چه کار کرده‌اند."
     },
     {
       "VOrder": 202,
@@ -3137,7 +3238,8 @@
       "Text": "کان پری‌پیکران‌ِ هفت اقلیم",
       "CoupletIndex": 101,
       "SectionIndex1": 0,
-      "SectionIndex2": 103
+      "SectionIndex2": 103,
+      "CoupletSummary": "هوش مصنوعی: این جمله به توصیف موجودی یا شخصیتی می‌پردازد که مانند درختی در دنیای وسیع و گسترده (هفت اقلیم) جلوه‌ای زیبا و خاص دارد. در این توصیف، او به گونه‌ای به دیگران می luminishes و درخشش و جذابیتی دارد که مانند یک مروارید یتیم در دل دریاچه است؛ یعنی نادر و با ارزش، اما بدون صاحب. به عبارتی، زیبایی و اهمیت او در میان دیگران مشهود است و او نمایانگر خصلت‌های نیکو و درخشانی است."
     },
     {
       "VOrder": 204,
@@ -3153,7 +3255,8 @@
       "Text": "در گرفت این سخن به شاه جهان",
       "CoupletIndex": 102,
       "SectionIndex1": 0,
-      "SectionIndex2": 104
+      "SectionIndex2": 104,
+      "CoupletSummary": "هوش مصنوعی: این سخن به گوش پادشاه بزرگ رسید، کسی که از امور پنهان آگاه بود."
     },
     {
       "VOrder": 206,
@@ -3169,7 +3272,8 @@
       "Text": "در جواب سخن نکرد شتاب",
       "CoupletIndex": 103,
       "SectionIndex1": 0,
-      "SectionIndex2": 105
+      "SectionIndex2": 105,
+      "CoupletSummary": "هوش مصنوعی: او به سخنان من پاسخی نداد و برای چند روز هم به من جوابی نداد."
     },
     {
       "VOrder": 208,
@@ -3185,7 +3289,8 @@
       "Text": "چون برین گفته رفت روزی چند",
       "CoupletIndex": 104,
       "SectionIndex1": 0,
-      "SectionIndex2": 106
+      "SectionIndex2": 106,
+      "CoupletSummary": "هوش مصنوعی: روزی شاه شیدا تصمیم گرفت تا داستان شیده را بخواند. او به دنبال آن بود که از این داستان بهره‌برداری کند و مدت زمانی را به این موضوع اختصاص داد."
     },
     {
       "VOrder": 210,
@@ -3201,7 +3306,8 @@
       "Text": "آنچه پذرفته بود‌، ازو درخواست",
       "CoupletIndex": 105,
       "SectionIndex1": 0,
-      "SectionIndex2": 107
+      "SectionIndex2": 107,
+      "CoupletSummary": "هوش مصنوعی: او از او خواسته بود تا کاری را که باید به درستی انجام دهد، طبق آنچه که قبلاً قبول کرده بود، انجام دهد."
     },
     {
       "VOrder": 212,
@@ -3217,7 +3323,8 @@
       "Text": "گنجی آماده کرد و برگ سپرد",
       "CoupletIndex": 106,
       "SectionIndex1": 0,
-      "SectionIndex2": 108
+      "SectionIndex2": 108,
+      "CoupletSummary": "هوش مصنوعی: او سرمایه‌ای جمع‌آوری کرده و به کسی واگذار کرد تا اگر بتواند، زحمت آن را بکشیده و به دست آورد."
     },
     {
       "VOrder": 214,
@@ -3233,7 +3340,8 @@
       "Text": "روزی از بهر شغل رسامی",
       "CoupletIndex": 107,
       "SectionIndex1": 0,
-      "SectionIndex2": 109
+      "SectionIndex2": 109,
+      "CoupletSummary": "هوش مصنوعی: یک روز برای شغل نقاشی از نعمت جاودانگی بهرام بهره‌مند شدم."
     },
     {
       "VOrder": 216,
@@ -3249,7 +3357,8 @@
       "Text": "مرد اخترشناس طالع بین",
       "CoupletIndex": 108,
       "SectionIndex1": 0,
-      "SectionIndex2": 110
+      "SectionIndex2": 110,
+      "CoupletSummary": "هوش مصنوعی: مرد ستاره‌شناس و پیشگو، برای کسی که چهره خوشی دارد، سرنوشتی نیکو انتخاب کرد."
     },
     {
       "VOrder": 218,
@@ -3265,7 +3374,8 @@
       "Text": "شیده بر طالعی خجسته نهاد",
       "CoupletIndex": 109,
       "SectionIndex1": 0,
-      "SectionIndex2": 111
+      "SectionIndex2": 111,
+      "CoupletSummary": "هوش مصنوعی: او بر سرنوشتی خوش، بنا و پایه‌ای برای کاخ گذاشت."
     },
     {
       "VOrder": 220,
@@ -3281,7 +3391,8 @@
       "Text": "تا دو سال آنچنان بهشتی ساخت",
       "CoupletIndex": 110,
       "SectionIndex1": 0,
-      "SectionIndex2": 112
+      "SectionIndex2": 112,
+      "CoupletSummary": "هوش مصنوعی: او به مدت دو سال فضایی به وجود آورد که آنقدر زیبا و دلنشین بود که هیچ‌کس نتوانست آن را از بهشت تشخیص دهد."
     },
     {
       "VOrder": 222,
@@ -3297,7 +3408,8 @@
       "Text": "چون چنان هفت گنبد گهری",
       "CoupletIndex": 111,
       "SectionIndex1": 0,
-      "SectionIndex2": 113
+      "SectionIndex2": 113,
+      "CoupletSummary": "هوش مصنوعی: وقتی که آن هفت گنبد به زیبایی جواهرین ساخته شد، ساختمان‌ساز هم چنین هنری را به کار برد."
     },
     {
       "VOrder": 224,
@@ -3313,7 +3425,8 @@
       "Text": "هریکی را به طبع و طالع خویش",
       "CoupletIndex": 112,
       "SectionIndex1": 0,
-      "SectionIndex2": 114
+      "SectionIndex2": 114,
+      "CoupletSummary": "هوش مصنوعی: هر فردی باید با توجه به ویژگی‌ها و سرنوشتی که دارد، مراقب خود و وضعیتش باشد."
     },
     {
       "VOrder": 226,
@@ -3329,7 +3442,8 @@
       "Text": "چون شه آمد بدید هفت سپهر",
       "CoupletIndex": 113,
       "SectionIndex1": 0,
-      "SectionIndex2": 115
+      "SectionIndex2": 115,
+      "CoupletSummary": "هوش مصنوعی: وقتی پادشاه آمد، هفت آسمان را در یک مکان مشاهده کرد که به خاطر محبت و دوستی دست در دست هم داده بودند."
     },
     {
       "VOrder": 228,
@@ -3345,7 +3459,8 @@
       "Text": "دید که‌افسانه شد به جمله دیار",
       "CoupletIndex": 114,
       "SectionIndex1": 0,
-      "SectionIndex2": 116
+      "SectionIndex2": 116,
+      "CoupletSummary": "هوش مصنوعی: دید که در تمام سرزمین‌ها، آنچه نُعمان با سمنار انجام داد، به صورت افسانه‌ای در آمده است."
     },
     {
       "VOrder": 230,
@@ -3361,7 +3476,8 @@
       "Text": "ناپسند آمد اهل بینش را",
       "CoupletIndex": 115,
       "SectionIndex1": 0,
-      "SectionIndex2": 117
+      "SectionIndex2": 117,
+      "CoupletSummary": "هوش مصنوعی: اهل دانش و بینش نمی‌توانند کشتن خالق آفریده‌ها را بپذیرند و آن را عمل ناپسندی می‌دانند."
     },
     {
       "VOrder": 232,
@@ -3377,7 +3493,8 @@
       "Text": "تا شود شاد شیده از بهرام",
       "CoupletIndex": 116,
       "SectionIndex1": 0,
-      "SectionIndex2": 118
+      "SectionIndex2": 118,
+      "CoupletSummary": "هوش مصنوعی: برای اینکه شیدا از بهرام شهر بابک شاد شود، تمام تلاش خود را انجام داد."
     },
     {
       "VOrder": 234,
@@ -3393,7 +3510,8 @@
       "Text": "گفت نعمان اگر خطایی کرد",
       "CoupletIndex": 117,
       "SectionIndex1": 0,
-      "SectionIndex2": 119
+      "SectionIndex2": 119,
+      "CoupletSummary": "هوش مصنوعی: نعمان گفت: اگر فردی خطایی کند، مجازات او به خاطر آشنایی‌اش با من خواهد بود."
     },
     {
       "VOrder": 236,
@@ -3409,7 +3527,8 @@
       "Text": "عدل من عذر خواه آن ستم است",
       "CoupletIndex": 118,
       "SectionIndex1": 0,
-      "SectionIndex2": 120
+      "SectionIndex2": 120,
+      "CoupletSummary": "هوش مصنوعی: عدل من بهانه‌ای برای ظلم دیگران نیست، این ظلم ناشی از بخل نیست و آن هم از خوبی و کرم نمی‌آید."
     },
     {
       "VOrder": 238,
@@ -3425,7 +3544,8 @@
       "Text": "کار عالم چنین تواند بود",
       "CoupletIndex": 119,
       "SectionIndex1": 0,
-      "SectionIndex2": 121
+      "SectionIndex2": 121,
+      "CoupletSummary": "هوش مصنوعی: کار عالم به گونه‌ای است که ممکن است برای یک نفر زیان و برای دیگری سود به همراه داشته باشد."
     },
     {
       "VOrder": 240,
@@ -3441,7 +3561,8 @@
       "Text": "یاری از تشنگی کباب شود",
       "CoupletIndex": 120,
       "SectionIndex1": 0,
-      "SectionIndex2": 122
+      "SectionIndex2": 122,
+      "CoupletSummary": "هوش مصنوعی: دوستان ممکن است در شرایط سخت و دشوار به هم کمک کنند، یکی از آن‌ها به خاطر تشنگی در آتش و گرما دچار مشکل می‌شود، در حالی که دیگری ممکن است در آب غرق شود و نیاز به نجات داشته باشد. این نشان‌دهنده‌ی وضعیت‌هایی است که هر کدام در آن‌اند و باید به همدیگر یاری کنند."
     },
     {
       "VOrder": 242,
@@ -3457,7 +3578,8 @@
       "Text": "همه در کار خویش حیران‌ند",
       "CoupletIndex": 121,
       "SectionIndex1": 0,
-      "SectionIndex2": 123
+      "SectionIndex2": 123,
+      "CoupletSummary": "هوش مصنوعی: همه در کار خود گیج و سردرگم هستند و هیچ راهی جز سکوت برای خود نمی‌بینند."
     },
     {
       "VOrder": 244,
@@ -3473,7 +3595,8 @@
       "Text": "چونکه بهرام کیقباد کلاه",
       "CoupletIndex": 122,
       "SectionIndex1": 0,
-      "SectionIndex2": 124
+      "SectionIndex2": 124,
+      "CoupletSummary": "هوش مصنوعی: زمانی که بهرام کیقباد، کلاه و تاج کیخسروی را به ماه برساند، نشان‌دهندهٔ عظمت و قدرت اوست."
     },
     {
       "VOrder": 246,
@@ -3489,7 +3612,8 @@
       "Text": "بیستونی ز ناف مُلک انگیخت",
       "CoupletIndex": 123,
       "SectionIndex1": 0,
-      "SectionIndex2": 125
+      "SectionIndex2": 125,
+      "CoupletSummary": "هوش مصنوعی: مردی به نام فرهاد، تلاش زیادی برای دستیابی به عشقش کرد، اما در نهایت، آن‌چه که او به خاطر آن زحمت کشید، از دستش رفت یا از او دور شد."
     },
     {
       "VOrder": 248,
@@ -3505,7 +3629,8 @@
       "Text": "در چنان بیستون هفت ستون",
       "CoupletIndex": 124,
       "SectionIndex1": 0,
-      "SectionIndex2": 126
+      "SectionIndex2": 126,
+      "CoupletSummary": "هوش مصنوعی: در مکانی همچون بیستون، هفت ستون و هفت گنبد بر آسمان ساخته شده است."
     },
     {
       "VOrder": 250,
@@ -3521,7 +3646,8 @@
       "Text": "شد در آن بارهٔ\u00A0فلک پیوند",
       "CoupletIndex": 125,
       "SectionIndex1": 0,
-      "SectionIndex2": 127
+      "SectionIndex2": 127,
+      "CoupletSummary": "هوش مصنوعی: در آن موضوع، آسمان پیوندی را مشاهده کرد که بر افق بلند قرار داشت."
     },
     {
       "VOrder": 252,
@@ -3537,7 +3663,8 @@
       "Text": "هفت گنبد درون آن باره",
       "CoupletIndex": 126,
       "SectionIndex1": 0,
-      "SectionIndex2": 128
+      "SectionIndex2": 128,
+      "CoupletSummary": "هوش مصنوعی: در اینجا اشاره به فضای وسیعی است که شامل هفت گنبد می‌شود و بر روی طبع هفت سیاره قرار دارد. این گنبدها نمادی از آسمان و سیارات هستند که به طور هنرمندانه‌ای به هم مرتبط شده‌اند."
     },
     {
       "VOrder": 254,
@@ -3553,7 +3680,8 @@
       "Text": "رنگ هر گنبدی ستاره‌شناس",
       "CoupletIndex": 127,
       "SectionIndex1": 0,
-      "SectionIndex2": 129
+      "SectionIndex2": 129,
+      "CoupletSummary": "هوش مصنوعی: رنگ هر گنبدی به نوعی با ویژگی‌های آن ستاره ارتباط دارد و در واقع ستاره‌شناس با توجه به مزاج ستاره‌ها، آنها را مورد بررسی و مقایسه قرار می‌دهد."
     },
     {
       "VOrder": 256,
@@ -3569,7 +3697,8 @@
       "Text": "گنبدی کاو ز قسم کیوان بود",
       "CoupletIndex": 128,
       "SectionIndex1": 0,
-      "SectionIndex2": 130
+      "SectionIndex2": 130,
+      "CoupletSummary": "هوش مصنوعی: گنبدی که به شکل کیوان (زحل) است، در تاریکی مانند مشک پنهان شده است."
     },
     {
       "VOrder": 258,
@@ -3585,7 +3714,8 @@
       "Text": "وانکه بودش ز مشتری مایه",
       "CoupletIndex": 129,
       "SectionIndex1": 0,
-      "SectionIndex2": 131
+      "SectionIndex2": 131,
+      "CoupletSummary": "هوش مصنوعی: کسی که دارای ثروت و نعمت است، به مانند صندلی‌ای زیبا و رنگارنگ به نظر می‌آید."
     },
     {
       "VOrder": 260,
@@ -3601,7 +3731,8 @@
       "Text": "وانکه مریخ بست پرگار‌ش",
       "CoupletIndex": 130,
       "SectionIndex1": 0,
-      "SectionIndex2": 132
+      "SectionIndex2": 132,
+      "CoupletSummary": "هوش مصنوعی: و کسی که طبق نقشه مریخ عمل کند، در کارش مانند گوهر سرخ است."
     },
     {
       "VOrder": 262,
@@ -3617,7 +3748,8 @@
       "Text": "وانکه از آفتاب داشتش خبر",
       "CoupletIndex": 131,
       "SectionIndex1": 0,
-      "SectionIndex2": 133
+      "SectionIndex2": 133,
+      "CoupletSummary": "هوش مصنوعی: آن کسی که از آفتاب خبر داشت، چرا زرد جلوه می‌کرد؟ به خاطر زره طلایی‌ای که بر تن داشت."
     },
     {
       "VOrder": 264,
@@ -3633,7 +3765,8 @@
       "Text": "وانکه از زیب زهره یافت امید",
       "CoupletIndex": 132,
       "SectionIndex1": 0,
-      "SectionIndex2": 134
+      "SectionIndex2": 134,
+      "CoupletSummary": "هوش مصنوعی: کسی که از زیبایی چهره‌اش امید پیدا کرده، امیدوار است که چهره‌اش مانند چهره‌ی ماه روشن و سفید باشد."
     },
     {
       "VOrder": 266,
@@ -3649,7 +3782,8 @@
       "Text": "وانکه بود از عطارد‌ش روزی",
       "CoupletIndex": 133,
       "SectionIndex1": 0,
-      "SectionIndex2": 135
+      "SectionIndex2": 135,
+      "CoupletSummary": "هوش مصنوعی: کسی که یک روز از ماه عطارد بهره‌مند شده باشد، به ظاهری پیروز و شاداب خواهد بود."
     },
     {
       "VOrder": 268,
@@ -3665,7 +3799,8 @@
       "Text": "وانکه مه کرده سوی برجش راه",
       "CoupletIndex": 134,
       "SectionIndex1": 0,
-      "SectionIndex2": 136
+      "SectionIndex2": 136,
+      "CoupletSummary": "هوش مصنوعی: کسی که به سمت برج خود حرکت کرده است، زیبایی و سرسبزی را از جمال پادشاه به دست آورده است."
     },
     {
       "VOrder": 270,
@@ -3681,7 +3816,8 @@
       "Text": "برکشیده بر این صفت پیکر",
       "CoupletIndex": 135,
       "SectionIndex1": 0,
-      "SectionIndex2": 137
+      "SectionIndex2": 137,
+      "CoupletSummary": "هوش مصنوعی: این جمله به توصیف زیبایی و شکوه هفت گنبد می‌پردازد که به گونه‌ای به ستاره‌ها و اختران مرتبط شده‌اند. به نوعی، گنبدها نمایانگر کمال و هنر در طبیعت و آسمان هستند و نشان‌دهنده یک هماهنگی خاص بین زمین و آسمان می‌باشند."
     },
     {
       "VOrder": 272,
@@ -3697,7 +3833,8 @@
       "Text": "هفت کشور تمام در عهد‌ش",
       "CoupletIndex": 136,
       "SectionIndex1": 0,
-      "SectionIndex2": 138
+      "SectionIndex2": 138,
+      "CoupletSummary": "هوش مصنوعی: در هفت سرزمین، همه زیر سلطه دختر یک شاهزاده هستند و هفت پادشاه در دامان او به تربیت مشغول‌اند."
     },
     {
       "VOrder": 274,
@@ -3713,7 +3850,8 @@
       "Text": "کرده هر دختری به رنگ و به رای",
       "CoupletIndex": 137,
       "SectionIndex1": 0,
-      "SectionIndex2": 139
+      "SectionIndex2": 139,
+      "CoupletSummary": "هوش مصنوعی: هر دختری به زیبایی و دلربایی خود، جلوه‌ای از هفت رنگ آسمان را به نمایش می‌گذارد."
     },
     {
       "VOrder": 276,
@@ -3729,7 +3867,8 @@
       "Text": "وز نمودار خانه تا به فَریش",
       "CoupletIndex": 138,
       "SectionIndex1": 0,
-      "SectionIndex2": 140
+      "SectionIndex2": 140,
+      "CoupletSummary": "نمودارِ خانه یعنی بیرون و نمای خانه.\u00A0 \u00A0 فریش یعنی بستر"
     },
     {
       "VOrder": 278,
@@ -3745,7 +3884,8 @@
       "Text": "روز تا روز شاه فرخ بخت",
       "CoupletIndex": 139,
       "SectionIndex1": 0,
-      "SectionIndex2": 141
+      "SectionIndex2": 141,
+      "CoupletSummary": "هوش مصنوعی: روزها به خوبی و خوشی برای شاه فرخ بخت گذشته است و او در دنیای جدیدی زندگی را آغاز کرده است."
     },
     {
       "VOrder": 280,
@@ -3761,7 +3901,8 @@
       "Text": "شنبه آنجا که قسم شنبه بود",
       "CoupletIndex": 140,
       "SectionIndex1": 0,
-      "SectionIndex2": 142
+      "SectionIndex2": 142,
+      "CoupletSummary": "هوش مصنوعی: شنبه روزی است که به آن وعده داده شده و روزهای دیگر نیز به نوعی از آن متاثر هستند."
     },
     {
       "VOrder": 282,
@@ -3777,7 +3918,8 @@
       "Text": "چون به نیروی رای فرزانه",
       "CoupletIndex": 141,
       "SectionIndex1": 0,
-      "SectionIndex2": 143
+      "SectionIndex2": 143,
+      "CoupletSummary": "هوش مصنوعی: زمانی که با خرد و اندیشه‌ی نیکو مجلس را سامان دهی، هر خانه و خانواده‌ای تحت تأثیر قرار می‌گیرد."
     },
     {
       "VOrder": 284,
@@ -3793,7 +3935,8 @@
       "Text": "هر کجا جام باده نوشیدی",
       "CoupletIndex": 142,
       "SectionIndex1": 0,
-      "SectionIndex2": 144
+      "SectionIndex2": 144,
+      "CoupletSummary": "هوش مصنوعی: هر جا که شراب نوشیدی، لباس و ظاهرت را به رنگ محیط و شرایط آنجا درآوردی."
     },
     {
       "VOrder": 286,
@@ -3809,7 +3952,8 @@
       "Text": "بانوی خانه پیش بنشستی",
       "CoupletIndex": 143,
       "SectionIndex1": 0,
-      "SectionIndex2": 145
+      "SectionIndex2": 145,
+      "CoupletSummary": "هوش مصنوعی: بانوی خانه در جلو نشسته و زیبایی‌اش را از هر سو به نمایش گذاشته است."
     },
     {
       "VOrder": 288,
@@ -3825,7 +3969,8 @@
       "Text": "تا دل شاه را چگونه برَد",
       "CoupletIndex": 144,
       "SectionIndex1": 0,
-      "SectionIndex2": 146
+      "SectionIndex2": 146,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که برای به دست آوردن محبت و رضایت یک شخصیت مهم، باید به خوبی او را شناخت و نیازهایش را برآورده کرد. همچنین، در این مسیر دقت و حوصله لازم است تا تعاملات به بهترین شکل انجام شود."
     },
     {
       "VOrder": 290,
@@ -3841,7 +3986,8 @@
       "Text": "گفتی افسانه‌ای مهرانگیز",
       "CoupletIndex": 145,
       "SectionIndex1": 0,
-      "SectionIndex2": 147
+      "SectionIndex2": 147,
+      "CoupletSummary": "هوش مصنوعی: تو داستانی جذاب و دلنشین گفتی که می‌تواند اشتیاق و تمایل را در دل عاشقان شعله‌ور کند."
     },
     {
       "VOrder": 292,
@@ -3857,7 +4003,8 @@
       "Text": "گرچه زین‌گونه برکشید حصار",
       "CoupletIndex": 146,
       "SectionIndex1": 0,
-      "SectionIndex2": 148
+      "SectionIndex2": 148,
+      "CoupletSummary": "اگر‌چه کاخ‌ها و حصار‌های چنین دلفریب ساخت اما سرانجام از دست مرگ جان نبرد."
     },
     {
       "VOrder": 294,
@@ -3873,7 +4020,8 @@
       "Text": "ای نظامی ز گلشنی بگریز",
       "CoupletIndex": 147,
       "SectionIndex1": 0,
-      "SectionIndex2": 149
+      "SectionIndex2": 149,
+      "CoupletSummary": "ای نظامی، دلبسته جایی مشو که گلش خار شده و خارش تیز و پر‌خطر."
     },
     {
       "VOrder": 296,
@@ -3889,7 +4037,8 @@
       "Text": "با چنین مُلک ازین دو روزه مقام",
       "CoupletIndex": 148,
       "SectionIndex1": 0,
-      "SectionIndex2": 150
+      "SectionIndex2": 150,
+      "CoupletSummary": "به چنین سرا و مُلکی که جای آدمی در آن دو روز است ببین که چگونه بهرام از آن رخت بربست و رفت."
     },
     {
       "VOrder": 298,

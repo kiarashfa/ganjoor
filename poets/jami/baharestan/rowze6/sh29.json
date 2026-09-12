@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "پسر معلمی را گفتند: چه بلا احمقی! گفت: اگر من احمق نبودمی ولدالزنا بودمی!",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: پسر معلمی به او گفتند: چقدر بی‌فکر و احمق هستی! او پاسخ داد: اگر احمق نبودم، فرزند حرامزاده‌ای بودم!"
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "عیب مادر بود ار فرزندی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر فرزندی دارای رفتار و اخلاق مناسبی نباشد، این نقص از مادر است و نه از پدر."
     },
     {
       "VOrder": 3,
@@ -46,7 +48,8 @@
       "Position": "Right",
       "Text": "گوش استر که دراز است گواست",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گوش‌های دراز نشانه است که او اسب نیست، بلکه یک الاغ است."
     },
     {
       "VOrder": 5,

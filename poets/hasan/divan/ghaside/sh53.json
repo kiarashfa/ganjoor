@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای به حق آرزوی جان ملوک",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که آرزوی تو به حق و حقیقت جان ملوک را به تصویر می‌کشد، فرمان تو در دنیا برای پادشاهان قطعی و روشن است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "ای کرم یار تو تو یار کرم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای مهربان، تو یار مهربانی هستی و ای ملوک، تو همان ملوکی هستی که به آن اشاره می‌شود."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "جره باز ظفر شکار توئی",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پرهای گشاده تو از آشیان پادشاهان، نشانه‌ای از پیروزی و شکار توست."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "بابت رنگ و بوی و نقش نگین",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر زیبایی و ویژگی‌های خاصی که نگین دارد، مانند رنگ و بو و نقش و نگار، آن جواهر از دل زمین به عنوان یک ثروت ارزشمند به وجود آمده است."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "بازگشت ملوک عصر به تست",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بازگشت پادشاهان به خاطر توست، زیرا تو دوست مهربانی برای آنها هستی."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "صفدرا نکته ای بدستوری",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا می‌خواهم نکته‌ای از داستان پادشاهان را به زبان ساده مطرح کنم."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "از خرد یک شبی بپرسیدم",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از عقل و تجربه‌ام یک شب پرسیدم، ای وزیر و سرپرست جهانی."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "کیست از مقبلی که خوش ناید",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کیست که از پیش خود خوشش بیاید، بی‌آنکه بی‌نهایت محبت و احترامش را نسبت به او احساس کند، حتی اگر او یک مقام عالی باشد؟"
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "قیمتش گنج شایگان علوم",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این اشعار به زیبایی و ارزش علمی شخصی اشاره دارد. به طوری که ارزش و قیمت او به مانند گنجی گرانبهاست و قامت او به بلندای سروهای زیبای باغ‌ها می‌باشد که نمادی از شکوه و عظمت است."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "از شکر طوطی وز گل بلبل",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از شیرینی صدای طوطی و زیبایی گل‌های بلبل نمی‌توان به راحتی معنای سخنان پادشاهان را فهمید."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "مه سواران ز حل رکاب که هست",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سواران ماه، در حالی که از زین اطمینان می‌گیرند، با اراده‌ای قوی، کنترل و اختیار پادشاهی‌ها را در دست دارند."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "رأی بیدار مشتری نظرش",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نظر تیزبین مشتری در شب‌های پر آشوب، مانند نگهبانی است که بر شاهان نظارت می‌کند."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "بر نویسد اجل حسام الدین",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مرگ حسام‌الدین را رقم می‌زند، ای کسی که این تنها نشانه پادشاهان است."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "سر زبانها خرد بجنباند",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معنا است که خرد و عقل در جامعه‌ای به گردش در می‌آید و کسانی که به آن فکر می‌کنند و نظر می‌دهند، در مورد اهمیت و وزن موضوعات صحبت می‌کنند. در اینجا به این نکته اشاره می‌شود که حتی اشخاصی که در مقام‌های بالا و مهمی قرار دارند، گاهی اوقات می‌توانند نظر و گفتاری بی‌پایه و سبک داشته باشند."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "لاف این میزنی که من هستم",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو به خود می‌بالید که من سبب شادی و محافل زیبای پادشاهان هستم."
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "بر تو این قدر مشتبه گردد",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شاید برایت این‌قدر گمراه‌کننده باشد که به خداوند و هدف اصلی پادشاهان برسد."
     },
     {
       "VOrder": 32,
@@ -255,7 +271,8 @@
       "Position": "Right",
       "Text": "خود یکی بیش نیست در عالم",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این دنیا، تنها یک حقیقت وجود دارد و هر چیزی دیگر، مانند قزل شاه و پهلوان، تنها جلوه‌ها و فریب‌هایی هستند که در ظاهر دیده می‌شوند."
     },
     {
       "VOrder": 34,
@@ -269,7 +286,8 @@
       "Position": "Right",
       "Text": "سرو را مدحتی فرستادم",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من برای ستودن سرو، به ملوک نوعی تشویق و الهام فرستادم که موجب طول عمر جاودان آن‌ها شود."
     },
     {
       "VOrder": 36,
@@ -283,7 +301,8 @@
       "Position": "Right",
       "Text": "چون تأمل کنی و بپسندی",
       "CoupletIndex": 18,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که به چیزی فکر کردی و آن را پسندیدی، آن را به بزرگان و شاهان ارائه بده."
     },
     {
       "VOrder": 38,
@@ -297,7 +316,8 @@
       "Position": "Right",
       "Text": "هر چه باید توانی و دانی",
       "CoupletIndex": 19,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر آنچه که لازم است و تو می‌دانی، جز خودت کیست که کارهای بزرگ و پیچیده پادشاهان را بداند؟"
     },
     {
       "VOrder": 40,
@@ -311,7 +331,8 @@
       "Position": "Right",
       "Text": "کرمی کن که تا قیامت از آن",
       "CoupletIndex": 20,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کاری کن که نام نیک تو تا ابد در میان پادشاهان و بزرگان بازگو شود."
     },
     {
       "VOrder": 42,
@@ -325,7 +346,8 @@
       "Position": "Right",
       "Text": "تا مه از آسمان پدید آید",
       "CoupletIndex": 21,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که ماه از آسمان هویدا شود، باد با ماه خدایی در آسمان همراه است."
     },
     {
       "VOrder": 44,

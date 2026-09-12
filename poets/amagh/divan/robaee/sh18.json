@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "یک دم نشود که دردم افزون نکنی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: لحظه‌ای نمی‌گذرد که درد من را بیشتر نکنید. چون عادت شما این بوده، چرا این کار را نکنید؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "دلداریِ من یقین که داری در دل",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تسلی خاطر من را می‌دانم که در عمق دلت داری، اما چرا به زبان نمی‌آوری تا دل من را بیشتر آزار دهی؟"
     },
     {
       "VOrder": 4,

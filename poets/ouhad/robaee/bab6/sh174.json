@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "با دشمن اگر به دوستی سازد کس",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی با دشمنش رفاقت کند، پس اینکه با دوست خود دشمنی کند، ناپسند و ممنوع است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "تو دشمن آنی که تو را دارد دوست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو دشمن کسی هستی که تو را دوست دارد، اما من فقط دوستان تو را به عنوان دشمنان مشاهده کردم."
     },
     {
       "VOrder": 4,

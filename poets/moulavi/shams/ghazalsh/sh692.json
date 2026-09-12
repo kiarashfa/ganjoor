@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "رفتیم بقیه را بقا باد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما رفتیم و دیگران باید برای ادامه‌ی زندگی باقی بمانند. احتمالا او هر زمانی که از دنیا برود، این روند ادامه خواهد داشت."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "پنگان فلک ندید هرگز",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس در آسمان، ظرفی را ندیده که از بام بیفتد و دوباره به جایش برنگردد."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "چندین مدوید کاندر این خاک",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این زمین، چندین بار سیر و سفر کرده‌اید، اما نتیجه‌تان هم‌چنان به مانند شاگردی است که هنوز از استاد خود عقب‌تر است."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "ای خوب مناز کاندر آن گور",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای محبت من، در آن قبر نرو که آنجا بسیار شیرین است مثل فرهاد."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "آخر چه وفا کند بنایی",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در نهایت، چه انتظاری می‌توان از ساختمانی داشت که ستون‌های آن شکسته و خراب شده و تنها تکه‌هایی از باد باقی مانده است؟"
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "گر بد بودیم بد ببردیم",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرگاه که بد رفتار کرده‌ایم، نتیجه‌اش بدی بوده و اگر نیکو عمل کرده‌ایم، باید به خاطر داشته باشید که این خوبی‌ها نیز به یاد خواهند ماند."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "گر اوحد دهر خویش باشی",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر امروز همچون دیگران بر رفتار و کردار خود مسلط باشی، مثل آن‌ها آزاد و رها خواهی شد."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "تنها ماندن اگر نخواهی",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نمی‌خواهی که تنها بمانی، باید تلاش کنی تا از کارهای خوب و اطاعت الهی در تربیت فرزندان استفاده کنی."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "آن رشته نور غیب باقیست",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: رشته‌ی نور معنوی همیشه برقرار است و نمایانگر جوهر روحانی اوتاد (افرادی که در عالم معنوی بالاترین مقام را دارند) است."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "آن جوهر عشق کان خلاصه‌ست",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جوهر عشق که در حقیقت مهم‌ترین و اصلی‌ترین ویژگی آن است، باقی خواهد ماند و به آبادانی و شکوفایی می‌انجامد."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "این ریگ روان چو بی‌قرارست",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این رود روان به مانند کسی است که بی‌تابی می‌کند و شکل و حالت تازه‌ای به خود می‌گیرد."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "چون کشتی نوحم اندر این خشک",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همانطور که کشتی نوح در این دریا خشک و بی‌آب دچار طوفان است، زمان پایان این وضعیت نزدیک است."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "زان خانه نوح کشتیی بود",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از آن خانه نوح، کشتی‌ای بود که به وسیله‌ی الهام یا پیشگویی، موج‌های خطرناک را دید."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "خفتیم میانه خموشان",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما در میان سکوت و آرامش دیگران خوابیده‌ایم، چون به حدی از فریاد و سر و صدا رسیدیم که دیگر صداهای اطراف را نمی‌شنویم."
     },
     {
       "VOrder": 28,

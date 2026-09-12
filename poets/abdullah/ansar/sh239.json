@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "خدایا من کیستم که بر درگاه تو زارم یا قصه درد خود بتو پردازم",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: خدایا من چه کسی هستم که در برابر تو از خودم شکایت کنم یا دردهایم را برایت بگویم؟"
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "در عشق تو من کیم که در منزل من",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در عشق تو من چه کسی هستم که در خانه‌ام از دیدن زیبایی‌ات، گلی بر دلم شکوفا شود."
     },
     {
       "VOrder": 3,

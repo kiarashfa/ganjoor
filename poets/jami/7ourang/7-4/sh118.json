@@ -411,7 +411,8 @@
       "Text": "ای درین تنگ فضا گشته اسیر",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: در این فضای تنگ، تو به دام افتاده‌ای و تحت فشار قدرتی هستی که با swords و قلم حکام و وزرا کنترل می‌شود."
     },
     {
       "VOrder": 2,
@@ -427,7 +428,8 @@
       "Text": "گه ز تیغ ستمی همچو قلم",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: گاهی طناب ظلم و ستم به اندازه‌ای بر سر انسان فشار می‌آورد که مانند یک قلم، سر او را می‌شکافد و به رنج و درد دچار می‌کند."
     },
     {
       "VOrder": 4,
@@ -443,7 +445,8 @@
       "Text": "گه به زخم قلمی همچون تیغ",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: گاهی زخم قلمی مانند تیغی است که به شدت خونین و دردناک است، و بر این موضوع افسوس و تاسف می‌خورم."
     },
     {
       "VOrder": 6,
@@ -459,7 +462,8 @@
       "Text": "جگری گیر به دندان دو سه روز",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: دست از نگرانی بردار و به مدت چند روز شاد و خوشحال باش. این روزها را صرف خوشی و لذت کن و نگذار که غم و اندوه بر تو غلبه کند."
     },
     {
       "VOrder": 8,
@@ -475,7 +479,8 @@
       "Text": "پرده تنگدلی ساز مکن",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: در دل تنگ خود را دریغ نکن و از غصه‌ها و دردها حرف نزن."
     },
     {
       "VOrder": 10,
@@ -491,7 +496,8 @@
       "Text": "همچو زخم از اثر تیغ بخند",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: مانند زخمی که بر اثر تیغ بر تن می‌نشیند، نقشی که بر لوح می‌ماند را می‌توان پذیرفت و دوست داشت."
     },
     {
       "VOrder": 12,
@@ -507,7 +513,8 @@
       "Text": "نفع شه بیش بود از ضررش",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: سود و فایده‌ی پادشاه بیشتر از ضررهای اوست و خود او نیز از آسیب‌هایش نیکوتر است."
     },
     {
       "VOrder": 14,
@@ -523,7 +530,8 @@
       "Text": "شکر نفعش چو نگفتی هرگز",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: اگر شکر را به زبان نیاوری، هرگز به نفع تو نخواهد بود و مانند گلی که هرگز شکوفا نشده، حالت بی‌ثمر خواهد ماند."
     },
     {
       "VOrder": 16,
@@ -539,7 +547,8 @@
       "Text": "این همه از ضرر او گله چیست",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: چرا اینقدر از ضرر و زیان او شکایت می‌کنی؟ خوب ببین که از شر او چه نفعی می‌توانی ببری."
     },
     {
       "VOrder": 18,
@@ -555,7 +564,8 @@
       "Text": "گنج بی رنج ندیده ست کسی",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس گنجی را بدون زحمت ندیده و هیچ‌کس گلی را بدون خار نچیده است."
     },
     {
       "VOrder": 20,
@@ -571,7 +581,8 @@
       "Text": "گر نه شه داور عالم بودی",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: اگر خداوند قاضی و مدیر جهان نبود، کارهای دنیا به بی نظمی و آشفتگی کشیده می‌شد."
     },
     {
       "VOrder": 22,
@@ -587,7 +598,8 @@
       "Text": "گر شبان پاس ندارد رمه را",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: اگر چوپان از گله مراقبت نکند، گرگ همه را خواهد گرفت."
     },
     {
       "VOrder": 24,
@@ -603,7 +615,8 @@
       "Text": "باغبان گر نزند بانگ به باغ",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: اگر باغبان در باغ صدای خود را بلند نکند، میوه‌اش فقط به کلاغ‌ها می‌رسد."
     },
     {
       "VOrder": 26,
@@ -619,7 +632,8 @@
       "Text": "تیغ او گر به میان سد نشود",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: اگر شمشیر او در میان موانع سد نشود، کید یأجوج و مگوج هیچ وقت رد نخواهد شد."
     },
     {
       "VOrder": 28,
@@ -635,7 +649,8 @@
       "Text": "رمح او شاخ سعادت ثمر است",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: سخن از این است که زیبایی و جذابیت او، نشانه‌ای از خوشبختی و سعادت است و افرادی که به او نزدیک می‌شوند، از آن لذت می‌برند و به آرزوهای خود دست می‌یابند."
     },
     {
       "VOrder": 30,
@@ -651,7 +666,8 @@
       "Text": "خود او بیضه سیمرغ ظفر",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: او خود، تخم سیمرغ پیروزی است که پرندهٔ سعادت از آنجا برخاسته است."
     },
     {
       "VOrder": 32,
@@ -667,7 +683,8 @@
       "Text": "بر تن او زره پر خم و تاب",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: بر تن او زره‌ای است که پر از خم و تاب است و مانند چشمه‌ای ساری، صفات مردانگی‌اش مانند زهابی زیبا و درخشان است."
     },
     {
       "VOrder": 34,
@@ -683,7 +700,8 @@
       "Text": "تیر او مرغ پران سوی به سو",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: تیر او همچون پرنده‌ای به پرواز درآمده، به سوی هدف می‌رود و پیام مرگ را برای دشمن به ارمغان می‌آورد."
     },
     {
       "VOrder": 36,
@@ -699,7 +717,8 @@
       "Text": "بر کمانش که ز هر گوشه زه است",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: بر کمان او، که از هر طرف زهی کشیده شده، تو را به شکار پیروزی آماده می‌کند."
     },
     {
       "VOrder": 38,
@@ -715,7 +734,8 @@
       "Text": "افسرش کنگره دولت توست",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: افسر او، نماد قدرت و پیشرفت کشور توست و او با تمام توان خود در خدمت تو و اهداف توست."
     },
     {
       "VOrder": 40,
@@ -731,7 +751,8 @@
       "Text": "قهر او گر نشود شحنه شهر",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: اگر خشم او از بین نرود، مأمور شهر هم می‌تواند شهد را به زهر تبدیل کند و دیگران را دچار مشکل نماید."
     },
     {
       "VOrder": 42,
@@ -747,7 +768,8 @@
       "Text": "خلق او گر نشود لطف طلسم",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: اگر لطف و محبت او از بین برود، رابطه‌ی روح و بدن قطع خواهد شد."
     },
     {
       "VOrder": 44,
@@ -763,7 +785,8 @@
       "Text": "در حضر روشنی جاهت ازوست",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: در زمان حضور، از نور و بزرگی خود بهره‌مند هستی و در سفر، امنیت و سلامت راهت وابسته به اوست."
     },
     {
       "VOrder": 46,
@@ -779,7 +802,8 @@
       "Text": "سوی تو ظلمی ازو گر ره کرد",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: اگر ستمی به سمت تو بیفتد،‌ دیوانگان دیگر را از ظلم خود باز می‌دارد."
     },
     {
       "VOrder": 48,
@@ -795,7 +819,8 @@
       "Text": "تخم روزیت که دهقان کارد",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: محصولی که کشاورز می‌کارد، به او قدرت و امکانات می‌دهد، حتی بیشتر از آنچه که قدرت و توانایی سلطان به او می‌دهد."
     },
     {
       "VOrder": 50,
@@ -811,7 +836,8 @@
       "Text": "تاجران رخت که از راه آرند",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: تاجران که از راه به سوی شهر می‌آیند، به کمک و حمایت پادشاه خواهند رسید."
     },
     {
       "VOrder": 52,
@@ -827,7 +853,8 @@
       "Text": "پاسبان شبت از دزد ویست",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: نگهبان شب تو برای جلوگیری از دزدان، به سختی کار می‌کند و در طول روز تو بدون هیچ پاداشی از او بهره‌مند می‌شوی."
     },
     {
       "VOrder": 54,
@@ -843,7 +870,8 @@
       "Text": "خویش و بیگانه ازو قافله شو",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: برای هر دو آشنا و ناآشنا، او راهنما و هدایتگر است؛ چه در مسیر درست و چه در راه‌های دیگر، همه از او پیروی می‌کنند."
     },
     {
       "VOrder": 56,
@@ -859,7 +887,8 @@
       "Text": "سنت و شرع ازو پشت قوی",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: سنت و قوانین دینی از او پشتیبانی می‌شود؛ بنابراین آن را به عنوان قاعده‌ای محکم بشناس و به شناخت شهری و روستایی آن توجه کن."
     },
     {
       "VOrder": 58,
@@ -875,7 +904,8 @@
       "Text": "مسجد و منبر ازو معمور است",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: مسجد و منبر به خاطر او آباد هستند و دین و حکومت از نابودی و خرابی دور شده‌اند."
     },
     {
       "VOrder": 60,
@@ -891,7 +921,8 @@
       "Text": "این همه کارگر و کارگری",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: این همه افرادی که مشغول کار هستند، تنها برای تو فعالیت می‌کنند وقتی به اطراف نگاه می‌کنی."
     },
     {
       "VOrder": 62,
@@ -907,7 +938,8 @@
       "Text": "قدر هر یک که شمردم بشناس",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: هرگاه ارزش و مقام هر چیز را سنجیدم، بر آن شدم که براساس آن، شکر و سپاسگزاری را انجام دهم."
     },
     {
       "VOrder": 64,
@@ -923,7 +955,8 @@
       "Text": "از برای تو یکی کارگزار",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: برای تو یکی کارگزار وجود دارد که برای دریافت مزد، این همه زحمت می‌کشد."
     },
     {
       "VOrder": 66,
@@ -939,7 +972,8 @@
       "Text": "گر دو صد گنج گهر افشانی",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: اگر هم دویست گنج و مروارید را پخش کنی، باز هم نمی‌توانی در برابر یک روزه رفتار درست را جبران کنی."
     },
     {
       "VOrder": 68,
@@ -955,7 +989,8 @@
       "Text": "نیست یک نقد که گیرد ز تو شاه",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: هیچ کسی نیست که از تو پاداش کار آگاهی را به درستی بگیرد."
     },
     {
       "VOrder": 70,
@@ -971,7 +1006,8 @@
       "Text": "این همه ناله و فریاد که چه",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: این همه ناله و فریاد که سر می‌دهی، به خاطر چیست؟ و این همه طعنه و بی‌رحمی که به تو می‌شود، به چه دلیل است؟"
     },
     {
       "VOrder": 72,
@@ -987,7 +1023,8 @@
       "Text": "گرچه پیش تو بود ظلم نمای",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: هرچند که در دنیای تو ظلم و ستم به نظر می‌رسد، ممکن است در پیشگاه خداوند، آنچه که اتفاق می‌افتد، در واقع عادلانه باشد."
     },
     {
       "VOrder": 74,
@@ -1003,7 +1040,8 @@
       "Text": "ای بسا عدل که دارای جهان",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: بسیاری از اوقات، عدالت به شکل ظاهری دنیا را تحت تاثیر قرار می‌دهد، اما در واقع در باطن آن ظلمی نهفته است."
     },
     {
       "VOrder": 76,

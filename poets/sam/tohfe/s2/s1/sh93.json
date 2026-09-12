@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "از سادات قزوین است، این مطلع از اوست :",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: او از خانواده سادات قزوین است و این شعر یا متن از اوست:"
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "مستی می عشق ز خود بی خبرم کرد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق و شراب مرا از حال خود بی‌خبر کرده است، به گونه‌ای که نه تنها از خودم غافل شده‌ام، بلکه از دنیای پیرامونم نیز دور افتاده‌ام."
     },
     {
       "VOrder": 3,

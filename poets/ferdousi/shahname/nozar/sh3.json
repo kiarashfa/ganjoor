@@ -331,7 +331,8 @@
       "Text": "چو دشت از گیا گشت چون پرنیان",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: وقتی دشت پر از گیاه شد، مانند فرش نرم و لطیف، میدان جنگ در وسط زمین‌های توران بسته شد."
     },
     {
       "VOrder": 2,
@@ -347,7 +348,8 @@
       "Text": "سپاهی بیامد ز ترکان و چین",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: سربازانی از سوی ترکان و همچنین از میان جنگجویان شرقی زمین به میدان آمدند."
     },
     {
       "VOrder": 4,
@@ -363,7 +365,8 @@
       "Text": "که آن را میان و کرانه نبود",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: هرچیزی که در وسط و حاشیه وجود ندارد، نمی‌تواند نمادی از شانس و اقبال خوب باشد."
     },
     {
       "VOrder": 6,
@@ -379,7 +382,8 @@
       "Text": "چو لشکر به نزدیک جیحون رسید",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: وقتی لشکر به نزدیکی رود جیحون رسید، خبر آن به پسر فریدون رسید."
     },
     {
       "VOrder": 8,
@@ -395,7 +399,8 @@
       "Text": "سپاه جهاندار بیرون شدند",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: سپاه پادشاه از کاخ باشکوه خارج شدند و به سمت سرزمین هامون رفتند."
     },
     {
       "VOrder": 10,
@@ -411,7 +416,8 @@
       "Text": "به راه دهستان نهادند روی",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: آنها سپه سالار خود، قارن رزم‌جوی، را به سمت دهستان فرستادند."
     },
     {
       "VOrder": 12,
@@ -427,7 +433,8 @@
       "Text": "شهنشاه نوذر پس پشت اوی",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: شاه نوذر، پشت سر او، جهانی را می‌بیند که پر از گفتگوها و رویدادهاست."
     },
     {
       "VOrder": 14,
@@ -443,7 +450,8 @@
       "Text": "چو لشکر به پیش دهستان رسید",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: زمانی که نیروها به دهستان نزدیک شدند، گویی خورشید ناپدید شده است."
     },
     {
       "VOrder": 16,
@@ -459,7 +467,8 @@
       "Text": "سراپردهٔ نوذر شهریار",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: پرده جدیدی از نوذر، پادشاه، بر روی دشت جلوی قلعه کشیده شد."
     },
     {
       "VOrder": 18,
@@ -475,7 +484,8 @@
       "Text": "خود اندر دهستان نیاراست جنگ",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: در این بیت، به این موضوع اشاره شده که جنگ و نزاع در یک منطقه خاص بدون آمادگی و ساماندهی مناسب آغاز نمی‌شود و باید مدتی صبر کرد تا شرایط به درستی مهیا گردد."
     },
     {
       "VOrder": 20,
@@ -491,7 +501,8 @@
       "Text": "که افراسیاب اندر ایران زمین",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: افراسیاب در سرزمین ایران دو فرمانده از میان بزرگان انتخاب کرد."
     },
     {
       "VOrder": 22,
@@ -507,7 +518,8 @@
       "Text": "شماساس و دیگر خزروان گرد",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: شماساس و دیگر خزروان، دور از لشکر سواران قرار گرفتند و به آنها نزدیک نشدند."
     },
     {
       "VOrder": 24,
@@ -523,7 +535,8 @@
       "Text": "ز جنگ آوران مرد چون سی هزار",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: در میدان نبرد، مردی چون سی هزار جنگجو به سوی میدان رفتند و برای نبرد آماده شدند."
     },
     {
       "VOrder": 26,
@@ -539,7 +552,8 @@
       "Text": "سوی زابلستان نهادند روی",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: به سمت زابلستان رفتند و از روی کینه و دشمنی، به یکدیگر نگاه کردند."
     },
     {
       "VOrder": 28,
@@ -555,7 +569,8 @@
       "Text": "خبر شد که سام نریمان بمرد",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: خبر رسید که سام نریمان فوت کرده است، بنابراین زال تصمیم گرفت تا برای او آرامگاهی بسازد."
     },
     {
       "VOrder": 30,
@@ -571,7 +586,8 @@
       "Text": "ازان سخت شادان شد افراسیاب",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: افراسیاب از دیدن موقعیت و شرایط خوب و خوشایندی که برایش پیش آمده، بسیار شاد و خوشحال شده است؛ زیرا بخت و اقبالش به حدی خوب است که مثل اینکه خوابیده و در آرامش به سر می‌برد."
     },
     {
       "VOrder": 32,
@@ -587,7 +603,8 @@
       "Text": "بیامد چو پیش دهستان رسید",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: او به سرزمین دهستان رسید و در برابر یک چادر بزرگ توقف کرد و چادری را بر افراشت."
     },
     {
       "VOrder": 34,
@@ -603,7 +620,8 @@
       "Text": "سپه را که دانست کردن شمار!",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: وقتی سپاهی را شمردی، بدان که آن را تنها یک بار شمرده‌ای! برو و آن را چهارصد بار بشمر تا درست به عدد هزار برسی."
     },
     {
       "VOrder": 36,
@@ -619,7 +637,8 @@
       "Text": "بجوشید گفتی همه ریگ و شخ",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: سرزمین به طور فراوان و بی‌وقفه به حرکت درآمده و به قدری پر از جنب و جوش شده که گویی همه جا پر است از ریگ و سنگ، همانند تعداد زیاد مور و ملخ."
     },
     {
       "VOrder": 38,
@@ -635,7 +654,8 @@
       "Text": "ابا شاه نوذر صد و چل هزار",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: شاه نوذر دارای صد و سی هزار سوار جنگی بود."
     },
     {
       "VOrder": 40,
@@ -651,7 +671,8 @@
       "Text": "به لشکر نگه کرد افراسیاب",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: افراسیاب به لشکر خود نگاه کرد و هنگام خواب، هیونی را بر افراشت."
     },
     {
       "VOrder": 42,
@@ -667,7 +688,8 @@
       "Text": "یکی نامه بنوشت سوی پشنگ",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: یک نفر نامه‌ای نوشت به پشنگ و گفت که ما به جستجوی نیکی پرداختیم و آن را به دست آوردیم."
     },
     {
       "VOrder": 44,
@@ -683,7 +705,8 @@
       "Text": "همه لشکر نوذر ار بشکریم",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: اگر تمام سپاهیان نوذر را شکست دهیم و در زیر پای خود بگذاریم، به پیروزی دست یافته‌ایم."
     },
     {
       "VOrder": 46,
@@ -699,7 +722,8 @@
       "Text": "دگر سام رفت از در شهریار",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: سامی دیگر از در شاه رفت و دیگر به این میدان نخواهد آمد."
     },
     {
       "VOrder": 48,
@@ -715,7 +739,8 @@
       "Text": "ستودان همی سازدش زال زر",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: زال، که ستایشگر است، در نبرد به سلاح و طلا نیاز ندارد. او با قدرت و اراده خود توانایی جنگیدن را دارد."
     },
     {
       "VOrder": 50,
@@ -731,7 +756,8 @@
       "Text": "مرا بیم ازو بُد به ایران زمین",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: من از او در ایران بیم دارم، چون او به ایران بیاید ما به دنبال انتقام خواهیم رفت!"
     },
     {
       "VOrder": 52,
@@ -747,7 +773,8 @@
       "Text": "همانا شماساس در نیمروز",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: همانا شماساس در وسط روز نشسته است و با تاجی که نور دنیا را فرا گرفته است."
     },
     {
       "VOrder": 54,
@@ -763,7 +790,8 @@
       "Text": "به هنگام هر کار جستن نکوست",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: در هر کاری که می‌خواهی انجام دهی، بهتر است که ابتدا خوب فکر کنی و با شخصی که عاقل و دوستت است مشورت کنی."
     },
     {
       "VOrder": 56,
@@ -779,7 +807,8 @@
       "Text": "چو کاهل شود مرد هنگام کار",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: زمانی که فرد در هنگام انجام کار بی‌حرکت و تنبل شود، دیگر نمی‌تواند روزهای خوبی را تجربه کند."
     },
     {
       "VOrder": 58,
@@ -795,7 +824,8 @@
       "Text": "هیون تکاور برآورد پر",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: یکی از پهلوانان با قدرت و شجاعت پرچم خود را به اهتزاز درآورد و به سوی فرمانده خورشید پیش رفت."
     },
     {
       "VOrder": 60,

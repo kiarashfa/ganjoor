@@ -277,7 +277,8 @@
       "Text": "سحرگاهان، که ابر نو بهاران",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: در سحرگاهان، هنگامی که ابرهای بهاری با شادی بر روی کوه‌ها گسترده شده‌اند."
     },
     {
       "VOrder": 2,
@@ -293,7 +294,8 @@
       "Text": "بساط کوه شد از لاله گل رنگ",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: از دل سنگ، آب لعل‌رنگی جاری شده و بر روی کوه‌ها، لاله‌های رنگارنگ روییده است."
     },
     {
       "VOrder": 4,
@@ -309,7 +311,8 @@
       "Text": "بعشرت خاست نرگس پیش لاله",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در گلستان، نرگس جلوه‌گری کرد و در کنار لاله، پیاله‌ای زینت بخشیده بود که بر روی آن نقشی زیبا دیده می‌شد."
     },
     {
       "VOrder": 6,
@@ -325,7 +328,8 @@
       "Text": "بهم شاخ و ثمر تسبیح سان شد",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: به هم پیوستگی و زیبایی‌های طبیعت مانند تسبیحات در حال گردآمدن است و پرنده سحر نیز به مانند دعاگوئی در حال نغمه‌سرایی و تسبیح‌خوانی است."
     },
     {
       "VOrder": 8,
@@ -341,7 +345,8 @@
       "Text": "بتندی بسکه سیل از کوه بگذشت",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: سیل هنگامی‌که از کوه‌ها عبور کرد، به وضوح آسیب‌ها و چاک‌های موجود در دامن دشت نمایان شد."
     },
     {
       "VOrder": 10,
@@ -357,7 +362,8 @@
       "Text": "جوانان روی در صحرا نهادند",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: جوانان با نشاط و سرزندگی در دشت به راه افتادند، مانند گل‌هایی که بر روی چمن‌های تازه می‌رویند."
     },
     {
       "VOrder": 12,
@@ -373,7 +379,8 @@
       "Text": "چو نرگس جام زرین برگرفتند",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: زمانی که نرگس، جام طلایی را در دست گرفت، شراب قرمز رنگ را در ظرف طلا قرار دادند."
     },
     {
       "VOrder": 14,
@@ -389,7 +396,8 @@
       "Text": "در آن فرخنده روز عالم افروز",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در آن روز خوش‌یمن که همه جا روشن و سرسبز بود، سبزه و گل به زیبایی پخش شدند و نوروز آغاز شد."
     },
     {
       "VOrder": 16,
@@ -405,7 +413,8 @@
       "Text": "بتان جمعی و مشتاقان گروهی",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: مجمعی از زیبارویان و عاشقان، از بالای کوهی عبور کردند."
     },
     {
       "VOrder": 18,
@@ -421,7 +430,8 @@
       "Text": "چه کوهی؟ پر شکوه و عرش پایه",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: چه کوهی که بسیار عظیم و با شکوه است، به طوری که سایه‌اش بر بالای آسمان گسترده شده است."
     },
     {
       "VOrder": 20,
@@ -437,7 +447,8 @@
       "Text": "عقابش با همای مهر هم پر",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: عقاب او با پرنده‌ای که نماد محبت است، هم‌زاد است و پلنگ او با ماهی بزرگ در چرخش زندگی‌اش همراستا است."
     },
     {
       "VOrder": 22,
@@ -453,7 +464,8 @@
       "Text": "مه نو کز پس ماهی نمودی",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: ماه نو که از پشت کوه نمایان شد، در مقایسه با آن کوه بزرگ، به مانند کاهی کوچک به نظر می‌رسد."
     },
     {
       "VOrder": 24,
@@ -469,7 +481,8 @@
       "Text": "فلک چون پشته ای پیراهن او",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: آسمان مانند پیراهنی است که به دور دامن او چین خورده و جمع شده است."
     },
     {
       "VOrder": 26,
@@ -485,7 +498,8 @@
       "Text": "بهم گفتند معشوقان که: عشاق",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: به من گفتند که کسانی که معشوقند، عشاقی که به خاطر عشق ما شناخته شده‌اند، در همه جا معروف شده‌اند."
     },
     {
       "VOrder": 28,
@@ -501,7 +515,8 @@
       "Text": "ولیکن صدق ایشان نیست معلوم",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: اما حقیقتاً صداقت آن‌ها مشخص نیست، زیرا بدون صداقت، کار عشق بی‌معنا و نابود خواهد بود."
     },
     {
       "VOrder": 30,
@@ -517,7 +532,8 @@
       "Text": "طریق آزمون را ساز کردند",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: طریقه‌ی امتحان عشق را ترتیب دادند و صف عاشقان را به آواز درآوردند."
     },
     {
       "VOrder": 32,
@@ -533,7 +549,8 @@
       "Text": "خطاب آمد بمشتاقان عاشق",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: پیامی به عاشقان و مشتاقان رسید که: هر کسی در عشق با ما صادق باشد، به ما نزدیک است."
     },
     {
       "VOrder": 34,
@@ -549,7 +566,8 @@
       "Text": "ازین کوه افگند خود را بپایان",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: از این کوه پایین بیا که صداقت و حقیقت خود را به نمایش بگذاری."
     },
     {
       "VOrder": 36,
@@ -565,7 +583,8 @@
       "Text": "همان جا صادقان برپای جستند",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: در همان مکان راستگویان ایستادند و در همان مکان دروغگویان از پا افتادند."
     },
     {
       "VOrder": 38,
@@ -581,7 +600,8 @@
       "Text": "معین شد که: صادق کیست آنجا؟",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: شناسایی شد که چه کسی در آنجا صادق است و چه کسی رفیق ناخوشایند است."
     },
     {
       "VOrder": 40,
@@ -597,7 +617,8 @@
       "Text": "بحرمت صادقان را پیش خواندند",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: به خاطر احترام به افراد راستگو، آنها را به جلو فراخواندند و دوستی را از پیش کنار گذاشتند."
     },
     {
       "VOrder": 42,
@@ -613,7 +634,8 @@
       "Text": "بیک بار از نظر انداختندش",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: به طور ناگهانی او را از ارتفاعات و بلندی‌ها دور کردند و به پایین فرستادند."
     },
     {
       "VOrder": 44,
@@ -629,7 +651,8 @@
       "Text": "موافق خیمه بر چرخ برین زد",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: منافق به جای آنکه در آسمان و در میانهٔ آسمان‌های بلند قرار گیرد، خود را به زمین می‌زند و نشان می‌دهد که چقدر با طبع واقعی خود در تضاد است."
     },
     {
       "VOrder": 46,
@@ -645,7 +668,8 @@
       "Text": "الهی، از چه کذبم برون آر",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: خداوندا، مرا از دروغ و فریب نجات بده و به راستی و صداقت هدایت کن."
     },
     {
       "VOrder": 48,
@@ -661,7 +685,8 @@
       "Text": "که در هر حالتی بهبودم اینست",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: در هر شرایطی، وضعیت من به این شکل است که هدف نهایی‌ام همین است."
     },
     {
       "VOrder": 50,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "دی مرا گفت دوستی که مرا",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوست من به من گفت که من به دنبال فلان شخص از روی چند کار هستم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "سخنی چند هست وز پی آن",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چند سخن هست و برای بیان آن‌ها نیاز به جایی خلوت و آرام دارم."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "خلوتی آن چنان که اندر وی",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا به فضایی اشاره می‌شود که در آن هیچ موجودی وجود ندارد و کاملاً تنها و خالی است."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "گفتم این فرصت ار توانی یافت",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بتوانی، این فرصت را غنیمت شمرو وقتی برای خوردن نان دست نگه‌دار."
     },
     {
       "VOrder": 8,

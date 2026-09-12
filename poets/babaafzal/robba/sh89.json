@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "رو خانه برو، که شاه ناگاه آید",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خانه برو، زیرا ناگهان شاه می‌آید و به سراغ فرد دانا می‌رود."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "خرگاه وجود را از خود خالی کن",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وجود خود را از هر گونه آلودگی و ناهمواری خالی کن، زیرا وقتی پاک شدی، بزرگی و مقام عالی به تو خواهد رسید."
     },
     {
       "VOrder": 4,

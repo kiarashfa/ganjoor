@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "مردم ایدون همانا چون شیرخواره است که چون خو‌یی اندرگرفت بر آن خوی بایستد.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: مردم در ایدون مانند شیرخواری هستند که وقتی به خواب می‌رود، بر روی همان خواب باقی می‌ماند."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "بود آدمی کودکی شیرخوار",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: انسان در ابتدا مانند یک کودک شیرخوار است که ویژگی‌ها و صفات زیادی را می‌پذیرد و می‌آموزد."
     },
     {
       "VOrder": 3,
@@ -46,7 +48,8 @@
       "Position": "Right",
       "Text": "چو خویی پذیرد در استد بدان",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرگاه بخواهی به ویژگی یا خاصیتی عادت کنی، به آن توجه کن تا به خود آن ویژگی دچار نشوی."
     },
     {
       "VOrder": 5,

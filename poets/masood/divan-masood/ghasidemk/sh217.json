@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "چون مشرفست همت بر رازم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که اراده‌ام بر راز وجودم تسلط پیدا کند، دیگر از آزمایش‌ها و چالش‌ها غمگین نمی‌شوم."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "چون در به زیر پاره الماسم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که در زیر روشنایی کوچکی قرار بگیرم، مانند طلا که در دهان است و نرم می‌شود."
     },
     {
       "VOrder": 4,
@@ -55,7 +57,8 @@
       "Position": "Right",
       "Text": "بسته دو پای و دوخته دو دیده",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا کی باید با پای بسته و چشمان دوخته به انتظار بنشینم، در حالی که نه پرواز می‌توانم بکنم و نه توانایی حرکت دارم؟"
     },
     {
       "VOrder": 6,
@@ -69,7 +72,8 @@
       "Position": "Right",
       "Text": "با هر چه آدمیست همی گویی",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرگاه که در مشکلات و غم‌ها به سر می‌برم، دوست و همراهی برای خودم می‌سازم تا با هم این سختی‌ها را تحمل کنیم."
     },
     {
       "VOrder": 8,
@@ -83,7 +87,8 @@
       "Position": "Right",
       "Text": "من گوهرم ز آتش دل ترسم",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من مانند جواهری هستم که از آتش دل ساخته شده‌ام و می‌ترسم که ناگهان رازهای درونی‌ام روشن شود."
     },
     {
       "VOrder": 10,
@@ -97,7 +102,8 @@
       "Position": "Right",
       "Text": "نه نه که گر فلک بودم بوته",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به جای انسان، به صورت یک درخت و آتش در می‌بودم، تأثیر قوی‌ای از خود می‌گذاشتم."
     },
     {
       "VOrder": 12,
@@ -111,7 +117,8 @@
       "Position": "Right",
       "Text": "روی سفر نبینم و از دانش",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من سفر نمی‌کنم و در جستجوی دانش هستم، گاهی در سرزمین حجاز و گاهی در اهواز درس می‌خوانم."
     },
     {
       "VOrder": 14,
@@ -125,7 +132,8 @@
       "Position": "Right",
       "Text": "ابرم که در و لؤلؤ بفشانم",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من مانند ابری هستم که دانه‌های لؤلؤ را پخش می‌کنم و صدایم همچون رعد در سراسر جهان پیچیده شده است."
     },
     {
       "VOrder": 16,
@@ -139,7 +147,8 @@
       "Position": "Right",
       "Text": "از راستی چو تیره بود بیتم",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر حقیقت تلخ باشد و باعث دردسر من شود، من دشمنان را از خود دور می‌کنم، حتی اگر با این کار احساس بدی پیدا کنم."
     },
     {
       "VOrder": 18,
@@ -153,7 +162,8 @@
       "Position": "Right",
       "Text": "زان شعر کایچ خامه نپردازد",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از آن شعری که هیچ قلمی نمی‌تواند آن را بنویسد، من به سادگی در یک نشسته نمی‌توانم آن را بگویم."
     },
     {
       "VOrder": 20,
@@ -167,7 +177,8 @@
       "Position": "Right",
       "Text": "بادم به نظم و نثر و نه نمامم",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در نظم و نثر به خوبی مهارت دارم و در بین مردم، باعث خوشحالی و عشق می‌شوم. در عین حال، هرگز به بدی یا غم معرفی نمی‌شوم."
     },
     {
       "VOrder": 22,
@@ -181,7 +192,8 @@
       "Position": "Right",
       "Text": "مقصود می نیابم و می جویم",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من هدف و مقصود خود را نمی‌یابم و در جستجوی آن هستم، اما نمی‌توانم مقصد را ببینم و به تلاش خود ادامه می‌دهم."
     },
     {
       "VOrder": 24,
@@ -195,7 +207,8 @@
       "Position": "Right",
       "Text": "بر عمر و بر جوانی می گریم",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من بر روی عمر و جوانی‌ام گریه می‌کنم، زیرا هر آنچه که از دست رفت دیگر به من برنمی‌گردد."
     },
     {
       "VOrder": 26,
@@ -209,7 +222,8 @@
       "Position": "Right",
       "Text": "با چرخ در قمارم و می مانم",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در قمار به چرخ می‌چرخم و همچنان در این بازی می‌مانم، در حالی که وقتی به دست خود نگاه می‌کنم، می‌بینم هنوز در حال بازی هستم."
     },
     {
       "VOrder": 28,

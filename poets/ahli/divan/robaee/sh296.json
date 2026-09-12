@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "این مدعیان کی بشکایت ارزند",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این مدعیان ارزش شکایت کردن ندارند، زیرا حتی اگر هم از خود چیزی بگویند، باز هم به درد نمی‌خورند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "در ارزششان اگر کنی غایت جهد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهی به ارزش افراد توجه کنی، باید بدانی که حتی سگت هم از نظر ارزش بسیار کمتر از آنهاست."
     },
     {
       "VOrder": 4,

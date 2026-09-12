@@ -421,7 +421,8 @@
       "Text": "خوشا آنان که ملک و آب دارند",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "خوشا کسانی که آب، زمین، یوغ، اوجار، چوم و گاو دارند. (اوجار=چوب گاو آهن؛ چوم=ابزاری چوبی که برای جدا کردن گندم از کاه، به گاو یا اسب می‌بندند)"
     },
     {
       "VOrder": 2,
@@ -437,7 +438,8 @@
       "Text": "برون خانه‌شان یک خرمن کود",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "بیرون خانهٔ‌شان، از سرگین [چارپایان] چَرا رفته، یک خرمن کود دارند."
     },
     {
       "VOrder": 4,
@@ -453,7 +455,8 @@
       "Text": "همه نرخر ز ماده خر گرفته",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "خر و گاو نر را از خر و گاو ماده گرفته است."
     },
     {
       "VOrder": 6,
@@ -469,7 +472,8 @@
       "Text": "چو خورشید آمد اندر برج ماهی",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هنگامی که اسفند ماه فرامی‌رسد، برف‌ها آب می‌شوند."
     },
     {
       "VOrder": 8,
@@ -485,7 +489,8 @@
       "Text": "خران بارکش را گاله بندند",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "روی خرهای بارکش گاله می‌بندند و از چاله در گاله کود می‌ریزند."
     },
     {
       "VOrder": 10,
@@ -501,7 +506,8 @@
       "Text": "به کود اندر کُنَند اطراف کوشن",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "بر کشتزار کود می‌ریزد؛ انگار که تن جنگجو را با زره بپوشانند."
     },
     {
       "VOrder": 12,
@@ -517,7 +523,8 @@
       "Text": "پس آنگه خور به برج بره آید",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "آنگاه خورشید به برج بره می‌رسد (بهار می‌آید) و زمین‌ پر از شنگ و تره می‌شود."
     },
     {
       "VOrder": 14,
@@ -533,7 +540,8 @@
       "Text": "ز هر سو دنبلان و قارچ خیزد",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "از هر سو دنبلان (چیزی مانند قارچ) و قارچ‌ می‌روید؛ انگار که کاسه و پارچ از زمین بیرون آمده باشد."
     },
     {
       "VOrder": 16,
@@ -549,7 +557,8 @@
       "Text": "هوا را اعتدال تازه بینی",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوا اعتدال تازه‌ای یافته و گلشن از روی گل، غازه گرفته است."
     },
     {
       "VOrder": 18,
@@ -565,7 +574,8 @@
       "Text": "برآید ابر و بارد نم به هر دشت",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "ابر می‌شود، نم باران بر هر دشت می‌بارد و صبا برای گلگشت به گلشن می‌آید."
     },
     {
       "VOrder": 20,
@@ -581,7 +591,8 @@
       "Text": "زمین‌ها شیره دار و نرم گردد",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "زمین‌ها نرم و لطیف می‌گردند و دل مرد کشاورز گرم می‌شود."
     },
     {
       "VOrder": 22,
@@ -597,7 +608,8 @@
       "Text": "اول جفتی ز گاوان گرامی",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "اول یک جفت از گاوهای عزیزش را از آسیب جَمامی بیرون می‌آورد؛ یعنی کاری می‌کند که توان راه رفتن داشته باشند. (جَمام = انسان یا چهارپایی که نتواند زیاد راه برود \u003Cفرهنگ نظام، جلد دوم\u003E)"
     },
     {
       "VOrder": 24,
@@ -613,7 +625,8 @@
       "Text": "وزان پس یو نهد اوجار بندد",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "سپس به آنها یوغ و اوجار می‌زند و کمر همت برای کار می‌بندد."
     },
     {
       "VOrder": 26,
@@ -629,7 +642,8 @@
       "Text": "یکی گوران گرفته بر کف خویش",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "[چوبِ] گاوران به دست گرفته، گاو را می‌راند و زمین را\nشخم می‌زند.\u00A0"
     },
     {
       "VOrder": 28,
@@ -645,7 +659,8 @@
       "Text": "چو فارغ گردد از شخم سه باره",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "پس از سه بار شخم‌زنی، دانه‌های بهاری را در زمین می‌کارد."
     },
     {
       "VOrder": 30,
@@ -661,7 +676,8 @@
       "Text": "تموز آید زمین‌ها تشنه گردد",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "با فرارسیدن تابستان، زمین‌ها تشنه می‌شوند و خار و خس‌ها چون دشنه [بُرنده]."
     },
     {
       "VOrder": 32,
@@ -677,7 +693,8 @@
       "Text": "سراسیمه کشاور بیل در دست",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "کشاورز سراسیمه بیل در دست، آب را از بالا به پایین می‌آورد."
     },
     {
       "VOrder": 34,
@@ -693,7 +710,8 @@
       "Text": "زمین‌ها را حیاتی تازه آرد",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "به زمین‌ها جان تازه می‌بخشد و به پالیز (بوستان) آب فراوان می‌رساند."
     },
     {
       "VOrder": 36,
@@ -709,7 +727,8 @@
       "Text": "پس آنگه نوبت پائیز آید",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "آنگاه پاییز فرامی‌رسد، و زمین‌ها پر از سنبل گندم می‌شوند."
     },
     {
       "VOrder": 38,
@@ -725,7 +744,8 @@
       "Text": "ز جا خیزد کشاور صبح زودی",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "کشاورز صبح زود از جا برمی‌خیزد و داس درو به دست می‌گیرد."
     },
     {
       "VOrder": 40,
@@ -741,7 +761,8 @@
       "Text": "دروده، دسته کرده، کاه و دان را",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "کاه و دانه را درو و دسته دسته می‌کند و به صورت خرمن درمی‌آورد."
     },
     {
       "VOrder": 42,
@@ -757,7 +778,8 @@
       "Text": "به چرخ آهنینش خرد سازد",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "با چرخ آهنین خرمن را خُرد می‌کند و با وزش باد، آنرا با شانه (هوچین) به باد می‌دهد."
     },
     {
       "VOrder": 44,
@@ -773,7 +795,8 @@
       "Text": "جدا سازد به باد از کاه دانه",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "[به این ترتیب] کاه را از دانه جدا می‌سازد، آنگاه انبار خانه را پُر می‌کند."
     },
     {
       "VOrder": 46,
@@ -789,7 +812,8 @@
       "Text": "پس آنگاهش برد در آسیائی",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "سپس آنرا به آسیابی پر آب می‌برد که تند می‌چرخد و نرم می‌ساید (آرد می‌کند)."
     },
     {
       "VOrder": 48,
@@ -805,7 +829,8 @@
       "Text": "بساید نرم و در تاپوش ریزد",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "آنرا نرم می‌ساید (آرد می‌کند) و در تاپو می‌ریزد. [بانو] آن را در غربال ریخته و الک می‌کند. (تاپو=سیلوی خانگی که در گذشته از گل می‌ساختند و گندم یا آرد را در آن انبار میکردند. تاپو دارای دریچه کوچکی در پایین بود.)"
     },
     {
       "VOrder": 50,
@@ -821,7 +846,8 @@
       "Text": "گزین کرده تغار و لانجینی",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "[کدبانو] تغار و لانجین مناسبی فراهم می‌آوَرد و خمیر درست می‌کند."
     },
     {
       "VOrder": 52,
@@ -837,7 +863,8 @@
       "Text": "خمیر گندمی را چونه کرده",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "[کدبانو] خمیر گندم را چونه می‌کند و با تخم مرغ روی آنرا گُل می‌اندازد."
     },
     {
       "VOrder": 54,
@@ -853,7 +880,8 @@
       "Text": "ز مغز کنجد و شملید و خشخاش",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "[کدبانو] با دانه کنجد، شنبلید و خشخاش، آنرا–بهتر از یک نقاش–پر نقش و نگار می‌کند."
     },
     {
       "VOrder": 56,
@@ -869,7 +897,8 @@
       "Text": "پس آنگه خم شده همچون سیاوش",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "سپس [برای پختن نان] سر را چون سیاوش درون تنور آتش فرو می‌بَرد."
     },
     {
       "VOrder": 58,
@@ -885,7 +914,8 @@
       "Text": "جلایر از پس او بند کرده",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "جلایر از پشت به او ... کرده و لواطی مانند قند و نبات ...."
     },
     {
       "VOrder": 60,
@@ -901,7 +931,8 @@
       "Text": "فرو رفته دو سیخ اندر دو تنور",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "دو سیخ در دو تنور فرو رفته‌، که چشم‌بد از هر دوی آن‌ها دور باشد!"
     },
     {
       "VOrder": 62,
@@ -917,7 +948,8 @@
       "Text": "وزان پس کارها از هم گذشته",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "پس از آن، کارها پا به پای هم پیش می‌رود؛ هم کمر خالی شده هم نان‌ها آماده!"
     },
     {
       "VOrder": 64,
@@ -933,7 +965,8 @@
       "Text": "بت پرخاش جو دشنام گویان",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "بتِ پرخاشگر، دشنام می‌دهد و از ننگ و نام سخن می‌گوید."
     },
     {
       "VOrder": 66,
@@ -949,7 +982,8 @@
       "Text": "لواش و پنجه کش‌های برشته",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "لواش و نان پنجه کشیدهٔ برشته، سفید و تمیز را که مانند روی\u00A0فرشته است،"
     },
     {
       "VOrder": 68,
@@ -965,7 +999,8 @@
       "Text": "برون آورده و بر خوان نهاده",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "برای خانه و مهمان [از تنور] بیرون می‌آورد."
     },
     {
       "VOrder": 70,
@@ -981,7 +1016,8 @@
       "Text": "فغان از یاد ایام جوانی",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "جوانی کجایی که یادت به خیر! آن زمان خوش گذرانی و کامجویی!"
     },
     {
       "VOrder": 72,
@@ -997,7 +1033,8 @@
       "Text": "جلایر را لبی پر باد سردست",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "از گذراندن روز و شب به خواندن وِرد،\u00A0آه سردی بر لب جلایر است."
     },
     {
       "VOrder": 74,
@@ -1013,7 +1050,8 @@
       "Text": "که داد از پیری و پیزی گشادی",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "داد از پیری، سستی، باد معده و حاشیه دل‌پیچه!"
     },
     {
       "VOrder": 76,
@@ -1029,7 +1067,8 @@
       "Text": "که درد هیضه و زخم بواسیر",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "که درد سوء هاضمه و زخم بواسیر، جلایر را از زندگی سیر کرده است."
     },
     {
       "VOrder": 78,

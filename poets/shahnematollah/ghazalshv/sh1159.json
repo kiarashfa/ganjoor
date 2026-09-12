@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ما با تو به جز یاری داریم نداریم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما فقط برای کمک به تو آمده‌ایم و جز عشق و نیکی چیزی دیگر نداریم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "جز دولت درویشی جوییم نجوییم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما فقط به دنبال نعمت و خوشبختی درویشی هستیم و هیچ تمایلی به خواسته‌های دنیا و مقام‌های دنیوی نداریم."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "چون ساغر می در دور مستانه همی گردیم",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما در حال گشت و گذار با جام می هستیم و تنها در پی لذت می‌خواری هستیم و هیچ خواسته‌ دیگری نداریم."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "جز دُردی درد دل نوشیم ننوشیم",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما تنها از درد و غم‌مان می‌نوشیم و چیزی جز ناله و زاری نداریم. دیگر هیچ چیزی در دل نداریم."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "یاریم ز جان و دل با سید سرمستان",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از جان و دل به سید سرمستان کمک می‌کنم، اما با یار دیگری هم یاری دارم یا ندارم."
     },
     {
       "VOrder": 10,

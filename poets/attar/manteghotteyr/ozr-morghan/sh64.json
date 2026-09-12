@@ -271,7 +271,8 @@
       "Text": "غازیی از کافری بس سرفراز",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: یک جنگجو از کافران با افتخار خواست که به او مهلت دهند تا بتواند نماز بخواند."
     },
     {
       "VOrder": 2,
@@ -287,7 +288,8 @@
       "Text": "چون بشد غازی نماز خویش کرد",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: زمانی که غازی نماز خود را به پایان رساند، بار دیگر به میدان جنگ بازگشت و هر لحظه شدت جنگ بیشتر شد."
     },
     {
       "VOrder": 4,
@@ -303,7 +305,8 @@
       "Text": "بود کافر را نمازی زان خویش",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: کافر نمازی از خود داشت و به همین خاطر، خواست که بیرون برود و از پیش کسی جدا شد."
     },
     {
       "VOrder": 6,
@@ -319,7 +322,8 @@
       "Text": "گوشه‌ای بگزید کافر پاک‌تر",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: شخصی از بی‌دینی خود کناره‌گیری می‌کند و خود را از آلودگی‌ها دور می‌سازد، سپس به خاک می‌افتد و به یک بت که سمبل خدایان دروغین است، سر تسلیم فرود می‌آورد."
     },
     {
       "VOrder": 8,
@@ -335,7 +339,8 @@
       "Text": "غازیش چون دید سر بر خاک راه",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: غازیش وقتی سرش را به خاک گذاشت، گفت: من به این مقام دست یافتم."
     },
     {
       "VOrder": 10,
@@ -351,7 +356,8 @@
       "Text": "خواست تا تیغی زند بر وی نهان",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: می‌خواست بر او ضربه‌ای بزند، اما ناگهان صدای پیامی از آسمان او را هشدار داد."
     },
     {
       "VOrder": 12,
@@ -367,7 +373,8 @@
       "Text": "کای همه بد عهدی از سر تا بپای",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که از سر تا پا بدعهدی را به نمایش می‌گذاری، اما در عوض وفا و پیمان می‌آوری."
     },
     {
       "VOrder": 14,
@@ -383,7 +390,8 @@
       "Text": "او نزد تیغت چو اول داد مهل",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: او به تیغ تو مانند کسی است که در ابتدا مهلت می‌طلبد؛ اگر تو به او آسیب برسانی، نادانی کرده‌ای."
     },
     {
       "VOrder": 16,
@@ -399,7 +407,8 @@
       "Text": "ای و او فو العهد برنا خوانده",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: ای عشق، یادگار عهد و پیمان ما، روزگار جوانی بر ما گذشته و در این بین، به پیمان‌های خود وفادار نمانده‌ایم."
     },
     {
       "VOrder": 18,
@@ -415,7 +424,8 @@
       "Text": "چون نکویی کرد کافر پیش ازین",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی که کافر است، پیش از این نیکی کرده و کارهای خوب انجام داده، تو دیگر نباید بدی و ناپسنددیگری را انجام دهی."
     },
     {
       "VOrder": 20,
@@ -431,7 +441,8 @@
       "Text": "او نکویی کرد و تو بد می‌کنی",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: او خوبی کرده و تو نسبت به دیگران بد عمل می‌کنی. با دیگران همان‌طور رفتار کن که خودت دوست داری با تو رفتار شود."
     },
     {
       "VOrder": 22,
@@ -447,7 +458,8 @@
       "Text": "بودت از کافر وفا و ایمنی",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: وجود تو از یک کافر نیز وفادارتر و امن‌تر است، پس وفاداری تو کجاست ای کسی که به خدا ایمان داری؟"
     },
     {
       "VOrder": 24,
@@ -463,7 +475,8 @@
       "Text": "ای مسلمان، نامسلم آمدی",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: ای مسلمان، تو که به وفا پایبند نبوده‌ای، حتی یک کافر هم به این اندازه وفادار نبوده است."
     },
     {
       "VOrder": 26,
@@ -479,7 +492,8 @@
       "Text": "رفت غازی زین سخن از جای خویش",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: غازی با این سخن از مکان خود دور شد و در عرقی که بر تنش بود، تمام قامت خود را گم کرد."
     },
     {
       "VOrder": 28,
@@ -495,7 +509,8 @@
       "Text": "کافرش چون دید گریان مانده",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: وقتی کافر آن شخص را دید که با چشمانی اشک‌آلود و با تیغی در دست ایستاده، به شدت دچار حیرت و شگفتی شد."
     },
     {
       "VOrder": 30,
@@ -511,7 +526,8 @@
       "Text": "گفت گریان از چه‌ای بر گفت راست",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: شخصی را دیدم که در حال گریه بود و از او پرسیدم چرا گریان است. او پاسخ داد که به درستی شکایت کرده‌اند و در این زمان مجبور به پاسخگویی هستند."
     },
     {
       "VOrder": 32,
@@ -527,7 +543,8 @@
       "Text": "بی‌وفا گفتند از بهر توم",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: بی‌وفاها می‌گویند که من به خاطر تو اینقدر غمگین و گریان هستم، اما دلایل این اندوه من از خشم توست."
     },
     {
       "VOrder": 34,
@@ -543,7 +560,8 @@
       "Text": "چون شنید این قصه کافر آشکار",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: وقتی کافر این داستان را شنید، به شدت فریادی کشید و سپس با اندوه فراوان گریه کرد."
     },
     {
       "VOrder": 36,
@@ -559,7 +577,8 @@
       "Text": "گفت جباری که با محبوب خویش",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: شخصی قدرتمند به محبوب خود می‌گوید که برای دشمن نابهنجار خود، باید تلاشی انجام دهد."
     },
     {
       "VOrder": 38,
@@ -575,7 +594,8 @@
       "Text": "از وفاداری کند چندین عتاب",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: چطور می‌توانم به وفاداری او پاسخ دهم در حالی که من به او بی‌وفا شده‌ام؟"
     },
     {
       "VOrder": 40,
@@ -591,7 +611,8 @@
       "Text": "عرضه کن اسلام تا دین آورم",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: اسلام را به دیگران معرفی کن تا بتوانم دینی به ارمغان بیاورم که شرک را از بین ببرد و قوانین و اصولی برای زندگی ایجاد کنم."
     },
     {
       "VOrder": 42,
@@ -607,7 +628,8 @@
       "Text": "ای دریغا بر دلم بندی چنین",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: ای کاش بر دل من اینچنین غمی نباشد و من از وجود چنین خدایی بی‌خبر نباشم."
     },
     {
       "VOrder": 44,
@@ -623,7 +645,8 @@
       "Text": "بس که با مطلوب خود ای بی‌طلب",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: تو با آنچه که می‌خواهی، به قدری بی‌وفایی و بی‌احترامی کرده‌ای که خود را از جوهر ادب منحرف کرده‌ای."
     },
     {
       "VOrder": 46,
@@ -639,7 +662,8 @@
       "Text": "لیک صبرم هست تا طاس فلک",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: اما من صبر دارم تا آن زمان که ستاره‌های آسمان یکی یکی نام تو را بگویند."
     },
     {
       "VOrder": 48,

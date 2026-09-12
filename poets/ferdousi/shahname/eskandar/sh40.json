@@ -401,7 +401,8 @@
       "Text": "بدان جایگه شاه ماهی بماند",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: بدانید که در آن مکان، شاه‌ماهی باقی می‌ماند و سپس حرکت کرده و سپاه را به حرکت درمی‌آورد."
     },
     {
       "VOrder": 2,
@@ -417,7 +418,8 @@
       "Text": "ازان سبز دریا چو گشتند باز",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: وقتی که دریا به رنگ سبز درآمد، بیابان را در دست گرفتند و سفری طولانی آغاز کردند."
     },
     {
       "VOrder": 4,
@@ -433,7 +435,8 @@
       "Text": "چو منزل به منزل به حلوان رسید",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: به تدریج و مرحله به مرحله، به شهر حلوان رسید و در آنجا شخصی ثروتمند و مهم را دید."
     },
     {
       "VOrder": 6,
@@ -449,7 +452,8 @@
       "Text": "به پیش آمدندش بزرگان شهر",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: بزرگان شهر به نزد او آمدند، کسی که به خاطر نام و دانشش مورد احترام است."
     },
     {
       "VOrder": 8,
@@ -465,7 +469,8 @@
       "Text": "برفتند با هدیه و با نثار",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: دسته‌ای از شخصیت‌ها با هدایا و نذورات از حلوان به سمت شهریار رفتند."
     },
     {
       "VOrder": 10,
@@ -481,7 +486,8 @@
       "Text": "سکندر سبک پرسش اندر گرفت",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: سکندر به فکر فرو رفته و از اطراف خود پرسید که چه چیز عجیبی در اینجا می‌بینید."
     },
     {
       "VOrder": 12,
@@ -497,7 +503,8 @@
       "Text": "بدو گفت گوینده کای شهریار",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: گفتگوی گوینده به شاه این‌گونه است که ما نمی‌دانیم چه چیزی به کارمان می‌آید."
     },
     {
       "VOrder": 14,
@@ -513,7 +520,8 @@
       "Text": "برین مرز درویشی و رنج هست",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در این جهان، زندگی همراه با سختی‌ها و زحمت‌های درویشی است، اما اگر از این مشکلات عبور کنی، به سعادت و خوشبختی دست خواهی یافت."
     },
     {
       "VOrder": 16,
@@ -529,7 +537,8 @@
       "Text": "چو گفتار گوینده بشنید شاه",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: وقتی شاه صحبت‌های گوینده را شنید، با سپاه خود به سوی سند حرکت کرد."
     },
     {
       "VOrder": 18,
@@ -545,7 +554,8 @@
       "Text": "پذیره شدندش سواران سند",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: سواران سند به او پیوستند و همان جنگ را آغاز کردند، و یاری از هند به کمکشان آمد."
     },
     {
       "VOrder": 20,
@@ -561,7 +571,8 @@
       "Text": "هرانکس که از فور دل خسته بود",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که از درد دل خسته شده باشد، به دوری از خشونت و خونریزی تمایل دارد."
     },
     {
       "VOrder": 22,
@@ -577,7 +588,8 @@
       "Text": "بردند پیلان و هندی درای",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: فیل‌ها و هندی‌ها را برداشتند، و صدای بلند و ناله‌ی ساز کرنای بلند شد."
     },
     {
       "VOrder": 24,
@@ -593,7 +605,8 @@
       "Text": "سر سندیان بود بنداه نام",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: سر سندیان به معنای در راس یک اسب است و بنداه به عنوان نشانه‌ای از سواری سرافراز و با اراده و خواسته‌های خود توصیف می‌شود. این جمله به نوعی از عظمت و قدرت سواری اشاره دارد که با تدبیر و خواسته‌هایش در راستای هدفی پیش می‌رود."
     },
     {
       "VOrder": 26,
@@ -609,7 +622,8 @@
       "Text": "یکی رزمشان کرده شد همگروه",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: در اینجا صحبت از یک نبرد است که در آن دشمنان در کنار هم قرار گرفته و به بخشی از زمین تبدیل شده‌اند، گویی که بر اثر این نبرد، زمین همانند کوه‌ها به هم ریخته و دچار تغییر شده است."
     },
     {
       "VOrder": 28,
@@ -625,7 +639,8 @@
       "Text": "شب آمد بران دشت سندی نماند",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: شب فرا رسید و در دشت سند، سکندر و سپاهش دیگر نماندند و از آنجا رفتند."
     },
     {
       "VOrder": 30,
@@ -641,7 +656,8 @@
       "Text": "به دست آمدش پیل هشتاد و پنج",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: او با تلاش و کوشش زیادی به موفقیتی بزرگ دست یافت که به مانند به‌دست آوردن یک فیل بزرگ و قدرتمند است؛ همچنین او به دارایی‌های ارزشمندی همچون تاج زرین و شمشیر و گنج رسیده است."
     },
     {
       "VOrder": 32,
@@ -657,7 +673,8 @@
       "Text": "زن و کودک و پیر مردان به راه",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: زنان و کودکان و پیرمردان در حال گریه به سمت شاه حرکت کردند."
     },
     {
       "VOrder": 34,
@@ -673,7 +690,8 @@
       "Text": "که ای شاه بیدار با رای و هوش",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: ای پادشاه بیدار، با اندیشه و هوش خود مشورت کن و به این سرزمین و مردمش آسیب نزن."
     },
     {
       "VOrder": 36,
@@ -689,7 +707,8 @@
       "Text": "که فرجام هم روز تو بگذرد",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: زمانی که روز تو به پایان می‌رسد، خوشا بحال کسی که زندگی‌اش به بدی نگذراند."
     },
     {
       "VOrder": 38,
@@ -705,7 +724,8 @@
       "Text": "سکندر بریشان نیاورد مهر",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: سکندر هیچ توجهی به خستگان نداشت و چهره‌اش نشان دهنده‌ی محبت و مهر نبود."
     },
     {
       "VOrder": 40,
@@ -721,7 +741,8 @@
       "Text": "گرفتند زیشان فراوان اسیر",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: آن‌ها بسیاری از افراد را به اسارت گرفتند، از جمله زنان، کودکان، جوانان و سالمندان."
     },
     {
       "VOrder": 42,
@@ -737,7 +758,8 @@
       "Text": "سوی نیمروز آمد از راه بست",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: به وسط روز آمد و راه را بسته، به طوری که همه‌ی زمین را از وجود دشمن پاک کرد."
     },
     {
       "VOrder": 44,
@@ -753,7 +775,8 @@
       "Text": "وزان جایگه شد به سوی یمن",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: او از آن مکان به سمت یمن حرکت کرد، او کسی است با قدرت و شهرت که جمعی از افراد بااو هستند."
     },
     {
       "VOrder": 46,
@@ -769,7 +792,8 @@
       "Text": "چو بشنید شاه یمن با مهان",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: شاه یمن وقتی شنید که مهمانان جمع شده‌اند، به دیدار پادشاه جهان آمد."
     },
     {
       "VOrder": 48,
@@ -785,7 +809,8 @@
       "Text": "بسی هدیه‌ها کز یمن برگزید",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: بسیاری از هدیه‌ها که از سرزمین یمن انتخاب شده‌اند، با ارزش و زیبا هستند، به گونه‌ای که به تمامی خوبی‌ها و زیبایی‌ها می‌چسبند."
     },
     {
       "VOrder": 50,
@@ -801,7 +826,8 @@
       "Text": "ده اشتر ز برد یمن بار کرد",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: ده شتر از سرزمین یمن بار کرده‌اند و سپس پنج شتر دیگر را با دینار پر کرده‌اند."
     },
     {
       "VOrder": 52,
@@ -817,7 +843,8 @@
       "Text": "دگر ده شتر بار کرد از درم",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: دیگر ده شتر بار کرد از ارث من، وقتی که دل شاد است، غم معنا ندارد."
     },
     {
       "VOrder": 54,
@@ -833,7 +860,8 @@
       "Text": "دگر سلهٔ زعفران بد هزار",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: زعفران دیگر در دنیا که به زیبایی و خوشبویی معروف است، ارزش و اعتبار زیادی دارد. همچنین، هر لباس گرانبهایی که تعداد آن‌ها بی‌شمار باشد، نشان‌دهنده‌ی ثروت و تجمل است."
     },
     {
       "VOrder": 56,
@@ -849,7 +877,8 @@
       "Text": "زبرجد یکی جام بودش به گنج",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: در درون گنجینه‌ای، جامی از سنگ زبرجد وجود دارد که به خاطر تازگی و زیبایی‌اش، کمتر از هفتاد و پنج‌بار دیده شده است."
     },
     {
       "VOrder": 58,
@@ -865,7 +894,8 @@
       "Text": "یکی جام دیگر بدش لاژورد",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: یکی دیگر از جام‌ها را به رنگ لاجوردی گذاشت و درون آن یاقوت زرد را شست."
     },
     {
       "VOrder": 60,
@@ -881,7 +911,8 @@
       "Text": "ز یاقوت سرخ از برش ده نگین",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: از یاقوت سرخ، نگینی زیبا ساخته و به فرمانروایان هدیه داده و بر ایشان ستایش کرده است."
     },
     {
       "VOrder": 62,
@@ -897,7 +928,8 @@
       "Text": "به پیش سراپردهٔ شهریار",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: آنها با پیشکشی و نذری به چادر شاه رسیدند."
     },
     {
       "VOrder": 64,
@@ -913,7 +945,8 @@
       "Text": "سکندر بپرسید و بنواختشان",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: سکندر از آن‌ها پرسید و به نرمی با آن‌ها رفتار کرد و بر تخت نشاندشان، نزدیک خود جای داد."
     },
     {
       "VOrder": 66,
@@ -929,7 +962,8 @@
       "Text": "برو آفرین کرد شاه یمن",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: برو و از طرف شاه یمن تجلیل و ستایش کن که در جمع و محفل‌ها پیروز و موفق باشی."
     },
     {
       "VOrder": 68,
@@ -945,7 +979,8 @@
       "Text": "به تو شادم ار باشی ایدر دو ماه",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: اگر تو بیایی و در کنار من باشی، من خوشحال می‌شوم، حتی اگر فقط برای مدتی کوتاه از سفر دوری کنی."
     },
     {
       "VOrder": 70,
@@ -961,7 +996,8 @@
       "Text": "سکندر برو آفرین کرد و گفت",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: سکندر به او تحسین کرد و گفت که همیشه عاقلانه و با درک عمل کند."
     },
     {
       "VOrder": 72,
@@ -977,7 +1013,8 @@
       "Text": "به شبگیر شاه یمن بازگشت",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: در شب به سوی شاه یمن برگشت و از لشکری که دور و برش بود، صدای بلندی برخاست."
     },
     {
       "VOrder": 74,

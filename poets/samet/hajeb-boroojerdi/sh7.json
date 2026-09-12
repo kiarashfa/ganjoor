@@ -331,7 +331,8 @@
       "Text": "یا علی این عم تاجدار",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای علی، تو تاجدار و بزرگوار هستی، که در دل‌های کسانی که در رنج و بی‌کسی به سر می‌برند، آرامش و تسلی می‌بخشی."
     },
     {
       "VOrder": 2,
@@ -347,7 +348,8 @@
       "Text": "یاورم شو گشته محنت کار من",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: مرا یاری کن که سختی‌ها و مشکلات به من فشار می‌آورد و مرگ به زودی به سراغم می‌آید در حالی که نزدیک به معشوقم هستم."
     },
     {
       "VOrder": 4,
@@ -363,7 +365,8 @@
       "Text": "جان زهرا می‌شود قربان تو",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: جان من که فدای تو می‌شود، فقط لحظاتی دیگر به نزد تو می‌آیم."
     },
     {
       "VOrder": 6,
@@ -379,7 +382,8 @@
       "Text": "طایر روحم ز تن بگشوده بال",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: پرنده‌ی روحم از بدن آزاد شده و بال گشوده است، زیرا دلم از این دنیا آکنده از افسردگی و اندوه است."
     },
     {
       "VOrder": 8,
@@ -395,7 +399,8 @@
       "Text": "کرده‌ام از نعمت آباد جهان",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: من در این جهان پر نعمت، با وجود بدن ضعیف و رنجور، تلاش کرده‌ام و کار کرده‌ام."
     },
     {
       "VOrder": 10,
@@ -411,7 +416,8 @@
       "Text": "سوی گلزار جنان سازم سفر",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: من به سمت بهشت می‌روم، زیرا با شوق دیدار پدرم سفر می‌کنم."
     },
     {
       "VOrder": 12,
@@ -427,7 +433,8 @@
       "Text": "با پدر خواهم حکایت‌ها کنم",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: من با پدرم داستان‌هایی را خواهم گفت و از مشکلات و نارضایتی‌هایم صحبت خواهم کرد."
     },
     {
       "VOrder": 14,
@@ -443,7 +450,8 @@
       "Text": "گویم ای باب کرام تاجدار",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: می‌گویم ای فرزند بزرگوار و باوقار، بعد از تو دختر بی‌دغدغه و شاداب به دنیا آمد."
     },
     {
       "VOrder": 16,
@@ -459,7 +467,8 @@
       "Text": "ای پدر بین پهلوی بشکسته‌ام",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: ای پدر، ببین که من دچار چه حالتی شده‌ام؛ پهلوی من شکسته و بازویم از ضرب‌های تازیانه به شدت دردمند است."
     },
     {
       "VOrder": 18,
@@ -475,7 +484,8 @@
       "Text": "ای پدر بنگر عذار نیلیم",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: ای پدر، لطفاً به چهره نیلیم نگاه کن؛ عمرم به خاطر کینه‌ای که داشتم، مثل ضربه‌ای که به سیل زده می‌شود، از بین رفته است."
     },
     {
       "VOrder": 20,
@@ -491,7 +501,8 @@
       "Text": "آتش بیداد زد در خانه‌ام",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: در خانه‌ام آتش برافروخته شد و به خاطر خشم، محل زندگی‌ام را سوزاند."
     },
     {
       "VOrder": 22,
@@ -507,7 +518,8 @@
       "Text": "کرد از ضرب در آن شوم پلید",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: محسن شش‌ماهه‌ام به خاطر نفرت و کینه‌ای که از من داشتند، از ضربه‌ای جانش را از دست داد."
     },
     {
       "VOrder": 24,
@@ -523,7 +535,8 @@
       "Text": "اوفکند ای خسرو عالی‌جناب",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: ای شاه بزرگوار، به خاطر دشمنی‌ات بر گردن همسرم طنابی بزن."
     },
     {
       "VOrder": 26,
@@ -539,7 +552,8 @@
       "Text": "لیک با تو ای امام ارجمند",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: اما با تو ای امام بزرگوار، اکنون در این لحظه می‌خواهم چند وصیت را بیان کنم."
     },
     {
       "VOrder": 28,
@@ -555,7 +569,8 @@
       "Text": "اولا ای شهریار بحر و بر",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: ای پادشاه دریا و زمین، اگر از من ناراحتی دیدی، لطفاً آن را فراموش کن."
     },
     {
       "VOrder": 30,
@@ -571,7 +586,8 @@
       "Text": "چون تنم سازی نهان در زیر گل",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: وقتی که وجودم را در زیر خاک گل زنی، با تمام وجود و جان خود این لحظه را خوش درک می‌کنم."
     },
     {
       "VOrder": 32,
@@ -587,7 +603,8 @@
       "Text": "بعد من ای جان و ای جانان من",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: بعد از من ای عشق و ای محبوب من، چشم‌پوشی نکن از فرزندانم."
     },
     {
       "VOrder": 34,
@@ -603,7 +620,8 @@
       "Text": "طفل بیمارم به دوران مضطر است",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: کودکم به دوران سختی گرفتار است و در این دنیا مانند پرنده‌ای است که بال و پر ندارد."
     },
     {
       "VOrder": 36,
@@ -619,7 +637,8 @@
       "Text": "گر حسن افسرده گردد از الم",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: اگر زیبایی از غم و اندوه دلگیر شود، دل من از درد او به خون می‌نشیند."
     },
     {
       "VOrder": 38,
@@ -635,7 +654,8 @@
       "Text": "گر حسینم را بیازاد کسی",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی به حسین من آسیب بزند، دل زار و رنجیده‌ام به شدت آزار می‌بیند."
     },
     {
       "VOrder": 40,
@@ -651,7 +671,8 @@
       "Text": "زینب و کلثوم زار مضطرم",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: زینب و کلثوم دختران جوان و نازنین من هستند که در غم و تنگدستی به سر می‌برند."
     },
     {
       "VOrder": 42,
@@ -667,7 +688,8 @@
       "Text": "کس نیازارد دل غمناکشان",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس دل‌های اندوهگین آن‌ها را آزار نمی‌دهد، هرچند که خاکشان با غم پیوند خورده است."
     },
     {
       "VOrder": 44,
@@ -683,7 +705,8 @@
       "Text": "آن دو بی‌کس را نه وقت ابتلاست",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: این دو نفر در شرایط سخت و بی‌پناهی قرار دارند و زمان آزمایش و امتحانشان فرا رسیده است؛ وضعیت آنها مرتبط با واقعه‌ای تلخ و سخت در دشت کربلاست."
     },
     {
       "VOrder": 46,
@@ -699,7 +722,8 @@
       "Text": "آن زمان کافند حسینم روی خاک",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: در آن زمان که حسینم بر روی زمین افتاده است، بدنش مانند گل پاره‌پاره و زخمی شده."
     },
     {
       "VOrder": 48,
@@ -715,7 +739,8 @@
       "Text": "شمر بنشیند به روی سینه‌اش",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: شمر بر روی سینه‌اش نشسته تا سر او را از بدنش جدا کند، اما بدون هیچ کینه و نفرتی."
     },
     {
       "VOrder": 50,
@@ -731,7 +756,8 @@
       "Text": "واندر آن صحرا کنند از بی‌کسی",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: در آن بیابان، به خاطر تنهایی خود، از هر کسی که به او برمی‌خورد، کمک می‌خواهند."
     },
     {
       "VOrder": 52,
@@ -747,7 +773,8 @@
       "Text": "رحم کی سازد کسی بر حالشان",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: کسی برای حال آنها رحم نمی‌کند و این باعث می‌شود وضعیتشان بدتر شود."
     },
     {
       "VOrder": 54,
@@ -763,7 +790,8 @@
       "Text": "می‌شوند از جور اعدا دستگیر",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: در آن سرزمین ناآشنا، هم دشمنان آسیب می‌زنند و هم افرادی دیگر به دام می‌افتند."
     },
     {
       "VOrder": 56,
@@ -779,7 +807,8 @@
       "Text": "وز بلای کوفه گویم یا ز شام",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: از مشکلاتی که در کوفه یا شام پیش آمده، بگویم یا از این غم، چگونه می‌توان تمام جزئیات را بیان کرد؟"
     },
     {
       "VOrder": 58,
@@ -795,7 +824,8 @@
       "Text": "مختصر کن (حاجبا) زین بیشتر",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: بهتر است از سوگواری بیشتر بپرهیزی و عواطف خود را کنترل کنی، زیرا این کار فقط به شعله‌ور شدن درد و اندوه می‌انجامد."
     },
     {
       "VOrder": 60,

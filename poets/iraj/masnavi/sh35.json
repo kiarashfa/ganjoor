@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "هرچه گویی تو طبیعی می‌گوی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که تو بگویی طبیعی است، اما بیشتر از آنچه که طبیعی است دنبال نگرد."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "او معلِّم تو بر او شاگِردی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر معلم تو به تو دانش بیاموزد، چه می‌توانی بکنی که او بهتر از تو تربیت شده است؟"
     },
     {
       "VOrder": 4,

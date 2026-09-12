@@ -157,7 +157,8 @@
       "Text": "کای غم‌زده ترک این هوس کن",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای غمگین، این آرزو را رها کن و به هوای بیرون برو و درباره این موضوع بیشتر صحبت نکن."
     },
     {
       "VOrder": 2,
@@ -173,7 +174,8 @@
       "Text": "خورشید جمال من نبیند",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: کسی مانند جمشید که در زیبایی و شکوه مشهور است، نمی‌تواند با جلال و زیبایی من دیدار کند."
     },
     {
       "VOrder": 4,
@@ -189,7 +191,8 @@
       "Text": "دیدار منت چو نیست روزی",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: اگر روزی دیدار محبت و انتظار میسر نیست، پس چرا در آتش شوق و عشق همیشه بسوزیم؟"
     },
     {
       "VOrder": 6,
@@ -205,7 +208,8 @@
       "Text": "کارم همه ناز و دل‌ربایی‌ست",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: من تمام کارم ناز و دل‌ربایی است و رسم و روال من در این دنیا وفا نداشتن است."
     },
     {
       "VOrder": 8,
@@ -221,7 +225,8 @@
       "Text": "پروای رعایتت ندارم",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: من نگران نیستم که به چه توجهی داری و احساس نمی‌کنم که مورد توجه خاصی قرار دارم."
     },
     {
       "VOrder": 10,
@@ -237,7 +242,8 @@
       "Text": "یاری و وفا نبینی از من",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: از من هیچ خیری نداشته باشی و جز بدی و ناراحتی چیزی نخواهی دید."
     },
     {
       "VOrder": 12,
@@ -253,7 +259,8 @@
       "Text": "هرگز نشوی ز وصل من شاد",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: هرگز از نزدیکی و پیوند من شاد نخواهی شد و از غم و اندوه من نیز آزاد نخواهی گشت."
     },
     {
       "VOrder": 14,
@@ -269,7 +276,8 @@
       "Text": "زین باغ مراد گل نچینی",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: از این باغ آرزوها نخواهی توانست گلی بچینی و بر این شاخه امید نخواهی دید."
     },
     {
       "VOrder": 16,
@@ -285,7 +293,8 @@
       "Text": "از شوق من ار فغان برآری",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: اگر از سر شوق برای من فریاد بزنی، من از فریاد و ناله خود را رها می‌کنم."
     },
     {
       "VOrder": 18,
@@ -301,7 +310,8 @@
       "Text": "همواره قرین درد می‌باش",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: همیشه با درد همراه هستی و در حال ناله و افسوس زدن هستی."
     },
     {
       "VOrder": 20,
@@ -317,7 +327,8 @@
       "Text": "پیوسته چو شمع مجلس‌افروز",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: همواره مانند شمعی که مجلس را روشن می‌کند، از شعله‌ی اشتیاق درونم می‌سوزم."
     },
     {
       "VOrder": 22,
@@ -333,7 +344,8 @@
       "Text": "گر جامه دری ز شوق چون گل",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: اگر شوق‌زده مانند گل لباس بپوشی و اگر مانند بلبل آواز سر دهی، "
     },
     {
       "VOrder": 24,
@@ -349,7 +361,8 @@
       "Text": "وز دیده چو ابر نوبهاری",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: اگر از چشمانم مانند باران بهاری اشک بریزد، این اشک‌ها همچون طغیانی از سیلاب خواهند بود."
     },
     {
       "VOrder": 26,

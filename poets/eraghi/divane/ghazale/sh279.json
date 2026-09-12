@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای که از لطف سراسر جانی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که لطف و بخشش تو جان‌ها را زنده می‌کند، جان چه ارزشی دارد در برابر محبت‌های بی‌پایان تو؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "تو چه چیزی؟ چه بلایی؟ چه کسی؟",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو چه هستی؟ چه مشکلی داری؟ کی هستی؟ آیا دچار فتنه‌ای هستی؟ یا قصه‌ای برای گفتن داری؟ آیا درگیر دردسر و بلوا هستی؟"
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "حکمت از چیست روان بر همه کس؟",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حکمت چرا در دل هر کسی جاری است؟ آیا از منش کیقباد است، یا از صفات ملک، یا از شاعر خاقانی؟"
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "به دمی زنده کنی صد مرده",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا می‌توانی با یک لحظه، صدها مرده را به زندگی بازگردانی، مانند عیسی که آب حیات و جان را به ارمغان آورد؟"
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "به تماشای تو آید همه کس",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا همه کسانی که به تماشای تو می‌آیند، یک باغ گل، چمن‌زاری یا بستانی را می‌بینند؟"
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "روی در روی تو آرند همه",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا همه به سوی تو روی می‌آورند، همچون قبله یا آینه‌ای زیبا؟ تو جان من هستی."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "در مذاق همه کس شیرینی",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا همهٔ افراد طعم شیرینی عسل، شکر یا شیرینی‌های دیگر را دوست دارند؟"
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "گرچه خردی، همه را در خوردی",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه تو کوچک و ناچیز هستی، اما آیا نمی‌توانی همه چیز را در خود بگنجانی؟ مانند نمک یا آبی روان یا نانی که به دیگران کمک می‌کند؟"
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "آرزوی دل بیمار منی",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا تو آرزوی بهبودی، سلامتی و درمان دل بیمار من هستی؟"
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "گه خمارم شکنی، گه توبه",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاهی در حال مستی و خوشی هستم و گاهی به حالتی از توبه و ندامت می‌رسم. آیا تو می‌توانی این نوسانات احساسی مرا درک کنی؟"
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "دیدهٔ من به تو بیند عالم",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشمان من آیا قادرند زیبایی‌های عالم را مانند زیبایی تو ببینند؟ آیا می‌توانند درخشندگی خورشید یا زیبایی ماه را با چشمان تو مقایسه کنند؟"
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "همه خوبان به تو آراسته‌اند",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همه زیبایی‌ها و خوبی‌ها به خاطر تو به خود آراسته‌اند. آیا تو مانند کهربا، گوهر یا مرجان هستی؟"
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "مهر هر روز دمی در بنده‌ات",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا هر روز صبح به من نگاهی شگفت‌انگیز می‌کنی و لبخندی بر لب داری؟"
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "همه در بزم ملوکت خوانند",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا همه در جشن شاهان داستانی، مثنوی یا دیوانی می‌خوانند؟"
     },
     {
       "VOrder": 28,

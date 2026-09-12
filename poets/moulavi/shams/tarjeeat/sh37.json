@@ -100,7 +100,8 @@
       "Text": "ای بانگ و صلای آن جهانی",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: ای صدای جاودانه، ای کسی که آمده‌ای تا مرا بخوانی و به سوی خود فراخوانی."
     },
     {
       "VOrder": 2,
@@ -116,7 +117,8 @@
       "Text": "ما منتظر دم تو بودیم",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: ما منتظر بودیم که تو بیایی و شادی را به همراه بیاوری، تو فرستاده‌ای هستی که به هیچ مکانی وابسته نیستی."
     },
     {
       "VOrder": 4,
@@ -132,7 +134,8 @@
       "Text": "هین، قصهٔ آن بهار برگو",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: برو و داستان آن بهار را بگو، مانند طوطی که در سرزمین شکر زندگی می‌کند."
     },
     {
       "VOrder": 6,
@@ -148,7 +151,8 @@
       "Text": "افسرده شدیم و زرد گشتیم",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: ما افسرده و رنگ‌پریده شده‌ایم از صدای نسیم خزان."
     },
     {
       "VOrder": 8,
@@ -164,7 +168,8 @@
       "Text": "ما را برهان ز مکر این پیر",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: ما را از نیرنگ و فریب این مرد مسن نجات ده و به آن جوانی که سرشار از انرژی و امید است برسان."
     },
     {
       "VOrder": 10,
@@ -180,7 +185,8 @@
       "Text": "زهر آمد آن شکر، که او داد",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: آن شکر که باید شیرین باشد، حالا به زهر تبدیل شده است و نشانه‌های سردی و دل‌سردی را به همراه دارد."
     },
     {
       "VOrder": 12,
@@ -196,7 +202,8 @@
       "Text": "پا زهر بیار و چارهٔ کن",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: بیا و اقدامی بکن تا دست‌کم از ورطهٔ دشواری که در آن گرفتار شده‌ایم، نجات یابیم. تو خود بهتر از هر کسی می‌دانی که چه باید کرد."
     },
     {
       "VOrder": 14,
@@ -212,7 +219,8 @@
       "Text": "زین زهر گیاهمان برون بر",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: از این گیاهان زهرآگین که در خارج از ما هستند، موسی عهدم را به همراه شبانی رفتم."
     },
     {
       "VOrder": 16,
@@ -228,7 +236,8 @@
       "Text": "پیش تو امانت شعیبم",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: من در کنار تو امانت شعیب هستم، خواهش می‌کنم با مهربانی به ما رسیدگی کن."
     },
     {
       "VOrder": 18,
@@ -244,7 +253,8 @@
       "Text": "تا ساحل بحر و روضه ما را",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: تا زماني که ما را به ساحل دریا و باغ زیبا ببری و خوشحال کنی."
     },
     {
       "VOrder": 20,
@@ -260,7 +270,8 @@
       "Text": "تا فربه و با نشاط گردیم",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: برای اینکه سرزنده و شاداب شویم، به زیبایی‌های همچون سنبل و سوسن نیاز داریم."
     },
     {
       "VOrder": 22,
@@ -277,7 +288,8 @@
       "CoupletIndex": 11,
       "SectionIndex1": 0,
       "SectionIndex2": 5,
-      "SectionIndex3": 6
+      "SectionIndex3": 6,
+      "CoupletSummary": "هوش مصنوعی: این پیام‌آوران به خاطر شرم و خستگی روحی، از نگاه دیگران پنهان شدند."
     },
     {
       "VOrder": 24,
@@ -294,7 +306,8 @@
       "Text": "ای چشم و چراغ هردو دیده",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای نور و روشنایی چشمان ما، تو همچون نوری هستی که جان ما را به خود می‌کشد."
     },
     {
       "VOrder": 26,
@@ -310,7 +323,8 @@
       "Text": "ما را ز قرو میار بیرون",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ما را از میخوارگی و حالت مستی بیرون نیاور، در حالی که هنوز از لذت آن بهره‌مند نشده‌ایم."
     },
     {
       "VOrder": 28,
@@ -326,7 +340,8 @@
       "Text": "لاغر چو هلال ماند طفلی",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: طفلی که هنوز سه ماهه است و از شیر مادر جدا شده، مانند هلال ماه لاغر و نحیف به نظر می‌رسد."
     },
     {
       "VOrder": 30,
@@ -342,7 +357,8 @@
       "Text": "بگذار به لطف طفل جان را",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: اجازه بده تا با مهربانی و محبت، روح و جانم را در آغوش مادرم پنهان کنم."
     },
     {
       "VOrder": 32,
@@ -358,7 +374,8 @@
       "Text": "چون نالهٔ ما به گوشت آمد",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: وقتی صدای نالهٔ ما به گوش تو رسید، آن را به حساب نگذار که نشنیده‌ای."
     },
     {
       "VOrder": 34,
@@ -374,7 +391,8 @@
       "Text": "در لب، سر شاخ سخت گیرد",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: هر سیبی که هنوز نرسیده باشد، بر لب درخت به سختی در می‌آید و به نتیجه نمی‌رسد."
     },
     {
       "VOrder": 36,
@@ -390,7 +408,8 @@
       "Text": "از بیم، که تا نیفتد از شاخ",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: از ترس این که مبادا از درخت بیفتد، بدون طراوت و پژمرده باقی مانده است."
     },
     {
       "VOrder": 38,
@@ -406,7 +425,8 @@
       "Text": "جان نیست ازان جماد کمتر",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: جان انسان از جسم بی‌جان هم کمتر نیست، چون عقل برگزیده مانند دایه‌ای است که با آن می‌توان به زندگی روح و معنا بخشید."
     },
     {
       "VOrder": 40,
@@ -422,7 +442,8 @@
       "Text": "سه بوسه ز تو وظیفه دارم",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: من سه بوسه از تو می‌خواهم، ای کسی که بر چهره‌ام جادو کرده‌ای."
     },
     {
       "VOrder": 42,
@@ -438,7 +459,8 @@
       "Text": "تا صلح کنیم بر دو، امروز",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: برای اینکه امروز به توافق برسیم، باید تلاش کنیم، زیرا که خسته و دلزده‌ای و از ما دوری کرده‌ای."
     },
     {
       "VOrder": 44,
@@ -454,7 +476,8 @@
       "Text": "خامش، که کریم دلبرست او",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: سکوت کن، زیرا محبوب نیکوکار ما دارای روح بزرگ و صفات برجسته است."
     },
     {
       "VOrder": 46,
@@ -471,7 +494,8 @@
       "CoupletIndex": 23,
       "SectionIndex1": 0,
       "SectionIndex2": 5,
-      "SectionIndex3": 7
+      "SectionIndex3": 7,
+      "CoupletSummary": "هوش مصنوعی: توجه کن، خواب نرو که دزد و مردم بدخواه کلاهی را که از کنجکاوی بر سر داری، به سرقت می‌برند."
     },
     {
       "VOrder": 48,
@@ -488,7 +512,8 @@
       "Text": "این نفس تو شد گنه فزایی",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: این نفس تو موجب افزایش گناه و بدی شد و به مانند یک اژدها در آمده است."
     },
     {
       "VOrder": 50,
@@ -504,7 +529,8 @@
       "Text": "شب مرداری، حرام خواری",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در شب‌های تاریک، آدم‌ها به کارهای ناپسند و نادرست مشغولند، در حالی که در روز باید برادری و دوستی را رعایت کنند و از دزدی و دروغ‌گویی پرهیز کنند."
     },
     {
       "VOrder": 52,
@@ -520,7 +546,8 @@
       "Text": "رو داد بخواه از امیری",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: از کسی که صاحب علم و انصاف است، درخواست کن که راه درست را به تو نشان دهد."
     },
     {
       "VOrder": 54,
@@ -536,7 +563,8 @@
       "Text": "نبود بلد از خلیفه خالی",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: اگر رهبری و هدایت‌کننده‌ای وجود نداشته باشد، مخلوق چگونه می‌تواند در این دنیا وجود داشته باشد؟ آیا بی‌خدایی ممکن است؟"
     },
     {
       "VOrder": 56,
@@ -552,7 +580,8 @@
       "Text": "رنجور بود جهان به تشویش",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: جهان به خاطر بی‌عدلی و بی‌نظمی دچار مشکل و رنج است."
     },
     {
       "VOrder": 58,
@@ -568,7 +597,8 @@
       "Text": "بیماری و علت جهان را",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: بیماری و مشکلات دنیا تحت تاثیر قدرت و توانایی سلاح‌هاست و در نهایت، این سلاح‌ها می‌توانند باعث درمان یا برطرف کردن آن مشکلات شوند."
     },
     {
       "VOrder": 60,
@@ -584,7 +614,8 @@
       "Text": "هنگام جهاد اکبر آمد",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: زمان مبارزه بزرگ فرا رسیده است، ای صوفی، به پا خیز و آماده شو."
     },
     {
       "VOrder": 62,
@@ -600,7 +631,8 @@
       "Text": "از جوع ببر گلوی شهوت",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: از گرسنگی خود را به شهوت نزن و در گمراهی نرو."
     },
     {
       "VOrder": 64,
@@ -616,7 +648,8 @@
       "Text": "تن باشد و جان، سخای درویش",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: تن و جان درنهایت وابسته به یکدیگرند و از این رو بخشندگی و سخاوت درویش به معنای واقعی همین است. این اصل یعنی سخاوت باید در درون وجود انسان‌ها شکل بگیرد و به عمل تبدیل شود."
     },
     {
       "VOrder": 66,
@@ -632,7 +665,8 @@
       "Text": "بگداز به آتشش، که آتش",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: به دل آتش برو و در آن بسوز، زیرا آتش حقیقتا می‌تواند ناخالصی‌ها را به طلا تبدیل کند."
     },
     {
       "VOrder": 68,
@@ -648,7 +682,8 @@
       "Text": "خاموش که نار نور گردد",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: سکوت کن که آتش عشق شعله‌ور شود، و در این میان، ساقی به آتش تبدیل می‌شود و خدمتگزاری می‌کند."
     },
     {
       "VOrder": 70,
@@ -665,7 +700,8 @@
       "CoupletIndex": 35,
       "SectionIndex1": 0,
       "SectionIndex2": 5,
-      "SectionIndex3": 8
+      "SectionIndex3": 8,
+      "CoupletSummary": "هوش مصنوعی: ما به عقل کم‌شنو سلام و خدمت زیادی می‌کنیم، اما او هنوز در سکوت و خاموشی به سر می‌برد."
     },
     {
       "VOrder": 72,

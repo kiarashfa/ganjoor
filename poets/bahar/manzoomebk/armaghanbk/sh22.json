@@ -29,14 +29,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "دشن چشم (‌بدچشم‌) مرد به یاری مگیر.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: به کمک چشم و نظر بد افراد مشورت نکن."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "مشو هیچ با مرد بدچشم یار",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با افرادی که نسبت به دیگران نگاه منفی دارند، دوست و همدم نشو، زیرا این نوع نگاه و طرز تفکر هیچ سودی به همراه ندارد."
     },
     {
       "VOrder": 3,

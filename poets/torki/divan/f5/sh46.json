@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "هر که با تو بدی کند روزی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرکس به تو بدی کند، باید یک روزی به خاطر این رفتار بد، تو با نیکوکاری پاسخ او را بدهی."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "با تو هر کس درشت خویی کرد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی با تو بدرفتاری کرد، تو با ملاطفت و مهربانی برخورد کن."
     },
     {
       "VOrder": 4,

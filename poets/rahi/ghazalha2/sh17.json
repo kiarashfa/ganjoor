@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "سزای چون تو گلی گرچه نیست خانه ما",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچند که وجود تو به اندازه یک گل در خانه ما نیست، اما بیا و مثل بوی گل امشب به خانه ما بیایی."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "تو ای ستاره خندان کجا خبر داری؟",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای ستاره شادی، تو چگونه از ناله‌های صبحگاهی و گریه‌های شبانه ما خبر نداری؟"
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "چو بانگ رعد خروشان که پیچد اندر کوه",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صدای رعد و برق که در کوه‌ها پیچیده می‌شود، نشان می‌دهد که دنیای ما پر از آواز عاشقانه ماست."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "نوای گرم نی از فیض آتشین‌نفسی است",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صدای دلنشین نی ناشی از وجود نفس آتشین نوازنده است و گرمی این ترانه از سوز و درد دل او برمی‌خیزد."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "چنان ز خاطر اهل جهان فراموشیم",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما آنقدر در نظر مردم فراموش شده‌ایم که حتی سیل هم به یاد ما نمی‌افتد و به سراغ خانه‌مان نمی‌آید."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "به خنده‌رویی دشمن مخور فریب رهی",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به چهره‌ی خندان دشمن اعتماد نکن، زیرا که همان خنده باعث شد خانه‌ی ما بسوزد."
     },
     {
       "VOrder": 12,

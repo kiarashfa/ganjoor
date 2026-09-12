@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "بهشت است این زمین یا کوی یار است",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این زمین یا محل محبوب، بهشتی است و خاک آن بوی عطر خوش مشک را می‌دهد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "اگر فایز بود مدفون آن خاک",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر شخص صالحی در آن خاک دفن شده باشد، نه از سؤال قیامت بیم دارد و نه از فشار قبر نگران است."
     },
     {
       "VOrder": 4,

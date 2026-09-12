@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "از واقعهٔ روز پسین می‌ترسم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از وقوع روز رستاخیز وحشت دارم و از حوادثی که در زیر زمین رخ می‌دهد، نگران هستم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گویند مرا: از چه سبب می‌ترسی؟",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌گویند: چرا از چیزی می‌هراسی؟ و من پاسخ می‌دهم که از مرگ، که سخت و مختنق کننده است، می‌ترسم."
     },
     {
       "VOrder": 4,

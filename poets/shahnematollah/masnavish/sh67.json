@@ -271,7 +271,8 @@
       "Text": "در هر آن پیرهن که خواهی مرد",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: هر زمانی که بخواهی، می‌توانی لباسی به تن کنی؛ چه از جنس کرباس باشد و چه از جنس دیگر."
     },
     {
       "VOrder": 2,
@@ -287,7 +288,8 @@
       "Text": "هم در آن پیرهن شوی محشور",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در آن لباس، مثل دمی که با هم دوست هستیم، زیبایی را در چشمم دیده‌ام که در یادم نقش بسته است."
     },
     {
       "VOrder": 4,
@@ -303,7 +305,8 @@
       "Text": "آنکه گوید که پیرهن این است",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: کسی که می‌گوید این چیز که در دست داری، خود آن چیز است، به او بگویید که آن فقط نمای ظاهری ماجراست."
     },
     {
       "VOrder": 6,
@@ -319,7 +322,8 @@
       "Text": "ور بگوید که پیرهن بدن است",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: اگر بگوید که لباس تنها پوششی برای بدن است، باید بدانیم که درون این لباس، وجودی خاص و ارزشمند مانند یوسف قرار دارد."
     },
     {
       "VOrder": 8,
@@ -335,7 +339,8 @@
       "Text": "ممکن است این و آن ولی بر ما",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: شاید دیگران ظاهری داشته باشند، اما آنچه که برای ما اهمیت دارد، روح و جان است که بر اساس ویژگی‌ها و صفات خود، تعبیر می‌شود."
     },
     {
       "VOrder": 10,
@@ -351,7 +356,8 @@
       "Text": "جامهٔ جان چنان که یافته‌ای",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: لباسی که برای روح خود انتخاب کرده‌ای، همانی است که خودت با دستانت بافته‌ای و به تن می‌کنی."
     },
     {
       "VOrder": 12,
@@ -367,7 +373,8 @@
       "Text": "آنچه رشتی و بافتی جانا",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که به خودت می‌پسندی، حالا می‌تواند یک پارچه معمولی یا پارچه‌ای با ارزش باشد، باید آن را با افتخار بپوشی."
     },
     {
       "VOrder": 14,
@@ -383,7 +390,8 @@
       "Text": "گر پلاس است جامه‌ات آن دم",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: اگر لباس تو در آن لحظه که عزاداری می‌کنی، پاره و کهنه باشد، هیچ فایده‌ای نخواهد داشت."
     },
     {
       "VOrder": 16,
@@ -399,7 +407,8 @@
       "Text": "ور حریر است و جامهٔ شاهی",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: اگر لباس زیبا و ابریشمی و شاهانه می‌پوشی، با این حال قشنگ‌تر از ماهی نیست."
     },
     {
       "VOrder": 18,
@@ -415,7 +424,8 @@
       "Text": "پیرهن چون برون کنی از تن",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: وقتی که لباس را از تن جدا کنی، نقاط قوت و ضعف بدن بیشتر نمایان می‌شود."
     },
     {
       "VOrder": 20,
@@ -431,7 +441,8 @@
       "Text": "آشکارا شود چنانکه بود",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی مانند آنچه که هست، به وضوح و آشکار به تو نشان داده خواهد شد."
     },
     {
       "VOrder": 22,
@@ -447,7 +458,8 @@
       "Text": "جامه از علم وز عمل می‌دوز",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: لباسی از دانش و اخلاق بپوش، پس بیا و از ما کسب آموزش کن."
     },
     {
       "VOrder": 24,
@@ -463,7 +475,8 @@
       "Text": "خلعت خاص پوش سلطانی",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: پوشش ویژه‌ای که مخصوص پادشاهی است، سزاوار است که بر تن کنی، نه اینکه عریان بمانی."
     },
     {
       "VOrder": 26,
@@ -479,7 +492,8 @@
       "Text": "خرقه دوزم ز وصلهٔ اخلاق",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: من برای دوستانم اخلاق و سلوک نیکو را مانند پارچه‌ای وصله‌دوزی می‌کنم، به‌گونه‌ای که برای همه‌ی آنها به‌طور کلی مناسب باشد."
     },
     {
       "VOrder": 28,
@@ -495,7 +509,8 @@
       "Text": "هرکه را پیرهن چنین باشد",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: هرکس که چنین لباس و ظاهری داشته باشد، در حقیقت گنج و ارزش بزرگی در درون خود دارد."
     },
     {
       "VOrder": 30,
@@ -511,7 +526,8 @@
       "Text": "گرچه بسیار جامه بخشیدیم",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: هرچند که ما به دیگران کمک و لباس‌های زیادی داده‌ایم، اما خود ما هیچ‌کدام از این لباس‌ها را بر تن نکرده‌ایم."
     },
     {
       "VOrder": 32,
@@ -527,7 +543,8 @@
       "Text": "بستان یادگار ما درپوش",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: بستان نماد یادگاری از ماست که بر سر تاجی قرار دارد و با علم بر دوش نشان داده می‌شود."
     },
     {
       "VOrder": 34,
@@ -543,7 +560,8 @@
       "Text": "جامهٔ آخرت چنین باشد",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: لباس آخرت این‌گونه است و در واقع، این همان معنای اصلی این کلام است."
     },
     {
       "VOrder": 36,
@@ -559,7 +577,8 @@
       "Text": "گفت پیغمبر خدا که خدا",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: پیامبر خدا فرمود که خداوند به دلیل بزرگواری و بخشندگی‌اش با ما چنین بیان کرده است."
     },
     {
       "VOrder": 38,
@@ -575,7 +594,8 @@
       "Text": "هر که داند که من که سلطانم",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که بداند من کی هستم و چه قدرتی دارم، می‌داند که می‌توانم با بخشش، گناهان را forgive کنم."
     },
     {
       "VOrder": 40,
@@ -591,7 +611,8 @@
       "Text": "عفو فرمایمش گناه تمام",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: من از گناه خود می‌گذرم و نگران هیچ‌کس نیستم، نه از مردم عادی و نه از افراد خاص."
     },
     {
       "VOrder": 42,
@@ -607,7 +628,8 @@
       "Text": "سخنی با موحد است ای یار",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: دوستی عزیز، بدان که هر کسی که به جز خداوند به چیزی دیگر متوسل شود، در نهایت از نعمت‌ها و زیبایی‌های حیات دور خواهد افتاد."
     },
     {
       "VOrder": 44,
@@ -623,7 +645,8 @@
       "Text": "ما نداریم شرک و می‌داند",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: ما به هیچ عنوان شریک و همسری برای خدا قائل نیستیم و او می‌داند که اگر بخواهد، قادر است گناهان را ببخشد."
     },
     {
       "VOrder": 46,
@@ -639,7 +662,8 @@
       "Text": "پای تا سر همه گنهکاریم",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: ما از سر تا پا گناهکاریم، اما هنوز به بخشش امیدواریم."
     },
     {
       "VOrder": 48,

@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "بیمار درد را که دوا درد دیگر است",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیماری که برای دردش درمانی پیدا نمی‌شود، هر لحظه بیشتر از درد و رنج، چهره‌اش زرد و بی‌حال می‌شود."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "در کشوری که عشق بود خورد و خواب نیست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در کشوری که عشق وجود دارد، دیگر خبری از خوردن و خوابیدن نیست. اگر هم خواب و خوراکی باشد، نوعشان متفاوت از همیشه است."
     },
     {
       "VOrder": 4,
@@ -54,7 +56,8 @@
       "Position": "Right",
       "Text": "آنم که هر دمم به غم آباد جان و دل",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من همیشه در حال غم و اندوه هستم و هر لحظه که می‌گذرد، مصیبت‌ها و دردهای جدیدی را تجربه می‌کنم."
     },
     {
       "VOrder": 6,
@@ -68,7 +71,8 @@
       "Position": "Right",
       "Text": "گر نیستش به غیر سر آشتی دگر",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر او جز سر آشتی چیزی ندارد، پس چرا در هر لحظه با من درگیر است؟"
     },
     {
       "VOrder": 8,
@@ -82,7 +86,8 @@
       "Position": "Right",
       "Text": "مردانه بگذر از سر دنیا که این عجوز",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با شجاعت از زندگی دنیا عبور کن، زیرا این دنیا همچون زنی سالخورده است که هر روز به مردی دیگر وابسته است."
     },
     {
       "VOrder": 10,
@@ -96,7 +101,8 @@
       "Position": "Right",
       "Text": "دیدم تمام دفتر شعر ترا رفیق",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: متوجه شدم که همه شعرهای تو را می‌بینم و می‌فهمم که هر کسی از این کتاب به نوعی بر دیگری برتری دارد."
     },
     {
       "VOrder": 12,

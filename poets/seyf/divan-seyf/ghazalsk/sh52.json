@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "اختر از خدمت قمر دور است",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ستاره از دوری قمر خبر دارد، اما مگس هیچ وقت از کنار شکر دور نمی‌شود."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "ما از آن بارگاه محرومیم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما از نعمت‌ها و زیبایی‌های آن مکان بی‌بهره‌ایم، مانند فردی که از آب قابل نوشیدن دور و تشنه است."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "پای من از زمین درگه او",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پای من به زمین او وصل است، همان‌طور که آسمان از زمین دور است."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "جهد کردم بسی ولی چکنم",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من تلاش زیادی کردم، اما چه کنم که بخت و تلاش هر کدام در راهی جدا از هم قرار دارند."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "پادشاهان چه غم خورند اگر",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پادشاهان چرا باید ناراحت باشند اگر گربه از خانه‌ی سگ دور است؟"
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "تو بدست کرم کنم نزدیک",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از تو درخواست می‌کنم که با لطف و محبتت به من نزدیک‌تر شوی، چون این مسیر طولانی و دشوار است و به کمکت نیاز دارم."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "یوسف عهدی و منم بی تو",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو یادگاری از گذشته‌ای و من بدون تو مانند یعقوب هستم که از پسرش دور مانده."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "در فراق تو ای پسر هستم",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در جدایی تو، به حالتی هستم مانند یوسف که از پدرش دور و بی‌خبر است."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "اندرین حال حکمتی مخفیست",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این حالت، راز و حکمت پنهانی وجود دارد که اگر بنده از خدمت تو دور باشد، شاید به دلیل آن باشد."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "هر کرا قرب نیست با سلطان",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر که به سلطان نزدیک نیست، از بلایا و خطرها در امان است."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "همچو پروانه می زنم پر و بال",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به مانند پروانه‌ای در اطراف شمع می‌پرستم، حتی اگر آن شمع از دید من دور باشد."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "شاخ اگر هست بر درخت دراز",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه درختی بلند دارم که شاخ و برگ زیادی دارد، اما باز هم من به دلیل کوتاه بودن دستم نمی‌توانم به میوه‌های آن دسترسی پیدا کنم."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "عشق بگریزد از دل جان دوست",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق از دل کسی که به او علاقه‌مند است، دور می‌شود؛ مانند این‌که عیسی از نشیب و پایین فاصله دارد."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "خشک لب بی تو یوسف فرغانیست",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: لبان خشک و بی‌طراوت من، بدون حضور تو، همچون یوسف فرغانی است. خلاقیت من از سرودن شعر دور شده است."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "شاید ار خانه پر عسل نکند",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شاید زنبورها به خانه‌ای که پر از عسل است نروند، زیرا از گل و زهر دور است."
     },
     {
       "VOrder": 30,

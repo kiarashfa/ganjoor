@@ -171,7 +171,8 @@
       "Text": "روزگاری که از طلایه مرگ",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: روزگاری که به پایان عمرم نزدیک شدم، مانند پاییز که برگ‌ها می‌ریزد، زندگی‌ام رنگ و بویی از مرگ گرفت."
     },
     {
       "VOrder": 2,
@@ -187,7 +188,8 @@
       "Text": "ریخت در جویبار و گلبن خشک",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: برف و کافور به جویبار و باغ گل ریخته شده و به جای سنبل و بوی خوش، عطر تلخی از پشک و بوی نامطبوع به مشام می‌رسد."
     },
     {
       "VOrder": 4,
@@ -203,7 +205,8 @@
       "Text": "نعمت و ناز رخت بسته ز کوی",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: نعمت و زیبایی تو از سرزمین عشق رفته و حالا من در زمین تن خود مانند توپی افتاده‌ام که در بازی چوگان به شدت به این سو و آن سو می‌رود."
     },
     {
       "VOrder": 6,
@@ -219,7 +222,8 @@
       "Text": "گشته در خانقاه گوشه نشین",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: در خانقاه نشسته‌ای و تمام هوش، دانش و دینت را به باد داده‌ای."
     },
     {
       "VOrder": 8,
@@ -235,7 +239,8 @@
       "Text": "خوار و بیمار و زار و فرسوده",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: این جمله توصیف فردی است که در وضعیتی بسیار ناراحت و نامناسب به سر می‌برد. او ضعیف و بیمار به نظر می‌رسد و نشانه‌های رنج و عذاب در چهره‌اش آشکار است. به طور کلی، حال و روزش بسیار بد و درهم‌شکسته است."
     },
     {
       "VOrder": 10,
@@ -251,7 +256,8 @@
       "Text": "بسته برزخ در خروج و دخول",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: زندگی در برزخ، چه در حال آمدن و چه در حال رفتن، به دلیل شلوغی و سر و صدای مردم، برایم کسل‌کننده شده است."
     },
     {
       "VOrder": 12,
@@ -267,7 +273,8 @@
       "Text": "پیک رحلت که پیریش نام است",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: پیام‌آور سفر که نامش پیری است، در نهایت به گفتگو درباره مرگ می‌پردازد."
     },
     {
       "VOrder": 14,
@@ -283,7 +290,8 @@
       "Text": "از در آمد مرا بداد نوید",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: به من خبر خوشی دادند که به سمت باغی پر از امید می‌روم."
     },
     {
       "VOrder": 16,
@@ -299,7 +307,8 @@
       "Text": "رخت بربند ازین سرای کهن",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: از این خانه قدیمی خارج شو، لباس نو بپوش و خانه‌ات را تازه و زیبا کن."
     },
     {
       "VOrder": 18,
@@ -315,7 +324,8 @@
       "Text": "برهان روح را ز محبس تن",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: روح را از قید و بند جسم آزاد کن و این پری را از چنگ اهریمن رها ساز."
     },
     {
       "VOrder": 20,
@@ -331,7 +341,8 @@
       "Text": "جامه نو کن که شوخکن شد و زشت",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: لباس نو بپوش که جوانی شاد و سرزنده شده و خوشه‌های زشت را درو کن و محصول را برداشت کن."
     },
     {
       "VOrder": 22,
@@ -347,7 +358,8 @@
       "Text": "تا ببینی یکی جهان فراخ",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که در باغ، لاله‌ها گسترش یافته و میوه‌ها بر درختان آویزان هستند، دنیا را به شکل وسیعی تماشا کن."
     },
     {
       "VOrder": 24,
@@ -363,7 +375,8 @@
       "Text": "شهد و شیر و شراب و شاهد و شمع",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: شیرینی و خوشی زندگی همراه با محبت و زیبایی، در جمع دوستان و یاران تجمع کرده است."
     },
     {
       "VOrder": 26,
@@ -379,7 +392,8 @@
       "Text": "آرزوها بکام و دلها شاد",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: آرزوهای ما برآورده شده و دل‌هایمان شاد است. باغ‌ها سبز و خانه‌ها آباد و پر رونقند."
     },
     {
       "VOrder": 28,

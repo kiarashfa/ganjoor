@@ -311,7 +311,8 @@
       "Text": "کبکی به دهن گرفت موری",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "یک کبک، مورچه‌ای را به دندان گرفته و بر آن موجود ناتوان فشار می‌آورد."
     },
     {
       "VOrder": 2,
@@ -327,7 +328,8 @@
       "Text": "زد قهقهه مور بیکرانی",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "مورچه‌ای در دوردست فریاد و قهقهه زد‌: که‌ای کبک تو زورمندی نمی‌دانی."
     },
     {
       "VOrder": 4,
@@ -343,7 +345,8 @@
       "Text": "شد کبک دَری ز قهقهه سست",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "کبک دری هم قهقهه سر داد و سست شد و گفت‌: بله زورمندی و زورگویی کار من است نه تو!"
     },
     {
       "VOrder": 6,
@@ -359,7 +362,8 @@
       "Text": "چون قهقهه کرد کبک حالی",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "در آن حال که کبک آواز سر داد مورچه را رها کرد."
     },
     {
       "VOrder": 8,
@@ -375,7 +379,8 @@
       "Text": "هر قهقهه کاین چنین زند مرد",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "چنین قهقهه‌ای ‌(و خنده بی‌جا‌) بی‌تردید هیبت و شکوه آدمی را می‌برد."
     },
     {
       "VOrder": 10,
@@ -391,7 +396,8 @@
       "Text": "خنده که نه در مقام خویش است",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هر خنده بی‌جا و بی‌محل‌، شایسته و درخور هزار افسوس و گریه است."
     },
     {
       "VOrder": 12,
@@ -407,7 +413,8 @@
       "Text": "چون من ز پی عذاب و رنجم",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "چون من خود در پی رنج و عذاب هستم‌، بر چه عشوه‌ و وعده‌ای شاد باشم‌؟ (یا از کمک دیگران چه انتظاری است‌؟‌)"
     },
     {
       "VOrder": 14,
@@ -423,7 +430,8 @@
       "Text": "آن پیر خری که می‌کشد بار",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "خر پیری که بار سنگین می‌کشد، تا وقتی که زنده‌است همچنان به کار خود ادامه می‌دهد."
     },
     {
       "VOrder": 16,
@@ -439,7 +447,8 @@
       "Text": "آسودگی آنگهی پذیرد",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "آنگاه از بارکشی و رنج رها می‌شود که از این شیوه زندگی رها شود."
     },
     {
       "VOrder": 18,
@@ -455,7 +464,8 @@
       "Text": "در عشق چه جای بیم تیغ است؟",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "در عشق، ترسی از خطرات وجود ندارد. خطر و شمشیر از سر عاشقان می‌هراسد‌(یا دریغ است)"
     },
     {
       "VOrder": 20,
@@ -471,7 +481,8 @@
       "Text": "عاشق ز نهیب جان نترسد",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "عاشق از تهدید جان نمی‌ترسد و جوینده جانان از هیچ چیزی در دنیا نمی‌ترسد."
     },
     {
       "VOrder": 22,
@@ -487,7 +498,8 @@
       "Text": "چون ماه من اوفتاد در میغ",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "« دارم سرِ تیغ » یعنی قصد شمشیر دارم، قصد فدا کردن جان دارم (سرِ چیزی داشتن یعنی چیزی را قصد کردن)، کو سرِ تیغ؟ یعنی کجاست سرِ شمشیر؟"
     },
     {
       "VOrder": 24,
@@ -503,7 +515,8 @@
       "Text": "سر کاو ز فدا دریغ باشد",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "سری که در راه عشق از فدا شدن بهراسد‌، شایسته گردن‌زدن است."
     },
     {
       "VOrder": 26,
@@ -519,7 +532,8 @@
       "Text": "زین جان که بر آتش اوفتاده‌ است",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: از این جان که در آتش فرو رفته، با وجود ناراحتی‌ام، خوشحال‌تر از همیشه هستم."
     },
     {
       "VOrder": 28,
@@ -535,7 +549,8 @@
       "Text": "جانی است مرا بدین تباهی",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: من در این حال سختی و بدبختی هستم، پس بگذار هر چیزی که می‌خواهی با جان من بکنی."
     },
     {
       "VOrder": 30,
@@ -551,7 +566,8 @@
       "Text": "مجنون چو حدیث خود فرو گفت",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: مجنون وقتی داستان خودش را برای پدرش بیان کرد، از آنچه گفت، گریه کرد."
     },
     {
       "VOrder": 32,
@@ -567,7 +583,8 @@
       "Text": "زین گوشه پدر نشسته گریان",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: در اینجا پدر در گوشه‌ای نشسته و به شدت گریه می‌کند، در حالی که پسرش از آن سو به زمین افتاده و بی‌پوشش است."
     },
     {
       "VOrder": 34,
@@ -583,7 +600,8 @@
       "Text": "پس بار دگر به خانه بردش",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: پس دوباره او را به خانه برد و به دوستانش سپرد."
     },
     {
       "VOrder": 36,
@@ -599,7 +617,8 @@
       "Text": "وان شیفته‌دل به شوربختی",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: این شخص با وجود شیفتگی و عشقش، در برابر بدبختی‌ها و سختی‌ها صبوری می‌کرد."
     },
     {
       "VOrder": 38,
@@ -615,7 +634,8 @@
       "Text": "روزی دو سه در شکنجه می‌زیست",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: روزی دو یا سه بار در عذاب و درد زندگی می‌کرد، به طوری که هر کس او را می‌دید، اشک‌ریزان می‌شد."
     },
     {
       "VOrder": 40,
@@ -631,7 +651,8 @@
       "Text": "پس پرده درید و آه برداشت",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: پس پرده را کنار زد و با آهی از دل به سوی در و دشت، راه خود را آغاز کرد."
     },
     {
       "VOrder": 42,
@@ -647,7 +668,8 @@
       "Text": "می‌زیست به رنج و ناتوانی",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: زندگی پر از درد و زحمت بود و بی‌چاره به مرگ نزدیک می‌شد؛ کدام زندگی چنین است؟"
     },
     {
       "VOrder": 44,
@@ -663,7 +685,8 @@
       "Text": "چون گرم شدی به عشق وجدش",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: وقتی که به عشق او شوق و حرارت پیدا کردی، در شادی و سرور به سراغ خوشی‌های او رفتی."
     },
     {
       "VOrder": 46,
@@ -679,7 +702,8 @@
       "Text": "بر نجد شدی چو شیر سرمست",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: تو به شکوه و قدرتی مانند شیر سرمستی، با آهن بر پا و سنگ در دستت، به سرزمین نجد قدم گذاشته‌ای."
     },
     {
       "VOrder": 48,
@@ -695,7 +719,8 @@
       "Text": "چون برزدی از نفیر جوشی",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: زمانی که صدای تند و شیلنگی به گوش می‌رسد، تو نیز شعری زیبا و دلنشین سروده‌ای که در هر حالتی خوب و شاداب به نظر می‌آید."
     },
     {
       "VOrder": 50,
@@ -711,7 +736,8 @@
       "Text": "از هر طرفی خلایق انبوه",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: مردم از هر سو به دور آن کوه جمع شده و در حال تماشا هستند."
     },
     {
       "VOrder": 52,
@@ -727,7 +753,8 @@
       "Text": "هر نادره‌ای کز او شنیدند",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: هر چیز نادری که از او شنیده‌اند، در ذهن و بر کاغذ ثبت کرده‌اند."
     },
     {
       "VOrder": 54,
@@ -743,7 +770,8 @@
       "Text": "بردند به تحفه‌ها در آفاق",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: عشاق با آن ثروت و زیبایی که در جهان وجود دارد، به دست آوردند و از آن لذت بردند."
     },
     {
       "VOrder": 56,

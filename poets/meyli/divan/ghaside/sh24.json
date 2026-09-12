@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "زهی گرم از تو بازار جدایی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چه خوب است که بازار جدایی از تو گرم و پررونق است، در حالی که دل تو به آشنایی با این جدایی ناآشنا و بی‌خبر است."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "نهان کردی متاع وصل، گویا",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق و وصالت را به طور پنهان نگه داشته‌ای، انگار که می‌خواهی دل کسی را به آزمون بگذاری."
     },
     {
       "VOrder": 4,
@@ -54,7 +56,8 @@
       "Position": "Right",
       "Text": "ازین بیگانگیها شرم بادت",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیگانگی‌ها باید برایت شرم‌آور باشد، بخصوص بعد از اینکه مدت زیادی با هم آشنا بوده‌ایم."
     },
     {
       "VOrder": 6,
@@ -68,7 +71,8 @@
       "Position": "Right",
       "Text": "سپهر قدر، ابراهیم، کآمد",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آسمان تقدیر، ای ابراهیم، بر بلندی‌اش پوشش عظمت و بزرگ‌منشی را بر تن کرده است."
     },
     {
       "VOrder": 8,
@@ -82,7 +86,8 @@
       "Position": "Right",
       "Text": "به دور دولت جاویدش از دهر",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دوران حیاتش، نشانه‌های بی‌وفایی و عدم وفاداری از طرف روزگار و مردم به او دیده می‌شود."
     },
     {
       "VOrder": 10,
@@ -96,7 +101,8 @@
       "Position": "Right",
       "Text": "خرد با عشق در دوران عدلش",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عقل و خرد در زمان عدالت با قدرت و توانمندی خود، به مبارزه می‌پردازند."
     },
     {
       "VOrder": 12,
@@ -110,7 +116,8 @@
       "Position": "Right",
       "Text": "تو آن سروی که نخل سبز گردون",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو مثل سروی هستی که در باغ‌های بهشت برفراشته شده و زیبایی‌ات همه جا را می‌نوازد."
     },
     {
       "VOrder": 14,
@@ -124,7 +131,8 @@
       "Position": "Right",
       "Text": "عتاب آلوده گر بینی سوی کوه",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به کوه نگاه کنی و رنگ لعل را ببینی، همانند رنگ کهربا است که به خاطر عتاب و شدت غضب به وجود آمده است."
     },
     {
       "VOrder": 16,
@@ -138,7 +146,8 @@
       "Position": "Right",
       "Text": "اگر آیینه یابد عکس رایت",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر آینه بتواند تصویر پرچم را ببیند، آن را از روی زنگار و کثیفی برداشته و نمایان می‌کند."
     },
     {
       "VOrder": 18,
@@ -152,7 +161,8 @@
       "Position": "Right",
       "Text": "چو عیسی نقش بندد در رحم طفل",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی عیسی (ع) به شوق خدمت به تو، در رحم مادر بچه‌ای نقشی می‌زند، در اینجا سخن از بی‌کدخدایی است. این بدان معناست که عشق و ارادت به تو، حتی بدون واسطه نیز می‌تواند به وجود آید."
     },
     {
       "VOrder": 20,
@@ -166,7 +176,8 @@
       "Position": "Right",
       "Text": "خوشا رزمی که سوی قلب دشمن",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خوشا به حال آن جنگی که دلیران فداکار با شجاعت به سمت قلب دشمن پیش می‌روند."
     },
     {
       "VOrder": 22,
@@ -180,7 +191,8 @@
       "Position": "Right",
       "Text": "بلندآوازه کوست آسمان را",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آسمان پر از صدای بلند و شگفت‌انگیز است، مانند زنگی که در چندین مکان به صدا در می‌آید و جلب توجه می‌کند."
     },
     {
       "VOrder": 24,
@@ -194,7 +206,8 @@
       "Position": "Right",
       "Text": "بیاموزد اجل نوک سنان را",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا مرگ به زیبایی مژگان غزالان، بر نوک دندان‌های خود می‌آموزد؟"
     },
     {
       "VOrder": 26,
@@ -208,7 +221,8 @@
       "Position": "Right",
       "Text": "به یک جا، مدّعی چون شاه شطرنج",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی در یک جا بر قدرت و تسلط خود تاکید کند، مانند یک شاه شطرنج که حتی با وجود ضعف‌ها و نقص‌ها، می‌تواند برتری خود را نشان دهد."
     },
     {
       "VOrder": 28,
@@ -222,7 +236,8 @@
       "Position": "Right",
       "Text": "چو شخصی کو گریزان است در خواب",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شخصی که از چیزی می‌گریزد، در خواب هم آرامش نمی‌یابد و نمی‌تواند به راحتی قدم بردارد."
     },
     {
       "VOrder": 30,

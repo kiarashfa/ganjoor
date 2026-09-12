@@ -491,7 +491,8 @@
       "Text": "رو به آتش کرد شه «کِای تُندخو",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "شاه رو به آتش کرد و گفت: ای تندخو! آن خوی طبیعی جانسوزت چه شد؟"
     },
     {
       "VOrder": 2,
@@ -507,7 +508,8 @@
       "Text": "چون نمی‌سوزی چه شد خاصیّتت؟",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "چرا نمی سوزانی؟ پس خاصیت سوزانندگی تو چه شد؟ یا از بخت بد ما خوی تو عوض شده است؟"
     },
     {
       "VOrder": 4,
@@ -523,7 +525,8 @@
       "Text": "می‌نبخشایی تو بر آتش‌پرست؛",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "تو بر آتش پرست رحم نمی کنی، چرا آنکه ترا نمی پرستد از دست تو نجات یافت؟"
     },
     {
       "VOrder": 6,
@@ -539,7 +542,8 @@
       "Text": "هرگز ای آتش تو صابر نیستی",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "ای آتش تو صبر نداری، چرا نمی سوزانی؟ آیا قدرت خود را از دست داده ای؟"
     },
     {
       "VOrder": 8,
@@ -555,7 +559,8 @@
       "Text": "چشم‌بندست این عجب، یا هوش‌بند؟",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "عجبا این تردستی است یا هوش بندی است، چرا این آتش فروزان نمی سوزاند؟"
     },
     {
       "VOrder": 10,
@@ -571,7 +576,8 @@
       "Text": "جادوی کردت کسی یا سیمیاست؟",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "آیا کسی ترا جادو کرده است یا طلسمی درکار است، و یا عوض شدن طبیعت تو از بخت بد ماست؟"
     },
     {
       "VOrder": 12,
@@ -587,7 +593,8 @@
       "Text": "گفت آتش من همانم ای شَمن",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "آتش گفت: که ای آتش پرست! من همان آتشم، تو درآ، تا سوز مرا ببینی"
     },
     {
       "VOrder": 14,
@@ -603,7 +610,8 @@
       "Text": "طبع من دیگر نگشت و عنصرم",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "طبیعت و عنصر من عوض نشده است، من شمشیر خدایم، به اجازه می بُرم."
     },
     {
       "VOrder": 16,
@@ -619,7 +627,8 @@
       "Text": "بر دَرِ خرگَه سگانِ ترکمان",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "سگان ترکمن بر در چادر، پیش مهمان چابلوسی میکنند"
     },
     {
       "VOrder": 18,
@@ -635,7 +644,8 @@
       "Text": "ور بخرگه بگذرد بیگانه‌رو",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "اما اگر بیگانه یی بخواهد از کنار چادر بگذرد، میبیند که سگان شیرانه به او حمله میکنند"
     },
     {
       "VOrder": 20,
@@ -651,7 +661,8 @@
       "Text": "من ز سگ کم نیستم در بندگی",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "من در بندگی از سگ کمتر نیستم و حق در نظم دادن به امور، از ترکی کمتر نیست."
     },
     {
       "VOrder": 22,
@@ -667,7 +678,8 @@
       "Text": "آتش طبعت اگر غمگین کند",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "اگر آتش درون تو ترا غمگین میکند، این سوزش به فرمان مالک دین است."
     },
     {
       "VOrder": 24,
@@ -683,7 +695,8 @@
       "Text": "آتش طبعت اگر شادی دهد",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "اگر طبع تو به تو شادی می بخشد، سلطان دین آن شادی را در آن نهفته است."
     },
     {
       "VOrder": 26,
@@ -699,7 +712,8 @@
       "Text": "چونک غم‌ بینی تو استغفار کن",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "اگر غم دیدی طلب مغفرت کن، زیرا که غم به فرمان آفریدگار کار می‌کند (کارگرست و نتیجه‌بخش)."
     },
     {
       "VOrder": 28,
@@ -715,7 +729,8 @@
       "Text": "چون بخواهد عین غم شادی شود",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "اگر خدا بخواهد عین غم به شادی بدل شود، بند پای، خود به خود به آزادی تبدیل یابد."
     },
     {
       "VOrder": 30,
@@ -731,7 +746,8 @@
       "Text": "باد و خاک و آب و آتش بنده‌اند",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "باد و خاک و آب و آتش همه بنده اند، در برابر من و تو مرده اند، ولی در محضر حق زنده اند."
     },
     {
       "VOrder": 32,
@@ -747,7 +763,8 @@
       "Text": "پیش حق آتش همیشه در قیام",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "آتش در برابر خداوند همیشه بر پای است، چون عاشق شب و روز در پیچ و تاب است."
     },
     {
       "VOrder": 34,
@@ -763,7 +780,8 @@
       "Text": "سنگ بر آهن زنی بیرون جهد",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "اگر چخماق بر آهن زنی آتش بیرون میجهد، آن به فرمان حق جرقه میزند."
     },
     {
       "VOrder": 36,
@@ -779,7 +797,8 @@
       "Text": "آهن و سنگِ هوا بر هم مزن",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "آهن ستم را بر سنگ هوا مزن که این دو چون مقاربت زن و مرد موجب زادن میگردد."
     },
     {
       "VOrder": 38,
@@ -795,7 +814,8 @@
       "Text": "سنگ و آهن خود سبب آمد ولیک",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "اگر چه سنگ و آهن ذاتا سبب جستن آتش اند، ولی ای نیکمرد تو بالاتر را نگاه کن."
     },
     {
       "VOrder": 40,
@@ -811,7 +831,8 @@
       "Text": "کین سبب را آن سبب آورد پیش",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "زیرا که این سبب را آن سبب ایجاد کرده است، کی بی سبب می تواند به خودی خود سبب شود!"
     },
     {
       "VOrder": 42,
@@ -827,7 +848,8 @@
       "Text": "و آن سببها کانبیا را رهبرند",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "آن سبب هایی که رهبر اولیاست، بالاتر از این سبب هاست."
     },
     {
       "VOrder": 44,
@@ -843,7 +865,8 @@
       "Text": "این سبب را آن سبب عامل کند",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "این سبب را آن سبب مؤثر میگرداند، و گاهی هم از کار می اندازد و عاطل می سازد."
     },
     {
       "VOrder": 46,
@@ -859,7 +882,8 @@
       "Text": "این سبب را محرم آمد عقلها",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "عقل با این سبب محرم است، محرم این سبب ها انبیا هستند."
     },
     {
       "VOrder": 48,
@@ -875,7 +899,8 @@
       "Text": "این سبب چه بود بتازی گو رسن",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "سبب چیست؟ این سبب را به عربی میتوان رَسَن گفت، برای این چاه ابزاری ضروری است."
     },
     {
       "VOrder": 50,
@@ -891,7 +916,8 @@
       "Text": "گردِش چَرخه رسن را علّتست",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "البته گردش چرخ، سبب بالا آمدن رسن است، ندیدن چرخه گردان نشانه لغزش و کوری است."
     },
     {
       "VOrder": 52,
@@ -907,7 +933,8 @@
       "Text": "این رسنهای سببها در جهان",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هشیار باش تا گردش این رسن ها را که سبب است از گردش افلاک ندانی"
     },
     {
       "VOrder": 54,
@@ -923,7 +950,8 @@
       "Text": "تا نمانی صِفر و سرگردان چو چرخ",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "تا چون فلک دست خالی و سرگردان نباشی و از بی مغزی چون چوب آتش زنه نسوزی.\u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 «مرخ» در لغت به نوعی درخت بیابانی در حجاز گفته می‌شود که چوب آن بسیار زود آتش می‌گیرد. در عربی و متون کهن، از چوب مرخ و چوب دیگری به نام «عفار» به عنوان آتش‌زنه (زند و پند) برای روشن کردن آتش استفاده می‌کردند. همچنین در برخی مناطق کوهستانی ایران و گویش‌های کردی و محلی، درخت «اُرس» یا سرو کوهی را نیز «مرخ» می‌نامند."
     },
     {
       "VOrder": 56,
@@ -939,7 +967,8 @@
       "Text": "باد آتش می‌شود از امر حق",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "باد به امر حق آتش را میخورد، آن هر دو از آتش حق سرمست شده اند."
     },
     {
       "VOrder": 58,
@@ -955,7 +984,8 @@
       "Text": "آبِ حلم و آتش خشم ای پسر",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "ای پسر! اگر دیده بصیرت بگشایی، میبینی که آب حلم و آتش خشم هر دو از خداست"
     },
     {
       "VOrder": 60,
@@ -971,7 +1001,8 @@
       "Text": "گر نبودی واقف از حق جانِ باد",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "اگر جان باد از حق خبر نداشت، چگونه می توانست قوم عاد را از دیگران بازشناسد"
     },
     {
       "VOrder": 62,
@@ -987,7 +1018,8 @@
       "Text": "هود گِردِ مؤمنان خطّی کشید",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هود گرد مومنان خطی کشید، باد که بدانجا می رسید نرم میشد، و آرامتر میوزید.\u00A0"
     },
     {
       "VOrder": 64,
@@ -1003,7 +1035,8 @@
       "Text": "هر که بیرون بود زان خط جمله را",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هرکس که بیرون آن خط بود، باد پاره پاره اش میکرد"
     },
     {
       "VOrder": 66,
@@ -1019,7 +1052,8 @@
       "Text": "همچنین شیبان راعی می‌کشید",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "شیبان راعی هم گرداگرد رمه خود (چون هود) خطی می کشید."
     },
     {
       "VOrder": 68,
@@ -1035,7 +1069,8 @@
       "Text": "چون به جُمعه می‌شد او وقت نماز",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "چون روز جمعه به نماز میرفت، این کار را میکرد تا گرگ به رمه اش حمله نکند"
     },
     {
       "VOrder": 70,
@@ -1051,7 +1086,8 @@
       "Text": "هیچ گرگی در نرفتی اندر آن",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هیچ گرگی درون آن خط وارد نمیشد و هیچ گوسفندی هم از آن پا بیرون نمیگذاشت"
     },
     {
       "VOrder": 72,
@@ -1067,7 +1103,8 @@
       "Text": "بادِ حرص گرگ و حرص گوسفند",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "آن خطی که مرد خدا کشیده بود، هم باد حرص گرگ را خوابانده بود و حرص گوسفندان را"
     },
     {
       "VOrder": 74,
@@ -1083,7 +1120,8 @@
       "Text": "همچنین بادِ اجل با عارفان",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "باد اجل و مرگ نیز برای عارفان، چون بادی که از گلستان میوزد، نرم و لطیف است.\u00A0\u00A0"
     },
     {
       "VOrder": 76,
@@ -1099,7 +1137,8 @@
       "Text": "آتش ابراهیم را دندان نزد",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "آتش بر ابراهیم آسیبی نرساند، زیرا او برگزیده حق بود، چگونه میتوانست او را بگزد؟"
     },
     {
       "VOrder": 78,
@@ -1115,7 +1154,8 @@
       "Text": "ز آتش شهوت نسوزد اهل دین",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "اهل دین از آتش شهوت نسوزند، آن آتش بقیه مردم را تا اعماق زمین فرو میبرد"
     },
     {
       "VOrder": 80,
@@ -1131,7 +1171,8 @@
       "Text": "موج دریا چون به اَمر حق بتاخت",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "موج دریا که به فرمان حق به تلاطم درآمد، پیروان موسی را از قبطیان جدا کرد"
     },
     {
       "VOrder": 82,
@@ -1147,7 +1188,8 @@
       "Text": "خاکْ قارون را چو فرمان در رسید",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "چون فرمان خدا رسید، خاک قارون را با جواهرات و تختش به کام خود فرو کشید"
     },
     {
       "VOrder": 84,
@@ -1163,7 +1205,8 @@
       "Text": "آب و گِل چون از دمِ عیسی چرید",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "آب و گل چون از دم عیسی اثر یافت، بال و پر گشود و به صورت پرنده یی به پرواز درآمد."
     },
     {
       "VOrder": 86,
@@ -1179,7 +1222,8 @@
       "Text": "هست تسبیحت بخارِ آب و گِل",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "سبحان الله گفتن تو، بخاری از آب و گل بود که از نفخه صدق دل به شکل مرغ بهشتی درآمد."
     },
     {
       "VOrder": 88,
@@ -1195,7 +1239,8 @@
       "Text": "کوهِ طور از نور موسی شد به رقص",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "کوه طور از نور موسی به رقص در آمد، به صوفی کاملی بدل شد و از نقصان رها گشت."
     },
     {
       "VOrder": 90,
@@ -1211,7 +1256,8 @@
       "Text": "چه عجب گر کوه صوفی شد عزیز",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "اگر کوه به صوفی کاملی بدل شد، عجب نیست، زیرا که جسم موسی هم از کلوخ پاره ای بود"
     },
     {
       "VOrder": 92,

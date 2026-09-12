@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "هر چه رزق تو باشد ای درویش",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چه که نصیب تو باشد، ای درویش، مطمئن باش که هیچ کس دیگری آن را نخواهد خورد."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "و آنچه روزی دیگران باشد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آنچه که برای دیگران مقدر شده است، نمی‌توانی به دست آورد."
     },
     {
       "VOrder": 4,
@@ -55,7 +57,8 @@
       "Position": "Right",
       "Text": "چون چنین است پس نداشت خرد",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کس که به کارهای بیهوده پرداخته و آنها را پرورش دهد، نشان از نداشتن عقل و خرد اوست."
     },
     {
       "VOrder": 6,

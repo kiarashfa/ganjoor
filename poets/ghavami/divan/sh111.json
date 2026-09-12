@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "هرکه زین در نشانه ای یابد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کس که از این در نشانه‌ای پیدا کند، وقتی که بی‌نشانه باشد، نشانه‌اش همان است."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "گرتو جوئی عیار این ابرار",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی ویژگی‌های نیکوکاران را بشناسی، باید به دروازه‌ی اهل بیت پیامبر مراجعه کنی."
     },
     {
       "VOrder": 4,
@@ -54,7 +56,8 @@
       "Position": "Right",
       "Text": "چنگ در دامن محمد زن",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به درگاه بلند مرتبه و عالی فکر می‌کنی، به محمد (ص) چنگ بزن و از دامن او و مدد او برخوردار شو."
     },
     {
       "VOrder": 6,
@@ -68,7 +71,8 @@
       "Position": "Right",
       "Text": "آن محمد که از خزانه سر",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن محمد که به عنوان هدیه و پرچم افتخار، در گنجینه‌اش نام «لعمرک» و «لولا» وجود دارد، نشانی از عظمت و مقام اوست."
     },
     {
       "VOrder": 8,
@@ -82,7 +86,8 @@
       "Position": "Right",
       "Text": "آن رسولی که در کلام قدیم",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن پیامبری که در مطالب گذشته به خوبی و زیبایی روح او اشاره شده، طاها نام دارد."
     },
     {
       "VOrder": 10,
@@ -96,7 +101,8 @@
       "Position": "Right",
       "Text": "آن حبیبی که پایه قدرش",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشقی که ارزش و مقامش بالاتر از هر چیزی در دنیا و آسمان است."
     },
     {
       "VOrder": 12,
@@ -110,7 +116,8 @@
       "Position": "Right",
       "Text": "آدم از گوهرش چو دریائی است",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: انسان با ارزش و عمق خود مانند دریا است و از هر دری که به آن نگاه کنیم، دو برابر عمق و ارزش بیشتری را می‌توانیم ببینیم."
     },
     {
       "VOrder": 14,
@@ -124,7 +131,8 @@
       "Position": "Right",
       "Text": "هر جواهر که بحر او زاید",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر جواهری که از دریا به دست می‌آید، ارزش آن به لطف و رحمت خداوند است."
     },
     {
       "VOrder": 16,
@@ -138,7 +146,8 @@
       "Position": "Right",
       "Text": "گوهر آدمی است در یتیم",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: انسان، گوهر گرانبهایی است که اگر دور از منبع خویش باشد، همچون یتیمی به نظر می‌رسد و این در حالی است که او به اصل و منبع خود، که می‌تواند ناشی از عمق وجودش یا آگاهی‌اش باشد، نزدیک‌تر است."
     },
     {
       "VOrder": 18,
@@ -152,7 +161,8 @@
       "Position": "Right",
       "Text": "هرکه غواص بحر شرع نبی است",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرکس که در عمق دانش و اصول دینی غوطه‌ور باشد، به مانند صدفی است که گوهرهای ارزشمند و زیبای بسیاری در دامن خود دارد."
     },
     {
       "VOrder": 20,
@@ -166,7 +176,8 @@
       "Position": "Right",
       "Text": "گر دین ره به عشق روی اری",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دین و ایمان، راهی به سوی عشق باز کند، می‌توانی در درون خود، زیبایی‌ها و عشق را از دو سو ببینی."
     },
     {
       "VOrder": 22,
@@ -180,7 +191,8 @@
       "Position": "Right",
       "Text": "ور قیاسی کنی ز روی یقین",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهی بر اساس یقین قیاس کنی، رونق دین در اثر عدل عادل به دست می‌آید."
     },
     {
       "VOrder": 24,
@@ -194,7 +206,8 @@
       "Position": "Right",
       "Text": "هر فضیلت که مر شهیدان راست",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر اخلاق و ویژگی نیکویی که مختص شهیدان است، اگر ما هم به همان نحو عمل کنیم، درست و مقبول خواهد بود."
     },
     {
       "VOrder": 26,
@@ -208,7 +221,8 @@
       "Position": "Right",
       "Text": "خاص درگاه کبریاست علی",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فقط در پیشگاه بزرگ خداوند، علی (ع) مورد توجه خاصی قرار دارد و این سخن، حقیقتی است که به صدق و راستی اشاره دارد."
     },
     {
       "VOrder": 28,
@@ -222,7 +236,8 @@
       "Position": "Right",
       "Text": "آن دو گلزار دین حسین و حسن",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دو باغ زیبای دین حسین و حسن، زینت و تزیین آسمان و مایه فخر حضرت زهرا هستند."
     },
     {
       "VOrder": 30,
@@ -236,7 +251,8 @@
       "Position": "Right",
       "Text": "بر روان مهاجر و انصار",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای روح مهاجران و انصار همیشه سلام و دعا و آرزوی خیر از سوی ما وجود دارد."
     },
     {
       "VOrder": 32,
@@ -250,7 +266,8 @@
       "Position": "Right",
       "Text": "هرکه نه صید راه ایشان است",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که به راه آنها وارد نشود، به طور یقین باید بداند که گرفتار دام مشکلات و بلاها خواهد شد."
     },
     {
       "VOrder": 34,
@@ -264,7 +281,8 @@
       "Position": "Right",
       "Text": "راه ایشان طلب که ملک دو کون",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در جستجوی راه آنان باشید، چرا که سلطنت دو جهان به خاطر درخشندگی و وجود آن‌ها است."
     },
     {
       "VOrder": 36,
@@ -278,7 +296,8 @@
       "Position": "Right",
       "Text": "ملک باقی مده به دست زوال",
       "CoupletIndex": 18,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ملک و سلطنت پایدار را به دست نابودی نده و از نعمت‌های دنیوی که به زهر فنا می‌ماند، استفاده نکن."
     },
     {
       "VOrder": 38,
@@ -292,7 +311,8 @@
       "Position": "Right",
       "Text": "به نشاط جهان مشو مغرور",
       "CoupletIndex": 19,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خوشی و لذت‌های دنیایی فریب نخور، زیرا غم و اندوه در مسائل دینی بهتر از شادی‌های دنیا است."
     },
     {
       "VOrder": 40,
@@ -306,7 +326,8 @@
       "Position": "Right",
       "Text": "قحبه دل فریب و شورانگیز",
       "CoupletIndex": 20,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زنی فریبنده و جذاب که با چشمانش بازیگوشی می‌کند و هوایش دلنشین و بدیع است."
     },
     {
       "VOrder": 42,
@@ -320,7 +341,8 @@
       "Position": "Right",
       "Text": "برگشاده ز فان به سحر و فسون",
       "CoupletIndex": 21,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل خود را به جادو و سحرها ببند، چرا که در آنجا خطا و اشتباه وجود دارد. از هر چیزی که فریبنده به نظر می‌رسد دوری کن."
     },
     {
       "VOrder": 44,
@@ -334,7 +356,8 @@
       "Position": "Right",
       "Text": "ایمن اندر سرای عاریتی",
       "CoupletIndex": 22,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در مکانی که به طور موقت و به امانت در اختیار شماست، ایمنی نخواهی داشت. چرا که زمانی که نیاز باشد، باید آماده رفتن از آنجا باشی."
     },
     {
       "VOrder": 46,
@@ -348,7 +371,8 @@
       "Position": "Right",
       "Text": "دوستی می نمایدت دشمن",
       "CoupletIndex": 23,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوستی تو را به خود جذب می‌کند، اما دشمنی در حال توطئه‌چینی در پس پرده است."
     },
     {
       "VOrder": 48,
@@ -362,7 +386,8 @@
       "Position": "Right",
       "Text": "مال و فرزند را که داری دوست",
       "CoupletIndex": 24,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دارایی و فرزندانی که داری، هر دو به‌عنوان نعمت‌هایی از سوی خداوند به تو داده شده‌اند و در واقع، این‌ها مسؤولیت‌هایی را به همراه دارند."
     },
     {
       "VOrder": 50,
@@ -376,7 +401,8 @@
       "Position": "Right",
       "Text": "تکیه بر عمر و مال و جاه امروز",
       "CoupletIndex": 25,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اتکا به عمر، ثروت و مقام امروزی تو گذشته است و روز قیامت برای تو در پیش است."
     },
     {
       "VOrder": 52,
@@ -390,7 +416,8 @@
       "Position": "Right",
       "Text": "از پی سود خویش هر روزی",
       "CoupletIndex": 26,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر روز به دنبال منافع خود هستی و این رفتار تو همیشه به نوعی باعث به وجود آمدن مشکلات و تبعات خواهد شد."
     },
     {
       "VOrder": 54,
@@ -404,7 +431,8 @@
       "Position": "Right",
       "Text": "از حلال و حرام نندیشی",
       "CoupletIndex": 27,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به حلال و حرام فکر نکنی و فقط به جمع‌آوری مال بپردازی، این کار به عمد است."
     },
     {
       "VOrder": 56,
@@ -418,7 +446,8 @@
       "Position": "Right",
       "Text": "گر حلال است در حساب آید",
       "CoupletIndex": 28,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کاری از نظر شرع حلال باشد، در محاسبات و زندگی به حساب می‌آید، اما اگر حرام باشد، تمام زحمت‌ها و رنج‌ها بی‌فایده و عبث خواهد بود."
     },
     {
       "VOrder": 58,
@@ -432,7 +461,8 @@
       "Position": "Right",
       "Text": "تیز فهمی به درس سود و زیان",
       "CoupletIndex": 29,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی اهل فهم و درک باشد، در یادگیری درس سود و زیان موفق خواهد بود، اما اگر طبع او جست‌وجوگر علم دین نباشد، نخواهد دانست که مطلب از کجا نشأت می‌گیرد."
     },
     {
       "VOrder": 60,
@@ -446,7 +476,8 @@
       "Position": "Right",
       "Text": "دین به دنیا فروشی از غفلت",
       "CoupletIndex": 30,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر بی‌خبری‌ات نمی‌دانی که اگر دین خود را برای دنیا بفروشی، در واقع همه چیز را از دست می‌دهی."
     },
     {
       "VOrder": 62,
@@ -460,7 +491,8 @@
       "Position": "Right",
       "Text": "مکن ای خواجه خویشتن دریاب",
       "CoupletIndex": 31,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای آقای من، خودت را دریاب که خواسته‌هایت تماماً در تضاد با رضایت و خشنودی است."
     },
     {
       "VOrder": 64,
@@ -474,7 +506,8 @@
       "Position": "Right",
       "Text": "آخر از کرده ها پشیمان شو",
       "CoupletIndex": 32,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در نهایت، پس از اعمالی که انجام داده‌ایم، باید به اشتباهات خود پی ببریم و به سوی خدا بازگردیم، چرا که سرنوشت همه مردم به سوی او ختم می‌شود."
     },
     {
       "VOrder": 66,
@@ -488,7 +521,8 @@
       "Position": "Right",
       "Text": "گوشه گیر از جهان ظلمانی",
       "CoupletIndex": 33,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از دنیای پر از ظلم و تاریکی فاصله گرفته و به جایی برو که همه چیز پر از نور و روشنایی است."
     },
     {
       "VOrder": 68,
@@ -502,7 +536,8 @@
       "Position": "Right",
       "Text": "گرتو زین دیوخانه فرد آئی",
       "CoupletIndex": 34,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو از این خانه پلید بیرون بیایی، جان تو در بهشت با حوریان خواهد بود."
     },
     {
       "VOrder": 70,
@@ -516,7 +551,8 @@
       "Position": "Right",
       "Text": "از پی نان دویدنت شب و روز",
       "CoupletIndex": 35,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر روز و شب در تلاش برای تأمین نیازهای خود هستی و این حرص و ولع تو مانند آسیاب دائماً در حال چرخش است."
     },
     {
       "VOrder": 72,
@@ -530,7 +566,8 @@
       "Position": "Right",
       "Text": "تا تو مغرور سرکشی شده ای",
       "CoupletIndex": 36,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که به خودت می‌بالیدی و مغرور شدی، باید بدانی که راحتی و آسایش برای تو مناسب نیست."
     },
     {
       "VOrder": 74,
@@ -544,7 +581,8 @@
       "Position": "Right",
       "Text": "آب اومید تست خاک آلود",
       "CoupletIndex": 37,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آب امید تو در خاکی کدر و آلوده است، و به خاطر غرور و تکبر تو، این وضعیت بدتر شده است."
     },
     {
       "VOrder": 76,
@@ -558,7 +596,8 @@
       "Position": "Right",
       "Text": "از پی نانهاده رنجه شدن",
       "CoupletIndex": 38,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تلاش برای به دست آوردن روزی و زحمت کشیدن برای آن، نشانه عقل و فهم مردم نیست."
     },
     {
       "VOrder": 78,
@@ -572,7 +611,8 @@
       "Position": "Right",
       "Text": "گرتو دانشوری یقین طلبی",
       "CoupletIndex": 39,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به دنبال دانش و یقین هستی، باید بدانی که همه چیز برای تو به وجود آمده است."
     },
     {
       "VOrder": 80,
@@ -586,7 +626,8 @@
       "Position": "Right",
       "Text": "راه آزادگان به مستی نیست",
       "CoupletIndex": 40,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: راه افرادی که آزاد و فرشته‌خو هستند،‌ به سادگی و به دور از نادانی، خودپسندی، خود بزرگ بینی و قدرت‌طلبی نیست."
     },
     {
       "VOrder": 82,
@@ -600,7 +641,8 @@
       "Position": "Right",
       "Text": "گر سری داری اندر این ره را",
       "CoupletIndex": 41,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در این مسیر دنبال هدفی هستی، باید بر نفس و خواهش‌های خود غلبه کنی. در غیر این صورت، زحمت و تلاش تو زیبا و ارزشمند نخواهد بود."
     },
     {
       "VOrder": 84,
@@ -614,7 +656,8 @@
       "Position": "Right",
       "Text": "این چنین راه اگر توانی رفت",
       "CoupletIndex": 42,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌توانی، به این راه ادامه بده، زیرا مقصد نهایی‌ات درگاه پروردگار است."
     },
     {
       "VOrder": 86,
@@ -628,7 +671,8 @@
       "Position": "Right",
       "Text": "پی سلمان و راه بوذرگیر",
       "CoupletIndex": 43,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به دنبال راهی برای درمان مشکلات خود هستی، باید به سراغ سلمان و بوذرگیر بروی، چرا که آن‌ها راهنمایانی هستند که می‌توانند به تو کمک کنند."
     },
     {
       "VOrder": 88,
@@ -642,7 +686,8 @@
       "Position": "Right",
       "Text": "مرد میدان عشق ایشانند",
       "CoupletIndex": 44,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مردان واقعی عشق کسانی هستند که در این مسیر سختی‌ها و زحمت‌های زیادی را تحمل می‌کنند."
     },
     {
       "VOrder": 90,
@@ -656,7 +701,8 @@
       "Position": "Right",
       "Text": "عشق باید کت از تو بستاند",
       "CoupletIndex": 45,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق باید از تو خواسته‌ای بگیرد وگرنه همه چیزهای دیگر تنها سرگرمی و سرگرمی‌های بی‌اهمیت هستند."
     },
     {
       "VOrder": 92,
@@ -670,7 +716,8 @@
       "Position": "Right",
       "Text": "هیچ دل نیست بی تجلی حق",
       "CoupletIndex": 46,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ دلی نیست که از تجلی و حضور خداوند خالی باشد، اما وجود تو مانع از دیدن و ارتباط با اوست."
     },
     {
       "VOrder": 94,
@@ -684,7 +731,8 @@
       "Position": "Right",
       "Text": "گر تو از خود دمی فرود آئی",
       "CoupletIndex": 47,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر لحظه‌ای از خودت فاصله بگیری، جان تو همچون قصر و خانه‌ای برای خداست."
     },
     {
       "VOrder": 96,
@@ -698,7 +746,8 @@
       "Position": "Right",
       "Text": "ملت و مذهب محمد گیر",
       "CoupletIndex": 48,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به ملت و دین پیامبر محمد وابسته شو تا از هر گونه خطا و ناپاکی پاک و مطهر گردی."
     },
     {
       "VOrder": 98,

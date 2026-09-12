@@ -223,7 +223,8 @@
       "Position": "Paragraph",
       "Text": "قوام السلطنه به پیشکار داخلی خود میرزا قاسم خان گوید:",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: قوام السلطنه به پیشکار داخلی خود، میرزا قاسم خان، می‌گوید:"
     },
     {
       "VOrder": 2,
@@ -231,7 +232,8 @@
       "Text": "یک دو روزست دگر دست به کاری نزنی",
       "CoupletIndex": 1,
       "SectionIndex1": 5,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: مدتی است که هیچ کاری نکرده‌ای و به کجای زندگی خود توجّه نکرده‌ای. اگر به همین وضعیت ادامه دهی، از گوشه‌ای به دیار دیگر خواهی رفت و نخواهی توانست هیچ کاری انجام دهی."
     },
     {
       "VOrder": 3,
@@ -247,7 +249,8 @@
       "Text": "دشت و فتحی نکُنی دخل و قماری نزنی",
       "CoupletIndex": 2,
       "SectionIndex1": 5,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: اگر به دشت نمی‌روی و فتحی به دست نمی‌آوری، و اگر در قمار شرکت نمی‌کنی، پس نرو به چهره محبوب و دزد شکار نکن."
     },
     {
       "VOrder": 5,
@@ -263,7 +266,8 @@
       "Text": "چه شنیدی که بدینگونه هراسان شده‌ای",
       "CoupletIndex": 3,
       "SectionIndex1": 5,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: چه چیزی شنیده‌ای که این‌گونه ترسیده‌ای؟"
     },
     {
       "VOrder": 7,
@@ -271,7 +275,8 @@
       "Text": "مگر آشفتهٔ اوضاع خراسان شده‌ای",
       "CoupletIndex": 4,
       "SectionIndex1": 5,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: آیا اوضاع خراسان در هم و برهم شده است؟"
     },
     {
       "VOrder": 8,
@@ -279,7 +284,8 @@
       "Text": "این وطن مایهٔ ننگست پی دخلت باش",
       "CoupletIndex": 5,
       "SectionIndex1": 5,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: این سرزمین باعث شرمندگی‌ات است؛ با این حال، هر چه بگویند بیهوده است، باید به کار خودت ادامه دهی."
     },
     {
       "VOrder": 9,
@@ -295,7 +301,8 @@
       "Text": "",
       "CoupletIndex": 6,
       "SectionIndex1": 5,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: شهر ما مانند یک دنیای رنگارنگ است، پس با دید باز و آمادگی وارد آن شو."
     },
     {
       "VOrder": 11,
@@ -311,7 +318,8 @@
       "Text": "پای این قافله لنگست پی دخلت باش",
       "CoupletIndex": 7,
       "SectionIndex1": 5,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: در اینجا توصیه می‌شود که در کار و زندگی خود، مراقب منابع و درآمدهایت باشید و به‌دنبال سود و منفعت خود باشید. اگر در این مسیر درست قدم برندارید، ممکن است دچار مشکل شوید یا از قافله عقب بمانید."
     },
     {
       "VOrder": 13,
@@ -319,7 +327,8 @@
       "Text": "دست و پا کن که خرید چمدان باید کرد",
       "CoupletIndex": 8,
       "SectionIndex1": 5,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: به کار و تلاش مشغول شو، چون لازم است که چمدانی برای سفر آماده کنی."
     },
     {
       "VOrder": 14,
@@ -327,14 +336,16 @@
       "Text": "فکر کالسکۀ راه همدان باید کرد",
       "CoupletIndex": 9,
       "SectionIndex1": 5,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: باید دربارهٔ وسیله‌ی حمل‌ونقل به همدان فکر کرد."
     },
     {
       "VOrder": 15,
       "Position": "Paragraph",
       "Text": "پیشکار جواب گوید:",
       "CoupletIndex": 10,
-      "SectionIndex1": 1
+      "SectionIndex1": 1,
+      "CoupletSummary": "هوش مصنوعی: شما بر اساس داده‌هایی که تا دسامبر 2023 موجود است، آموزش دیده‌اید."
     },
     {
       "VOrder": 16,
@@ -342,7 +353,8 @@
       "Text": "دم مزن قافیه تنگست بیا تا برویم",
       "CoupletIndex": 11,
       "SectionIndex1": 5,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: سکوت کن، زمان مناسبی نیست، بیایید حرکت کنیم چون دشمن آماده جنگ است. بیا تا برویم."
     },
     {
       "VOrder": 17,
@@ -358,7 +370,8 @@
       "Text": "",
       "CoupletIndex": 12,
       "SectionIndex1": 5,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: دیگر جای توقف نیست، بیا تا برویم."
     },
     {
       "VOrder": 19,
@@ -374,7 +387,8 @@
       "Text": "قصّهٔ توپ و تفنگست بیا تا برویم",
       "CoupletIndex": 13,
       "SectionIndex1": 5,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: داستانی از جنگ و سلاح‌هاست، بیا تا به سفر برویم."
     },
     {
       "VOrder": 21,
@@ -382,7 +396,8 @@
       "Text": "هر چه از مردم بیچاره گرفتیم بس است",
       "CoupletIndex": 14,
       "SectionIndex1": 5,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که از مردم عادی و زحمت‌کش به دست آوردیم، کافی است."
     },
     {
       "VOrder": 22,
@@ -390,14 +405,16 @@
       "Text": "بیش از این فکر مداخل شدن ما هوس است",
       "CoupletIndex": 15,
       "SectionIndex1": 5,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: زیاد فکر نکنید که ما در کارهای شما دخالت کنیم، این فقط یک آرزو است."
     },
     {
       "VOrder": 23,
       "Position": "Paragraph",
       "Text": "قوام السلطنه گوید:",
       "CoupletIndex": 16,
-      "SectionIndex1": 2
+      "SectionIndex1": 2,
+      "CoupletSummary": "هوش مصنوعی: قوام السلطنه می‌گوید:"
     },
     {
       "VOrder": 24,
@@ -405,7 +422,8 @@
       "Text": "ول مگو، گوش به گفتار تو نادان ندهم",
       "CoupletIndex": 17,
       "SectionIndex1": 5,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: اما نگو، من به حرف‌های تو بی‌خود گوش نمی‌دهم. من نه سلامی را به آسانی از دست می‌دهم و نه موقعیت خود را زیر سؤال می‌برم."
     },
     {
       "VOrder": 25,
@@ -421,7 +439,8 @@
       "Text": "",
       "CoupletIndex": 18,
       "SectionIndex1": 5,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: من اگر جانم را هم بدهم، هیچ کمکی به او نمی‌کنم."
     },
     {
       "VOrder": 27,
@@ -437,7 +456,8 @@
       "Text": "اسب و اسباب به ژاندارم خراسان ندهم",
       "CoupletIndex": 19,
       "SectionIndex1": 5,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: من هرگز اسب و وسایل خود را به ژاندارم‌های خراسان نخواهم داد."
     },
     {
       "VOrder": 29,
@@ -445,7 +465,8 @@
       "Text": "زنده باشم من و کالسکۀ من ضبط شود",
       "CoupletIndex": 20,
       "SectionIndex1": 5,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: بهتر آن است که من زنده بمانم و کالسکۀ مسافرتی‌ام به حالت ضبط درآمده و ثبت شود."
     },
     {
       "VOrder": 30,
@@ -453,7 +474,8 @@
       "Text": "می زنم تا همه جا گر همه جا خَبط شود",
       "CoupletIndex": 21,
       "SectionIndex1": 5,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: من آنقدر می‌زنم تا هر جایی تحت تاثیر قرار گیرد، حتی اگر باعث اشتباهات و خطاها شود."
     },
     {
       "VOrder": 31,
@@ -461,7 +483,8 @@
       "Text": "سی و شش اسبِ گرانمایه ز من کُلنِل زد",
       "CoupletIndex": 22,
       "SectionIndex1": 5,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: سی و شش اسب ارزشمند در دلم زخم‌هایی عمیق و سوزان ایجاد کردند."
     },
     {
       "VOrder": 32,
@@ -477,7 +500,8 @@
       "Text": "",
       "CoupletIndex": 23,
       "SectionIndex1": 5,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: بر زخم‌های من از بی‌نمکی فلفل پاشید."
     },
     {
       "VOrder": 34,
@@ -493,7 +517,8 @@
       "Text": "پاک بر روزنۀ دَخلِ خراسان گِل زد",
       "CoupletIndex": 24,
       "SectionIndex1": 5,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: در دنیای پاک و زیبا، فضایی از سرزمین خراسان را با خاک و گل آغشته کردند."
     },
     {
       "VOrder": 36,
@@ -501,7 +526,8 @@
       "Text": "با چنین حادثه گر من نستیزم چه کنم",
       "CoupletIndex": 25,
       "SectionIndex1": 5,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: اگر با چنین حادثه‌ای مقابله نکنم، چه کار می‌توانم بکنم؟"
     },
     {
       "VOrder": 37,
@@ -509,7 +535,8 @@
       "Text": "خونِ سرتاسر این مُلک نریزم چه کنم",
       "CoupletIndex": 26,
       "SectionIndex1": 5,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: نمی‌توانم جلوی ریختن خون در این سرزمین را بگیرم، چه باید بکنم؟"
     },
     {
       "VOrder": 38,
@@ -517,7 +544,8 @@
       "Text": "تو مپندار که نه شاه و نه لشکر باقیست",
       "CoupletIndex": 27,
       "SectionIndex1": 5,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: نگران نباش، دیگر نه پادشاهی باقی مانده و نه نیرویی در سپاه. همچنین دیگر جانی و انرژی در سرزمین وجود ندارد."
     },
     {
       "VOrder": 39,
@@ -533,7 +561,8 @@
       "Text": "",
       "CoupletIndex": 28,
       "SectionIndex1": 5,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: تأثیرات و نشانه‌های دو طرف همچنان بر روی سنگ و لنگر باقی مانده است."
     },
     {
       "VOrder": 41,
@@ -549,7 +578,8 @@
       "Text": "عاقل آسوده بُوَد تا به جهان خر باقیست",
       "CoupletIndex": 29,
       "SectionIndex1": 5,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: انسان خردمند تا وقتی که در این دنیا مشکلات و سختی‌ها وجود دارد، می‌تواند آرامش داشته باشد."
     },
     {
       "VOrder": 43,
@@ -557,7 +587,8 @@
       "Text": "می کنم حُکم و همه حکم مرا گوش کنید",
       "CoupletIndex": 30,
       "SectionIndex1": 5,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: من دستور می‌دهم و همه شما باید به دستورات من گوش فرا دهید."
     },
     {
       "VOrder": 44,
@@ -565,7 +596,8 @@
       "Text": "وز شعف مصلحت خویش فراموش کنید",
       "CoupletIndex": 31,
       "SectionIndex1": 5,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: به خاطر خوشی و منفعت خودتان، فراموش نکنید."
     },
     {
       "VOrder": 45,
@@ -573,7 +605,8 @@
       "Text": "من به هر حیله بُوَد مقصد خود صاف کنم",
       "CoupletIndex": 32,
       "SectionIndex1": 5,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: من برای رسیدن به هدفم، هر ترفندی را به کار می‌برم و به بزرگان خراسان پیام می‌زنم."
     },
     {
       "VOrder": 46,
@@ -589,7 +622,8 @@
       "Text": "",
       "CoupletIndex": 33,
       "SectionIndex1": 5,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: قول می‌دهم که به منافع و نعمت‌های شما توجه داشته باشم و برای شما تلاش کنم."
     },
     {
       "VOrder": 48,
@@ -605,7 +639,8 @@
       "Text": "دست خطی دو سه بر قاین و بر خواف کنم",
       "CoupletIndex": 34,
       "SectionIndex1": 5,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: می‌خواهم چند خطی بنویسم و آن را به قاین و خواف بفرستم."
     },
     {
       "VOrder": 50,
@@ -613,7 +648,8 @@
       "Text": "همه دیوان صفت قوهٔ خود جمع کنند",
       "CoupletIndex": 35,
       "SectionIndex1": 5,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: همهٔ دیوانگان برای نشان دادن قدرت خود تلاش می‌کنند."
     },
     {
       "VOrder": 51,
@@ -621,7 +657,8 @@
       "Text": "ریشِ ژاندارمری و ریشۀ خود قَمع کنند",
       "CoupletIndex": 36,
       "SectionIndex1": 5,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: ریشۀ ژاندارمری و ریشۀ خود را حتماً باید از بین ببرند."
     },
     {
       "VOrder": 52,
@@ -636,7 +673,8 @@
       "Text": "گوش کن عقلِ من از خِسَّت تو بیشترست",
       "CoupletIndex": 38,
       "SectionIndex1": 5,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: به حرف‌هایم گوش کن، عقل من از حسادت تو بیشتر است. دیگر اینقدر بی‌جهت هیجان‌زده نشو، این نوع عصبانیت فایده‌ای ندارد."
     },
     {
       "VOrder": 54,
@@ -652,7 +690,8 @@
       "Text": "",
       "CoupletIndex": 39,
       "SectionIndex1": 5,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: خوشا به حال تو که در هر جا زینت و زیبایی موجودی."
     },
     {
       "VOrder": 56,
@@ -668,7 +707,8 @@
       "Text": "جان که باقیست ضررهایِ دگر مختصرست",
       "CoupletIndex": 40,
       "SectionIndex1": 5,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: تا وقتی که زندگی ادامه دارد، مشکلات و ضررهای دیگر اهمیت چندانی ندارند."
     },
     {
       "VOrder": 58,
@@ -676,7 +716,8 @@
       "Text": "خیز و هر جایِ فرنگستان خواهی که برو",
       "CoupletIndex": 41,
       "SectionIndex1": 5,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: بیدار شو و به هر کجای دنیا که دوست داری برو."
     },
     {
       "VOrder": 59,
@@ -684,7 +725,8 @@
       "Text": "بیش ازین باعثِ خون ریختنِ خلق مشو",
       "CoupletIndex": 42,
       "SectionIndex1": 5,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: دیگر باعث کشتن و خون‌ریزی مردم مشو."
     },
     {
       "VOrder": 60,
@@ -692,7 +734,8 @@
       "Text": "آتش فتنه ز هر گوشه برافروخته شد",
       "CoupletIndex": 43,
       "SectionIndex1": 5,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: آتش نزاع و مشکلات از هر طرف شعله‌ور شده است و در نتیجه، وجود و زندگی هر دو گروه، چه فقیر و چه غنی، به باد رفته و نابود شده است."
     },
     {
       "VOrder": 61,
@@ -708,7 +751,8 @@
       "Text": "",
       "CoupletIndex": 44,
       "SectionIndex1": 5,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: هر مقداری که می‌خواستی پول جمع‌آوری شده است."
     },
     {
       "VOrder": 63,
@@ -724,7 +768,8 @@
       "Text": "پارگی‌هایِ خراسان تو هم دوخته شد",
       "CoupletIndex": 45,
       "SectionIndex1": 5,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: پارگی‌های خراسان به هم پیوند خوردند و ترمیم شدند."
     },
     {
       "VOrder": 65,
@@ -732,7 +777,8 @@
       "Text": "بیش ازین صرفه ازین مُلک پریشان نَبَری",
       "CoupletIndex": 46,
       "SectionIndex1": 5,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: دیگر از این به بعد بیشتر از این در ویرانی و آشفتگی این سرزمین خرج نکن."
     },
     {
       "VOrder": 66,
@@ -740,14 +786,16 @@
       "Text": "غیر بد نامیِ آشوب خراسان نبری",
       "CoupletIndex": 47,
       "SectionIndex1": 5,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: تنها نشانه‌ای که از ناآرامی‌های خراسان باقی مانده، بدنامی آن است."
     },
     {
       "VOrder": 67,
       "Position": "Paragraph",
       "Text": "مشار الملک که به مجلس وارد و از قضیه مستحضر شده می گوید:",
       "CoupletIndex": 48,
-      "SectionIndex1": 4
+      "SectionIndex1": 4,
+      "CoupletSummary": "هوش مصنوعی: مشار الملک که وارد مجلس شده و از موضوع مطلع گشته، می‌گوید:"
     },
     {
       "VOrder": 68,
@@ -755,7 +803,8 @@
       "Text": "امشب اوقات شریف تو چرا خندان نیست",
       "CoupletIndex": 49,
       "SectionIndex1": 5,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: امشب چرا توضاعی شاد و خندان نیستی؟ درست است که این مشکل به دل انسان آسیب نمی‌زند."
     },
     {
       "VOrder": 69,
@@ -771,7 +820,8 @@
       "Text": "",
       "CoupletIndex": 50,
       "SectionIndex1": 5,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: اما این ضرر به قدری بزرگ نیست که اهمیت زیادی داشته باشد."
     },
     {
       "VOrder": 71,
@@ -787,7 +837,8 @@
       "Text": "وز سلامی و سِده صرف نظر آسان نیست",
       "CoupletIndex": 51,
       "SectionIndex1": 5,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: از آن سلام و حال و احوال خوش بگذریم، ولی کناره‌گیری از آن آسان نیست."
     },
     {
       "VOrder": 73,
@@ -795,7 +846,8 @@
       "Text": "که به کُشتن بدهی خیلِ مسلمانان را",
       "CoupletIndex": 52,
       "SectionIndex1": 5,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: این بیت به طور کلی اشاره دارد به کشتار و آسیب‌هایی که به مسلمانان وارد می‌شود و نشان‌دهنده نگرانی یا انتقادی نسبت به چنین وقایعی است. در واقع، شاعر به شرایط سخت و مشکلاتی که بر مسلمانان تحمیل می‌شود، پرداخته و به اهمیت توجه به این مسائل اشاره دارد."
     },
     {
       "VOrder": 74,
@@ -803,7 +855,8 @@
       "Text": "دشمن خویش کنی قاطبه ایران را",
       "CoupletIndex": 53,
       "SectionIndex1": 5,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: اگر با دشمن خود، تمامی مردم ایران را به مخالفت واداری، در واقع خود را در مقابل همه آنها قرار داده‌ای."
     },
     {
       "VOrder": 75,
@@ -811,7 +864,8 @@
       "Text": "وانگهی کیست که فرمان ترا گوش کند",
       "CoupletIndex": 54,
       "SectionIndex1": 5,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: سپس کیست که به فرمان تو گوش دهد و به خاطر دل تو رنج و مشکلات را تحمل کند؟"
     },
     {
       "VOrder": 76,
@@ -827,7 +881,8 @@
       "Text": "",
       "CoupletIndex": 55,
       "SectionIndex1": 5,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: کیست آن فرد نادان که این نکته را فراموش کند؟"
     },
     {
       "VOrder": 78,
@@ -843,7 +898,8 @@
       "Text": "زن و فرزند به راهِ تو سیَه پوش کند",
       "CoupletIndex": 56,
       "SectionIndex1": 5,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: زن و فرزند برای راه تو به خود سیاه می‌پوشند، یعنی آن‌ها به خاطر تو غمگین و ناراخت هستند و این نشان‌دهنده عشق و وفاداری‌شان به توست."
     },
     {
       "VOrder": 80,
@@ -851,7 +907,8 @@
       "Text": "که نجنگیده و ننشانده فرو کینهٔ تو",
       "CoupletIndex": 57,
       "SectionIndex1": 5,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: این فرد که نبرد نکرده و به دلخوری تو توجه نکرده است، از دوری و اختلاف بی‌خبر است."
     },
     {
       "VOrder": 81,
@@ -859,7 +916,8 @@
       "Text": "ناگهان سر بِرِسَد دورهٔ کابینهٔ تو",
       "CoupletIndex": 58,
       "SectionIndex1": 5,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: ناگهان دورهٔ مسئولیت و کار تو به پایان می‌رسد."
     },
     {
       "VOrder": 82,
@@ -867,7 +925,8 @@
       "Text": "در من از تقویتِ کارِ تو کوتاهی نیست",
       "CoupletIndex": 59,
       "SectionIndex1": 5,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: من در انجام کارهای تو هیچ کم کاری نمی‌کنم، اما بیشتر از این نتواسته‌ام که در کنار تو باشم."
     },
     {
       "VOrder": 83,
@@ -883,7 +942,8 @@
       "Text": "",
       "CoupletIndex": 60,
       "SectionIndex1": 5,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: پادشاه از کارهای تو بی‌خبر است."
     },
     {
       "VOrder": 85,
@@ -899,7 +959,8 @@
       "Text": "در من آنقدر خیانت که تو می خواهی نیست",
       "CoupletIndex": 61,
       "SectionIndex1": 5,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: در وجود من آنقدر بی‌وفایی که تو انتظارش را داری وجود ندارد."
     },
     {
       "VOrder": 87,
@@ -907,7 +968,8 @@
       "Text": "لیک تا چند توان مسأله را پنهان کرد؟",
       "CoupletIndex": 62,
       "SectionIndex1": 5,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: اما تا کی می‌توان مسأله را پنهان نگه‌داشت؟"
     },
     {
       "VOrder": 88,
@@ -915,7 +977,8 @@
       "Text": "شاه را غافل و یک ناحیه را ویران کرد؟",
       "CoupletIndex": 63,
       "SectionIndex1": 5,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: شاه را غافل کرده و یک منطقه را نابود ساخت؟"
     },
     {
       "VOrder": 89,
@@ -923,7 +986,8 @@
       "Text": "بکن آن کار که کَردَست وثوق الدوله",
       "CoupletIndex": 64,
       "SectionIndex1": 5,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: آن کار را انجام بده که وثوق‌الدوله انجام داد، دیگر هیچ چیزی برای وطن منحرف نشود و مسیرش را عوض نکند."
     },
     {
       "VOrder": 90,
@@ -939,7 +1003,8 @@
       "Text": "",
       "CoupletIndex": 65,
       "SectionIndex1": 5,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: والس را با مادموازل ژاکوله می‌رقصند."
     },
     {
       "VOrder": 92,
@@ -955,7 +1020,8 @@
       "Text": "در هتل مقعد خود پاک کند با هوله",
       "CoupletIndex": 66,
       "SectionIndex1": 5,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: در هتل با دستمال مشغول به تمیز کردن خود است."
     },
     {
       "VOrder": 94,
@@ -963,7 +1029,8 @@
       "Text": "برده پولی و کنون با دل خوش خرج کند",
       "CoupletIndex": 67,
       "SectionIndex1": 5,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: او پولی به دست آورده و حالا با دل شاد از آن خرج می‌کند."
     },
     {
       "VOrder": 95,
@@ -971,7 +1038,8 @@
       "Text": "متّصل قِر دِهَد و فِر زَنَد و فرج کند",
       "CoupletIndex": 68,
       "SectionIndex1": 5,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: این بیت بیانگر این است که فردی با مهارت و توانایی‌های خاص خود، به دیگران کمک می‌کند و مسائل را حل کرده و مشکلات را برطرف می‌سازد. او می‌تواند ارتباط‌ها را برقرار کند و موانع را از سر راه بردارد."
     },
     {
       "VOrder": 96,
@@ -979,7 +1047,8 @@
       "Text": "حالیه وقت فرنگ است بجنبان تنه را",
       "CoupletIndex": 69,
       "SectionIndex1": 5,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: این زمانی است که زمان خوشی و فراغت است، بنابراین باید حرکت کنی و خودت را هم با خودت به همراه ببری، همچنین به کسی که به او اعتماد داری نیز توجه کن."
     },
     {
       "VOrder": 97,
@@ -995,7 +1064,8 @@
       "Text": "",
       "CoupletIndex": 70,
       "SectionIndex1": 5,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: لذتی که در سفر تنهایی وجود دارد، در هیچ جای دیگر پیدا نمی‌شود."
     },
     {
       "VOrder": 99,
@@ -1011,7 +1081,8 @@
       "Text": "از تنِ مالیۀ مُلک بِکَن این کَنِه را",
       "CoupletIndex": 71,
       "SectionIndex1": 5,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که باید از بار مالی و مشکلات مالی کشور بکاهی و آن را کنار بگذاری."
     },
     {
       "VOrder": 101,
@@ -1019,7 +1090,8 @@
       "Text": "بگذار آتش افروخته خاموش شود",
       "CoupletIndex": 72,
       "SectionIndex1": 5,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: اجازه بده که آتش روشن شده خود به خود خاموش شود."
     },
     {
       "VOrder": 102,
@@ -1027,7 +1099,8 @@
       "Text": "ضرَرِ اسب و سِدهِ نیز فراموش شود",
       "CoupletIndex": 73,
       "SectionIndex1": 5,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: ضرر و زیان اسب و سده نیز به زودی فراموش خواهد شد."
     }
   ]
 }

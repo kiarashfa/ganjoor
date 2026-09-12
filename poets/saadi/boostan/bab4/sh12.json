@@ -381,7 +381,8 @@
       "Text": "کسی راه معروف کرخی بجست",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "کسی به‌راه «معروف کرخی» راه یافت؛ که در قدم اول، غرور را کنار بگذارد."
     },
     {
       "VOrder": 2,
@@ -397,7 +398,8 @@
       "Text": "شنیدم که مهمانش آمد یکی",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "شنیده‌ام که مهمانی برای او آمد که تا مرگ فاصله زیادی نداشت."
     },
     {
       "VOrder": 4,
@@ -413,7 +415,8 @@
       "Text": "سرش موی و رویش صفا ریخته",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "موی از سر او ریخته و رویش پیر گشته‌بود و جانش به مویی بند بود."
     },
     {
       "VOrder": 6,
@@ -429,7 +432,8 @@
       "Text": "شب آنجا بیفکند و بالش نهاد",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "شب در آنجا ماند و سر بر بالش نهاد و یک‌سره از بیماری آه و ناله می‌کرد."
     },
     {
       "VOrder": 8,
@@ -445,7 +449,8 @@
       "Text": "نه خوابش گرفتی شبان یک نفس",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "نه می‌خوابید و نه‌کسی می‌توانست از دست فریاد او بخوابد."
     },
     {
       "VOrder": 10,
@@ -461,7 +466,8 @@
       "Text": "نهادی پریشان و طبعی درشت",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "درونی پریشان داشت و اخلاقی درشت و زشت؛ نمی‌مرد و جمعی را کشت."
     },
     {
       "VOrder": 12,
@@ -477,7 +483,8 @@
       "Text": "ز فریاد و نالیدن و خفت و خیز",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "از فریاد و ناله و ناآرامی او، مردم از آنجا گریختند."
     },
     {
       "VOrder": 14,
@@ -493,7 +500,8 @@
       "Text": "ز دیار مردم در آن بقعه کس",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "در آن بقعه هیچ‌کس نماند جز معروف و آن بیمار."
     },
     {
       "VOrder": 16,
@@ -509,7 +517,8 @@
       "Text": "شنیدم که شبها ز خدمت نخفت",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "شنیده‌ام که شب‌ها از پرستاری و خدمت نمی‌خوابید و همچون جوانمردان بر پای حرف خود ایستاد و کرد آنچه گفت."
     },
     {
       "VOrder": 18,
@@ -525,7 +534,8 @@
       "Text": "شبی بر سرش لشکر آورد خواب",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "یک شب‌، خواب بر او حمله‌کرد؛ آخر آدمی چقدر توان نخوابیدن دارد؟"
     },
     {
       "VOrder": 20,
@@ -541,7 +551,8 @@
       "Text": "به یک دم که چشمانش خفتن گرفت",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "یک لحظه که چشمانش را برای خوابیدن بست؛ آن مرد مهمان، پراکنده گفتن و پرت و پلا گفتن را شروع کرد."
     },
     {
       "VOrder": 22,
@@ -557,7 +568,8 @@
       "Text": "که لعنت بر این نسل ناپاک باد",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "که لعنت بر این نسل ناپاک و گناهکار باد که ادعای نام و غیرت دارند اما در عمل دروغ هستند و باد."
     },
     {
       "VOrder": 24,
@@ -573,7 +585,8 @@
       "Text": "پلید اعتقادان پاکیزه پوش",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "درون و عقیده آنان ناپاک است و بیرون و ظاهرشان پاک؛ آدمیانی هستند ریاکار."
     },
     {
       "VOrder": 26,
@@ -589,7 +602,8 @@
       "Text": "چه داند لت انبانی از خواب مست",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "یک آدم لت‌انبان که مست خواب است چطور حال یک بیمار را که نمی‌تواند بخوابد، بفهمد؟"
     },
     {
       "VOrder": 28,
@@ -605,7 +619,8 @@
       "Text": "سخنهای منکر به معروف گفت",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "از این حرف‌های زشت، به معروف گفت؛ که چرا یک‌لحظه خوابید."
     },
     {
       "VOrder": 30,
@@ -621,7 +636,8 @@
       "Text": "فرو خورد شیخ این حدیث از کرم",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "آن شیخ بزرگوار، چیزی نگفت و پوشیدگان اهل‌خانه، ماجرا را شنیدند."
     },
     {
       "VOrder": 32,
@@ -637,7 +653,8 @@
       "Text": "یکی گفت معروف را در نهفت",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "یکی در خلوت به معروف گفت که خود دیدی و شنیدی آن درویش بیمار چه‌چیزهایی به‌تو گفت."
     },
     {
       "VOrder": 34,
@@ -653,7 +670,8 @@
       "Text": "برو زین سپس گو سر خویش گیر",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "پس از این‌پس به‌او بگو\u00A0 به جایی دیگر برود؛ اذیت نکند و در جایی دیگر بمیرد."
     },
     {
       "VOrder": 36,
@@ -669,7 +687,8 @@
       "Text": "نکویی و رحمت به جای خود است",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "نیکوکاری و مهربانی جای خود دارد اما با بدان‌، نیکویی کردن بد است."
     },
     {
       "VOrder": 38,
@@ -685,7 +704,8 @@
       "Text": "سر سفله را گرد بالش منه",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "آدم فرومایه را «گِرد بالش» و راحتی مده؛ همان بهتر که آدم مردم‌آزار در سختی باشد. (یا بمیرد)"
     },
     {
       "VOrder": 40,
@@ -701,7 +721,8 @@
       "Text": "مکن با بدان نیکی ای نیکبخت",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "ای نیکبخت! با بدان نیکویی مکن زیرا نادان است که در شوره‌زار‌، درخت می‌کارد."
     },
     {
       "VOrder": 42,
@@ -717,7 +738,8 @@
       "Text": "نگویم مراعات مردم مکن",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "نمی‌گویم به مردم نیکی مکن؛ بلکه می‌گویم نیکویی را صرف نامردمان و فرومایگان مکن."
     },
     {
       "VOrder": 44,
@@ -733,7 +755,8 @@
       "Text": "به اخلاق نرمی مکن با درشت",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "به آدم بدخلق و درشت‌، مهربانی مکن که هیچ‌کس پشت سگ را مثل گربه نوازش نمی‌کند."
     },
     {
       "VOrder": 46,
@@ -749,7 +772,8 @@
       "Text": "گر انصاف خواهی سگ حق شناس",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "اگر راستش را بخواهی یک سگ حق‌شناس و باوفا‌، از مردم ناسپاس و ناشُکر‌، خوش‌سیرت‌تر است.\u00A0"
     },
     {
       "VOrder": 48,
@@ -765,7 +789,8 @@
       "Text": "به برفاب رحمت مکن بر خسیس",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "شربت خنک را به آدم فرومایه مده که اگر دادی آن را باطل و بیهوده بدان."
     },
     {
       "VOrder": 50,
@@ -781,7 +806,8 @@
       "Text": "ندیدم چنین پیچ بر پیچ کس",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "تا حالا آدم عوضی و پیچ‌بر‌پیچ مثل این ندیده‌ام‌، به این آدم فرومایه محبت مکن."
     },
     {
       "VOrder": 52,
@@ -797,7 +823,8 @@
       "Text": "بخندید و گفت ای دلارام جفت",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "معروف خندید و گفت‌: ای همسر مهربان، ناراحت مشو از این حرف‌های پریشان که گفت."
     },
     {
       "VOrder": 54,
@@ -813,7 +840,8 @@
       "Text": "گر از ناخوشی کرد بر من خروش",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "اگر از درد بیماری چیز بدی به‌من گفت، آن حرف‌های ناخوش او‌، برای من خوش بود."
     },
     {
       "VOrder": 56,
@@ -829,7 +857,8 @@
       "Text": "جفای چنین کس نباید شنود",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "نباید به این حرف‌های درشت توجه کرد زیرا نمی‌تواند از بی‌قراری و بی‌تابی بخوابد."
     },
     {
       "VOrder": 58,
@@ -845,7 +874,8 @@
       "Text": "چو خود را قوی حال بینی و خوش",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "وقتی سالم و سرحال هستی، به شکرانه این نعمت به ضعیفان کمک کن."
     },
     {
       "VOrder": 60,
@@ -861,7 +891,8 @@
       "Text": "اگر خود همین صورتی چون طلسم",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "اگر آدمی همین صورت ظاهر و جسم باشد، پس از مرگ هم یادی از او نمی‌ماند."
     },
     {
       "VOrder": 62,
@@ -877,7 +908,8 @@
       "Text": "وگر پرورانی درخت کرم",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "اما اگر درخت بخشندگی و لطف بپرورانی، از نیک‌نامی و ثواب بهره می‌بری."
     },
     {
       "VOrder": 64,
@@ -893,7 +925,8 @@
       "Text": "نبینی که در کرخ تربت بسی است",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "نمی‌بینی که در کرخ، آرامگاه و تربت زیاد است اما جز گور معروف هیچ‌کدام شناخته‌شده نیست؟"
     },
     {
       "VOrder": 66,
@@ -909,7 +942,8 @@
       "Text": "به دولت کسانی سر افراختند",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "کسانی نیک‌بخت و سعادتمند گشتند که تاج غرور و تکبر را دور انداختند."
     },
     {
       "VOrder": 68,
@@ -925,7 +959,8 @@
       "Text": "تکبر کند مرد حشمت پرست",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "آدم‌ ِ بزرگی‌خواه‌، تکبّر می‌ورزد اما نمی‌داند که بزرگی در تواضع است."
     },
     {
       "VOrder": 70,

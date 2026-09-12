@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "اگر به بند زمانه کسی شود محبوس",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی در چه زمانی گرفتار شود، دیگران از او می‌پرسند که حالش چگونه است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "منم که گر به غلط چون کسی برد نامم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من همان کسی هستم که اگر به اشتباه کسی نام مرا ببرد، او هزار بار از ترس عذرخواهی می‌کند."
     },
     {
       "VOrder": 4,

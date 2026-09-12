@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "امروز اگر خطا سراپا نکنی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر امروز اشتباهی نداشته باشی، فردا نیازی به شکایت از وکیل نخواهی داشت."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "رأی تو قباله است آن را ای دوست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دوست، نظر تو برای من اعتبار و ارزش دارد؛ بنابراین مراقب باش که مبادا دشمن آن را به امضا برساند."
     },
     {
       "VOrder": 4,

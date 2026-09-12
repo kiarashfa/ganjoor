@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای نفس اگر خاک تو بر باد شود",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای جان، اگر خاک تو به باد برود، این باعث می‌شود که هم دشمنان و هم دوستان از تو رها شوند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "هم دوست به نیکی ز غمت باز رهد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هم دوست تو برایت خوشحال می‌شود و از غم تو رها می‌شود، هم دشمن تو از مرگ تو خوشحال خواهد شد."
     },
     {
       "VOrder": 4,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "این یک دو سه روز نوبت عمر گذشت",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "عمر‌ِ کوتاه و چند روزه گذشت، به‌سرعت آب در جویبار و باد در دشت."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "هرگز غم دو روز مرا یاد نگشت",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هرگز غم دو روز را نخوردم روزی که رفت و روزی که نیامده است."
     },
     {
       "VOrder": 4,

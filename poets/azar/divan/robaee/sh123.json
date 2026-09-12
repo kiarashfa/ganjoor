@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای شوخ! فراق تو کشیدن مشکل",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای شوخ! دوری تو برای من سخت و دشوار است. وقتی که از من دور می‌شوی، دیگر نمی‌توانم با این مشکل کنار بیایم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گفتی که: بگوی حال خود، تا شنوم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفتی حال خود را بگو تا من بشنوم. گفتن کار راحتی است، اما شنیدن آن برای من دشوار است!"
     },
     {
       "VOrder": 4,

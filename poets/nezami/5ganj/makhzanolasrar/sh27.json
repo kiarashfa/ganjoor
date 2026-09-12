@@ -391,7 +391,8 @@
       "Text": "پیرزنی را ستمی درگرفت",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "به پیرزنی ظلم شد؛ دست به‌دامن سلطان سنجر زد و از او کمک خواست. (بعد از مرگ ملکشاه سلجوقی، فرزندان وی برای کسب قدرت به جنگ پرداختند و جنگ داخلی باعث ناامنی و قتل و غارت و بد شدن وضعیت اقتصادی مردم شد، یکی از فرزندان ملکشاه در این جنگ داخلی که حاکم خراسان بود، سنجر نام داشت که همان سلطان سنجر این داستان است)"
     },
     {
       "VOrder": 2,
@@ -407,7 +408,8 @@
       "Text": "کای ملک آزرم تو کم دیده‌ام",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "که ای شاه، ملایمت و لطف از تو کم دیده‌ام اما همه‌ساله ظلم و ستم از تو دیده‌ام."
     },
     {
       "VOrder": 4,
@@ -423,7 +425,8 @@
       "Text": "شحنهٔ مست آمده در کوی من",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "شحنهٔ مست و بی‌رحم تو در خانه و کوی من آمده و مرا لگدکوب کرده‌است."
     },
     {
       "VOrder": 6,
@@ -439,7 +442,8 @@
       "Text": "بی‌گُنه از خانه به‌رویم کشید",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "مرا بی‌گناه و بی‌جرم از خانه و موی‌کشان بر سر کوی کشید."
     },
     {
       "VOrder": 8,
@@ -455,7 +459,8 @@
       "Text": "در ستم‌آبادِ زبانم نهاد",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "آبرویم را بُرد و مرا بر سر زبان‌ها و ستم‌آبادِ دهان‌ها انداخت. و با این ستم و رسوایی، درب خانه‌ام را مُهر کرد. (یا مرا دشنام داد و به من تهمت زد)"
     },
     {
       "VOrder": 10,
@@ -471,7 +476,8 @@
       "Text": "گفت: «فلان نیم‌شب ای گوژپشت",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "گفت ای پیرزن گوژپشت، فلان نصف شب چه‌کسی فلانی را بر سر کوی تو کُشت؟"
     },
     {
       "VOrder": 12,
@@ -487,7 +493,8 @@
       "Text": "خانهٔ من جست که «خونی کجاست؟»",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "خونی یعنی قاتل"
     },
     {
       "VOrder": 14,
@@ -503,7 +510,8 @@
       "Text": "شحنه بود مست که آن خون کند",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "آن‌کسی که کُشته‌، شحنه‌ای مست و خونریز بوده؛ چرا پیرزنی را متهم می‌کند؟"
     },
     {
       "VOrder": 16,
@@ -519,7 +527,8 @@
       "Text": "رطل‌زنان دخلِ ولایت برند",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "با عیش و نوش و سرور، ثروت‌ها را می‌برند و پیره‌زنان و بی‌گناهان را متهم به جنایت می‌کنند."
     },
     {
       "VOrder": 18,
@@ -535,7 +544,8 @@
       "Text": "آنکه درین ظلم نظر داشته‌ست",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هرکسی که باعث این ظلم شده، (زنی مثل) مرا بی‌آبرو کرده و عدل را از تو دور کرده‌است."
     },
     {
       "VOrder": 20,
@@ -551,7 +561,8 @@
       "Text": "کوفته شد سینهٔ مجروح من",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "سینه و درون من از غم و درد‌، کوفته و مجروح است؛ از من و از جان من هیچ نماند."
     },
     {
       "VOrder": 22,
@@ -567,7 +578,8 @@
       "Text": "گر ندهی داد من ای شهریار",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "ای شهریار، اگر حق مرا ندهی، روز قیامت، مدیون خواهی بود."
     },
     {
       "VOrder": 24,
@@ -583,7 +595,8 @@
       "Text": "داوری و داد نمی‌بینمت",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "عدل و دادگری تو را نمی‌بینم؛ تو را از ظلم و ستم‌، پاک و مُبرّا نمی‌دانم."
     },
     {
       "VOrder": 26,
@@ -599,7 +612,8 @@
       "Text": "از ملکان قوّت و یاری رسد",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "از پادشاهان باید کمک و مِهر برسد؛ ببین از تو چه ذلّت و خواری به‌ما می‌رسد."
     },
     {
       "VOrder": 28,
@@ -615,7 +629,8 @@
       "Text": "مال یتیمان ستدن، ساز نیست",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "مال یتیمان و بی‌پناهان را گرفتن، روا و درست نیست؛ از این فراتر است (غارت و چپاول است)‌، غارت ابخاز که نیست."
     },
     {
       "VOrder": 30,
@@ -631,7 +646,8 @@
       "Text": "بر پَلهٔ پیره‌زنان ره مزن",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "پله اول یعنی پول کم ، پله دوم یعنی موی پیرزنان"
     },
     {
       "VOrder": 32,
@@ -647,7 +663,8 @@
       "Text": "بنده‌ای و دعوی شاهی کنی",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "بنده‌ای هستی که ادعای شاهی می‌کنی؛ تو شاه نیستی، چونکه ظلم می‌کنی."
     },
     {
       "VOrder": 34,
@@ -663,7 +680,8 @@
       "Text": "شاه که ترتیب ولایت کند",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "شاه و حاکمی که حکومت می‌کند‌، باید دادگر باشد و با مردم عادلانه رفتار کند."
     },
     {
       "VOrder": 36,
@@ -679,7 +697,8 @@
       "Text": "تا همه سر بر خط فرمان نهند",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "تا همگان پیروی کنند و مهر و محبت او را در دل و جان خود بنهند."
     },
     {
       "VOrder": 38,
@@ -695,7 +714,8 @@
       "Text": "عالم را زیر و زبر کرده‌ای",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "همه‌چیز را زیر و زبر کرده‌ای؛ آخر چه هنر کرده‌ای؟ و چه سود رسانده‌ای؟"
     },
     {
       "VOrder": 40,
@@ -711,7 +731,8 @@
       "Text": "دولت ترکان که بلندی گرفت",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "اقبال ترکان (پیشینیان تو) که بلندی گرفت؛ آن اقبال را از دادگری به‌دست آوردند."
     },
     {
       "VOrder": 42,
@@ -727,7 +748,8 @@
       "Text": "چونکه تو بیدادگری پروری",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "وقتی که تو ظلم کنی؛ ترک نیستی بلکه یک راهزن غارتگر هستی."
     },
     {
       "VOrder": 44,
@@ -743,7 +765,8 @@
       "Text": "مسکن شهری ز تو ویرانه شد",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "خانهٔ\u00A0شهرنشینان از تو ویران شد و دهقانان، فقیر و بی‌چیز شدند."
     },
     {
       "VOrder": 46,
@@ -759,7 +782,8 @@
       "Text": "زآمدن مرگ شماری بکن",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "از آمدن مرگ بیندیش؛ اکنون که می‌توانی‌، دادگری کن. (حصار کردن یعنی قلعه ساختن و در اینجا به‌معنی محافظت کردن از مردم است در برابر ظلم)"
     },
     {
       "VOrder": 48,
@@ -775,7 +799,8 @@
       "Text": "عدل تو قندیلِ شب‌افروز توست",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "آنچه که در شب ظلمت‌، به‌تو روشنایی می‌دهد، دادگری و عدل توست و آنچه در فردای قیامت، به‌تو کمک خواهد کرد، کارهای امروز توست."
     },
     {
       "VOrder": 50,
@@ -791,7 +816,8 @@
       "Text": "پیرزنان را به سخن شاد دار",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "پیرزنان و ضعیفان و بی‌پناهان را خرسند و شاد بگردان؛ این پند را از پیرزنی بشنو."
     },
     {
       "VOrder": 52,
@@ -807,7 +833,8 @@
       "Text": "دست بدار از سر بیچارگان",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "یاسج یعنی تیر پیکان‌دار، معنی بیت: به ضعفا ستم نکن تا تیرِ آهِ آن دل‌سوختگان را نخوری"
     },
     {
       "VOrder": 54,
@@ -823,7 +850,8 @@
       "Text": "چند زنی تیر به هر گوشه‌ای؟",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "تا کی به‌هر طرف تیر می‌افکنی و به‌همه ظلم می‌کنی؟ و از توشه تهی‌دستان غافل هستی."
     },
     {
       "VOrder": 56,
@@ -839,7 +867,8 @@
       "Text": "فتح جهان را تو کلید آمدی",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "تو برای گشایش مشکلات مردم هستی؛ تو برای ظلم و ستم نیستی."
     },
     {
       "VOrder": 58,
@@ -855,7 +884,8 @@
       "Text": "شاه بدانی که جفا کم کنی",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "برای این شاه شده‌ای که ستم را از میان برداری و اگر دیگران زخم می‌زنند، تو مداوا کنی."
     },
     {
       "VOrder": 60,
@@ -871,7 +901,8 @@
       "Text": "رسم ضعیفان به تو نازش بود",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "رسم ضعیفان و بی‌پناهان‌، نازش و اتّکا به‌تو باشد؛ و رسم تو باید نوازش و مهربانی باشد."
     },
     {
       "VOrder": 62,
@@ -887,7 +918,8 @@
       "Text": "گوش به دریوزهٔ انفاس دار",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "مواظب خواست و طلب دعاها باش؛ گوشه‌نشینان و مظلومان را محافظت کن."
     },
     {
       "VOrder": 64,
@@ -903,7 +935,8 @@
       "Text": "سنجر، کاقلیم خراسان گرفت",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "سنجر که اقلیم و حکومت خراسان را به‌دست آورد؛ عاقبت زیان‌کرد زیرا این پند را نادیده گرفت."
     },
     {
       "VOrder": 66,
@@ -919,7 +952,8 @@
       "Text": "داد در این دور برانداخته‌ست",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "عدل و داد در دوران تو، از میان رفته‌ و بسیار دور از دست‌رس است در جایی همچون پر سیمرغ!"
     },
     {
       "VOrder": 68,
@@ -935,7 +969,8 @@
       "Text": "شرم درین طارم ازرق نماند",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "شرم و حیا در این آسمان نیلگون نمانده؛ آبرویی در این خاک نمانده."
     },
     {
       "VOrder": 70,
@@ -951,7 +986,8 @@
       "Text": "خیز نظامی ز حد افزون گِری",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "برخیز نظامی، و بیش از حد گریه‌کن؛ بر این دل پرخون و پردرد خون‌گریه‌کن."
     },
     {
       "VOrder": 72,

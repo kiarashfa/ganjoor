@@ -231,7 +231,8 @@
       "Text": "ای نوگل باغ زندگانی",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای گل تازه زندگی، تو از جوانی هم برتر و بهتر هستی."
     },
     {
       "VOrder": 2,
@@ -247,7 +248,8 @@
       "Text": "ای شبنم صبح در لطافت",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: ای شبنم صبح، تو چه لطیف و زیبا هستی؛ ای چمن تازه، تو نیز در تمیزی خود مثال‌زدنی هستی."
     },
     {
       "VOrder": 4,
@@ -263,7 +265,8 @@
       "Text": "ای بلبل نغمه‌سنج ایام",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: ای بلبل خوش‌صدا، که در هر زمانی نغمه می‌خوانی و همچون نوری زیبا در دل‌ها می‌تابی."
     },
     {
       "VOrder": 6,
@@ -279,7 +282,8 @@
       "Text": "مام تو چو آفتاب زاده",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: این بیت به نوعی به تمایز و برتری ویژگی‌های فردی اشاره دارد. می‌گوید: وقتی تو، که مانند آفتاب تابان هستی، چگونه ممکن است نامت به قمر نسبت داده شود؟ به این معناست که فرد باید به ارزش و درخشندگی واقعی خود پی ببرد و از مقایسه با دیگران، که ممکن است کمتر درخشان باشند، پرهیز کند."
     },
     {
       "VOrder": 8,
@@ -295,7 +299,8 @@
       "Text": "زحمت به‌تو، دست آسمان داد",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: زحمتی که تو کشیدی به آسمان نسبت داده شده و لعنت به سرشت آسمان که این‌گونه عمل می‌کند."
     },
     {
       "VOrder": 10,
@@ -311,7 +316,8 @@
       "Text": "گردون نبود به ذات اگر دون",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: اگر آسمان ذاتاً پست باشد، پس چرا دست تو آسمان را شکسته است؟"
     },
     {
       "VOrder": 12,
@@ -327,7 +333,8 @@
       "Text": "دستی که به کس جفا نکرده",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: دستی که به کسی ظلم نکرده، در زمان خود اشتباهی انجام نداده است."
     },
     {
       "VOrder": 14,
@@ -343,7 +350,8 @@
       "Text": "دستی که کند ز خوش ضمیری",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: دستی که به خاطر نیکی و خوش قلبی به یتیمان کمک کند، ارزشمند و قابل احترام است."
     },
     {
       "VOrder": 16,
@@ -359,7 +367,8 @@
       "Text": "ای چرخ ترا اگرچه دین نیست",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: ای چرخ روزگار، هرچند که اعتقادی به تو ندارم، اما می‌دانم که ممکن است چیزی که در دست توست، نشکند."
     },
     {
       "VOrder": 18,
@@ -375,7 +384,8 @@
       "Text": "بشکستی اگر به حیله این دست",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اگر با نیرنگ این دست را بشکنی، این دست دیگر چگونه این‌گونه وجود دارد؟"
     },
     {
       "VOrder": 20,
@@ -391,7 +401,8 @@
       "Text": "دست تو به قلب ماست بسته",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: دست تو بر قلب ما قرار دارد و به همین دلیل است که قلب ما شکسته شده است."
     },
     {
       "VOrder": 22,
@@ -407,7 +418,8 @@
       "Text": "تیرافکن آسمان به یک‌دم",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: آسمان در یک لحظه به خاطر دست تو شکسته و قلب جهانی را داغدار کرده است."
     },
     {
       "VOrder": 24,
@@ -423,7 +435,8 @@
       "Text": "یک تیر و هزارها نشانه",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: یک تیر می‌تواند به هدف‌های زیادی بخورد، پس لعنت بر کمان و تقدیر."
     },
     {
       "VOrder": 26,
@@ -439,7 +452,8 @@
       "Text": "ای چرخ ستمگر جفاکار",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: ای روزگار بی‌رحم و ستمگر، لطفاً از زندگی من دست بردار و به من آرامش بده."
     },
     {
       "VOrder": 28,
@@ -455,7 +469,8 @@
       "Text": "بربند نظر تو زین نشانه",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: به توجه به نشانه‌های منفی و دشواری‌های زندگی، نگاهت را از آنها دور کن. زمانه، در برخی مواقع، هیچ باروری و ثمری ندارد."
     },
     {
       "VOrder": 30,
@@ -471,7 +486,8 @@
       "Text": "صد قرن هزار ساله باید",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: برای به‌وجود آوردن یک انسان برجسته و بافضیلت مانند قمرالملوک، به زمانی بسیار طولانی و نه چندان ساده نیاز است؛ گویی باید صد قرن و هزار سال سپری شود تا چنین انسانی متولد شود."
     },
     {
       "VOrder": 32,
@@ -487,7 +503,8 @@
       "Text": "ایران که دو صد قمر ندارد",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: ایران که هیچ‌گاه زنانش همچون او را ندارد، هیچ زنی چنین ویژگی‌های هنری و زیبایی نداشته است."
     },
     {
       "VOrder": 34,
@@ -503,7 +520,8 @@
       "Text": "در زیر حجاب‌ زشت‌،‌ حوری‌ است",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: در زیر ظاهر زشت، زیبایی نهفته است؛ در ابرهای تاریک، نوری پنهان وجود دارد."
     },
     {
       "VOrder": 36,
@@ -519,7 +537,8 @@
       "Text": "بگذار برای ما بماند",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: بگذار صدای شاد و نشاط‌آور برای ما باقی بماند و بخواند."
     },
     {
       "VOrder": 38,
@@ -535,7 +554,8 @@
       "Text": "زان زمزمه‌های آسمانی",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: از نغمه‌ها و آوازهای آسمانی، زندگی و جوانی به دل‌های مرده و بی‌روح بازمی‌گردد."
     },
     {
       "VOrder": 40,

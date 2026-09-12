@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "هستت خبر ای جان که خریدار تو کیست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای جان، آیا می‌دانی چه کسی خواهان تو است؟ و آن کسی که در این بازار تو را می‌فروشد، کیست؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "من خود دانم که کشته درد کی‌ام",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من خودم می‌دانم که چقدر از درد رنج می‌برم، اما تو چطور می‌توانی بفهمی که عاشق بی‌چاره‌ات کیست؟"
     },
     {
       "VOrder": 4,

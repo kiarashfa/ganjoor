@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "هیچ ازین مبتلا نمی پرسی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس از این مصیبت نمی‌پرسد که چه چیزی باعث شده و چرا هیچ‌کس سوال نمی‌کند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "نیست پروای حال بنده تو را",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو به حال من هیچ توجهی نداری و از روی احترام به خداوند هم از من نمی‌پرسی."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "وقت بیگانگان خوش است بسی",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که دوستان و آشنایان دور هستند، برای من بهتر است؛ زیرا در این وقت هیچ‌کس از حال من نمی‌پرسد."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "همه جا بر تو راه می گیرم",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همه جا برای تو تلاش می‌کنم و هرگز از کسی نمی‌پرسم."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "پادشاهی کس از تو چون پرسد",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی از تو بپرسد که چرا از گدا سوال نمی‌کنی، باید بدانی که این سوال بی‌معناست."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "به طفیل سگان بپرس از من",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر از من درباره سگ‌ها می‌پرسی، از خودشان بپرس، چون اگر از آنان جدا نمی‌شوی، نیازی به سوال کردن از من نیست."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "حال جامی وفاست با سگ تو",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در حال حاضر، تو با می‌گساری مشغولی و وفاداری را فراموش کرده‌ای؛ حتی به حال کسانی که به وفا извест هستند نمی‌اندیشی."
     },
     {
       "VOrder": 14,

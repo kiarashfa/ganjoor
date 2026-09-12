@@ -301,7 +301,8 @@
       "Text": "صبحدم، صاحبدلی در گلشنی",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: در سپیده دم، انسانی با دل روشن به زیبایی‌های طبیعت رفت تا تماشا کند."
     },
     {
       "VOrder": 2,
@@ -317,7 +318,8 @@
       "Text": "دید گلهای سپید و سرخ و زرد",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: درختان و گل‌های زیبا با رنگ‌های سفید، قرمز و زرد را می‌بینم. یاسمن، گلابی، ریحان و گل‌های دیگر در اینجا حضور دارند."
     },
     {
       "VOrder": 4,
@@ -333,7 +335,8 @@
       "Text": "بر لب جوها، دمیده لاله‌ها",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در کنار جویبارها، لاله‌ها شکوفا شده‌اند و بر روی گل‌ها و سوسن‌ها، قطرات شبنمی نشسته است."
     },
     {
       "VOrder": 6,
@@ -349,7 +352,8 @@
       "Text": "هر تنی، روشنتر از جانی شده",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: هر انسانی، به وضوح بیشتر از جانش، درخشان شده و هر گل سرخ، به مانند یک باغ گل زیبا و شاداب شده است."
     },
     {
       "VOrder": 8,
@@ -365,7 +369,8 @@
       "Text": "برگ گل، شاداب و شبنم تابناک",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: برگ گل و شبنم درخشان هر دو از آلودگی‌های ذهنی و فکرهای ناپسند، دور و بی‌نقص هستند."
     },
     {
       "VOrder": 10,
@@ -381,7 +386,8 @@
       "Text": "گوئی آن صاحبنظر، رائی نداشت",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد آن فرد با دانش و بینش، هیچ نظری نداشت و از تماشای زیبایی‌ها و شگفتی‌ها لذتی نمی‌برد."
     },
     {
       "VOrder": 12,
@@ -397,7 +403,8 @@
       "Text": "نه سوی زیبا رخی میکرد روی",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: نه به طرف چهره زیبایی می‌رفت و نه از گلی یا غنچه‌ای بویی به مشام می‌رسید."
     },
     {
       "VOrder": 14,
@@ -413,7 +420,8 @@
       "Text": "هر طرف گل بود، آنجا وقت گشت",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در هر جا که گل و زیبایی وجود داشت، آنجا را به دقت می‌نگریست، اما به سرعت از آنجا عبور می‌کرد."
     },
     {
       "VOrder": 16,
@@ -429,7 +437,8 @@
       "Text": "در صف گلها، بدید او ناگهان",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: او ناگهان در میان گل‌ها دید که گلی پژمرده و پنهان شده است."
     },
     {
       "VOrder": 18,
@@ -445,7 +454,8 @@
       "Text": "دور افتاده ز بزم یارها",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: دور از جمع دوستان و محبت‌ها شده و تنها با زخم‌ها و دردهای ناشی از حسادت و بی‌وفایی مواجه هستم."
     },
     {
       "VOrder": 20,
@@ -461,7 +471,8 @@
       "Text": "یکنفس بشکفته، یک دم زیسته",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: یک لحظه شکوفا شده و فقط برای مدت کوتاهی در صبح زندگی کرده، و شبنم بر آن اشک ریخته است."
     },
     {
       "VOrder": 22,
@@ -477,7 +488,8 @@
       "Text": "رونقش بشکسته چرخ کوژ پشت",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: چرخ گردون که زیبا و خوشگوار بود، حالا به خاطر حوادث و دگرگونی‌ها خراب شده و دیری نمی‌گذرد که بر نیکوکاران و صالحان پشت کرده و آنها را به بدبختی دچار کرده است."
     },
     {
       "VOrder": 24,
@@ -493,7 +505,8 @@
       "Text": "الغرض، صاحبدل روشن روان",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: در نهایت، شخصی که دارای دل پاک و روشن است، آن گل پژمرده را چید و از آنجا رفت."
     },
     {
       "VOrder": 26,
@@ -509,7 +522,8 @@
       "Text": "جمله خندیدند گلهای دگر",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: همه گل‌ها به خاطر این که تو عارف و صاحب‌نظر نبودی، خندیدند."
     },
     {
       "VOrder": 28,
@@ -525,7 +539,8 @@
       "Text": "زین همه زیبائی و جلوه‌گری",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: از میان تمام زیبایی‌ها و جذابیت‌ها، تو فقط یک گل پژمرده را با خود به همراه می‌آوری."
     },
     {
       "VOrder": 30,
@@ -541,7 +556,8 @@
       "Text": "این معما را ندانستیم چیست",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: ما نتوانستیم بفهمیم این معما چیست و آن کسی که به ما برتری داده، چه کسی است."
     },
     {
       "VOrder": 32,
@@ -557,7 +573,8 @@
       "Text": "گفت، گل در بوستان بسیار بود",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: گفت: در باغ گل‌های زیادی وجود داشت، اما ما به یک موضوع خاص توجه داشتیم."
     },
     {
       "VOrder": 34,
@@ -573,7 +590,8 @@
       "Text": "ما از آن معنیش چیدیم، ای فتی",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: ما از زیبایی واقعی گل پژمرده بهره‌برداری کردیم، ای کسی که هیچ‌کس نمی‌تواند این زیبایی را از بین ببرد."
     },
     {
       "VOrder": 36,
@@ -589,7 +607,8 @@
       "Text": "کردم این افتاده زان ره جستجوی",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: من برای آن کسی که از راه افتاده است، تلاش می‌کنم تا او را از زمین بلند کنند و به سمت بالا ببرند."
     },
     {
       "VOrder": 38,
@@ -605,7 +624,8 @@
       "Text": "زان ببردیم این گل بی آب و رنگ",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: از آن گل بی آب و رنگ دل کندیم، زیرا که زمانه بر او تنگی می‌کرد."
     },
     {
       "VOrder": 40,
@@ -621,7 +641,8 @@
       "Text": "وقت این گل میرود حالی ز دست",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: زمانی که این گل در حال پژمرده شدن است، دیگران فرصت دارند تا از زیبایی آن بهره ببرند، زیرا تا شب هنوز زمان باقی است."
     },
     {
       "VOrder": 42,
@@ -637,7 +658,8 @@
       "Text": "من ببوئیدنش، زان کردم هوس",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: من وقتی عطرش را استشمام کردم، به این فکر افتادم که هیچ کس نمی‌تواند بویی به این زیبایی را تجربه کند."
     },
     {
       "VOrder": 44,
@@ -653,7 +675,8 @@
       "Text": "دی شکفت از گلبن و امروز شد",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: دیروز گل تازه‌ای شکفته شد و امروز به طرز عجیبی، امروز به مثابه دیروز به نظر می‌رسد."
     },
     {
       "VOrder": 46,
@@ -669,7 +692,8 @@
       "Text": "عمر، چون اوراق بی شیرازه بود",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: عمر انسان مانند برگ‌های بی‌نظم و بدون ترتیب است و این گل پژمرده که به تازگی شکفته شده، نشان‌دهنده لحظاتی از زندگی است که زودگذر و ناپایدار هستند."
     },
     {
       "VOrder": 48,
@@ -685,7 +709,8 @@
       "Text": "چون خریداران، گرفتیمش بدست",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: ما چون خریداران، او را در دست گرفتیم، زیرا چرخ زمان، وضعیت او را به هم زده و از رونق انداخته است."
     },
     {
       "VOrder": 50,
@@ -701,7 +726,8 @@
       "Text": "چونکه گلهای دگر زیباترند",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: زیرا که گل‌های دیگر زیباترند، ناظران زیبایی به آن‌ها نگاه می‌کنند و توجه‌شان را به سمت آن‌ها جلب می‌کنند."
     },
     {
       "VOrder": 52,
@@ -717,7 +743,8 @@
       "Text": "خلق را باشد هوای رنگ و بو",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: مردم به دنبال زیبایی‌ها و جذابیت‌ها هستند، اما هیچ‌کس نمی‌پرسد که آن گل خشک و پژمرده کجاست."
     },
     {
       "VOrder": 54,

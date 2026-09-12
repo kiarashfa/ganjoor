@@ -171,7 +171,8 @@
       "Text": "روی گازر سیه شد از خورشید",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: نگاه کن به گازر سیاه که بر اثر تابش خورشید، لباسش سفید شده است."
     },
     {
       "VOrder": 2,
@@ -187,7 +188,8 @@
       "Text": "گر نبودی وجود خار کثیف",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: اگر خار زشت و کثیف وجود نداشت، گل هم به این لطافت و زیبایی نمی‌رسید."
     },
     {
       "VOrder": 4,
@@ -203,7 +205,8 @@
       "Text": "چون بخارش نه خار یکسو شد",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: وقتی که بخار از گل دور شد، گل زیبا، خوش‌رنگ و خوشبو شد."
     },
     {
       "VOrder": 6,
@@ -219,7 +222,8 @@
       "Text": "زان کشیده است پوست بر به و سیب",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: به خاطر جلوگیری از تلخی و آسیب، پوست بر روی میوه‌ها مانند انار و سیب کشیده شده است."
     },
     {
       "VOrder": 8,
@@ -235,7 +239,8 @@
       "Text": "جر نفع و صفا کند ز درون",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: افرادی که از درون دل پاک و نیکو باشند، می‌توانند خوب و خوشی را جذب کرده و هرگونه ضرر و آسیب را از خود دور کنند."
     },
     {
       "VOrder": 10,
@@ -251,7 +256,8 @@
       "Text": "بد برای بدی برون انداخت",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: بهتر است برای بدی، بدی نکنیم. این کار از آن بدتر است و تنها کسی که می‌داند چگونه باید درست رفتار کرد، می‌تواند به ما کمک کند."
     },
     {
       "VOrder": 12,
@@ -267,7 +273,8 @@
       "Text": "ناخن و موی گر نیفزاید",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: اگر ناخن و مو زیاد نشوند، آسیبی به سلامتی و وضعیت جسمی نمی‌زند."
     },
     {
       "VOrder": 14,
@@ -283,7 +290,8 @@
       "Text": "قطع آن چون ضرورت است از آن",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: اگر به دنبال چیزی هستی که دیگر به آن نیازی نیست، باید با آن قطع ارتباط کنی؛ چرا که وجود این چیز برای تو ضرری ندارد و بهتر است که دوری کنی تا جانت آزاد باشد."
     },
     {
       "VOrder": 16,
@@ -299,7 +307,8 @@
       "Text": "سخت بیخش برای خاریدن",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: در زمان‌هایی که دچار ناامیدی و سختی می‌شویم، تلاش برای برطرف کردن درد و رنج احساسات می‌تواند دشوار و عذاب‌آور باشد."
     },
     {
       "VOrder": 18,
@@ -315,7 +324,8 @@
       "Text": "لذت جنت از جحیم بود",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: کس که حکیم است، می‌داند که لذت‌های بهشت به واسطه‌ی شناخت دردها و رنج‌های جهنم ارزش پیدا می‌کند."
     },
     {
       "VOrder": 20,
@@ -331,7 +341,8 @@
       "Text": "مزۀ نان گرسنگی دارد",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: نان، وقتی که آدم گرسنه باشد، طعمی دلپذیر و لذیذ دارد؛ اما آب وقتی که تشنگی وجود نداشته باشد، لذتی ندارد."
     },
     {
       "VOrder": 22,
@@ -347,7 +358,8 @@
       "Text": "راحت مرهم از الم باشد",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: آرامش و درمان از دردها ممکن است، وگرنه وجود انسان بی‌فایده و بی‌معنی خواهد بود."
     },
     {
       "VOrder": 24,
@@ -363,7 +375,8 @@
       "Text": "هیچ بی خرده ناید از باری",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس دچار نقص و عیب نیست مگر اینکه تو آن نقص را بشماری و به آن توجه کنی."
     },
     {
       "VOrder": 26,
@@ -379,7 +392,8 @@
       "Text": "خرده گیری نشان خودرایی است",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: انتقاد کردن از دیگران نشان‌دهنده‌ی خودرایی و خودمحوری است، در حالی که دقت و توجه به جزئیات نشانه‌ی واقعی بینایی و آگاهی فرد است."
     },
     {
       "VOrder": 28,

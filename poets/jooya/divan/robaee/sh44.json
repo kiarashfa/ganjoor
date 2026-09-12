@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "هر کس به دروغ خویش را بگمارد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که خود را به دروغ معرفی کند، سخنان او پر از نادرستی و کذب خواهد بود."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "در عین دروغ گفتنش مکث کند",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در حالی که دروغ می‌گوید، لحظه‌ای مکث می‌کند، همان‌طور که کسی که در حال تحمل فشار و تنگی نفس است، صبحی دروغین دارد."
     },
     {
       "VOrder": 4,

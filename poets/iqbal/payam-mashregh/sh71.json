@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "نماید آنچه هست این وادی گل؟",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این دشت گل‌ها چه چیزی را به نمایش می‌گذارد؟ درون لاله‌ای که آتش گرفته است، چه چیزی وجود دارد؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "بچشم ما چمن یک موج رنگ است",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در نگاه ما، چمن به مانند یک موج رنگی است که فقط بلبل‌ها می‌دانند چه حسی دارد."
     },
     {
       "VOrder": 4,

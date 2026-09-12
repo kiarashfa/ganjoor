@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "ای دل ار چند در سفر خطرست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دل، اگرچه در سفر خطرهایی وجود دارد، اما هیچ‌کس نمی‌تواند سفری بدون خطر پیدا کند."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "آنچه اندر سفر بدست آید",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آنچه در سفر به دست می‌آید، مرد در خانه و در آرامش نمی‌تواند پیدا کند."
     },
     {
       "VOrder": 4,
@@ -55,7 +57,8 @@
       "Position": "Right",
       "Text": "هر که در سایه گشت گوشه نشین",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که در سایه و گوشه نشسته است، نمی‌تواند به روشنی و تابش ماه و خورشید دست یابد."
     },
     {
       "VOrder": 6,
@@ -69,7 +72,8 @@
       "Position": "Right",
       "Text": "وانکه در بحر غوطه می نخورد",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که در دریا شنا نمی‌کند، چگونه می‌تواند مروارید و گوهر پیدا کند؟"
     },
     {
       "VOrder": 8,
@@ -83,7 +87,8 @@
       "Position": "Right",
       "Text": "وانکه پهلو تهی کند ازکان",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که از دنیای مادی و زر و سیم کناره‌گیری کند، چگونه می‌تواند آن‌ها را به دست آورد؟"
     },
     {
       "VOrder": 10,
@@ -97,7 +102,8 @@
       "Position": "Right",
       "Text": "باز کز آشیان برون نپرد",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پرنده‌ای که از لانه‌اش بیرون نیاید، بر شکاری که پیروز است نمی‌پرد و نمی‌تواند آن را پیدا کند."
     },
     {
       "VOrder": 12,
@@ -111,7 +117,8 @@
       "Position": "Right",
       "Text": "گر هنرمند گوشه ئی گیرد",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر هنرمندی فقط به گوشه‌ای از هنر بپردازد، چگونه می‌تواند به آرزوهای خود از هنر دست یابد؟"
     },
     {
       "VOrder": 14,

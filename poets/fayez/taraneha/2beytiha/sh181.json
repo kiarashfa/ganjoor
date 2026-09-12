@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "مریضی کز جدایی گشته بیمار",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که به خاطر جدایی از محبوبش بیمار شده، چه راه درمانی دارد؟ میوه‌ی خوشمزه‌ای مانند عناب لبان یار."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "همین باشد علاج درد فایز",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: درمان درد من همین است: خود را از زحمت پزشک نجات بده و به او آزار نرسان."
     },
     {
       "VOrder": 4,

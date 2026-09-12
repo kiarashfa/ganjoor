@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "دست گیرید ساغر غم را",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دستت را بر دسته‌ی لیوان غم بگذار و به یاد همدیگر ارزش قائل شو."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "تا ز خورشید گل عرق نکند",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که نور خورشید بر گل‌ها بتابد و عرق کند، شبنم نمی‌تواند چشمانش را ببندد."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "قبلهٔ من شراب تلخ بیار",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به من شراب تلخ بده، چون نمی‌دانم چه کار کنم با آب شور زمزم."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "با چنین [وحشیی] چه سازد کس",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس نمی‌تواند با موجودی وحشی و بی‌رحم که به خود او نیز شیوه‌های وحشی‌گری را می‌آموزد، چاره‌ای بیندیشد."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "زخم ما کی به خویش می گیرد",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زخم‌های ما هرگز با لطف و نرمی دارو درمان نمی‌شود."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "تا به ما روی دست خویش نمود",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی او به ما توجه کرد و ما را مورد لطف قرار داد، ما هم با عزت و اراده، بر مشکلات و سختی‌ها غلبه کردیم و به جهانیان نشان دادیم که می‌توانیم بر همه چیز فائق آیم."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "شوکت خم نیامدم به نظر",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به خاطر زیبایی و عظمت خود، به سراغ خم نرفته‌ام، پس لطفاً به من نگاهی نکنید و به بادهٔ کم بها ندهید."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "با هزاران نشاط و ذوق و سرور",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با هزاران شادی و شوق و خوشحالی، صبح را به یاد شبی پر از غم و اندوه بگذرانید."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "همت خم به جوش چون آید",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی اراده و تلاش قوی باشد، دیگر نمی‌توان به نام کسی مانند حاتم، که به سخاوت مشهور است، اشاره کرد."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "معنی شعر ما بیان مکنید",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بهتر است درباره احساسات و افکار خود صحبت نکنی، زیرا این موضوعات می‌تواند پیچیده و دشوار باشد. بهتر است در مورد آن‌ها فکر کنی و از گفتن آنها به دیگران پرهیز کنی."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "هیچ فتح از کتاب روی نداد",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ پیروزی از مطالعه و دانستن کتاب حاصل نمی‌شود، مگر این که به جزئیات و نشانه‌های زبان توجه کنیم."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "چشم گریان ما اگر این است",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر چشم‌های گریه‌کننده ما این گونه است، پس آن را به خاک و خون می‌نشاند."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "ساقیا جام از آن میم پرکن",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای ساقی، جام را پر کن از آن می خوش‌نوش، زیرا که همان می توانست سر نوشیدنی جم (سلطان افسانه‌ای) را به آسمان ببرد."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "دل دیوانه ام به صحرا رفت",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل ناآرام من به دشت و صحرا رفته تا حسرت و یادآوری آرامش و زیبایی‌های آهوانی را که می‌دود، تجربه کند."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "او کجا تاب زلف می آرد",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او چگونه می‌تواند با زلف خود طوری درآید که به خاطر زیبایی‌اش پرچم را به ناز کشد و آن را به رقص درآورد؟"
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "یک نفس پاس دم سعیدا را",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به مدت کوتاهی نوشیدنی خوشایند و دلپذیری را بنوش و از لحظه‌ای خوش برای شادی خود بهره‌ ببر."
     },
     {
       "VOrder": 32,

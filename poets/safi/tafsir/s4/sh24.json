@@ -104,6 +104,16 @@
     },
     {
       "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ا",
+      "PlainText": "هر که کا ری بد کند یابد جزا\r\nگل نروید چونکه کشتی گندنا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که کا ری بد کند یابد جزا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگُل نروید چونکه کِشتی گندنا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 4,
       "Number": 5,
       "SectionType": "WholePoem",
       "VerseType": "First",
@@ -114,14 +124,14 @@
       "CoupletsCount": 119
     },
     {
-      "Index": 4,
-      "Number": 4,
+      "Index": 5,
+      "Number": 5,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ا",
-      "PlainText": "هر که کا ری بد کند یابد جزا\r\nگل نروید چونکه کشتی گندنا",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که کا ری بد کند یابد جزا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگُل نروید چونکه کِشتی گندنا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
+      "RhymeLetters": "ودرا",
+      "PlainText": "با تو گویم شرطهای جود را\r\nتا بیابی گوهر مقصود را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا تو گویم شرطهای جود را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بیابی گوهر مقصود را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 4
     },
     {
       "Index": 5,
@@ -141,16 +151,6 @@
       "RhymeLetters": "حق",
       "PlainText": "گشت زهراءس ناتوان وز شیر حق\r\nگشت جانش بر اناری مستحق",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگشت زهراء(س) ناتوان وز شیر حق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگشت جانش بر اناری مستحق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 4
-    },
-    {
-      "Index": 5,
-      "Number": 5,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ودرا",
-      "PlainText": "با تو گویم شرطهای جود را\r\nتا بیابی گوهر مقصود را",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا تو گویم شرطهای جود را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بیابی گوهر مقصود را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -178,9 +178,9 @@
       "Number": 6,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "یر",
-      "PlainText": "شرط اول آنکه معطی در ضمیر\r\nخویش را کمتر شمارد از فقیر",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرط اول آنکه معطی در ضمیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخویش را کمتر شمارد از فقیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ود",
+      "PlainText": "در سراغش شد به مردی از یهود\r\nپیش او جز دانه ای باقی نبود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سراغش شد به مردی از یهود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیش او جز دانه ای باقی نبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -188,9 +188,9 @@
       "Number": 6,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ود",
-      "PlainText": "در سراغش شد به مردی از یهود\r\nپیش او جز دانه ای باقی نبود",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سراغش شد به مردی از یهود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیش او جز دانه ای باقی نبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "یر",
+      "PlainText": "شرط اول آنکه معطی در ضمیر\r\nخویش را کمتر شمارد از فقیر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرط اول آنکه معطی در ضمیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخویش را کمتر شمارد از فقیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -218,9 +218,9 @@
       "Number": 7,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ار",
-      "PlainText": "زو گرفت آن را به مالی بی شمار\r\nدر ره آمد امتحان کردگار",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزو گرفت آن را به مالی بی شمار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر ره آمد امتحان کردگار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "اء",
+      "PlainText": "شرط دیگر آنکه پاداش عطاء\r\nنه عوض خواهد  نه خدمت  نه دعاء",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرط دیگر آنکه پاداش عطاء\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه عوض خواهد ، نه خدمت ، نه دعاء\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -228,9 +228,9 @@
       "Number": 7,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "اء",
-      "PlainText": "شرط دیگر آنکه پاداش عطاء\r\nنه عوض خواهد  نه خدمت  نه دعاء",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرط دیگر آنکه پاداش عطاء\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه عوض خواهد ، نه خدمت ، نه دعاء\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ار",
+      "PlainText": "زو گرفت آن را به مالی بی شمار\r\nدر ره آمد امتحان کردگار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزو گرفت آن را به مالی بی شمار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر ره آمد امتحان کردگار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -258,9 +258,9 @@
       "Number": 8,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "مش",
-      "PlainText": "شرط دیگر کآن عطاء داند کمش\r\nگرچه بدهد گنجهای عالمش",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرط دیگر کآن عطاء داند کمش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرچه بدهد گنجهای عالمش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ید",
+      "PlainText": "یک مریضی در میان راه دید\r\nبی غذا وز زندگانی ناامید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک مریضی در میان راه دید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی غذا وز زندگانی ناامید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -268,9 +268,9 @@
       "Number": 8,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ید",
-      "PlainText": "یک مریضی در میان راه دید\r\nبی غذا وز زندگانی ناامید",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک مریضی در میان راه دید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی غذا وز زندگانی ناامید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "مش",
+      "PlainText": "شرط دیگر کآن عطاء داند کمش\r\nگرچه بدهد گنجهای عالمش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرط دیگر کآن عطاء داند کمش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرچه بدهد گنجهای عالمش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -298,9 +298,9 @@
       "Number": 9,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "یر",
-      "PlainText": "جست حالش کز کجایی ای فقیر\r\nگفت هستم چونکه پرسیدی اسیر",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجست حالش کز کجایی ای فقیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفت، هستم چونکه پرسیدی اسیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "اد",
+      "PlainText": "شرط دیگر کش نماند آن به یاد\r\nاز نظر سازد فراموش آنچه داد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرط دیگر کش نماند آن به یاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز نظر سازد فراموش آنچه داد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -308,9 +308,9 @@
       "Number": 9,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "اد",
-      "PlainText": "شرط دیگر کش نماند آن به یاد\r\nاز نظر سازد فراموش آنچه داد",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرط دیگر کش نماند آن به یاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز نظر سازد فراموش آنچه داد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "یر",
+      "PlainText": "جست حالش کز کجایی ای فقیر\r\nگفت هستم چونکه پرسیدی اسیر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجست حالش کز کجایی ای فقیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفت، هستم چونکه پرسیدی اسیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -338,9 +338,9 @@
       "Number": 10,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "هد",
-      "PlainText": "شرط دیگر آنکه صد بار ار دهد\r\nزآن نخواهد منتی بر وی نهد",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرط دیگر آنکه صد بار ار دهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزآن نخواهد منّتی بر وی نهد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ار",
+      "PlainText": "گشته ام بیمار و بی غمخوار و یار\r\nکن تو یاری بر رضای کردگار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگشته ام بیمار و بی غمخوار و یار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکن تو یاری بر رضای کردگار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -348,9 +348,9 @@
       "Number": 10,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ار",
-      "PlainText": "گشته ام بیمار و بی غمخوار و یار\r\nکن تو یاری بر رضای کردگار",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگشته ام بیمار و بی غمخوار و یار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکن تو یاری بر رضای کردگار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "هد",
+      "PlainText": "شرط دیگر آنکه صد بار ار دهد\r\nزآن نخواهد منتی بر وی نهد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرط دیگر آنکه صد بار ار دهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزآن نخواهد منّتی بر وی نهد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -378,9 +378,9 @@
       "Number": 11,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ا",
-      "PlainText": "گفت برگو تا چه خواهی از غذا\r\nگفت باشد بر انارم اکتفا",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت، برگو تا چه خواهی از غذا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفت، باشد بر انارم اکتفا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "وفاو",
+      "PlainText": "بل نخواهد تا شود معروف او\r\nیا به پاداش عطاء موصوف او",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبل نخواهد تا شود معروف او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا به پاداش عطاء موصوف او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -388,9 +388,9 @@
       "Number": 11,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "وفاو",
-      "PlainText": "بل نخواهد تا شود معروف او\r\nیا به پاداش عطاء موصوف او",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبل نخواهد تا شود معروف او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا به پاداش عطاء موصوف او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ا",
+      "PlainText": "گفت برگو تا چه خواهی از غذا\r\nگفت باشد بر انارم اکتفا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت، برگو تا چه خواهی از غذا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفت، باشد بر انارم اکتفا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -418,9 +418,9 @@
       "Number": 12,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ل",
-      "PlainText": "شرط دیگر که نخواهد زآن عمل\r\nدشمنی بر مهر دل گردد بدل",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرط دیگر که نخواهد زآن عمل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدشمنی بر مهر دل گردد بدل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "رم",
+      "PlainText": "گفت دارم من مریضی در حرم\r\nخواسته از من انار آن محترم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت، دارم من مریضی در حرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخواسته از من انار آن محترم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -428,9 +428,9 @@
       "Number": 12,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "رم",
-      "PlainText": "گفت دارم من مریضی در حرم\r\nخواسته از من انار آن محترم",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت، دارم من مریضی در حرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخواسته از من انار آن محترم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ل",
+      "PlainText": "شرط دیگر که نخواهد زآن عمل\r\nدشمنی بر مهر دل گردد بدل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرط دیگر که نخواهد زآن عمل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدشمنی بر مهر دل گردد بدل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -458,9 +458,9 @@
       "Number": 13,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "و",
-      "PlainText": "کرده ام یک دانه پیدا بهر او\r\nداد نیمی زآن چو بودش آرزو",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکرده ام یک دانه پیدا بهر او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداد نیمی زآن چو بودش آرزو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "تی",
+      "PlainText": "شرط دیگر آنکه وقت محنتی\r\nزو نخواهد با تمکن نصرتی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرط دیگر آنکه وقت محنتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزو نخواهد با تمکّن نصرتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -468,9 +468,9 @@
       "Number": 13,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "تی",
-      "PlainText": "شرط دیگر آنکه وقت محنتی\r\nزو نخواهد با تمکن نصرتی",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرط دیگر آنکه وقت محنتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزو نخواهد با تمکّن نصرتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "و",
+      "PlainText": "کرده ام یک دانه پیدا بهر او\r\nداد نیمی زآن چو بودش آرزو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکرده ام یک دانه پیدا بهر او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداد نیمی زآن چو بودش آرزو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -498,9 +498,9 @@
       "Number": 14,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "حق",
-      "PlainText": "شرط دیگر آنکه بشناسد ز حق\r\nآن کرم را نی ز خود بر مستحق",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرط دیگر آنکه بشناسد ز حق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن کرم را نی ز خود بر مستحق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ات",
+      "PlainText": "گفت زآن نیم دگر یابم حیات\r\nده به حب آنکه دادت این صفات",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت زآن نیم دگر یابم حیات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eده به حبّ آنکه دادت این صفات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -508,9 +508,9 @@
       "Number": 14,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ات",
-      "PlainText": "گفت زآن نیم دگر یابم حیات\r\nده به حب آنکه دادت این صفات",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت زآن نیم دگر یابم حیات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eده به حبّ آنکه دادت این صفات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "حق",
+      "PlainText": "شرط دیگر آنکه بشناسد ز حق\r\nآن کرم را نی ز خود بر مستحق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرط دیگر آنکه بشناسد ز حق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن کرم را نی ز خود بر مستحق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -538,9 +538,9 @@
       "Number": 15,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ق",
-      "PlainText": "نیم دیگر داد هم بر مستحق\r\nعشق حق را زآن علی ع شد ماصدق",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیم دیگر داد هم بر مستحق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعشق حق را زآن علی (ع) شد ماصدق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ار",
+      "PlainText": "غیر از اینها شرطها باشد به کار\r\nگر نویسم بگذرد از اختصار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغیر از اینها شرطها باشد به کار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر نویسم بگذرد از اختصار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -548,9 +548,9 @@
       "Number": 15,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ار",
-      "PlainText": "غیر از اینها شرطها باشد به کار\r\nگر نویسم بگذرد از اختصار",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغیر از اینها شرطها باشد به کار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر نویسم بگذرد از اختصار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ق",
+      "PlainText": "نیم دیگر داد هم بر مستحق\r\nعشق حق را زآن علی ع شد ماصدق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیم دیگر داد هم بر مستحق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعشق حق را زآن علی (ع) شد ماصدق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -578,9 +578,9 @@
       "Number": 16,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ساست",
-      "PlainText": "این چنین جودی نه کار هر کس است\r\nآن کند کش کم دو کون از یک خس است",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین چنین جودی نه کار هر کس است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن کند کش کم دو کون از یک خس است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ردرا",
+      "PlainText": "تا تو بشناسی ولی فرد را\r\nوز تمام ماسوی الله مرد را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا تو بشناسی ولیّ فرد را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز تمام ماسوی الله مرد را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -588,9 +588,9 @@
       "Number": 16,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ردرا",
-      "PlainText": "تا تو بشناسی ولی فرد را\r\nوز تمام ماسوی الله مرد را",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا تو بشناسی ولیّ فرد را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز تمام ماسوی الله مرد را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ساست",
+      "PlainText": "این چنین جودی نه کار هر کس است\r\nآن کند کش کم دو کون از یک خس است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین چنین جودی نه کار هر کس است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن کند کش کم دو کون از یک خس است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -618,9 +618,9 @@
       "Number": 17,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ل",
-      "PlainText": "خواست تکبیر از ملایک زآن عمل\r\nکاین بود گر مرد باقی شد دغل",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواست تکبیر از ملایک زآن عمل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاین بود گر مرد باقی شد دغل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "و",
+      "PlainText": "آن کند کانداخت چون دشمن خدو\r\nبر رخش یکجا گذشت از قتل او",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کند کانداخت چون دشمن خدو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر رخش یکجا گذشت از قتل او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -628,9 +628,9 @@
       "Number": 17,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "و",
-      "PlainText": "آن کند کانداخت چون دشمن خدو\r\nبر رخش یکجا گذشت از قتل او",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کند کانداخت چون دشمن خدو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر رخش یکجا گذشت از قتل او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ل",
+      "PlainText": "خواست تکبیر از ملایک زآن عمل\r\nکاین بود گر مرد باقی شد دغل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواست تکبیر از ملایک زآن عمل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاین بود گر مرد باقی شد دغل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -648,9 +648,9 @@
       "Number": 18,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ار",
-      "PlainText": "گشت بر جبریل امر از کردگار\r\nکز بهشت از بهر زهراءس بر انار",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگشت بر جبریل امر از کردگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز بهشت از بهر زهراء(س) بر انار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "یق",
+      "PlainText": "چونکه بستندش عدو بر منجنیق\r\nامتحان را تا شود ز آتش حریق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچونکه بستندش عدو بر منجنیق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامتحان را تا شود ز آتش حریق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -658,9 +658,9 @@
       "Number": 18,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "یق",
-      "PlainText": "چونکه بستندش عدو بر منجنیق\r\nامتحان را تا شود ز آتش حریق",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچونکه بستندش عدو بر منجنیق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامتحان را تا شود ز آتش حریق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ار",
+      "PlainText": "گشت بر جبریل امر از کردگار\r\nکز بهشت از بهر زهراءس بر انار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگشت بر جبریل امر از کردگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز بهشت از بهر زهراء(س) بر انار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -698,9 +698,9 @@
       "Number": 19,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "جاست",
-      "PlainText": "جبرییلش گفت وقت التجاست\r\nحاجت خویش ار کنی ظاهر بجاست",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجبرئیلش گفت وقت التجاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحاجت خویش ار کنی ظاهر بجاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ق",
+      "PlainText": "چون به سوی خانه آمد شیر حق\r\nدید رمانی عجیب اندر طبق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون به سوی خانه آمد شیر حق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدید رمّانی عجیب اندر طبق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -708,19 +708,9 @@
       "Number": 19,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ق",
-      "PlainText": "چون به سوی خانه آمد شیر حق\r\nدید رمانی عجیب اندر طبق",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون به سوی خانه آمد شیر حق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدید رمّانی عجیب اندر طبق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
-    },
-    {
-      "Index": 20,
-      "Number": 20,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "است",
-      "PlainText": "گفت با صدیقهس کاینها از کجاست\r\nگفت خود داناتر از مایی به راست",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت با صدّیقه(س) کاینها از کجاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفت خود داناتر از مایی به راست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "جاست",
+      "PlainText": "جبرییلش گفت وقت التجاست\r\nحاجت خویش ار کنی ظاهر بجاست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجبرئیلش گفت وقت التجاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحاجت خویش ار کنی ظاهر بجاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -731,6 +721,16 @@
       "RhymeLetters": "تی",
       "PlainText": "گفت نبود جز به حقم حاجتی\r\nداند او خود ور که دارم نیتی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت نبود جز به حقم حاجتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداند او خود ور که دارم نیّتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 20,
+      "Number": 20,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "است",
+      "PlainText": "گفت با صدیقهس کاینها از کجاست\r\nگفت خود داناتر از مایی به راست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت با صدّیقه(س) کاینها از کجاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفت خود داناتر از مایی به راست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -758,9 +758,9 @@
       "Number": 21,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ار",
-      "PlainText": "هست شرط دوستی کز غیر یار\r\nچشمپوشی گر بسوزندت به نار",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهست شرط دوستی کز غیر یار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشمپوشی گر بسوزندت به نار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "من",
+      "PlainText": "خود تو بفرستاده ای ای مؤتمن\r\nوآنگه از تفصیل آن پرسی ز من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخود تو بفرستاده ای ای مؤتمن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوآنگه از تفصیل آن پرسی ز من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -768,19 +768,9 @@
       "Number": 21,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "من",
-      "PlainText": "خود تو بفرستاده ای ای مؤتمن\r\nوآنگه از تفصیل آن پرسی ز من",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخود تو بفرستاده ای ای مؤتمن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوآنگه از تفصیل آن پرسی ز من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
-    },
-    {
-      "Index": 22,
-      "Number": 22,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "مه",
-      "PlainText": "شخصی آورد این طبق بر در همه\r\nگفت حیدر داده بهر فاطمه",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشخصی آورد این طبق بر در همه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفت حیدر داده بهر فاطمه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ار",
+      "PlainText": "هست شرط دوستی کز غیر یار\r\nچشمپوشی گر بسوزندت به نار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهست شرط دوستی کز غیر یار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشمپوشی گر بسوزندت به نار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -791,6 +781,16 @@
       "RhymeLetters": "یل",
       "PlainText": "گشت زآن رو حق به هر کارش کفیل\r\nکرد آتش را گلستان بر خلیل",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگشت زآن رو حق به هر کارش کفیل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکرد آتش را گلستان بر خلیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 22,
+      "Number": 22,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "مه",
+      "PlainText": "شخصی آورد این طبق بر در همه\r\nگفت حیدر داده بهر فاطمه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشخصی آورد این طبق بر در همه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفت حیدر داده بهر فاطمه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -818,9 +818,9 @@
       "Number": 23,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ام",
-      "PlainText": "قحطیی شد در زمان او به شام\r\nداد مال خود به مسکینان تمام",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقحطیی شد در زمانِ او به شام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداد مال خود به مسکینان تمام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "وبمن",
+      "PlainText": "گفت آری باشد از محبوب من\r\nداده از باغی که بد منسوب من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت، آری باشد از محبوب من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداده از باغی که بد منسوب من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -828,19 +828,9 @@
       "Number": 23,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "وبمن",
-      "PlainText": "گفت آری باشد از محبوب من\r\nداده از باغی که بد منسوب من",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت، آری باشد از محبوب من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداده از باغی که بد منسوب من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
-    },
-    {
-      "Index": 24,
-      "Number": 24,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ود",
-      "PlainText": "این عمل گر بینی از چشم شهود\r\nجز ز حیدرع ناید از کس در وجود",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین عمل گر بینی از چشم شهود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز ز حیدر(ع) ناید از کس در وجود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ام",
+      "PlainText": "قحطیی شد در زمان او به شام\r\nداد مال خود به مسکینان تمام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقحطیی شد در زمانِ او به شام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداد مال خود به مسکینان تمام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -851,6 +841,16 @@
       "RhymeLetters": "ان",
       "PlainText": "دوستی بودش به مصر از خواجگان\r\nرهنوردی کرد سوی او روان",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدوستی بودش به مصر از خواجگان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرهنوردی کرد سوی او روان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 24,
+      "Number": 24,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ود",
+      "PlainText": "این عمل گر بینی از چشم شهود\r\nجز ز حیدرع ناید از کس در وجود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین عمل گر بینی از چشم شهود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز ز حیدر(ع) ناید از کس در وجود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -878,9 +878,9 @@
       "Number": 25,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ام",
-      "PlainText": "اشتری هم چند تا نان و طعام\r\nبهر او سازد روان آن نیک نام",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاُشتری هم چند، تا نان و طعام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهر او سازد روان آن نیک نام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "یق",
+      "PlainText": "من بسی در علم اخلاقم دقیق\r\nگشته ام غواص این بحر عمیق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن بسی در علم اخلاقم دقیق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگشته ام غواص این بحر عمیق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -888,19 +888,9 @@
       "Number": 25,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "یق",
-      "PlainText": "من بسی در علم اخلاقم دقیق\r\nگشته ام غواص این بحر عمیق",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن بسی در علم اخلاقم دقیق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگشته ام غواص این بحر عمیق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
-    },
-    {
-      "Index": 26,
-      "Number": 26,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "اص",
-      "PlainText": "دانم آن وصفی که ممتاز است و خاص\r\nبر که دارد در مراتب اختصاص",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدانم آن وصفی که ممتاز است و خاص\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر که دارد در مراتب اختصاص\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ام",
+      "PlainText": "اشتری هم چند تا نان و طعام\r\nبهر او سازد روان آن نیک نام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاُشتری هم چند، تا نان و طعام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهر او سازد روان آن نیک نام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -911,6 +901,16 @@
       "RhymeLetters": "و",
       "PlainText": "گفت گر میخواست بهر خویش او\r\nمیفرستادم بدون گفتگو",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت گر میخواست بهر خویش او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیفرستادم بدون گفتگو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 26,
+      "Number": 26,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اص",
+      "PlainText": "دانم آن وصفی که ممتاز است و خاص\r\nبر که دارد در مراتب اختصاص",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدانم آن وصفی که ممتاز است و خاص\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر که دارد در مراتب اختصاص\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -938,9 +938,9 @@
       "Number": 27,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "گران",
-      "PlainText": "لیک او خوا هد ز بهر دیگران\r\nوین بود در مصر بس سخت و گران",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلیک او خوا هد ز بهر دیگران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین بود در مصر بس سخت و گران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "انهاست",
+      "PlainText": "جود کردن با شروط افسانه است\r\nآن کند کز غیر حق بیگانه است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجود کردن با شروط، افسانه است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن کند کز غیر حق بیگانه است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -948,19 +948,9 @@
       "Number": 27,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "انهاست",
-      "PlainText": "جود کردن با شروط افسانه است\r\nآن کند کز غیر حق بیگانه است",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجود کردن با شروط، افسانه است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن کند کز غیر حق بیگانه است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
-    },
-    {
-      "Index": 28,
-      "Number": 28,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "اکبود",
-      "PlainText": "آن کند که جان به پیشش خاک بود\r\nجانی آن کو برتر از افلاک بود",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کند که جان به پیشش خاک بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجانی آن کو برتر از افلاک بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "گران",
+      "PlainText": "لیک او خوا هد ز بهر دیگران\r\nوین بود در مصر بس سخت و گران",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلیک او خوا هد ز بهر دیگران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین بود در مصر بس سخت و گران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -971,6 +961,16 @@
       "RhymeLetters": "عاست",
       "PlainText": "زآنکه قحطی نیز اینجا شایع است\r\nمیتوان داد ار به اندک قانع است",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزآنکه قحطی نیز اینجا شایع است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیتوان داد ار به اندک قانع است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 28,
+      "Number": 28,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اکبود",
+      "PlainText": "آن کند که جان به پیشش خاک بود\r\nجانی آن کو برتر از افلاک بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کند که جان به پیشش خاک بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجانی آن کو برتر از افلاک بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -998,9 +998,9 @@
       "Number": 29,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ام",
-      "PlainText": "بازگشتند آن جماعت سوی شام\r\nدست خالی لیک بهر ننگ و نام",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبازگشتند آن جماعت سوی شام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدست خالی لیک بهر ننگ و نام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "لیل",
+      "PlainText": "خواند زآن حق بهر خویش او را خلیل\r\nچون بد اندر راه مهر حق دلیل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواند زآن حق بهر خویش او را خلیل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون بد اندر راه مهر حق دلیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -1008,9 +1008,9 @@
       "Number": 29,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "لیل",
-      "PlainText": "خواند زآن حق بهر خویش او را خلیل\r\nچون بد اندر راه مهر حق دلیل",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواند زآن حق بهر خویش او را خلیل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون بد اندر راه مهر حق دلیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ام",
+      "PlainText": "بازگشتند آن جماعت سوی شام\r\nدست خالی لیک بهر ننگ و نام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبازگشتند آن جماعت سوی شام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدست خالی لیک بهر ننگ و نام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -2019,13 +2019,15 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "لَیْسَ بِأَمٰانِیِّکُمْ وَ لاٰ أَمٰانِیِّ أَهْلِ اَلْکِتٰابِ مَنْ یَعْمَلْ سُوءاً یُجْزَ بِهِ وَ لاٰ یَجِدْ لَهُ مِنْ دُونِ اَللّٰهِ وَلِیًّا وَ لاٰ نَصِیراً (۱۲۳) وَ مَنْ یَعْمَلْ مِنَ اَلصّٰالِحٰاتِ مِنْ ذَکَرٍ أَوْ أُنْثیٰ وَ هُوَ مُؤْمِنٌ فَأُولٰئِکَ یَدْخُلُونَ اَلْجَنَّةَ وَ لاٰ یُظْلَمُونَ نَقِیراً (۱۲۴) وَ مَنْ أَحْسَنُ دِیناً مِمَّنْ أَسْلَمَ وَجْهَهُ لِلّٰهِ وَ هُوَ مُحْسِنٌ وَ اِتَّبَعَ مِلَّةَ إِبْرٰاهِیمَ حَنِیفاً وَ اِتَّخَذَ اَللّٰهُ إِبْرٰاهِیمَ خَلِیلاً (۱۲۵) وَ لِلّٰهِ مٰا فِی اَلسَّمٰاوٰاتِ وَ مٰا فِی اَلْأَرْضِ وَ کٰانَ اَللّٰهُ بِکُلِّ شَیْ‌ءٍ مُحِیطاً (۱۲۶) وَ یَسْتَفْتُونَکَ فِی اَلنِّسٰاءِ قُلِ اَللّٰهُ یُفْتِیکُمْ فِیهِنَّ وَ مٰا یُتْلیٰ عَلَیْکُمْ فِی اَلْکِتٰابِ فِی یَتٰامَی اَلنِّسٰاءِ اَللاّٰتِی لاٰ تُؤْتُونَهُنَّ مٰا کُتِبَ لَهُنَّ وَ تَرْغَبُونَ أَنْ تَنْکِحُوهُنَّ وَ اَلْمُسْتَضْعَفِینَ مِنَ اَلْوِلْدٰانِ وَ أَنْ تَقُومُوا لِلْیَتٰامیٰ بِالْقِسْطِ وَ مٰا تَفْعَلُوا مِنْ خَیْرٍ فَإِنَّ اَللّٰهَ کٰانَ بِهِ عَلِیماً (۱۲۷) وَ إِنِ اِمْرَأَةٌ خٰافَتْ مِنْ بَعْلِهٰا نُشُوزاً أَوْ إِعْرٰاضاً فَلاٰ جُنٰاحَ عَلَیْهِمٰا أَنْ یُصْلِحٰا بَیْنَهُمٰا صُلْحاً وَ اَلصُّلْحُ خَیْرٌ وَ أُحْضِرَتِ اَلْأَنْفُسُ اَلشُّحَّ وَ إِنْ تُحْسِنُوا وَ تَتَّقُوا فَإِنَّ اَللّٰهَ کٰانَ بِمٰا تَعْمَلُونَ خَبِیراً (۱۲۸) وَ لَنْ تَسْتَطِیعُوا أَنْ تَعْدِلُوا بَیْنَ اَلنِّسٰاءِ وَ لَوْ حَرَصْتُمْ فَلاٰ تَمِیلُوا کُلَّ اَلْمَیْلِ فَتَذَرُوهٰا کَالْمُعَلَّقَةِ وَ إِنْ‌ تُصْلِحُوا وَ تَتَّقُوا فَإِنَّ اَللّٰهَ کٰانَ غَفُوراً رَحِیماً (۱۲۹) وَ إِنْ یَتَفَرَّقٰا یُغْنِ اَللّٰهُ کُلاًّ مِنْ سَعَتِهِ وَ کٰانَ اَللّٰهُ وٰاسِعاً حَکِیماً (۱۳۰) وَ لِلّٰهِ مٰا فِی اَلسَّمٰاوٰاتِ وَ مٰا فِی اَلْأَرْضِ وَ لَقَدْ وَصَّیْنَا اَلَّذِینَ أُوتُوا اَلْکِتٰابَ مِنْ قَبْلِکُمْ وَ إِیّٰاکُمْ أَنِ اِتَّقُوا اَللّٰهَ وَ إِنْ تَکْفُرُوا فَإِنَّ لِلّٰهِ مٰا فِی اَلسَّمٰاوٰاتِ وَ مٰا فِی اَلْأَرْضِ وَ کٰانَ اَللّٰهُ غَنِیًّا حَمِیداً (۱۳۱)",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: این متن به بیان این نکته می‌پردازد که هیچ‌کس نمی‌تواند به خیال و آرزوهای خود اطمینان داشته باشد و افراد اهل کتاب نیز نمی‌توانند در این زمینه توهم داشته باشند. هر کس عمل بدی انجام دهد، به جزای آن خواهد رسید و کس دیگری نمی‌تواند او را از عذاب خدا نجات دهد. در مقابل، کسانی که اعمال نیک انجام می‌دهند و مؤمن هستند، به بهشت خواهند رفت و مورد ظلم قرار نخواهند گرفت. همچنین بیان می‌شود که هیچ‌کس نمی‌تواند دینی بهتر از کسی که خود را به خدا تسلیم کرده و عمل صالح انجام می‌دهد، داشته باشد. خداوند همه چیز را در آسمان‌ها و زمین می‌داند و به آن احاطه دارد. همچنین در خصوص مسائل خانوادگی و حقوق زنان و یتیمان توصیه می‌شود که با انصاف رفتار شود و به یتیمان رسیدگی شود. اگر بین زن و شوهر مشکلی پیش آید، آن‌ها می‌توانند با مذاکره مشکل خود را حل کنند و صلح بهتر از اختلاف است. در نهایت، این آیات تأکید دارند که خداوند غنی است و نیاز به کسی ندارد و به توصیف وظایف اخلاقی و دینی می‌پردازند."
     },
     {
       "VOrder": 2,
       "Position": "Paragraph",
       "Text": "نیست بآرزوهای شما و نه آرزوهای اهل کتاب کسی که می‌کند بدی جزا داده می‌شود بآن و نمی‌یابد از برایش از غیر خدا دوستی و نه یاری‌کننده (۱۲۳) و کسی که بکند کارهای خوب از نر یا ماده و او مؤمن باشد پس آنها داخل می‌شوند بهشت را و ستم کرده نمی‌شوند مقدار نقیری (۱۲۴) و کیست بهتر در دین از آنکه خالص گردانید وجهش را از برای خدا و او نیکوکار است و پیروی کرد دین ابراهیم را حقّگرای و گرفت خدا ابراهیم را دوست (۱۲۵) و مر خدا راست آنچه در آسمانهاست و آنچه در زمین است و باشد خدا بهمه چیز فرا رسنده (۱۲۶) و فتوی می‌پرسند از تو در زنان بگوی خدای فتوی می‌دهد شما را در آنها و آنچه خوانده می‌شود بر شما در کتاب در و آنکه کارگزاری کنید مر آن یتیمان را بعدالت و آنچه می‌کنید از خوبی پس بدرستی که خدا باشد بآن دانا (۱۲۷) و اگر زنی گمان برد از شوهرش سرباز زدنی یا روی گردانیدنی پس نیست گناهی بر آن دو تا که اصلاح کنند میان خود بصلحی و صلح بهتر است و حاضر گردانیده شده نفسها را بخل و اگر نیکی کنید و بپرهیزید پس بدرستی که خدا باشد بآنچه می‌کنید آگاه (۱۲۸) و هرگز نتوانید که عدالت کنید میان زنان و اگر چه بسیار خواسته باشید پس میل نکنید تمام میل پس واگذارید او را چون محبوس و اگر باصلاح آرید و بپرهیزید پس بدرستی که خدا باشد آمرزنده مهربان (۱۲۹) و اگر جدا شوند بی‌نیاز گرداند خدا هر یک را از توانگریش و باشد خدا فراخ زحمت درست کردار (۱۳۰) و مر خدا راست آنچه در آسمانها و آنچه در زمین است و بحقیقت وصیت کردیم آنان را که داده شدند کتاب را پیش از شما و شما را که بپرهیزید از خدا و اگر کافر شوید پس بدرستی که مر خدا راست آنچه در آسمانها و آنچه در زمین است و باشد خدا بی‌نیاز ستوده (۱۳۱)",
-      "CoupletIndex": 1
+      "CoupletIndex": 1,
+      "CoupletSummary": "هوش مصنوعی: آرزوهای شما و آرزوهای اهل کتاب هیچ کدام نمی‌تواند کسی را از عذاب رهایی بخشد. هر کس بدی کند، سزاوار آن خواهد بود و نه دوستی و یاوری از غیر خدا برایش نخواهد بود. اما کسانی که کارهای نیک انجام دهند، چه مرد باشند و چه زن، و مؤمن نیز باشند، به بهشت وارد می‌شوند و هیچ ظلمی به آن‌ها نخواهد شد. هیچ کس در دین بهتر از کسی نیست که وجه خود را خالصاً برای خدا قرار دهد و نیکوکار باشد و از دین ابراهیم پیروی کند که حق‌طلب بود و خدا ابراهیم را دوست خود گرفت. خداوند مالک آنچه در آسمان‌ها و زمین است است و به همه چیز احاطه دارد. \n\nاگر درباره زنان از تو سوال کنند، بگو که خداوند در این زمینه به شما فتوا می‌دهد. آنچه در کتاب درباره آن ذکر شده، به شما اطلاع داده شده و باید با یتیمان به عدالت رفتار کنید. هر کار خوبی که بکنید، خداوند به آن آگاه است. اگر زنی گمان کند که شوهرش از او دوری می‌کند، بر آن‌ها گناهی نیست اگر بخواهند میان خود صلح کنند و اصلاح نمایند، زیرا صلح بهتر است. نفس‌ها به تنگی و حسد گرایش دارد، اما اگر نیکوکار باشید و تقوا پیشه کنید، خداوند به کارهای شما آگاه است. \n\nهرگز نمی‌توانید میان زنان به طور کامل عدالت را برقرار کنید، حتی اگر بسیار بخواهید. بنابراین، به یکی از آن‌ها تمایل نکنید و او را به صورت محبوس نگه ندارید. اگر اصلاح کنید و تقوا پیشه کنید، خداوند آمرزنده و مهربان است. اگر جدا شوند، خداوند هر یک را از فضل خود بی‌نیاز می‌سازد، و خداوند در کارهایتان و به درستی فراخ و توانا است. \n\nهمچنین، ما به کسانی که قبل از شما کتاب داده شده، وصیت کردیم و شما را به تقوای خدا سفارش کردیم. اگر کافر شوید، بدانید که خداوند در آسمان‌ها و زمین مالک است و او بی‌نیاز و ستوده است."
     },
     {
       "VOrder": 3,
@@ -2033,7 +2035,8 @@
       "Text": "بر نیاید کار در نظم و حساب",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: کارها و حساب‌ها به خوبی پیش نمی‌رود و به نتیجه نمی‌رسد، در صورتی که به آرزوهای شما و نوشته‌های اهل کتاب توجه شود."
     },
     {
       "VOrder": 4,
@@ -2049,7 +2052,8 @@
       "Text": "نیست یعنی محض قول اندر مثل",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که در عالم واقعیت، تنها گفتار و ادعا کافی نیست و برای سنجش صداقت و نیت انسان‌ها، باید اعمال و رفتار آن‌ها را هم در نظر گرفت. به عبارت دیگر، صداقت و معنای واقعی یک انسان تنها از طریق اعمال و اخلاق او قابل ارزیابی است."
     },
     {
       "VOrder": 6,
@@ -2065,7 +2069,8 @@
       "Text": "هر که کا ری بد کند یابد جزا",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که کار ناپسند و بدی انجام دهد، عاقبتش را خواهد دید. مانند اینکه گلی در جایی که بذر فاسد کاشته شده، نخواهد روئید."
     },
     {
       "VOrder": 8,
@@ -2081,7 +2086,8 @@
       "Text": "هم نیابد دوستداری بهر خود",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: دوستی حقیقی هرگز به دنبال منافع شخصی نیست و هیچگاه به خاطر چیزهای ناچیز یا ناپسند به کسی یاری نمی‌رساند."
     },
     {
       "VOrder": 10,
@@ -2095,7 +2101,8 @@
       "VOrder": 11,
       "Position": "Paragraph",
       "Text": "« در پاداش اعمال »",
-      "CoupletIndex": 6
+      "CoupletIndex": 6,
+      "CoupletSummary": "هوش مصنوعی: «در برابر کارها و اعمالی که انجام می‌دهیم، پاداش‌هایی وجود دارد.»"
     },
     {
       "VOrder": 12,
@@ -2103,7 +2110,8 @@
       "Text": "وآنکه کرد اعمال نیک از مرد و زن",
       "CoupletIndex": 7,
       "SectionIndex1": 1,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: کسی که از مرد و زن کارهای نیک انجام دهد و به خوبی‌ها عمل کند، مؤمن واقعی است."
     },
     {
       "VOrder": 13,
@@ -2119,7 +2127,8 @@
       "Text": "شرط ایمان است یعنی در عمل",
       "CoupletIndex": 8,
       "SectionIndex1": 1,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: ایمان واقعی نیازمند عمل است و اگر بدون ایمان عمل کنیم، آن اعمال هیچ ارزشی نخواهند داشت و در جای خود قرار نمی‌گیرند."
     },
     {
       "VOrder": 15,
@@ -2135,7 +2144,8 @@
       "Text": "پس خود ایشانند داخل در جنان",
       "CoupletIndex": 9,
       "SectionIndex1": 1,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: آن‌ها خود در بهشت جای دارند و هیچ ظلمی نمی‌بینند، زیرا اعمالشان هیچ زیانی به همراه ندارد."
     },
     {
       "VOrder": 17,
@@ -2151,7 +2161,8 @@
       "Text": "یعنی از پاداش اعمال نکو",
       "CoupletIndex": 10,
       "SectionIndex1": 1,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که اگر کسی کارهای نیک انجام دهد، هیچ چیزی از پاداش آن کم نخواهد شد. در واقع، اعمال خوب انسان باعث افزایش پاداش او می‌شود و هیچ دلیلی برای کاهش آن وجود ندارد."
     },
     {
       "VOrder": 19,
@@ -2167,7 +2178,8 @@
       "Text": "آنچه اندر کیسه کردی از دِرم",
       "CoupletIndex": 11,
       "SectionIndex1": 1,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: هر آنچه که در کیسه‌ات نگه‌داری کرده‌ای از دارایی و ثروت، باقی خواهد ماند و هیچ چیزی از آن کم نخواهد شد."
     },
     {
       "VOrder": 21,
@@ -2183,7 +2195,8 @@
       "Text": "خاصه گر حقت دهد چیزی به مزد",
       "CoupletIndex": 12,
       "SectionIndex1": 1,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: به ویژه اگر خداوند چیزی به تو عطا کند، آن را به دیگری نسپار تا نکند از ترس دزد آن را از دست بدهی."
     },
     {
       "VOrder": 23,
@@ -2199,7 +2212,8 @@
       "Text": "وقت حاجت زو چو خواهی باز پس",
       "CoupletIndex": 13,
       "SectionIndex1": 1,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: زمانی که نیاز به او داری و می‌خواهی برگردی، باز هم باید به او توجه کنی، زیرا او همان چیزی است که در جستجویش هستی و بس."
     },
     {
       "VOrder": 25,
@@ -2215,7 +2229,8 @@
       "Text": "زآنکه بینی آنچه بودت دسترنج",
       "CoupletIndex": 14,
       "SectionIndex1": 1,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: وقتی به نتایجی که به دست آورده‌ای نگاه می‌کنی، متوجه می‌شوی که هر فردی باید پاداش زحماتش را دریافت کند؛ هر کس به اندازه تلاش و کوشش خود از نعمت‌ها و ثروت‌ها بهره‌مند می‌شود."
     },
     {
       "VOrder": 27,
@@ -2231,7 +2246,8 @@
       "Text": "تا چه جای آنکه چیزی کم شود",
       "CoupletIndex": 15,
       "SectionIndex1": 1,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که نباید نگران باشی که کمبود یا نقصان چیزی باعث شود تا ظلمی به تو در طبیعت یا به‌عنوان مجازات وارد شود. به عبارت دیگر، اگر کمبودی پیش بیاید، نباید احساس کنی که مورد بی‌عدالتی قرار گرفته‌ای."
     },
     {
       "VOrder": 29,
@@ -2247,7 +2263,8 @@
       "Text": "کیست نیکوتر ز روی دین و داد",
       "CoupletIndex": 16,
       "SectionIndex1": 1,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: کیست که از نظر دین و عدل بهتر از کسی باشد که فرمان خدا را پذیرفته و به آن عمل کرده باشد؟"
     },
     {
       "VOrder": 31,
@@ -2263,7 +2280,8 @@
       "Text": "نفس خود را کرد خالص بهر او",
       "CoupletIndex": 17,
       "SectionIndex1": 1,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: نفس خود را برای او خالص و پاک کردم، این بود که وجهه‌ام را تسلیم او کردم."
     },
     {
       "VOrder": 33,
@@ -2279,7 +2297,8 @@
       "Text": "محسن است آن کس که در توحید حق",
       "CoupletIndex": 18,
       "SectionIndex1": 1,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: محسن کسی است که در یگانگی خداوند آن‌قدر عمیق می‌شود که از همه چیز جز او آزاد می‌شود و هیچ چیز دیگری جز او را نمی‌بیند."
     },
     {
       "VOrder": 35,
@@ -2295,7 +2314,8 @@
       "Text": "پیروی بر کیش ابراهیم کرد",
       "CoupletIndex": 19,
       "SectionIndex1": 1,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: فرد با پیروی از روش ابراهیم، تمام وجود خود را در راه او تسلیم کرده است."
     },
     {
       "VOrder": 37,
@@ -2311,7 +2331,8 @@
       "Text": "زآن گرفت او را خدا بر خود خلیل",
       "CoupletIndex": 20,
       "SectionIndex1": 1,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: خداوند او را به عنوان دوست خود انتخاب کرد و به همین دلیل در کارهای نیکو و زیبای او تأثیر گذاشت."
     },
     {
       "VOrder": 39,
@@ -2327,7 +2348,8 @@
       "Text": "تن بر آتش داد و جان بر جان نواز",
       "CoupletIndex": 21,
       "SectionIndex1": 1,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: تنش را با آتش می‌سوزاند و جان و دلش را برای محبوب و عزیزش قربانی می‌کند، حتی مال و فرزندانش را نیز فدای او می‌نماید."
     },
     {
       "VOrder": 41,
@@ -2343,7 +2365,8 @@
       "Text": "چونکه بستندش عدو بر منجنیق",
       "CoupletIndex": 22,
       "SectionIndex1": 1,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: وقتی که دشمن مرا به امتحان سختی بیندازد، مانند این است که در آتش سوزان قرار گیرم."
     },
     {
       "VOrder": 43,
@@ -2359,7 +2382,8 @@
       "Text": "جبرئیلش گفت وقت التجاست",
       "CoupletIndex": 23,
       "SectionIndex1": 1,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: جبریil به او گفت که حالا زمان درخواست و نیازمندی است، اگر خواسته‌ات را بگویی، به خوبی مورد قبول است."
     },
     {
       "VOrder": 45,
@@ -2375,7 +2399,8 @@
       "Text": "گفت نبود جز به حقم حاجتی",
       "CoupletIndex": 24,
       "SectionIndex1": 1,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: او گفت که تنها به حق و حقیقت، خواسته‌ای دارد و اگر من نیازی ندارم، خودش از آن آگاه است."
     },
     {
       "VOrder": 47,
@@ -2391,7 +2416,8 @@
       "Text": "هست شرط دوستی کز غیر یار",
       "CoupletIndex": 25,
       "SectionIndex1": 1,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: برای دوستی واقعی لازم است که از غیر یار بگذری و اگر برایت مشکلاتی پیش بیاید، باید تحمل کنی."
     },
     {
       "VOrder": 49,
@@ -2407,7 +2433,8 @@
       "Text": "گشت زآن رو حق به هر کارش کفیل",
       "CoupletIndex": 26,
       "SectionIndex1": 1,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: به همین خاطر، خداوند در هر کاری حافظ و پشتیبان او شد و آتش را برای ابراهیم مانند گلستانی نرم کرد."
     },
     {
       "VOrder": 51,
@@ -2423,7 +2450,8 @@
       "Text": "قحطیی شد در زمانِ او به شام",
       "CoupletIndex": 27,
       "SectionIndex1": 1,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: در دوران او، قحطی در شام به وقوع پیوست و او تمام دارایی‌اش را به فقرا و نیازمندان بخشید."
     },
     {
       "VOrder": 53,
@@ -2439,7 +2467,8 @@
       "Text": "دوستی بودش به مصر از خواجگان",
       "CoupletIndex": 28,
       "SectionIndex1": 1,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: دوستی در مصر داشت که از بزرگان و ثروتمندان بود و تصمیم گرفت به سمت او سفر کند."
     },
     {
       "VOrder": 55,
@@ -2455,7 +2484,8 @@
       "Text": "اُشتری هم چند، تا نان و طعام",
       "CoupletIndex": 29,
       "SectionIndex1": 1,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: چند شتری هم باید وجود داشته باشد تا غذا و خوراک برای آن نیکو نام فراهم شود."
     },
     {
       "VOrder": 57,
@@ -2471,7 +2501,8 @@
       "Text": "گفت گر میخواست بهر خویش او",
       "CoupletIndex": 30,
       "SectionIndex1": 1,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: اگر او می‌خواست که از من چیزی بگیرد، بدون هیچ صحبتی برایش می‌فرستادم."
     },
     {
       "VOrder": 59,
@@ -2487,7 +2518,8 @@
       "Text": "لیک او خوا هد ز بهر دیگران",
       "CoupletIndex": 31,
       "SectionIndex1": 1,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: اما او برای دیگران می‌خواهد و این چیز در مصر بسیار دشوار و سنگین است."
     },
     {
       "VOrder": 61,
@@ -2503,7 +2535,8 @@
       "Text": "زآنکه قحطی نیز اینجا شایع است",
       "CoupletIndex": 32,
       "SectionIndex1": 1,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: به خاطر اینکه در اینجا قحطی نیز رایج است، اگر کسی به کم قانع باشد، می‌تواند موقعیت‌هایی پیدا کند."
     },
     {
       "VOrder": 63,
@@ -2519,7 +2552,8 @@
       "Text": "بازگشتند آن جماعت سوی شام",
       "CoupletIndex": 33,
       "SectionIndex1": 1,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: آن گروه به سوی شام برگشتند، با دست‌های خالی، اما تنها به خاطر شهرت و افتخار."
     },
     {
       "VOrder": 65,
@@ -2535,7 +2569,8 @@
       "Text": "خاک پر کردند از ره در جوال",
       "CoupletIndex": 34,
       "SectionIndex1": 1,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: خاک را به عنوان نماد پراکندگی و دوری، در کیسه‌ای جمع کردند و وقتی خلیل این وضعیت را مشاهده کرد، بر غم و ناراحتی‌اش افزوده شد."
     },
     {
       "VOrder": 67,
@@ -2551,7 +2586,8 @@
       "Text": "رفت گریان در عبادتخانه زود",
       "CoupletIndex": 35,
       "SectionIndex1": 1,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: او با گریه و زاری به عبادتگاه رفت و با گذر زمان، دیگران متوجه شدند که او به زودی بازمی‌گردد."
     },
     {
       "VOrder": 69,
@@ -2567,7 +2603,8 @@
       "Text": "کرد ساره ز آردها مشتی خمیر",
       "CoupletIndex": 36,
       "SectionIndex1": 1,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: ساره از آردها مقداری خمیر درست کرد تا نان بپزد و آن را به نیازمندان و فقیران بدهد."
     },
     {
       "VOrder": 71,
@@ -2583,7 +2620,8 @@
       "Text": "سِرّ آن از ساره ابراهیم جست",
       "CoupletIndex": 37,
       "SectionIndex1": 1,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: راز این موضوع را از ساره، همسر ابراهیم، پرسید که گفت: تو از طرف خلیل، یعنی ابراهیم، به مصر فرستاده شده‌ای."
     },
     {
       "VOrder": 73,
@@ -2599,7 +2637,8 @@
       "Text": "گفت نی بل کز خلیل سابق است",
       "CoupletIndex": 38,
       "SectionIndex1": 1,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: گفت نی، بلکه از خلیل است که اگر خلیل بیاید، ذلت او شایسته است."
     },
     {
       "VOrder": 75,
@@ -2613,7 +2652,8 @@
       "VOrder": 76,
       "Position": "Paragraph",
       "Text": "« در سخاوت امیرالمؤمنین علی(ع) »",
-      "CoupletIndex": 39
+      "CoupletIndex": 39,
+      "CoupletSummary": "هوش مصنوعی: سخاوت امیرالمؤمنین علی(ع) به قدری معروف و مثال‌زدنی بود که همگان آن را به یاد دارند. ایشان با generosity و بخشندگی خود، نه فقط در میان نزدیکان و دوستان، بلکه به طور کلی نسبت به جامعه و نیازمندان، همواره در پی کمک به دیگران بودند. رفتار ایشان نشان‌دهنده‌ی عمیق‌ترین نوع انسانیت و compassion بود و به همین خاطر، او به عنوان الگویی برای تمامی مسلمانان و بشر شناخته می‌شود. ایشان به هیچ عنوان از بخشش خود دریغ نمی‌کردند و ایمان راسخ داشتند که سخاوت به دیگران، باعث برکت و آبادانی در زندگی خودشان نیز خواهد شد."
     },
     {
       "VOrder": 77,
@@ -2621,7 +2661,8 @@
       "Text": "زین عجب تر از امیر مؤمنان",
       "CoupletIndex": 40,
       "SectionIndex1": 2,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: امیر مؤمنان در امتحان عشق به خدا، چیزی شگفت‌انگیز از خود نشان داد."
     },
     {
       "VOrder": 78,
@@ -2637,7 +2678,8 @@
       "Text": "گشت زهراء(س) ناتوان وز شیر حق",
       "CoupletIndex": 41,
       "SectionIndex1": 2,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: بانوی بزرگوار زهراء(س) در سختی و زحمت به سر می‌برد و روح پاکش به خدای بزرگ تکیه کرده و به او امید دارد. او همچون کوهی و پشتیبان راستین است که از هر زحمتی در امان نیست، اما در عین حال به حقایق ناب دست می‌یابد و در زندگی‌اش از ثمرات این روح‌انگیزی بهره‌مند می‌شود."
     },
     {
       "VOrder": 80,
@@ -2653,7 +2695,8 @@
       "Text": "در سراغش شد به مردی از یهود",
       "CoupletIndex": 42,
       "SectionIndex1": 2,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: مردی از قوم یهود به دنبال او رفت، اما در نزد او تنها دانه‌ای باقی مانده بود."
     },
     {
       "VOrder": 82,
@@ -2669,7 +2712,8 @@
       "Text": "زو گرفت آن را به مالی بی شمار",
       "CoupletIndex": 43,
       "SectionIndex1": 2,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: او را با ثروت فراوانی گرفت و در مسیر، آزمایشی از سوی پروردگار برایش پیش آمد."
     },
     {
       "VOrder": 84,
@@ -2685,7 +2729,8 @@
       "Text": "یک مریضی در میان راه دید",
       "CoupletIndex": 44,
       "SectionIndex1": 2,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: در مسیر، شخصی بیمار و ناامید از زندگی را دید که گرسنه بود."
     },
     {
       "VOrder": 86,
@@ -2701,7 +2746,8 @@
       "Text": "جست حالش کز کجایی ای فقیر",
       "CoupletIndex": 45,
       "SectionIndex1": 2,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: از حال او بپرس، ای بیچاره! او پاسخ می‌دهد که چون از من سوال کردی اسیر هستم."
     },
     {
       "VOrder": 88,
@@ -2717,7 +2763,8 @@
       "Text": "گشته ام بیمار و بی غمخوار و یار",
       "CoupletIndex": 46,
       "SectionIndex1": 2,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: من دچار بیماری شده‌ام و هیچ کمک‌کننده و دوستی ندارم؛ تو نیز به من یاری کن تا بر رضایت خداوندی که دوستش دارم، تکیه کنم."
     },
     {
       "VOrder": 90,
@@ -2733,7 +2780,8 @@
       "Text": "گفت، برگو تا چه خواهی از غذا",
       "CoupletIndex": 47,
       "SectionIndex1": 2,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: سخنگو گفت که چه چیزی می‌خواهی به عنوان غذا. او پاسخ داد که من تنها به انار اکتفا می‌کنم."
     },
     {
       "VOrder": 92,
@@ -2749,7 +2797,8 @@
       "Text": "گفت، دارم من مریضی در حرم",
       "CoupletIndex": 48,
       "SectionIndex1": 2,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: فردی می‌گوید که در حرم مقدسی به بیماری دچار شده و از او خواسته‌اند که اناری برای آن مکان مقدس بیاورد."
     },
     {
       "VOrder": 94,
@@ -2765,7 +2814,8 @@
       "Text": "کرده ام یک دانه پیدا بهر او",
       "CoupletIndex": 49,
       "SectionIndex1": 2,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: برای او یک دانه پیدا کرده‌ام و نیمی از آن را به او داده‌ام چون او آرزوی آن را داشت."
     },
     {
       "VOrder": 96,
@@ -2781,7 +2831,8 @@
       "Text": "گفت زآن نیم دگر یابم حیات",
       "CoupletIndex": 50,
       "SectionIndex1": 2,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: گفتند که از آن نیمه دیگر که در مرگ است، زندگی حقیقی را به من عطا کن، به خاطر عشق به کسی که این ویژگی‌ها را به تو بخشیده است."
     },
     {
       "VOrder": 98,
@@ -2797,7 +2848,8 @@
       "Text": "نیم دیگر داد هم بر مستحق",
       "CoupletIndex": 51,
       "SectionIndex1": 2,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: نیمه‌ای از جوهر عشق را به کسانی که شایسته‌اش هستند بخشید، این عشق به حق از علی (ع) نشأت می‌گیرد و او مصداق واقعی آن است."
     },
     {
       "VOrder": 100,
@@ -2813,7 +2865,8 @@
       "Text": "تا تو بشناسی ولیّ فرد را",
       "CoupletIndex": 52,
       "SectionIndex1": 2,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که بتوانی ولیّ (ولیّ خدا) را بشناسی، فردی را در میان دیگران که به خداوند تعلق دارد، باید از تمام موجودات و غیر خدا صرف‌نظر کنی."
     },
     {
       "VOrder": 102,
@@ -2829,7 +2882,8 @@
       "Text": "خواست تکبیر از ملایک زآن عمل",
       "CoupletIndex": 53,
       "SectionIndex1": 2,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: درخواست از فرشتگان این است که به دلیل عملی که انجام داده‌اند، اگر انسان راستینی باقی بماند، نیرنگی در کار نیست."
     },
     {
       "VOrder": 104,
@@ -2845,7 +2899,8 @@
       "Text": "گشت بر جبریل امر از کردگار",
       "CoupletIndex": 54,
       "SectionIndex1": 2,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: فرمان از سوی خداوند به جبریل (فرشته وحی) صادر شد که برای مریم (س)، میوه انار را از بهشت بیاورد."
     },
     {
       "VOrder": 106,
@@ -2861,7 +2916,8 @@
       "Text": "چون به سوی خانه آمد شیر حق",
       "CoupletIndex": 55,
       "SectionIndex1": 2,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: زمانی که شیر حق به سمت خانه‌اش آمد، یک جعبه‌ی عجیب و غریب را مشاهده کرد."
     },
     {
       "VOrder": 108,
@@ -2877,7 +2933,8 @@
       "Text": "گفت با صدّیقه(س) کاینها از کجاست",
       "CoupletIndex": 56,
       "SectionIndex1": 2,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: در گفت و گویی که با حضرت صدیقه (سلام الله علیها) داشت، از او پرسیدند که این مسائل و حقایق از کجا آغاز شده‌اند؟ او در پاسخ فرمود که خودت به حقیقت آگاه‌تری از ما و حقیقت را بهتر می‌دانی."
     },
     {
       "VOrder": 110,
@@ -2893,7 +2950,8 @@
       "Text": "خود تو بفرستاده ای ای مؤتمن",
       "CoupletIndex": 57,
       "SectionIndex1": 2,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: تو خود نماینده‌ای و به‌خود فرستاده‌ای، پس اکنون درباره جزئیات آن از من بپرس."
     },
     {
       "VOrder": 112,
@@ -2909,7 +2967,8 @@
       "Text": "شخصی آورد این طبق بر در همه",
       "CoupletIndex": 58,
       "SectionIndex1": 2,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: شخصی ظرف یا طبقی را آورد و همه گفتند که این هدیه‌ای است از حضرت علی برای فاطمه."
     },
     {
       "VOrder": 114,
@@ -2925,7 +2984,8 @@
       "Text": "گفت، آری باشد از محبوب من",
       "CoupletIndex": 59,
       "SectionIndex1": 2,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: او گفت: بله، این هدیه‌ای است از طرف محبوب من که از باغی آمده که به من مربوط است."
     },
     {
       "VOrder": 116,
@@ -2941,7 +3001,8 @@
       "Text": "این عمل گر بینی از چشم شهود",
       "CoupletIndex": 60,
       "SectionIndex1": 2,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: اگر این عمل را با چشم بصیرت ببینی، تنها از حیدر (علی بن ابی‌طالب) است که در وجود هیچ‌کس دیگری مشاهده نمی‌شود."
     },
     {
       "VOrder": 118,
@@ -2957,7 +3018,8 @@
       "Text": "من بسی در علم اخلاقم دقیق",
       "CoupletIndex": 61,
       "SectionIndex1": 2,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: من بارها در علم اخلاق مطالعه و دقت کرده‌ام، مانند غواصی که در عمق این دریای وسیع جستجو می‌کند."
     },
     {
       "VOrder": 120,
@@ -2973,7 +3035,8 @@
       "Text": "دانم آن وصفی که ممتاز است و خاص",
       "CoupletIndex": 62,
       "SectionIndex1": 2,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: می‌دانم که توصیفی وجود دارد که به آدمی خاص و منحصر به فرد تعلق دارد و او را در سطوح ویژه‌اش متمایز می‌کند."
     },
     {
       "VOrder": 122,
@@ -2989,7 +3052,8 @@
       "Text": "جود کردن با شروط، افسانه است",
       "CoupletIndex": 63,
       "SectionIndex1": 2,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: بخشندگی همراه با شرط و شروط، فقط یک داستان خیالی است؛ زیرا واقعی نمی‌تواند باشد و از حقیقت جداست."
     },
     {
       "VOrder": 124,
@@ -3005,7 +3069,8 @@
       "Text": "آن کند که جان به پیشش خاک بود",
       "CoupletIndex": 64,
       "SectionIndex1": 2,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: این شخص، که جانش در برابر او همچون خاک است، عظمتی دارد که فراتر از آسمان‌هاست."
     },
     {
       "VOrder": 126,
@@ -3021,7 +3086,8 @@
       "Text": "خواند زآن حق بهر خویش او را خلیل",
       "CoupletIndex": 65,
       "SectionIndex1": 2,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: او برای خود از حق، همچون خلیل(ابراهیم) می‌خواند، چون در مسیر محبت حق، دلیل و نشانه‌ای برای خود می‌آورد."
     },
     {
       "VOrder": 128,
@@ -3035,7 +3101,8 @@
       "VOrder": 129,
       "Position": "Paragraph",
       "Text": "« در شرایط جود »",
-      "CoupletIndex": 66
+      "CoupletIndex": 66,
+      "CoupletSummary": "هوش مصنوعی: در شرایط فعلی، ما با واقعیت‌هایی روبرو هستیم که نیازمند توجه و اقدام فوری هستند. باید با دقت و درایت به مسائل روزمره نگاه کنیم و راه‌حل‌های مؤثری برای مشکلات موجود پیدا کنیم. این وضعیت می‌تواند فرصتی باشد برای تغییرات مثبت و بهبود وضعیت کنونی."
     },
     {
       "VOrder": 130,
@@ -3043,7 +3110,8 @@
       "Text": "با تو گویم شرطهای جود را",
       "CoupletIndex": 67,
       "SectionIndex1": 3,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: به تو می‌گویم قوانین و ویژگی‌های سخاوتمندی را، تا بتوانی به هدف واقعی و ارزشمند خود دست یابی."
     },
     {
       "VOrder": 131,
@@ -3059,7 +3127,8 @@
       "Text": "شرط اول آنکه معطی در ضمیر",
       "CoupletIndex": 68,
       "SectionIndex1": 3,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: اولین شرط این است که بخشنده در دل خود، ارزشی کمتر از فرد نیازمند برای خود قائل شود."
     },
     {
       "VOrder": 133,
@@ -3075,7 +3144,8 @@
       "Text": "شرط دیگر آنکه پاداش عطاء",
       "CoupletIndex": 69,
       "SectionIndex1": 3,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: شرط دیگر این است که پاداش بخشش، نه جبران مالی خواهد بود و نه خدمت یا دعا."
     },
     {
       "VOrder": 135,
@@ -3091,7 +3161,8 @@
       "Text": "شرط دیگر کآن عطاء داند کمش",
       "CoupletIndex": 70,
       "SectionIndex1": 3,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: شرط دیگری که وجود دارد این است که کسی که عطا می‌کند باید بداند که این بخشش چقدر ارزش دارد، حتی اگر او گنج‌های دنیا را نیز بدهد."
     },
     {
       "VOrder": 137,
@@ -3107,7 +3178,8 @@
       "Text": "شرط دیگر کش نماند آن به یاد",
       "CoupletIndex": 71,
       "SectionIndex1": 3,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: شرط دیگری باقی نمانده که آنچه را به یاد دارم فراموش کنم، و آنچه دادم، فراموش شود."
     },
     {
       "VOrder": 139,
@@ -3123,7 +3195,8 @@
       "Text": "شرط دیگر آنکه صد بار ار دهد",
       "CoupletIndex": 72,
       "SectionIndex1": 3,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: شرط دیگر این است که حتی اگر کسی صد بار هم به او کمک کند، هرگز از او توقع پیروز شدن یا ادعای لطف نداشته باشد."
     },
     {
       "VOrder": 141,
@@ -3139,7 +3212,8 @@
       "Text": "بل نخواهد تا شود معروف او",
       "CoupletIndex": 73,
       "SectionIndex1": 3,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: او نمی‌خواهد که مشهور شود یا به خاطر بخشش‌هایش شناخته گردد."
     },
     {
       "VOrder": 143,
@@ -3155,7 +3229,8 @@
       "Text": "شرط دیگر که نخواهد زآن عمل",
       "CoupletIndex": 74,
       "SectionIndex1": 3,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: شرط دیگری که اگر از این عمل، دشمنی بر دل مهرآمیز فردی نباشد، تغییر خواهد کرد."
     },
     {
       "VOrder": 145,
@@ -3171,7 +3246,8 @@
       "Text": "شرط دیگر آنکه وقت محنتی",
       "CoupletIndex": 75,
       "SectionIndex1": 3,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: یکی دیگر از شروط این است که در زمان سختی و مشکلات، از توانایی کمک و نصرتی که داری، بهره نمی‌گیری."
     },
     {
       "VOrder": 147,
@@ -3187,7 +3263,8 @@
       "Text": "شرط دیگر آنکه بشناسد ز حق",
       "CoupletIndex": 76,
       "SectionIndex1": 3,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: شرط دیگر این است که او باید آن کرم و فضیلت را از حق بشناسد و نه اینکه آن را از خود تقدیر کند برای شایسته‌ها."
     },
     {
       "VOrder": 149,
@@ -3203,7 +3280,8 @@
       "Text": "غیر از اینها شرطها باشد به کار",
       "CoupletIndex": 77,
       "SectionIndex1": 3,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: به جز این موارد، شرایط دیگری نیز وجود دارد که برای کارگر نوشته می‌شود و باید کوتاه و مختصر باشد."
     },
     {
       "VOrder": 151,
@@ -3219,7 +3297,8 @@
       "Text": "این چنین جودی نه کار هر کس است",
       "CoupletIndex": 78,
       "SectionIndex1": 3,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: این کار دشواری است که هر کسی نمی‌تواند انجام دهد؛ او کسی است که می‌تواند از دو جهان، یک چیز را به وجود آورد."
     },
     {
       "VOrder": 153,
@@ -3235,7 +3314,8 @@
       "Text": "آن کند کانداخت چون دشمن خدو",
       "CoupletIndex": 79,
       "SectionIndex1": 3,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: این بیت بیان‌گر این است که کسی که به بهانه‌ یک دشمن، دیگران را در یک نقطه مشغول می‌کند، به سادگی می‌تواند از عواقب کار خود جان سالم به در ببرد. در واقع، در مواقعی که انسان‌ها به خاطر دشمنان خود غافل می‌شوند، ممکن است دچار آسیب‌هایی هم شوند."
     },
     {
       "VOrder": 155,
@@ -3251,7 +3331,8 @@
       "Text": "چون به جنبش دید از خود خشم را",
       "CoupletIndex": 80,
       "SectionIndex1": 3,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: زمانی که متوجه شد به خاطر خشمش در حال کار زشت و کشنده‌ای است، نگاهش را از مبارزه گرفت و خود را از آن وضعیت کنار کشید."
     },
     {
       "VOrder": 157,
@@ -3265,7 +3346,8 @@
       "VOrder": 158,
       "Position": "Paragraph",
       "Text": "« مقاتلۀ امیرالمؤمنین علی علیه السلام با عمرو بن عبدود »",
-      "CoupletIndex": 81
+      "CoupletIndex": 81,
+      "CoupletSummary": "هوش مصنوعی: مبارزه امام علی (ع) با عمرو بن عبدود یکی از رویدادهای مهم تاریخی است. این نبرد به عنوان نمایشی از شجاعت و شایستگی امام علی (ع) شناخته می‌شود و نشان‌دهنده ویژگی‌های بی‌نظیر او در میدان جنگ است. عمرو بن عبدود یکی از جنگجویان بسیار توانا و معروف زمان خود بود و این رویارویی به یکی از لحظات سرنوشت‌ساز در تاریخ اسلام تبدیل شد. این نبرد نه تنها به پیروزی علی (ع) انجامید بلکه تأثیر زیادی بر روحیه مسلمانان گذاشت و به ارتقای مقام و جایگاه ایشان کمک کرد."
     },
     {
       "VOrder": 159,
@@ -3273,7 +3355,8 @@
       "Text": "گفت عمرو عبدود با وی که دوست",
       "CoupletIndex": 82,
       "SectionIndex1": 4,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: عمرو عبدود به او گفت که من با ابی‌طالب دوستی دارم مانند لحم و پوست که همیشه به هم چسبیده‌اند."
     },
     {
       "VOrder": 160,
@@ -3289,7 +3372,8 @@
       "Text": "می نخواهم با تو آیم در نبرد",
       "CoupletIndex": 83,
       "SectionIndex1": 4,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: من نمی‌خواهم با تو به جنگ بروم، تو بگو آیا کسی دیگر هم هست که بتواند مقابل من بایستد؟"
     },
     {
       "VOrder": 162,
@@ -3305,7 +3389,8 @@
       "Text": "گفت پاس مهر حق واجب تر است",
       "CoupletIndex": 84,
       "SectionIndex1": 4,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: یعنی باید محبت و پاسداری از حق را مهم‌تر از هر چیز دیگری بدانیم و اگر کسی حق را رهبری می‌کند و ما به محبت او نیاز داریم، باید به او نزدیک شویم و یار او باشیم."
     },
     {
       "VOrder": 164,
@@ -3321,7 +3406,8 @@
       "Text": "ور نه من بر پاس مهر ذوالجلال",
       "CoupletIndex": 85,
       "SectionIndex1": 4,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: اگر نه، من در میدان جنگ با تو به خاطر محبت و بزرگی خداوند مبارزه خواهم کرد."
     },
     {
       "VOrder": 166,
@@ -3337,7 +3423,8 @@
       "Text": "جان من پروردة احسان اوست",
       "CoupletIndex": 86,
       "SectionIndex1": 4,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: جان من به خاطر لطف و محبت او رشد کرده است، و کسی را که با عزیزم دشمنی کند، می‌کشم."
     },
     {
       "VOrder": 168,
@@ -3353,7 +3440,8 @@
       "Text": "من نی ام فرزند کس، نسل حقم",
       "CoupletIndex": 87,
       "SectionIndex1": 4,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: من مانند نی هستم که فرزند کسی نیستم و نسل من از حقیقت است. به عبارتی، من موجودی هستم که از محدودیت‌های دنیای مادی فراتر رفته‌ام."
     },
     {
       "VOrder": 170,
@@ -3369,7 +3457,8 @@
       "Text": "هم تو را الله کُشم نی بر غرض",
       "CoupletIndex": 88,
       "SectionIndex1": 4,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: من نه به خاطر هدفی خاص تو را می‌کشم، بلکه چشمم به پاداش یا جبران نیست."
     },
     {
       "VOrder": 172,
@@ -3385,7 +3474,8 @@
       "Text": "حق تعالی داده پیش از خلقتم",
       "CoupletIndex": 89,
       "SectionIndex1": 4,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: خداوند پیش از آفرینش انسان، تمام نعمت‌ها و بخشش‌هایی را که نیاز دارد به او عطا کرده است."
     },
     {
       "VOrder": 174,
@@ -3401,7 +3491,8 @@
       "Text": "می نخواهم بیش از آن کو داده است",
       "CoupletIndex": 90,
       "SectionIndex1": 4,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: من بیشتر از آنچه که به من داده شده نمی‌خواهم؛ هر فرصتی که نیاز داشته باشم برایم فراهم است."
     },
     {
       "VOrder": 176,
@@ -3417,7 +3508,8 @@
       "Text": "تو درا از باب دولت خواهی ام",
       "CoupletIndex": 91,
       "SectionIndex1": 4,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهم به تو از نعمت‌های زندگی بگویم، تو را از دروازهٔ قدرت و ثروت خواهی دید که می‌توانی با آن صد ملک و گنج از پادشاه بدست آوری."
     },
     {
       "VOrder": 178,
@@ -3433,7 +3525,8 @@
       "Text": "اندر آ، کت در دو کون افضل کنم",
       "CoupletIndex": 92,
       "SectionIndex1": 4,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: بیا، تا در دو دنیا جایت را جاودانه کنم و تو را چون یک قهرمان و شجاع بزرگ بشناسم."
     },
     {
       "VOrder": 180,
@@ -3449,7 +3542,8 @@
       "Text": "نامهای عاریت بیهوده است",
       "CoupletIndex": 93,
       "SectionIndex1": 4,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: نام‌های قرضی و بی‌مورد ارزش ندارند؛ تنها نامی که ارزشمند است، نام احمداست که به نسل پاک و بزرگ او اشاره دارد."
     },
     {
       "VOrder": 182,
@@ -3465,7 +3559,8 @@
       "Text": "اندر آ، تا بنگری میدان ما",
       "CoupletIndex": 94,
       "SectionIndex1": 4,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: بیا و ببین که در کجای میدان ما قرار داری، مانند یک سوارکار ماهر در صف هنرنمایی ما."
     },
     {
       "VOrder": 184,
@@ -3481,7 +3576,8 @@
       "Text": "فرّ احمد(ص) بنگری، ذی فرّ شوی",
       "CoupletIndex": 95,
       "SectionIndex1": 4,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: اگر زیبایی و نور و عظمت پیامبر (ص) را ببینی، چنان مجذوب او می‌شوی که تمام وجودت را به او تسلیم می‌کنی و در این حال، خوشبخت و سعادتمند می‌گردی."
     },
     {
       "VOrder": 186,
@@ -3497,7 +3593,8 @@
       "Text": "کُشت و نزد مصطفی(ص) برد او سرش",
       "CoupletIndex": 96,
       "SectionIndex1": 4,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: او را کشتند و سپس سرش را به نزد پیامبر بردند و پیکرش را به سوی دشت انداختند."
     },
     {
       "VOrder": 188,
@@ -3513,7 +3610,8 @@
       "Text": "گفت این افزون بود در راه دین",
       "CoupletIndex": 97,
       "SectionIndex1": 4,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: این کار به نظر او در راه دین بیش از ثواب کسانی است که در آغاز و پایان زمان بوده‌اند."
     },
     {
       "VOrder": 190,
@@ -3529,7 +3627,8 @@
       "Text": "آنکه خود داد آنچه بودش در حساب",
       "CoupletIndex": 98,
       "SectionIndex1": 4,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: کسی که خود آنچه را داشت به حساب آورد، دیگر نیازی به پاداش ندارد."
     },
     {
       "VOrder": 192,
@@ -3545,7 +3644,8 @@
       "Text": "جای احمد (ص) خفت و تن تقدیم کرد",
       "CoupletIndex": 99,
       "SectionIndex1": 4,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: حضرت احمد (ص) در برابر خداوند، با تواضع و فروتنی تمام خود را تقدیم کرد و سر خود را در سجده به نشانه تسلیم گذاشت."
     },
     {
       "VOrder": 194,
@@ -3561,7 +3661,8 @@
       "Text": "دل به دلبر داد و جان بر جان نواز",
       "CoupletIndex": 100,
       "SectionIndex1": 4,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: دل به محبوب سپرده شد و جان را به کسی که مهربان است هدیه کرد، در عشق معشوق، فرد پاکباز و فداکار شد."
     },
     {
       "VOrder": 196,
@@ -3577,7 +3678,8 @@
       "Text": "بد خلافت حق او و اولاد او",
       "CoupletIndex": 101,
       "SectionIndex1": 4,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که خلافت و رهبری حق، همواره متعلق به او و نسل او است و آنچه که بر یاران او گذشته، از یادشان رفته است."
     },
     {
       "VOrder": 198,
@@ -3593,7 +3695,8 @@
       "Text": "گفت حق ، خواهم عیالت را اسیر",
       "CoupletIndex": 102,
       "SectionIndex1": 4,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: حق گفت: خواهم عیالت را در اسارت بگذارم و همچنین گفت: این کار از توست، نه از فقیر."
     },
     {
       "VOrder": 200,
@@ -3609,7 +3712,8 @@
       "Text": "گفت از حبّ خلایق باش دور",
       "CoupletIndex": 103,
       "SectionIndex1": 4,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: دوست داری از محبت مردم دوری کنی، زیرا من در عشق تو آنقدر غیرت دارم که نمی‌توانم به سمت دیگران بروم."
     },
     {
       "VOrder": 202,
@@ -3625,7 +3729,8 @@
       "Text": "گفت دورم، جز تو کس را دوستدار",
       "CoupletIndex": 104,
       "SectionIndex1": 4,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: گفت که دور از همه هستم و جز تو هیچ کس را دوست ندارم، نه رستم و نه دیگران."
     },
     {
       "VOrder": 204,
@@ -3641,7 +3746,8 @@
       "Text": "زآن بد او را دشمن افزون ، دوست کم",
       "CoupletIndex": 105,
       "SectionIndex1": 4,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: به خاطر بدی او، دشمنانش بیشتر شده‌اند و دوستانش کمتر. این وضعیت باعث می‌شود که راز اتحاد و یکپارچگی‌اش محفوظ بماند."
     },
     {
       "VOrder": 206,
@@ -3657,7 +3763,8 @@
       "Text": "لعل شاهی درخور تاج شه است",
       "CoupletIndex": 106,
       "SectionIndex1": 4,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: در این بیت به این نکته اشاره شده که انگشتر یا جواهری خاص که مخصوص پادشاه یا مقام بلندمرتبه‌ای است، نباید به کسی که فاقد درک و شناخت لازم است، داده شود. به عبارت دیگر، ارزش و زیبایی چیزهای بزرگ و باارزش، نیازمند هم‌ردیفی با افراد شایسته و достой است و نباید به افراد نادان یا بی‌خبر از مقام و منزلت داده شود."
     },
     {
       "VOrder": 208,
@@ -3673,7 +3780,8 @@
       "Text": "عشق را باید ز جان بگذشته ای",
       "CoupletIndex": 107,
       "SectionIndex1": 4,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: عشق حقیقی نیاز دارد که انسان تمام وجودش را فدای آن کند و دلبستگی‌اش به جهان مادی را رها کند."
     },
     {
       "VOrder": 210,
@@ -3689,7 +3797,8 @@
       "Text": "رند قلاش قلندر پیشه ای",
       "CoupletIndex": 108,
       "SectionIndex1": 4,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: یک فرد آزاداندیش و زندگی‌گذر، با کسانی که مانند او هستند و زندگی مشابهی دارند، در ارتباط و هم‌نشینی است."
     },
     {
       "VOrder": 212,
@@ -3705,7 +3814,8 @@
       "Text": "یار حیدر کی شود هر کودنی",
       "CoupletIndex": 109,
       "SectionIndex1": 4,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که دل شجاع و جسارتی مانند حیدر (علی) دارد، نمی‌تواند به سادگی به عنوان دوست او شناخته شود. تنها کسی که از ویژگی‌های حیدر برخوردار باشد، شایسته دوستی اوست."
     },
     {
       "VOrder": 214,
@@ -3721,7 +3831,8 @@
       "Text": "آنکه او را در ارادت بنده شد",
       "CoupletIndex": 110,
       "SectionIndex1": 4,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: کسی که در محبت و ارادت خود به حق، تسلیم و فانی شود، حقیقتاً به وجود حقیقی دست یافته و در عالم حقیقت زنده می‌گردد."
     },
     {
       "VOrder": 216,
@@ -3737,7 +3848,8 @@
       "Text": "حبّ او این نیست تا هر ناکسی",
       "CoupletIndex": 111,
       "SectionIndex1": 4,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: عشق او به راحتی با محبت هر شخص بی‌ارزش و کم‌مقدار ترکیب نمی‌شود."
     },
     {
       "VOrder": 218,
@@ -3753,7 +3865,8 @@
       "Text": "حبّ دنیا تا نپردازی ز دل",
       "CoupletIndex": 112,
       "SectionIndex1": 4,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: عشق به دنیا تا زمانی که از دل پاک نشود، راهی برای رسیدن به مسیر درست و معتدل نخواهی داشت."
     },
     {
       "VOrder": 220,
@@ -3769,7 +3882,8 @@
       "Text": "حبّ حیدر (ع) شرط مقصود و ره است",
       "CoupletIndex": 113,
       "SectionIndex1": 4,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: عشق به حضرت علی (ع) شرط لازم برای رسیدن به هدف و مسیر درست است و توصیف و مفهوم «لا اله الا الله» به این عشق وابسته است."
     },
     {
       "VOrder": 222,
@@ -3785,7 +3899,8 @@
       "Text": "گوش کن من کنت مولا از رسول",
       "CoupletIndex": 114,
       "SectionIndex1": 4,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: به دقت گوش کن! پیامبر خدا فرمود: هر که من ولی او هستم، علی ولی اوست. این جمله بر پایه توحید در اصول دین است."
     },
     {
       "VOrder": 224,
@@ -3801,7 +3916,8 @@
       "Text": "پیروی کن کیش ابراهیم را",
       "CoupletIndex": 115,
       "SectionIndex1": 4,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: از مکتب ابراهیم پیروی کن، اگر به دنبال یادگیری توحید هستی."
     },
     {
       "VOrder": 226,
@@ -3817,7 +3933,8 @@
       "Text": "حق تعالی برگرفت او را به دوست",
       "CoupletIndex": 116,
       "SectionIndex1": 4,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: خداوند او را به عنوان دوست برگزید و هر کس که حق را یاری کند، مولای تو همان است."
     },
     {
       "VOrder": 228,
@@ -3833,7 +3950,8 @@
       "Text": "گفت پیغمبر مرا تا دوست کیست",
       "CoupletIndex": 117,
       "SectionIndex1": 4,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: پیامبر فرمود که دوست واقعی کیست؛ دوستی که با ولیّ حق، علی، همراه باشد."
     },
     {
       "VOrder": 230,
@@ -3849,7 +3967,8 @@
       "Text": "با پیمبر هر که نبود دوست او",
       "CoupletIndex": 118,
       "SectionIndex1": 4,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که با پیامبر دوستی نداشته باشد، به نوعی در مسیر نادرست قرار گرفته و از حقیقت دور است."
     },
     {
       "VOrder": 232,
@@ -3865,7 +3984,8 @@
       "Text": "من نگویم ترک کن شیخین را",
       "CoupletIndex": 119,
       "SectionIndex1": 4,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: من نمی‌گویم که شیخین را رها کن، ولی بگذار احول به چشمانت نگاه کند."
     },
     {
       "VOrder": 234,
@@ -3881,7 +4001,8 @@
       "Text": "هر که بشناسد به نورانیّتش",
       "CoupletIndex": 120,
       "SectionIndex1": 4,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که به نورانیت یک موجود پی ببرد، می‌تواند وحدت آن را در میان کثرت‌ها به وضوح مشاهده کند."
     },
     {
       "VOrder": 236,
@@ -3897,7 +4018,8 @@
       "Text": "وحدت اندر کثرت آمد مختفی",
       "CoupletIndex": 121,
       "SectionIndex1": 4,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: در میان چیزهای متنوع و متعدد، وحدت پنهان است. برای درک دقیق این وحدت، باید به دقت و با جزئیات بیشتری تحقیق کنیم."
     },
     {
       "VOrder": 238,
@@ -3913,7 +4035,8 @@
       "Text": "کثرت و وحدت دو وصف از ذات اوست",
       "CoupletIndex": 122,
       "SectionIndex1": 4,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: کثرت و وحدت، هر کدام ویژگی‌هایی از ذات خداوند هستند و هر یک به نوبه خود نمایانگر او به شمار می‌روند."
     },
     {
       "VOrder": 240,
@@ -3929,7 +4052,8 @@
       "Text": "هست از حق آنچه در ارض و سماست",
       "CoupletIndex": 123,
       "SectionIndex1": 4,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: هرچه در زمین و آسمان وجود دارد، به حقیقت از خداوند است و او به هر چیزی که غیر از خودش باشد، احاطه دارد."
     },
     {
       "VOrder": 242,
@@ -3945,7 +4069,8 @@
       "Text": "نیست محتاج او به افعال عباد",
       "CoupletIndex": 124,
       "SectionIndex1": 4,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: او به اعمال بندگان نیازی ندارد، بنابراین هیچ‌کس نمی‌تواند با سرکشی یا اطاعت خود او را تحت تأثیر قرار دهد."
     },
     {
       "VOrder": 244,
@@ -3961,7 +4086,8 @@
       "Text": "از تو میجویند فتوا مردمان",
       "CoupletIndex": 125,
       "SectionIndex1": 4,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: مردم درباره حقوق و ارث زنان از تو نظر و راهنمایی می‌گیرند."
     },
     {
       "VOrder": 246,
@@ -3977,7 +4103,8 @@
       "Text": "کز چه نصف ارث باشد بالعیان",
       "CoupletIndex": 126,
       "SectionIndex1": 4,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: چرا باید سهم ارث دختر به وضوح نصف باشد، یا سهم خواهران چه دلیلی دارد که کاهش یابد؟"
     },
     {
       "VOrder": 248,
@@ -3993,7 +4120,8 @@
       "Text": "گو به ایشان داده حق فتوا چنین",
       "CoupletIndex": 127,
       "SectionIndex1": 4,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: به آن‌ها بگو که در کتاب خود، توضیحی قاطع درباره فتوا داده شده است."
     },
     {
       "VOrder": 250,
@@ -4009,7 +4137,8 @@
       "Text": "آنچه در میراث ایتام نساست",
       "CoupletIndex": 128,
       "SectionIndex1": 4,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: آنچه که در ارث یتیمان نگهداری نشده است، حتی اگر صاحب مال آن یتیم فردی ثروتمند باشد یا بی‌پول، به حال خود باقی می‌ماند."
     },
     {
       "VOrder": 252,
@@ -4025,7 +4154,8 @@
       "Text": "آن زنانی که شما ندهید باز",
       "CoupletIndex": 129,
       "SectionIndex1": 4,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: زنان زمانی که از شما حقوق و جایگاه مناسبشان را دریافت نکنند، از نظر خداوند به امتیاز ویژه‌ای دست نخواهند یافت."
     },
     {
       "VOrder": 254,
@@ -4041,7 +4171,8 @@
       "Text": "بر نکاح آن زنان رغبت برید",
       "CoupletIndex": 130,
       "SectionIndex1": 4,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "هوش مصنوعی: بهتر است با آن زنان ازدواج کنید تا از اموال نیازمندان بهره‌برداری کنید."
     },
     {
       "VOrder": 256,
@@ -4057,7 +4188,8 @@
       "Text": "لاجرم منع نکاح دیگران",
       "CoupletIndex": 131,
       "SectionIndex1": 4,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "هوش مصنوعی: پس طبیعی است که به خاطر میل به ثروت آن زنان، شما مانع ازدواج دیگران می‌شوید."
     },
     {
       "VOrder": 258,
@@ -4073,7 +4205,8 @@
       "Text": "بود اندر جاهلیّت رسم این",
       "CoupletIndex": 132,
       "SectionIndex1": 4,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "هوش مصنوعی: در دوران جاهلیت، این سنت وجود داشت که اگر یتیمی دختری زیبا داشت، به او بی‌اعتنایی می‌کردند."
     },
     {
       "VOrder": 260,
@@ -4089,7 +4222,8 @@
       "Text": "آن ولیّ آوردی او را در نکاح",
       "CoupletIndex": 133,
       "SectionIndex1": 4,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "هوش مصنوعی: او را به همسری گرفتند تا ثروتش به انواع مختلف مورد سوءاستفاده قرار گیرد و در نتیجه، آبرویش برود."
     },
     {
       "VOrder": 262,
@@ -4105,7 +4239,8 @@
       "Text": "ور نبودش حسن مانع بد ولیّ",
       "CoupletIndex": 134,
       "SectionIndex1": 4,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "هوش مصنوعی: اگر او حسن و زیبایی نداشته باشد، مانع از ازدواج او با ولی (غیر از خود) تا مرگ، تنها به خاطر بددلی است."
     },
     {
       "VOrder": 264,
@@ -4121,7 +4256,8 @@
       "Text": "تا برد مالش مبادا دیگری",
       "CoupletIndex": 135,
       "SectionIndex1": 4,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "هوش مصنوعی: مراقب باشید که مبادا دیگری مال شما را بردارد و برود، چون این کار به شما آسیب می‌زند."
     },
     {
       "VOrder": 266,
@@ -4137,7 +4273,8 @@
       "Text": "تَرْغَبونَ أن تَنکِحوهنَّ از آن",
       "CoupletIndex": 136,
       "SectionIndex1": 4,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "هوش مصنوعی: شما میل دارید که با آن زنان ازدواج کنید، اما این عمل زشت و ناپسند است."
     },
     {
       "VOrder": 268,
@@ -4153,7 +4290,8 @@
       "Text": "هست اندرو قُل لَا تَؤْتُو نَهنَّ",
       "CoupletIndex": 137,
       "SectionIndex1": 4,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "هوش مصنوعی: در آنجا بگوید که به او دستور ندهید، تا زمانی که بفهمید در گفتار او چه اندازه از حقیقت وجود دارد."
     },
     {
       "VOrder": 270,
@@ -4169,7 +4307,8 @@
       "Text": "اول آنکه بر زنان میراث بود",
       "CoupletIndex": 138,
       "SectionIndex1": 4,
-      "SectionIndex2": 62
+      "SectionIndex2": 62,
+      "CoupletSummary": "هوش مصنوعی: در ابتدا باید گفت که در دوران جاهلیت، زنان از حق ارث محروم بودند و این موضوع به دلیل نادیده گرفتن مقام آن‌ها به وجود آمده بود."
     },
     {
       "VOrder": 272,
@@ -4185,7 +4324,8 @@
       "Text": "دویم آنکه می ندادندی صداق",
       "CoupletIndex": 139,
       "SectionIndex1": 4,
-      "SectionIndex2": 63
+      "SectionIndex2": 63,
+      "CoupletSummary": "هوش مصنوعی: در گذشته، به خاطر نادانی، به طور مشترک و بدون هیچ تردیدی، مهریه همسران را پرداخت نمی‌کردند."
     },
     {
       "VOrder": 274,
@@ -4201,7 +4341,8 @@
       "Text": "سیّم آنکه دختران را از رجال",
       "CoupletIndex": 140,
       "SectionIndex1": 4,
-      "SectionIndex2": 64
+      "SectionIndex2": 64,
+      "CoupletSummary": "هوش مصنوعی: دختران از مردان دور می‌ماندند به خاطر حریص بودن به مال و ثروت."
     },
     {
       "VOrder": 276,
@@ -4217,7 +4358,8 @@
       "Text": "حق تعالی نهی ایشان زآن سرشت",
       "CoupletIndex": 141,
       "SectionIndex1": 4,
-      "SectionIndex2": 65
+      "SectionIndex2": 65,
+      "CoupletSummary": "هوش مصنوعی: خداوند متعال به واسطهٔ این آیه به آنها می‌گوید که از آن ویژگی‌ها و صفات زشت خودداری کنند، زیرا آن عیوب ناپسند و زشت هستند."
     },
     {
       "VOrder": 278,
@@ -4233,7 +4375,8 @@
       "Text": "وآن ضعیفان یعنی ایتام نساء",
       "CoupletIndex": 142,
       "SectionIndex1": 4,
-      "SectionIndex2": 66
+      "SectionIndex2": 66,
+      "CoupletSummary": "هوش مصنوعی: این دو گروه شامل یتیم‌ها و فرزندان کوچک از خاندان‌های نزدیک هستند."
     },
     {
       "VOrder": 280,
@@ -4249,7 +4392,8 @@
       "Text": "که نمی دادندشان میراث هیچ",
       "CoupletIndex": 143,
       "SectionIndex1": 4,
-      "SectionIndex2": 67
+      "SectionIndex2": 67,
+      "CoupletSummary": "هوش مصنوعی: در اینجا به موضوع ندادن ارث به گروهی اشاره شده است، که این عمل در میان جمعیت، از نظر اخلاقی و اجتماعی بسیار ناپسند و زشت محسوب می‌شود."
     },
     {
       "VOrder": 282,
@@ -4265,7 +4409,8 @@
       "Text": "ایستادن واجب آمد بر شما",
       "CoupletIndex": 144,
       "SectionIndex1": 4,
-      "SectionIndex2": 68
+      "SectionIndex2": 68,
+      "CoupletSummary": "هوش مصنوعی: ایستادن و برقراری عدالت، به خصوص برای یتیمان و زنان، بر شما واجب و لازم است."
     },
     {
       "VOrder": 284,
@@ -4281,7 +4426,8 @@
       "Text": "در مهم مهر و در میراثشان",
       "CoupletIndex": 145,
       "SectionIndex1": 4,
-      "SectionIndex2": 69
+      "SectionIndex2": 69,
+      "CoupletSummary": "هوش مصنوعی: در جشن بزرگ مهر، حقوق و میراثشان باید بازگردانده شود و ظلم‌ها از نو ساخته شده برطرف گردد."
     },
     {
       "VOrder": 286,
@@ -4297,7 +4443,8 @@
       "Text": "بر یتیمان آنچه از نیکی کنید",
       "CoupletIndex": 146,
       "SectionIndex1": 4,
-      "SectionIndex2": 70
+      "SectionIndex2": 70,
+      "CoupletSummary": "هوش مصنوعی: هر نوع خوبی که به یتیمان می‌کنید، بدانید که حق آن بر گردن شماست و نیازی به گفتن و توضیح نیست."
     },
     {
       "VOrder": 288,
@@ -4313,7 +4460,8 @@
       "Text": "ور زنی ترسد که اندر بسترش",
       "CoupletIndex": 147,
       "SectionIndex1": 4,
-      "SectionIndex2": 71
+      "SectionIndex2": 71,
+      "CoupletSummary": "هوش مصنوعی: اگر زن از اینکه شوهری بالای سرش باشد بترسد، همچنان به خاطر تنفر شوهرش از او ناراحت خواهد شد."
     },
     {
       "VOrder": 290,
@@ -4329,7 +4477,8 @@
       "Text": "وز قرینه یابد او را بی وثوق",
       "CoupletIndex": 148,
       "SectionIndex1": 4,
-      "SectionIndex2": 72
+      "SectionIndex2": 72,
+      "CoupletSummary": "هوش مصنوعی: از روی نشانه‌ها او را شناسایی می‌کند؛ یا اینکه به خاطر نداشتن اعتماد، در پی جلوگیری از حق و حقوق است."
     },
     {
       "VOrder": 292,
@@ -4345,7 +4494,8 @@
       "Text": "پس گناهی نیست در اصلاح اگر",
       "CoupletIndex": 149,
       "SectionIndex1": 4,
-      "SectionIndex2": 73
+      "SectionIndex2": 73,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی از حقوق دیگری بگذرد و به اصلاح امور بپردازد، گناهی در این کار وجود ندارد."
     },
     {
       "VOrder": 294,
@@ -4361,7 +4511,8 @@
       "Text": "زن ببخشد چیزی از مهرش به او",
       "CoupletIndex": 150,
       "SectionIndex1": 4,
-      "SectionIndex2": 74
+      "SectionIndex2": 74,
+      "CoupletSummary": "هوش مصنوعی: زن، چیزی از محبتش را به او عطا می‌کند، و بدون هیچ چانه‌زنی، نوبت او نیز خواهد رسید."
     },
     {
       "VOrder": 296,
@@ -4377,7 +4528,8 @@
       "Text": "مرد هم دارد حقوق زن نگاه",
       "CoupletIndex": 151,
       "SectionIndex1": 4,
-      "SectionIndex2": 75
+      "SectionIndex2": 75,
+      "CoupletSummary": "هوش مصنوعی: مرد باید حقوق زن را محترم بشمارد و نباید او را از خود جدا ببیند."
     },
     {
       "VOrder": 298,
@@ -4393,7 +4545,8 @@
       "Text": "صلح باشد بهتر از جنگ و طلاق",
       "CoupletIndex": 152,
       "SectionIndex1": 4,
-      "SectionIndex2": 76
+      "SectionIndex2": 76,
+      "CoupletSummary": "هوش مصنوعی: بهتر است که صلح بر جنگ و جدایی اولویت داشته باشد، زیرا توافق و همبستگی ارزش بیشتری دارد تا جدا شدن و تفرقه."
     },
     {
       "VOrder": 300,
@@ -4409,7 +4562,8 @@
       "Text": "نفس ها بر بخل حاضر گشته اند",
       "CoupletIndex": 153,
       "SectionIndex1": 4,
-      "SectionIndex2": 77
+      "SectionIndex2": 77,
+      "CoupletSummary": "هوش مصنوعی: انگار که نفس‌ها تحت تاثیر حسد و منیت قرار گرفته‌اند و به سمت خودخواهی و خساست تمایل پیدا کرده‌اند."
     },
     {
       "VOrder": 302,
@@ -4425,7 +4579,8 @@
       "Text": "زن کند بر مرد ضنّت گر که او",
       "CoupletIndex": 154,
       "SectionIndex1": 4,
-      "SectionIndex2": 78
+      "SectionIndex2": 78,
+      "CoupletSummary": "هوش مصنوعی: زنی که به شوهرش مشکوک است، اگر فکر کند که او ممکن است با زن دیگری ارتباط برقرار کند، نسبت به او احساس خطر و نگرانی خواهد کرد."
     },
     {
       "VOrder": 304,
@@ -4441,7 +4596,8 @@
       "Text": "مرد هم خسّت کند زو در معاش",
       "CoupletIndex": 155,
       "SectionIndex1": 4,
-      "SectionIndex2": 79
+      "SectionIndex2": 79,
+      "CoupletSummary": "هوش مصنوعی: مرد به قدری در هزینه کردن خسیس است که همانطور که در خواب به فکر پول است، در معاشرت نیز همانطور عمل می‌کند."
     },
     {
       "VOrder": 306,
@@ -4457,7 +4613,8 @@
       "Text": "حقد و بخل اندر نهاد مرد و زن",
       "CoupletIndex": 156,
       "SectionIndex1": 4,
-      "SectionIndex2": 80
+      "SectionIndex2": 80,
+      "CoupletSummary": "هوش مصنوعی: کینه و حسادت در وجود مرد و زن به طور عمیق وجود دارد، مانند رگ‌هایی که در بدن به هم پیوسته‌اند."
     },
     {
       "VOrder": 308,
@@ -4473,7 +4630,8 @@
       "Text": "بس بود مشکل که آن خوی سگش",
       "CoupletIndex": 157,
       "SectionIndex1": 4,
-      "SectionIndex2": 81
+      "SectionIndex2": 81,
+      "CoupletSummary": "هوش مصنوعی: مشکل این است که تا آن خوی سگش برطرف شود، حتی یک رگ او نیز تکان نمی‌خورد."
     },
     {
       "VOrder": 310,
@@ -4489,7 +4647,8 @@
       "Text": "خوبی و پرهیز اگر گیرید پیش",
       "CoupletIndex": 158,
       "SectionIndex1": 4,
-      "SectionIndex2": 82
+      "SectionIndex2": 82,
+      "CoupletSummary": "هوش مصنوعی: اگر به خوبی و پرهیزکاری روی بیاوری و از بدی‌ها دوری کنی، می‌توانی به حفظ و پاسداری از دین و ایمان خود بپردازی."
     },
     {
       "VOrder": 312,
@@ -4505,7 +4664,8 @@
       "Text": "پس خدا بر کارتان باشد خبیر",
       "CoupletIndex": 159,
       "SectionIndex1": 4,
-      "SectionIndex2": 83
+      "SectionIndex2": 83,
+      "CoupletSummary": "هوش مصنوعی: پس خداوند در کارهای شما نظارت دارد و همواره در کارهای خوب و در موقعیت‌های خصمانه به شما کمک خواهد کرد."
     },
     {
       "VOrder": 314,
@@ -4521,7 +4681,8 @@
       "Text": "ور که نتوانید عدل و استوا",
       "CoupletIndex": 160,
       "SectionIndex1": 4,
-      "SectionIndex2": 84
+      "SectionIndex2": 84,
+      "CoupletSummary": "هوش مصنوعی: اگر نمی‌توانید عدالت و توازن را در بین مردم برقرار کنید، بهتر است که در میان آن‌ها نباشید."
     },
     {
       "VOrder": 316,
@@ -4537,7 +4698,8 @@
       "Text": "ور حریصید اندر آن یعنی مصر",
       "CoupletIndex": 161,
       "SectionIndex1": 4,
-      "SectionIndex2": 85
+      "SectionIndex2": 85,
+      "CoupletSummary": "هوش مصنوعی: اگر در پی به دست آوردن و طلب کردن هستید، بهتر است در مصر تلاش کنید، تا به وضعیت متعادلی در خیر و نیکی برسید."
     },
     {
       "VOrder": 318,
@@ -4553,7 +4715,8 @@
       "Text": "جز تساوی بینشان منظور نیست",
       "CoupletIndex": 162,
       "SectionIndex1": 4,
-      "SectionIndex2": 86
+      "SectionIndex2": 86,
+      "CoupletSummary": "هوش مصنوعی: تنها هدف آنها برقراری تساوی میان آنهاست و این کار برای شما امکان‌پذیر نیست."
     },
     {
       "VOrder": 320,
@@ -4569,7 +4732,8 @@
       "Text": "مصطفی(ص) ز اصلاح نسوان عذر داشت",
       "CoupletIndex": 163,
       "SectionIndex1": 4,
-      "SectionIndex2": 87
+      "SectionIndex2": 87,
+      "CoupletSummary": "هوش مصنوعی: پیامبر(ص) از اصلاح زنان عذر می‌آورد و کار اصلاح آن‌ها را به خدا واگذار می‌کرد."
     },
     {
       "VOrder": 322,
@@ -4585,7 +4749,8 @@
       "Text": "کاین قدر باشد ز من باقی ز توست",
       "CoupletIndex": 164,
       "SectionIndex1": 4,
-      "SectionIndex2": 88
+      "SectionIndex2": 88,
+      "CoupletSummary": "هوش مصنوعی: هر چه از من باقی مانده است، به خاطر توست، زیرا هر نقص و کمبودی که در من وجود دارد، با کمک تو به کمال می‌رسد."
     },
     {
       "VOrder": 324,
@@ -4601,7 +4766,8 @@
       "Text": "میل پس نارید اندر اجتماع",
       "CoupletIndex": 165,
       "SectionIndex1": 4,
-      "SectionIndex2": 89
+      "SectionIndex2": 89,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که تمایلات و خواسته‌ها را نمی‌توان در جمع و اجتماع برآورده کرد. در واقع، آرزوهای قلبی انسان نیازمند ترک برخی از امکانات و محدودیت‌هاست تا به تحقق برسد."
     },
     {
       "VOrder": 326,
@@ -4617,7 +4783,8 @@
       "Text": "میلتان باشد به نصف و اعتدال",
       "CoupletIndex": 166,
       "SectionIndex1": 4,
-      "SectionIndex2": 90
+      "SectionIndex2": 90,
+      "CoupletSummary": "هوش مصنوعی: خواسته‌تان این است که به میانه‌روی و تعادل برسید، هرچند که این کار بسیار دشوار است."
     },
     {
       "VOrder": 328,
@@ -4633,7 +4800,8 @@
       "Text": "مشکل است اعنی که فعل معتدل",
       "CoupletIndex": 167,
       "SectionIndex1": 4,
-      "SectionIndex2": 91
+      "SectionIndex2": 91,
+      "CoupletSummary": "هوش مصنوعی: پیدا کردن چیزی که به طور طبیعی و بدون مشکل با خواسته‌های دل انسان هماهنگ شود، کار دشواری است."
     },
     {
       "VOrder": 330,
@@ -4649,7 +4817,8 @@
       "Text": "گفت زآن بِه نیّتی کز مؤمن است",
       "CoupletIndex": 168,
       "SectionIndex1": 4,
-      "SectionIndex2": 92
+      "SectionIndex2": 92,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معنی است که از نیّت و هدفی که با ایمان و درستکاری همراه است، بهتر از هر عملی است که ممکن است انجام شود. در واقع، نیّت خوب و مخلصانه از عمل‌هایی که قابل انجام هستند، ارزشمندتر است."
     },
     {
       "VOrder": 332,
@@ -4665,7 +4834,8 @@
       "Text": "آن تو را مقدور و این مقدور نیست",
       "CoupletIndex": 169,
       "SectionIndex1": 4,
-      "SectionIndex2": 93
+      "SectionIndex2": 93,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که برای تو ممکن است، شاید برای دیگران امکان‌پذیر نباشد. اگر آنچه که برای تو ممکن است، بهتر از آن چیزی باشد که در دسترس دیگران است، پس بهتر است از آن دوری کنی."
     },
     {
       "VOrder": 334,
@@ -4681,7 +4851,8 @@
       "Text": "بین نسوان نیّتت بر نصفت است",
       "CoupletIndex": 170,
       "SectionIndex1": 4,
-      "SectionIndex2": 94
+      "SectionIndex2": 94,
+      "CoupletSummary": "هوش مصنوعی: میان زنان، هدف تو برابری است، اما در اجرایی کردن این هدف با دشواری‌هایی مواجه هستی."
     },
     {
       "VOrder": 336,
@@ -4697,7 +4868,8 @@
       "Text": "میل دل پس گفت بر یک رو مکن",
       "CoupletIndex": 171,
       "SectionIndex1": 4,
-      "SectionIndex2": 95
+      "SectionIndex2": 95,
+      "CoupletSummary": "هوش مصنوعی: میل دل به تو می‌گوید که بر یک روی خود نچرخ و از کمک به زن بدخلق دست نکش."
     },
     {
       "VOrder": 338,
@@ -4713,7 +4885,8 @@
       "Text": "آنکه باشد در تمتع نیک تر",
       "CoupletIndex": 172,
       "SectionIndex1": 4,
-      "SectionIndex2": 96
+      "SectionIndex2": 96,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی در لذت و بهره‌مندی بهتری دارد، به دل خود نزدیک‌تر از او میل نداشته باش."
     },
     {
       "VOrder": 340,
@@ -4729,7 +4902,8 @@
       "Text": "پس گذارید آن زن مرغوب را",
       "CoupletIndex": 173,
       "SectionIndex1": 4,
-      "SectionIndex2": 97
+      "SectionIndex2": 97,
+      "CoupletSummary": "هوش مصنوعی: پس بگذارید آن زن ارزشمند را مانند چیزی معلق در فضایی از نیکی و پاداش نگه دارید."
     },
     {
       "VOrder": 342,
@@ -4745,7 +4919,8 @@
       "Text": "مر معلق کیست در موضوع ما",
       "CoupletIndex": 174,
       "SectionIndex1": 4,
-      "SectionIndex2": 98
+      "SectionIndex2": 98,
+      "CoupletSummary": "هوش مصنوعی: این فردی که در موضوع ما صحبت می‌کند، نه تنها بیوه نیست، بلکه به هیچ عنوان هم مطابق میل و خواسته ما نیست."
     },
     {
       "VOrder": 344,
@@ -4761,7 +4936,8 @@
       "Text": "در حدیث آمد که باشد بهر مرد",
       "CoupletIndex": 175,
       "SectionIndex1": 4,
-      "SectionIndex2": 99
+      "SectionIndex2": 99,
+      "CoupletSummary": "هوش مصنوعی: در روایت آمده است که مرد می‌تواند دو همسر داشته باشد، اما اگر به یکی از آن‌ها بیشتر تمایل پیدا کند، باید به او توجه بیشتری کند."
     },
     {
       "VOrder": 346,
@@ -4777,7 +4953,8 @@
       "Text": "در قیامت کرده باشد از غلو",
       "CoupletIndex": 176,
       "SectionIndex1": 4,
-      "SectionIndex2": 100
+      "SectionIndex2": 100,
+      "CoupletSummary": "هوش مصنوعی: در روز قیامت، ممکن است نیمه‌ای از بدن انسان به سمت پشت او متمایل شود و این به نوعی تاکید بر گناه یا اعمال نادرست او در زندگی است."
     },
     {
       "VOrder": 348,
@@ -4793,7 +4970,8 @@
       "Text": "ور به اصلاح آورید از انتباه",
       "CoupletIndex": 177,
       "SectionIndex1": 4,
-      "SectionIndex2": 101
+      "SectionIndex2": 101,
+      "CoupletSummary": "هوش مصنوعی: اگر شما از خطاهای گذشته‌تان در مورد حقوق زنان آگاه شوید و آن‌ها را اصلاح کنید، می‌توانید به بهبود وضعیت کمک کنید."
     },
     {
       "VOrder": 350,
@@ -4809,7 +4987,8 @@
       "Text": "هم بپرهیزید از امثال آن",
       "CoupletIndex": 178,
       "SectionIndex1": 4,
-      "SectionIndex2": 102
+      "SectionIndex2": 102,
+      "CoupletSummary": "هوش مصنوعی: از موارد مشابه این یعنی از نادیده گرفتن حق آن زنان دوری کنید."
     },
     {
       "VOrder": 352,
@@ -4825,7 +5004,8 @@
       "Text": "پس خدا بر ماضی آمرزنده است",
       "CoupletIndex": 179,
       "SectionIndex1": 4,
-      "SectionIndex2": 103
+      "SectionIndex2": 103,
+      "CoupletSummary": "هوش مصنوعی: خداوند همواره گذشته را می‌آمرزد و همچنین در بخشش به بندگانش بسیار مهربان است."
     },
     {
       "VOrder": 354,
@@ -4841,7 +5021,8 @@
       "Text": "مردی ار او راست یک زن در طلب",
       "CoupletIndex": 180,
       "SectionIndex1": 4,
-      "SectionIndex2": 104
+      "SectionIndex2": 104,
+      "CoupletSummary": "هوش مصنوعی: مردی که راست و درستکار باشد، اگر زنی به دنبال او باشد، یک شب او ارزش بیشتری از چهار شب دیگر دارد."
     },
     {
       "VOrder": 356,
@@ -4857,7 +5038,8 @@
       "Text": "همچنین تا چار زن گر دارد او",
       "CoupletIndex": 181,
       "SectionIndex1": 4,
-      "SectionIndex2": 105
+      "SectionIndex2": 105,
+      "CoupletSummary": "هوش مصنوعی: اگر او چهار همسر داشته باشد، بدون شک او در شب نمی‌تواند بدون گفتگو با آنها باشد."
     },
     {
       "VOrder": 358,
@@ -4873,7 +5055,8 @@
       "Text": "مصطفی(ص) را بود نُه زن در وثاق",
       "CoupletIndex": 182,
       "SectionIndex1": 4,
-      "SectionIndex2": 106
+      "SectionIndex2": 106,
+      "CoupletSummary": "هوش مصنوعی: مصطفی(ص) نه همسر داشت و هر شب به نوبت با یکی از آنها می‌گذرانید."
     },
     {
       "VOrder": 360,
@@ -4889,7 +5072,8 @@
       "Text": "گشت چون بیمار می بردند باز",
       "CoupletIndex": 183,
       "SectionIndex1": 4,
-      "SectionIndex2": 107
+      "SectionIndex2": 107,
+      "CoupletSummary": "هوش مصنوعی: زمانی که بیمار را به بسترش منتقل می‌کردند، هر شب او را به مکانی خاص می‌بردند که چشمگیر و ممتاز بود."
     },
     {
       "VOrder": 362,
@@ -4905,7 +5089,8 @@
       "Text": "تا از او خوشنود باشند آن همه",
       "CoupletIndex": 184,
       "SectionIndex1": 4,
-      "SectionIndex2": 108
+      "SectionIndex2": 108,
+      "CoupletSummary": "هوش مصنوعی: برای اینکه همه از او راضی و خرسند باشند، هیچ ظلم و بی‌عدالتی بر کسی روا نخواهد شد."
     },
     {
       "VOrder": 364,
@@ -4921,7 +5106,8 @@
       "Text": "در یکی روز از معاذ بن جبل",
       "CoupletIndex": 185,
       "SectionIndex1": 4,
-      "SectionIndex2": 109
+      "SectionIndex2": 109,
+      "CoupletSummary": "هوش مصنوعی: روزی معاذ بن جبل خبر داد که در محل، دو زن به دلیل بیماری واگیر فوت کردند."
     },
     {
       "VOrder": 366,
@@ -4937,7 +5123,8 @@
       "Text": "قرعه زد در دفن و کفن آن نیکنام",
       "CoupletIndex": 186,
       "SectionIndex1": 4,
-      "SectionIndex2": 110
+      "SectionIndex2": 110,
+      "CoupletSummary": "هوش مصنوعی: در مراسم دفن و کفن کسی که خوب و نیک‌نام است، قرعه‌ای زده شد تا مشخص کنند کدام یک از آنها مقدم است."
     },
     {
       "VOrder": 368,
@@ -4953,7 +5140,8 @@
       "Text": "هر یک از زوجین گشتند ار جدا",
       "CoupletIndex": 187,
       "SectionIndex1": 4,
-      "SectionIndex2": 111
+      "SectionIndex2": 111,
+      "CoupletSummary": "هوش مصنوعی: هر یک از دو نفر که با هم بیگانه شوند و ارتباط محبت‌آمیز و همکاری را قطع کنند، در واقع از مسیر دوستی و همبستگی خارج شده‌اند."
     },
     {
       "VOrder": 370,
@@ -4969,7 +5157,8 @@
       "Text": "از رفیق و صاحب خود در مجاز",
       "CoupletIndex": 188,
       "SectionIndex1": 4,
-      "SectionIndex2": 112
+      "SectionIndex2": 112,
+      "CoupletSummary": "هوش مصنوعی: هر کس که با دوست و صاحب خود باشد، باید طوری باشد که از آن‌ها بی‌نیاز باشد و به اعتبار خود، حق آن‌ها را بشناسد."
     },
     {
       "VOrder": 372,
@@ -4985,7 +5174,8 @@
       "Text": "از فراوانی فضل و جود خویش",
       "CoupletIndex": 189,
       "SectionIndex1": 4,
-      "SectionIndex2": 113
+      "SectionIndex2": 113,
+      "CoupletSummary": "هوش مصنوعی: از کمیابی نعمت و بخشش خود، یا از دل، برای آنان چیزی به پیش می‌آورد."
     },
     {
       "VOrder": 374,
@@ -5001,7 +5191,8 @@
       "Text": "میرساند رزقشان بر وفق حال",
       "CoupletIndex": 190,
       "SectionIndex1": 4,
-      "SectionIndex2": 114
+      "SectionIndex2": 114,
+      "CoupletSummary": "هوش مصنوعی: خداوند به بندگانش روزی می‌دهد و این روزی را بر اساس نیاز و شرایط آن‌ها تنظیم می‌کند."
     },
     {
       "VOrder": 376,
@@ -5017,7 +5208,8 @@
       "Text": "حکمتش سازد وسایل بهر خلق",
       "CoupletIndex": 191,
       "SectionIndex1": 4,
-      "SectionIndex2": 115
+      "SectionIndex2": 115,
+      "CoupletSummary": "هوش مصنوعی: خداوند بر اساس حکمت خود، امکاناتی برای مردم فراهم می‌کند و از طریق راه‌های استوار روزی آنها را می‌رساند و به زندگی‌شان سامان می‌دهد."
     },
     {
       "VOrder": 378,
@@ -5033,7 +5225,8 @@
       "Text": "باشد از وی هر چه در ارض و سماست",
       "CoupletIndex": 192,
       "SectionIndex1": 4,
-      "SectionIndex2": 116
+      "SectionIndex2": 116,
+      "CoupletSummary": "هوش مصنوعی: از او هر چیزی که در زمین و آسمان وجود دارد به هر کسی که بخواهد می‌رساند."
     },
     {
       "VOrder": 380,
@@ -5049,7 +5242,8 @@
       "Text": "ما وصیّت کرده ایم اندر خطاب",
       "CoupletIndex": 193,
       "SectionIndex1": 4,
-      "SectionIndex2": 117
+      "SectionIndex2": 117,
+      "CoupletSummary": "هوش مصنوعی: ما پیش از اهل کتاب به شما توصیه کرده‌ایم."
     },
     {
       "VOrder": 382,
@@ -5065,7 +5259,8 @@
       "Text": "هم وصیّت مینمایم بر شما",
       "CoupletIndex": 194,
       "SectionIndex1": 4,
-      "SectionIndex2": 118
+      "SectionIndex2": 118,
+      "CoupletSummary": "هوش مصنوعی: من به شما وصیت می‌کنم که از شرک و پیروی از هوس‌ها بپرهیزید."
     },
     {
       "VOrder": 384,
@@ -5081,7 +5276,8 @@
       "Text": "ور به ترک امر حق کافر شوید",
       "CoupletIndex": 195,
       "SectionIndex1": 4,
-      "SectionIndex2": 119
+      "SectionIndex2": 119,
+      "CoupletSummary": "هوش مصنوعی: اگر به ترک دستورهای خدا ایمان نداشته باشید، هرگز به فرمان الهی توجه نکنید."
     },
     {
       "VOrder": 386,
@@ -5097,7 +5293,8 @@
       "Text": "پس بود زو هر چه در ارض و سماست",
       "CoupletIndex": 196,
       "SectionIndex1": 4,
-      "SectionIndex2": 120
+      "SectionIndex2": 120,
+      "CoupletSummary": "هوش مصنوعی: پس از اوست که هرچه در زمین و آسمان وجود دارد. او در ذات خود غنی است و به هیچ چیز دیگری نیاز ندارد."
     },
     {
       "VOrder": 388,
@@ -5113,7 +5310,8 @@
       "Text": "نی ز کفر کس رسد بر وی زیان",
       "CoupletIndex": 197,
       "SectionIndex1": 4,
-      "SectionIndex2": 121
+      "SectionIndex2": 121,
+      "CoupletSummary": "هوش مصنوعی: هیچ کس نمی‌تواند به خدا آسیبی برساند، حتی اگر از کفر و بی‌اعتنایی صحبت کند؛ همچنین، شکرگزاری و ستایش بندگان نیز تأثیری بر او ندارد."
     },
     {
       "VOrder": 390,
@@ -5129,7 +5327,8 @@
       "Text": "امر بر تقوی ز بذل رحمت است",
       "CoupletIndex": 198,
       "SectionIndex1": 4,
-      "SectionIndex2": 122
+      "SectionIndex2": 122,
+      "CoupletSummary": "هوش مصنوعی: فرمان به پرهیز و تقوا بر اساس رحمت الهی است و نه به خاطر نیاز به پرهیز مردم."
     },
     {
       "VOrder": 392,
@@ -5145,7 +5344,8 @@
       "Text": "هست از طاعات خلق خود غنی",
       "CoupletIndex": 199,
       "SectionIndex1": 4,
-      "SectionIndex2": 123
+      "SectionIndex2": 123,
+      "CoupletSummary": "هوش مصنوعی: خداوند از عبادت و طاعت بندگانش بی‌نیاز است؛ اگر کسی از او اطاعت کند، او را از رحمتش بهره‌مند می‌سازد، و اگر کسی اطاعت نکند، باز هم خداوند نیازی به او ندارد."
     },
     {
       "VOrder": 394,
@@ -5161,7 +5361,8 @@
       "Text": "هم حمید اعنی ستوده است او به ذات",
       "CoupletIndex": 200,
       "SectionIndex1": 4,
-      "SectionIndex2": 124
+      "SectionIndex2": 124,
+      "CoupletSummary": "هوش مصنوعی: حمید به معنای ستوده است و اگر کسی به ذات او حمد کند، ممکن است که در موجودات دیگر نیز دیده شود."
     },
     {
       "VOrder": 396,

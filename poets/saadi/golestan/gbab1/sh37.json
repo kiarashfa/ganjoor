@@ -25,20 +25,23 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "کسی مژده پیش انوشیروانِ عادل آورد. گفت: شنیدم که فلان دشمنِ تو را خدای ،عَزَّ وَ جَلَّ، برداشت.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی خبر خوشی برای انوشیروان عادل آورد و گفت: شنیدم که خداوند (عزّ و جلّ) فلان دشمن تو را از میان برد."
     },
     {
       "VOrder": 2,
       "Position": "Paragraph",
       "Text": "گفت: هیچ شنیدی که مرا بگذاشت؟",
-      "CoupletIndex": 1
+      "CoupletIndex": 1,
+      "CoupletSummary": "انوشیروان گفت: شنیده ای که ممکنه من هم نابود بشم؟"
     },
     {
       "VOrder": 3,
       "Position": "Right",
       "Text": "اگر بمُرد عَدو، جایِ شادمانی نیست",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دشمن ما بمیرد، نباید خوشحال شویم، چون زندگی ما هم جاودانه نیست و سرانجام به پایان می‌رسد."
     },
     {
       "VOrder": 4,

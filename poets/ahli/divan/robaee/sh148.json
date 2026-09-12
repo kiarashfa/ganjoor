@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای با تو عدم وجود هر چیز که هست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که با تو هست، هیچ چیز دیگری در این خرابه وجود ندارد جز خود تو."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "در دایره یی که بر وجودست محیط",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دایره‌ای که زندگی و وجود تو را احاطه کرده، بیرون از تو چه کسی وجود دارد؟ و در درون خودت چه کسی هست؟"
     },
     {
       "VOrder": 4,

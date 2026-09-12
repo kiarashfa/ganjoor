@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "دنیا که در آن خوبی و خرسندی نیست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دنیا جایی نیست که در آن خوبی و شادی وجود داشته باشد، جایی که دل‌ها به محبت او متصل نیستند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "چیزی که در آن بینی و بپسندی نیست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چیزی که در آن ببینی و برایت خوشایند باشد، وجود ندارد و اگر هم باشد، به جز فضای خان دماوندی نیست."
     },
     {
       "VOrder": 4,

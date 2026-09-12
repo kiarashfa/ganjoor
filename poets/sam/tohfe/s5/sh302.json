@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "از شهر ساوه است این مطلع و بیت از اوست :",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: این مطلع و بیت، متعلق به شاعر و نویسنده‌ای از شهر ساوه است."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "پا بوس سگان تو نگویی هوسم نیست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوست داشتن تو را چنان در دل دارم که حتی خیال آن را هم نمی‌توانم کنار بگذارم. اما افسوس که به تو دسترسی ندارم و نمی‌توانم به خواسته‌ام برسم."
     },
     {
       "VOrder": 3,
@@ -46,7 +48,8 @@
       "Position": "Right",
       "Text": "خواهم که کسی حال مرا پیش تو گوید",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌خواهم کسی بیاید و حال مرا برای تو بگوید، اما چه کنم که کسی در کنارم نیست و هیچ‌ کس را ندارم."
     },
     {
       "VOrder": 5,

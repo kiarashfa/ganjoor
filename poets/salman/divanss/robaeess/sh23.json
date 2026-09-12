@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای دوست کجائی و کجائی که نئی؟",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دوست، تو کجا هستی و کجا می‌روی که نیامده‌ای؟ تو که در دل‌ها جای داری، چرا در وجود خودت نیستی؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "بیگانگی تو با من افتاد ار نه",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بیگانگی تو با من واقعاً اتفاق افتاده، پس تو دوست کدام آشنا هستی که در واقع آشنا نیستی؟"
     },
     {
       "VOrder": 4,

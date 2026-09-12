@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "دوستی گفت صبر کن زیراک",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوستی به من گفت که صبر کن، زیرا صبر باعث می‌شود کارهایت بهتر و زودتر انجام شود."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "آب رفته به جوی باز آید",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آب از جوی رفته برمی‌گردد، اما بهتر است که کارها به گونه‌ای انجام شوند که دچار مشکل نشوند."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "گفتم ار آب رفته باز آید",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفتم اگر آب دوباره به جوی برگردد، ماهی مرده چه فایده‌ای خواهد داشت؟"
     },
     {
       "VOrder": 6,

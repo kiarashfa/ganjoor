@@ -261,7 +261,8 @@
       "Text": "ای تو سلطان و کریم لایزال",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: تو فرمانروای بزرگ و بخشنده‌ای هستی که هیچ‌کس مانندت وجود ندارد و ذات پاک تو همیشه برقرار و باقی است."
     },
     {
       "VOrder": 2,
@@ -277,7 +278,8 @@
       "Text": "ای ترا آدم شده جویا مدام",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: تو که به آدمی تبدیل شده‌ای، پیوسته در جستجوی تو هستی و با نور تو همیشه بینا و آگاه هستی."
     },
     {
       "VOrder": 4,
@@ -293,7 +295,8 @@
       "Text": "ای ترا خود شیث بوده راز دان",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: تو مانند شیث، دارای شناخت و رازهای درونی هستی و همانند ادریس، آموزش دیده و عالم هستی."
     },
     {
       "VOrder": 6,
@@ -309,7 +312,8 @@
       "Text": "ای تو داده نوح را کشتی حلم",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: ای تو که نوح را کشتی صبر و حلم بخشیدی و جرجیس را نیز علم و دانش را از تو به دست آورده است."
     },
     {
       "VOrder": 8,
@@ -325,7 +329,8 @@
       "Text": "ای ز تو دیده‌ست ابراهیم آن",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که ابراهیم به خاطر تو فرمان قربانی را دیده و با جان و دل آن را شنیده است."
     },
     {
       "VOrder": 10,
@@ -341,7 +346,8 @@
       "Text": "ای تو با اسحق داده رحمتی",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: ای تو که به اسحاق رحمت بزرگی عطا کردی و به هود نعمت و خوشمزگی فراوان بخشیدی."
     },
     {
       "VOrder": 12,
@@ -357,7 +363,8 @@
       "Text": "ای درون نغمهٔ داود تو",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: تو همان کسی هستی که در دل نغمه‌های داوود قرار داری و در درون آتش نمرود نیز هستی."
     },
     {
       "VOrder": 14,
@@ -373,7 +380,8 @@
       "Text": "ای نشانده خود سلیمان را به تخت",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که سلیمان را به تخت پادشاهی نشاندی، همین شما زکریا را به تکه‌های پراکنده‌ای تبدیل کرده‌اید."
     },
     {
       "VOrder": 16,
@@ -389,7 +397,8 @@
       "Text": "ای به یوسف همره و یعقوب زار",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که در کنارش یوسف هستی و مانند یعقوب دلتنگ و غمگین، که از هجران او در حال سوز و گداز هستی."
     },
     {
       "VOrder": 18,
@@ -405,7 +414,8 @@
       "Text": "ای درون کلبهٔ احزان شده",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که در دل کلبهٔ اندوه زندگی می‌کنی، حال کنجکاوی می‌کنم که چه بلایی بر سر یوسف آمده که او نیز در زندان به سر می‌برد."
     },
     {
       "VOrder": 20,
@@ -421,7 +431,8 @@
       "Text": "ای شده یعقوب را چون جان عزیز",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: ای عزیز، تو برای یعقوب مثل جانش گرامی هستی و مانند یوسف برای او ارزشمند و گرانبها هستی."
     },
     {
       "VOrder": 22,
@@ -437,7 +448,8 @@
       "Text": "ای به یوسف بر سر تخت آمده",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: ای که به مانند یوسف بر تخت سلطنت نشسته‌ای، و همچون او به سرزمین کنعان و خوشبختی رسیده‌ای."
     },
     {
       "VOrder": 24,
@@ -453,7 +465,8 @@
       "Text": "ای زلیخا را فکنده خوار تو",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: ای زلیخا، تو را به خاطر عشق جوانی‌ات در حال زاری و افسردگی به حال خود رها کرده‌اند."
     },
     {
       "VOrder": 26,
@@ -469,7 +482,8 @@
       "Text": "ای شعیبی راز تو علم و ضیا",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: ای شعیب، راز و رمز تو به موسی علم و نور بخشید، همان‌طور که تو به او عصا دادی."
     },
     {
       "VOrder": 28,
@@ -485,7 +499,8 @@
       "Text": "ای بداده صالح خود را صلاح",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که به خداوند صالحیت خود را در برابر نابسامانی‌ها و مشکلات ارائه دادی، تو نبوّت را در بامدادی روشن و دلنشین دریافت کرده‌ای."
     },
     {
       "VOrder": 30,
@@ -501,7 +516,8 @@
       "Text": "ای ز ذوالکفل آب رحمت خواسته",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که به واسطه ذوالکفل، آب رحمت را طلب کردی، به خاطر تو بهشتی آماده شده است."
     },
     {
       "VOrder": 32,
@@ -517,7 +533,8 @@
       "Text": "ای بداده درد و صبر ایّوب را",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: کسی که در رنج و مصیبت صبر کند، در نهایت به درمان و آرامش خواهد رسید."
     },
     {
       "VOrder": 34,
@@ -533,7 +550,8 @@
       "Text": "ای که او را درد تو درمان بود",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که درد تو را او درمان می‌کند، عشق و محبت تو در ایمان او نهفته است."
     },
     {
       "VOrder": 36,
@@ -549,7 +567,8 @@
       "Text": "ای بداده ارمیارا جام عشق",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی جام عشق را از یوشع دریافت کند، به او گفته می‌شود که نامش در عالم عشق به بلندای معروفیت خواهد رسید."
     },
     {
       "VOrder": 38,
@@ -565,7 +584,8 @@
       "Text": "ای تو با الیاس و خضر راهبر",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: شما همراه با الیاس و خضر، هدایت‌گر او از روح خدا هستید."
     },
     {
       "VOrder": 40,
@@ -581,7 +601,8 @@
       "Text": "ای باحمد گفته خود اسرارها",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که با ستایش و ذکر حقایق و اسرار الهی را بیان می‌کنی، تو خود در نهایت پاکی و صفا هستی و با ستایشت به آن عزم و اراده دست یافته‌ای."
     },
     {
       "VOrder": 42,
@@ -597,7 +618,8 @@
       "Text": "ای تو با حیدر بمعنی آمده",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: ای تو که به معنای حیدر هستی و برای هر دو جهان بینا آمده‌ای."
     },
     {
       "VOrder": 44,
@@ -613,7 +635,8 @@
       "Text": "ای باحمد هم سر و هم تاج تو",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که تو با ستایش و با نام نیکو توصیف می‌شوی، هم سرور ما هستی و هم تاج و زیبایی ما. ای کسی که در شب معراج، در اوج عظمت و کمال خود قرار داری."
     },
     {
       "VOrder": 46,

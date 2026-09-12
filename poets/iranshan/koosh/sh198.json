@@ -331,7 +331,8 @@
       "Text": "پس از بهر کارم بیاراست نیز",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: برای انجام کارم، زینت‌کاری کن، زیرا شایسته‌ی پادشاهان است که از هر نوع چیز زیبا استفاده کنند."
     },
     {
       "VOrder": 2,
@@ -347,7 +348,8 @@
       "Text": "ز تن جامهٔ خویش وز سر کلاه",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: او لباس و کلاهی از خود را کنار می‌گذارد و یک تاج طلایی به گاه می‌فرستد."
     },
     {
       "VOrder": 4,
@@ -363,7 +365,8 @@
       "Text": "درفش کیانی و تیغ به‌زر",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: درفش کیانی و تیغ بزرگ از گوهر یکی، مانند کمری است که مختص یک پادشاه است. \n\nاین جمله به مفهومی اشاره دارد که نمادهای قدرت و سلطنت، مثل پرچم و شمشیر، نشان‌دهنده‌ی عظمت و شکوه یک پادشاهی هستند."
     },
     {
       "VOrder": 6,
@@ -379,7 +382,8 @@
       "Text": "یکی زنده‌پیلی همانند شیر",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: یک فیل زنده مانند شیر، در حمله شجاع و پرخاشگر است؛ مانند آتش که در حین حرکت بسیار قوی و نفوذی است."
     },
     {
       "VOrder": 8,
@@ -395,7 +399,8 @@
       "Text": "گرانتر ز کوه و سبکتر ز باد",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که چیزی از نظر ارزش و اهمیت، فراتر از کوه‌هاست و در عین حال، سهل و سبک مانند باد است. این توصیف بیانگر عظمت و قدرت ذاتی چیزی است که هم سنگین و با ارزش است و هم در عین حال، قابل حمل و آسان."
     },
     {
       "VOrder": 10,
@@ -411,7 +416,8 @@
       "Text": "دو دست و دو پایش چو سیمین ستون",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: دست‌ها و پاهای او همچون ستونی از نقره‌اند، دندان‌هایش شبیه به میوه‌های درخت و چشمانش به رنگ خون هستند."
     },
     {
       "VOrder": 12,
@@ -427,7 +433,8 @@
       "Text": "زمین کرده رنجور زیر قدم",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: زمین به حالت رنج و عذاب درآمده و به خاطر قدم‌های ناخواسته، به شکل دوزخی از دور و پُر از نم و رطوبت به نظر می‌رسد."
     },
     {
       "VOrder": 14,
@@ -443,7 +450,8 @@
       "Text": "ز سنگش شده گاو و ماهی ستوه",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: از سنگی که در دست گاو قرار دارد، او از رنگش خجالت می‌کشد، همانطور که برف بر لبه‌های تیز کوه نشسته است."
     },
     {
       "VOrder": 16,
@@ -459,7 +467,8 @@
       "Text": "گریزان ز خرطوم یازانْش، کرگ",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: کرگدنی که کمین کرده در آماده‌باش، به شدت با دندان‌هایش تهدید می‌کند و نشانه‌ای از مرگ می‌دهد."
     },
     {
       "VOrder": 18,
@@ -475,7 +484,8 @@
       "Text": "گه کین و آرایش کارزار",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: گاهی در میدان نبرد، یک حمله می‌تواند به اندازهٔ صد هزار سوار، تأثیرگذار باشد."
     },
     {
       "VOrder": 20,
@@ -491,7 +501,8 @@
       "Text": "برافگنده بر پیل هندی ستام",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: بر روی فیل هندی، با پارچه‌ای زیبا و گرانبها آن را به طور کامل آراسته‌اند."
     },
     {
       "VOrder": 22,
@@ -507,7 +518,8 @@
       "Text": "به منشور، ماچین بدو داد نیز",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: این متن بیانگر این است که به منشور، ماچین هدیه‌های زیادی داده شد و اقلام مختلفی برای آن فراهم شد."
     },
     {
       "VOrder": 24,
@@ -523,7 +535,8 @@
       "Text": "نهادند مهدی بر او زرنگار",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: مهدی را برروی پرچمی زیبا و پر از جواهرات مانند پرچم شاهانه قرار دادند."
     },
     {
       "VOrder": 26,
@@ -539,7 +552,8 @@
       "Text": "به نستوه داد آن همه خواسته",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: او به شجاعت و استقامت، تمام خواسته‌ها و آرزوهای خود را به دست آورد، همانند یک فیل بزرگ و مهدی زیبا و آراسته."
     },
     {
       "VOrder": 28,
@@ -555,7 +569,8 @@
       "Text": "بدان مرز گفتا چو آیی فرود",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: به آن سرزمین گفته شد که وقتی وارد می‌شوی، از من خواسته‌ای پیام سلامی را برسانی."
     },
     {
       "VOrder": 30,
@@ -571,7 +586,8 @@
       "Text": "همین چیزها با سواران او",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: این چیزها را با سواران او در میان بگذار و به یاران او منتقل کن."
     },
     {
       "VOrder": 32,
@@ -587,7 +603,8 @@
       "Text": "به کارم یکی نامه فرمود شاه",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: شاه به من دستور داد که نامه‌ای بنویسم و در آغاز آن نام خداوند، که همان خورشید و ماه است، را بیاورم."
     },
     {
       "VOrder": 34,
@@ -603,7 +620,8 @@
       "Text": "برآرندهٔ بی‌ستون آسمان",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: آنکه آسمان را بدون حمایت و ستون برپا کرده و ابر و باد را به تصویر می‌کشد، اوست."
     },
     {
       "VOrder": 36,
@@ -619,7 +637,8 @@
       "Text": "فرستاده و نامهٔ تو رسید",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: نامه و پیام تو به دستم رسید، همان مردم و کسانی که خودت آنها را خلق کرده‌ای."
     },
     {
       "VOrder": 38,
@@ -635,7 +654,8 @@
       "Text": "رسانید نزدیک ما بی‌گزند",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: گروهی بدون هیچ آسیب و خطری به ما رسیدند و هر یک از آن‌ها را دیدیم و مورد تایید ما قرار گرفتند."
     },
     {
       "VOrder": 40,
@@ -651,7 +671,8 @@
       "Text": "شدیم آگه از دانش و رای تو",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: ما از دانش و نظر تو آگاه شده‌ایم و همچنین از گنجینه‌های ارزشمند تو."
     },
     {
       "VOrder": 42,
@@ -667,7 +688,8 @@
       "Text": "تو امروز فرّخ نیای منی",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: امروز تو به گونه‌ای خوشبخت و پر افتخار در کنار من هستی، به نحوی که گویی جای من را گرفته‌ای."
     },
     {
       "VOrder": 44,
@@ -683,7 +705,8 @@
       "Text": "تو را هست ماچین و خاور زمین",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: تو را در آغوش می‌گیرم و بر روی زمین خاور، با دلی شاد و سرشار از محبت در چینای عشق می‌پرورانم."
     },
     {
       "VOrder": 46,
@@ -699,7 +722,8 @@
       "Text": "چو آن جا رسد، یاوری ده به گنج",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: زمانی که به آنجا رسیدی، به یاری گنج بیا و با تجهیزات و سلاح مناسب و همچنین کمک مردان کوشا، آماده باش."
     },
     {
       "VOrder": 48,
@@ -715,7 +739,8 @@
       "Text": "مگر بیخ آن بدرگ دیوزاد",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: اگر ریشه و اصل آن بدی در جایی به وجود نیاید، دیگر نباید نگرانی از زادن و ظهور آن بدی وجود داشته باشد."
     },
     {
       "VOrder": 50,
@@ -731,7 +756,8 @@
       "Text": "برآساید از رنج او زیردست",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: از رنج او آسوده می‌شود و زیر دست او، جهان از بدی‌هایی که بر اثر بت‌پرستی ایجاد شده، پاک می‌شود."
     },
     {
       "VOrder": 52,
@@ -747,7 +773,8 @@
       "Text": "تو باید که پیوسته داری به راه",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: تو باید همواره با یک فرد راستگو و نیکوکار در پیوند باشی."
     },
     {
       "VOrder": 54,
@@ -763,7 +790,8 @@
       "Text": "که پیوسته آرد مرا آگهی",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: همیشه مرا از خبر آن کاخ مشهور و بزرگ آگاه می‌کند."
     },
     {
       "VOrder": 56,
@@ -779,7 +807,8 @@
       "Text": "وزآن پس فرستاده را پیش خواند",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: پس از آن، فرستاده را فراخواند و بر جایگاهی از طلا نشاند."
     },
     {
       "VOrder": 58,
@@ -795,7 +824,8 @@
       "Text": "به پیشش کشیدند بسیار چیز",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: به حضور او چیزهای زیادی را آوردند و او نیز به یارانش هدایایی بخشید."
     },
     {
       "VOrder": 60,

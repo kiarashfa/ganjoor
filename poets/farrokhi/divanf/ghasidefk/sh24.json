@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای دل من ترا بشارت باد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دل من، خوشحال باش! من به تو وعده می‌دهم که تو را به کسی که دوستت دارد، تقدیم خواهم کرد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "تو بدو شادمانه ای بجهان",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر که مانند تو به شادمانی و خوشحالی زندگی کند، به دنیا خوشی و شادکامی می‌آورد."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "تا نگویی که مرمرا مفرست",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مبادا بگویی که کسی را به سوی من نفرست، چون هیچ‌کس به قلب من نزدیک نمی‌شود."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "دوست از من ترا همی طلبد",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوست از من خواسته است که پیش او بروم و هر چه پیش بیاید راضی باشم."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "دست و پایش ببوس و مسکن کن",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دست و پای او را ببوس و زیر آن موهای زیبا و نرمش را قرار ده، مانند قسمتی که می‌خواهی از شمشاد محافظت کنی."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "تا ز بیداد چشم او برهی",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا وقتی که از ظلم و ستم چشمان او رهایی نیابی، نمی‌توانی از زیبایی لبانش چیزی به دست آوری."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "زلف او حاجب لبست و لبش",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زلف او همچون حریمی است که لبش را از دیگران پنهان کرده و لب او هیچ‌کس را به خود نمی‌پسندد."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "خاصه بر تو که تو فزون ز عدد",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خصوصاً بر تو که تو بیشتر از تعداد ستایش‌هایی که خواجه دارد، یاد و خاطر داری."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "خواجه سید ستوده هنر",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به توصیف شخصیت و جایگاه والا و شایسته فردی به نام خواجه سید می‌پردازد. او را به عنوان کسی با هنر و فضیلت توصیف می‌کند که دارای طبعی پاک و نژادی اصیل و محترم است. به عبارت دیگر، این شخص نه تنها در زمینه هنر و توانایی‌هایش برجسته است، بلکه از نظر اخلاق و نسل نیز دارای ویژگی‌های مثبتی است."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "عبد رزاق احمد حسن آنک",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عبد رزاق احمد حسن، هیچ مادری مانند او بخشنده و مهربان نیست."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "آنکه کافی تر و سخی تر ازو",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که بر روی زمین قدم گذاشته، سخاوتش از همه بیشتر و کافی‌تر است."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "خوی او خوب و روی چون خو خوب",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شخصیت او نیکو است و چهره‌اش همانند نیکی‌هایش زیباست. دل او را چون دل رادمردان پاک و دستش هم چون دلش نیکو و بخشنده است."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "کافیان جهان همی خوانند",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسانی که در دنیا به دانش و علم مشهورند، با احترام و از صمیم قلب، خواجه را به عنوان استاد می‌ستایند."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "بسته هایی گشاده گشت بدو",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بسته‌هایی که قبلاً محکم بودند، به‌راحتی باز شدند و او نمی‌دانست که زمان چگونه این تغییر را ایجاد کرده است."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "از وزیران چو او یکی ننشست",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ یک از وزیران به جایگاه‌های مهم و با شکوهی که جمشید و قباد داشته‌اند نرسیده‌اند."
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "فیلسوفی بسر نداند برد",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فیلسوفی نمی‌تواند بر سخنی که خود پایه‌گذار آن بوده است، به درستی نظر دهد یا قضاوت کند."
     },
     {
       "VOrder": 32,
@@ -255,7 +271,8 @@
       "Position": "Right",
       "Text": "بسخن گفتن آن ستوده سخن",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سخن گفتن زیبا و دلنشین می‌تواند حتی چیزهای سخت و غیرقابل انعطاف مانند آهن و پولاد را نرم و انعطاف‌پذیر کند."
     },
     {
       "VOrder": 34,
@@ -269,7 +286,8 @@
       "Position": "Right",
       "Text": "راد مردان بدو روند همی",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مردان شجاع به او می‌پیوندند، چنان‌که هر کس به مرد شجاع نیاز پیدا کند، او را صدا می‌زند."
     },
     {
       "VOrder": 36,
@@ -283,7 +301,8 @@
       "Position": "Right",
       "Text": "زو تواند بپایگاه رسید",
       "CoupletIndex": 18,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که از موقعیت و جایگاه خود پایین بیفتد، توانایی این را دارد که دوباره به اوج و مقام خود دست یابد."
     },
     {
       "VOrder": 38,
@@ -297,7 +316,8 @@
       "Position": "Right",
       "Text": "بس کسا کو بفر دولت او",
       "CoupletIndex": 19,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بسیار کسان که با کمک او، اوضاع خراب خود را بهبود بخشیدند و زندگی‌شان را سر و سامان دادند."
     },
     {
       "VOrder": 40,
@@ -311,7 +331,8 @@
       "Position": "Right",
       "Text": "خانه او بهشت شد که درو",
       "CoupletIndex": 20,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خانه او به محل آرامش و خوشحالی تبدیل شد، زیرا در آنجا افرادی غمگین به دور از درد و غم زندگی می‌کنند."
     },
     {
       "VOrder": 42,
@@ -325,7 +346,8 @@
       "Position": "Right",
       "Text": "نزد آن خواجه خادمانش را",
       "CoupletIndex": 21,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در نزد آن آقا، به خادمانش پاداشی داده می‌شود که برابر با هفتاد خدمت است."
     },
     {
       "VOrder": 44,
@@ -339,7 +361,8 @@
       "Position": "Right",
       "Text": "هیچ شه را چنین وزیر نبود",
       "CoupletIndex": 22,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ شاهی وزیر این‌چنینی نداشته و هیچ مادری چنین فرزندی که این‌قدر کریم و بزرگ‌وار باشد، نزاده است."
     },
     {
       "VOrder": 46,
@@ -353,7 +376,8 @@
       "Position": "Right",
       "Text": "جمع شد نزد او هزار هنر",
       "CoupletIndex": 23,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در کنار او هزاران هنر و توانایی گرد آمده که به شادی زندگی‌اش هزار سال افزوده است."
     },
     {
       "VOrder": 48,
@@ -367,7 +391,8 @@
       "Position": "Right",
       "Text": "پدر و مادر سخاوت وجود",
       "CoupletIndex": 24,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پدر و مادر به بسیار سخاوت و generosity معروف هستند و در واقع، هر دو به عنوان منبع بخشش و سخایی شناخته می‌شوند که خواجه را همچون دامادی در این موقعیت قرار می‌دهند."
     },
     {
       "VOrder": 50,
@@ -381,7 +406,8 @@
       "Position": "Right",
       "Text": "پیش دو دست او سجود کنند",
       "CoupletIndex": 25,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دو دست او را می‌سجده آواز پیش و چون مغان در برابر آتش مقدس آذر خرداد. در اینجا به این معناست که افرادی به شدت در برابر قدرت و مقام او خضوع و فروتنی می‌نمایند، همان‌طور که زرتشتیان در برابر آتش مقدس احترام می‌گذارند."
     },
     {
       "VOrder": 52,
@@ -395,7 +421,8 @@
       "Position": "Right",
       "Text": "هر که او معدن کریمی جست",
       "CoupletIndex": 26,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که به دنبال اصل و ماهیت مهربانی و نیکی باشد، به شکوه و عظمت وجود او پی می‌برد و در کنار او قرار می‌گیرد."
     },
     {
       "VOrder": 54,
@@ -409,7 +436,8 @@
       "Position": "Right",
       "Text": "آفتاب کرام خواهد کرد",
       "CoupletIndex": 27,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خورشید بزرگی به او عنوان خواهد داد، خلیفه بغداد."
     },
     {
       "VOrder": 56,
@@ -423,7 +451,8 @@
       "Position": "Right",
       "Text": "تا به مرداد گرم گردد آب",
       "CoupletIndex": 28,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در ماه مرداد، آب گرم می‌شود و در دی ماه، باد سرد می‌وزد."
     },
     {
       "VOrder": 58,
@@ -437,7 +466,8 @@
       "Position": "Right",
       "Text": "تا بوقت خزان چودشت شود",
       "CoupletIndex": 29,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا وقتی که درختان در فصل پاییز برگ‌هایشان را از دست می‌دهند، باغ‌ها مانند میخانه‌ای پر از شادابی باقی می‌مانند."
     },
     {
       "VOrder": 60,
@@ -451,7 +481,8 @@
       "Position": "Right",
       "Text": "بادل شاد باد چون شیرین",
       "CoupletIndex": 30,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با دل شاد زندگی کن مانند شیرین و با وجود دلتنگی و ناراحتی مانند فرهاد."
     },
     {
       "VOrder": 62,
@@ -465,7 +496,8 @@
       "Position": "Right",
       "Text": "روزگارش خجسته باد وبراو",
       "CoupletIndex": 31,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امیدوارم روزهایش درخشان و خوشی برایش رقم بخورد و محبت‌ها و خوشبختی‌های زیادی نصیبش شود."
     },
     {
       "VOrder": 64,

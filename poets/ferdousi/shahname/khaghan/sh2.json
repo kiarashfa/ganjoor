@@ -391,7 +391,8 @@
       "Text": "ازان دشت چنگش برانگیخت اسپ",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "از آن دشت چنگش اسبش را به حرکت درآورد و مانند آتش تند به سمت سپاه ایران رفت."
     },
     {
       "VOrder": 2,
@@ -407,7 +408,8 @@
       "Text": "چو نزدیک ایرانیان شد بجنگ",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "وقتی که به نزدیک لشگر ایران رسید، تیری از جنس خدنگ از ترکشش بیرون آورد"
     },
     {
       "VOrder": 4,
@@ -423,7 +425,8 @@
       "Text": "چنین گفت کین جای جنگ منست",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "گفت این محل جولانگاه هنرنمایی من است و من سر نامداران را در اینجا از تن جدا می کنم."
     },
     {
       "VOrder": 6,
@@ -439,7 +442,8 @@
       "Text": "کجا رفت آن مرد کاموس گیر",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "آن مردی که کاموس را اسیر کرد که گاهی کمند می اندازد و گاهی با تیر و کمان به جنگ می آید کجاست؟"
     },
     {
       "VOrder": 8,
@@ -455,7 +459,8 @@
       "Text": "کنون گر بیاید به آوردگاه",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "اگر اکنون به میدان نبرد بیاید نمیگذارم نزد سپاهش باقی بماند (او را از بین خواهم برد)"
     },
     {
       "VOrder": 10,
@@ -471,7 +476,8 @@
       "Text": "بجنبید با گرز رستم ز جای",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "رستم با گرز در دستش به حرکت درآمد و بلافاصله پا در رکاب رخش گذاشت"
     },
     {
       "VOrder": 12,
@@ -487,7 +493,8 @@
       "Text": "منم گفت شیراوژن و گردگیر",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "گفت شیر افکن و پهلوان گیر منم که گاهی با کمند به میدان می روم گاهی با کمان"
     },
     {
       "VOrder": 14,
@@ -503,7 +510,8 @@
       "Text": "هم اکنون ترا همچو کاموس گرد",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "اکنون تو هم مثل کاموس پهلوان باید چشمت از خاک گور پر شود (بمیری)"
     },
     {
       "VOrder": 16,
@@ -519,7 +527,8 @@
       "Text": "بدو گفت چنگش که نام تو چیست",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "چنگش به او گفت: نام تو چیست؟ از کدام نژادی و در دل چه داری؟"
     },
     {
       "VOrder": 18,
@@ -535,7 +544,8 @@
       "Text": "بدان تا بدانم که روز نبرد",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "بگو تا بدانم در روز پیکار زمانی که گرد و خاک به پا شد خون چه کسی را ریخته ام؟"
     },
     {
       "VOrder": 20,
@@ -551,7 +561,8 @@
       "Text": "بدو گفت رستم که ای شوربخت",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "رستم به او گفت ای بد اقبال خدا نکند درختی وجود داشته باشد (باقی در بیت بعد)"
     },
     {
       "VOrder": 22,
@@ -567,7 +578,8 @@
       "Text": "کجا چون تو در باغ بار آورد",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "که مانند تویی در باغ بارش باشد و میوه ای چون تو داشته باشد"
     },
     {
       "VOrder": 24,
@@ -583,7 +595,8 @@
       "Text": "سر نیزه و نام من مرگ تست",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "سر نیزه و نام من مرگ تو می باشد اکنون باید سرت از تنت دست بشوید (جدا شود)"
     },
     {
       "VOrder": 26,
@@ -599,7 +612,8 @@
       "Text": "بیامد همانگاه چنگش چو باد",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "در این لحظه چنگش به سرعت باد آمد و دو گوشه ی کمان را به هم آورد (با تمام قدرت کمان را کشید)"
     },
     {
       "VOrder": 28,
@@ -615,7 +629,8 @@
       "Text": "کمان جفا پیشه چون ابر بود",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "کمان لعنتی مثل ابر بود و با زره برابری می کرد"
     },
     {
       "VOrder": 30,
@@ -631,7 +646,8 @@
       "Text": "سپر بر سرآورد رستم چو دید",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "رستم وقتی دید که تیرش می تواند زره را پاره کند سپر را به سر کشید"
     },
     {
       "VOrder": 32,
@@ -647,7 +663,8 @@
       "Text": "بدو گفت باش ای سوار دلیر",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "به او گفت ای سوار شجاع بایست جایی نرو که الان از جنگ سیر می شوی"
     },
     {
       "VOrder": 34,
@@ -663,7 +680,8 @@
       "Text": "نگه کرد چنگش بران پیلتن",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "چنگش به او (که هیکلش مانند فیل بود) نگاه کرد انگار که سروی روی چمن ایستاده باشد"
     },
     {
       "VOrder": 36,
@@ -679,7 +697,8 @@
       "Text": "بد آن اسپ در زیر یک لخت کوه",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "آن اسب انگار زیر یک کوه قرار داشت ولی مشکلی با تحمل این وزن نداشت"
     },
     {
       "VOrder": 38,
@@ -695,7 +714,8 @@
       "Text": "بدل گفت چنگش که اکنون گریز",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "چنگش در دل گفت که اکنون فرار کردن بهتر از دشمنی با جان خود است"
     },
     {
       "VOrder": 40,
@@ -711,7 +731,8 @@
       "Text": "برانگیخت آن بارکش را ز جای",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "اسبش را به حرکت دراورد و به سمت لشکر خود راه افتاد"
     },
     {
       "VOrder": 42,
@@ -727,7 +748,8 @@
       "Text": "بکردار آتش دلاور سوار",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "رستم مانند آتش رخش را به سمتش هدایت کرد"
     },
     {
       "VOrder": 44,
@@ -743,7 +765,8 @@
       "Text": "همانگاه رستم رسید اندروی",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "در همین لحظه رستم به او رسید و همه داشتند راجع به آنها بحث می کردند"
     },
     {
       "VOrder": 46,
@@ -759,7 +782,8 @@
       "Text": "دم اسپ ناپاک چنگش گرفت",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "رستم دم اسب چنگش را گرفت و هر دو لشگر در حیرت و تعجب ماندند"
     },
     {
       "VOrder": 48,
@@ -775,7 +799,8 @@
       "Text": "زمانی همی داشت تا شد غمی",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "رستم برای مدتی او را نگاه داشت تا خسته شد و چنگش خودش را از اسب به زمین انداخت"
     },
     {
       "VOrder": 50,
@@ -791,7 +816,8 @@
       "Text": "بیفتاد زو ترگ و زنهار خواست",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "کلاهخود چنگش از سرش افتاد و درخواست تسلیم کرد و رستم او را به خاک انداخت"
     },
     {
       "VOrder": 52,
@@ -807,7 +833,8 @@
       "Text": "همانگاه کردش سر از تن جدا",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "بلافاصله سر را از تنش جدا کرد و همه ی آرزو و افکار از او رها شد"
     },
     {
       "VOrder": 54,
@@ -823,7 +850,8 @@
       "Text": "همه نامداران ایران زمین",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "همه ی پهلوانان ایران به ستایش رستم پرداختند"
     },
     {
       "VOrder": 56,
@@ -839,7 +867,8 @@
       "Text": "همی بود رستم میان دو صف",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "رستم در بین دو سپاه بود و یک نیزه ی درخشان در دست گرفته بود"
     },
     {
       "VOrder": 58,
@@ -855,7 +884,8 @@
       "Text": "وزان روی خاقان غمی گشت سخت",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "از آن طرف خاقان بسیار ناراحت شد و بر چرخ روزگار خشم گرفت"
     },
     {
       "VOrder": 60,
@@ -871,7 +901,8 @@
       "Text": "بهومان چنین گفت خاقان چین",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "خاقان چین به هومان گفت که زمان و زمین بر ما تنگ شده"
     },
     {
       "VOrder": 62,
@@ -887,7 +918,8 @@
       "Text": "مران نامور پهلوان را تو نام",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "مگر آنکه تو نام آن پهلوان را بیابی و برایم بفرستی"
     },
     {
       "VOrder": 64,
@@ -903,7 +935,8 @@
       "Text": "بدو گفت هومان که سندان نیم",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هومان به او گفت من سندان آهنگران نیستم و در جنگ مانند فیل قوی نیستم"
     },
     {
       "VOrder": 66,
@@ -919,7 +952,8 @@
       "Text": "بگیتی چو کاموس جنگی نبود",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "در دنیا مانند کاموس پهلوانی نبود مانند او مبارزی وجود نداشت"
     },
     {
       "VOrder": 68,
@@ -935,7 +969,8 @@
       "Text": "بخم کمندش گرفت این سوار",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "این سوار با کمند او را اسیر کرد او را دست کم نگیر"
     },
     {
       "VOrder": 70,
@@ -951,7 +986,8 @@
       "Text": "شوم تا چه خواهد جهان آفرین",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "می روم تا ببینم خالق جهان میخواهد در این میدان نبرد چه کسی پیروز شود"
     },
     {
       "VOrder": 72,

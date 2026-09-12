@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "* می‌پرسیدی که چیست این نقشِ مجاز",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌پرسیدی که این تصویر خیالی چیست، اگر بخواهم بگویم، حقیقتش خیلی پیچیده و طولانی است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "نقشی‌ست پدید آمده از دریایی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چیزی به وجود آمده که از عمق دریا نشأت گرفته و حالا به کف آن دریا رسیده است."
     },
     {
       "VOrder": 4,

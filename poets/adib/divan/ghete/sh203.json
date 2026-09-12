@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "ای درخت سبز اگر روزی بدست باغبان",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای درخت سبز! اگر روزی دیدی که باغبان با اره به تو حمله می‌کند، به سمت آن اره نگاه کن."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "گرنه دستش از تو بودی کی بر آوردی بعمد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دست تو نبود، آیا او به عمد دستش را برای قطع پایت بالا می‌آورد؟ یعنی از آستینش ظلم را بیرون می‌آورد؟"
     },
     {
       "VOrder": 4,

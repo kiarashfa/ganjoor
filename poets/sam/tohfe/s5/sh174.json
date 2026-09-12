@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "از شعرایی است که نو پیدا شده این مطلع از اوست :",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: این شعر از شاعرانی است که تازه به ظهور رسیده‌اند و این بیتی از اوست:"
     },
     {
       "VOrder": 3,
       "Position": "Right",
       "Text": "فدای سر و قدت جان من، جوانی من",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من جانم را فدای زیبایی و قامت تو می‌کنم و نمی‌خواهم لحظه‌ای از عمر و زندگانی‌ام بدون تو بگذرد."
     },
     {
       "VOrder": 4,

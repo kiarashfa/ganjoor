@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "خوش خوش بربود نیکوئی تو مرا",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خوش بودن و خوبی تو من را به کارهای خوب واداشت، اما بدی‌های تو هم مرا به سمت کارهای بد کشاند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "تلخی تو نیست شوربختی من است",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تلخی حال من ناشی از شکرینی توست؛ در واقع، ترشی رفتار تو باعث شده که من احساس تلخی کنم."
     },
     {
       "VOrder": 4,

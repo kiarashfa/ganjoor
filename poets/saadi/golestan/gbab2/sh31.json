@@ -66,7 +66,7 @@
       "Number": 4,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "وستان",
+      "RhymeLetters": "رگی",
       "PlainText": "پای در زنجیر پیش دوستان\r\nبه که با بیگانگان در بوستان\r\nشنیدم گوسپندی را بزرگی\r\nرهانید از دهان و دست گرگی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپای در زنجیر پیشِ دوستان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبِهْ که با بیگانگان در بوستان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشنیدم گوسپندی را بزرگی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرهانید از دهان و دستِ گرگی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
@@ -76,7 +76,7 @@
       "Number": 4,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "رگی",
+      "RhymeLetters": "وستان",
       "PlainText": "پای در زنجیر پیش دوستان\r\nبه که با بیگانگان در بوستان\r\nشنیدم گوسپندی را بزرگی\r\nرهانید از دهان و دست گرگی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپای در زنجیر پیشِ دوستان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبِهْ که با بیگانگان در بوستان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشنیدم گوسپندی را بزرگی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرهانید از دهان و دستِ گرگی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
@@ -118,25 +118,29 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "از صحبتِ یارانِ دِمَشْقم مَلالتی پدید آمده بود؛ سر در بیابانِ قُدس نهادم و با حیوانات اُنس گرفتم.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "از صحبت و معاشرت با دوستانی که در دمشق داشتم رنجش و ملامتی برایم پیش آمده بود؛ به سوی بیابان بیت‌المقدس روی نهادم و با حیوانات مأنوس شدم (یعنی شب و روز در بیابان بودم)"
     },
     {
       "VOrder": 2,
       "Position": "Paragraph",
       "Text": "تا وقتی که اسیرِ فرنگ شدم، در خَنْدَقِ طَرابُلُس با جُهودانم به کارِ گِل بداشتند.",
-      "CoupletIndex": 1
+      "CoupletIndex": 1,
+      "CoupletSummary": "تا اینکه اسیر فرنگیان شدم و مرا همراه جهودان در خندق (اطراف شهر) ترابلس به کار گِل مجبور کردند."
     },
     {
       "VOrder": 3,
       "Position": "Paragraph",
       "Text": "یکی از رؤسایِ حَلَب که سابقه‌ای میانِ ما بود گذر کرد و بشناخت و گفت: ای فلان! این چه حالت است؟!",
-      "CoupletIndex": 2
+      "CoupletIndex": 2,
+      "CoupletSummary": "یکی از سران و بزرگان شهر حلب‌، که با هم آشنا بودیم، از آنجا گذر کرد؛ مرا دید و شناخت و گفت: فلانی! این چه حالت و وضعیت است؟"
     },
     {
       "VOrder": 4,
       "Position": "Paragraph",
       "Text": "گفتم: چه گویم؟:",
-      "CoupletIndex": 3
+      "CoupletIndex": 3,
+      "CoupletSummary": "گفتم‌: چه بگویم!"
     },
     {
       "VOrder": 5,
@@ -144,7 +148,8 @@
       "Text": "همی گریختم از مردمان به کوه و به دشت",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "من از آدمیان به کوه و دشت گریختم زیرا از اشتغال به خدا نمی‌توانستم به آدمیان بپردازم."
     },
     {
       "VOrder": 6,
@@ -160,7 +165,8 @@
       "Text": "قیاس کن که چه حالم بود در این ساعت",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "حالا خود حدس بزن که وضع من الان چگونه است که در طویله نامردمان باید به‌سر ببرم؟"
     },
     {
       "VOrder": 8,
@@ -176,7 +182,8 @@
       "Text": "پای در زنجیر پیشِ دوستان",
       "CoupletIndex": 6,
       "SectionIndex1": 7,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "پای در زنجیر پیش دوستان بهتر است که با بیگانگان در گلستان و باغ."
     },
     {
       "VOrder": 10,
@@ -190,20 +197,23 @@
       "VOrder": 11,
       "Position": "Paragraph",
       "Text": "بر حالتِ من رحمت آورد و به ده دینار از قیدم خلاص کرد و با خود به حلب برد و دختری که داشت به نِکاح من در آورد به کابین، صد دینار.",
-      "CoupletIndex": 7
+      "CoupletIndex": 7,
+      "CoupletSummary": "دلش بر حال من سوخت و با ده دینار مرا از اسارت آزاد کرد و با خود به حلب برد و در آنجا دختری را که داشت به عقد من در آورد به صد دینار (مهریه)"
     },
     {
       "VOrder": 12,
       "Position": "Paragraph",
       "Text": "مدّتی برآمد. بدخوی ستیزه‌روی نافرمان بود؛ زبان درازی کردن گرفت و عیشِ مرا مُنَغَّص داشتن.",
-      "CoupletIndex": 8
+      "CoupletIndex": 8,
+      "CoupletSummary": "مدتی گذشت؛ (آن زن)‌، بداخلاق و ستیزه‌گر و ناآرام بود؛ شروع به گستاخی و بد گفتن به من کرد و آرامش و آسایش را از من سلب کرد."
     },
     {
       "VOrder": 13,
       "Position": "Right",
       "Text": "زنِ بد در سرایِ مردِ نکو",
       "CoupletIndex": 9,
-      "SectionIndex1": 1
+      "SectionIndex1": 1,
+      "CoupletSummary": "اگر مرد خوشخو را زنی زشتخو باشد، خانه در همین جهان بر وی جهنّم است."
     },
     {
       "VOrder": 14,
@@ -217,7 +227,8 @@
       "Position": "Right",
       "Text": "زینهار از قرینِ بد، زِنهار!",
       "CoupletIndex": 10,
-      "SectionIndex1": 1
+      "SectionIndex1": 1,
+      "CoupletSummary": "پناه بر خدا از یارِ بد، پناه بر خدا از همسر ناسازگار! پروردگارا، ما را از درد و شکنجهٔ دوزخ نگاهدار!"
     },
     {
       "VOrder": 16,
@@ -230,13 +241,15 @@
       "VOrder": 17,
       "Position": "Paragraph",
       "Text": "باری زبانِ تَعَنّت دراز کرده همی‌گفت: تو آن نیستی که پدرِ من تو را از فرنگ باز خرید؟!",
-      "CoupletIndex": 11
+      "CoupletIndex": 11,
+      "CoupletSummary": "پس زبان نیش و طعنه را باز کرد و می‌گفت: تو همان نیستی که پدرم از اسارت فرنگیان آزاد کرد و با پول خرید؟"
     },
     {
       "VOrder": 18,
       "Position": "Paragraph",
       "Text": "گفتم: بلی! من آنم که به ده دینار از قیدِ فرنگم بازخرید و به صد دینارْ به دستِ تو گرفتار کرد.",
-      "CoupletIndex": 12
+      "CoupletIndex": 12,
+      "CoupletSummary": "گفتم‌: بله من همانم که پدرت با ده دینار از اسارت فرنگ آزاد کرد و با صد دینار به دست تو گرفتار کرد!"
     },
     {
       "VOrder": 19,
@@ -244,7 +257,8 @@
       "Text": "شنیدم گوسپندی را بزرگی",
       "CoupletIndex": 13,
       "SectionIndex1": 2,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "شنید‌ه‌ام که آدم بزرگی، روزی گوسفندی را از چنگ و دهان گرگ رهانید."
     },
     {
       "VOrder": 20,
@@ -260,7 +274,8 @@
       "Text": "شبانگه کارد در حلقش بمالید",
       "CoupletIndex": 14,
       "SectionIndex1": 2,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "شب‌هنگام کارد بر گلوی گوسفند کشید، جانِ گوسفند به زبانِ حال از وی به فریاد آمد که:"
     },
     {
       "VOrder": 22,
@@ -276,7 +291,8 @@
       "Text": "که از چنگالِ گرگم در ربودی",
       "CoupletIndex": 15,
       "SectionIndex1": 2,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "از چنگال گرگ مرا نجات دادی؛ اما عاقبت فهمیدم که گرگ (واقعی) خودت بودی."
     },
     {
       "VOrder": 24,

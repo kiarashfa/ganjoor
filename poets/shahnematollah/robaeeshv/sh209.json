@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "شاها نظری کن که فقیران توییم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای شاه، به ما نظر کن که ما فقیران تو هستیم. اگرچه خوب یا بد داریم، هر چه هست، از آن توست."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "فرمان تو را کمر به جان می بندیم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما به خاطر فرمان تو، جانمان را برای اطاعت آماده می‌کنیم، زیرا همه ما فرمانبردار تو هستیم."
     },
     {
       "VOrder": 4,

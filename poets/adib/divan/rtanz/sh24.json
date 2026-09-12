@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "خصم تو براه خیر هرگز نرود",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دشمن تو هرگز به راه خیر نمی‌رود، مانند این که هیچ کس از کعبه به دیر نخواهد رفت."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "من کفش تو را به پای کردم اما",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من تلاش کردم تا به جای تو و در کفش تو قرار بگیرم، اما هیچ‌کس دیگری را نمی‌توانم در آن جایگاه بگذارم."
     },
     {
       "VOrder": 4,

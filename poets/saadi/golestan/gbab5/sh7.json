@@ -66,20 +66,23 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "یکی، دوستی را که زمان‌ها ندیده بود گفت: کجایی که مشتاق بوده‌ام؟",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "کسی به دوستی که مدّت‌ها دیدار نکرده بود گفت: به کدام جایگاه رفته بودی که آرزومند دیدار بوده‌ام؟"
     },
     {
       "VOrder": 2,
       "Position": "Paragraph",
       "Text": "گفت: مشتاقی به که ملولی.",
-      "CoupletIndex": 1
+      "CoupletIndex": 1,
+      "CoupletSummary": "پاسخ داد: آرزوی دیدار داشتن بهتر از بیزار گشتن و دلتنگ آمدن [از ملاقاتِ بسیار]"
     },
     {
       "VOrder": 3,
       "Position": "Right",
       "Text": "دیر آمدى، اى نگار سرمست",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "دیر آمدی ای زیبای مستِ بادهٔ حسن، دامنت را به آسانی و شتاب رها نمی‌کنیم"
     },
     {
       "VOrder": 4,
@@ -93,7 +96,8 @@
       "Position": "Right",
       "Text": "معشوقه که دیر دیر بینند",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "محبوب را چون زود زود نتوان دید، به هر حال کمینه آنکه وی را در همان یک‌بار ملاقات چندانکه دل می‌خواهد، باید دیدار کنند."
     },
     {
       "VOrder": 6,
@@ -106,7 +110,8 @@
       "VOrder": 7,
       "Position": "Paragraph",
       "Text": "شاهد که با رفیقان آید، به جفا کردن آمده است؛ به حکمِ آن که از غیرت و مُضادّت خالی نباشد.",
-      "CoupletIndex": 4
+      "CoupletIndex": 4,
+      "CoupletSummary": "زیبارویی که با یاران به دیدارِ\u00A0 یار آید، به ستم و بی‌مهری آمده است، چه این گونه دیدار بی رشگ و خلاف میانِ رقیبان متصوّر نمی‌شود."
     },
     {
       "VOrder": 8,
@@ -114,7 +119,8 @@
       "Text": "اِذٰا جِئتَنی فی رُفْقَةٍ لِتَزُورَنی",
       "CoupletIndex": 5,
       "SectionIndex1": 1,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "چون با گروهی به دیدارم آمدی، اگر به آشتی هم آمده باشی، در حقیقت سرِ جنگ و ستیز داری."
     },
     {
       "VOrder": 9,
@@ -130,7 +136,8 @@
       "Text": "به یک نفس که برآمیخت یار با اَغیار",
       "CoupletIndex": 6,
       "SectionIndex1": 1,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "یک‌دم که یار با رقیبان به عشرت نشست، چیزی نماند که رشک مرا به هلاکت رساند."
     },
     {
       "VOrder": 11,
@@ -146,7 +153,8 @@
       "Text": "به خنده گفت که من شمعِ جمعم ای سعدی",
       "CoupletIndex": 7,
       "SectionIndex1": 1,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "خندان می‌گفت که ای سعدی، من چراغِ انجمنم، مرا پروا نیست که پروانه‌ای جان در شعلهٔ من بازد."
     },
     {
       "VOrder": 13,

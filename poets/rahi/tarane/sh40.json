@@ -76,7 +76,8 @@
       "Text": "ای شب جدایی",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: ای شب جدایی که سیاهی‌ات مرا مانند روز روشن می‌سازد."
     },
     {
       "VOrder": 2,
@@ -92,7 +93,8 @@
       "Text": "کن شتابی آخر",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: ای شب، چرا این‌قدر به من فشار می‌آوری؟ چه چیزی از من می‌خواهی؟ خواهش می‌کنم شتاب نکن!"
     },
     {
       "VOrder": 4,
@@ -108,7 +110,8 @@
       "Text": "نشان زلف دلبری، ز بخت من سیه تری، بلا و غم سراسری",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: نشان زلف معشوقم بر شانس من بسیار بد است و بلایا و غم‌ها را همه جا احساس می‌کنم."
     },
     {
       "VOrder": 6,
@@ -116,7 +119,8 @@
       "Text": "تیره همچون",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: امشب مانند یک آهوی ترسیده و ناآرام هستم."
     },
     {
       "VOrder": 7,
@@ -132,7 +136,8 @@
       "Text": "کنی به هجر یار من، حدیث روزگار من، بری ز کف قرار من",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: تو با دلتنگی یارم، قصه‌هایی از روزگار من را برایم روایت می‌کنی، در حالی که آرامشم را از من گرفته‌ای."
     },
     {
       "VOrder": 9,
@@ -140,7 +145,8 @@
       "Text": "جانم از غم",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: ای شب، جانم مملو از غم و اندوه است."
     },
     {
       "VOrder": 10,
@@ -156,7 +162,8 @@
       "Text": "تا که از آن گل دور افتادم",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: وقتی از آن گل فاصله گرفتم، دیگر خنده و شادی را فراموش کردم."
     },
     {
       "VOrder": 12,
@@ -172,7 +179,8 @@
       "Text": "سیه شد روزم",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: روزهای عمرم تاریک و ناامید شده است."
     },
     {
       "VOrder": 14,
@@ -180,7 +188,8 @@
       "Text": "بی مه رویش دمی نیاسودم",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: من حتی لحظه‌ای آرام نداشتم بدون چهره‌ی زیبا و در این میان، اشک‌های من را شب گواهی می‌دهد."
     },
     {
       "VOrder": 15,
@@ -196,7 +205,8 @@
       "Text": "او شب چون گل نهد ز مستی بر بالین سر",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: او شب مانند گلی که در مستی بر بالین سر من می‌نشیند، دور از او، بالینم را از اشک‌هایم خیس می‌کنم."
     },
     {
       "VOrder": 17,
@@ -212,7 +222,8 @@
       "Text": "خون دل از بس خوردم بی او، محنت و خواری بردم بی او",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: از بس که بدون او رنج و درد کشیدم، خون دل خوردم و با محنت زندگی کردم. بی او، زندگی برایم دشوار شده و گویی که مرده‌ام."
     },
     {
       "VOrder": 19,
@@ -228,7 +239,8 @@
       "Text": "بی رخ آن گل دلم به جان آمد",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: بی‌حضور آن گل، دل من به شدت نگران و پریشان است. از جانم چه توقع داری، ای شب تاریک؟"
     },
     {
       "VOrder": 21,

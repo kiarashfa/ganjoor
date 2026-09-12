@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "ژانویه فوریه و مارس چو اوریل، مای مه",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "ژانویه janvier، فوریه février، مارس mars، اوریل avril و مه mai، به ترتیب عبارتند از برج‌های آبریز (=دلو)، ماهی (=حوت)، برّه (=حمل)، اردیبهشت (=ثور) و دو پیکر (=جوزا)"
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "ژون و ژویه و اؤوت، به ترتیب درست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "ژون juin، ژویه juillet و اؤوت août به ترتیب برابرند با خرچنگ (=سرطان)، شیر (اسد) و خوشه (=سنبله)"
     },
     {
       "VOrder": 4,
@@ -55,7 +57,8 @@
       "Position": "Right",
       "Text": "ماه سپتمبر که آید ز پی آن اکتبر",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "سپتامبر septembre و اکتبر octobre به ترتیب عبارتند از ترازو (=میزان) و کژدُم (=عقرب)"
     },
     {
       "VOrder": 6,
@@ -69,7 +72,8 @@
       "Position": "Right",
       "Text": "قوس با جدی همان ماه نومبر است و دسمبر",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "ماه نوامبر novembre و دسمبر décembre به ترتیب عبارتند از کمان (=قوس) و بزغاله (=جدی)؛ این دوازده ماه با توجه به گردش خورشید پدید آمده‌اند."
     },
     {
       "VOrder": 8,

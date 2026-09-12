@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "زهی صیت عدلت همه جا گرفته",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چقدر نام نیک تو در همه جا پیچیده و عظمت مقام تو به بلندای ستاره‌ها رسیده است."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "زکلک سیه فرق زر چهره ی تو",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر فریبندگی و زیبایی چهره‌ات، همه‌جا مانند مرواریدها درخشش و زیبایی دارند."
     },
     {
       "VOrder": 4,
@@ -54,7 +56,8 @@
       "Position": "Right",
       "Text": "نسیمت، جهان خوشتر از خلد کرده",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نسیم تو باعث شده که جهان زیباتر از بهشت به نظر برسد و مکان تو بالاتر از هر جای دیگر قرار گرفته است."
     },
     {
       "VOrder": 6,
@@ -68,7 +71,8 @@
       "Position": "Right",
       "Text": "زقدرت، محل، چرخ و انجم فزوده",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از قدرت تو، مکان، آسمان و ستاره‌ها افزوده شده است و از وجود تو، شرف، دین و دنیاست که به دست آمده."
     },
     {
       "VOrder": 8,
@@ -82,7 +86,8 @@
       "Position": "Right",
       "Text": "سرشک عدو چون مثالث روان شد",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بغض و کینه دشمن مانند اشکی به راه افتاد، همچون زنگی که به نشانه خویشاوندی و نسبت گرفته می‌شود."
     },
     {
       "VOrder": 10,
@@ -96,7 +101,8 @@
       "Position": "Right",
       "Text": "زنور تجلی رای منیرت",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نور تجلی و درخشش فکر و اندیشه تو مانند نوری است که در کوه طور سینا تابیده است."
     },
     {
       "VOrder": 12,
@@ -110,7 +116,8 @@
       "Position": "Right",
       "Text": "به دستت درون، تیغ گوهر نگارت",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دست تو حاوی جواهراتی است که چون نهنگ در دل دریا جای دارد."
     },
     {
       "VOrder": 14,
@@ -124,7 +131,8 @@
       "Position": "Right",
       "Text": "به صابون خورشید تا دست شویی",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خشکی خورشید شبیه به صابون است که برای تمیز کردن دنیا به کار می‌رود و این طشت مینا هم دوروبر آن قرار دارد."
     },
     {
       "VOrder": 16,
@@ -138,7 +146,8 @@
       "Position": "Right",
       "Text": "زسهم شورهای کین تو، آتش",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از تأثیر احساسات شدید و پرشور تو، آتش عشق به میهن در دل سنگ سخت هم شعله ور شده است."
     },
     {
       "VOrder": 18,
@@ -152,7 +161,8 @@
       "Position": "Right",
       "Text": "چو خورشید تیغی برآورده رایت",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا می‌گوید که مثل خورشید که با درخشش و قوت خود می‌تابد، به یک لحظه توانسته است جهانی را تحت تأثیر قرار دهد و به آن نظم و روشنی بخشد. این تصویر نشان‌دهنده قدرت و تأثیرگذاری فوق‌العاده‌ای است که می‌تواند در یک آن به وجود آید."
     },
     {
       "VOrder": 20,
@@ -166,7 +176,8 @@
       "Position": "Right",
       "Text": "به یاری شمشیر عزمت قضا را",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با کمک و قدرت شمشیرت، قادر خواهی بود قضا و سرنوشت را نبینی و هیچ دشمنی نتواند به تو آسیب برساند."
     },
     {
       "VOrder": 22,
@@ -180,7 +191,8 @@
       "Position": "Right",
       "Text": "چنان اقتضا کرد تقویم حکمت",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چنان وضعیت اقتضا کرده که یا باید دشمن را شکست دهی و از پا درآوری، یا خود در این راه آسیب ببینی و به این مسأله گرفتار شوی."
     },
     {
       "VOrder": 24,
@@ -194,7 +206,8 @@
       "Position": "Right",
       "Text": "ملک سیرتا! کمترین بنده قمری",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای ملک سیاره! کمترین بنده‌ای که در عین حقارت، همانند قمری در آسمان پر ستاره هستم، از جهانی دور و ناشناخته جا گرفته‌ام."
     },
     {
       "VOrder": 26,
@@ -208,7 +221,8 @@
       "Position": "Right",
       "Text": "بحمدالله اکنون به فر همایت",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با کمال مسرت، اکنون به لطف حمایت و یاری، مانند سیمرغ راه خود را به سمت صحرا آغاز کرده‌ام."
     },
     {
       "VOrder": 28,
@@ -222,7 +236,8 @@
       "Position": "Right",
       "Text": "نظر بر وی افکن که نیکو نباشد",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به او نگاه کن، چرا که زیبایی‌اش به خاطر ناشناس بودنش نیست و او را به خوبی نمی‌انگارد."
     },
     {
       "VOrder": 30,
@@ -236,7 +251,8 @@
       "Position": "Right",
       "Text": "الا تا بود عقل با آستانت",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای یار، تا زمانی که عقل و خرد در کنار تو باشد، من این سقف بلندی را بر می‌دارم."
     },
     {
       "VOrder": 32,
@@ -250,7 +266,8 @@
       "Position": "Right",
       "Text": "زجیب فلک رای پیرت زبرباد",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از آسمان، فکر و رای پیر تو را در آغوش باد گرفته و دامن خوشبختی جوان را به دست آورده است."
     },
     {
       "VOrder": 34,
@@ -264,7 +281,8 @@
       "Position": "Right",
       "Text": "به یک دست زلف نگارین بسوده",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دردست یکی از دست‌ها، زلف‌های زیبا و دلربا را نوازش می‌کند و در دست دیگر، جام پر از شراب را گرفته است."
     },
     {
       "VOrder": 36,

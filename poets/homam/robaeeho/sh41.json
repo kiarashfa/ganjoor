@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گویند فلان سلطنتی می‌راند",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌گویند که فلان شخص سلطنت می‌کند و به خوبی می‌داند که چگونه خوب و بد را تشخیص دهد و حکمرانی کند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "بیهوده به ریش خویشتن می‌خندند",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این افراد بی‌دلیل به خود می‌خندند و نمی‌دانند که این کار، کاری است که شخص دیگری انجام می‌دهد."
     },
     {
       "VOrder": 4,

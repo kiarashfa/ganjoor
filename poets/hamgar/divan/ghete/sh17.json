@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "از تو ما را شکایتی ست لطیف",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما از تو هیچ شکایتی نداریم، بلکه دل‌تنگی و ناراحتی ما به خاطر روزگار و شرایط زندگی‌مان است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "این چه می بود کم فرستادی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این چه چیز ناچیزی بود که فرستادی، که همه شهر ما پر از افسانه و داستان است."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "اگر آن را شراب باید خواند",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهیم به شراب تشبیهش کنیم، پس چاه ما همان مکان شراب‌خانه ماست."
     },
     {
       "VOrder": 6,

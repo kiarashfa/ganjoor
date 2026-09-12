@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "در خانه اگر متاع دنیا باشد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در خانه چیزهای دنیوی وجود داشته باشد، پس چرا در را باز بگذاریم؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "چون باز نهادنش بدشواری هست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باز کردن چیزی پس از بسته شدن کار دشواری است، بنابراین بهتر است در ابتدا آن را به درستی ببندیم تا نیاز به باز کردن دوباره‌اش نباشد."
     },
     {
       "VOrder": 4,

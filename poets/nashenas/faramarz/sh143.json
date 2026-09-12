@@ -661,7 +661,8 @@
       "Text": "چو یک هفته بنشست در پیشگاه",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: وقتی یک هفته در حضور فرمانده بزرگ نشسته بود، اینچنین با پادشاه سخن گفت."
     },
     {
       "VOrder": 2,
@@ -677,7 +678,8 @@
       "Text": "کز آن گنج گرشسب گرد سوار",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: از آن گنجی که به من دادی، و نشان سوار گرشسب که بارها در موردش صحبت کرده‌ای."
     },
     {
       "VOrder": 4,
@@ -693,7 +695,8 @@
       "Text": "کدامست بنمای اکنون به من",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: به من نشان بده کدام یک از این افراد شایسته است که من او را ببینم."
     },
     {
       "VOrder": 6,
@@ -709,7 +712,8 @@
       "Text": "برآمد شهنشه ز جای نشست",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: شاه بزرگ از جای خود برخواست و با احترام به نام‌آوران و بزرگانی که او را می‌پرستند، نشست."
     },
     {
       "VOrder": 8,
@@ -725,7 +729,8 @@
       "Text": "فرامرز یل نیز و ایران سپاه",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: فرامرز و سپاه ایران از شهر خارج شدند و به سوی محل مشخصی رفتند."
     },
     {
       "VOrder": 10,
@@ -741,7 +746,8 @@
       "Text": "ز یک نیمه شهر میلی نمود",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: نیمی از شهر به سمتی متمایل شد که مانند یک دفتر نشانی عمل کرد."
     },
     {
       "VOrder": 12,
@@ -757,7 +763,8 @@
       "Text": "ز سنگ و ز گچ بود میلی دراز",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: این بیت به توصیف یک سازه یا بنا اشاره دارد که با استفاده از مصالحی مانند سنگ و گچ ساخته شده است. این بنا دارای ارتفاع بلندی است و به نوعی به عظمت و استقامت آن اشاره می‌کند. به عبارت دیگر، نویسنده خواسته است تا قدرت و زیبایی این ساختار را بیان کند."
     },
     {
       "VOrder": 14,
@@ -773,7 +780,8 @@
       "Text": "فرامرز انداخت آن را ز پای",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: فرامرز چیزی را از پای یک شخص دیگر به زمین انداخت و در همان لحظه، در آنجا مکانی تاریک و ناشناخته ظاهر شد."
     },
     {
       "VOrder": 16,
@@ -789,7 +797,8 @@
       "Text": "طلسمی بدیدند در تیره چاه",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: در چاهی تاریک طلسمی دیده می‌شود و در آنجا شیر شجاعی را تماشا می‌کند."
     },
     {
       "VOrder": 18,
@@ -805,7 +814,8 @@
       "Text": "ز فیروزه مردی به اسبی ز زر",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: مردی با فخر و جلوه، بر اسبی زینت شده سوار است و در دستش خنجری دارد که نماد شجاعت و دفاع از جانش است."
     },
     {
       "VOrder": 20,
@@ -821,7 +831,8 @@
       "Text": "نشسته بر آن اسب زرین چنان",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: نشسته بر آن اسب طلایی، به‌گونه‌ای که گویی هم‌اکنون در حال جنگ است."
     },
     {
       "VOrder": 22,
@@ -837,7 +848,8 @@
       "Text": "سپهبد فرامرز گرد دلیر",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: فرامرز، سردار شجاع، به یکی از سربازان دستور داد که به زیر برود."
     },
     {
       "VOrder": 24,
@@ -853,7 +865,8 @@
       "Text": "بدان تا ببیند که در ژرف چاه",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: بدان که تا بخواهد بفهمد در عمق چاه چه چیزی وجود دارد و چگونه می‌تواند به آن دسترسی پیدا کند."
     },
     {
       "VOrder": 26,
@@ -869,7 +882,8 @@
       "Text": "چو مرد اندر آن جایگه پانهاد",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: وقتی مرد در آن مکان به پاخاست، خنجر به سرعت همچون باد دور او چرخید."
     },
     {
       "VOrder": 28,
@@ -885,7 +899,8 @@
       "Text": "به گردش زدش در زمان تیغ تیز",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: تیغ تیز ناگهان بر او فرود آمد و او را به حرکت واداشت، به گونه‌ای که زندگی و تلاشش دوباره زنده شد."
     },
     {
       "VOrder": 30,
@@ -901,7 +916,8 @@
       "Text": "جهان پهلوان در شگفتی بماند",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: دنیا به خاطر قدرت و شگفتی‌های خود، بسیار تحت تأثیر قرار گرفته و همیشه در حیرت و تعجب است. در این میان، انسان‌هایی هستند که با خود ذکر خدا را زمزمه می‌کنند و به یاد او هستند."
     },
     {
       "VOrder": 32,
@@ -917,7 +933,8 @@
       "Text": "ز درد جوان شد دلش پر نژند",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: دلش از درد جوانی پر از غم و اندوه شده است و به دور خودش می‌چرخد، نمی‌داند چه باید بکند."
     },
     {
       "VOrder": 34,
@@ -933,7 +950,8 @@
       "Text": "بدید آن همه بند و نیرنگ چاه",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: آن‌ها دیدند که همه آن ترفندها و دام‌ها را شکستند و راه روشن و واضحی را مشاهده کردند."
     },
     {
       "VOrder": 36,
@@ -949,7 +967,8 @@
       "Text": "در آن جایگه شد یل پهلوان",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: در آن مکان، اسطوره‌ها و پهلوانان نامی و بزرگ جمع شدند و به یاری یکدیگر آمدند."
     },
     {
       "VOrder": 38,
@@ -965,7 +984,8 @@
       "Text": "یکی خوش سرا دید آراسته",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: یک نفر زیبا و آراسته را دید که لباسش از سنگ‌های قیمتی مثل فیروزه و لعل تهیه شده بود."
     },
     {
       "VOrder": 40,
@@ -981,7 +1001,8 @@
       "Text": "ز زر اندرو دید بسیار خم",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: از طلا چیزهای زیادی دیدی، اما در آنجا تو مردی را دیدی که سوار بر اسب گم شده بود."
     },
     {
       "VOrder": 42,
@@ -997,7 +1018,8 @@
       "Text": "سر خم همه برگرفته ز زر",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: همه سرها به خاطر طلا خم شده و به زنجیر یکدیگر بند شده‌اند."
     },
     {
       "VOrder": 44,
@@ -1013,7 +1035,8 @@
       "Text": "ز یاقوت و فیروزه و گوهران",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: در این بیت به زیبایی و ارزش جواهرات مختلف اشاره شده است. شاعر از یاقوت، فیروزه، لعل و زبرجد صحبت می‌کند و نشان می‌دهد که این سنگ‌های قیمتی از طرفی به شکل زیبایی در کنار هم قرار دارند و از طرفی به ارزش و زیبایی آنها در تمام جهان اشاره می‌کند. به نوعی می‌توان گفت که این جواهرات نشان‌دهنده‌ی شکوه و عظمت هستند."
     },
     {
       "VOrder": 46,
@@ -1029,7 +1052,8 @@
       "Text": "بسی دید هر جایگه ریخته",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: بسیاری از چیزها را در جاهای مختلف دیده‌ام که با یکدیگر در هم آمیخته و ترکیب شده‌اند."
     },
     {
       "VOrder": 48,
@@ -1045,7 +1069,8 @@
       "Text": "یکی لوح یاقوت چون آفتاب",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: یک لوح یاقوتی که همچون آفتاب درخشان است، به نیکی و خوبی، مانند یک قطره آب، ارزشمند و زیباست."
     },
     {
       "VOrder": 50,
@@ -1061,7 +1086,8 @@
       "Text": "برو بر نوشته یکی پند خوب",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: برو و به کلام کسی که نصیحت‌های خوب و سخنان نیکو دارد، توجه کن و از آن بهره ببر."
     },
     {
       "VOrder": 52,
@@ -1077,7 +1103,8 @@
       "Text": "نوشته در آنجا چنان یافت شیر",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: در آنجا توجیهی در مورد قدرت و شجاعت شیر و توانایی‌های او وجود دارد که به شخصیت قهرمانانه و دلیر او اشاره می‌کند."
     },
     {
       "VOrder": 54,
@@ -1093,7 +1120,8 @@
       "Text": "جهانگیر پور سرافراز من",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: جهانگیر، پسر سرافرازم، پشتیبان ملت و رئیس جمعیت است."
     },
     {
       "VOrder": 56,
@@ -1109,7 +1137,8 @@
       "Text": "ز ما باد بر تو فراوان درود",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: برای تو همیشه از جانب ما آرزوهای خوب و سلامتی بسیار است؛ امید که همیشه خوب و نیکو باشی."
     },
     {
       "VOrder": 58,
@@ -1125,7 +1154,8 @@
       "Text": "چو ایدر رسیدی به روشن روان",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: زمانی که به این دیار رسیدی، به واسطه وجود تو، این سرزمین به روشنایی و زندگی معنا می‌یابد."
     },
     {
       "VOrder": 60,
@@ -1141,7 +1171,8 @@
       "Text": "بهشتی بود باز با رنگ و بوی",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: بهشت را می‌توان با رنگ و بوی تیر تو توصیف کرد، ای شیر دلیر و پرجوش!"
     },
     {
       "VOrder": 62,
@@ -1157,7 +1188,8 @@
       "Text": "زدوده شود تیرگی ها ازو",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: از وجود او تیرگی‌ها پاک می‌شود و دوباره به سمت خوبی و نیکی می‌رسد."
     },
     {
       "VOrder": 64,
@@ -1173,7 +1205,8 @@
       "Text": "به پارنج خویش این گرانمایه گنج",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: این شخص با زحمت و تلاش زیاد، موفق به جمع‌آوری ثروت و گنجینه‌ای ارزشمند شده است."
     },
     {
       "VOrder": 66,
@@ -1189,7 +1222,8 @@
       "Text": "ولی پند من سر به سر یاد گیر",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: سخن من را به‌خوبی فرا بگیر، زیرا دنیا را از عملش بشناس."
     },
     {
       "VOrder": 68,
@@ -1205,7 +1239,8 @@
       "Text": "که بر کس نماند جهان جاودان",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس در این دنیا جاودانه نیست، پس برای خود و دیگران روزهای تیره و غم‌انگیز نیافرین."
     },
     {
       "VOrder": 70,
@@ -1221,7 +1256,8 @@
       "Text": "زبهر زمانه مکن دل دژم",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: به خاطر زمانه، دل خود را ناراحت نکن و از خوبی‌ها لذت ببر و هیچ نگرانی نداشته باش."
     },
     {
       "VOrder": 72,
@@ -1237,7 +1273,8 @@
       "Text": "که گر بس بکوشی و گردآوری",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: اگر تلاش کنی و چیزهایی جمع‌آوری کنی، در نهایت همه آن‌ها تو را رها کرده و از تو می‌گذرند."
     },
     {
       "VOrder": 74,
@@ -1253,7 +1290,8 @@
       "Text": "مرا نیز بود ای پسر نای و نوش",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: من هم مانند تو، ای پسر، دارای نوا و طراوت دل، دانش و آگاهی و همچنین چشمی بینا و گوشی شنوا هستم."
     },
     {
       "VOrder": 76,
@@ -1269,7 +1307,8 @@
       "Text": "بزرگی و نام و فزونی و بخت",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: عظمت و شهرت و موفقیت یک قهرمان واقعی فراتر از مقام و سلطنت است."
     },
     {
       "VOrder": 78,
@@ -1285,7 +1324,8 @@
       "Text": "به روی زمین بر نماند هیچ جای",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: هیچ جایی در جهان باقی نخواهد ماند که فیل من در آنجا پا نگذارد."
     },
     {
       "VOrder": 80,
@@ -1301,7 +1341,8 @@
       "Text": "به شمشیر و تیر و به گرز گران",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: با شمشیر و تیر و گرز سنگین، بسیاری از سپاه بی‌پایان را شکستم."
     },
     {
       "VOrder": 82,
@@ -1317,7 +1358,8 @@
       "Text": "بسی شیر و پیل و بسی اژدها",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: من بارها با شیر، فیل و اژدها روبرو شده‌ام و با سران آن‌ها جداگانه برخورد کرده‌ام."
     },
     {
       "VOrder": 84,
@@ -1333,7 +1375,8 @@
       "Text": "به خنجر دل کوه بشکافتم",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: با تیرگی و دشواری‌های زندگی مبارزه کردم و توانستم به تمام آرزوهایم دست پیدا کنم."
     },
     {
       "VOrder": 86,
@@ -1349,7 +1392,8 @@
       "Text": "هزارم فزون بود از عمر بهر",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: عمری که به دست آورده‌ام، از هزاران مرتبه بیشتر است؛ زیرا من در سفرهای بسیار و دیدن مرزها و شهرهای گوناگون، تجربه‌ها و آموخته‌های زیادی کسب کرده‌ام."
     },
     {
       "VOrder": 88,
@@ -1365,7 +1409,8 @@
       "Text": "چو هنگام ضحاک تازی نژاد",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: زمانی که ضحاک، نژاد تهدیدآمیز خود را به رخ می‌کشد و می‌خواهد قدرت را در دست بگیرد، همانند زمانی است که فریدون با عدالت و قوانین الهی به مقابله با او می‌پردازد."
     },
     {
       "VOrder": 90,
@@ -1381,7 +1426,8 @@
       "Text": "مرا راست بد کار و آسوده روز",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: از آن پس که به دنیا آمدیم، به راستی کارهایمان سخت شد و روزهایمان آرام نگذشت."
     },
     {
       "VOrder": 92,
@@ -1397,7 +1443,8 @@
       "Text": "چو گفتم که آرام خواهم گرفت",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: وقتی گفتم که می‌خواهم آرامش پیدا کنم و راحت باشم، تصمیم گرفتم که از زندگی لذت ببرم و خوش بگذرانم."
     },
     {
       "VOrder": 94,
@@ -1413,7 +1460,8 @@
       "Text": "شبیخون سگالید ناگاه مرگ",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: ناگهان مرگ به ما نزدیک شد و تیرش به خود ما هم برخورد کرد."
     },
     {
       "VOrder": 96,
@@ -1429,7 +1477,8 @@
       "Text": "ز تختم سوی تیره خاک آورید",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: از تاجم به سوی زمین می‌آورند سرم را، ناگهان در چاهی عمیق می‌اندازند."
     },
     {
       "VOrder": 98,
@@ -1445,7 +1494,8 @@
       "Text": "شما را سپردیم دیگر جهان",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: ما شما را به دیگران سپردیم و از این پس، یاد ما در میان بزرگ‌مردان باقی خواهد ماند."
     },
     {
       "VOrder": 100,
@@ -1461,7 +1511,8 @@
       "Text": "تویی مر مرا در جهان یادگار",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: تو یادگاری در این دنیا هستی که خداوند از تو راضی و خشنود باشد."
     },
     {
       "VOrder": 102,
@@ -1477,7 +1528,8 @@
       "Text": "چو دانستی ای نامور پهلوان",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: وقتی فهمیدی ای پهلوان مشهور که دنیا هیچ وقت پایدار نمی‌ماند و جاودانه نیست،"
     },
     {
       "VOrder": 104,
@@ -1493,7 +1545,8 @@
       "Text": "ز بهر جهان رنج بر تن منه",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "هوش مصنوعی: به خاطر دنیا، خودت را در زحمات نینداز و دل‌ات را به روزهای سخت نسپار."
     },
     {
       "VOrder": 106,
@@ -1509,7 +1562,8 @@
       "Text": "پی درهم و گنج خود را مسوز",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "هوش مصنوعی: در تلاش برای کسب ثروت و دارایی خود سقف رعایت کن، زیرا نباید انتظار داشته باشی که امیدی از شب تا صبح بسازید."
     },
     {
       "VOrder": 108,
@@ -1525,7 +1579,8 @@
       "Text": "که ما از نهاده پشیمان شدیم",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "هوش مصنوعی: ما از تصمیمی که گرفتیم، پشیمان شده‌ایم و حالا که در خاک پنهان شده‌ایم، به این نتیجه رسیده‌ایم."
     },
     {
       "VOrder": 110,
@@ -1541,7 +1596,8 @@
       "Text": "به گیتی در آن کوش ای نامدار",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "هوش مصنوعی: در این جهان، تلاش کن و نامی نیک برای خود به جا بگذار، چرا که خداوند از تو راضی باشد."
     },
     {
       "VOrder": 112,
@@ -1557,7 +1613,8 @@
       "Text": "سپهبد چو برخواند اندرز باب",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "هوش مصنوعی: سربازان وقتی که فرمانده نصیحت‌های پندآموزش را می‌شنوند، احساساتی می‌شوند و اشک از چشمانشان جاری می‌شود."
     },
     {
       "VOrder": 114,
@@ -1573,7 +1630,8 @@
       "Text": "برآورد از دل یکی باد سرد",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "هوش مصنوعی: از دل یکی ناامیدی به وجود آمد و به دنبال آن، اشک‌های زرد رنگی از چشمانش جاری شد."
     },
     {
       "VOrder": 116,
@@ -1589,7 +1647,8 @@
       "Text": "فراوان ز کار نیا یاد کرد",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "هوش مصنوعی: پس از این که بسیار به یاد کار نیا (پدران و نیاکان) افتاد، سرها را به نشانه احترام خم کرد و تسلیم شد."
     },
     {
       "VOrder": 118,
@@ -1605,7 +1664,8 @@
       "Text": "ببخشید از آن هر کسی را بسی",
       "CoupletIndex": 59,
       "SectionIndex1": 0,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "هوش مصنوعی: ببخشید که از هر کسی برای شما خوشحالی و شادی به ارمغان می‌آورد."
     },
     {
       "VOrder": 120,
@@ -1621,7 +1681,8 @@
       "Text": "در آن مرز یک سال و شش مه بماند",
       "CoupletIndex": 60,
       "SectionIndex1": 0,
-      "SectionIndex2": 62
+      "SectionIndex2": 62,
+      "CoupletSummary": "هوش مصنوعی: در آن سرزمین، یک سال و شش ماه باقی ماند و پس از آن، سربازان و دلیران به حرکت درآمدند."
     },
     {
       "VOrder": 122,
@@ -1637,7 +1698,8 @@
       "Text": "دو منزل شه قیروان و سران",
       "CoupletIndex": 61,
       "SectionIndex1": 0,
-      "SectionIndex2": 63
+      "SectionIndex2": 63,
+      "CoupletSummary": "هوش مصنوعی: دو شهر قیروان و سران، به همراه آن پهلوان، به سمت مقصدی رفتند."
     },
     {
       "VOrder": 124,
@@ -1653,7 +1715,8 @@
       "Text": "بکردند بدرود با یکدگر",
       "CoupletIndex": 62,
       "SectionIndex1": 0,
-      "SectionIndex2": 64
+      "SectionIndex2": 64,
+      "CoupletSummary": "هوش مصنوعی: شاه بزرگ و پهلوان مشهور با یکدیگر وداع کردند."
     },
     {
       "VOrder": 126,

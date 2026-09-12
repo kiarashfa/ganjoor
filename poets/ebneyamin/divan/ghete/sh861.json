@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "گر کسی با تو بد کند زنهار",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی با تو بدی کرد، مراقب باش که جز خوبی کردن در پاسخ، کار دیگری نکنی."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "از بدی گر کسی کند سودی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی از کار بدش نفعی ببرد، تو با انجام کار خوب، آسیبی نخواهی دید."
     },
     {
       "VOrder": 4,

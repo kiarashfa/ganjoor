@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "چه مقصود است از این جانا بگو راست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جانا، چه هدفت از این کارهاست؟ گاهی موهایت را به شکلی منحرف می‌کنی و گاهی به‌صورت راست در می‌آوری."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "بگفت از بهر بیم خصم فایز",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفت به خاطر ترس از دشمن، که یعنی مار و عقرب هر دو از یک جنس هستند."
     },
     {
       "VOrder": 4,

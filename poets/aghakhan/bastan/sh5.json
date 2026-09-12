@@ -421,7 +421,8 @@
       "Text": "گهی شاه را پهلوان خوانده است",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: گاه کسی را شاه و پادشاه می‌خوانند و گاه او را نزدیک به زوال و پایین‌آوردن شأن معرفی می‌کنند."
     },
     {
       "VOrder": 2,
@@ -437,7 +438,8 @@
       "Text": "گهی کشوری را کند شاه نام",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: گاهی اوقات یک کشور تحت سلطه یک پادشاه قرار می‌گیرد و در زمان‌های دیگر، یک فرد به عنوان نماینده یا نماد یک قوم شناخته می‌شود."
     },
     {
       "VOrder": 4,
@@ -453,7 +455,8 @@
       "Text": "گهی نام جنگی شده پهلوان",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: گاه پهلوان به عنوان یک جنگجو شناخته می‌شود و گاه درباره دیوان و موجودات افسانه‌ای سخن می‌گوید."
     },
     {
       "VOrder": 6,
@@ -469,7 +472,8 @@
       "Text": "یکی را کند شاه سالی هزار",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: در اینجا گفته می‌شود که یک شخص به جای پسر، مورد توجه شاه قرار می‌گیرد و به او مقام و احترام داده می‌شود، به گونه‌ای که یک سال او را به عنوان جانشین پدرش می‌بیند. این موضوع به تمجید و ارجحیت دادن به او در مقابل دیگران اشاره دارد."
     },
     {
       "VOrder": 8,
@@ -485,7 +489,8 @@
       "Text": "دریغا که تاریخ در آن زمان",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: ای کاش، در آن زمان تاریخ مانند ماهی بود که زیر ابری پنهان شده است."
     },
     {
       "VOrder": 10,
@@ -501,7 +506,8 @@
       "Text": "هم آثار پیدا نبودی بسی",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: اگر آثار قابل مشاهده‌ای وجود نداشت، هیچ‌کس قادر به خواندن خطوط قدیمی نبود."
     },
     {
       "VOrder": 12,
@@ -517,7 +523,8 @@
       "Text": "زآتور و از بابل و لیدیا",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: از سرزمین‌های آتور، بابل و لیدیا، همچنین از آلام و هتن و میدیا."
     },
     {
       "VOrder": 14,
@@ -533,7 +540,8 @@
       "Text": "ز یونان و از مصر و قوم فنیس",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: از یونان و مصر و قوم فینیس، کسی در میان نویسندگان آگاه نبود."
     },
     {
       "VOrder": 16,
@@ -549,7 +557,8 @@
       "Text": "ازین رو سروده سخن ناشناس",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: به همین دلیل، شعر یک ناشناس را به دیگران نسبت داده و با آن مقایسه کرده است."
     },
     {
       "VOrder": 18,
@@ -565,7 +574,8 @@
       "Text": "زمان های شاهان همه درهم است",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: زمان سلطنت شاهان به هم ریخته و نامشخص است و روایت‌های تاریخی نیز به شدت مبهم و غیرشفاف هستند."
     },
     {
       "VOrder": 20,
@@ -581,7 +591,8 @@
       "Text": "چو صد سال شاهی کند کیقباد",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: وقتی که کیقباد به مدت صد سال پادشاهی کند، هیچ‌کس از مردم توس و آرش او را به یاد نخواهد آورد."
     },
     {
       "VOrder": 22,
@@ -597,7 +608,8 @@
       "Text": "فریبرز کو بود شاه مدی",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: فریبرز، که پادشاه مادی بود، از او شکوه الهی تابش نکرد."
     },
     {
       "VOrder": 24,
@@ -613,7 +625,8 @@
       "Text": "چو کاوس فرمان براند بسی",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: وقتی کاوس به عنوان فرمانروایی برمی‌خیزد، هیچ‌کس به یاد آن کاوینیان نمی‌افتد."
     },
     {
       "VOrder": 26,
@@ -629,7 +642,8 @@
       "Text": "چو لهراسب شاهی کند گاه دیر",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: وقتی لهراسب به حکومت می‌پردازد، گاهی اوقات به یونان مسافرت می‌کند و زریر را به عنوان نماینده خود به آنجا می‌فرستد."
     },
     {
       "VOrder": 28,
@@ -645,7 +659,8 @@
       "Text": "چو گشتاسب باشد یکی شهریار",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: اگر گشتاسب یک پادشاه باشد، اسفندیار از مقام شاهی کم‌تر است."
     },
     {
       "VOrder": 30,
@@ -661,7 +676,8 @@
       "Text": "سه پنجه که شاهی کند اردشیر",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی به دنبال قدرت و سلطنت باشد، شاهی مانند اردشیر دوم را نمی‌تواند به راحتی به دست آورد."
     },
     {
       "VOrder": 32,
@@ -677,7 +693,8 @@
       "Text": "چو رستم زید سالیان دراز",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: رستم سال‌های زیادی را در میدان‌های جنگ گذرانده و در هر نبرد، خود او نقش اصلی را در مبارزه داشته است."
     },
     {
       "VOrder": 34,
@@ -693,7 +710,8 @@
       "Text": "چو گرشسب باز او نشیند به تخت",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: وقتی گرشسب دوباره به تخت بنشیند، زال، پدرش، در کنار او خوشبخت و ثروتمند می‌شود."
     },
     {
       "VOrder": 36,
@@ -709,7 +727,8 @@
       "Text": "چو سیروس خواند همی زند و است",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد که روز و سال زردشت به درستی نخواهد بود. اگر سیروس نیز بخواند، این موضوع همچنان ادامه خواهد یافت."
     },
     {
       "VOrder": 38,
@@ -725,7 +744,8 @@
       "Text": "چو ضحاک شاهیست سالی هزار",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: ضحاک مانند پادشاهی است که هزار سال می‌گذرد و مردم کلده دیگر در شمار نمی‌آیند."
     },
     {
       "VOrder": 40,
@@ -741,7 +761,8 @@
       "Text": "فریدون چو شاهی کند پنج صد",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: وقتی فریدون به عنوان پادشاه به ساخت و ساز و آبادانی می‌پردازد، سلطنت او به کجا خواهد رسید و چه اندازه پیشرفت خواهد کرد؟"
     },
     {
       "VOrder": 42,
@@ -757,7 +778,8 @@
       "Text": "چو افراسیاب است خاقان ترک",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: مثل اینکه خاقان ترک همانند افراسیاب است، و او پسر بزرگی را دارد که به شدت به او وابسته است."
     },
     {
       "VOrder": 44,
@@ -773,7 +795,8 @@
       "Text": "چو ایلاگوی شد ز تورانیان",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: زمانی که ایلاگوی از طرف تورانیان به میدان آمد، رود کارن یکی از پهلوانان شد."
     },
     {
       "VOrder": 46,
@@ -789,7 +812,8 @@
       "Text": "چو ایراک پور فریدون بود",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: وقتی ایراگ، پسر فریدون است، شلمناصر و تور به سمت خلاف او می‌روند."
     },
     {
       "VOrder": 48,
@@ -805,7 +829,8 @@
       "Text": "چو آثور شد سرو شاه یمن",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: زمانی که سروهای زیبای شاه یمن به بلوغ و شکوفایی رسیدند، شهر نینوا به عنوان مکانی با باغ‌های دل‌انگیز معروف بود."
     },
     {
       "VOrder": 50,
@@ -821,7 +846,8 @@
       "Text": "چو سگسار شد نام مازندران",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: وقتی نام مازندران به جای خود بازمی‌گردد، در آنجا به عنوان سرزمین گرگ‌ها شناخته می‌شود."
     },
     {
       "VOrder": 52,
@@ -837,7 +863,8 @@
       "Text": "چو ملک دیاگوست دشت دغو",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: وقتی که ملک دیاگوست به دشت دغو نگاه می‌کند، دختر نیکو از گرسیوز را می‌بیند."
     },
     {
       "VOrder": 54,
@@ -853,7 +880,8 @@
       "Text": "چو آرمینه هم گشت سرحد تور",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: وقتی که آرمینه به سرزمین تور گرازان رسید، در آنجا شور و شوقی برپا کردند."
     },
     {
       "VOrder": 56,
@@ -869,7 +897,8 @@
       "Text": "گر ایرش همان جنگ آرش بود",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: اگر ایرج همان جنگ آرش باشد، همانطور که سیوز نام سیاوش را دارد."
     },
     {
       "VOrder": 58,
@@ -885,7 +914,8 @@
       "Text": "گروهی زره پهلوانی نبود",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: نمی‌توان گفت که در میان گروهی از پهلوانان، هیچ زرهی وجود نداشت و همچنین هیچ جوان دلاوری در آنجا نبود."
     },
     {
       "VOrder": 60,
@@ -901,7 +931,8 @@
       "Text": "نه پیران ویسه است دستور شه",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: نه، پیران و بزرگان به او دستور نمی‌دهند، چون او خود به تنهایی دارای جاودانگی و قدرت سپه‌سالاری است."
     },
     {
       "VOrder": 62,
@@ -917,7 +948,8 @@
       "Text": "آلانان به جز ملک آلام نیست",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: در حال حاضر، به جز سرزمین آلام، هیچ مکانی وجود ندارد که در شهنامه نام دژی در آن ذکر شده باشد."
     },
     {
       "VOrder": 64,
@@ -933,7 +965,8 @@
       "Text": "گروهی ز تاتار باشد پشنگ",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: گروهی از تاتارها به نام پشنگ وجود دارند که در زمان جنگ به نیروی امید بخش خود اعتقاد دارند."
     },
     {
       "VOrder": 66,
@@ -949,7 +982,8 @@
       "Text": "گهارگهانی است هون سیاه",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: در زمان‌های مختلف، صدای وحشتناک و ترسناکی به گوش می‌رسد که مرتبط با سپاه قراخان از سرزمین توران است."
     },
     {
       "VOrder": 68,
@@ -965,7 +999,8 @@
       "Text": "بلاشان به جز قوم شریک نیست",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: در میان مشکل‌ها و مصیبت‌ها کسی جز هم‌قومان و نزدیکان نمی‌تواند یاری کند، همان‌طور که بیژن که در داستانش به تنهایی و بی‌همسری شناخته می‌شود."
     },
     {
       "VOrder": 70,
@@ -981,7 +1016,8 @@
       "Text": "پشن خود بود جنگ نورانیاس",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: در دل خود جنگی روشن و نورانی وجود دارد که در دنیا بر اساس آن شکل گرفته است."
     },
     {
       "VOrder": 72,
@@ -997,7 +1033,8 @@
       "Text": "از این گونه باشد غلط ها بسی",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: از این قبیل اشتباهات بسیار است که هیچ کس از آن‌ها آگاه نبود."
     },
     {
       "VOrder": 74,
@@ -1013,7 +1050,8 @@
       "Text": "مگر اندرین عصر فرخنده بن",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: آیا در این زمان خوشبخت، رازهای قدیمی کهنه آشکار شده است؟"
     },
     {
       "VOrder": 76,
@@ -1029,7 +1067,8 @@
       "Text": "دریغ است که امروز ایرانیان",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: متأسفانه امروز بسیاری از ایرانیان از تاریخ و میراث فرهنگی نیاکان خود بی‌خبرند."
     },
     {
       "VOrder": 78,

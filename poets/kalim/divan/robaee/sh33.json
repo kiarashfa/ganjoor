@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "شاها یکره بهر که افتد نظرت",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای پادشاه، هر کس که چشمش به تو بیفتد، از حوادث و خطرات در امان خواهد بود، مانند خاکی که زیر پاهای تو قرار دارد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "خورشید نیارد که بر آن تیغ کشد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خورشید نمی‌تواند بر خاکی که سایه‌اش زیر سپر توست، تیزی خود را بیفکند."
     },
     {
       "VOrder": 4,

@@ -147,7 +147,8 @@
       "Text": "دیدم گلِ تازه چند دسته",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "چند مجموعه گل بر خرمنی از گیاه بسته یافتم."
     },
     {
       "VOrder": 2,
@@ -163,7 +164,8 @@
       "Text": "گفتم: چه بود گیاهِ ناچیز",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: گفتم: این گیاه بی‌ارزش چه بی‌دلیل در میان گل‌ها خود را جا کرده است؟"
     },
     {
       "VOrder": 4,
@@ -179,7 +181,8 @@
       "Text": "بگریست گیاه و گفت: خاموش",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "گیاه گریه آغاز کرد و گفت: خاموش باش و بیش خرده مگیر که مرد کریم به بزرگ‌منشی و بزرگواریِ‌ خود حقِّ همسایگی و هم‌خانگی را از یاد نمی‌برد و از همنشینیِ تهیدستان روی بر نمی‌تابد؛"
     },
     {
       "VOrder": 6,
@@ -195,7 +198,8 @@
       "Text": "گر نیست جمال و رنگ و بویم",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "مرا هم اگرچه مانند گل‌های بی‌خارِ جهان نقشی خوش و بویی دلکش نیست به هر حال گیاهِ گلزارِ آفریدگارم."
     },
     {
       "VOrder": 8,
@@ -211,7 +215,8 @@
       "Text": "من بندهٔ حضرتِ کریمم",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: من یکservantِ خداوند مهربان هستم و از نعمت‌های گذشته او رشد کرده و پرورش یافته‌ام."
     },
     {
       "VOrder": 10,
@@ -227,7 +232,8 @@
       "Text": "گر بی هنرم وگر هنرمند",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: اگر من بدون هنر باشم یا با هنر، لطف و محبتی که به من می‌شود از جانب خداوند است. من به رحمت و امید او دل بسته‌ام."
     },
     {
       "VOrder": 12,
@@ -243,7 +249,8 @@
       "Text": "با آن که بِضاعتی ندارم",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: با اینکه چیزی از نظر مالی ندارم، اما حتی توفیق عبادت و طاعت را هم ندارم."
     },
     {
       "VOrder": 14,
@@ -259,7 +266,8 @@
       "Text": "او چارهٔ کارِ بنده داند",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "چون بندهٔ درمانده را هیچ سببی از اسبابِ رسیدن به مراد نباشد، خداوندِ کریم وی را فرو نگذارد و چارهٔ کارش کند."
     },
     {
       "VOrder": 16,
@@ -275,7 +283,8 @@
       "Text": "رسم است که مالکانِ تحریر",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "مالکانِ برده -که حق و قدرتِ آزاد کردنِ بنده را دارند- چنین آیین است که چاکرانِ‌ فرتوت را آزاد می‌کنند."
     },
     {
       "VOrder": 18,
@@ -291,7 +300,8 @@
       "Text": "ای بارخدای عالم آرای",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "ای خداوندِ بزرگِ جهان آرای، این بندهٔ دیرسالهٔ افتاده را عفو کن و بر وی رحمت آر."
     },
     {
       "VOrder": 20,
@@ -307,7 +317,8 @@
       "Text": "سعدی رهِ کعبهٔ رضا گیر",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "ای سعدی، راهِ‌ قبلهٔ رضا و تسلیم و خشنودی به فرمانِ حق در پیش گیر، ای مرد راه حق، ملازم درگاهِ‌ یزدان باش؛"
     },
     {
       "VOrder": 22,
@@ -323,7 +334,8 @@
       "Text": "بدبخت کسی که سر بتابد",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "آنکس از هر درْ رانده و مطرود باشد که از آستان وی (خدا) روی بگرداند، زیرا جز درگاه ایزد پناهی نباشد (نتوان یافت)."
     },
     {
       "VOrder": 24,

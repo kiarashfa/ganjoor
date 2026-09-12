@@ -181,7 +181,8 @@
       "Text": "چو بشناخت آهنگری پیشه کرد",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوشنگ وقتی آتش و آهن را کشف کرد به آهنگری رو آورد و با آهنگری اره و تیشه ساخت."
     },
     {
       "VOrder": 2,
@@ -197,7 +198,8 @@
       "Text": "چو این کرده شد چارهٔ آب ساخت",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "سپس به فکر حل مشکل آب افتاد و از دریاها کانال‌کشی کرد."
     },
     {
       "VOrder": 4,
@@ -213,7 +215,8 @@
       "Text": "به جوی و به رود آب‌ها راه کرد",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "آب دریا را در جوها و رودها رها کرد و مشکل آب را حل کرد."
     },
     {
       "VOrder": 6,
@@ -229,7 +232,8 @@
       "Text": "چراگاه مردم بدان برفزود",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "با استفاده از آب ایجاد شده چراگاه‌ها را گسترده کرد و سپس دانش کشاورزی را گسترش داد."
     },
     {
       "VOrder": 8,
@@ -245,7 +249,8 @@
       "Text": "برنجید پس هر کسی نان خویش",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هر کسی برای نان خودش شروع به کار کرد و راجع به اوضاع سرزمین خود آگاه شد."
     },
     {
       "VOrder": 10,
@@ -261,7 +266,8 @@
       "Text": "بدان ایزدی جاه و فرّ کیان",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "با توانایی خدایی که به او داده شده بود از حیوانات شکاری مثل گورخر و گوزن ..."
     },
     {
       "VOrder": 12,
@@ -277,7 +283,8 @@
       "Text": "جدا کرد گاو و خر و گوسفند",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "... حیوانات اهلی را جدا کرد تا در دامداری و کشاورزی استفاده شوند (اهلی کردن حیوانات را شروع کرد)."
     },
     {
       "VOrder": 14,
@@ -293,7 +300,8 @@
       "Text": "ز پویندگان هر چه مویش نکوست",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "از حیوانات دیگر آنهایی که پوستشان به درد می‌خورد برای پوشش استفاده کردو"
     },
     {
       "VOrder": 16,
@@ -309,7 +317,8 @@
       "Text": "چو روباه و قاقم چو سنجاب نرم",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "پوست حیواناتی مثل روباه و قاقم و سنجاب و سمور را برای پوشش استفاده کرد."
     },
     {
       "VOrder": 18,
@@ -325,7 +334,8 @@
       "Text": "بر این گونه از چرم پویندگان",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "به این ترتیب انسانها از پوست این حیوانات به ابتکار هوشنگ لباس دوختند و پوشیدند."
     },
     {
       "VOrder": 20,
@@ -341,7 +351,8 @@
       "Text": "برنجید و گسترد و خورد و سپرد",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "کار کرد و سفره برای دیگران پهن کرد و خودش هم خورد و در نهایت کارها را به دیگران سپرد. سرانجام وقتی که از دنیا رفت به جز نام نیک چیزی با خود نبرد."
     },
     {
       "VOrder": 22,
@@ -357,7 +368,8 @@
       "Text": "بسی رنج برد اندر آن روزگار",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "در آن روزگار بسیار تلاش و فکر کرد."
     },
     {
       "VOrder": 24,
@@ -373,7 +385,8 @@
       "Text": "چو پیش آمدش روزگار بهی",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "وقتی روزگارش خوب شد از او تاج و تخت به ارث ماند."
     },
     {
       "VOrder": 26,
@@ -389,7 +402,8 @@
       "Text": "زمانه ندادش زمانی درنگ",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "وقتی زمان مرگش شد روزگار به او امان نداد و آن هوشنگ با شکوه و وقار رفت."
     },
     {
       "VOrder": 28,
@@ -405,7 +419,8 @@
       "Text": "نه پیوست خواهد جهان با تو مهر",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "دنیا به تو محبت نشان نمی‌دهد و چهرهٔ واقعی خودش را هم به تو نمی‌نمایاند."
     },
     {
       "VOrder": 30,

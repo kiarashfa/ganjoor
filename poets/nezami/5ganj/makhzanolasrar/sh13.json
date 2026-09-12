@@ -301,7 +301,8 @@
       "Text": "جنبش اول که قلم برگرفت",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: هنگامی که قلم شروع به نوشتن کرد، نخستین کلمات از زبان بیرون آمد."
     },
     {
       "VOrder": 2,
@@ -317,7 +318,8 @@
       "Text": "پرده خلوت چو برانداختند",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: وقتی که پرده‌ی مخفی را کنار زدند و همه چیز در معرض دید قرار گرفت، اولین کارشان سخن گفتن بود."
     },
     {
       "VOrder": 4,
@@ -333,7 +335,8 @@
       "Text": "تا سخن آوازه دل در نداد",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که دل احساساتش را بروز ندهد، جان یک انسان آزاد به زیبایی و شگفتی‌های زندگی اهمیت نمی‌دهد."
     },
     {
       "VOrder": 6,
@@ -349,7 +352,8 @@
       "Text": "چون قلم آمد شدن آغاز کرد",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: زمانی که قلم به حرکت درآمد، شروع به ایجاد و بیان کرد و جهانی را که در خاموشی بود، به سخن گفتن واداشت."
     },
     {
       "VOrder": 8,
@@ -365,7 +369,8 @@
       "Text": "بی سخن آوازه عالم نبود",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: اگر صحبت و گفت و گو نبود، نام و شهرت جهان نیز به این اندازه نبود. این همه حرف و داستان کم نیست."
     },
     {
       "VOrder": 10,
@@ -381,7 +386,8 @@
       "Text": "در لغت عشق سخن جان ماست",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: عشق، حرفی از دل و جان ماست و ما خود، سخنانی هستیم که در این مکان زیبا و دلنشین وجود داریم."
     },
     {
       "VOrder": 12,
@@ -397,7 +403,8 @@
       "Text": "خط هر اندیشه که پیوسته‌اند",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: هر فکر و اندیشه‌ای که به هم متصل شده‌اند، به مانند پرهای مرغان سخن‌آور به هم وابسته و مرتبط هستند."
     },
     {
       "VOrder": 14,
@@ -413,7 +420,8 @@
       "Text": "نیست درین کهنهٔ نوخیزتر",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در این دنیا که همیشه در حال تغییر است، کسی نمی‌تواند با زبانی تند و بی‌ملاحظه به عمق مسائل پی ببرد یا بر آنها مسلط شود."
     },
     {
       "VOrder": 16,
@@ -429,7 +437,8 @@
       "Text": "اول اندیشه، پسینِ شمار",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: ابتدا باید اندیشه کرد، بعد از آن این است که تمامی گفتارها به یکدیگر مرتبط هستند. پس بهتر است این موضوع را در اینجا بررسی کنیم."
     },
     {
       "VOrder": 18,
@@ -445,7 +454,8 @@
       "Text": "تاجوران تاجورش خوانده‌اند",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: تاجوران را تاجوران نامیده‌اند و دیگران هم آن را به نامی دیگر می‌شناسند."
     },
     {
       "VOrder": 20,
@@ -461,7 +471,8 @@
       "Text": "گه به نوای علمش برکشند",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: گاهی با صدای علمش تو را به اوج می‌کشانند و گاهی با زیبایی خط نگارش او تو را مجذوب می‌کنند."
     },
     {
       "VOrder": 22,
@@ -477,7 +488,8 @@
       "Text": "او ز علم فتح نماینده‌تر",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: او در علم و دانش از کسی که کشورها را فتح می‌کند، برتر است و در نوشتن و قلم‌زدن از کسی که سرزمین‌ها را گشوده‌تر است."
     },
     {
       "VOrder": 24,
@@ -493,7 +505,8 @@
       "Text": "گرچه سخن خود ننماید جمال",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: هرچند که زیبایی به طور مستقیم خود را نشان نمی‌دهد، اما دل‌باختگان به آن همچنان به خاطر تصورات خود به آن می‌بالند."
     },
     {
       "VOrder": 26,
@@ -509,7 +522,8 @@
       "Text": "ما که نظر بر سخن افکنده‌ایم",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: ما که به سخنان او توجه کرده‌ایم، انگار که مرده‌ایم و تنها با او هستیم و به او زندگی می‌بخشیم."
     },
     {
       "VOrder": 28,
@@ -525,7 +539,8 @@
       "Text": "سرد‌پیان آتش ازو تافتند",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: آتش سرد از او شعله‌ور شد و روان‌های گرم در آن آب پیدا کردند."
     },
     {
       "VOrder": 30,
@@ -541,7 +556,8 @@
       "Text": "اوست درین دِه ز دِه آبادتر",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: او در این روستا از تمام زیبایی‌ها و طراوت‌ها تازه‌تر است و از فرسودگی و قدمت چرخ زمان نیز پیشی گرفته است."
     },
     {
       "VOrder": 32,
@@ -557,7 +573,8 @@
       "Text": "رنگ ندارد ز نشانی که هست",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: این شعر به این معناست که رنگ و نشانه‌ای که وجود دارد، نمی‌تواند به درستی با کلمات بیان شود و حقیقت نمی‌تواند به راحتی در قالب سخن مجسم گردد."
     },
     {
       "VOrder": 34,
@@ -573,7 +590,8 @@
       "Text": "با سخن آنجا که برآرد علم",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: در آنجا که علم وجود دارد، صحبت‌ها و کلمات بسیار است و زبان نیز به خوبی به بیان آنها می‌پردازد."
     },
     {
       "VOrder": 36,
@@ -589,7 +607,8 @@
       "Text": "گرنه سخن رشته جان تافتی",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: اگر به دنبال عمق و راز گفتار حقیقی هستی، چگونه می‌توانی جان و روح خود را در این کلام پیدا کنی؟"
     },
     {
       "VOrder": 38,
@@ -605,7 +624,8 @@
       "Text": "ملک طبیعت به سخن خورده‌اند",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: جهان طبیعت در حال گفتگو است و قوانین الهی نیز در این مکالمه به بیان در آمده‌اند."
     },
     {
       "VOrder": 40,
@@ -621,7 +641,8 @@
       "Text": "کان سخن ما و زر خویش داشت",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: سخن ما و طلایمان هر دو به تاجر کلام ارائه شد."
     },
     {
       "VOrder": 42,
@@ -637,7 +658,8 @@
       "Text": "کز سخن تازه و زر کهن",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: از گفتار نو و تازه و هم از کلام قدیم و ارزشمند، چه بهره‌ای می‌برم؟ فقط گفتمان را به گفتمان وصل نکن."
     },
     {
       "VOrder": 44,
@@ -653,7 +675,8 @@
       "Text": "پیک سخن ره بسر خویش برد",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: پیام کلام به خودی خود به مقصد می‌رسد و هیچ‌کس نمی‌تواند آنچه را که این کلام به جلو می‌برد، با خود ببرد."
     },
     {
       "VOrder": 46,
@@ -669,7 +692,8 @@
       "Text": "سیم سخن زن که درم خاک اوست",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: حرف زدن با او به اندازه‌ی ارزش خاکش هم نیست، او مانند سگی است که به دنبال آهو می‌گردد."
     },
     {
       "VOrder": 48,
@@ -685,7 +709,8 @@
       "Text": "صدرنشین تر ز سخن نیست کس",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس در بیان و سخنوری از دیگران بالاتر نیست؛ چون این سرزمین، سرزمین حقایق و سخن‌های راستین است."
     },
     {
       "VOrder": 50,
@@ -701,7 +726,8 @@
       "Text": "هرچه نه دل بی خبرست از سخن",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: هر چه دل از موضوعی بی‌خبر باشد، توضیحات و تفاسیر بیشتری درباره آن وجود دارد."
     },
     {
       "VOrder": 52,
@@ -717,7 +743,8 @@
       "Text": "تا سخن است از سخن آوازه باد",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که صحبت از سخن است، نام نظامی در دنیای ادب و شعر همچنان مثل بادی تازه و نو شنیده می‌شود."
     },
     {
       "VOrder": 54,

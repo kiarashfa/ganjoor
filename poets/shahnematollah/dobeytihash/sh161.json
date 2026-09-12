@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "مطلوب خود است و طالب خود",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آنچه که می‌خواهی خودت هستی و آنچه که به دنبالش هستی نیز خودت هستی، پس چطور می‌توانی به حال خوشی فکر کنی؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "موجود بود عرض کدام است",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وجود فقط متعلق به اوست و هیچ موجود دیگری نمی‌تواند وجودی مستقل و جداگانه از او داشته باشد."
     },
     {
       "VOrder": 4,

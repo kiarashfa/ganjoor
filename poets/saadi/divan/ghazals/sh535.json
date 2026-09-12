@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "مپرس از من که هیچم یاد کردی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از من نپرس که آیا یادم کردی، چون من خودم هیچم و تو هم به من توجهی نمی‌کنی."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "چه نیکو‌روی و بدعهدی که شهری",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چقدر زیباست که تو چهره‌ای دل‌فریب داری، اما در عوض، به راحتی به وعده‌هایت عمل نمی‌کنی. شهر پر شده از غم و اندوه تو، ولی تو هیچ‌کس را غمگین نکرده‌ای."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "چرا ما با تو ای معشوق طناز",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا ما با تو، ای معشوق زیبا و فریبنده، در صلح و آرامش هستیم، در حالی که تو در حال جنگ و مبارزه با ما هستی؟"
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "نصیحت می‌کنندم سردگویان",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مردم با تجربه به من می‌گویند که از غم و ناراحتی دوری کنم و به سمت شادی و زندگی بهتر برگردم."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "نمی‌دانند کز بیمار عشقت",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن‌ها نمی‌دانند که عشق تو چگونه از دلم نمی‌رود و هرگز سرد نمی‌شود."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "ولیکن با رقیبان چاره‌ای نیست",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اما در برابر رقیبان چاره‌ای نیست؛ چرا که آن‌ها مانند خار هستند و تو مثل گلی هستی."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "اگر با خوبرویان می‌نشینی",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر با افراد زیبا و خوش‌چهره معاشرت کنی، نام نیک و خوبی به دست می‌آوری."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "دگر با من مگوی ای باد گلبوی",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دیگر با من صحبت نکن ای باد خوشبو، زیرا که مثل بلبلم مرا دیوانه کردی."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "چرا دردت نچیند جان سعدی",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "تصحیح AI: چرا سعدی دردت را به جان نخرد؟ که خودت، هم دردی و هم درمانی. (AI: چرا تو، ای جان سعدی، از درد خود نرنجی وقتی که هم خود درد را درک می‌کنی و هم دارویی برای درمان آن داری؟)"
     },
     {
       "VOrder": 18,

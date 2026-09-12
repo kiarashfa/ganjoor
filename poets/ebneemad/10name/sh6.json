@@ -297,7 +297,8 @@
       "Text": "این طرفه حکایتی‌ست بشنو",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: داستانی جالب وجود دارد که درباره عشق و احساساتی که به هم مرتبط است، روایت می‌شود."
     },
     {
       "VOrder": 2,
@@ -313,7 +314,8 @@
       "Text": "گویند که گشت نوجوانی",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: می‌گویند که جوانی در عشق دختر محبوبش گم شده و سردرگم است."
     },
     {
       "VOrder": 4,
@@ -329,7 +331,8 @@
       "Text": "عشق رخ آن نگار سرمست",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: عشق چهرهٔ آن محبوب خوشحالی، کنترل عقل را از دستش گرفته است."
     },
     {
       "VOrder": 6,
@@ -345,7 +348,8 @@
       "Text": "می‌برد به سر در این غم ایام",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: غم و اندوه ایام به قدری عمیق است که لحظه‌ای هم آرامش نمی‌یابم."
     },
     {
       "VOrder": 8,
@@ -361,7 +365,8 @@
       "Text": "می‌سوخت در آتش فراقش",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: او در آتش دوری از عشقش می‌سوزد و از درد علاقه‌اش چیزی می‌سازد."
     },
     {
       "VOrder": 10,
@@ -377,7 +382,8 @@
       "Text": "چون بلبل مست هر سحرگاه",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: در هر صبح زود، مانند بلبل شاد و سرمست، هزاران ناله و آه سر می‌دهد."
     },
     {
       "VOrder": 12,
@@ -393,7 +399,8 @@
       "Text": "با درد نشسته روز و شب شاد",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: با وجود دردی که دارم، روز و شب را سپری می‌کنم و از آنچه هستم و از خودم راضی هستم."
     },
     {
       "VOrder": 14,
@@ -409,7 +416,8 @@
       "Text": "فارغ ز ریا و خودپرستی",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: این فرد از تظاهر و خودخواهی فاصله دارد و تمام کارهایش ناشی از حالتی از خودباختگی و شیدایی است."
     },
     {
       "VOrder": 16,
@@ -425,7 +433,8 @@
       "Text": "خط بر سر حرف خود کشیده",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: او برای بیان حرفش به شدت پایبند است و ارتباطش را با دیگران قطع کرده است."
     },
     {
       "VOrder": 18,
@@ -441,7 +450,8 @@
       "Text": "از مشغلۀ وجود فارغ",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: از درگیری و مشغله‌های زندگی آزاد و رها هستم و هیچ وابستگی به سود و زیان ندارم."
     },
     {
       "VOrder": 20,
@@ -457,7 +467,8 @@
       "Text": "مجنون‌صفت از فراق لیلی",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: مجنون، به خاطر دوری از لیلی، از چشمانش اشک‌هایی می‌ریزد که همچون سیل سرازیر می‌شود."
     },
     {
       "VOrder": 22,
@@ -473,7 +484,8 @@
       "Text": "گه جامه صبر چاک کردی",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: گاهی صبوری را کنار گذاشتی و گاهی با ناله‌های دردناک خود به اشتراک گذاشته‌ای."
     },
     {
       "VOrder": 24,
@@ -489,7 +501,8 @@
       "Text": "گه با دد و دام آرمیدی",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: گاهی از یاد انسان‌ها مانند وحشیان فرار می‌کنی و با جانوران و موجودات بی‌خود در ارتباط هستی."
     },
     {
       "VOrder": 26,
@@ -505,7 +518,8 @@
       "Text": "از صحبت عشق زار گشته",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: از گفت‌وگو درباره عشق، دلش به شدت ناراحت و بی‌قرار شده است."
     },
     {
       "VOrder": 28,
@@ -521,7 +535,8 @@
       "Text": "دل در سر کار عشق کرده",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: دل در دنیای عشق مشغول است و جان را نیز در راه عشق هزینه کرده است."
     },
     {
       "VOrder": 30,
@@ -537,7 +552,8 @@
       "Text": "از فرقت آن مه دل‌افروز",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: به خاطر دوری آن ماه زیبا، شب و روز را در غم و اندوه گذرانده‌ای."
     },
     {
       "VOrder": 32,
@@ -553,7 +569,8 @@
       "Text": "القصه به جان رسید کارش",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: به هر حال، کار او به حدی سخت و دشوار شد که جانش به لبش رسید و دیگر نمی‌توانست این وضعیت را تحمل کند و روزگارش را از دست داد."
     },
     {
       "VOrder": 34,
@@ -569,7 +586,8 @@
       "Text": "چون هیچ کسش نبود محرم",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: هیچ کس جز باد صبا، همدلی برای او نبود که درد و دلش را بشنود و درکش کند."
     },
     {
       "VOrder": 36,
@@ -585,7 +603,8 @@
       "Text": "با باد زبان راز بگشاد",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: با وزش باد، دل و جانم را خوشحال کرده و از خودم رازهایی را برای تو بیان کردم."
     },
     {
       "VOrder": 38,
@@ -601,7 +620,8 @@
       "Text": "ای روح مشام دردمندان",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: ای روحی که برای بیمارانی که در درد و رنج هستند، بوی تو مایه آرامش و دلجویی کسانی است که در سختی‌ها و ناملایمات زندگی به سر می‌برند."
     },
     {
       "VOrder": 40,
@@ -617,7 +637,8 @@
       "Text": "ای محرم عاشقان مسکین",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که با عاشقان فقیر آشنا هستی و همدم دلسوختگان غمگین می‌باشی."
     },
     {
       "VOrder": 42,
@@ -633,7 +654,8 @@
       "Text": "ای چهره‌فروز شاهد گل",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: ای معشوق زیبا، چهره‌ات نورانی است و چون گل می‌درخشد، تو مانند حلقه‌ای هستی که زلف سنبل را باز می‌کند."
     },
     {
       "VOrder": 44,
@@ -649,7 +671,8 @@
       "Text": "اطراف چمن معطر از تو",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: در کنار چمن معطر، از تو بیداری و هوشیاری پیدا می‌شود."
     },
     {
       "VOrder": 46,
@@ -665,7 +688,8 @@
       "Text": "مشاطۀ نوعروس گلزار",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: آرایشگر عروس در باغی پر از گل، با بویی شبیه به موهای محبوبش در حال کار است."
     },
     {
       "VOrder": 48,
@@ -681,7 +705,8 @@
       "Text": "عیسی‌دمی و رسول صادق",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: تو مظهر عشق هستی و پیام‌آور صداقت، که در مسیر محبت همگام و هماهنگ با یکدیگری حرکت می‌کنید."
     },
     {
       "VOrder": 50,
@@ -697,7 +722,8 @@
       "Text": "کس چون تو پیام عشق‌بازان",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس به مانند تو، پیام‌آور عشق و محبت به دل‌های نرم و حساس نیست."
     },
     {
       "VOrder": 52,
@@ -713,7 +739,8 @@
       "Text": "عمری‌ست که در هوای آنم",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: سالیان زیادی است که در آرزوی آن هستم تا قصه‌ام را برای تو بگویم."
     },
     {
       "VOrder": 54,

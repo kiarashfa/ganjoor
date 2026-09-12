@@ -191,7 +191,8 @@
       "Text": "یکی را چو من دل به دست کسی",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: یک نفر مانند من، دلش به دست کسی سپرده شده و به همین خاطر، سختی‌ها و ذلت‌های زیادی را متحمل می‌شود."
     },
     {
       "VOrder": 2,
@@ -207,7 +208,8 @@
       "Text": "پس از هوشمندی و فرزانگی",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: پس از اینکه او به فرزانه‌ای و دانایی شناخته شد، دیگران او را به دیوانگی و بی‌خود بودن متهم کردند."
     },
     {
       "VOrder": 4,
@@ -223,7 +225,8 @@
       "Text": "ز دشمن جفا بردی از بهر دوست",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: تو به خاطر دوست به من جفا کردی، همانطور که زهر دوستی گاهی تلخ‌تر از تریاک است."
     },
     {
       "VOrder": 6,
@@ -239,7 +242,8 @@
       "Text": "قفا خوردی از دست یاران خویش",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: تو از دوستان خود آسیب دیده‌ای، مثل میخی که بر پیشانی زده شده است."
     },
     {
       "VOrder": 8,
@@ -255,7 +259,8 @@
       "Text": "خیالش چنان بر سر آشوب کرد",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: خیال او به قدری در دل و ذهنش غوغا بپا کرد که تمام وجودش را تحت تأثیر قرار داد و او را آشفته ساخت."
     },
     {
       "VOrder": 10,
@@ -271,7 +276,8 @@
       "Text": "نبودش ز تشنیع یاران خبر",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: او از سرزنش دوستانش بی‌خبر بود، چون مثل کسی که در باران غرق شده باشد، توجهی به آن ندارد."
     },
     {
       "VOrder": 12,
@@ -287,7 +293,8 @@
       "Text": "کرا پای خاطر بر آمد به سنگ",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که به خاطر خود و آرزوهایش تلاش می‌کند، به راحتی از خطرات و عواقب نامناسبی که ممکن است در این مسیر وجود داشته باشد، چشم‌پوشی می‌کند."
     },
     {
       "VOrder": 14,
@@ -303,7 +310,8 @@
       "Text": "شبی دیو خود را پریچهره ساخت",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در شبی خاص، دیو، خود را به صورت زیبایی در آورد و در آغوش آن مرد قرار گرفت و به او حمله کرد."
     },
     {
       "VOrder": 16,
@@ -319,7 +327,8 @@
       "Text": "سحرگه مجال نمازش نبود",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: در صبح زود، آن‌قدر مشغولیت و سرگرمی داشت که به نماز نرسید و هیچ‌کس هم از دل‌سوزی او باخبر نبود."
     },
     {
       "VOrder": 18,
@@ -335,7 +344,8 @@
       "Text": "به آبی فرو رفت نزدیک بام",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: آبی از آسمان به زمین افتاد و نزدیک بام، سرما به قدری شدید بود که در را از سنگ مرمر بسته بود."
     },
     {
       "VOrder": 20,
@@ -351,7 +361,8 @@
       "Text": "نصیحتگری لومش آغاز کرد",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: نصیحتگر به او گفت که خود را در این آب سرد غرق نکن و به معرکه نیفت."
     },
     {
       "VOrder": 22,
@@ -367,7 +378,8 @@
       "Text": "ز برنای منصف بر آمد خروش",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: از طرف منصف صدا بلند شد که ای دوست، چرا اینقدر به سرزنش پردازی؟ سکوت کن."
     },
     {
       "VOrder": 24,
@@ -383,7 +395,8 @@
       "Text": "مرا پنج روز این پسر دل فریفت",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: این پسر با محبتش مرا پنج روز فریب داد و حالا آنقدر به او وابسته‌ام که نمی‌توانم به راحتی جدا شوم."
     },
     {
       "VOrder": 26,
@@ -399,7 +412,8 @@
       "Text": "نپرسید باری به خلق خوشم",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: از دیگران نپرس که آیا من خوشحالم یا نه، زیرا خودم به تنهایی بار سنگینی از مشکلات را تحمل می‌کنم."
     },
     {
       "VOrder": 28,
@@ -415,7 +429,8 @@
       "Text": "پس آن را که شخصم ز خاک آفرید",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: خداوند از خاک انسان را خلق کرد و به او با قدرت، روح پاکی بخشید."
     },
     {
       "VOrder": 30,
@@ -431,7 +446,8 @@
       "Text": "عجب داری ار بار امرش برم",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: عجب نیست اگر من در مقام اجرای خواسته‌اش باشم، زیرا او همیشه با لطف و مهربانی‌اش به من کمک می‌کند."
     },
     {
       "VOrder": 32,

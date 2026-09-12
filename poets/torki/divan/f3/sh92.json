@@ -217,7 +217,8 @@
       "Text": "برادر جان مگر رفته به خوابی!",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: برادر عزیز، نکند که خواب رفته‌ای! که زینب را بی‌پاسخ گذاشته‌ای."
     },
     {
       "VOrder": 2,
@@ -233,7 +234,8 @@
       "Text": "برایت درد دل تا کی شمارد",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: درد دل تو دیگر حساب و کتابی ندارد، چون این خواب بیدار شدن ندارد."
     },
     {
       "VOrder": 4,
@@ -249,7 +251,8 @@
       "Text": "ولی حق داری ای جان برادر!",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: ای برادر عزیز! حق داری که احساس کنی، زیرا می‌دانم که در وجودت چیزی کم است."
     },
     {
       "VOrder": 6,
@@ -265,7 +268,8 @@
       "Text": "چرا؟ ازتن جدا گشته سر تو",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: چرا سر تو از بدنت جدا شده است؟ چرا وجود تو به صد تکه تقسیم شده؟"
     },
     {
       "VOrder": 8,
@@ -281,7 +285,8 @@
       "Text": "به همراه تو از شهر مدینه",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: من به همراه تو از شهر مدینه به اینجا آمده‌ام، ای کسی که نشانه‌ای از خود نداری!"
     },
     {
       "VOrder": 10,
@@ -297,7 +302,8 @@
       "Text": "فلک آواره کرد از خانمانم",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: آسمان مرا از خانه‌ام ویران کرده است و جدایی‌ات دلی آتشین در وجودم به وجود آورده."
     },
     {
       "VOrder": 12,
@@ -313,7 +319,8 @@
       "Text": "تو چون رفتی از این دنیای فانی",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: وقتی تو از این دنیای زودگذر رفتی، دیگر بدون تو زندگی کردن برایم ممکن نخواهد بود."
     },
     {
       "VOrder": 14,
@@ -329,7 +336,8 @@
       "Text": "امان از درد بی درمان زینب",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: زینب در رنج عمیق و بی‌پایانی گرفتار است و به شدت به مرگ نزدیک شده است، به گونه‌ای که به نظر می‌رسد این درد بی‌چاره‌ای جان او را می‌گیرد."
     },
     {
       "VOrder": 16,
@@ -345,7 +353,8 @@
       "Text": "پس از تو کوفیان، بردند یکجا",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: بعد از تو، مردم کوفه همه چیز ما را به نابودی بردند."
     },
     {
       "VOrder": 18,
@@ -361,7 +370,8 @@
       "Text": "چه ظلمی کوفیان با ما نمودند",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: کوفیان با ما چه ظلمی کردند و چقدر به ظاهر مهمان‌نوازی کردند."
     },
     {
       "VOrder": 20,
@@ -377,7 +387,8 @@
       "Text": "تو را لب تشنه، سر از تن بریدند",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: تو را با تشنگی و بی‌رحمی کشتند و بدن پاکت را در خاک و خون کردند."
     },
     {
       "VOrder": 22,
@@ -393,7 +404,8 @@
       "Text": "زدند آتش، سراسر خیمه ها را",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: آتش را روشن کردند و تمام خیمه‌ها را آتش گرفتند، و ما را با بند و ریسمان به هم بستند."
     },
     {
       "VOrder": 24,
@@ -409,7 +421,8 @@
       "Text": "تو و این کوفه، این دشت بلا خیز",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: تو و این کوفه، این سرزمین پر از بلای من و شام، جایی پر از درد و رنج."
     },
     {
       "VOrder": 26,
@@ -425,7 +438,8 @@
       "Text": "تو باش اینجا مصاحب با جوانان",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: تو در اینجا در کنار جوانان من باش و در شام به یتیمان دلگرمی بده."
     },
     {
       "VOrder": 28,
@@ -441,7 +455,8 @@
       "Text": "تو و این نوخطان نورسیده",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: تو و این جوانان تازه‌کار در کنار من و این مادران اندوهگین قرار دارید."
     },
     {
       "VOrder": 30,
@@ -457,7 +472,8 @@
       "Text": "تو اینجا باش با عباس و اکبر",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: تو اینجا با عباس و اکبر من، و همچنین کلثوم و لیلا که ناراحت هستند، باش."
     },
     {
       "VOrder": 32,
@@ -473,7 +489,8 @@
       "Text": "برادر جان تو اینجا باش آرام",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: برادر عزیز، در اینجا بمان و استراحت کن. خداحافظ، من به سوی شام می‌روم."
     },
     {
       "VOrder": 34,
@@ -489,7 +506,8 @@
       "Text": "برادر جان در این دامان مقتل",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: ای برادر عزیز، تو در این مکان که نهایت آرزوی توست، قرار داری و مانند یک سرباز خسته و خرافاتی احساس می‌کنی."
     },
     {
       "VOrder": 36,
@@ -505,7 +523,8 @@
       "Text": "از این آتش که «ترکی» را به جان است",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: این شعله‌ای که «ترکی» را می‌سوزاند، نشانگر غم نهانی است که به وضوح قابل مشاهده است."
     },
     {
       "VOrder": 38,

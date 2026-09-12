@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گویند که یار را وفا نیست دروغ",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌گویند که محبوب به وعده‌هایش وفا نمی‌کند، اما این حرف نادرست است چون بعد از دوری، لقای دوباره او وجود ندارد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گویند شراب جانفزا نیست دروغ",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌گویند شراب نشاط‌آور نیست، اما این دروغ است چون که ما به آن نیازی نداریم."
     },
     {
       "VOrder": 4,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای مبارک بنا چه خوش جائی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای معمار خوب، چه جای خوشی که سر خود را به آسمان می‌ساید و بلند می‌کنی."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "چشم را بس بلند بارگهی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم به مکان بلندی خیره شده که جان آدمی را به وسعت دشت باز می‌سازد."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "در خورد بوستان سرای ترا",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در باغ تو، زیبایی‌های زهره و مشتری جلوه‌گری می‌کنند."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "جام گیتی نمای رامانی",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جامی که جهان را به تصویر می‌کشد، دنیایی آرام و زیبا را نشان می‌دهد که در آن همه چیز به وضوح نمایان است."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "تا نبیند ترا کجا داند",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی تو را نبیند، چگونه می‌تواند ارزش بینایی را درک کند؟"
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "اوج خورشید ملک منظر تست",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سطح بالای زیبایی و شکوه تو مانند خورشید در آسمان است و نه مانند بنایی که در حالتی خاص قرار دارد."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "جای صاحب تو مانیا تا حشر",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای نگاه تو که در هر جا و هر زمانی وجود دارد، تا روز قیامت در جایگاه صاحب تو باقی خواهی ماند."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "نیک دلخواهی و چنین که توئی",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو دلخواسته و شایسته‌ی خاص سلطانی هستی که بر اساس دین و آئین حکم می‌راند."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "حسن احمد آنکه یک جودش",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حسن احمد، انسانی است که بخشندگی‌اش باعث می‌شود نام حاتم طائی بر او شناخته شود."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "آنکه در باغ جود چون گل بخت",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که در باغ generosity مانند گل می‌روید، نه می‌تواند دغل‌کاری کند و نه خود را به شکل زیبا و جذاب نشان دهد."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "صورت دولتش بدید چه گفت",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی دولتش را دید، گفت: چه بگویم، ما و تو یکی هستیم."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "روزگارش باوج گردون برد",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روزگارش به اوج خود رسیده است، ای مخالف، چرا ناامید شده‌ای؟"
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "شرم بادت چو کلک و نی تاکی",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شرم تو مانند قلمی است که نمی‌تواند هنر خود را به خوبی نشان دهد، و همانند نی، که برای آب‌پاشی و وزیدن در هوا بکار می‌رود، به خوبی عمل نمی‌کند."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "ایکه چون ماه از میان نجوم",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مانند ماهی که از میان ستاره‌ها نمایان می‌شود، تو نیز از میان بزرگان و شخصیت‌های بزرگ این سرزمین به چشم می‌آیی."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "زرچه بخشی اگر نه خورشیدی",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر طلا ببخشی و خورشید نداشته باشی، چه فایده‌ای دارد؟ و اگر دریا نباشی، حتی اگر پاشیده شوی، فایده‌ای نداری."
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "با بقای تو چرخ رهگذری",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با وجود تو، دنیا همچون مسافری به مسیر عقل دیوانه‌وار تو ادامه می‌دهد."
     },
     {
       "VOrder": 32,
@@ -255,7 +271,8 @@
       "Position": "Right",
       "Text": "بس رویها کند فلک تا شب",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فلک هر روز صبح با زیبایی‌ها و رخسارهایی تازه به استقبال افراد می‌آید و آن‌ها را تحت تأثیر قرار می‌دهد."
     },
     {
       "VOrder": 34,
@@ -269,7 +286,8 @@
       "Position": "Right",
       "Text": "بولی و عدو عطا و خطا",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به تو خطا کردند و کوچک‌ترین عذری از آن‌ها پذیرفتی، هم باید بر آن‌ها ببخشایی و هم خودت را برای عذرخواهی آماده کنی."
     },
     {
       "VOrder": 36,
@@ -283,7 +301,8 @@
       "Position": "Right",
       "Text": "سرو آزاد را توان پیراست",
       "CoupletIndex": 18,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو می‌توانی زیبایی و آزادگی این سرو زیبا را زیباتر کنی."
     },
     {
       "VOrder": 38,
@@ -297,7 +316,8 @@
       "Position": "Right",
       "Text": "تا پذیرد بنای خانه جان",
       "CoupletIndex": 19,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای اینکه خانه‌ دل و جان به خوبی ساخته و استوار شود، باید در زمان مناسب و با دقت عمل کرد."
     },
     {
       "VOrder": 40,
@@ -311,7 +331,8 @@
       "Position": "Right",
       "Text": "باد چندان بقای دولت تو",
       "CoupletIndex": 20,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باد چندان به قدرت و پایداری دولت تو کمک نمی‌کند که نیاز به ساختن این همه بنا و کاخ داشته باشی."
     },
     {
       "VOrder": 42,
@@ -325,7 +346,8 @@
       "Position": "Right",
       "Text": "زره آبگیر باز کنی",
       "CoupletIndex": 21,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر زره‌ای را که مقاومت در برابر مشکلات را نشان می‌دهد کنار بزنی، می‌توانی دشواری‌های زندگی را آسان‌تر کنی و به راه‌حل‌ها نزدیک‌تر شوی."
     },
     {
       "VOrder": 44,

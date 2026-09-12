@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "گر جمله تویی تو، نیک و بد چیست؟",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو همه چیز را در بر می‌گیری، پس خوبی و بدی چه معنایی دارد؟ و اگر من همه چیز هستم، پس این شمارش و تعدد چه مفهوم دارد؟"
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "گر جمله یکی‌ست در حقیقت",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر همه چیز در حقیقت یکسان است، پس صحبت درباره خوبی و بدی چه معنایی دارد؟"
     },
     {
       "VOrder": 4,
@@ -55,7 +57,8 @@
       "Position": "Right",
       "Text": "حاجت به مدد ندارد آن یار",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یار محبوب نیازی به کمک کسی ندارد، پس این فریاد و التماس برای کمک چرا است؟"
     },
     {
       "VOrder": 6,
@@ -69,7 +72,8 @@
       "Position": "Right",
       "Text": "چون جمله کن و مکن از او خاست",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچه که هستی را جمع کن و در مورد او چیزی نگو، اینکه چه باید کرد به نظر عقل بستگی دارد."
     },
     {
       "VOrder": 8,
@@ -83,7 +87,8 @@
       "Position": "Right",
       "Text": "گفتی که: حدت زنم بر این قول",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو گفتی که: به خاطر خدا مرز و محدودیتی بر این حرف بگذار، حالا بگو که آن مرز چیست؟"
     },
     {
       "VOrder": 10,
@@ -97,7 +102,8 @@
       "Position": "Right",
       "Text": "گر بحر وجود نیست در جوش",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در وجود هیچ چیزی نیست، پس این تلاش و کوشش برای چه چیزی است و از بدی چه نفعی می‌توان برد؟"
     },
     {
       "VOrder": 12,
@@ -111,7 +117,8 @@
       "Position": "Right",
       "Text": "چون جمله قبول حضرت اوست",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چه که از ناحیهٔ او پذیرفته شده باشد، قاسم به‌عنوان نمایندهٔ او، آن را می‌پذیرد. پس چه نیازی به بحث و جدل دربارهٔ قبول یا رد وجود دارد؟"
     },
     {
       "VOrder": 14,

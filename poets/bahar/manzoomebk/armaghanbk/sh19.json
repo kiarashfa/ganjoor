@@ -55,25 +55,29 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "با دژآگاه (‌نادان و بی‌تربیت‌) مرد همراز مباش‌.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: با انسان‌های نادان و بی‌ادب معاشرت نکن."
     },
     {
       "VOrder": 2,
       "Position": "Paragraph",
       "Text": "با خشمگین مردم همره مباش‌.",
-      "CoupletIndex": 1
+      "CoupletIndex": 1,
+      "CoupletSummary": "هوش مصنوعی: با مردم خشمگین همراه نشو."
     },
     {
       "VOrder": 3,
       "Position": "Paragraph",
       "Text": "با خلج (‌پوچ و پست‌) مردم هم‌سگالش (‌هم‌مشورت‌) مشو",
-      "CoupletIndex": 2
+      "CoupletIndex": 2,
+      "CoupletSummary": "هوش مصنوعی: با افراد بی‌ارزش و سطح پایین هم‌فکری نکن."
     },
     {
       "VOrder": 4,
       "Position": "Paragraph",
       "Text": "با بسیارخواسته مرد (‌متمول‌) هم‌خورش مباش.",
-      "CoupletIndex": 3
+      "CoupletIndex": 3,
+      "CoupletSummary": "هوش مصنوعی: با افراد ثروتمند و فاسد معاشرت نکن."
     },
     {
       "VOrder": 5,
@@ -81,7 +85,8 @@
       "Text": "سگالش مکن با خلج مرد زفت",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: با مردی که دارای قدرت و نفوذ است، به راحتی سخن نگو و رازهایت را فاش نکن."
     },
     {
       "VOrder": 6,
@@ -97,7 +102,8 @@
       "Text": "ابا خشمگین مرد همره مباش",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: با فرد خشمگین و عصبانی همراه نشو و سعی کن که صدایت را با کسی که از دسیسه‌ها و نقشه‌های شوم خبر دارد، هم‌صدا نکنید."
     },
     {
       "VOrder": 8,
@@ -113,7 +119,8 @@
       "Text": "مشو هیچ همباز پرخواسته",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌گاه با کسی که زیاد درخواست می‌کند، دوست نشوید؛ زیرا این کار ممکن است خواسته‌های شما را کاهش دهد."
     },
     {
       "VOrder": 10,

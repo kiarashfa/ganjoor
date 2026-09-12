@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "چه دیره اینکه دارش آذرینه",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "این چه دیری است که درختش آتشین است؟ این چه دشتی است که زمینش خونخوار است؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "مگر بوم و بر مسکین دلانه",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "مگر سرزمین مسکین دلان است یا صحرای عشق نازنین؟"
     },
     {
       "VOrder": 4,

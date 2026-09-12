@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "عدد حرف چل چو بشماری",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عدد چهل را که بشماری، هر یک از اعداد در واقع نام معشوق ماست."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "چار حرف است از آن دو بی نقط است",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چهار حرف از آن دو بدون نقطه است و در حرف دیگرش نقطه‌ای قابل مشاهده است."
     },
     {
       "VOrder": 4,

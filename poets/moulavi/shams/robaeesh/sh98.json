@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "دانی‌که چه می‌گوید این بانگ رباب‌؟",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این صدا از ساز رباب می‌گوید که به دنبال من بیایید و مسیر را خوب بشناسید."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "زیرا به خطا راه بری سوی صواب",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چون به اشتباه به سمت صحیح هدایت می‌شوی، و چیزی را می‌پرسی که تو را به پاسخ می‌رساند."
     },
     {
       "VOrder": 4,

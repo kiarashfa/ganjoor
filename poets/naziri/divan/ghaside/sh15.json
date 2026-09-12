@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "هرچه در معرض فنا باشد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که در معرض نابودی و زوال باشد، آویزان کردن دل و وابستگی به آن اشتباه است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "مال دنیا تمام عاریت است",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دارایی‌های دنیایی که داریم، همه‌اش موقتی و امانتی است؛ پس دوام و ماندگاری این چیزها چگونه ممکن است؟"
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "لیک این عاریت که می گویم",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اما این ابزاری که می‌گویم تنها برای انجام کارهاست و به من تعلق ندارد."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "هرچه در خیر کار فرمایی",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کار خوبی که انجام دهی، نفع و سود آن به خودت برمی‌گردد."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "ور به غفلت معطلش داری",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به طور ناخواسته او را معطل کنی، او همچنان به سمت خودش پیش می‌رود و غفلت از پشت سرش خواهد بود."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "مال دنیا چو سیل درگذرست",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دارایی‌های دنیوی مثل سیلابی هستند که به سرعت عبور می‌کنند. آیا این درست است که این سیلاب در خانه بماند؟"
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "سر به صحرا و کشت زارش ده",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به دل صحرا برو و در کشت زراعت خود تلاش کن تا محصولی به دست بیاری و نتیجه زحماتت را ببینی."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "هرچه ده در عوض بود یک را",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر هر چیزی که به دست می‌آوریم، به نوعی جایگزین شده باشد، پس چرا باید از رفتن چیزهایی که از دست می‌دهیم ناراحت باشیم؟"
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "بخل و همت چو بوی نیک، بد است",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حسادت و تلاش اگرچه ممکن است در ظاهر خوب به نظر برسند، اما در واقعیت زشت و ناپسند هستند. شهرت آنها مانند عطری خوشبوست که در دست نسیم قرار دارد و به سرعت پخش می‌شود."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "به خوشی بو ز ناف ها آرد",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه ممکن است در جایی اشتباه یا نقصی وجود داشته باشد، اما خوشی و لذت از جزء اصلی آن به دست می‌آید."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "به بدی بو برد ز مزبله ها",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه در خانه و محل زندگی انسان ممکن است بوی ناخوشایند و کثیفی وجود داشته باشد، اما نیروی تشخیص و درک ما به ما اجازه می‌دهد تا از میان آن، بدی‌ها را تشخیص دهیم."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "آدمی را به قدر همت و بخل",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: انسان به اندازه‌ی تلاش و تلاش نکردن خود، در هر جا ارزشی دارد و مورد احترام قرار می‌گیرد."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "زین کریمان اگرچه سایل را",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچند در برابر این بزرگان و مهربانان، درخواست‌کنندگان ممکن است در نظر بیایند که در دل خود غبار و ناپاکی دارند، اما کریمان همواره با مهربانی و بزرگی به آن‌ها نگاه می‌کنند."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "مرد را همت بلندخوش است",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: انسان با اراده و هدف بلند خود، در هر جایگاهی که باشد، چه پادشاه و چه فقیر، احساس خوشایندی و ارزشمندی می‌کند."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "هفت دریا به جنب خاطر من",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هفت دریا به یاد من، مانند قطره‌ای در دهان اژدها به نظر می‌رسد."
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "سایلان کفم که هرچه دهد",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سکوت می‌کنم و هرچه که دریافت کنم، کمتر از خواسته‌ام خواهد بود."
     },
     {
       "VOrder": 32,

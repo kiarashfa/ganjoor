@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "به هر کویی مرا تا کی دوانی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به هر گوشه‌ای مرا چه مدت می‌خواهی بگردانی و از هر بدی چه مدت می‌خواهی به من بچشانی؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "چو زهرم می‌چشاند چرخ گردون",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که چرخ روزگار مرا به زهر خود آغشته می‌کند، چه زمانی می‌توانم به خوشبختی و سعادت برسم؟"
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "گهی تابوتم اندازی به دریا",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "گاهی مرا در دریا به تابوت می‌اندازی و گاهی بر تخت فرعون قرارم می‌دهی."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "برآری برفراز طور سینا",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در بالای کوه سینا، نوشیدی شراب محبت و دوستی را."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "چو بنده مست شد دیدار خود را",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی بنده مست و سرمست می‌شود، در مواجهه با خود به یاد سخنی می‌افتد که به موسی گفته شده: \u0022هرگز تو مرا نخواهی دید.\u0022"
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "ایا موسی سخن گستاخ تا چند",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای موسی، چه وقت می‌خواهی به سخنان جسورانه‌ات ادامه دهی؟ تو اصلاً شبیه شخصی نیستی که چون شعیب، به راحتی و در آرامش زندگی کند."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "من آنم که شعیبت را شبانم",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من کسی هستم که می‌توانم شعیب را هدایت کنم، و تو آن کسی هستی که دگران را به سمت شبانی جذب می‌کنی."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "منم موسی تویی جبار عالم",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من همانند موسی هستم و تو خدای بزرگ و قدرت‌مند این دنیا. وقتی تو را می‌خوانم، به من توجه کن و اگر مرا رد کنی، خودتان می‌دانید که چه می‌شود."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "شبانی را کجا آن قدر باشد",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به کسی که شبانی می‌کند، چه اندازه می‌توانی بگویی که تو به او به‌طور مستقیم دسترسی داشته باشی و او را بخوانی؟"
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "سخن گویی بدو در طور سینا",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سخن گفتن با او در کوه سینا به گونه‌ای است که در آن، زیبایی و ارزش‌های نهانی نهفته است."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "ایا موسی تو رخت خویش بربند",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای موسی، آماده شو و لباس‌هایت را بپوش، تا بتوانی به مقصد و منزلگاه خود برسی."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "نه ایوبم که چندین صبر دارم",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من نه صبوری مانند ایوب دارم و نه نشانه‌ای از زیبایی یوسف در چاه."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "برون آمد گل زرد از گل سرخ",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گل زرد از گل سرخ بیرون آمد، پس در باغ ویران نیازی به باغبانی نیست."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "نشان وصل ما موی سفید است",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: علامت پیوند ما، موی سفید است. پیام‌آور ما و نشانه‌مان، به وضوح مشهود است و پنهانی نیست."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "زهی عطار کز بحر معانی",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عطار، با خاصیت بی‌نظیرش، معانی عمیق و ارزشمند را مانند جواهراتی از گرانبهای سخن به بیرون می‌آورد."
     },
     {
       "VOrder": 30,

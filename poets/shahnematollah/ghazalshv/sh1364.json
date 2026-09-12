@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "این دوئی از چه خاست از من و تو",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این دوگانگی از کجا به وجود آمده است؟ در واقع، ما بدون همدیگر یکی هستیم، نه دو تا."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "عقل گوید دوئی ولی مشنو",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عقل به تو می‌گوید که دوگانگی و جدایی وجود دارد، اما به این سخن توجه نکن و از آن بگذر. به جای آن، بگو که برو و از این حرف‌ها دور شو."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "عشق داری در آ در این دریا",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر عشق داری، در این دریا مانند ما، خود را در خود ما جستجو کن."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "همه عالم وجود از او دارند",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تمامی موجودات در عالم وجود، از او نشأت می‌گیرند. غیر از او، دیگر چه وجودی می‌تواند باشد؟"
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "چشم احول یکی دو می بیند",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم فردی که ضعیف بینا است، فقط چند چیز را می‌تواند ببیند و در آینه یک تصویر را به نمایش می‌گذارد."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "آفتابست و عالمی سایه",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خورشید در آسمان است و همه‌ی جهان در سایه‌ی او به سر می‌برد. بدون وجود او، این سایه‌ها از کجا خواهند آمد؟"
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "سید ما غلام حضرت اوست",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سید ما بنده و خدمتگزار آن بزرگوار است و پادشاهان در نزد او مقام و منزلت دارند."
     },
     {
       "VOrder": 14,

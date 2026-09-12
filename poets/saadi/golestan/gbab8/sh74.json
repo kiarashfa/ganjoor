@@ -25,20 +25,23 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "یکی را گفتند: عالم بی عمل به چه ماند؟",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: از کسی پرسیدند: یک عالم بدون عمل چه معنایی دارد؟"
     },
     {
       "VOrder": 2,
       "Position": "Paragraph",
       "Text": "گفت: به زنبور بی عسل.",
-      "CoupletIndex": 1
+      "CoupletIndex": 1,
+      "CoupletSummary": "هوش مصنوعی: گفت: به زنبور بدون عسل."
     },
     {
       "VOrder": 3,
       "Position": "Right",
       "Text": "زنبورِ درشتِ بی‌مروت را گوی",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "به زنبور درشت بی رحم بگو: اگر عسل نمی‌دهی، پس نیش نزن."
     },
     {
       "VOrder": 4,

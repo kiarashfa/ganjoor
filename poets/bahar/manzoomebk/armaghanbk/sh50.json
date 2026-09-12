@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "به مرد بی‌آیین هرآینه وام مده.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: به کسی که اصول و آداب اجتماعی را رعایت نمی‌کند، هرگز قرض نده."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "به مرد بدآیین مده وام هیچ",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به کسی که‌ آیین و رفتار ناپسندی دارد، هیچ‌گونه وامی نده؛ زیرا اگر او خواستار وام باشد، با روی گردانی از او مواجه می‌شوی."
     },
     {
       "VOrder": 3,
@@ -46,7 +48,8 @@
       "Position": "Right",
       "Text": "گه وام دادن ره داد پوی",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاهی اوقات کمک به دیگران و باز کردن راه برای آنها از اهمیت بالایی برخوردار است، پس در این مسیر از قضاوت و حسادت دوری کن."
     },
     {
       "VOrder": 5,

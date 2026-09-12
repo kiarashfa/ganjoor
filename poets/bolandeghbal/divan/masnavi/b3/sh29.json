@@ -297,7 +297,8 @@
       "Text": "دلی دارم به تنگی چون دل مور",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: دل من در تنگنا و رنج است، مانند دل یک مورچه که غمگین و خسته به نظر می‌رسد و در وضعیتی نزار و ضعیف به سر می‌برد."
     },
     {
       "VOrder": 2,
@@ -313,7 +314,8 @@
       "Text": "دو صد خروار غم جاکرده در او",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: غم و اندوه بسیار زیادی در دل او نهفته است، با این حال، جای کمی برای نشان دادن آن دارد."
     },
     {
       "VOrder": 4,
@@ -329,7 +331,8 @@
       "Text": "پریشان تر ز مشکین طره یار",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: حالت و اوضاع من از موهای زیبا و خوشبو یار بدتر است، و از درد و غم، بیشتر از چشم معشوق بیمار و آشفته‌ام."
     },
     {
       "VOrder": 6,
@@ -345,7 +348,8 @@
       "Text": "دلی دارم چو زلف یار بی تاب",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: دل من مانند موهای یار بی‌تاب و ناآرام است، همچون ماهی‌ای که در دریای رنج و اندوه غرق شده باشد."
     },
     {
       "VOrder": 8,
@@ -361,7 +365,8 @@
       "Text": "دلی آشفته دارم سخت پژمان",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: من دلی پریشان و نگران دارم، همچون طره زیبا و بهم ریخته محبوبم که دل را به درد می‌آورد."
     },
     {
       "VOrder": 10,
@@ -377,7 +382,8 @@
       "Text": "دلی دارم در آتش چون سمندر",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: دلی دارم که مانند سمندری در آتش، در آتش غم‌های جهان در آن نهفته است."
     },
     {
       "VOrder": 12,
@@ -393,7 +399,8 @@
       "Text": "دل است این یا گران کوهی ز فولاد",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: آیا این دل من است یا سنگی سخت و محکم که از ابتدا نصیبم شده؟ ای پروردگار، چه بر سر من آمده است؟"
     },
     {
       "VOrder": 14,
@@ -409,7 +416,8 @@
       "Text": "نه یابم خود که دلیا لخت خون است",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: من نمی‌توانم خودم را پیدا کنم که دلم پر از خون است، اما می‌دانم که بی‌صبوری و بی‌قراری برمن چیره شده است."
     },
     {
       "VOrder": 16,
@@ -425,7 +433,8 @@
       "Text": "مبادا هیچکس را اینچنین دل",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: مبادا هیچ‌کس با دل شکسته و غمگین باقی بماند؛ زیرا کس دیگری نمی‌تواند این گونه مشکلات را تحمل کند."
     },
     {
       "VOrder": 18,
@@ -441,7 +450,8 @@
       "Text": "مبادا کس به درد دل گرفتار",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: مراقب باش که کسی را در درد و رنج نبینی، چون نمی‌دانم با این دل بی‌قرار چه کنم."
     },
     {
       "VOrder": 20,
@@ -457,7 +467,8 @@
       "Text": "می هستی چو اندرجام کردند",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: مرا مانند می در جام مهر و محبت درآوردند و همه درد و رنجی که در دل داشتم را به یکباره به نام خون دل تعبیر کردند."
     },
     {
       "VOrder": 22,
@@ -473,7 +484,8 @@
       "Text": "چه بودی گر نمیبودی به دنیا",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: اگر در دنیا نشانی از من بی‌دل نمی‌بود، چه حالی می‌داشتید؟ مانند پرنده افسانه‌ای عنقا."
     },
     {
       "VOrder": 24,
@@ -489,7 +501,8 @@
       "Text": "زحالمن خبر آن مرغ دارد",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: آن پرنده‌ای که در دام گرفتار شده، از حال و روز ما خبر دارد که با پا از چمن بیرون رفته است."
     },
     {
       "VOrder": 26,
@@ -505,7 +518,8 @@
       "Text": "نصیحت گوی را از من که گوید",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: به کسی که نصیحت می‌کند بگو که از این به بعد دیگر از من پندی نگیرد و دفترش را از نصایح من پاک کند."
     },
     {
       "VOrder": 28,
@@ -521,7 +535,8 @@
       "Text": "چه داند آنکه در ساحل به خواب است",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: آن کس که در ساحل خوابیده، نمی‌داند حال کسی را که در آب غرق شده و چقدر اوضاع برایش دشوار است."
     },
     {
       "VOrder": 30,
@@ -537,7 +552,8 @@
       "Text": "به عمر ویش روز خوش ندیدم",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: در زندگی‌ام روزهای خوبی نداشته‌ام و هیچ‌گاه از باغ شادی گلی نچیده‌ام."
     },
     {
       "VOrder": 32,
@@ -553,7 +569,8 @@
       "Text": "بدم من صعوه ای بی بال و بی پر",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: من به مانند پرنده‌ای هستم که نه بال دارد و نه پر، اما از تخم بیرون آمده‌ام."
     },
     {
       "VOrder": 34,
@@ -569,7 +586,8 @@
       "Text": "دلم فارغ ز آسیب زمان بود",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: دل من از آسیب‌های زمان دور بود، زیرا بر روی شاخه‌ای بلند لانه‌ای داشتم."
     },
     {
       "VOrder": 36,
@@ -585,7 +603,8 @@
       "Text": "به سر می بردم اندر آشیانه",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: در مکانی راحت و آماده زندگی می‌کردم که همواره برایم آب و غذا فراهم بود."
     },
     {
       "VOrder": 38,
@@ -601,7 +620,8 @@
       "Text": "پس ازچندی که آوردم پر وبال",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: مدتی بعد، هنگامی که به اوج و آزادی رسیدم، یک پرنده‌ی شاهین من را در چنگ خود گرفتار کرد."
     },
     {
       "VOrder": 40,
@@ -617,7 +637,8 @@
       "Text": "به باغ دل به امید وخیالی",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: در دل خود به امیدی تازه و تصوری نو، نهالی را در باغ قلبم کاشتم."
     },
     {
       "VOrder": 42,
@@ -633,7 +654,8 @@
       "Text": "به آب دیده او را پروریدم",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: چندین سال او را با عشق و محبت بزرگ کردم و در این مدت سختی‌ها و مشکلاتش را تحمل کردم."
     },
     {
       "VOrder": 44,
@@ -649,7 +671,8 @@
       "Text": "گهی میکردم از خاشاک پاکش",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: گاهی برای تمیز کردنش از خاشاک استفاده می‌کردم و گاهی آن را با آب می‌شستم تا از خاک پاک شود."
     },
     {
       "VOrder": 46,
@@ -665,7 +688,8 @@
       "Text": "نگاهش داشتم از باد وباران",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: نگاه او را زیر تأثیر شرایط جوی و تغییرات فصلی می‌دیدم که تا دی‌ماه گذشته ادامه داشت و حالا دوباره به آمدن بهار نزدیک می‌شود."
     },
     {
       "VOrder": 48,
@@ -681,7 +705,8 @@
       "Text": "پس از آن صدمه ها ورنج بسیار",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: پس از تحمل صدمه‌ها و رنج‌های بسیار، بالاخره زمانی می‌رسد که نتیجه و ثمره‌ آن تلاش‌ها به بار می‌نشیند."
     },
     {
       "VOrder": 50,
@@ -697,7 +722,8 @@
       "Text": "سمومی از قضا ناگه وزان شد",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: ناگهان بلایایی به وجود آمد که باعث شد بهار یکباره به خزان تبدیل شود."
     },
     {
       "VOrder": 52,
@@ -713,7 +739,8 @@
       "Text": "عجب نقشی فلک ناگه برانگیخت",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: فلک ناگهان نقشی شگفت‌انگیز به وجود آورد که به خاطر آن، درختی که قبلاً پر از برگ بود، حالا خشک شده و برگ‌هایش ریخته‌اند."
     },
     {
       "VOrder": 54,

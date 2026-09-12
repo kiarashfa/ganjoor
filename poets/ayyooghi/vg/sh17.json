@@ -511,7 +511,8 @@
       "Text": "چو گلشاه رخسار ورقه بدید",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: وقتی که تو چهره زیبای گل را دید، شادی و سروری از وجودش برآمد."
     },
     {
       "VOrder": 2,
@@ -527,7 +528,8 @@
       "Text": "نگفتند از بیم لشکر سخن",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: از ترس لشکر، کسی سخنی نگفت و عطر بهار در دشت و باغ پراکنده شد."
     },
     {
       "VOrder": 4,
@@ -543,7 +545,8 @@
       "Text": "نهان از پس خیمه بیرون شدند",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: دو نفر به آرامی از پشت خیمه خارج شدند، اما هیچکس نمی‌دانست که آن‌ها چگونه هستند یا چه بر سرشان آمده است."
     },
     {
       "VOrder": 6,
@@ -559,7 +562,8 @@
       "Text": "سبک راه بی ره گرفتند زود",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: با سرعت و سبکی به راه خود ادامه دادند و به زودی به لشکر رسیدند، مانند دود که سریع و بی‌صدا حرکت می‌کند."
     },
     {
       "VOrder": 8,
@@ -575,7 +579,8 @@
       "Text": "سوی خیمهٔ باب گلشاه شد",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: همه ی لشکر به سوی خیمه‌ی باب گلشاه حرکت کردند و از کار او باخبر شدند."
     },
     {
       "VOrder": 10,
@@ -591,7 +596,8 @@
       "Text": "کی شد ورقه آورد گلشاه را",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: کی کسی ورقه‌ای برای گلشاه آورد که به‌خاطر کینه، آن را به زیان شاهی تبدیل کرد؟"
     },
     {
       "VOrder": 12,
@@ -607,7 +613,8 @@
       "Text": "رخ باب گلشاه چون لاله رنگ",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: چهره‌ی زیبا و دل‌فریب او مانند گل لاله سرشار از تازگی و زیبایی شد و از خطرات و مشکلات دور ماند."
     },
     {
       "VOrder": 14,
@@ -623,7 +630,8 @@
       "Text": "میان سپاه اندر آن تیره شب",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در دل شب تار، در میان نبرد، حادثه‌ای شگفت‌آور رخ داد."
     },
     {
       "VOrder": 16,
@@ -639,7 +647,8 @@
       "Text": "ز غریدن کوس و رویینه خم",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: با صدای رعد و برق و طوفانی که ایجاد شده، تو گویی کسی در دل شب گم شده است و نمی‌داند کجا برود."
     },
     {
       "VOrder": 18,
@@ -655,7 +664,8 @@
       "Text": "همه شمعها را برافروختند",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: همه شمع‌ها را روشن کردند و دنیا را پر از شادی کردند."
     },
     {
       "VOrder": 20,
@@ -671,7 +681,8 @@
       "Text": "سپاه بنی ضبه در نیم شب",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: سپاه بنی ضبه در نیمه شب در آنجا به کار عجیبی مشغول بود و توقف کردند."
     },
     {
       "VOrder": 22,
@@ -687,7 +698,8 @@
       "Text": "همه یک دگر را بگفتند زود",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: همه به سرعت درباره بنی شیبه و قوم آنها صحبت کردند که چه بر سرشان آمده است!"
     },
     {
       "VOrder": 24,
@@ -703,7 +715,8 @@
       "Text": "مگر لشکری بی حد و بی عدد",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: آیا امکان دارد که گروهی از سربازان بسیار زیاد و بی‌شماری از جایی به یاری برسند؟"
     },
     {
       "VOrder": 26,
@@ -719,7 +732,8 @@
       "Text": "نگه کرد باد مددشان ز کیست",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: باد به آنها نگاه می‌کند و از کجا آمده است این شادی و خوشحالی آنها."
     },
     {
       "VOrder": 28,
@@ -735,7 +749,8 @@
       "Text": "بیایید تا سوی مهتر شویم",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: بیایید که به سوی سررویمان برویم و در این مسیر، رهبر شویم."
     },
     {
       "VOrder": 30,
@@ -751,7 +766,8 @@
       "Text": "نباید کی سازند بر ما کمین",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: نباید به ما تله بزنند و در کمین ما بنشینند. باید در میدان جنگ بجنگند و انتقام بگیرند."
     },
     {
       "VOrder": 32,
@@ -767,7 +783,8 @@
       "Text": "چو این رای کردند، یکسر شدند",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: زمانی که این تصمیم گرفته شد، همه به سمت خیمه حرکت کردند و در جایگاه بالاتر قرار گرفتند."
     },
     {
       "VOrder": 34,
@@ -783,7 +800,8 @@
       "Text": "چوزی خیمشان بخت بدره نمون",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: وقتی که سرنوشت آنها خوب نباشد، همه خیمه‌ها را پر از موج خون می‌بینند."
     },
     {
       "VOrder": 36,
@@ -799,7 +817,8 @@
       "Text": "سر غالب از تن گسسته به تیغ",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: ماه زیبایی که از ابرها بیرون آمده است، گویی با تیغِ تیز سلاحی بر تن خود را شکسته و از آن جدا شده است."
     },
     {
       "VOrder": 38,
@@ -815,7 +834,8 @@
       "Text": "ز گل شه ندیدند جایی اثر",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: از گل شاه هیچ نشانی دیده نشد، بلکه سر را از غالب جدا شده مشاهده کردند."
     },
     {
       "VOrder": 40,
@@ -831,7 +851,8 @@
       "Text": "همه خیره گشتند و غمگین شدند",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: همه به شدت متوجه او شدند و غمگین گردیدند، به طوری که مضطرب و ناراحت و بیچاره شدند."
     },
     {
       "VOrder": 42,
@@ -847,7 +868,8 @@
       "Text": "ز تیمار وز غم غریوان شدند",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: از درد و غم گریبان‌گیران، همه به غم و اندوه دچار شدند و جانشان تحت تاثیر این رنج‌ها قرار گرفت."
     },
     {
       "VOrder": 44,
@@ -863,7 +885,8 @@
       "Text": "سپاه بنی شیبه برخاستند",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: بنی شیبه، که یک قوم مشهور در تاریخ عرب هستند، آماده نبرد شدند و خود را برای جنگ تجهیز کردند."
     },
     {
       "VOrder": 46,
@@ -879,7 +902,8 @@
       "Text": "ز بهر ای پرخاش، وز گفت و گوی",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: به خاطر این که تو پرخاشگر هستی و به دلیل گفت و گویی که بین بنی ضبه رخ داده است، روی خود را به سمت آنها برگردانده‌اند."
     },
     {
       "VOrder": 48,
@@ -895,7 +919,8 @@
       "Text": "همه شب بر آن جای مردی نماند",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: هر شب، در آن مکان دیگر کسی از مردان و سواران باقی نماند و هیچ نشانه‌ای از آنها به جا نماند."
     },
     {
       "VOrder": 50,
@@ -911,7 +936,8 @@
       "Text": "چو پیدا شد از کوه زرین درفش",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: زمانی که پرچم زرین از کوه نمایان شد، شعری بنفش از جهان به آسمان بلند شد."
     },
     {
       "VOrder": 52,
@@ -927,7 +953,8 @@
       "Text": "سپاه بنی شیبه ز اعدای خویش",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: ارتش بنی شیبه در برابر دشمنان خود هیچ مردی را در جایگاه و موضعش ندید."
     },
     {
       "VOrder": 54,
@@ -943,7 +970,8 @@
       "Text": "چو از کار دشمن خبر یافتند",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: وقتی از تلاش‌های دشمن آگاه شدند، به سمت نجات خود رفتند."
     },
     {
       "VOrder": 56,
@@ -959,7 +987,8 @@
       "Text": "بنی شیبه یک سر بیاراستند",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: اهالی بنی شیبه، یک سرود را به زیبایی آراسته و آماده کردند و بر آن نشستند تا آن را بخوانند."
     },
     {
       "VOrder": 58,
@@ -975,7 +1004,8 @@
       "Text": "چو با حی خود جمله باز آمدند",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: وقتی همه دوستان با حال خوش و سرشار از شادی به جمع هم برگشتند، همگان دور هم نشسته و از نوشیدن می و برگزاری جشن لذت می‌بردند."
     },
     {
       "VOrder": 60,
@@ -991,7 +1021,8 @@
       "Text": "ولیکن دل ورقه از مرگ باب",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: اما دل ورقه از مرگ ناراحت شد و از درد و فشار، خونگریه کرد."
     },
     {
       "VOrder": 62,
@@ -1007,7 +1038,8 @@
       "Text": "از آن انده و درد بر جان اوی",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: از آن غم و درد بر جان او به شدت افزوده شد، که او به شدت از این شرایط ناراحت و متاثر بود."
     },
     {
       "VOrder": 64,
@@ -1023,7 +1055,8 @@
       "Text": "از آن در دو سهمش دل افگار شد",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: او به خاطر عشق و محبت، دچار دل‌تنگی و غم شد و از پای درآمد و بیمار گردید."
     },
     {
       "VOrder": 66,
@@ -1039,7 +1072,8 @@
       "Text": "چو بهتر شد از رنج نالندگی",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: وقتی دلش از رنج و ناله‌ها رها شد و بهتر شد، عشق را به خدمت خود درآورد و تسلیم آن شد."
     },
     {
       "VOrder": 68,
@@ -1055,7 +1089,8 @@
       "Text": "نگشت از دلش عشق گلشاه کم",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: عشق گلشاه از دل او کم نشده است، بلکه غم بر جان او سایه افکنده است."
     },
     {
       "VOrder": 70,
@@ -1071,7 +1106,8 @@
       "Text": "نیارست می خواستش بزنی",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: او نتوانست به دلش بزند که برای حفظ دارایی‌اش، او را بزند و در امان باشد."
     },
     {
       "VOrder": 72,
@@ -1087,7 +1123,8 @@
       "Text": "همه مال او برده بودند پاک",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: همه چیز متعلق به او بود و همه چیز را به طور کامل از بین برده بودند و قصد داشتند او را نابود کنند."
     },
     {
       "VOrder": 74,
@@ -1103,7 +1140,8 @@
       "Text": "همی گفت بی مال و بی خواسته",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: او می‌گفت که چطور می‌توانم بدون داشتن ثروت و خواسته‌های دیگر، کارهایم را سامان بدهم؟"
     },
     {
       "VOrder": 76,
@@ -1119,7 +1157,8 @@
       "Text": "بترسم که گلشاه را گر ز عم",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: می‌ترسم اگر بخواهم گلشاه را از دست دهم، درد و غم بر من حاکم شود."
     },
     {
       "VOrder": 78,
@@ -1135,7 +1174,8 @@
       "Text": "سر اندر نیارد به گفتار من",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: کسی که به سخنان من توجه نمی‌کند، به شکوهمندی و درد من فکر نمی‌کند."
     },
     {
       "VOrder": 80,
@@ -1151,7 +1191,8 @@
       "Text": "کی بی خواسته دل نیابد طرب",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: هیچگاه کسی بدون داشتن خواسته قلبی، شادی را نخواهد یافت و مانند این است که بدون برقراری ارتباط، لب‌ها هرگز به هم نمی‌رسند."
     },
     {
       "VOrder": 82,
@@ -1167,7 +1208,8 @@
       "Text": "همی بود بر رد هجران خموش",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: اگرچه در دلش درد جدایی وجود دارد، اما او به خاطر آن سکوت می‌کند و چیزی نمی‌گوید."
     },
     {
       "VOrder": 84,
@@ -1183,7 +1225,8 @@
       "Text": "به مردی تو گر پیشی از روستم",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: اگر تو از رستم هم جلوتر باشی، هیچ ارزشی نداری اگر نام و شهرتی نداشته باشی."
     },
     {
       "VOrder": 86,
@@ -1199,7 +1242,8 @@
       "Text": "درم دار هموار باشد عزیز",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: اگر در خانه‌ات آسایش و راحتی وجود داشته باشد، ارزش یک سکه کوچک هم از بین نمی‌رود، حتی اگر پولی نداشته باشی."
     },
     {
       "VOrder": 88,
@@ -1215,7 +1259,8 @@
       "Text": "یکی بنده بد ورقه را سعد نام",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: یک بنده به نام سعد، که در دانش و مردانگی کامل است، ورقۀ بدی را به دست گرفته است."
     },
     {
       "VOrder": 90,
@@ -1231,7 +1276,8 @@
       "Text": "کی از خردگیش آوریده بدند",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: استعداد و خرد انسان‌ها به گونه‌ای است که اگر در یک جا پرورش یابند، می‌توانند به خوبی در آن راستا رشد کنند."
     },
     {
       "VOrder": 92,
@@ -1247,7 +1293,8 @@
       "Text": "بر ورقه نزدیک تر بد ز جان",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که ورقه یا نوشته‌ای که در دست داریم، به ما نزدیک‌تر از جانمان است، زیرا همواره وفادار و مهربان بوده است. در واقع، این متن از اهمیت و نزدیکی این ورقه در مقایسه با دیگر چیزها صحبت می‌کند."
     },
     {
       "VOrder": 94,
@@ -1263,7 +1310,8 @@
       "Text": "چو از حال او یافتش آگهی",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: وقتی از وضعیت او باخبر شد که کارش خراب شده و هیچ امکانی ندارد."
     },
     {
       "VOrder": 96,

@@ -151,7 +151,8 @@
       "Text": "عزیزی از زلیخا کرد درخواست",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: دوستی از زلیخا خواست که بگوید آیا می‌تواند همچون یوسف، دل او را ببرد. جواب صادقانه‌اش را بگو."
     },
     {
       "VOrder": 2,
@@ -167,7 +168,8 @@
       "Text": "که گر این دل تو داری می‌کنی ناز",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: اگر این دل را داری و در عشق خود ناز می‌کنی، پس اگر می‌خواهی از یوسف دل خود را آزاد کن."
     },
     {
       "VOrder": 4,
@@ -183,7 +185,8 @@
       "Text": "زلیخا خورد سوگندی قوی‌دست",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: زلیخا قسم خورده که اگر از دلش باخبر شوید، واژه‌ای برای گفتن دارد."
     },
     {
       "VOrder": 6,
@@ -199,7 +202,8 @@
       "Text": "نمی‌دانم دلم عاشق چرا شد",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: نمی‌دانم چرا دلم عاشق شد و اگر هم عاشق شده، پس او کجا رفته است؟"
     },
     {
       "VOrder": 8,
@@ -215,7 +219,8 @@
       "Text": "چو یوسف هیچ دل محکم ندارد",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس مانند یوسف دل محکم و استواری ندارد و زلیخا نیز چنین دلی ندارد."
     },
     {
       "VOrder": 10,
@@ -231,7 +236,8 @@
       "Text": "چو نه این یک نه آن بر کار بوده‌ست",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: اگر نه این یک نفر در کار بوده است، نه آن نفر دیگر، نه این معشوق و نه آن محبوب وجود داشته‌اند."
     },
     {
       "VOrder": 12,
@@ -247,7 +253,8 @@
       "Text": "کنون این دل کجا شد در میانه",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: اکنون نمی‌دانم این دل من در چه حالتی است، در میانه‌ی این وضعیت عجیب و پیچیده چه بگویم."
     },
     {
       "VOrder": 14,
@@ -263,7 +270,8 @@
       "Text": "زهی چوگان که گویی را چنان کرد",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: چه شگفت‌انگیز است که چوگان‌زن به گونه‌ای بازی کرد که گویی توپ را از سمت مشرق به سوی مغرب به سرعت حرکت داد."
     },
     {
       "VOrder": 16,
@@ -279,7 +287,8 @@
       "Text": "پس آنگه گفت هان ای گوی چالاک",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: سپس او گفت: \u0022ای گوی چابک، با احتیاط حرکت کر، تا در خاک نلخه‌ای و به زمین نیفتی.\u0022"
     },
     {
       "VOrder": 18,
@@ -295,7 +304,8 @@
       "Text": "که گر تو کژ روی ای گوی در راه",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اگر تو در مسیر زندگی به اشتباه پیش بروی و از راه راست منحرف شوی، تا ابد در عذاب و سختی خواهی ماند."
     },
     {
       "VOrder": 20,
@@ -311,7 +321,8 @@
       "Text": "چو سیر گوی بی چوگان نباشد",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: وقتی که گوی (توپ) در بازی چوگان بدون چوگان باشد، تقصیر از گوی نیست که سرگردان است."
     },
     {
       "VOrder": 22,
@@ -327,7 +338,8 @@
       "Text": "اگرچه آن گنه نه کردن تست",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: هر چند که تو خود مرتکب این گناه نشده‌ای، اما این گناه به دوش تو قرار دارد."
     },
     {
       "VOrder": 24,

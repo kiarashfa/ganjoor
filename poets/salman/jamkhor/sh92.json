@@ -211,7 +211,8 @@
       "Text": "حکایت را بدین پیدا شد انجام",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: داستان به اینجا رسید که سحرگاه، شادی و زیبایی چهره‌ای در شب پدیدار شد."
     },
     {
       "VOrder": 2,
@@ -227,7 +228,8 @@
       "Text": "ملک جمشید را افسر طلب کرد",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: ملک جمشید خواست تا تاج و کلاهی را که ویژه او بود به دست آورد و داستان‌های شادی را که با آن همراه بود، بیان کرد."
     },
     {
       "VOrder": 4,
@@ -243,7 +245,8 @@
       "Text": "ملک را گفت: «شادی رفت در شام",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: پادشاه گفت: «شادی به شام رفته و نمی‌دانم سرانجام کار او چگونه خواهد شد.»"
     },
     {
       "VOrder": 6,
@@ -259,7 +262,8 @@
       "Text": "ندانم کو کشد لشکر برین بوم",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: نمی‌دانم چه کسی لشکری را به این سرزمین می‌آورد، اما اگر چنین شود، کشور روم از شادی به تماشا خواهد ایستاد."
     },
     {
       "VOrder": 8,
@@ -275,7 +279,8 @@
       "Text": "ملک برخواست گفت: «ای بر سران شاه",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: فرشته خداوند بلند شد و گفت: «ای کسی که بر سرپست‌ترین و ناتوان‌ترین افراد سلطنت می‌کنی، تو تا ابد تحت سلطه و فرمانروایی حوادث و زمان خواهی بود.»"
     },
     {
       "VOrder": 10,
@@ -291,7 +296,8 @@
       "Text": "اگر فرمان دهد فرمانده روم",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: اگر فرمانده روم دستور دهد، من به راحتی برای آنها شام را فراهم می‌کنم."
     },
     {
       "VOrder": 12,
@@ -307,7 +313,8 @@
       "Text": "همی تا بر تو شام آرد عدو بام",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: هر وقت که دشمن به تو حمله کند و شب را بر من تحمیل کند، من بی درنگ صبح را تبدیل به شب می‌کنم."
     },
     {
       "VOrder": 14,
@@ -323,7 +330,8 @@
       "Text": "بدین معنی ملک فصلی بپرداخت",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: به این مفهوم، سرزمین به یک فصل خاص اختصاص یافت که باعث شادی و انگیزه سرپرستش شد."
     },
     {
       "VOrder": 16,
@@ -339,7 +347,8 @@
       "Text": "بدو گفت: « آفرین بر گوهر نیک!",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: او به او گفت: «خداحافظی بر ویژگی‌های خوب! تو با قدرت و اعتماد به نفس سخن می‌گویی، اما..."
     },
     {
       "VOrder": 18,
@@ -355,7 +364,8 @@
       "Text": "ز گفتار تهی کاری نیاید",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: از گفتن و حرف زدن چیزی به دست نمی‌آید، باید در عمل و کردار نشان بدهیم."
     },
     {
       "VOrder": 20,
@@ -371,7 +381,8 @@
       "Text": "اگر زین عهد و پیمان برنگردی",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: اگر از این پیمان و عهدی که بسته‌ای برنگردی، یعنی این که به شرط مردانگی عمل کرده‌ای."
     },
     {
       "VOrder": 22,
@@ -387,7 +398,8 @@
       "Text": "ترا قیصر ز گردون بگذراند",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: تو را به مقام بلندی می‌رساند و برایت دختری می‌آورد که درخشش و زیبایی‌اش مانند خورشید است."
     },
     {
       "VOrder": 24,
@@ -403,7 +415,8 @@
       "Text": "به دارای جهان جم خورد سوگند",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: به دارایی‌های جهان جم قسم می‌خورم که تا زمانی که جان و تن من به هم پیوند دارد، این قول را حفظ خواهم کرد."
     },
     {
       "VOrder": 26,
@@ -419,7 +432,8 @@
       "Text": "من از فرمان قیصر برنگردم",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: من هرگز از دستورهای قیصر عقب‌نشینی نخواهم کرد و اگر از این وعده برگردم، دیگر انسان نیستم."
     },
     {
       "VOrder": 28,
@@ -435,7 +449,8 @@
       "Text": "بباشم در رهش تا زنده باشم",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: من هر وقت زنده‌ام، در راه او خواهم بود و حتی در کمترین حالت، خود را بنده او می‌دانم."
     },
     {
       "VOrder": 30,
@@ -451,7 +466,8 @@
       "Text": "چو بشنید آن سخن برخاست آن سرو",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: وقتی آن سخن را شنید، آن درخت بلند و زیبا به پا خاست و به سمت قیصر رفت."
     },
     {
       "VOrder": 32,
@@ -467,7 +483,8 @@
       "Text": "بدادش مژده از گفتار جمشید",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: او با شنیدن خبر خوش از سخنان جمشید، پادشاه بزرگ، خوشحال و شادمان شد و از رفتارهای جمشید خرسند گردید."
     },
     {
       "VOrder": 34,
@@ -483,7 +500,8 @@
       "Text": "اشارت کرد از آن پس رومیان را",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: از آن پس، رومیان را به این نکته متوجه کرد که: «برای انتقام، خود را آماده کنید.»"
     },
     {
       "VOrder": 36,

@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "گر هیچ سوی زلف تو راهی باشد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر هر کدام از تارهای زلفت راهی برای رسیدن به تو باشد، هر تار به دستی دراز می‌شود تا تو را بخواهد."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "جز زلف و رخت هیچ سالی ندهد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به جز زیبایی و چهره‌ات، هیچ چیزی نمی‌تواند شبی را طولانی‌تر از یک ماه کند."
     },
     {
       "VOrder": 4,

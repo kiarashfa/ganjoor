@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "در راه طلب پیاده می باید رفت",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در مسیر رسیدن به هدف، باید با عزم و اراده پیش رفت و humble (با تواضع) در مقابل سختی‌ها و چالش‌ها قرار گرفت."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "یکسان به زمین اگر شدی، عذر مگو",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به یک وضعیت مشابه زمین بیفتی، بهانه نیاور، چون حتی سایه هم از پایش می‌افتد و باید ادامه مسیر را بپیماید."
     },
     {
       "VOrder": 4,

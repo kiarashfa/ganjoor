@@ -171,7 +171,8 @@
       "Text": "نویسنده را نامه فرمود و گفت",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: نویسنده را به نگارش نامه‌ای مامور کرد و به او گفت که باید با شخصیت‌های نیک و شایسته در ارتباط باشد."
     },
     {
       "VOrder": 2,
@@ -187,7 +188,8 @@
       "Text": "بدین نامه، شاها تو رامش پذیر",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در این نوشته، ای شاه، تو باید آرامش را بپذیری، زیرا دوران کهن بر ما تغییر کرده است."
     },
     {
       "VOrder": 4,
@@ -203,7 +205,8 @@
       "Text": "فگنده همه دشت پر دشمن است",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در این دشت، همه جا پر از دشمنان است و در عمق دریا، مانند سر بدون بدن، وضعیت غم‌انگیزی حاکم است."
     },
     {
       "VOrder": 6,
@@ -219,7 +222,8 @@
       "Text": "یکی حمله آورد سالارِ کوش",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: یکی از سرداران با تمام قدرت به ما حمله کرد؛ به‌طوری‌که نام‌آوران ما از ترس هوش و حواسشان را از دست دادند."
     },
     {
       "VOrder": 8,
@@ -235,7 +239,8 @@
       "Text": "بزد خشت سوزنده بر جوشنم",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: آتش آسیب‌زا را بر روی زره‌ام ریخت، اما از آن حفظ و نگهداری کرد یزدان ، تا بدنم آسیب نبیند."
     },
     {
       "VOrder": 10,
@@ -251,7 +256,8 @@
       "Text": "سرش زخم کردم به یک زخم گرز",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: سرش را به یک زخم شدید زدم و با یک حرکت ناگهانی از سپهدار فرار کرد."
     },
     {
       "VOrder": 12,
@@ -267,7 +273,8 @@
       "Text": "ز دیهیم چون روی برگاشت بخت",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: زمانی که بخت از روی تو دور شود، مانند برگ‌های درخت که به زمین می‌ریزند، سرنوشت و پشتیبانی‌ات نیز از تو دور می‌شود."
     },
     {
       "VOrder": 14,
@@ -283,7 +290,8 @@
       "Text": "ز پشت تگاور همی ریختند",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: از پشت تگاور به آنها حمله می‌کردند و هیچ‌کس به اندازه صد نفر نبود که فرار کند."
     },
     {
       "VOrder": 16,
@@ -299,7 +307,8 @@
       "Text": "همه کشته گشتند در کارزار",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: همه در میدان نبرد به قتل رسیدند و دیگر خسته و بدحال و رنجور هستند."
     },
     {
       "VOrder": 18,
@@ -315,7 +324,8 @@
       "Text": "سپه یافت چندان فزونی و ساز",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: ارتش توانسته است به اندازه کافی نیرو و تجهیزات به دست آورد که هر شخصی از خواسته‌های خود بی‌نیاز شود."
     },
     {
       "VOrder": 20,
@@ -331,7 +341,8 @@
       "Text": "از این مایه‌ور گنج و بار و بنه",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: از این منبع بزرگ، ثروت و دارایی جمع شده است و مانند یک رهبر پرقدرت، همه‌چیز را به تنهایی در اختیار دارد."
     },
     {
       "VOrder": 22,
@@ -347,7 +358,8 @@
       "Text": "یکی بهره از هرچه در خورد شاه",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: من از هر آنچه که به شاه مربوط می‌شود، سهمی برای او فرستادم. حال به این بارگاه نگاه کن."
     },
     {
       "VOrder": 24,
@@ -363,7 +375,8 @@
       "Text": "ز دریا من آهنگ کردم به چین",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: از دریا به سوی چین حرکت کردم تا ببینم آنجا چه حال و هوایی دارد و زمینش چگونه است."
     },
     {
       "VOrder": 26,
@@ -379,7 +392,8 @@
       "Text": "یکی بر گرایم یلان را به جنگ",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهم یکی از سربازان دشمن را در میدان جنگ ببینم که در مقابل من ایستاده و در حال تردید است."
     },
     {
       "VOrder": 28,

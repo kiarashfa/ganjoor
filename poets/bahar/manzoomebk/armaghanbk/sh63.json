@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "از مرد دزد هیچ چیز مگیر و مده و ایشان را ستوه مکن.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: از دزد چیزی نگیر و به او چیزی نده و او را آزار نده."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "مکن هیچ با دزد داد و ستد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با دزد هیچگونه معامله و رابطه‌ای نداشته باش، زیرا از این نوع مبادلات برای تو ضرر و آسیب خواهد داشت."
     },
     {
       "VOrder": 3,
@@ -46,7 +48,8 @@
       "Position": "Right",
       "Text": "ز بیداد کوتاه کن دست دزد",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از ظلم و ستم دست بردار و از دزدی دوری کن، چرا که این همان چیزی است که اورمزد (خدای زرتشتی) به ما آموخته است."
     },
     {
       "VOrder": 5,

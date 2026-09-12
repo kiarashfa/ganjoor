@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "آدمی سر به سر همه عیب است",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: انسان به طور کلی دارای نقص‌ها و اشتباهات بسیاری است، اما روی این عیب‌ها پوششی وجود دارد که آنها را از دید دیگران مخفی می‌کند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "زیر این پرده چون برون آید",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زیر این پوشش، همه ضعف‌ها و ننگ‌ها بیرون می‌آید."
     },
     {
       "VOrder": 4,

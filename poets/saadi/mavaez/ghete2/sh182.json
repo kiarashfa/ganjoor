@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "چو می‌دانستی افتادن به ناچار",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی می‌دانستی که به اجبار باید افتادی، نباید این‌قدر مغرورانه بالا نشینی."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "به پای خویش رفتن به نبودی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به جای اینکه بر روی پاهای خود حرکت کنم و به جایی برسم، بهتر است که از خطر افتادن از اسب و شکستن گردن دوری کنم."
     },
     {
       "VOrder": 4,

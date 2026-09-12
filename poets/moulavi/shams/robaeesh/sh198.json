@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای عقل برو که عاقلی اینجا نیست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای عقل، برو که در اینجا کسی عاقل نیست. اگر بخواهی موهایت را بشوی، بیهوده است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "روز آمد و روز هر چراغی که فروخت",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روز به وجود آمد و هر چراغی که فروش رفته در نور آفتاب دیگر خجالت‌آور است."
     },
     {
       "VOrder": 4,

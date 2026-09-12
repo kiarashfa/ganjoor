@@ -307,7 +307,8 @@
       "Text": "یکی ای صبا تو برای خدا",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای بادی که به نسیم‌های بهاری می‌وزی، برای خدا کمی زحمت بکش و از شهر مدینه عبور کن."
     },
     {
       "VOrder": 2,
@@ -323,7 +324,8 @@
       "Text": "برو از وفا سوی نینوا",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: برو و از وفا به نینوا برو و به پدر و برادرم بگو."
     },
     {
       "VOrder": 4,
@@ -339,7 +341,8 @@
       "Text": "که غریب کوی ولا پدر",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در اینجا شاعر به تنهایی و غربت در مسیر عشق و معرفت اشاره می‌کند. او از اینکه به دور از محبت و جذبه خاصی است، ابراز ناراحتی می‌کند و نشان می‌دهد که درد و رنج او ناشی از فقدان ارتباط با یک فضای معنوی و عشق خالص است. زندگی و مشکلات او مانند اسیری در بند سختی‌ها به نظر می‌رسد و احساس می‌کند که در این مسیر تنهاست."
     },
     {
       "VOrder": 6,
@@ -355,7 +358,8 @@
       "Text": "نه قتیل تیغ جفا پدر",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: چرا در برابر سختی‌ها و ظلم‌ها تسلیم بشود، در حالیکه من به سرزمین مقدس فکر می‌کنم؟"
     },
     {
       "VOrder": 8,
@@ -371,7 +375,8 @@
       "Text": "نه شروط برادری چنین",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: نه این‌گونه است که برادری باید باشد و نه این‌گونه است که پدری باید رفتار کند."
     },
     {
       "VOrder": 10,
@@ -387,7 +392,8 @@
       "Text": "نه طریقه ی مادری چنین",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: هیچ راهی مانند راه من وجود ندارد که این طور به زندگی خود ادامه دهم."
     },
     {
       "VOrder": 12,
@@ -403,7 +409,8 @@
       "Text": "نه رفیق غمم شدی اخا",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: ای کاش رفیق غم‌هایم می‌شدی، یا حداقل به سراغم می‌آمدی و از حالم جویا می‌شدی."
     },
     {
       "VOrder": 14,
@@ -419,7 +426,8 @@
       "Text": "نه برم قدمی زدی اخا",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: من از طرف شما گلایه‌ای ندارم و نمی‌خواهم قدمی از گام‌های شما بردارم، یا پدرم را متهم کنم."
     },
     {
       "VOrder": 16,
@@ -435,7 +443,8 @@
       "Text": "همه مهر برادری چه شد",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: چرا محبت و دوستی برادرانه کم رنگ شده است و شیوه‌ی محبت خواهری چه شده است؟"
     },
     {
       "VOrder": 18,
@@ -451,7 +460,8 @@
       "Text": "رگ و ریشه مادری چه شد",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: چرا آن ارتباط عمیق و محبت‌آمیز با مادرم از نظرم دور شده و کم‌رنگ گشته است؟"
     },
     {
       "VOrder": 20,
@@ -467,7 +477,8 @@
       "Text": "ز فساد سپهر و ستیز قمر",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: از ناپاکی آسمان و جنگ و جدلهای ماه، به خاطر تکبر سرنوشت و دشمنی قضا."
     },
     {
       "VOrder": 22,
@@ -483,7 +494,8 @@
       "Text": "ز چه همره خود نبرده پدر",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: چرا پدرم مرا در این سفر با خود نمی‌برد، همان‌طور که دیگران را می‌برند؟"
     },
     {
       "VOrder": 24,
@@ -499,7 +511,8 @@
       "Text": "تو بیا به تاب و تبم ببین",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: تو بیا و حال و روز من را ببین، درد و غم و سختی‌هایی که دارم را مشاهده کن."
     },
     {
       "VOrder": 26,
@@ -515,7 +528,8 @@
       "Text": "گذران روز و شبم ببین",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: روز و شب های زندگی‌ام را ببین که چگونه با گلویی خشک و چشمانی اشک‌بار سپری می‌شود."
     },
     {
       "VOrder": 28,
@@ -531,7 +545,8 @@
       "Text": "همه شب ز غمت چو شمع سحر",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: هر شب دلم از غم تو می‌سوزد و مانند شمعی که در شب می‌سوزد، اشک‌هایم مانند خون جگر از چشمانم می‌ریزد."
     },
     {
       "VOrder": 30,
@@ -547,7 +562,8 @@
       "Text": "چه شود که نهی قدمم به سر",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که چه مشکلی دارد اگر من قدم هايم را متوقف کنم و سر به پای تو بگذارم، زیرا در آن صورت جانم را فدای تو می‌کنم. در واقع، شاعر از عشق و ارادت عمیق خود به معشوق صحبت می‌کند و نشان می‌دهد که تمایل دارد همه چیز خود را برای او قربانی کند."
     },
     {
       "VOrder": 32,
@@ -563,7 +579,8 @@
       "Text": "پی سیر آن روضات صفا",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: به دنبال آن باغ‌های زیبا و دل‌انگیز هستم، بال و پر من را از این قفس آزاد کن."
     },
     {
       "VOrder": 34,
@@ -579,7 +596,8 @@
       "Text": "نشدم ز داغ غمت رها",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: نتوانستم از درد ناشی از غم تو رهایی پیدا کنم، چون بال و پرم شکسته است و قادر به پرواز نیستم."
     },
     {
       "VOrder": 36,
@@ -595,7 +613,8 @@
       "Text": "به درون پر شررم نگر",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: به درون خودم نگاه کن و ببین که چگونه با شرم و خجالت لبم خشک و چشمانم پر از اشک است."
     },
     {
       "VOrder": 38,
@@ -611,7 +630,8 @@
       "Text": "به دم پدر پدرم نگر",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: به دمی که پدر بزرگم داشته نگاه کن، که در آن نفس‌ کشیدنش، همه دم‌های من را می‌فشارد و تحت تاثیر قرار می‌دهد."
     },
     {
       "VOrder": 40,
@@ -627,7 +647,8 @@
       "Text": "عجب آیدم ز وفای تو",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: من از وفای تو و همچنین وفای ظاهری و باطنی‌ات شگفت‌زده‌ام."
     },
     {
       "VOrder": 42,
@@ -643,7 +664,8 @@
       "Text": "به که رو کنم ز جفای تو",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: به چه کسی شکایت کنم از ظلم‌هایی که تو در حق من کردی؟ و از خودم چه بگویم و کجا بروم؟"
     },
     {
       "VOrder": 44,
@@ -659,7 +681,8 @@
       "Text": "همه پاره ی دل غذای من",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: تمامی ذرات وجودم، معشوق من هستند و همه اشک‌هایم، تسکین‌دهنده دردهایم."
     },
     {
       "VOrder": 46,
@@ -675,7 +698,8 @@
       "Text": "نبود اگر این دو برای من",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: اگر این دو شخص در کنار من نبودند، هیچ دارو یا غذایی دیگر برایم مهم نبود."
     },
     {
       "VOrder": 48,
@@ -691,7 +715,8 @@
       "Text": "به مرض شده تاهمه مبتلا",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: من دچار بیماری شدم و همه را به رضایت خداوند دچار کرده‌ام؛ من به خاطر رضایت او آمده‌ام."
     },
     {
       "VOrder": 50,
@@ -707,7 +732,8 @@
       "Text": "ولی از تو تا شده ام جدا",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: اما از تو جدا نشده‌ام نه به رضای قضا و نه به تقدیرم."
     },
     {
       "VOrder": 52,
@@ -723,7 +749,8 @@
       "Text": "نه صفایی ازین عزا همی",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: این روزها هیچ شادی و خوشحالی در این عزا وجود ندارد و فقط ناله و غم می‌زنیم."
     },
     {
       "VOrder": 54,
@@ -739,7 +766,8 @@
       "Text": "که رقم کنی به عطا همی",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهی با بخشش‌های خود، دیگران را تحت تأثیر قرار دهی، باید به افراد خاصی که در اطراف خودت هستند توجه کنی."
     },
     {
       "VOrder": 56,

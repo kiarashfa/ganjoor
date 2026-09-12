@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای منزل دوست، خوش هوایی داری",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای خانه‌ی دوست، تو خوش هوایی هستی و پیداست که بوی آشنایی و دوستی در تو جریان دارد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "خاک کف تو چو سرمه در دیده کشم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خاک پای تو را مانند سرمه در چشمانم می‌کشم، چون نشانی از پای تو دارم."
     },
     {
       "VOrder": 4,

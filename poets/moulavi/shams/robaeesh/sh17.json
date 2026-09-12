@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای باد سحر خبر بده مر ما را",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای باد صبحگاهی، اگر در مسیرت دل سوزانی را دیدی، سلامی از ما به او برسان."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "دیدی دل پرآتش و پرسودا را",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دیدی چگونه دل پراز آتش و بی‌تاب می‌تواند با آتش خود، صدها سنگ را بسوزاند؟"
     },
     {
       "VOrder": 4,

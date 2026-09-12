@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "خطی مجهول دیدم در مدینه",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در مدینه متنی ناشناخته را دیدم و فهمیدم که آن نوشته به هیچ‌وجه آشنا نیست."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "بر آن خط اولین سطری نبشته",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بر روی آن خط، اولین سطر را نوشته‌اند که در مقایسه با خورشید، جایگاه جوزا فراتر نیست."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "به جان پادشا سوگند خوردم",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به جان پادشاه سوگند خورده‌ام که در نزد او تنها او را می‌پرستم و جز او کسی را نمی‌پذیرم."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "چو خاقانی نداند کاین چه سر است",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر خاقانی نداند که این چه راز و داستانی است، پس پاسخ دادن به این سخن صحیح نیست."
     },
     {
       "VOrder": 8,

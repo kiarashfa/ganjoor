@@ -67,7 +67,8 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "از اعاظم مشایخ متقدمین و از اماجد محققین بوده. از آن جناب است:",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: او یکی از بزرگ‌ترین و شناخته‌شده‌ترین علمای گذشته و از محققین برجسته به شمار می‌رود."
     },
     {
       "VOrder": 2,
@@ -80,7 +81,8 @@
       "Text": "یَعْرِفُنا مَنْکانَ مِنْجِنْسِنا",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: کسی که از همان جنس ماست، ما را می‌شناسد و باقی مردم برای ما غریب و ناآشنا هستند."
     },
     {
       "VOrder": 4,
@@ -94,7 +96,8 @@
       "VOrder": 5,
       "Position": "Paragraph",
       "Text": "٭٭٭",
-      "CoupletIndex": 2
+      "CoupletIndex": 2,
+      "CoupletSummary": "هوش مصنوعی: شما بر روی داده‌هایی که تا октبر 2023 موجود هستند، آموزش دیده‌اید."
     },
     {
       "VOrder": 6,
@@ -102,7 +105,8 @@
       "Text": "تو به علم ازل مرا دیدی",
       "CoupletIndex": 3,
       "SectionIndex1": 5,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: تو از ابتدا حالم را می‌دانی و می‌دانی که با وجود عیوبم به من توجه و محبت کردی."
     },
     {
       "VOrder": 7,
@@ -118,7 +122,8 @@
       "Text": "تو به علم آن و من به عیب همان",
       "CoupletIndex": 4,
       "SectionIndex1": 5,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: تو به دانشی که داری به عیب‌های من نپرداز؛ خودت را قضاوت نکن و آنچه را که خودت دوست داری فراموش نکن."
     },
     {
       "VOrder": 9,

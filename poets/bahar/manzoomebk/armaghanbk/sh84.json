@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "اگر خواهی از کسی دشنام نشنوی‌، به کس دشنام مده‌.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نمی‌خواهی از دیگران بی‌احترامی بشنوی، خودت نیز به آنها بی‌احترامی نکن."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "چو خواهی که‌ بد نشنوی از کسان",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نمی‌خواهی که از دیگران چیزهای بدی بشنوی، هرگز بدی را بر زبان نیاور."
     },
     {
       "VOrder": 3,

@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "همه کس را عقلِ خود به کمال نماید و فرزندِ خود به جمال.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "همگان عقل خویش را کامل می‌دانند و فرزندان خود را زیبا."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "یکی یهود و مسلمان، نزاع می‌کردند",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "دو نفر یکی یهودی و دیگری مسلمان در حال بحث و نزاع بودند و مشاجره آنها به‌شکلی بود که باعث خنده من شد."
     },
     {
       "VOrder": 3,
@@ -46,7 +48,8 @@
       "Position": "Right",
       "Text": "به طَیرَه گفت مسلمان: گر این قبالهٔ من",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "مسلمان، از روی خشم گفت: خدایا اگر سند من درست نبود و حق با من نیست بر دین یهود بمیرانم"
     },
     {
       "VOrder": 5,
@@ -60,7 +63,8 @@
       "Position": "Right",
       "Text": "یهود گفت: به تورات می‌خورم سوگند!",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "یهودی گفت: به توراتی که از آن پیروی می کنم قسم می خورم! اگر حرفم درست نیست پس من یک مسلمان هستم مثل تو!"
     },
     {
       "VOrder": 7,
@@ -74,7 +78,8 @@
       "Position": "Right",
       "Text": "گر از بَسیطِ زمین، عقل، مُنعَدِم گردد",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "اگر عقل و خرد به کلی از صفحه روزگار محو و نابود شود؛ آ‌نوقت هیچ‌کس در دانایی و کمال عقل خود، تردید و شک نمی‌کند!"
     },
     {
       "VOrder": 9,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گر دیده یک اهل دیده بودی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر چشمی از بینایان داشتی، دل شاد و خرسند از دیدن زیبایی‌ها را تجربه می‌کردی."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "جان حلقه به گوش گوش گشتی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در مورد وفا چیزی شنیده بودی، هرگز خود را به بند نمی‌کشیدی و آزاد می‌زیستی."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "این قحط جهان کسی نبردی",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در این دنیا کمبود عشق و وفا وجود نداشت، هیچ‌کس نمی‌توانست در جنگ و جدال پیروز شود."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "کشتی حیات کم شکستی",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زندگی مانند کشتی است و اگر در دریای غم غوطه‌ور شوی، ممکن است دچار مشکلات زیادی شوی."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "می‌ترسد از آب دیده جانم",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کاش از ترس و نگرانی آب چشمم، ناراحت نمی‌شدی؛ کاش برای من مشکلی به وجود نمی‌آمد."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "گر آهم خاستی، فلک را",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "اگر آهم برمی‌خاست، فلک را مانند بامداد راستین (=صبح صادق) از هم می‌شکافت."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "ور چشم فلک به شفقت استی",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر چشم آسمان به ما رحم می‌کرد، از محبتش رنگ خون خورشید غروب بر زمین می‌ریخت."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "مرغ دلم از زبان به رنج است",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من مانند یک پرنده در قفسی دردمند است، و اگر نبود این درد و رنج، او مدت‌ها پیش از قفس رها شده بود."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "آویخته کی بُدی ترازو",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در سخن خود انصاف نداشته باشی، چطور می‌توانی انتظار داشته باشی که مورد سنجش و قضاوت دیگران قرار بگیری؟"
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "خاقانی اگر نه اهلْ جُستی",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر خاقانی اهل تفریح و سرگرمی نبود، حتماً از این دنیا کناره‌گیری کرده بود."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "هرچند جهان چنو ندیده است",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچند که دنیا چیزی مانند او هرگز ندیده است، ای کاش دنیا هیچ‌گاه او را نمی‌دید."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "با آنکه تمامش آفریدند",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با اینکه همه چیزش را ساخته‌اند، ای کاش اصلاً وجود نداشت."
     },
     {
       "VOrder": 24,

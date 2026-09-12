@@ -171,7 +171,8 @@
       "Text": "چو در ارمن رسید از جنبش تیز",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: وقتی به ارمن رسید، حرکت سریع جنگ‌افزارداران باعث شد که او از ترس و احتیاط، خود را کنترل کند و احتیاط بیشتری به خرج دهد."
     },
     {
       "VOrder": 2,
@@ -187,7 +188,8 @@
       "Text": "حکایت کرد کز بیداری بخت",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: روزی حکایتی گفت که وقتی بخت من بیدار بود، من مانند شب، در خواب و آسایش روی تخت نشسته بودم."
     },
     {
       "VOrder": 4,
@@ -203,7 +205,8 @@
       "Text": "چنان دیدم به خواب اندر که گوئی",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در خواب دیدم که گویی گلی با زیبایی بسیار وارد شد."
     },
     {
       "VOrder": 6,
@@ -219,7 +222,8 @@
       "Text": "دو ساغر در دو دستش صاف و نایاب",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: او دو جام در دستانش دارد، یکی پر از شیر و دیگری پر از نوشیدنی خوشمزه و مطلوب."
     },
     {
       "VOrder": 8,
@@ -235,7 +239,8 @@
       "Text": "سپرد آن ساغر جلاب پر جوش",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: او آن جام پر از شراب خوش را به من سپرد، زیرا من این نوشیدنی را به راحتی و با شعف نوشیدم."
     },
     {
       "VOrder": 10,
@@ -251,7 +256,8 @@
       "Text": "جوانی بود دیگر هم نشینش",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: جوانی بود که دیگر دوستش را سپرد و آن جام را به دست او داد."
     },
     {
       "VOrder": 12,
@@ -267,7 +273,8 @@
       "Text": "جوان چو ن شد به ساغر چاشنی گیر",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: جوان وقتی که هنوز به سن نوشیدن نمی‌رسد، اگر به هرچیزی که مناسب او نیست، تکیه کند، ممکن است دچار شکست و خطر شود و از آن شیرینی زندگی کاسته شود."
     },
     {
       "VOrder": 14,
@@ -283,7 +290,8 @@
       "Text": "کنون این خواب را تعبیر چبود",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: حالا این خواب را چگونه می‌توان تعبیر کرد، در حالی که در خواب، جلاب و شیر وجود دارد؟"
     },
     {
       "VOrder": 16,
@@ -299,7 +307,8 @@
       "Text": "بزرگ امید گفتش کز همه باب",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: امید بزرگ گفت که هیچ کس نمی‌تواند کسی مثل تو را در خواب ببیند، چون تو بیدار و هوشیار هستی."
     },
     {
       "VOrder": 18,
@@ -315,7 +324,8 @@
       "Text": "تو خوددانی که به زین خواب نبود",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: تو می‌دانی که هیچ لذتی به اندازه‌ی شیر خوشمزه و دلچسب نیست و این خواب و خیال‌ها ارزشی ندارند."
     },
     {
       "VOrder": 20,
@@ -331,7 +341,8 @@
       "Text": "چو آن جلاب شیرین کردی آشام",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: وقتی که طعم لذت‌بخش را تجربه کردی، به این خاطر از آن لذت می‌بری و در نهایت به طعم شیرین و خوشایند دیگری دست خواهی یافت."
     },
     {
       "VOrder": 22,
@@ -347,7 +358,8 @@
       "Text": "وزان شیری که ماند آن مرد ناشاد",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: مردی که از شیر دور مانده و ناراحت است، مانند فرهاد است که در دل تشنگی به جوی شیر چشم دوخته، ولی همچنان تشنه و ناامید باقی مانده است."
     },
     {
       "VOrder": 24,
@@ -363,7 +375,8 @@
       "Text": "ور افتاد آن جوان را ساغر از چنگ",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: اگر آن جوان ساغر را از دست بدهد، مانند کوه‌کن است که تیشه‌اش به سنگ نمی‌رسد."
     },
     {
       "VOrder": 26,
@@ -379,7 +392,8 @@
       "Text": "ملک گفت آری اندر خواب تأثیر",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: ملک گفت: بله، در خواب تأثیرهایی وجود دارد که می‌توان آن‌ها را با تعبیر درست شناخت."
     },
     {
       "VOrder": 28,

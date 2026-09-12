@@ -296,7 +296,8 @@
       "Text": "منم بلبل گلشن آشنایی",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: من مانند بلبل باغ آشنایی هستم که در غربت و دوری از محبوب گرفتار شده‌ام و در حسرت جدایی به سر می‌برم."
     },
     {
       "VOrder": 2,
@@ -312,7 +313,8 @@
       "Text": "نوایم همه نغمه بی نوایی",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: آوای من تنها نوایی از بی‌کسی است و ما در انتظار آزادی هستیم، اما ناامید به نظر می‌رسد."
     },
     {
       "VOrder": 4,
@@ -329,7 +331,8 @@
       "CoupletIndex": 2,
       "SectionIndex1": 0,
       "SectionIndex2": 15,
-      "SectionIndex3": 16
+      "SectionIndex3": 16,
+      "CoupletSummary": "هوش مصنوعی: عمر من چه مدت طولانی به نظر می‌رسد و همچنین چه سختی‌هایی را تحمل کرده‌ام، اما کارهایم چقدر بی‌پایه و ضعیف هستند."
     },
     {
       "VOrder": 6,
@@ -346,7 +349,8 @@
       "Text": "چو شمع از هوای بتان بی قرارم",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: مانند شمعی هستم که به خاطر زیبایی معشوقان بی‌قرارم، همیشه صبح زود بیدار و شب‌ها همچنین بیدار می‌مانم."
     },
     {
       "VOrder": 8,
@@ -362,7 +366,8 @@
       "Text": "سراسیمه حال و سیه روزگارم",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: دلم به شدت آشفته و روزگارم تیره و تار است. قلب و چشمانم پر از اشک است."
     },
     {
       "VOrder": 10,
@@ -379,7 +384,8 @@
       "CoupletIndex": 5,
       "SectionIndex1": 0,
       "SectionIndex2": 15,
-      "SectionIndex3": 17
+      "SectionIndex3": 17,
+      "CoupletSummary": "هوش مصنوعی: با دلی پر از درد و ناراحتی، در پی گفتگویی هستم که از سوز درونم پیداست و آرزوی روشنایی و روشنی در زندگی‌ام را دارم."
     },
     {
       "VOrder": 12,
@@ -396,7 +402,8 @@
       "Text": "گران آمده کار و بارم جهان را",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: کار و زندگی‌ام خیلی سنگین شده و وجودم در این دنیا کم‌ارزش به نظر می‌رسد. زمان هم به‌سختی می‌گذرد."
     },
     {
       "VOrder": 14,
@@ -412,7 +419,8 @@
       "Text": "ندیده وفا عهد من آسمان را",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: وفای عهد من را آسمان ندیده، در حالی که من خسته و ناتوانم."
     },
     {
       "VOrder": 16,
@@ -429,7 +437,8 @@
       "CoupletIndex": 8,
       "SectionIndex1": 0,
       "SectionIndex2": 15,
-      "SectionIndex3": 18
+      "SectionIndex3": 18,
+      "CoupletSummary": "هوش مصنوعی: آسمان با سرعت زیادی می‌چرخد و نشان‌دهنده‌ی ناپایداری و بی‌وفایی کسانی است که به راحتی عهد خود را می‌شکنند."
     },
     {
       "VOrder": 18,
@@ -446,7 +455,8 @@
       "Text": "جدا زان دو ابرو چه گویم که چونم",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: تقریباً به این معناست که به جز آن دو ابرو، نمی‌دانم چه بگویم، زیرا حال و روزم بسیار بد و ناامید کننده است و احساس ضعف و زبونی می‌کنم."
     },
     {
       "VOrder": 20,
@@ -462,7 +472,8 @@
       "Text": "چو ماه نو اندر شفق غرق خونم",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: زبان بی‌زبان من غرق در اندوه و تیره‌گی است، مانند ماه نو که در آسمان غروب به نظر می‌رسد، من هم با قامت خمیده و ناتوانی‌ام مانند نانی بی‌جان و بی‌روح هستم."
     },
     {
       "VOrder": 22,
@@ -479,7 +490,8 @@
       "CoupletIndex": 11,
       "SectionIndex1": 0,
       "SectionIndex2": 15,
-      "SectionIndex3": 19
+      "SectionIndex3": 19,
+      "CoupletSummary": "هوش مصنوعی: بدن من به نهایت ناتوانی رسیده و قدم‌هایم به کمال دوتایی راه یافته‌اند."
     },
     {
       "VOrder": 24,
@@ -496,7 +508,8 @@
       "Text": "ز بسیاری درد دارم شکایت",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: من از دردهای زیادی رنج می‌برم و شکایت من بیانگر آلامی است که فراتر از کلمات و شکایات من است."
     },
     {
       "VOrder": 26,
@@ -512,7 +525,8 @@
       "Text": "ندانسته او را کسی حد و غایت",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس جز نویسنده این سرزمین نمی‌تواند به درستی مرزها و ویژگی‌های او را بشناسد."
     },
     {
       "VOrder": 28,
@@ -529,7 +543,8 @@
       "CoupletIndex": 14,
       "SectionIndex1": 0,
       "SectionIndex2": 15,
-      "SectionIndex3": 20
+      "SectionIndex3": 20,
+      "CoupletSummary": "هوش مصنوعی: امور خیالی و شغل‌های ناشی از گمان، نمی‌توانند از زمان او گریزی داشته باشند."
     },
     {
       "VOrder": 30,
@@ -546,7 +561,8 @@
       "Text": "ملاذ امم زبده نسل آدم",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: پناهگاه ملت‌ها بهترین نسل آدمی است که ویژگی‌های خوب جهان را به آنها می‌دهد."
     },
     {
       "VOrder": 32,
@@ -562,7 +578,8 @@
       "Text": "همه جا بتوفیق و دانش مسلم",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: در هر جا با تلاش و دانش، موفقیت حاصل می‌شود و هر کجا که همت و اراده وجود داشته باشد، پیشرفت و کامیابی در پی آن خواهد بود."
     },
     {
       "VOrder": 34,
@@ -579,7 +596,8 @@
       "CoupletIndex": 17,
       "SectionIndex1": 0,
       "SectionIndex2": 15,
-      "SectionIndex3": 21
+      "SectionIndex3": 21,
+      "CoupletSummary": "هوش مصنوعی: این ابیات به مفهوم تلاش و مهارت در کارها اشاره دارد و بر اهمیت داشتن فکری روشن و درست تاکید می‌کند. در اینجا به درخشش و برتری در کارهای انجام شده اشاره شده و نشان می‌دهد که با داشتن ذکاوت و تدبیر، می‌توان به اوج موفقیت رسید."
     },
     {
       "VOrder": 36,
@@ -596,7 +614,8 @@
       "Text": "بتعظیم سرمایه سربلندی",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: با احترام به گذشته و ارزش‌های آن، می‌توان به موفقیت و ترقی دست یافت و هر چیزی که در زندگی وجود دارد را می‌توان بهبود بخشید و ارتقاء داد."
     },
     {
       "VOrder": 38,
@@ -612,7 +631,8 @@
       "Text": "نهم آسمان را دهم در بلندی",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: در این بیت، شاعر به عظمت و منزلت خاصی اشاره دارد که در بالاترین درجات و اوج بلندی قرار دارد. به نوعی نشان می‌دهد که در میان موجودات و افرادی که در بلندی و برتری هستند، او از همه‌ی آن‌ها باارزش‌تر و برجسته‌تر است."
     },
     {
       "VOrder": 40,
@@ -629,7 +649,8 @@
       "CoupletIndex": 20,
       "SectionIndex1": 0,
       "SectionIndex2": 15,
-      "SectionIndex3": 22
+      "SectionIndex3": 22,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی در مقام و منزلت او قرار بگیرد و از او دم بزند، به نوعی بی‌ادبی و بی‌احترامی کرده است."
     },
     {
       "VOrder": 42,
@@ -646,7 +667,8 @@
       "Text": "زهی پایمال ترا سرفرازی",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: چقدر مسرت‌بخش است که سرنوشت و وقایع زندگی با نظر و تصمیم تو در حال تغییر و حرکت هستند."
     },
     {
       "VOrder": 44,
@@ -662,7 +684,8 @@
       "Text": "تویی اعلم عالم کارسازی",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: تو برترین و با دانش‌ترین فردی، که با تیزبینی و اندیشه‌ات به قضاوت می‌پردازی و کارها را سامان می‌دهی."
     },
     {
       "VOrder": 46,
@@ -679,7 +702,8 @@
       "CoupletIndex": 23,
       "SectionIndex1": 0,
       "SectionIndex2": 15,
-      "SectionIndex3": 23
+      "SectionIndex3": 23,
+      "CoupletSummary": "هوش مصنوعی: این عبارت به این معناست که نقاشی که دستانش تاریک و خونی است، به همراه کسانی که نسبت به حقایق مقاومت و نافرمانی می‌کنند، مسیر خطا و نادرستی را طی می‌کند."
     },
     {
       "VOrder": 48,
@@ -696,7 +720,8 @@
       "Text": "شها در دلم نیست جز آرزویت",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در دل من هیچ‌چیز جز آرزوی تو وجود ندارد. تنها چیزی که دارم، علاقه و شوق عمیق به دیدن روی زیبای توست."
     },
     {
       "VOrder": 50,
@@ -712,7 +737,8 @@
       "Text": "مرا بود قبل از همه میل سویت",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: قبل از هر چیز، عشق و تمایل من به تو بود. اگر هم با شتاب بیشتری به سوی تو آمدم، به خاطر آن حس قوی در دلم بوده است."
     },
     {
       "VOrder": 52,
@@ -729,7 +755,8 @@
       "CoupletIndex": 26,
       "SectionIndex1": 0,
       "SectionIndex2": 15,
-      "SectionIndex3": 24
+      "SectionIndex3": 24,
+      "CoupletSummary": "هوش مصنوعی: ترک چنین خوشبختی دلیلی دارد، آن را به سستی و بی‌وفایی نسبت نده."
     },
     {
       "VOrder": 54,
@@ -746,7 +773,8 @@
       "Text": "ز من تا درت متصل بود زایر",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که من به در خانه‌ات متصل بودم، زائران و مسافران به خاطر شلوغی و ازدحام از هم جدا نمی‌شدند."
     },
     {
       "VOrder": 56,
@@ -762,7 +790,8 @@
       "Text": "چو شوق جمال تو غالب شد آخر",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: زمانی که شوق زیبایی تو بر من چیره شد، بالاخره قدم بر سر بزرگان گذاشتم."
     },
     {
       "VOrder": 58,
@@ -779,7 +808,8 @@
       "CoupletIndex": 29,
       "SectionIndex1": 0,
       "SectionIndex2": 15,
-      "SectionIndex3": 25
+      "SectionIndex3": 25,
+      "CoupletSummary": "هوش مصنوعی: با کمال ادب و احترام، درخشش و اهمیت تو را از آن فیض و رحمت بزرگ بدان که به ضرورت دل‌ها را به مسیر راست هدایت می‌کنی و با نشان دادن راه، آنها را به مقصد می‌رسانی."
     },
     {
       "VOrder": 60,
@@ -796,7 +826,8 @@
       "Text": "شها با تو بود اعتبار وجودم",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: ای تو، باعث اعتبار وجود من، من هر روز در سایه تو آرامش می‌گیرم."
     },
     {
       "VOrder": 62,
@@ -812,7 +843,8 @@
       "Text": "ز بیم فراق تو واقف نبودم",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: از ترس جدایی تو هیچ‌گاه خبر نداشتم، تا اینکه ناگهان چیزی شنیدم که مرا نگران کرد."
     },
     {
       "VOrder": 64,
@@ -829,7 +861,8 @@
       "CoupletIndex": 32,
       "SectionIndex1": 0,
       "SectionIndex2": 15,
-      "SectionIndex3": 26
+      "SectionIndex3": 26,
+      "CoupletSummary": "هوش مصنوعی: سایه‌ای که بر سر من افتاده، آرامش را از من می‌گیرد و از دل خسته‌ام می‌کاهد."
     },
     {
       "VOrder": 66,
@@ -846,7 +879,8 @@
       "Text": "خدایا بگو گر چنین عزم داری",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: ای پروردگار، بفرما اگر چنین نیتی داری، پس سرنوشت غریبان را به چه کسی می‌سپاری؟"
     },
     {
       "VOrder": 68,
@@ -862,7 +896,8 @@
       "Text": "کرا جای خود بهر جا می گذاری",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: هرکسی جای خود را دارد و باید در همان جا بماند. اگر تو نباشی، در دل من درهای شادی بسته می‌شود و غم را تجربه می‌کنم."
     },
     {
       "VOrder": 70,
@@ -879,7 +914,8 @@
       "CoupletIndex": 35,
       "SectionIndex1": 0,
       "SectionIndex2": 15,
-      "SectionIndex3": 27
+      "SectionIndex3": 27,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی از زندگی تو آگاه باشد و در امور تو دخالت کند، زندگی‌اش به همین اندازه است. پس بهتر است که در کنار کسانی زندگی کنی که هنوز زنده‌اند و برای تو اهمیت دارند."
     },
     {
       "VOrder": 72,
@@ -896,7 +932,8 @@
       "Text": "الهی بآگاهی ره روانت",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: خداوندا، با دانایی‌ات به من راهنمایی کن، تا این مسیر که در پیش دارم، به سلامتی طی شود."
     },
     {
       "VOrder": 74,
@@ -912,7 +949,8 @@
       "Text": "بفرقت چو افتد بحکم روانت",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: زمانی که از هم جدا شوی، با روح خودت نجوا کن و در این گفتگو، ویژگی‌های نیکو را برای مهمانت به یادآور."
     },
     {
       "VOrder": 76,
@@ -929,7 +967,8 @@
       "CoupletIndex": 38,
       "SectionIndex1": 0,
       "SectionIndex2": 15,
-      "SectionIndex3": 28
+      "SectionIndex3": 28,
+      "CoupletSummary": "هوش مصنوعی: همواره و به طور مداوم به او احسان و برکات بدهی و دائماً نسبت به او محبت و لطف داشته باشی."
     },
     {
       "VOrder": 78,

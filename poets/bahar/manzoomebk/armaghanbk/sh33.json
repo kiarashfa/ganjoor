@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "با مرد یاوه گوی راز خود آشکار مکن‌.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: با شخصی که حرف‌های بی‌اساس و بی‌معنا می‌زند، رازهایت را فاش نکن."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "مکن راز با مردم یاوه کوی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با دیگران درباره‌ی امور خصوصی‌ات صحبت نکن، زیرا ممکن است آن‌ها این راز را فاش کنند و به دیگران بگویند."
     },
     {
       "VOrder": 3,

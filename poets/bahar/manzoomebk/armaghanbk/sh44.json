@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "بخواسته چند که توان رادی کن‌.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چه ممکن است، آن را به انجام برسان."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "گرت‌ خواسته ‌هست‌ از آن ‌خواسته",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به دنبال چیزی هستی، برای دستیابی به آن باید خود را به گونه‌ای شایسته و با وقار نشان دهی."
     },
     {
       "VOrder": 3,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای دل چه حدیث ماجرا می‌جوئی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دل، چرا به دنبال روایت این ماجرا هستی؟ من با تو هستم و تو به دنبال چه کسی هستی؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "ور زانکه ندیده‌ای کرا می‌جوئی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر آن کسی را که نمی‌شناسی، جستجو می‌کنی، پس چرا به دنبال کسی هستی که قبلاً دیده‌ای و می‌شناسی؟"
     },
     {
       "VOrder": 4,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "برفت و برد دل و دینم آن بخارایی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن بخت برگشته که از بخارا رفته است، دل و دینم را با خود برد. حالا در حسرت او می‌مانم و نمی‌دانم چه باید بکنم. افسوس که او رفته و من تنها مانده‌ام."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "نه از ملامتِ مردم بلی ز غایتِ ضعف",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بدلیل ضعف و ناتوانی‌ام نه از انتقادات مردم می‌ترسم و نه قدرت رفتن و نه تحمل صبر را دارم."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "بسوختم چه کنم دم نمی‌توانم زد",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من می‌سوزم و چه می‌توانم بکنم، نمی‌توانم حتی صدایی از خود بزنم، زیرا توانایی ناله کردن ندارم."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "گرم امید نبودی به بازدیدن او",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر امیدی به دیدن او نداشتم، از ابتدا به این دو دیدار شیرین هم فکر نمی‌کردم."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "همان به است که بی‌نام و ننگ بر عقبش",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بهتر است که بی‌اسم و شهرت به سفر برویم، مانند افرادی که در جوش و خروش عشق هستند."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "به اتّفاق من ای دوستان به روز آرید",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوستان، به یاری هم، روزی را به وجود آورید که در آن شب، من از تنهایی بیشتر عاشق و شیفته می‌شوم."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "پدر طبیب بیاورد تا مطالعه کرد",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پدر پزشک را آورد تا دلیل عشق و نشانه‌های دیوانگی را بررسی کند."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "پس از شرایطِ رنگ و دلیلِ نبض و مزاج",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بعد از بررسی علائم و ویژگی‌های جسمی، پزشک گفت که دیگر از این پسر ناامید نباش."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "به دردِ عشق چنان مبتلا شده‌ست که نیست",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او به شدت درگیر درد عشق شده است که دیگر امیدی به رهایی از آن با دانایی و آگاهی ندارد."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "چو این سخن بشنید از طبیب گفت پدر",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی پدر این حرف را از پزشک شنید، گفت: \u0022ای پسر، تو دیگر به خودت بیا و توجه کن!\u0022"
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "نزاریا مکن آشفتگی نمی‌گویم",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آشفتگی نکن، من نمی‌خواهم بگویم که بداندیشی، اما وقتی که با خودت در صلح نیستی، چرا به من نزدیک می‌شوی؟"
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "چو هر که بر تو گذر کرد دل بدو دادی",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کس که از کنار تو گذشت و تو به او محبت کردی، دیگر به کسی دل ندهی بهتر است که چشم‌های خود را بر روی دیگران ببندی."
     },
     {
       "VOrder": 24,

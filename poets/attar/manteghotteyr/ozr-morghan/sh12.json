@@ -291,7 +291,8 @@
       "Text": "چون بمرد آن مرد مفسد در گناه",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: هنگامی که آن مرد فاسد از دنیا رفت، گفتند تابوتش را به سمت راه می‌برند."
     },
     {
       "VOrder": 2,
@@ -307,7 +308,8 @@
       "Text": "چون بدید آن زاهدی، کرد احتراز",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: وقتی زاهد آن را دید، از نزدیک شدن خودداری کرد، زیرا نباید در برابر فاسد، نماز خواند."
     },
     {
       "VOrder": 4,
@@ -323,7 +325,8 @@
       "Text": "در شب آن زاهد مگر دیدش به خواب",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در شب، آن زاهد آیا او را در خواب دید که در بهشت است و چهره‌اش همچون خورشید می‌درخشد؟"
     },
     {
       "VOrder": 6,
@@ -339,7 +342,8 @@
       "Text": "مرد زاهد گفتش آخر ای غلام",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: زاهد به غلام گفت: ای پسر، این مقام بلند و عالی را از کجا به دست آوردی؟"
     },
     {
       "VOrder": 8,
@@ -355,7 +359,8 @@
       "Text": "در گنه بودی تو تا بودی همه",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: وقتی در گناه بودی، همه چیز به پای تو بود، اما با جدایی و دوری، همه‌چیز را از دست دادی."
     },
     {
       "VOrder": 10,
@@ -371,7 +376,8 @@
       "Text": "گفت از بی‌رحمی تو کردگار",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: گفت خداوند به خاطر بی‌رحمی تو، بر من که در مشکلات و آشفتگی هستم، رحمت فرستاده است."
     },
     {
       "VOrder": 12,
@@ -387,7 +393,8 @@
       "Text": "عشق بازی بین که حکمت می‌کند",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: عشق و محبت میان انسان‌ها به گونه‌ای است که شخصی که به این احساسات می‌پردازد، نه تنها به خوبی رفتار می‌کند بلکه با رحمت و مهربانی نیز دریافتی از آن دارد."
     },
     {
       "VOrder": 14,
@@ -403,7 +410,8 @@
       "Text": "حکمت او در شبی چون پر زاغ",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در ظلمت شب، او به مانند پرنده‌ای زاغ، کودکی را با چراغی به سوی روشنایی می‌فرستد."
     },
     {
       "VOrder": 16,
@@ -419,7 +427,8 @@
       "Text": "بعد از آن بادی فرستد تیزرو",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: بعد از آن وزش بادی تند خواهد بود که به تو می‌گوید که چراغت را خاموش کن و از اینجا برو."
     },
     {
       "VOrder": 18,
@@ -435,7 +444,8 @@
       "Text": "پس بگیرد طفل را در ره گذر",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: پس بهتر است که کودک را در مسیر درک کنی؛ بپرس که چه چیزی او را به این وضعیت کشانده است، ای کسی که بی‌خبر هستی."
     },
     {
       "VOrder": 20,
@@ -451,7 +461,8 @@
       "Text": "زان بگیرد طفل را تا در حساب",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: از آنجا که کودک هنوز در حال یادگیری و درک مسائل است، به او کمک می‌شود تا بتواند حساب کند و با مهربانی و توجه، به او نکاتی را یادآور می‌شوند."
     },
     {
       "VOrder": 22,
@@ -467,7 +478,8 @@
       "Text": "گر همه کس جز نمازی نیستی",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: اگر همه دنیا جز نمازی نباشد، حکمت آن عشق بازی نیست."
     },
     {
       "VOrder": 24,
@@ -483,7 +495,8 @@
       "Text": "کار حکمت جز چنین نبود تمام",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: کار حکمت همیشه به همین شکل است؛ از این رو، از ابتدا این وضعیت به همان روش ادامه پیدا کرده است."
     },
     {
       "VOrder": 26,
@@ -499,7 +512,8 @@
       "Text": "در ره او صد هزاران حکمتست",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: در مسیر او، هزاران نکتهٔ حکمت‌آمیز وجود دارد و هر قطره‌ای از رحمت او، مانند دریایی وسیع و گسترده است."
     },
     {
       "VOrder": 28,
@@ -515,7 +529,8 @@
       "Text": "روز و شب این هفت پرگار ای پسر",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: پسرم، شب و روز این هفت پرگار به خاطر تو و به منظور توست."
     },
     {
       "VOrder": 30,
@@ -531,7 +546,8 @@
       "Text": "طاعت روحانیون از بهر تست",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: پیروزی و پیروی کردن از روحانیون به خاطر دارایی‌های بهشتی و عذاب‌های جهنمی است که حاصل لطف و غضب توست."
     },
     {
       "VOrder": 32,
@@ -547,7 +563,8 @@
       "Text": "قدسیان جمله سجودت کرده‌اند",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: فرشتگان همه به تو اظهار ارادت کرده و در عظمت وجودت غرق شده‌اند."
     },
     {
       "VOrder": 34,
@@ -563,7 +580,8 @@
       "Text": "از حقارت سوی خود منگر بسی",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: به خودت نگر نباش که نسبت به دیگران حقیر هستی، زیرا هیچ کس نمی‌تواند بیشتر از تو باشد."
     },
     {
       "VOrder": 36,
@@ -579,7 +597,8 @@
       "Text": "جسم تو جزوست و جانت کل کل",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: بدن تو بخشی از وجود توست، و روح تو همه‌ی وجود تو را تشکیل می‌دهد. خود را در حالتی ناتوان قرار نده، حتی اگر به زحمت دچار ذلت شوی."
     },
     {
       "VOrder": 38,
@@ -595,7 +614,8 @@
       "Text": "کل تو درتافت جزوت شد پدید",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: تمامی وجود تو در نور ظهور کرد و جان تو به خوشی در حرکت آمد، اعضا و جوارح تو نیز به روشنایی درآمدند."
     },
     {
       "VOrder": 40,
@@ -611,7 +631,8 @@
       "Text": "نیست تن از جان جدا ، جزوی ازوست",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: تن انسان از جان جدا نیست و هر دو به هم پیوسته‌اند. همچنین جان انسان نیز از کل وجود جدا نیست و جزئی از آن به حساب می‌آید."
     },
     {
       "VOrder": 42,
@@ -627,7 +648,8 @@
       "Text": "چون عدد نبود درین راه و احد",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: در این راه، هیچ عددی وجود ندارد که واحد یا جزء و کلی را مشخص کند، زیرا گفتی که این حالت تا ابد باقی نخواهد ماند."
     },
     {
       "VOrder": 44,
@@ -643,7 +665,8 @@
       "Text": "صد هزاران ابر رحمت فوق تو",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: بارش بی‌وقفه‌ی رحمت و نعمت، تو را سرشار از شوق و انگیزه می‌کند."
     },
     {
       "VOrder": 46,
@@ -659,7 +682,8 @@
       "Text": "چون درآید وقت رفعتهای کل",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: زمانی که زمان بالا رفتن مقام‌ها فرارسد، تمام این مقام‌ها برای تو فراهم می‌شود."
     },
     {
       "VOrder": 48,
@@ -675,7 +699,8 @@
       "Text": "هرچ چندانی ملایک کرده‌اند",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: هرچند که فرشتگان برای تو تلاش و کوشش کرده‌اند، اما این همه کارها به خاطر تو نبوده است."
     },
     {
       "VOrder": 50,
@@ -691,7 +716,8 @@
       "Text": "جملهٔ طاعات ایشان، کردگار",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: تمامی عبادت‌ها و اعمال نیک آن‌ها، از سوی خداوند برای تو به‌طور دائمی و ماندگار پاداش خواهد داشت."
     },
     {
       "VOrder": 52,

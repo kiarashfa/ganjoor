@@ -541,7 +541,8 @@
       "Text": "چو رستم بدر شد ز پرده‌سرای",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: زمانی که رستم از کاخ بیرون رفت، مدتی به ایستادن در درگاه کاخ مشغول بود."
     },
     {
       "VOrder": 2,
@@ -557,7 +558,8 @@
       "Text": "به کریاس گفت ای سرای امید",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: ای کریاس، تو سرای امید هستی! خوشا روزی که در تو، جمشید (پادشاه افسانه‌ای ایران) وجود داشت و روزگار خوبی داشتیم."
     },
     {
       "VOrder": 4,
@@ -573,7 +575,8 @@
       "Text": "همایون بدی گاه کاوس کی",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در یک روز خاص، کسی از خانواده‌ی کاوس که در زمان خود از شخصیت‌های برجسته و خوب بود، به دنیا آمد. این شخص همان کیخسرو است که به عنوان فردی نیکوکار و بافضیلت شناخته می‌شود."
     },
     {
       "VOrder": 6,
@@ -589,7 +592,8 @@
       "Text": "در فرهی بر تو اکنون ببست",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: در حال حاضر، سختی‌هایی بر تو وارد شده است که باعث شده دشنامی به سمت تو بیاید."
     },
     {
       "VOrder": 8,
@@ -605,7 +609,8 @@
       "Text": "شنید این سخنها یل اسفندیار",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: اسفندیار، قهرمان و شخصیت برجسته داستان، با شنیدن این سخنان، به آرامی و با احتیاط نزد افراد مشهور و معروف می‌آید."
     },
     {
       "VOrder": 10,
@@ -621,7 +626,8 @@
       "Text": "به رستم چنین گفت کای سرگرای",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: به رستم گفتند: ای کسی که مشغول کاری، چرا ناگهان به این سرعت وارد شدی؟"
     },
     {
       "VOrder": 12,
@@ -637,7 +643,8 @@
       "Text": "سزد گر برین بوم زابلستان",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: اگر در سرزمین زابلستان، دانش و علم گسترش یابد، به راستی شایسته است که این نام را غلغلستان بگذارند."
     },
     {
       "VOrder": 14,
@@ -653,7 +660,8 @@
       "Text": "که مهمان چو سیر آید از میزبان",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: وقتی مهمان پس از سیر شدن از دست میزبان به خانه برمی‌گردد، معمولاً بد نیست که نام کسی که از او پذیرایی کرده را به زبان نیاورد."
     },
     {
       "VOrder": 16,
@@ -669,7 +677,8 @@
       "Text": "سراپرده را گفت بد روزگار",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: سرپرده به روزگار گفت که تو زمانی جمشید را در کنار خود داشتی."
     },
     {
       "VOrder": 18,
@@ -685,7 +694,8 @@
       "Text": "همان روز کز بهر کاوس شاه",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: در همان روزی که به خاطر کاوس شاه، پرده و سایه قصر بر پا شد."
     },
     {
       "VOrder": 20,
@@ -701,7 +711,8 @@
       "Text": "کجا راه یزدان همی بازجست",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: کجا می‌توان راه خدا را یافت و جستجو کرد؟ همان‌طور که تو به دنبال حقیقت ستاره‌ها هستی."
     },
     {
       "VOrder": 22,
@@ -717,7 +728,8 @@
       "Text": "زمین زو سراسر پرآشوب بود",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: زمین به شدت در آشوب و هرج و مرج بود و پر از جنگ و ناامنی، جایی که سلاح‌ها و بزهکاری‌ها حاکم بودند."
     },
     {
       "VOrder": 24,
@@ -733,7 +745,8 @@
       "Text": "کنون مایه‌دار تو گشتاسپ است",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: اکنون ثروت و دارایی تو به گشتاسپ تعلق دارد و در برابر او مانند جاماسپ است."
     },
     {
       "VOrder": 26,
@@ -749,7 +762,8 @@
       "Text": "نشسته به یک دست او زردهشت",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: در این بیت، سخن از کسی است که در کنار محبوبش نشسته و آن محبوب مانند زرد هشت است، یعنی بسیار زیبا و دلربا. همچنین اشاره به این دارد که این محبوب با زندان و دشواری‌ها نیز آمده است، به طوری که او از بهشت نازل شده و به سوی او آمده است. عشق و زیبایی محبوب در این توصیف به خوبی قابل مشاهده است."
     },
     {
       "VOrder": 28,
@@ -765,7 +779,8 @@
       "Text": "به دیگر پشوتن گو نیک مرد",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: به دیگر پشوتن بگو که مرد نیکوکاری است که فراز و نشیب‌های زندگی را تجربه کرده و از سختی‌ها و راحتی‌های دنیا کرده است."
     },
     {
       "VOrder": 30,
@@ -781,7 +796,8 @@
       "Text": "به پیش اندرون فرخ اسفندیار",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: در جلوی اسفندیار خوشبخت، که به خاطر او روزگار به نیکویی سپری می‌شود."
     },
     {
       "VOrder": 32,
@@ -797,7 +813,8 @@
       "Text": "دل نیک‌مردان بدو زنده شد",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: دل خوبان به او جان گرفت و از ترس شمشیرش، بدکاران بندگی او را پذیرفتند."
     },
     {
       "VOrder": 34,
@@ -813,7 +830,8 @@
       "Text": "بیامد بدر پهلوان سوار",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: یک سوار پهلوان به میدان آمده و اسفندیار را در آنجا مشاهده می‌کند."
     },
     {
       "VOrder": 36,
@@ -829,7 +847,8 @@
       "Text": "چو برگشت ازو با پشوتن بگفت",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: وقتی او به پشوتن برگشت، گفت که انسان باید شجاعت و مردانگی خود را پنهان نکند."
     },
     {
       "VOrder": 38,
@@ -845,7 +864,8 @@
       "Text": "ندیدم بدین گونه اسپ و سوار",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: من چنین سوار و اسب محشری را ندیده‌ام و نمی‌دانم که چگونه از میدان نبرد بیرون می‌آید."
     },
     {
       "VOrder": 40,
@@ -861,7 +881,8 @@
       "Text": "یکی ژنده پیل است بر کوه گنگ",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: یک فیل کهنه و پاره‌پاره بر کوه گنگ نشسته است، اگر با سلاح به جنگ وارد شود، می‌تواند خطرناک باشد."
     },
     {
       "VOrder": 42,
@@ -877,7 +898,8 @@
       "Text": "اگر با سلیح نبردی بود",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: اگر نبردی بدون ابزار و سلاح باشد، حقیقتاً این به معنای واقعی مردانگی و جوانمردی است."
     },
     {
       "VOrder": 44,
@@ -893,7 +915,8 @@
       "Text": "به بالا همی بگذرد فر و زیب",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد که در حال حاضر در اوج و موفقیت قرار دارم، ولی از آینده نگرانم که ممکن است به پایین‌تر بروم و وضعیت خوبی نداشته باشم."
     },
     {
       "VOrder": 46,
@@ -909,7 +932,8 @@
       "Text": "همی سوزد از مهر فرش دلم",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: دل من به خاطر عشق در حال سوختن است و به من این احساس را داده است که نمی‌توانم از محبت به خداوند دست بکشم."
     },
     {
       "VOrder": 48,
@@ -925,7 +949,8 @@
       "Text": "چو فردا بیاید به آوردگاه",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: وقتی فردا فرا برسد و به میدان بیفتم، روز روشن را به رو در برابر تاریکی قرار می‌دهم."
     },
     {
       "VOrder": 50,
@@ -941,7 +966,8 @@
       "Text": "پشوتن بدو گفت بشنو سخن",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: پشوتن به او گفت: \u0022گوش کن به سخنان من، برادر، که می‌خواهم چیزی برایت بگویم. آنها را نادیده نگیر.\u0022"
     },
     {
       "VOrder": 52,
@@ -957,7 +983,8 @@
       "Text": "ترا گفتم و بیش گویم همی",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: من به تو گفتم و بیشتر از این هم می‌گویم که از صمیم قلب آرزو دارم دل ما شاد شود."
     },
     {
       "VOrder": 54,
@@ -973,7 +1000,8 @@
       "Text": "میازار کس را که آزاد مرد",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: به هیچ کس آزار نرسان و او را زحمت نده که انسان‌های آزاده از آزار و درد دیگران دوری می‌کنند."
     },
     {
       "VOrder": 56,
@@ -989,7 +1017,8 @@
       "Text": "بخسب امشب و بامداد پگاه",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: امشب بخواب و صبح زود به سوی او برو، حتی بدون داشتن سپاهی برای حمایت."
     },
     {
       "VOrder": 58,
@@ -1005,7 +1034,8 @@
       "Text": "بایوان او روز فرخ کنیم",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: در روز خوشی و جشن در کنار او خواهیم بود و به هر چیزی که بگویند، پاسخ خواهیم داد."
     },
     {
       "VOrder": 60,
@@ -1021,7 +1051,8 @@
       "Text": "همه کار نیکوست زو در جهان",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: تمام کارهای خوب در دنیا میان افراد بزرگ و محترم است."
     },
     {
       "VOrder": 62,
@@ -1037,7 +1068,8 @@
       "Text": "همی سر نپیچد ز فرمان تو",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: دل او هرگز از فرمان تو سرپیچی نمی‌کند و من این را به وضوح در تعهدش نسبت به تو می‌بینم."
     },
     {
       "VOrder": 64,
@@ -1053,7 +1085,8 @@
       "Text": "تو با او چه گویی به کین و به خشم",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: با او چه می‌گویی؟ به خاطر کینه و خشم، باید از دل کینه‌ات را پاک کنی و از چشمانت خشم را دور کنی."
     },
     {
       "VOrder": 66,
@@ -1069,7 +1102,8 @@
       "Text": "یکی پاسخ آوردش اسفندیار",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: یکی از کسانی که به اسفندیار پاسخ داد، گفت که در حاشیهٔ گلستان، خار وجود دارد."
     },
     {
       "VOrder": 68,
@@ -1085,7 +1119,8 @@
       "Text": "چنین گفت کز مردم پاک‌دین",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: او گفت که شایسته نیست از کسانی که دارای ایمان و دیانت پاک هستند، چنین سخنانی گفته شود."
     },
     {
       "VOrder": 70,
@@ -1101,7 +1136,8 @@
       "Text": "گر ایدونک دستور ایران توی",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: اگر این گونه باشد که تو در دل و گوش و چشم دلیران ایران را آموزش داده‌ای."
     },
     {
       "VOrder": 72,
@@ -1117,7 +1153,8 @@
       "Text": "همی خوب داری چنین راه را",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: تو به خوبی می‌دانی که در این راه، باید با عقل و خرد پیش بروی و از آزار دادن پادشاه پرهیز کنی."
     },
     {
       "VOrder": 74,
@@ -1133,7 +1170,8 @@
       "Text": "همه رنج و تیمار ما باد گشت",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: تمام درد و رنجی که ما کشیدیم از زمان‌ها به خاطر بی‌عدالتی‌هایی است که در دین زردشت به وجود آمده است."
     },
     {
       "VOrder": 76,
@@ -1149,7 +1187,8 @@
       "Text": "که گوید که هر کو ز فرمان شاه",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: هر کس که از دستورات شاه سرپیچی کند، جایگاهش در دوزخ خواهد بود."
     },
     {
       "VOrder": 78,
@@ -1165,7 +1204,8 @@
       "Text": "مرا چند گویی گنهکار شو",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: هرگز سعی نکن مرا به گناهکار بودن متهم کنی و از سخنان گشتاسپ فاصله بگیر."
     },
     {
       "VOrder": 80,
@@ -1181,7 +1221,8 @@
       "Text": "تو گویی و من خود چنین کی کنم",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: تو می‌گویی و من نمی‌دانم چگونه می‌توانم از نظر و دستورات او تبعیت کنم."
     },
     {
       "VOrder": 82,
@@ -1197,7 +1238,8 @@
       "Text": "گر ایدونک ترسی همی از تنم",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: اگر به راستی از جسم خود ترس داری، امروز من ترس تو را از بین می‌برم."
     },
     {
       "VOrder": 84,
@@ -1213,7 +1255,8 @@
       "Text": "کسی بی‌زمانه به گیتی نمرد",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: کسی که در زمان خودش اثرگذار و بزرگ باشد، هرگز در این دنیا نمی‌میرد و نام او همیشه زنده است."
     },
     {
       "VOrder": 86,
@@ -1229,7 +1272,8 @@
       "Text": "تو فردا ببینی که بر دشت جنگ",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: فردا که دشت جنگ را ببینی، متوجه خواهی شد چه اقداماتی برای مقابله با دشمن قوی انجام می‌دهم."
     },
     {
       "VOrder": 88,
@@ -1245,7 +1289,8 @@
       "Text": "پشوتن بدو گفت کای نامدار",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: پشوتن به او گفت: ای انسان مطرح، چرا این قدر درباره میدان جنگ صحبت می‌کنی؟"
     },
     {
       "VOrder": 90,
@@ -1261,7 +1306,8 @@
       "Text": "که تا تو رسیدی به تیر و کمان",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: زمانی که تو به قدرت تیر و کمان رسیدی، ابلیس هرگز به تو گمان بد نخواهد برد."
     },
     {
       "VOrder": 92,
@@ -1277,7 +1323,8 @@
       "Text": "به دل دیو را راه دادی کنون",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: دلت را به دیو سپردی و حالا دیگر نصیحت این راهنما را نمی‌شنوی."
     },
     {
       "VOrder": 94,
@@ -1293,7 +1340,8 @@
       "Text": "دلت خیره بینم همی پر ستیز",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: من می‌بینم که دل تو در درگیری است و اکنون هرچه گفتم، به ضربه‌های کوچک و پراکنده تبدیل می‌شود."
     },
     {
       "VOrder": 96,
@@ -1309,7 +1357,8 @@
       "Text": "چگونه کنم ترس را از دلم",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: چطور می‌توانم ترس را از دلم دور کنم تا از افکار و نگرانی‌ها خلاص شوم؟"
     },
     {
       "VOrder": 98,
@@ -1325,7 +1374,8 @@
       "Text": "دو جنگی دو شیر و دو مرد دلیر",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: دو جنگجوی دلیر مانند دو شیر به نبرد مشغول‌اند و نمی‌دانم کدام یک از آن‌ها خواهد باخت و زیر فشار و سختی قرار می‌گیرد."
     },
     {
       "VOrder": 100,
@@ -1341,7 +1391,8 @@
       "Text": "ورا نامور هیچ پاسخ نداد",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: او هیچ پاسخی به او نداد، و دلش پر از درد و بی‌قراری شد."
     },
     {
       "VOrder": 102,

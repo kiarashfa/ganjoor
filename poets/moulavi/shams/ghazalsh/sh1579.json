@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ما آب دریم ما چه دانیم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما در حال نوشیدن آب هستیم و نمی‌دانیم که این آب چه طعمی دارد یا چه احساسی به ما می‌دهد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "هر دم ز شراب بی‌نشانی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما در هر لحظه از شراب بی‌نشانی سرمست و مست هستیم و نمی‌دانیم که چه چیزی بر ما گذشته است."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "تا گوهر حسن تو بدیدیم",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی زیبایی تو را دیدیم، چهره‌ای چون گل سرخ پیدا کردیم و حالا ما چه می‌دانیم!"
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "تا عشق تو پای ما گرفته‌ست",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی عشق تو ما را به زنجیر کشیده، ما نه پا داریم و نه سر. در حقیقت، ما از حال خود بی‌خبر هستیم."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "خشک و تر ما همه توی تو",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما همه در تو جمع شده‌ایم، چه خشک و چه تر، و خوشا به حال ما که این وضعیت را نمی‌دانیم."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "سرحلقه زلف تو گرفتیم",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما در گوشه‌ای از زیبایی‌های زلف تو غرق شده‌ایم و در شادی به سر می‌بریم، ولی حقیقت آن است که ما از عمق این احساسات و زیبایی‌ها بی‌خبریم."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "گر زیر و زبر شود دو عالم",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دو جهان به هم بریزد و دستخوش تغییر شوند، ما چه می‌دانیم؟"
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "گر سبزه و باغ خشک گردد",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر سبزه و باغ خشک شود، ما از تو جدا نمی‌شویم و از تو بی‌خبر نیستیم. ما چه می‌دانیم که چه بر سر ما می‌آید."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "گلزار اگر همه بریزد",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر همه گل‌ها در باغ بپاشند و از بین بروند، ما چه می‌دانیم و چه احساسی خواهیم داشت؟"
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "گر چرخ هزار مه نماید",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر هزار زیبایی نیز در دنیای گردون باشد، ما فقط به تو نگاه می‌کنیم و نمی‌دانیم آن زیبایی‌ها چیست."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "گر زانک شکر جهان بگیرد",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دنیا به خاطر شیرینی‌اش تسخیر شود، ما شراب می‌نوشیم و ما چه می‌دانیم؟"
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "شمس تبریز ز آفتابت",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شمس تبریز مانند خورشیدی است که ما مانند مگس‌ها نمی‌دانیم چه خبرهایی از او داریم."
     },
     {
       "VOrder": 24,

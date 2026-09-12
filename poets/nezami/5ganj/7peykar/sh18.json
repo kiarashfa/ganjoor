@@ -311,7 +311,8 @@
       "Text": "بامدادان که صبح زرین تاج",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "بامدادان که صبح، کرسی خود را از طلا و تخت شاهی خود را از عاج برپا کرد."
     },
     {
       "VOrder": 2,
@@ -327,7 +328,8 @@
       "Text": "کار‌دار‌ان و کار‌فرمایان",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "افراد فعال دانا و مدیر، که هم از لحاظ قدرت جسمی و هم از نظر هوش و تدبیر، توانمند بودند.\u00A0"
     },
     {
       "VOrder": 4,
@@ -343,7 +345,8 @@
       "Text": "از عرب تا عجم سوار شدند",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "از عرب گرفته تا عجم، به‌راه افتادند و به‌سوی شیران جنگی رفتند."
     },
     {
       "VOrder": 6,
@@ -359,7 +362,8 @@
       "Text": "شیردار‌ان دو شیر مردم‌خوار",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "شیرداران دو شیر آدم‌خوار را رها کردند برای مقصود مورد نظر"
     },
     {
       "VOrder": 8,
@@ -375,7 +379,8 @@
       "Text": "شیر با شیر درهم افکندند",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: شیرها در نبردی سخت و پرشور، کار را به جایی می‌رسانند که قبر بهرام گور را ایجاد می‌کنند."
     },
     {
       "VOrder": 10,
@@ -391,7 +396,8 @@
       "Text": "شیر‌دار‌ی از‌آن میانه دلیر",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: شیر دلاوری از میان شیرها، تاجی را بر سر گذاشت و خود را برتری نشان داد."
     },
     {
       "VOrder": 12,
@@ -407,7 +413,8 @@
       "Text": "تاج زر در میان شیر سیاه",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: یک تاج زرین در وسط یک شیر سیاه مانند این است که دو اژدها به جان هم افتاده باشند و بر سر یک ماه نزاع کنند."
     },
     {
       "VOrder": 14,
@@ -423,7 +430,8 @@
       "Text": "مه به آواز تشت رسته ز میغ",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: ماه در سحرگاه با صدای طنین دل‌انگیزی از سبدی خارج شده است، نه به خاطر اینکه خالی باشد، بلکه به خاطر وجود زیبایی و جذابیتی که دارد."
     },
     {
       "VOrder": 16,
@@ -439,7 +447,8 @@
       "Text": "می‌زدند آن دو شیر کینه سگال",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "دنبال‌: دُم‌."
     },
     {
       "VOrder": 18,
@@ -455,7 +464,8 @@
       "Text": "یعنی این تاج زر ز ما که برَد",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که ما این تاج زرین را به دست آورده‌ایم و از خطراتی که می‌تواند آن را تهدید کند، مانند حملات شیر و اژدها، محافظت خواهیم کرد. در واقع، تأکید بر حفاظت از آن و ارزشمندی‌اش دارد."
     },
     {
       "VOrder": 20,
@@ -471,7 +481,8 @@
       "Text": "آگهی‌شان نه ز آهنین جگر‌ی",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "شکر در این بیت مخفف شکار است."
     },
     {
       "VOrder": 22,
@@ -487,7 +498,8 @@
       "Text": "گرد بر گرد آن دو شیر عظیم",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: دور آن دو شیر بزرگ، هیچ‌کس جرات نکرد به آن‌ها نزدیک شود به خاطر ترس."
     },
     {
       "VOrder": 24,
@@ -503,7 +515,8 @@
       "Text": "فتوی آن شد که شیر‌دل بهرام",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: حکم این بود که دلیر بهرام باید در آغاز به سمت شیران حرکت کند."
     },
     {
       "VOrder": 26,
@@ -519,7 +532,8 @@
       "Text": "گر ستاند ز شیر تاج اوراست",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: اگر شیر تاجش را بگیرند، او همچنان دارای جام زرین و تخت عاج خواهد بود."
     },
     {
       "VOrder": 28,
@@ -535,7 +549,8 @@
       "Text": "ورنه از تخت رای بردارد",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "رای بردارد: چشم برگیرد، صرف‌نظر کند."
     },
     {
       "VOrder": 30,
@@ -551,7 +566,8 @@
       "Text": "شاه بهرام ازین قرار نگشت",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "تَنیزه دشت‌: کنارهٔ دشت‌."
     },
     {
       "VOrder": 32,
@@ -567,7 +583,8 @@
       "Text": "در در و دشت هیچ پشته نبود",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: در هیچ کجا، نه در جنگل و نه در دشت، هیچ تپه‌ای وجود ندارد که یک شیر کشته بر روی آن نباشد."
     },
     {
       "VOrder": 34,
@@ -583,7 +600,8 @@
       "Text": "سر صد شیر کنده بود ز یال",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: در اینجا به جوانی اشاره می‌شود که در اوج قدرت و شجاعت خود قرار دارد، مانند شیری که سرش را از یالش جدا کرده‌اند. او هنوز جوان است و تنها بیست و دو سال دارد، اما به نظر می‌رسد که در زندگی‌اش تجربه‌ها و چالش‌های زیادی را پشت سر گذاشته است."
     },
     {
       "VOrder": 36,
@@ -599,7 +617,8 @@
       "Text": "آنکه صد شیر ازو زبون باشد",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "آن‌کسی که صد شیر را زبون کند و شکست دهد، چطور از دو شیر شکست می‌خورد؟"
     },
     {
       "VOrder": 38,
@@ -615,7 +634,8 @@
       "Text": "در کمر چست کرد عطف قبا",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "مصرع اول‌: لبهٔ جامه‌اش را در کمر (کمربند) کرد (و آماده نبرد شد)"
     },
     {
       "VOrder": 40,
@@ -631,7 +651,8 @@
       "Text": "بانگ بر زد به تند شیران زود",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "بر آن شیران خشمگین فریاد زد و از میان آن دو شیر‌، تاج را برگرفت."
     },
     {
       "VOrder": 42,
@@ -647,7 +668,8 @@
       "Text": "چونکه شیران دلیریش دیدند",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "وقتی که شیران شجاعت او را دیدند و نیز زور و برتری او را دیدند."
     },
     {
       "VOrder": 44,
@@ -663,7 +685,8 @@
       "Text": "حمله بردند چون تنومند‌ان",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "مانند پهلوانان به او حمله‌ور شدند با چنگ‌های همچون خنجر و دندان‌های همچون شمشیر."
     },
     {
       "VOrder": 46,
@@ -679,7 +702,8 @@
       "Text": "تا سر تاجور به چنگ آرند",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: تا وقتی که سر تاجور را به دست می‌آورند، بر جهان‌گیر کار را سخت و دشوار می‌کنند."
     },
     {
       "VOrder": 48,
@@ -695,7 +719,8 @@
       "Text": "شه به تادیبشان چو رای افکند",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: پادشاه برای تنبیه آن‌ها که تصمیم گرفت، هر دو را به زیر پا انداخت."
     },
     {
       "VOrder": 50,
@@ -711,7 +736,8 @@
       "Text": "پنجه‌شان پاره کرد و دندان خرد",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: او با قدرت و شجاعت خود به مبارزه می‌پردازد و از میان رقبا و دشمنان برتری می‌یابد، به‌طوری که هیچ کس نمی‌تواند مقابلش ایستاده و از او جلوگیری کند."
     },
     {
       "VOrder": 52,
@@ -727,7 +753,8 @@
       "Text": "تاج بر سر نهاد و شد بر تخت",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "تاج بر سر نهاد و بر تخت شاهی نشست؛ بخت و اقبال‌، آدمی را اینچنین یاوری می‌کند."
     },
     {
       "VOrder": 54,
@@ -743,7 +770,8 @@
       "Text": "بردن تاجش از میان دو شیر",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "وقتی که تاج را از میان شیران ربود روبهان عقب نشستند و از تخت به‌زیر آمدند و دیگر ادعایی نداشتند."
     },
     {
       "VOrder": 56,

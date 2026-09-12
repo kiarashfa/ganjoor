@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "بیماری خود دوش نمودم به طبیب",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوش به پزشک مراجعه کردم و به او گفتم که این درد من نتیجه دوری از محبوب است."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "گفتم که علاج آن چه باشد گفتا",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفتم راه درمان این موضوع چیست؟ او پاسخ داد: یا باید به وصال محبوبت برسی یا از رنج و عذاب رقیبت رهایی یابی."
     },
     {
       "VOrder": 4,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گه می خوانی مرا و گه می رانی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاهی مرا فرا می‌خوانی و گاهی نیز طرد می‌کنی، این رفتار تو مرا از سرگردانی ناتوان کرده است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "چون می نبری مرا چرا می خوانی ؟",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا مرا به می خوانی وقتی که نمی‌خواری من را؟ می‌دانی که من حتی نمی‌توانم از جایم بلند شوم."
     },
     {
       "VOrder": 4,

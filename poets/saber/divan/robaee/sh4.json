@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای روز تو را وثاق در منزل شب",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای روز در بند شب بوده‌ای و عدم وجود زلف تو باعث شده که شب نتواند کاری انجام دهد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "تا روز مرا حل نکند مشکل شب",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که روز نتواند مشکل شب را حل کند، من هر شب از دل تو در دل شب ناله می‌زنم."
     },
     {
       "VOrder": 4,

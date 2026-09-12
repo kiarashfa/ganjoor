@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "تو جانا بی‌وصالش در چه کاری",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای جانا، وقتی که به وصال محبوب نمی‌توانی دست پیدا کنی، پس در چه کاری به دنبال او می‌گردی و با دست خود چه چیزی از او می‌خواهی؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "همه لافت که زاری‌ها کنم من",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همه تلاش‌هایم برای گریه و زاری در پیش او ارزش ندارد و حتی به چشم او نمی‌آید."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "اگر سنگت ببیند بر تو گرید",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر سنگ تو را ببیند، برایت اشک می‌ریزد که تو از وصالی که داشته‌ای، دیگر خالی مانده‌ای."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "به وصلش مر سما را فخر بودی",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر وصل و نزدیکی‌اش، کسانی که در خوشی و شادی زندگی می‌کنند، به خود می‌بالیدند، اما اکنون که از او دوری می‌کنی، حتی زمین و خاک هم چیزی از تو ندارد."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "چنان مغرور و سرکش گشته بودی",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در زمان وصال و دیدار محبوب، به گونه‌ای مغرور و سرکش شده بودی که انگار از خود بی‌خود شده‌ای."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "از آن می‌ها ز وصلش مست بودی",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از آن می‌هایی که از محبت او به دست آمده بودی مست و شاداب بودی؛ چرا که حالا دیگر خبری از حال و هوای خماری و دوری از او نیست."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "ولیکن مرغ دولت مژده آورد",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اما پرنده خوشبختی خبر آورد که از آن خوش‌شانسی، بهار در راه است."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "ز لطف و حلم او بوده‌ست آن وصل",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این وصل و پیوند ناشی از محبت و بردباری اوست و نه بر اساس عقل، فرهنگ یا تدبیر."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "به پیر هندوی بگذشت لطفش",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: لطف او همچون ماهی بود که بر پیر هندوی درخشید و زیبایی و جوانی او را تحت تاثیر قرار داد."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "چنین‌ها دیده‌ای از لطف و حسنش",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای جانا، تو از زیبایی و لطف او چنین چیزهایی دیده‌ای که به خاطر او بی‌قرار و بی‌تاب شده‌ای."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "چه سودم دارد ار صد ملک دارم",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: داشتن صد ملک و ثروت چه فایده‌ای دارد وقتی تو که روح و جان منی در حال فراری هستی؟"
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "خداوندی ز تو دور است ای دل",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دل، بدان که خداوند از تو دور است و بی‌او، زندگی بی‌معنا و بی‌هدفی شده است."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "هزاران زخم دارد از تو ای هجر",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هزاران زخم از دوری تو دارم، ای جدایی، چنان که این لحظه بر سر گنجشکی، ماری در کمین است."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "ایا روز فراقم همچو قیری",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا روز جدایی‌ام همانند ظلمتی سوزان خواهد بود، یا روز دیدارم همانند نغمه‌ای دل‌انگیز خواهد شد؟"
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "تو بودی در وصالش در قماری",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو در عشقش دچار بازی و تلاش بودی، حالا با یادش در چنین بازی‌ای قرار گرفته‌ای."
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "به هجر فخر ما شمس الحق و دین",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در غم دوری فخر ما که نور حق و دین است، ای صبر، آیا هیچ کمکی نکردی؟"
     },
     {
       "VOrder": 32,
@@ -255,7 +271,8 @@
       "Position": "Right",
       "Text": "مگر صبری که رست از خاک تبریز",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا ممکن است من لحظه‌ای از صبر و شکیبایی که از خاک تبریز بلند شده است، به دست بیاورم؟"
     },
     {
       "VOrder": 34,
@@ -269,7 +286,8 @@
       "Position": "Right",
       "Text": "ببینا این فراق من فراقی",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جدایی من را ببین، که چه اندازه دردناک است. بخت من نامساعد است و جاده‌ای برای رهایی وجود ندارد."
     },
     {
       "VOrder": 36,

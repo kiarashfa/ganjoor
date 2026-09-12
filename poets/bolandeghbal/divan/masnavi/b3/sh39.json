@@ -137,7 +137,8 @@
       "Text": "مده زاهدا بیش ازاینم صداع",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای زاهد، دیگر از این بیشتر برای من درد نیاور، صحبت را کوتاه کن و خداحافظی کن."
     },
     {
       "VOrder": 2,
@@ -153,7 +154,8 @@
       "Text": "نصیحت نگو کم بده دردسر",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: نصیحت نکن، زیرا کمتر از آن دردی برایم ایجاد کن، که ممکن است نصیحتت به افراد نادرست منتقل شود."
     },
     {
       "VOrder": 4,
@@ -169,7 +171,8 @@
       "Text": "پی کار خود روچه کارت بمن",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: به کار خودت بپرداز و مرا از صحبت درباره قیامت بی‌خبر نگذار."
     },
     {
       "VOrder": 6,
@@ -185,7 +188,8 @@
       "Text": "من ار ظلمتم تو برو نور باش",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: اگر من در تاریکی باشم، تو به نور و روشنایی تبدیل شو و در بهشت با حوران همراهی کن."
     },
     {
       "VOrder": 8,
@@ -201,7 +205,8 @@
       "Text": "ز دوزخ دهی تا کی اندیشه ام",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: از جهنم بگویید که دیگر ذهنم را مشغول نکند، اینقدر به آشیانه‌ام فشار نیاورید."
     },
     {
       "VOrder": 10,
@@ -217,7 +222,8 @@
       "Text": "مکن ناامیدم ز درگاه حق",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: از درگاه خدا ناامید نشو و مرا از مسیر درست باز نکن، چرا که این من را دور می‌کند."
     },
     {
       "VOrder": 12,
@@ -233,7 +239,8 @@
       "Text": "تومغرور کار ثواب خودی",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: تو به خودت مغروری و به کارهای خوبت می‌بالید، اما درواقع باید بیشتر به حال خودت توجه کنی و از نعمت‌هایی که داری لذت ببری."
     },
     {
       "VOrder": 14,
@@ -249,7 +256,8 @@
       "Text": "کجا آتش عشق درجان توست",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: کجاست آن شوری که عشق در وجود تو می‌سوزد؟ کجا می‌توان نشانه‌ای از ایمان تو یافت که بهتر از کژی و ناباوری‌ات باشد؟"
     },
     {
       "VOrder": 16,
@@ -265,7 +273,8 @@
       "Text": "نه نان تو بیغش تر از آب ماست",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: نان تو پاک‌تر از آب ماست و بیداری تو از خواب ما بهتر نیست."
     },
     {
       "VOrder": 18,
@@ -281,7 +290,8 @@
       "Text": "به حشر ار مرا جا به دوزخ شود",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اگر در روز قیامت مرا به آتش دوزخ بسپردند، امیدوارم که آتش تو در دل من به سردی یخ تبدیل شود."
     },
     {
       "VOrder": 20,
@@ -297,7 +307,8 @@
       "Text": "من ار خوبم ار بد برای خود م",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: من چه خوب باشم و چه بد، برای خودم هستم و از خداوند خودم امید دارم."
     },
     {
       "VOrder": 22,

@@ -481,7 +481,8 @@
       "Text": "چو ابلیس پیوسته دید آن سخن",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "وقتی شیطان دید که نقشهٔ قبلیش با موفقیت به نتیجه رسید نقشهٔ پلیدانهٔ تازه‌ای کشید."
     },
     {
       "VOrder": 2,
@@ -497,7 +498,8 @@
       "Text": "بدو گفت گر سوی من تافتی",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "به ضحاک گفت: اگر با من همراه باشی در جهان کامروا خواهی بود."
     },
     {
       "VOrder": 4,
@@ -513,7 +515,8 @@
       "Text": "اگر همچنین نیز پیمان کنی",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "اگر همینطوری به من گوش کنی و نافرمانی نکنی، ..."
     },
     {
       "VOrder": 6,
@@ -529,7 +532,8 @@
       "Text": "جهان سربه‌سر پادشاهی تو راست",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "... پادشاهی همهٔ دنیا و همهٔ موجودات از آن تو خواهد بود."
     },
     {
       "VOrder": 8,
@@ -545,7 +549,8 @@
       "Text": "چو این کرده شد ساز دیگر گرفت",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "پس از آن نقشهٔ شگفت‌انگیز جدید کشید."
     },
     {
       "VOrder": 10,
@@ -561,7 +566,8 @@
       "Text": "جوانی برآراست از خویشتن",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "خود را به شکل جوانی خوش‌سخن درآورد."
     },
     {
       "VOrder": 12,
@@ -577,7 +583,8 @@
       "Text": "همیدون به ضحاک بنهاد روی",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "نزد ضحاک رفت و با چرب‌زبانی با او مشغول گفتگو شد."
     },
     {
       "VOrder": 14,
@@ -593,7 +600,8 @@
       "Text": "بدو گفت اگر شاه را در خورم",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "به او گفت اگر شایستهٔ دربار پادشاه باشم من‌ آشپز خیلی خوبی هستم."
     },
     {
       "VOrder": 16,
@@ -609,7 +617,8 @@
       "Text": "چو بشنید ضحاک بنواختش",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "ضحاک که این را شنید از او استقبال کرد و دستور داد برایش آشپزخانه‌ای در دربار آماده کنند."
     },
     {
       "VOrder": 18,
@@ -625,7 +634,8 @@
       "Text": "کلید خورش خانهٔ پادشا",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "سپس وزیر ضحاک کلید آشپزخانهٔ سلطنتی را به او داد."
     },
     {
       "VOrder": 20,
@@ -641,7 +651,8 @@
       "Text": "فراوان نبود آن زمان پرورش",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "در آن زمان آشپزی هنوز ابتدایی بود و خوراکی‌ها به خوبی شناخته شده نبودند."
     },
     {
       "VOrder": 22,
@@ -657,7 +668,8 @@
       "Text": "ز هر گوشت از مرغ و از چارپای",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "شیطان در لباس آشپز حیواناتی مثل مرغ و چهارپایان را آورد ..."
     },
     {
       "VOrder": 24,
@@ -673,7 +685,8 @@
       "Text": "به خونش بپرورد بر سان شیر",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "\u00A0... و به آنها خون خوراند تا پادشاه وقتی که از گوشت آنها می‌خورد نترس شود!"
     },
     {
       "VOrder": 26,
@@ -689,7 +702,8 @@
       "Text": "سخن هر چه گویدش فرمان کند",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "و به خاطر همین نترسی به حرفهای او گوش بدهد و گوش به فرمان او بشود."
     },
     {
       "VOrder": 28,
@@ -705,7 +719,8 @@
       "Text": "خورش زردهٔ خایه دادش نخست",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "اول به او زردهٔ تخم مرغ داد تا تندرست و سر حال بماند."
     },
     {
       "VOrder": 30,
@@ -721,7 +736,8 @@
       "Text": "بخورد و بر او آفرین کرد سخت",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "ضحاک از غذاهای او خورد و از آنها تعریف کرد و گفت که او آدم آینده‌داری است."
     },
     {
       "VOrder": 32,
@@ -737,7 +753,8 @@
       "Text": "چنین گفت ابلیس نیرنگ‌ساز",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "شیطان به او گفت که پادشاه قدرتمند! شاد باش!"
     },
     {
       "VOrder": 34,
@@ -753,7 +770,8 @@
       "Text": "که فردات از آن گونه سازم خورش",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "چون فردا غذایی برایت درست می‌کنم که خیلی قوّت دارد."
     },
     {
       "VOrder": 36,
@@ -769,7 +787,8 @@
       "Text": "برفت و همه شب سگالش گرفت",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "شیطان رفت و همهٔ شب در فکر این بود که فردا چه غذای شگفت‌انگیزی درست کند."
     },
     {
       "VOrder": 38,
@@ -785,7 +804,8 @@
       "Text": "خورش‌ها ز کبک و تذرو سپید",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "سپس او از گوشت کبک و تذرو غذایی درست کرد و با امید فراوان برای شاه آورد. (تذرو پرنده‌ای است صحرایی و رنگارنگ شبیه خروس)"
     },
     {
       "VOrder": 40,
@@ -801,7 +821,8 @@
       "Text": "شه تازیان چون به نان دست برد",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "شاه همین که غذا را خورد دلباختهٔ آشپزی شیطان شد."
     },
     {
       "VOrder": 42,
@@ -817,7 +838,8 @@
       "Text": "سیم روز خوان را به مرغ و بره",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "روز سوم سر سفره مرغ و بره گذاشت و به شکلهای مختلف غذا را آراست."
     },
     {
       "VOrder": 44,
@@ -833,7 +855,8 @@
       "Text": "به روز چهارم چو بنهاد خوان",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "روز چهارم غذایی درست شده از پشت گوساله سر سفره گذاشت که ..."
     },
     {
       "VOrder": 46,
@@ -849,7 +872,8 @@
       "Text": "بدو اندرون زعفران و گلاب",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "در آن زعفران و گلاب و شراب کهنه و مشک ناب ریخته بود."
     },
     {
       "VOrder": 48,
@@ -865,7 +889,8 @@
       "Text": "چو ضحاک دست اندر آورد و خورد",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "وقتی ضحاک خورد از دستپخت خوب آشپز تعجب کرد."
     },
     {
       "VOrder": 50,
@@ -881,7 +906,8 @@
       "Text": "بدو گفت بنگر که از آرزوی",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "به او گفت: هر آرزویی داری بگو تا برآورده کنم!"
     },
     {
       "VOrder": 52,
@@ -897,7 +923,8 @@
       "Text": "خورشگر بدو گفت کای پادشا",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "آشپز به پادشاه گفت: ای پادشاه، همیشه شاد و فرمانروا باشی."
     },
     {
       "VOrder": 54,
@@ -913,7 +940,8 @@
       "Text": "مرا دل سراسر پر از مهر تو است",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "دل من پر از مهر و محبت توست و غذا و توشهٔ\u00A0جان من دیدن چهره توست."
     },
     {
       "VOrder": 56,
@@ -929,7 +957,8 @@
       "Text": "یکی حاجتستم به نزدیک شاه",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "من یک آرزو در مورد خود شاه دارم هر چند می‌دانم که در آن حد نیستم ..."
     },
     {
       "VOrder": 58,
@@ -945,7 +974,8 @@
       "Text": "که فرمان دهد تا سر کتف اوی",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "... اما آرزو دارم که او اجازه بدهد تا سر شانه‌های او را ببوسم."
     },
     {
       "VOrder": 60,
@@ -961,7 +991,8 @@
       "Text": "چو ضحاک بشنید گفتار اوی",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "وقتی ضحاک صحبت‌های او را شنید، متوجه نیت پنهانی او نشد."
     },
     {
       "VOrder": 62,
@@ -977,7 +1008,8 @@
       "Text": "بدو گفت دارم من این کام تو",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "ضحاک گفت من این آرزوی تو را برآورده می‌کنم تا برای همین مشهور شوی."
     },
     {
       "VOrder": 64,
@@ -993,7 +1025,8 @@
       "Text": "بفرمود تا دیو چون جفت او",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "اجازه داد که شیطان مانند همسر شخص به او نزدیک شود و بر شانه‌های او بوسه بزند."
     },
     {
       "VOrder": 66,
@@ -1009,7 +1042,8 @@
       "Text": "ببوسید و شد بر زمین ناپدید",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "بوسید و ناگهان ناپدید شد؛ هیچ‌کس در دنیا تا امروز چنین شگفتی را ندیده است."
     },
     {
       "VOrder": 68,
@@ -1025,7 +1059,8 @@
       "Text": "دو مار سیه از دو کتفش برست",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "دو مار سیاه از دو شانهٔ او رشد کرد و او به شدت نگران شد و به تکاپوی حل مشکلش افتاد."
     },
     {
       "VOrder": 70,
@@ -1041,7 +1076,8 @@
       "Text": "سرانجام ببرید هر دو ز کفت",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "سرانجام تصمیم گرفت که مارها را از شانه‌هایش ببرد."
     },
     {
       "VOrder": 72,
@@ -1057,7 +1093,8 @@
       "Text": "چو شاخ درخت آن دو مار سیاه",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "اما دوباره دو مار سیاه مانند شاخ‌های درخت از کتف شاه رشد کردند."
     },
     {
       "VOrder": 74,
@@ -1073,7 +1110,8 @@
       "Text": "پزشکان فرزانه گرد آمدند",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "پزشکان دانا با هم جمع شدند و بحث و تبادل نظر کردند."
     },
     {
       "VOrder": 76,
@@ -1089,7 +1127,8 @@
       "Text": "ز هر گونه نیرنگ‌ها ساختند",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هر ترفندی کردند تا آن بیماری را درمان کنند اما نتوانستند."
     },
     {
       "VOrder": 78,
@@ -1105,7 +1144,8 @@
       "Text": "به سان پزشکی پس ابلیس تفت",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "این بار شیطان در قالب یک پزشک دانا به نزد ضحاک رفت."
     },
     {
       "VOrder": 80,
@@ -1121,7 +1161,8 @@
       "Text": "بدو گفت کاین بودنی کار بود",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "به او گفت که این مارها ماندگارند. سرشان را قطع نکن تا ببینیم چه کار می‌شود کرد."
     },
     {
       "VOrder": 82,
@@ -1137,7 +1178,8 @@
       "Text": "خورش ساز و آرامشان ده به خورد",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "چاره‌ای وجود ندارد مگر این که به خوبی تغذیه بشوند تا آرامش پیدا کنند و تو را اذیت نکنند."
     },
     {
       "VOrder": 84,
@@ -1153,7 +1195,8 @@
       "Text": "به جز مغز مردم مده‌شان خورش",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "خوراکشان فقط باید مغز انسانها باشد بلکه با این غذا مارها بمیرند."
     },
     {
       "VOrder": 86,
@@ -1169,7 +1212,8 @@
       "Text": "نگر تا که ابلیس از این گفت‌وگوی",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "حواست باشد که شیطان چه قصدی از این سخن داشت و به دنبال چه چیزی بود."
     },
     {
       "VOrder": 88,
@@ -1185,7 +1229,8 @@
       "Text": "مگر تا یکی چاره سازد نهان",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هدف پنهانیش این بود که دنیا را از وجود انسانها پاک و خالی کند."
     },
     {
       "VOrder": 90,

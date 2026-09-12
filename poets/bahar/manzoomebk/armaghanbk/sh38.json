@@ -29,14 +29,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "نه به راست نه به دروغ سوگند مخور.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: نه به صورت راست و نه به صورت دروغ سوگند نخور."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "ز سوگند خوردن ‌سخن کاستست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی برای تأکید بر سخنانش قسم بخورد، نگران نباشید؛ حتی اگر دروغ بگوید یا راست بگوید، سخن از سوگند کمتر می‌شود."
     },
     {
       "VOrder": 3,

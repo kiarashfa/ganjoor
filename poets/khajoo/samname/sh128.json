@@ -381,7 +381,8 @@
       "Text": "بتندید آن دیو تیره روان",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: دیو سیاه‌دل از او دور شد و قوی‌تر شد؛ او اکنون ناتوان و ضعیف گردید."
     },
     {
       "VOrder": 2,
@@ -397,7 +398,8 @@
       "Text": "بتابید رو باز آن ارجمند",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: به آسمان نگاه کن و بر آن موجود ارزشمند بتاب، زیرا سرانجام دستش از قیود و محدودیت‌ها آزاد شد."
     },
     {
       "VOrder": 4,
@@ -413,7 +415,8 @@
       "Text": "دلیری کجا نام فرهاد بود",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: شجاعت و دلیری فرهاد را نمی‌توان با سرعت و چابکی باد مقایسه کرد."
     },
     {
       "VOrder": 6,
@@ -429,7 +432,8 @@
       "Text": "ز شیران جنگی خاور بدی",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: شما به میدان نبرد آمده‌اید و نشان‌دهنده‌ی شجاعت و قدرت شیرهای جنگی هستید. در اینجا، به وضوح به روحیه‌ی جنگاورانه و دلاوری شما اشاره شده است."
     },
     {
       "VOrder": 8,
@@ -445,7 +449,8 @@
       "Text": "ز جا جست و برداشت شمشیر تیز",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: از جای خود برخاست و شمشیر تیز را برداشت تا بتواند با آن قیام و مبارزه کند."
     },
     {
       "VOrder": 10,
@@ -461,7 +466,8 @@
       "Text": "بغرید کای دیو تیره سرشت",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: صدای خوفناک و ترسناکی از موجودی زشت و بدطینت به گوش می‌رسد که همچون دیوان جهنم، هولناک و نازیباست."
     },
     {
       "VOrder": 12,
@@ -477,7 +483,8 @@
       "Text": "مگر دور دیدی تو بازوی سام",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: آیا توانسته‌ای به قدرت و نیروی سام (شخصیت افسانه‌ای) نگاهی بیاندازی که می‌خواهی خود را از درد و زخم‌ها نجات دهی؟"
     },
     {
       "VOrder": 14,
@@ -493,7 +500,8 @@
       "Text": "به یزدان دادار کیهان خدیو",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: به خداوندی که خالق جهان است، قسم می‌خورم که از دل و جان تو به شدت فریاد می‌زنم."
     },
     {
       "VOrder": 16,
@@ -509,7 +517,8 @@
       "Text": "بگفت و یکی حمله آورد سخت",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: او سخن گفت و یکی حمله‌ای شدید انجام داد، به‌طوری‌که گویی برگ درختی بر زمین ریخت."
     },
     {
       "VOrder": 18,
@@ -525,7 +534,8 @@
       "Text": "بزد تیغ و به روی نشد کارگر",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: او تیغ خود را کشید و به روی او کارگر نشد، نهنگ بزرگ نیز به خاطر آن نام آشنا به تلاطم افتاد."
     },
     {
       "VOrder": 20,
@@ -541,7 +551,8 @@
       "Text": "بیازید چنگال از خشم و کین",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: با خشم و کینه به او حمله کرد و او را از میدان مبارزه بیرون کشید و بر زمین انداخت."
     },
     {
       "VOrder": 22,
@@ -557,7 +568,8 @@
       "Text": "به ناخن تنش را ز هم بردرید",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: او با ناخن خود مژه‌هایش را از هم جدا کرد، چون ناامید شد که از ترس او، آن مرد به خاطر او دیگر برنمی‌گردد."
     },
     {
       "VOrder": 24,
@@ -573,7 +585,8 @@
       "Text": "به لشکر درافتاد دیو دمان",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: دیو در جنگ با لشکر به میدان آمد و زمان پایان بزرگی نام‌آوران رسید."
     },
     {
       "VOrder": 26,
@@ -589,7 +602,8 @@
       "Text": "خبر شد به نزدیک فغفور چین",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: فغفور چین از نبرد با دیوی خشمگین و کینه‌توز آگاه شد."
     },
     {
       "VOrder": 28,
@@ -605,7 +619,8 @@
       "Text": "همان دم به شادی برآمد به اسپ",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: در آن لحظه، شادی به همراه اسب به دشت وارد شد، مانند آذرگشسپ، که نماد قدرت و شجاعت است."
     },
     {
       "VOrder": 30,
@@ -621,7 +636,8 @@
       "Text": "بسی گشت هر سو همی بنگرید",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: او به دور و اطراف خود نگریست و از دیدن زیبایی‌ها و خوشی‌ها شادمان شد، اما وقتی به وضعیت موجود نگاه کرد، فهمید که آنگونه که باید نیست."
     },
     {
       "VOrder": 32,
@@ -637,7 +653,8 @@
       "Text": "درآمد بر دیو فغفور شاه",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: فغفور شاه بر دیوان پیروز شد و در میدان جنگ، او را بسیار ستایش کردند."
     },
     {
       "VOrder": 34,
@@ -653,7 +670,8 @@
       "Text": "برو آفرین کرد و تحسین نمود",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: برو و او را تحسین کن، زیرا او از چنین رفتارهایی دست بر داشته است."
     },
     {
       "VOrder": 36,
@@ -669,7 +687,8 @@
       "Text": "چنین گفت او را که ای نامدار",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: او به او گفت: ای فرد مشهور، این میدان نبرد را مغتنم بشمار."
     },
     {
       "VOrder": 38,
@@ -685,7 +704,8 @@
       "Text": "که گم شد سپهدار فرخنده سام",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: سپهبد خوشبخت سام گم شده است و مرگ او به کام خود رسید."
     },
     {
       "VOrder": 40,
@@ -701,7 +721,8 @@
       "Text": "ندانست کس کار و کردار او",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس نمی‌داند که او چه کارها و رفتارهایی دارد، و وقتی که اوضاع برایش به نفعش پیش می‌رود، چه شلوغی و جنب‌وجوشی به راه می‌اندازد."
     },
     {
       "VOrder": 42,
@@ -717,7 +738,8 @@
       "Text": "ز کینش مرا دور شد خورد و خواب",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: به خاطر دشمنی‌اش، خواب و آرامش از چشمانم رفته و اشک‌های من مانند سیلاب جاری شده است."
     },
     {
       "VOrder": 44,
@@ -733,7 +755,8 @@
       "Text": "چنان چون که او گم شد اندر جهان",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: به گونه‌ای که او در این دنیا گم شده است، من نیز یکی از بندگان او در این جهان هستم."
     },
     {
       "VOrder": 46,
@@ -749,7 +772,8 @@
       "Text": "بخندید ازو خوش نهنکال دیو",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: از او بخندید و خوشحال شدند، دیو به سمت لشکر رفت و با صدای بلند فریاد زد."
     },
     {
       "VOrder": 48,
@@ -765,7 +789,8 @@
       "Text": "همی گشت و می‌جست و می‌بست دست",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: او به دنبال پیروزی بود و تلاش می‌کرد تا دست همه سپاهیان سام را شکست دهد."
     },
     {
       "VOrder": 50,
@@ -781,7 +806,8 @@
       "Text": "همه گنج و خرگاه تاراج کرد",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: تمام ثروت و مقر زندگی را به غارت برد و از تاج و تخت او بالا رفت."
     },
     {
       "VOrder": 52,
@@ -797,7 +823,8 @@
       "Text": "به غارت ببردند بسیار چیز",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: آنها بسیاری از چیزها را دزدیدند و دیگر چیزی در دشت چین باقی نمانده است، حتی یک سکه کوچک."
     },
     {
       "VOrder": 54,
@@ -813,7 +840,8 @@
       "Text": "از آنجا سوی چین نهادند روی",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: از آنجا به سوی چین حرکت کردند و همه مردم چین مشغول صحبت و گفتگو بودند."
     },
     {
       "VOrder": 56,
@@ -829,7 +857,8 @@
       "Text": "که زین گونه شد کار فرخنده سام",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: کارهای خوب سام به خاطر دسیسه‌های زمانه به تلخی و دشواری تبدیل شد."
     },
     {
       "VOrder": 58,
@@ -845,7 +874,8 @@
       "Text": "همه کار این چرخ دل خستن است",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: همه ما در زندگی با چرخش زمان و رویدادهایی که برایمان پیش می‌آید روبرو هستیم و این چرخش ممکن است ما را خسته کند. اکنون باید دید که چه چیزی در آینده خواهد آمد و چه تغییراتی به دنبال خواهد داشت."
     },
     {
       "VOrder": 60,
@@ -861,7 +891,8 @@
       "Text": "چنین است آئین چرخ دو رنگ",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: این طبیعت زندگی است که گاهی شیرینی و خوشی به ما می‌دهد و گاهی تلخی و درد."
     },
     {
       "VOrder": 62,
@@ -877,7 +908,8 @@
       "Text": "چو زنبور دان چرخ وارون و بس",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: همچون زنبور که در گردشی معکوس می‌چرخد و هم از شهدش شیرینی می‌دهد و هم نیشی دارد که آسیب می‌زند، در واقع در زندگی همواره با دو جنبه خوب و بد روبه‌رو هستیم."
     },
     {
       "VOrder": 64,
@@ -893,7 +925,8 @@
       "Text": "غنیمت شمر صبحت دوستان",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: دوستی‌های واقعی و لحظات خوب را ارزشمند بدان، چون در زندگی ممکن است با مشکلات و ناگواری‌ها روبه‌رو شوی، شبیه به این‌که گل‌ها در باغ با خارها هم‌نشین‌اند."
     },
     {
       "VOrder": 66,
@@ -909,7 +942,8 @@
       "Text": "بود زندگانی، گل و مرگ، خار",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: زندگی مانند گل است و مرگ مانند خار؛ وقتی به گلستان رسیدی، از آن لذت ببر و آن را گرامی بدار."
     },
     {
       "VOrder": 68,
@@ -925,7 +959,8 @@
       "Text": "دگر باز گردم سوی داستان",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: من دوباره به سوی روایت‌ها برمی‌گردم و از گفته‌های قدیم پیروی می‌کنم."
     },
     {
       "VOrder": 70,

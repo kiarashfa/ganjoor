@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گر خوب نیم خوب پرستم باری",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر خوب باشم، خوب را پرستش می‌کنم، و اگر هم از شراب بنوشم، از شراب مست می‌شوم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گر نیستم از اهل مناجات رواست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر من از کسانی نیستم که به دعا و نیایش مشغولند، اشکالی ندارد؛ چون من از اهل می‌خانه و شادی هستم."
     },
     {
       "VOrder": 4,

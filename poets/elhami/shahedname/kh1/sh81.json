@@ -191,7 +191,8 @@
       "Text": "سحر چون بدین بختی گرم ساز",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: صبح که با این بخت زیبا آغاز می‌شود، همچون خورشید درخشانی است که به ساختمان‌های بلند نور می‌تابد."
     },
     {
       "VOrder": 2,
@@ -207,7 +208,8 @@
       "Text": "به فرمان شاهنشه رهنمون",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: بر اساس فرمان پادشاه، هودجی را بر پشت اسبی قرار دادند و هدایت کردند."
     },
     {
       "VOrder": 4,
@@ -223,7 +225,8 @@
       "Text": "چو از ساربانان حدی گشت راست",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: وقتی که حدی از سواران به راه افتادند، محمد به سرعت از جای خود بلند شد."
     },
     {
       "VOrder": 6,
@@ -239,7 +242,8 @@
       "Text": "بزد دست و جامه به تن بر درید",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: با عجله و شتاب، دستش را به سمت لباسش برد و آن را از تن درآورد و به سوی برادرش رفت، در حالی که با صدای بلندی به حرکت درآمده بود."
     },
     {
       "VOrder": 8,
@@ -255,7 +259,8 @@
       "Text": "به رخ بر – ز جزع تر انگیخت در",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: در این بیت، شاعر به تصویری اشاره دارد که در آن شخصی با تعجب و نگرانی به چهره دیگری نگاه می‌کند و در همین حین، با دقت و احتیاط، افسار شتر را در دست دارد. این تصویر می‌تواند نشان‌دهنده‌ی تأمل و تردید در یک موقعیت چالش‌برانگیز باشد."
     },
     {
       "VOrder": 10,
@@ -271,7 +276,8 @@
       "Text": "به شه گفت کای زنده جانم ز تو",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: ای شاه، من به تو زندگی و شادابی‌ام را مدیونم، و صبر و قدرت و توانایی‌ام نیز از تو ناشی می‌شود."
     },
     {
       "VOrder": 12,
@@ -287,7 +293,8 @@
       "Text": "به درگاهت از ناقه بانگ درای",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: در نزد تو صدای ناقه‌ای را شنیدم و این باعث شد که دلم از جای خود بیرون بزند."
     },
     {
       "VOrder": 14,
@@ -303,7 +310,8 @@
       "Text": "پریشان دل و مویه ساز آمدم",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: با دل آشفتگی و اندوه برای تو آمدم و با همه وجودم به درگاهت نیازمندم."
     },
     {
       "VOrder": 16,
@@ -319,7 +327,8 @@
       "Text": "مگر زین سفر باز دارم تو را",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: آیا می‌توانم تو را از این سفر بازدارم یا اینکه جانم را برای تو فدای کنم؟"
     },
     {
       "VOrder": 18,
@@ -335,7 +344,8 @@
       "Text": "مکن دستم ازدامن خویش دور",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: از خود دور نکن دست مرا، جان من را از بدنم جدا مکن و نور چشمم را از من مگیر."
     },
     {
       "VOrder": 20,
@@ -351,7 +361,8 @@
       "Text": "بدو شاه گفتا: که ای نامور",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: شاه به او گفت: ای معروف، یادگاری از پدر گرامی‌ام به من بده."
     },
     {
       "VOrder": 22,
@@ -367,7 +378,8 @@
       "Text": "چو رفتی بدیدم به خواب اندرا",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: وقتی که تو رفته بودی، در خواب تو را دیدم و در تاریکی شب، ملاقات پیامبر را تجربه کردم."
     },
     {
       "VOrder": 24,
@@ -383,7 +395,8 @@
       "Text": "مرا گفت: بشتاب وایدر بپای",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: او به من گفت: سریعاً برو و در آن جایی که خداوند به تو فرمان داده، حاضر شو."
     },
     {
       "VOrder": 26,
@@ -399,7 +412,8 @@
       "Text": "زمان رحیلت فراز آمده است",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: زمان رفتنت فرا رسیده و ما به تو نیاز داریم."
     },
     {
       "VOrder": 28,
@@ -415,7 +429,8 @@
       "Text": "من اینک به امر وی از این دیار",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: من اکنون به خواسته او از این سرزمین می‌روم و تو صبوری کن و در اینجا بمان."
     },
     {
       "VOrder": 30,
@@ -431,7 +446,8 @@
       "Text": "محمد به ایوان ز درگاه شاه",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: محمد به آرامی و با احترام از درگاه شاه وارد ایوان شد، اما ناگزیر بود که با اشک و ناله دل خود را خالی کند."
     },
     {
       "VOrder": 32,

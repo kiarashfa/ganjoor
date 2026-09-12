@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "دانی که چه‌ها چه‌ها چه‌ها می‌خواهم؟",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا می‌دانی که من چه آرزوهایی دارم؟ من فقط وصل تو را می‌خواهم، حتی بدون اینکه به شرایط خودم اهمیت دهم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "فریاد و فغان و ناله‌ام دانی چیست؟",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صدای فریاد و ناله‌ام به این معناست که من تو را، فقط تو را، می‌خواهم."
     },
     {
       "VOrder": 4,

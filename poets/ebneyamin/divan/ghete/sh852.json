@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "عاقل نکند بهیچ روئی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عاقل هیچ‌وقت به سراغ امری نمی‌رود که برایش سودی نداشته باشد."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "نزدیک خرد پسند ناید",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر سخنی که با عمل همراه نباشد، در نزد انسان‌های با خرد و فهم مناسب نیست."
     },
     {
       "VOrder": 4,
@@ -55,7 +57,8 @@
       "Position": "Right",
       "Text": "هر کو نشود بوصل تو شاد",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کس که به وصال تو شادمان نشود، اگر من از او ببرم و بگویم که تو خوشبختی، چیزی نگو!"
     },
     {
       "VOrder": 6,

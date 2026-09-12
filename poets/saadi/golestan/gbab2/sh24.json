@@ -25,20 +25,23 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "پیشِ یکی از مشایخ گله کردم که: فلان به فَسادِ من گواهی داده است.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: به یکی از بزرگان شکایت کردم که فردی به فساد من شهادت داده است."
     },
     {
       "VOrder": 2,
       "Position": "Paragraph",
       "Text": "گفتا: به صَلاحش خجل کن!",
-      "CoupletIndex": 1
+      "CoupletIndex": 1,
+      "CoupletSummary": "گفت که با انجام کاری که به خیرو صلاحش است خجالت زده اش کن"
     },
     {
       "VOrder": 3,
       "Position": "Right",
       "Text": "تو نیکو روِش باش تا بَدسگال",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "تو خوش‌رفتار و نیک‌سیرت باش تا بداندیش به برشمردنِ عیبِ تو فرصت نیابد؛"
     },
     {
       "VOrder": 4,
@@ -52,7 +55,8 @@
       "Position": "Right",
       "Text": "چو آهنگِ بربَط بود مستقیم",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "بربط هم چون درست‌آهنگ و موزون‌آوا باشد از دستِ نوازنده گوش‌پیچ نمی‌بیند. (اشاره به پیچاندن گوشی‌های ساز برای کوک کردن آن)"
     },
     {
       "VOrder": 6,

@@ -45,9 +45,9 @@
       "Number": 3,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "وش",
-      "PlainText": "مر صفی را نکته ای آمد به هوش\r\nشاید آن باشد ز الهام سروش",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمر صفی را نکته ای آمد به هوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاید آن باشد ز الهام سروش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "وی",
+      "PlainText": "وآن گلی بد تیره و بگرفته بوی\r\nهمچو لای قعر حوض و قعر جوی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوآن گِلی بُد تیره و بگرفته بوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچو لای قعر حوض و قعر جوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -55,19 +55,9 @@
       "Number": 3,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "وی",
-      "PlainText": "وآن گلی بد تیره و بگرفته بوی\r\nهمچو لای قعر حوض و قعر جوی",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوآن گِلی بُد تیره و بگرفته بوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچو لای قعر حوض و قعر جوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
-    },
-    {
-      "Index": 4,
-      "Number": 4,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ود",
-      "PlainText": "جان که پریان را پدر از پیش بود\r\nآفریدیمش ز ناری بی ز دود",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان که پریان را پدر از پیش بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآفریدیمش ز ناری بی ز دود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "وش",
+      "PlainText": "مر صفی را نکته ای آمد به هوش\r\nشاید آن باشد ز الهام سروش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمر صفی را نکته ای آمد به هوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاید آن باشد ز الهام سروش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -81,13 +71,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 5,
-      "Number": 5,
+      "Index": 4,
+      "Number": 4,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "د",
-      "PlainText": "که نه بر وی عفو من در دم رسد\r\nگر بود کوهی پراکنده اش کند",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه نه بر وی عفو من در دم رسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر بود کوهی پراکنده اش کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ود",
+      "PlainText": "جان که پریان را پدر از پیش بود\r\nآفریدیمش ز ناری بی ز دود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان که پریان را پدر از پیش بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآفریدیمش ز ناری بی ز دود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -101,13 +91,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 6,
-      "Number": 6,
+      "Index": 5,
+      "Number": 5,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "فت",
-      "PlainText": "یاد کن پروردگارت چونکه گفت\r\nمر ملایک را به سابق در نهفت",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیاد کن پروردگارت چونکه گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمر ملایک را به سابق در نهفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "د",
+      "PlainText": "که نه بر وی عفو من در دم رسد\r\nگر بود کوهی پراکنده اش کند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه نه بر وی عفو من در دم رسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر بود کوهی پراکنده اش کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -121,13 +111,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 7,
-      "Number": 7,
+      "Index": 6,
+      "Number": 6,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ودهتر",
-      "PlainText": "هر چه اغوا ء را کنی افزوده تر\r\nپیش عفو من شود بیهوده تر",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چه اغوا ء را کنی افزوده تر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیشِ عفو من شود بیهوده تر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "فت",
+      "PlainText": "یاد کن پروردگارت چونکه گفت\r\nمر ملایک را به سابق در نهفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیاد کن پروردگارت چونکه گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمر ملایک را به سابق در نهفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -141,13 +131,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 8,
-      "Number": 8,
+      "Index": 7,
+      "Number": 7,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "د",
-      "PlainText": "پس چو سازم راست یعنی مستعد\r\nمیدمم در وی ز روح خود به جد",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس چو سازم راست یعنی مستعد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیدمم در وی ز روح خود به جد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ودهتر",
+      "PlainText": "هر چه اغوا ء را کنی افزوده تر\r\nپیش عفو من شود بیهوده تر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چه اغوا ء را کنی افزوده تر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیشِ عفو من شود بیهوده تر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -161,13 +151,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 9,
-      "Number": 9,
+      "Index": 8,
+      "Number": 8,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ین",
-      "PlainText": "سخت مغروری به طاعاتت یقین\r\nهل مرا با مجرمین و مذنبین",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسخت مغروری به طاعاتت یقین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهل مرا با مجرمین و مذنبین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "د",
+      "PlainText": "پس چو سازم راست یعنی مستعد\r\nمیدمم در وی ز روح خود به جد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس چو سازم راست یعنی مستعد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیدمم در وی ز روح خود به جد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -181,13 +171,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 10,
-      "Number": 10,
+      "Index": 9,
+      "Number": 9,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "وح",
-      "PlainText": "پس در آدم چون نمود او نفخ روح\r\nسجده کردندش ملایک بالوضوح",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس در آدم چون نمود او نفخ روح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسجده کردندش ملایک بالوضوح\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ین",
+      "PlainText": "سخت مغروری به طاعاتت یقین\r\nهل مرا با مجرمین و مذنبین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسخت مغروری به طاعاتت یقین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهل مرا با مجرمین و مذنبین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -201,13 +191,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 11,
-      "Number": 11,
+      "Index": 10,
+      "Number": 10,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ید",
-      "PlainText": "لیک آن کز عفو من شد نا امید\r\nجور و اغوای تو بر ایشان رسید",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلیک آن کز عفو من شد نا امید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجور و اغوای تو بر ایشان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "وح",
+      "PlainText": "پس در آدم چون نمود او نفخ روح\r\nسجده کردندش ملایک بالوضوح",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس در آدم چون نمود او نفخ روح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسجده کردندش ملایک بالوضوح\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -221,13 +211,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 12,
-      "Number": 12,
+      "Index": 11,
+      "Number": 11,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ون",
-      "PlainText": "حق تعالی گفت ای ابلیس چون\r\nسجده ناری مالک ألا تکون",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحق تعالی گفت ای ابلیس چون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسجده ناری مَالَکَ ألاَّ تَکُون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ید",
+      "PlainText": "لیک آن کز عفو من شد نا امید\r\nجور و اغوای تو بر ایشان رسید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلیک آن کز عفو من شد نا امید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجور و اغوای تو بر ایشان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -241,13 +231,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 13,
-      "Number": 13,
+      "Index": 12,
+      "Number": 12,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ر",
-      "PlainText": "هست دوزخ را همانا هفت در\r\nهر دری مقسوم بر اهل سقر",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهست دوزخ را همانا هفت در\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر دری مقسوم بر اهل سقر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ون",
+      "PlainText": "حق تعالی گفت ای ابلیس چون\r\nسجده ناری مالک ألا تکون",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحق تعالی گفت ای ابلیس چون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسجده ناری مَالَکَ ألاَّ تَکُون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -261,13 +251,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 14,
-      "Number": 14,
+      "Index": 13,
+      "Number": 13,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "اک",
-      "PlainText": "بد گلی خشک و سیاه و بوی ناک\r\nهم اخس عنصر  اعنی آب و خاک",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبُد گلی خشک و سیاه و بوی ناک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم اخس عنصر ، اعنی آب و خاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ر",
+      "PlainText": "هست دوزخ را همانا هفت در\r\nهر دری مقسوم بر اهل سقر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهست دوزخ را همانا هفت در\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر دری مقسوم بر اهل سقر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -281,13 +271,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 15,
-      "Number": 15,
+      "Index": 14,
+      "Number": 14,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ستهای",
-      "PlainText": "وقت خشم ار حلم کردی  رسته ای\r\nیک در دوزخ به خود بربسته ای",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوقت خشم ار حلم کردی ، رسته ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک در دوزخ به خود بربسته ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "اک",
+      "PlainText": "بد گلی خشک و سیاه و بوی ناک\r\nهم اخس عنصر  اعنی آب و خاک",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبُد گلی خشک و سیاه و بوی ناک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم اخس عنصر ، اعنی آب و خاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -301,13 +291,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 16,
-      "Number": 16,
+      "Index": 15,
+      "Number": 15,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "شت",
-      "PlainText": "گفت حق پس رو برون ای بد سرشت\r\nز آسمان یا از ملایک یا بهشت",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت حق پس رو برون ای بد سرشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز آسمان یا از ملایک یا بهشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ستهای",
+      "PlainText": "وقت خشم ار حلم کردی  رسته ای\r\nیک در دوزخ به خود بربسته ای",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوقت خشم ار حلم کردی ، رسته ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک در دوزخ به خود بربسته ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -321,13 +311,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 17,
-      "Number": 17,
+      "Index": 16,
+      "Number": 16,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ری",
-      "PlainText": "همچنین هر خلق بد را سر بری\r\nاز جهنم بسته ای بر خو د دری",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمچنین هر خُلق بد را سر بُری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز جهنم بسته ای بر خو د دری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "شت",
+      "PlainText": "گفت حق پس رو برون ای بد سرشت\r\nز آسمان یا از ملایک یا بهشت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت حق پس رو برون ای بد سرشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز آسمان یا از ملایک یا بهشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -341,13 +331,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 18,
-      "Number": 18,
+      "Index": 17,
+      "Number": 17,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "گار",
-      "PlainText": "گفت مهلت ده پس ای پروردگار\r\nتا به روز بعثم اندر روزگار",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت مهلت ده پس ای پروردگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا به روز بعثم اندر روزگار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ری",
+      "PlainText": "همچنین هر خلق بد را سر بری\r\nاز جهنم بسته ای بر خو د دری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمچنین هر خُلق بد را سر بُری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز جهنم بسته ای بر خو د دری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -361,13 +351,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 19,
-      "Number": 19,
+      "Index": 18,
+      "Number": 18,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "تش",
-      "PlainText": "کن به وی لعنت مرو بر دعوتش\r\nچون شدی واقف ز فعل و نیتش",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکن به وی لعنت مرو بر دعوتش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون شدی واقف ز فعل و نیّتش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "گار",
+      "PlainText": "گفت مهلت ده پس ای پروردگار\r\nتا به روز بعثم اندر روزگار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت مهلت ده پس ای پروردگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا به روز بعثم اندر روزگار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -381,13 +371,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 20,
-      "Number": 20,
+      "Index": 19,
+      "Number": 19,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ومماست",
-      "PlainText": "روز موعودی که آن معلوم ماست\r\nثبت اندر دفتر مکتوم ماست",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروز موعودی که آن معلوم ماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eثبت اندر دفتر مکتوم ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "تش",
+      "PlainText": "کن به وی لعنت مرو بر دعوتش\r\nچون شدی واقف ز فعل و نیتش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکن به وی لعنت مرو بر دعوتش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون شدی واقف ز فعل و نیّتش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -401,13 +391,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 21,
-      "Number": 21,
+      "Index": 20,
+      "Number": 20,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "شت",
-      "PlainText": "با تو گفتند آنچه بود از خوب و زشت\r\nاز ره و منزل ز دوزخ وز بهشت",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا تو گفتند آنچه بود از خوب و زشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز ره و منزل ز دوزخ وز بهشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ومماست",
+      "PlainText": "روز موعودی که آن معلوم ماست\r\nثبت اندر دفتر مکتوم ماست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروز موعودی که آن معلوم ماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eثبت اندر دفتر مکتوم ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -421,13 +411,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 22,
-      "Number": 22,
+      "Index": 21,
+      "Number": 21,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "رور",
-      "PlainText": "در زمین کآنجا بود دار الغرور\r\nاز معاصی وز مناهی وز شرور",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر زمین کآنجا بود دار الغرور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز معاصی وز مناهی وز شرور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "شت",
+      "PlainText": "با تو گفتند آنچه بود از خوب و زشت\r\nاز ره و منزل ز دوزخ وز بهشت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا تو گفتند آنچه بود از خوب و زشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز ره و منزل ز دوزخ وز بهشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -441,13 +431,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 23,
-      "Number": 23,
+      "Index": 22,
+      "Number": 22,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "دت",
-      "PlainText": "عقل خواند بر کتاب ایزدت\r\nره نماید بر همه خوب و بدت",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعقل خواند بر کتاب ایزدت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eره نماید بر همه خوب و بدت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "رور",
+      "PlainText": "در زمین کآنجا بود دار الغرور\r\nاز معاصی وز مناهی وز شرور",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر زمین کآنجا بود دار الغرور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز معاصی وز مناهی وز شرور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -461,13 +451,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 24,
-      "Number": 24,
+      "Index": 23,
+      "Number": 23,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "است",
-      "PlainText": "گفت حق ز اخلاص باشد راه راست\r\nسوی من و از طاعت اصل مدعاست",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت حق ز اخلاص باشد راه راست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسوی من و از طاعت اصل مدعاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "دت",
+      "PlainText": "عقل خواند بر کتاب ایزدت\r\nره نماید بر همه خوب و بدت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعقل خواند بر کتاب ایزدت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eره نماید بر همه خوب و بدت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -481,13 +471,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 25,
-      "Number": 25,
+      "Index": 24,
+      "Number": 24,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "له",
-      "PlainText": "پس منال از دوزخ از خود کن گله\r\nزآنکه ماندی از رفیق و قافله",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس منال از دوزخ از خود کن گله\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزآنکه ماندی از رفیق و قافله\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "است",
+      "PlainText": "گفت حق ز اخلاص باشد راه راست\r\nسوی من و از طاعت اصل مدعاست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت حق ز اخلاص باشد راه راست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسوی من و از طاعت اصل مدعاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -501,13 +491,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 26,
-      "Number": 26,
+      "Index": 25,
+      "Number": 25,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ت",
-      "PlainText": "مر تو را نبود بر ایشان سلطنت\r\nاندر اضلال و فتن از هر جهت",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمر تو را نبود بر ایشان سلطنت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندر اضلال و فتن از هر جهت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "له",
+      "PlainText": "پس منال از دوزخ از خود کن گله\r\nزآنکه ماندی از رفیق و قافله",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس منال از دوزخ از خود کن گله\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزآنکه ماندی از رفیق و قافله\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -521,13 +511,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 27,
-      "Number": 27,
+      "Index": 26,
+      "Number": 26,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ین",
-      "PlainText": "در عیون و جنتند آن متقین\r\nادخلوها بسلام آمنین",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر عیون و جنّتند آن متّقین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاُدخُلُوهَا بِسَلَامٍ آمِنِین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ت",
+      "PlainText": "مر تو را نبود بر ایشان سلطنت\r\nاندر اضلال و فتن از هر جهت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمر تو را نبود بر ایشان سلطنت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندر اضلال و فتن از هر جهت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -538,6 +528,16 @@
       "RhymeLetters": "وی",
       "PlainText": "جز کسی کز تو نماید پیروی\r\nباشد او از گمرهان و هم غوی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز کسی کز تو نماید پیروی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباشد او از گمرهان و هم غوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 27,
+      "Number": 27,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ین",
+      "PlainText": "در عیون و جنتند آن متقین\r\nادخلوها بسلام آمنین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر عیون و جنّتند آن متّقین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاُدخُلُوهَا بِسَلَامٍ آمِنِین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -556,13 +556,15 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "وَ لَقَدْ خَلَقْنَا اَلْإِنْسٰانَ مِنْ صَلْصٰالٍ مِنْ حَمَإٍ مَسْنُونٍ (۲۶) وَ اَلْجَانَّ خَلَقْنٰاهُ مِنْ قَبْلُ مِنْ نٰارِ اَلسَّمُومِ (۲۷) وَ إِذْ قٰالَ رَبُّکَ لِلْمَلاٰئِکَةِ إِنِّی خٰالِقٌ بَشَراً مِنْ صَلْصٰالٍ مِنْ حَمَإٍ مَسْنُونٍ (۲۸) فَإِذٰا سَوَّیْتُهُ وَ نَفَخْتُ فِیهِ مِنْ رُوحِی فَقَعُوا لَهُ سٰاجِدِینَ (۲۹) فَسَجَدَ اَلْمَلاٰئِکَةُ کُلُّهُمْ أَجْمَعُونَ (۳۰) إِلاّٰ إِبْلِیسَ أَبیٰ أَنْ یَکُونَ مَعَ اَلسّٰاجِدِینَ (۳۱) قٰالَ یٰا إِبْلِیسُ مٰا لَکَ أَلاّٰ تَکُونَ مَعَ اَلسّٰاجِدِینَ (۳۲) قٰالَ لَمْ أَکُنْ لِأَسْجُدَ لِبَشَرٍ خَلَقْتَهُ مِنْ صَلْصٰالٍ مِنْ حَمَإٍ مَسْنُونٍ (۳۳) قٰالَ فَاخْرُجْ مِنْهٰا فَإِنَّکَ رَجِیمٌ (۳۴) وَ إِنَّ عَلَیْکَ اَللَّعْنَةَ إِلیٰ یَوْمِ اَلدِّینِ (۳۵) قٰالَ رَبِّ فَأَنْظِرْنِی إِلیٰ یَوْمِ یُبْعَثُونَ (۳۶) قٰالَ فَإِنَّکَ مِنَ اَلْمُنْظَرِینَ (۳۷) إِلیٰ یَوْمِ اَلْوَقْتِ اَلْمَعْلُومِ (۳۸) قٰالَ رَبِّ بِمٰا أَغْوَیْتَنِی لَأُزَیِّنَنَّ لَهُمْ فِی اَلْأَرْضِ وَ لَأُغْوِیَنَّهُمْ أَجْمَعِینَ (۳۹) إِلاّٰ عِبٰادَکَ مِنْهُمُ اَلْمُخْلَصِینَ (۴۰) قٰالَ هٰذٰا صِرٰاطٌ عَلَیَّ مُسْتَقِیمٌ (۴۱) إِنَّ عِبٰادِی لَیْسَ لَکَ عَلَیْهِمْ سُلْطٰانٌ إِلاّٰ مَنِ اِتَّبَعَکَ مِنَ اَلْغٰاوِینَ (۴۲) وَ إِنَّ جَهَنَّمَ لَمَوْعِدُهُمْ أَجْمَعِینَ (۴۳) لَهٰا سَبْعَةُ أَبْوٰابٍ لِکُلِّ بٰابٍ مِنْهُمْ جُزْءٌ مَقْسُومٌ (۴۴) إِنَّ اَلْمُتَّقِینَ فِی جَنّٰاتٍ وَ عُیُونٍ (۴۵) اُدْخُلُوهٰا بِسَلاٰمٍ آمِنِینَ (۴۶)",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: ما انسان را از گل خشک و بدبو آفریدیم و جن را پیش از آن از آتش سوزان خلق کردیم. هنگامی که پروردگارت به فرشتگان گفت: «من بشری را از گل خشک و بدبو می‌آفرینم»، وقتی او را به خوبی ساختم و از روح خود در او دمیدم، بر او سجده کنید. فرشتگان همه با هم سجده کردند، جز ابلیس که نخواست با سجده‌کنندگان باشد. خدا به ابلیس گفت: «چرا نمی‌خواهی با سجده‌کنندگان باشی؟» ابلیس پاسخ داد: «من هرگز برای بشری که از گل خشک و بدبو خلق شده سجده نخواهم کرد.» خدا به او گفت: «از اینجا بیرون برو، تو رانده‌شده‌ای و لعنت الهی بر تو تا روز قیامت است.» ابلیس گفت: «پروردگارا، مرا تا روزی که برانگیخته می‌شوند مهلت بده.» خدا به او پاسخ داد: «تو تا روز معین مهلت داری.» ابلیس گفت: «به خاطر اینکه مرا گمراه کردی، من برای آنها در زمین زینت می‌زنم و همه‌شان را گمراه می‌کنم، مگر بندگان مخلص تو.» خدا فرمود: «این صراطی است راست بر من. بندگان من بر تو سلطه‌ای نخواهند داشت، مگر کسانی که از گمراهان پیرو تو می‌شوند. و جهنم، محل وعده آنها است، جهنم که هفت در دارد و برای هر در بخشی معین است. اما پرهیزکاران در بهشت‌ها و چشمه‌ها خواهند بود. به آنها با آرامش و ایمنی وارد شوید."
     },
     {
       "VOrder": 2,
       "Position": "Paragraph",
       "Text": "و بتحقیق که آفریدیم انسان را از گل خشک شده از لای کهنه و بدبوی (۲۶) و پدر پریان آفریدیمش از پیش از آتش سوزان بی‌دود (۲۷) و هنگامی که گفت پروردگار تو مر ملائکه را بدرستی که من آفریننده‌ام انسانی را از گل خشک از لای بدبوی (۲۸) پس چون راست کردم آن را و دمانیدم در او از روحم پس بیفتید مر او را سجده‌کنندگان (۲۹) پس سجده کردند مر او را فرشتگان همه ایشان تمامی (۳۰) بجز شیطان که ابا کرد که باشد با سجده‌کنندگان (۳۱) گفت ای شیطان چیست مر تو را که نمی‌باشی با سجده‌کنندگان (۳۲) گفت که نیستم که سجده کنم مر انسانی را که آفریدی او را از گل خشک شده از لای ریخته شده (۳۳) گفت پس بیرون رو از آن پس بدرستی که تو رانده شده (۳۴) و بدرستی که بر تست لعنت تا روز جزا (۳۵) گفت ای پروردگار من پس مهلت ده مرا تا روزی که برانگیخته شوند (۳۶) گفت پس بدرستی که تو از مهلت‌دادگانی (۳۷) تا روز وقت دانسته شده (۳۸) گفت پروردگار من با آنان که اغوا کردی مرا هر آینه آراسته می‌کنم از برای ایشان در زمین و هر آینه باز دارم ایشان را همگی (۳۹)مگر بندگان تو از ایشان که مخلصان‌اند (۴۰) گفت این راهیست بر من راست (۴۱) بدرستی که بندگان من نیست مر تو را بر ایشان تسلطی مگر آنکه پیروی کرد تو را از گمراهان (۴۲) و بدرستی که دوزخ هر آینه وعده‌گاه ایشان است همه (۴۳) مر آن راست هفت در مر هر در بر است از ایشان پارۀ قسمت کرده شده (۴۴) بدرستی که پرهیزگاران باشند در بهشتها و چشمه‌ها (۴۵) داخل شوید آنها را بسلامتی ایمنان (۴۶)",
-      "CoupletIndex": 1
+      "CoupletIndex": 1,
+      "CoupletSummary": "هوش مصنوعی: خداوند انسان را از گل خشک و بدبوی آفرید و پدر پریان را از آتش بی‌دود خلق کرد. وقتی خدا به ملائکه گفت که انسانی را از گل خشک می‌آفریند، پس از اینکه آن را درست کرد و روح در آن دمید، ملائکه به او سجده کردند، اما شیطان از سجده کردن سرباز زد. خدا از شیطان پرسید چرا سجده نمی‌کنی، و او پاسخ داد که سجده برای انسانی که از گل خشک شده است، جایز نیست. سپس خدا شیطان را مورد لعنت قرار داد و او خواست که تا روز قیامت مهلت داده شود. خدا به او اجازه مهلت داد و شیطان تصمیم گرفت بندگان خدا را در زمین اغوا کند، اما گفت که بندگان مخلص تحت سلطه او نخواهند بود. در نهایت، وعده‌ای برای دوزخ و بهشت برای بندگان درستکار داده شد که آنها به بهشت و نعمت‌ها وارد خواهند شد."
     },
     {
       "VOrder": 3,
@@ -570,7 +572,8 @@
       "Text": "آفریدیم آدم از صَلْصَال ما",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ما انسان را از گل خشک آفریدیم، این اشاره به آغاز خلقت اوست."
     },
     {
       "VOrder": 4,
@@ -586,7 +589,8 @@
       "Text": "وآن گِلی بُد تیره و بگرفته بوی",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: این گل، تیره و بدبو بود، بویی شبیه به لجن در عمق حوض و جوی آب داشت."
     },
     {
       "VOrder": 6,
@@ -602,7 +606,8 @@
       "Text": "جان که پریان را پدر از پیش بود",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: جان که پدر پریان است را از آتش بی‌دود آفریدیم."
     },
     {
       "VOrder": 8,
@@ -618,7 +623,8 @@
       "Text": "کز لطافت می رود اندر مَسام",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: به خاطر نرمی و لطافتی که دارد، به داخل مجراها و منافذ می‌رود و این ناشی از قدرت پروردگار جهانیان است."
     },
     {
       "VOrder": 10,
@@ -634,7 +640,8 @@
       "Text": "یاد کن پروردگارت چونکه گفت",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: به یاد داشته باش پروردگارت را، وقتی که به فرشتگان گفت که آدم را به خاطر فضیلت‌هایش در وجودش نهفته است."
     },
     {
       "VOrder": 12,
@@ -650,7 +657,8 @@
       "Text": "کآفرینم از گل خشکی بشر",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: آفریننده من از تکه‌ای گل خشک انسانی را ساخته که بوی ناپسندی دارد یا در تصویر او را به شکلی دیگر نمایان کرده است."
     },
     {
       "VOrder": 14,
@@ -666,7 +674,8 @@
       "Text": "پس چو سازم راست یعنی مستعد",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: وقتی که من درست و آماده می‌شوم، از روح خودم در او به طور جدی بهره می‌برم."
     },
     {
       "VOrder": 16,
@@ -682,7 +691,8 @@
       "Text": "چون نمایم زنده او را از یقین",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: زمانی که او را از یقین زنده و واقعی می‌بینم، سپس به سجده بر او فرود می‌آید بندگان."
     },
     {
       "VOrder": 18,
@@ -698,7 +708,8 @@
       "Text": "پس در آدم چون نمود او نفخ روح",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: وقتی که در وجود آدمی روح خدا دمیده شد، فرشتگان به وضوح و با احترام به او سجده کردند."
     },
     {
       "VOrder": 20,
@@ -714,7 +725,8 @@
       "Text": "جملگی کردند سجده جز بلیس",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: همه به سجده افتادند جز ابلیس که با دیگران سجده نکرد به خاطر کینه‌ای که داشت."
     },
     {
       "VOrder": 22,
@@ -730,7 +742,8 @@
       "Text": "حق تعالی گفت ای ابلیس چون",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: خداوند به ابلیس فرمود: ای ابلیس، چرا سجده نکردی و از فرمان من سرپیچی کردی؟ مگر تو چه چیزی را داری که خود را برتر از دیگران می‌دانی؟"
     },
     {
       "VOrder": 24,
@@ -746,7 +759,8 @@
       "Text": "گفت ساجد من نگردم حاصلش",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: ساجد می‌گوید: من به‌خاطر کسی که از گل آفریده شده، خود را نمی‌پرستم."
     },
     {
       "VOrder": 26,
@@ -762,7 +776,8 @@
       "Text": "بُد گلی خشک و سیاه و بوی ناک",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: گل خشک و سیاه بوی بدی دارد، همان‌گونه که آب و خاک هم عناصر ابتدایی هستند."
     },
     {
       "VOrder": 28,
@@ -778,7 +793,8 @@
       "Text": "چون ز سجده کرد اِباء و امتناع",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: وقتی که از روی سجده سرباز زد و خود را از مقام بلند و عزت سقوط کرد."
     },
     {
       "VOrder": 30,
@@ -794,7 +810,8 @@
       "Text": "گفت حق پس رو برون ای بد سرشت",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: حق به تو می‌گوید که ای شخص ناپاک، پیغام محبت را از آسمان، فرشتگان یا بهشت بپذیر و از خودت دور شو."
     },
     {
       "VOrder": 32,
@@ -810,7 +827,8 @@
       "Text": "بر تو باشد راندگی تا یوم دین",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: بر تو خواهد بود عذاب و سزا تا روز قیامت، پس از آن نیز لعنت و عذابی دیگر در انتظار تو خواهد بود."
     },
     {
       "VOrder": 34,
@@ -826,7 +844,8 @@
       "Text": "گفت مهلت ده پس ای پروردگار",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: ای خدا، گفت مهلت بده تا روزی که در قیامت برانگیخته شوم و در این دنیا زندگی کنم."
     },
     {
       "VOrder": 36,
@@ -842,7 +861,8 @@
       "Text": "گفت پس باشی تو مهلت یافته",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: گفت پس تو زمانی را به دست آورده‌ای که به موقع خاصی که مشخص شده، به سوی آن بروی."
     },
     {
       "VOrder": 38,
@@ -858,7 +878,8 @@
       "Text": "روز موعودی که آن معلوم ماست",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: روزی که وعده داده شده و ما از آن باخبر هستیم، در دفتر تقدیر ما ثبت شده است و غیرقابل تغییر است."
     },
     {
       "VOrder": 40,
@@ -874,7 +895,8 @@
       "Text": "گفت او رَبِّ بِمَآ أغْوَیتَنِی",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: او گفت: «پروردگارا، به خاطر اینکه مرا به گمراهی انداختی، من نیز به تزیین بدی‌ها برای هر شخصی می‌پردازم.»"
     },
     {
       "VOrder": 42,
@@ -890,7 +912,8 @@
       "Text": "در زمین کآنجا بود دار الغرور",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: در زمینی که سرشار از فریب و وسوسه‌هاست، جایی که گناهان و نافرمانی‌ها و بدی‌ها وجود دارند."
     },
     {
       "VOrder": 44,
@@ -906,7 +929,8 @@
       "Text": "جمله را گمراه سازم از فساد",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: من همۀ افراد را به اشتباه می‌اندازم، مگر آن‌هایی که در سرشت خود عبادت خالص تو را دارند."
     },
     {
       "VOrder": 46,
@@ -922,7 +946,8 @@
       "Text": "گفت حق ز اخلاص باشد راه راست",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: حقیقت این است که تنها از روی خلوص نیت می‌توان به راه راست رسید و اصل دعوی در پیروی و بندگی خداوند است."
     },
     {
       "VOrder": 48,
@@ -938,7 +963,8 @@
       "Text": "یا صراط من به اخلاص قویم",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: مسیر من به سمت صداقت و خلوص قوی‌تر می‌شود و در نتیجه، بندگانم را به راه راست هدایت می‌کند."
     },
     {
       "VOrder": 50,
@@ -954,7 +980,8 @@
       "Text": "مر تو را نبود بر ایشان سلطنت",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: تو بر این افراد تسلطی نداری؛ در گمراهی و فتن، از هر سو مشکلاتی وجود دارد."
     },
     {
       "VOrder": 52,
@@ -970,7 +997,8 @@
       "Text": "جز کسی کز تو نماید پیروی",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: جز کسی که از تو پیروی کند، دیگران گمراه و بی‌هویت هستند."
     },
     {
       "VOrder": 54,
@@ -984,7 +1012,8 @@
       "VOrder": 55,
       "Position": "Paragraph",
       "Text": "« معنی خاص در غفران الهی »",
-      "CoupletIndex": 28
+      "CoupletIndex": 28,
+      "CoupletSummary": "هوش مصنوعی: «غفران الهی» به معنای بخشش و رحمت خداوند است. این مفهوم نشان‌دهنده توانایی خداوند در گذشت از گناهان و نادیده گرفتن خطاهای بندگانش می‌باشد. وقتی از غفران الهی صحبت می‌شود، به این نکته اشاره می‌شود که خداوند با رحمت و بخشش خود، به انسان‌ها فرصتی دوباره برای بهبود و اصلاح می‌دهد و این امکان را فراهم می‌آورد که با توبه و ندامت، دوباره به سوی او بازگردند. غفران الهی نشان‌دهنده عشق و مهربانی بی‌نهایت خداوند نسبت به بندگانش است و به نوعی پیامی امیدبخش به شمار می‌آید که هرکس می‌تواند به رحمت خداوند دست یابد."
     },
     {
       "VOrder": 56,
@@ -992,7 +1021,8 @@
       "Text": "مر صفی را نکته ای آمد به هوش",
       "CoupletIndex": 29,
       "SectionIndex1": 1,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: یک نکته مهم به ذهن صوفی خطور کرد که ممکن است ناشی از الهام الهی باشد."
     },
     {
       "VOrder": 57,
@@ -1008,7 +1038,8 @@
       "Text": "گفت حق نتوانی افکندن به گاه",
       "CoupletIndex": 30,
       "SectionIndex1": 1,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: گفتن این است که تو نمی‌توانی حق را به بندگانم برگردانی، زیرا خودت در گناهی."
     },
     {
       "VOrder": 59,
@@ -1024,7 +1055,8 @@
       "Text": "که نه بر وی عفو من در دم رسد",
       "CoupletIndex": 31,
       "SectionIndex1": 1,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: اگر به او ببخشم، برایم ممکن نیست؛ حتی اگر کوهی در برابر او باشد که او را متلاشی کند."
     },
     {
       "VOrder": 61,
@@ -1040,7 +1072,8 @@
       "Text": "آنچه تو عمری زنی ره بر گناه",
       "CoupletIndex": 32,
       "SectionIndex1": 1,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: هر آنچه که تو در طول عمرت برای گناه من انجام دادی، من در یک لحظه بی‌خطا می‌بخشم."
     },
     {
       "VOrder": 63,
@@ -1056,7 +1089,8 @@
       "Text": "هر چه اغوا ء را کنی افزوده تر",
       "CoupletIndex": 33,
       "SectionIndex1": 1,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: هرچقدر که سعی کنی من را فریب دهی، این تلاش بیشتر باعث می‌شود که مورد بخشش من قرار نگرفته و بی‌فایده تر شود."
     },
     {
       "VOrder": 65,
@@ -1072,7 +1106,8 @@
       "Text": "این است هم وجهی که گفتم ز ایمنی",
       "CoupletIndex": 34,
       "SectionIndex1": 1,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: اگر تو به این تحقیق ایمان نیاوری، همین دلیل است که گفته‌ام ایمنی وجود دارد."
     },
     {
       "VOrder": 67,
@@ -1088,7 +1123,8 @@
       "Text": "سخت مغروری به طاعاتت یقین",
       "CoupletIndex": 35,
       "SectionIndex1": 1,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: تو به طاعت و عبادتت خیلی مغروری، اما من را هم با گناهکاران و خطاکاران همراه کن."
     },
     {
       "VOrder": 69,
@@ -1104,7 +1140,8 @@
       "Text": "تا مگر با عاصیان شرمسار",
       "CoupletIndex": 36,
       "SectionIndex1": 1,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: ما امیدواریم که با عاصیان شرمنده شویم و بتوانیم در برابر عفو خداوند امیدوار باشیم."
     },
     {
       "VOrder": 71,
@@ -1120,7 +1157,8 @@
       "Text": "لیک آن کز عفو من شد نا امید",
       "CoupletIndex": 37,
       "SectionIndex1": 1,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اما کسی که از بخشش من ناامید شد، به ظلم و فریب تو دچار شد."
     },
     {
       "VOrder": 73,
@@ -1136,7 +1174,8 @@
       "Text": "پس جهنم هست بی شک وعده گاه",
       "CoupletIndex": 38,
       "SectionIndex1": 1,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: به طور یقین جهنم محل انتظار پیروان توست، چون خودت آن‌ها را از مسیر راست منحرف کردی."
     },
     {
       "VOrder": 75,
@@ -1152,7 +1191,8 @@
       "Text": "هست دوزخ را همانا هفت در",
       "CoupletIndex": 39,
       "SectionIndex1": 1,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: دوزخ دارای هفت در است و هر یک از این درها مخصوص گروهی از اهل عذاب است."
     },
     {
       "VOrder": 77,
@@ -1168,7 +1208,8 @@
       "Text": "باب های آن بود حرص و هوی",
       "CoupletIndex": 40,
       "SectionIndex1": 1,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: بنیاد این مسائل عبارت است از طمع و خواسته‌های نفسانی، همچنین حسادت و تکبر، خشم و کینه، و دروغ و تزویر."
     },
     {
       "VOrder": 79,
@@ -1184,7 +1225,8 @@
       "Text": "وقت خشم ار حلم کردی ، رسته ای",
       "CoupletIndex": 41,
       "SectionIndex1": 1,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: زمانی که در هنگام خشم صبر و تحمّل نشان دهی، باعث می‌شوی که از آتش جهنم دور بمانی و خودت را از آن نجات دهی."
     },
     {
       "VOrder": 81,
@@ -1200,7 +1242,8 @@
       "Text": "ور خضوع آری به جای کبر پیش",
       "CoupletIndex": 42,
       "SectionIndex1": 1,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: اگر در مقابل دیگران تواضع کنی به جای اینکه تکبر و arrogance به خرج دهی، در واقع در را به روی خودت بسته‌ای و فرصت‌های دیگر را از دست می‌دهی."
     },
     {
       "VOrder": 83,
@@ -1216,7 +1259,8 @@
       "Text": "همچنین هر خُلق بد را سر بُری",
       "CoupletIndex": 43,
       "SectionIndex1": 1,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: هر خُلق و رفتاری که ناپسند و بد باشد، تو با دست خود، راه ورود به جهنم را برای خود محکم کرده‌ای."
     },
     {
       "VOrder": 85,
@@ -1232,7 +1276,8 @@
       "Text": "دوزخت نفس است و ابواب این خصال",
       "CoupletIndex": 44,
       "SectionIndex1": 1,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: نفس انسان مانند دوزخ است و ویژگی‌های خاص آن باعث می‌شود که شیطان افراد را به سوی عذاب و زحمت بکشاند."
     },
     {
       "VOrder": 87,
@@ -1248,7 +1293,8 @@
       "Text": "کن به وی لعنت مرو بر دعوتش",
       "CoupletIndex": 45,
       "SectionIndex1": 1,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: اگر از نیت و عمل او آگاه شدی، بر دعوتش لعنت نکن و از او دوری بجوی."
     },
     {
       "VOrder": 89,
@@ -1264,7 +1310,8 @@
       "Text": "حق فرستاد انبیاء را پی به پی",
       "CoupletIndex": 46,
       "SectionIndex1": 1,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: خداوند به‌طور پی در پی پیامبران را فرستاده است تا تو را از فریب شیطان آگاه کنند."
     },
     {
       "VOrder": 91,
@@ -1280,7 +1327,8 @@
       "Text": "با تو گفتند آنچه بود از خوب و زشت",
       "CoupletIndex": 47,
       "SectionIndex1": 1,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: با تو درباره همه چیز، خوب‌ها و بدها، مسیر زندگی و مقاصد آن، از جهنم و بهشت صحبت کردند."
     },
     {
       "VOrder": 93,
@@ -1296,7 +1344,8 @@
       "Text": "عقل باشد در تو ز ایشان نائبی",
       "CoupletIndex": 48,
       "SectionIndex1": 1,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: اگر در وجود تو عقل و فهمی وجود داشته باشد، آن وقت خود دلیلی است بر این که نماینده‌ای از آن عقل همیشه در دسترس است. حتی اگر تو از آن حکمت‌ها دور باشی، باز هم آن عقل در درون تو حاضر و ناظر است."
     },
     {
       "VOrder": 95,
@@ -1312,7 +1361,8 @@
       "Text": "عقل خواند بر کتاب ایزدت",
       "CoupletIndex": 49,
       "SectionIndex1": 1,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: عقل تو مانند کتابی است که خداوند به تو نشان می‌دهد و به تو راه را در خوب و بد زندگی‌ات نشان می‌دهد."
     },
     {
       "VOrder": 97,
@@ -1328,7 +1378,8 @@
       "Text": "می نگشتی متفق با آن فریق",
       "CoupletIndex": 50,
       "SectionIndex1": 1,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: تو زمانی که با آن گروه همراه نبودی، چرا اکنون در مسیر دزدان قدم می‌گذاری؟"
     },
     {
       "VOrder": 99,
@@ -1344,7 +1395,8 @@
       "Text": "پس منال از دوزخ از خود کن گله",
       "CoupletIndex": 51,
       "SectionIndex1": 1,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: پس از دوزخ گله‌ای نکن، زیرا دلیل آن این است که تو از همراهان و همسفرانت به دور مانده‌ای."
     },
     {
       "VOrder": 101,
@@ -1360,7 +1412,8 @@
       "Text": "پیشوایت عقل با تمییز کن",
       "CoupletIndex": 52,
       "SectionIndex1": 1,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: عقلی که به تو راهنمایی می‌کند، را با دقت بشناس و از خواسته‌های ناپسند خود دوری کن."
     },
     {
       "VOrder": 103,
@@ -1376,7 +1429,8 @@
       "Text": "در عیون و جنّتند آن متّقین",
       "CoupletIndex": 53,
       "SectionIndex1": 1,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: متقین در بهشت و باغ‌های زیبا قرار دارند. به آنها گفته می‌شود که با سلامتی و آرامش وارد شوید."
     },
     {
       "VOrder": 105,
@@ -1392,7 +1446,8 @@
       "Text": "این بود قول ملایک با عباد",
       "CoupletIndex": 54,
       "SectionIndex1": 1,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که ملائکه به بندگان صالح این وعده را داده‌اند که از هر نوع نقص و فساد دور خواهند بود و در واقع آنها را از مشکلات و آسیب‌ها محفوظ نمی‌دارند."
     },
     {
       "VOrder": 107,

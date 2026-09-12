@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای که از بهر خدمت در تو",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که به خاطر خدمت، سرنوشت به تو روی آورده و به تو لذت و خوشبختی داده است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "پیش از آن کم زمانه آش کند",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پیش از آنکه زمانه به بدی دچار شود، لطف کن و سدی را بفرست تا این آرد را آماده کند."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "هر که از دیدن تو خرم نیست",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که از دیدن تو شاد نیست، باید آنقدر بی‌فرق باشد که باد را در گوشش بگذارد و درد را در دلش حس کند."
     },
     {
       "VOrder": 6,

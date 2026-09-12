@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "این سودایی که میدواند ما را",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این خیال و آرزویی که ما را همیشه مشغول می‌کند، هیچ‌گاه نمی‌توانیم آن را آرام کنیم یا به حالت سکون درآوریم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گویند که خویش را فرود آر آخر",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌گویند که خودت را پایین بیاور، اما من نمی‌دانم چگونه می‌توانم دریا را به بند بکشم."
     },
     {
       "VOrder": 4,

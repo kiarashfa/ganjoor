@@ -301,7 +301,8 @@
       "Text": "یکی از شهریاران زمانه",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: یکی از شاهان و بزرگان زمانه که الان وجود ندارد، فقط نامش باقی مانده است."
     },
     {
       "VOrder": 2,
@@ -317,7 +318,8 @@
       "Text": "سوی سقراط دانا راه سر کرد",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: شخصی به سمت سقراط، فیلسوف بزرگ، رفت و در خواب دید که بر او گذر می‌کند."
     },
     {
       "VOrder": 4,
@@ -333,7 +335,8 @@
       "Text": "بدان دانا حکیم، آن فتنه‌انگیز",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: آگاه باش که آن فرد عالم و حکیم، کسی را که در حال ایجاد تفرقه و فتنه است، باید از پا درآورد تا از جای خود برخیزد و از بین برود."
     },
     {
       "VOrder": 6,
@@ -349,7 +352,8 @@
       "Text": "چه از خواب آن خردمند هشیوار",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: خردمند بیدار با آگاهی از خوابش، به خاطر جسارت و بی‌احترامی سلطان از خواب بیدار شد."
     },
     {
       "VOrder": 8,
@@ -365,7 +369,8 @@
       "Text": "بدان جاه و جلال و پادشاهی",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: آدمی در پاکی و عظمت و مقام خود، به بی‌اعتنایی و نادیده گرفتن دیگران نیازی ندارد."
     },
     {
       "VOrder": 10,
@@ -381,7 +386,8 @@
       "Text": "شه نادان سوی وی کرد پرخاش",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: پادشاه نادانی به او حمله‌ور شد و گفت: تا کی می‌خواهی بی‌خبری و لحظه‌ای به خودت فکر نکنی؟"
     },
     {
       "VOrder": 12,
@@ -397,7 +403,8 @@
       "Text": "مرا با این همه محکم اساسی",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: آیا تو می‌توانی با این همه قدرت و استحکام من را بشناسی یا نمی‌دانی که کی هستم؟"
     },
     {
       "VOrder": 14,
@@ -413,7 +420,8 @@
       "Text": "جوابش داد سقراط خردمند",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: سقراط، خردمند، به او پاسخ داد که از این سخنان بی‌اساس سکوت کن."
     },
     {
       "VOrder": 16,
@@ -429,7 +437,8 @@
       "Text": "تو را با ین همه کبر و منی من",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: من نمی‌فهمم که با این همه تبختر و غرور تو، چه چیزی غیر از یک موجود بی‌احساس و بی‌ثمر مانند یک حیوان در حال لگد زدن وجود دارد."
     },
     {
       "VOrder": 18,
@@ -445,7 +454,8 @@
       "Text": "وگرنه با تمام خود ستایی",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اگر به‌خود مغرور شوی و به خود ببالید، مثل حیوانی می‌شوی که بی‌فکر و بی‌دلیل می‌نوازد و به اطراف می‌کوبد."
     },
     {
       "VOrder": 20,
@@ -461,7 +471,8 @@
       "Text": "گر انسانی چرا ای مرد گمراه",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: اگر تو انسان هستی، پس چرا ای مرد گمراه، به ناگاه به خواب کسی که خوابیده، حمله‌ور می‌شوی؟"
     },
     {
       "VOrder": 22,
@@ -477,7 +488,8 @@
       "Text": "ز این گفتار، همچون مار ارقم",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: این سخن مانند مار زهرآلو شده و در هم پیچید."
     },
     {
       "VOrder": 24,
@@ -493,7 +505,8 @@
       "Text": "بدو گفتا ز روی کبر و نخوت",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: به او گفته شد که به خاطر تکبر و خودشیفتگی، آیا رعیت می‌تواند با سلطان به این شکل صحبت کند؟"
     },
     {
       "VOrder": 26,
@@ -509,7 +522,8 @@
       "Text": "مکش افزون ز حد خویشتن پا",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: هرگز خود را از حد و مرز خود فراتر نبر، زیرا من بنده‌ای هستم و تو بر من ارباب."
     },
     {
       "VOrder": 28,
@@ -525,7 +539,8 @@
       "Text": "تبسمکرد سقراط و به سلطان",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: سقراط لبخندی زد و به شاه گفت: ای پادشاه نادان."
     },
     {
       "VOrder": 30,
@@ -541,7 +556,8 @@
       "Text": "بُخار ما و من از سر به در کن",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: از خودخواهی و ذهنیت‌های محدود رها شو و از حرف‌های زشت و ناگوار دوری کن."
     },
     {
       "VOrder": 32,
@@ -557,7 +573,8 @@
       "Text": "که از شیادی این گردون پر شید",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: این دنیا پر از فریب و نیرنگ است و تو به عنوان یک صیاد ماهر، توانسته‌ای شکارهای زیادی در این دنیای فریب‌آمیز به دست بیاوری."
     },
     {
       "VOrder": 34,
@@ -573,7 +590,8 @@
       "Text": "همین طبل و همین نقاره و کوس",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که این صداها و نواها، همانند طبل و نقاره و صدای سازها، به همانگونه‌ای است که در روزگار شخصیت‌های بزرگ تاریخ مانند اسفندیار، نوذر و طوس وجود داشته است. اشاره به این دارد که هنوز هم این آوازها و جشن‌ها ادامه دارد و نشانه‌ای از گذشته است."
     },
     {
       "VOrder": 36,
@@ -589,7 +607,8 @@
       "Text": "همین تاج و نگین و افسر و تخت",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: این تاج و جواهرات و تخت سلطنت، همگی در جای خود باقی مانده‌اند و متعلق به ضحاک بدبخت است."
     },
     {
       "VOrder": 38,
@@ -605,7 +624,8 @@
       "Text": "همین سنج و همین بوق و علم بود",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: این سنج و بوق و علم، همانند ابزار و نشانه‌هایی است که از طهمورث و جمشید، شخصیت‌های برجسته تاریخی و افسانه‌ای، به ما رسیده است."
     },
     {
       "VOrder": 40,
@@ -621,7 +641,8 @@
       "Text": "تو را هر چیز کز وی افتخار است",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که باعث افتخار تو می‌شود، یادگاری از شاهان زمانه است."
     },
     {
       "VOrder": 42,
@@ -637,7 +658,8 @@
       "Text": "کجا رفتند کز ایشان نشان نیت",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: کجا رفتند آن‌هایی که نشانی از نیتشان باقی نیست؟ چرا هیچ نامی از آن‌ها در میان ما نیست؟"
     },
     {
       "VOrder": 44,
@@ -653,7 +675,8 @@
       "Text": "بداند هر که دارای شعور است",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که هوش و درایت داشته باشد، می‌داند که وجود یک حاکم برای فقیران و نیازمندان ضروری است."
     },
     {
       "VOrder": 46,
@@ -669,7 +692,8 @@
       "Text": "به سامان خردمندان ساده",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: به نظر خردمندان، بهتر است که از خودستایی و غرور خود را کنار گذاشته و به‌جای آن، با تواضع و فروتنی رفتار کنی."
     },
     {
       "VOrder": 48,
@@ -685,7 +709,8 @@
       "Text": "بیا تا خلوتی را برگزینیم",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: بیا یک جای آرام و دور از شلوغی پیدا کنیم تا بتوانیم با هم صحبت کنیم و وقت بگذرانیم."
     },
     {
       "VOrder": 50,
@@ -701,7 +726,8 @@
       "Text": "سخن از هر دری با هم برانیم",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: بیایید درباره هر موضوعی با هم صحبت کنیم و نقاط ضعف و قوت یکدیگر را بشناسیم."
     },
     {
       "VOrder": 52,
@@ -717,7 +743,8 @@
       "Text": "بلی (صامت) سر خاک سیاهی",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: بله، خاک سیاه بر سر، بهتر از هزاران تخت شاهی است."
     },
     {
       "VOrder": 54,

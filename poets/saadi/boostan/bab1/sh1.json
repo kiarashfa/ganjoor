@@ -951,7 +951,8 @@
       "Text": "شنیدم که در وقت نزع روان",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "شنیدم که انوشیروان به هنگام مرگ، با هرمز اینگونه سخن گفت."
     },
     {
       "VOrder": 2,
@@ -967,7 +968,8 @@
       "Text": "که خاطر‌نگهدار درویش باش",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "باید به فکر دیگران، به ویژه درویشان و نیازمندان باشی و نه فقط به فکر آسایش خودت."
     },
     {
       "VOrder": 4,
@@ -983,7 +985,8 @@
       "Text": "نیاساید اندر دیار تو کس",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "اگر تنها به فکر آرامش و آسایش خود باشی، هیچ‌کس در سرزمینت آرامش نمی‌یابد."
     },
     {
       "VOrder": 6,
@@ -999,7 +1002,8 @@
       "Text": "نیاید به نزدیک دانا پسند",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "انسان دانا نمی پسندد که چوپان خوابیده و گرگ گوسپندان را بدرد و پاره کند"
     },
     {
       "VOrder": 8,
@@ -1015,7 +1019,8 @@
       "Text": "برو پاس درویش محتاج دار",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "برو و مراقب درویش نیازمند باش، زیرا شاه از رعیت خود تاج به سر دارد."
     },
     {
       "VOrder": 10,
@@ -1031,7 +1036,8 @@
       "Text": "رعیّت چو بیخند و سلطان درخت",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "فرمانروا مانند درختی‌ست که مردم ریشهٔ آن هستند. ای پسر، استحکام درخت از ریشه‌اش است."
     },
     {
       "VOrder": 12,
@@ -1047,7 +1053,8 @@
       "Text": "مکُن تا توانی دل خلق ریش",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "تا می‌توانی مردم را نیازار، چرا که با این کار، ریشهٔ حکومت خویش را از جا می‌کنی."
     },
     {
       "VOrder": 14,
@@ -1063,7 +1070,8 @@
       "Text": "اگر جاده‌ای بایدت مستقیم",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "باید راه درست و راست را پیش بگیری و آن راه این است که به خدا امیدوار باشی و از تنبیه و کیفر او بترسی."
     },
     {
       "VOrder": 16,
@@ -1079,7 +1087,8 @@
       "Text": "طبیعت شود مرد را بخردی",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "با امید به خوبی و ترس از بدی، خردمندی در فطرت و سرشت انسان راه می‌یابد."
     },
     {
       "VOrder": 18,
@@ -1095,7 +1104,8 @@
       "Text": "گر این هر دو در پادشه یافتی",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "آن‌گاه که این دو خصلت (امید و بیم) را در پادشاهی ببینی، سرزمین وی می‌تواند محل امن تو باشد و در آن‌جا می‌توانی با آرامش زندگی کنی."
     },
     {
       "VOrder": 20,
@@ -1111,7 +1121,8 @@
       "Text": "که بخشایش آرَد بر امّیدوار",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "زیرا که پادشاه آن سرزمین به امید بخشوده‌شدن توسط خدا، از گناه رعیتِ امیدوار به عفو پادشاهشان می‌گذرد."
     },
     {
       "VOrder": 22,
@@ -1127,7 +1138,8 @@
       "Text": "گزند کسانش نیاید پسند",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "او آزار و آسیب به مردم را نمی‌پسندد، چرا که از آسیب به کشور و مملکتش می‌ترسد."
     },
     {
       "VOrder": 24,
@@ -1143,7 +1155,8 @@
       "Text": "وگر در سرشت وی این خوی نیست",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "و اگر در ذات او این ویژگی (خداترسی و پاسداری مردم) نباشد، در سرزمینش هیچ نشانی از آرامش و آسایش نخواهد بود."
     },
     {
       "VOrder": 26,
@@ -1159,7 +1172,8 @@
       "Text": "اگر پای‌بندی رضا پیش گیر",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "اگر در آن کشور پای‌بندی و ناگزیر به اقامت در آن‌جا هستی، به هرچه هست راضی باش و اگر مجرد و تنهایی، آن‌جا را ترک و به سرزمین دیگر کوچ کن و برو."
     },
     {
       "VOrder": 28,
@@ -1175,7 +1189,8 @@
       "Text": "فراخی در آن مرز و کشور مخواه",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "در آن سرزمین که مردم از پادشاه آزرده‌اند، به دنبال وسعت رزق و خوشی نگرد، چون نخواهی دید."
     },
     {
       "VOrder": 30,
@@ -1191,7 +1206,8 @@
       "Text": "ز مستکبران دلاور بترس",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "از گردنکشان دلیر و بی‌باک (از فرمان خدا) بترس، همان‌هایی که از خدا هم نمی‌ترسند."
     },
     {
       "VOrder": 32,
@@ -1207,7 +1223,8 @@
       "Text": "دگر کشور آباد بیند به خواب",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "پادشاهی که دل رعیت را پریشان و آزرده سازد، جز در خواب و رویا، کشورش را آباد نخواهد دید."
     },
     {
       "VOrder": 34,
@@ -1223,7 +1240,8 @@
       "Text": "خرابی و بدنامی آید ز جور",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "از ظلم و ستم، ویرانی کشور و بدنامی شاه حاصل می‌شود. شخص عاقبت‌اندیش در این سخن تأمل می‌کند."
     },
     {
       "VOrder": 36,
@@ -1239,7 +1257,8 @@
       "Text": "رعیّت نشاید به بیداد کُشت",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "کشتن رعیت به ستم، شایسته نیست؛ زیرا آن‌ها اساس و پشتیبان سلطنت هستند."
     },
     {
       "VOrder": 38,
@@ -1255,7 +1274,8 @@
       "Text": "مراعات دهقان کن از بهر خویش",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "به خاطر خودت به کشاورز و روستایی احترام بگذار؛ زیرا کارگرِ مزدبگیرِ دل‌شاد، در کار تلاش بیشتری خواهد کرد."
     },
     {
       "VOrder": 40,
@@ -1271,7 +1291,8 @@
       "Text": "مروّت نباشد بدی با کسی",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "انصاف نیست با آن که از او خوبی بسیار دیده‌ای، بدی کنی."
     },
     {
       "VOrder": 42,
@@ -1287,7 +1308,8 @@
       "Text": "شنیدم که خسرو به شیرویه گفت",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "شنیدم که خسرو پرویز به هنگام مرگ به فرزندش شیرویه گفت…"
     },
     {
       "VOrder": 44,
@@ -1303,7 +1325,8 @@
       "Text": "بر آن باش تا هرچه نیّت کنی",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "بکوش همیشه در تصمیم‌هایت به خیر و صلاح مردم توجه داشته باشی."
     },
     {
       "VOrder": 46,
@@ -1319,7 +1342,8 @@
       "Text": "الا تا نپیچی سر از عدل و رای",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "آگاه باش و دریاب که از عدالت و دادگری رو نتابی تا مردم از کشور تو به سرزمین دیگر کوچ نکنند."
     },
     {
       "VOrder": 48,
@@ -1335,7 +1359,8 @@
       "Text": "گریزد رعیّت ز بیدادگر",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "رعیت از ستمگر می‌گریزند و نام او را به بدی و زشتی مشهور می‌کنند."
     },
     {
       "VOrder": 50,
@@ -1351,7 +1376,8 @@
       "Text": "بسی بر‌نیاید که بنیاد خوَد",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "دیری نمی‌پاید که آن‌کس که بنیاد زشت‌کاری را می‌گذارد، اساس خود را نابود کند."
     },
     {
       "VOrder": 52,
@@ -1367,7 +1393,8 @@
       "Text": "خرابی کُنَد مرد شمشیر‌زن",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "جنگ و شمشیرکشی سپاه، آسیب و زیان می‌رساند؛ اما زاری دل کودک و زن بیش از آن در اساس مملکت ویرانی می‌آورد."
     },
     {
       "VOrder": 54,
@@ -1383,7 +1410,8 @@
       "Text": "چراغی که بیوه‌زنی برفروخت",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "همانا بسیار دیده‌ای چراغ آه و نالهٔ دل زنی بیوه، چگونه کشوری را آتش می‌زند."
     },
     {
       "VOrder": 56,
@@ -1399,7 +1427,8 @@
       "Text": "از آن بهره‌ورتر در آفاق کیست",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هیچ‌کس از پادشاهی که در میان مردم به انصاف زندگی می‌کند، کامیاب‌تر نیست."
     },
     {
       "VOrder": 58,
@@ -1415,7 +1444,8 @@
       "Text": "چو نوبت رسد زین جهان غربتش",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "زمانی که مرگ آن فرمانروا فرا می‌رسد، مردم\u00A0 از خداوند برای او طلب آمرزش و رحمت خواهند کرد."
     },
     {
       "VOrder": 60,
@@ -1431,7 +1461,8 @@
       "Text": "بد و نیک مردم چو می‌بگذرند",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "چون تمام انسان‌ها – خوب و بد – خواهند مرد، بهتر آن است که نام تو به نیکی و خوبی مشهور گردد."
     },
     {
       "VOrder": 62,
@@ -1447,7 +1478,8 @@
       "Text": "خداترس را بر رعیّت گمار",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: کسی که از خدا می‌ترسد را به عنوان مسئول مردم انتخاب کن، زیرا او کسی است که می‌تواند به درستی جامعه را بسازد و نگه دارد."
     },
     {
       "VOrder": 64,
@@ -1463,7 +1495,8 @@
       "Text": "بد‌اندیش توست آن و خون‌خوار خلق",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "شخصی که به فکر تلمید منافع تو ولو به قیمت آزار مردم است، بدخواه تو و آزارگر خلق است."
     },
     {
       "VOrder": 66,
@@ -1479,7 +1512,8 @@
       "Text": "ریاست به دست کسانی خطاست",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "سپردن ریاست\u00A0 به کسانی خطاست که از دست ریاست آنها مردم به خدا شکایت میکنند"
     },
     {
       "VOrder": 68,
@@ -1495,7 +1529,8 @@
       "Text": "نکوکارپرور نبیند بدی",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: نیازمندان و نیکوکاران اگر راه درست را برگزینند، بدی را نخواهند دید. چرا که دشمنی که خود بدی را پرورش دهد، به خود آسیب می‌زند."
     },
     {
       "VOrder": 70,
@@ -1511,7 +1546,8 @@
       "Text": "مکافات موذی به مالش مکُن",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: اگر به بدی یا آسیب زدن ادامه بدهی، ممکن است در نهایت مشکلاتی بزرگتر برایت به وجود بیاید. بهتر است از ریشه این بدی ها جلوگیری کنی تا کار به جاهای خطرناک نکشد."
     },
     {
       "VOrder": 72,
@@ -1527,7 +1563,8 @@
       "Text": "مکُن صبر بر عامل ظلم‌دوست",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: به کسانی که ظلم و ستم را دوست دارند و بر آن ادامه می‌دهند، نباید صبر کرد، زیرا نهایتاً خودشان به آسیب خواهند رسید و پوست از جسمشان جدا خواهد شد."
     },
     {
       "VOrder": 74,
@@ -1543,7 +1580,8 @@
       "Text": "سر گرگ باید هم اوّل بُرید",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: برای مقابله با چالش‌ها و مشکلات، باید ابتدا با قدرت و قاطعیت اقدام کرد و نه مانند دیگران که به سادگی تسلیم می‌شوند یا آسیب می‌بیند. در واقع، برای حفظ امنیت و منافع خود، باید پیشگام بود و از راه حل‌های فعالانه استفاده کرد."
     },
     {
       "VOrder": 76,
@@ -1559,7 +1597,8 @@
       "Text": "چه خوش گفت بازارگانی اسیر",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: بازرگانی که گرفتار شده و دزدان او را محاصره کرده‌اند، به زیبایی سخن می‌گوید."
     },
     {
       "VOrder": 78,
@@ -1575,7 +1614,8 @@
       "Text": "چو مردانگی آید از رهزنان",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: زمانی که شجاعت و مردانگی از دزدان و راهزنان به وجود بیاید، تفاوتی نمی‌کند که این مردان در سپاه باشند یا زنان در گروه‌های دیگر."
     },
     {
       "VOrder": 80,
@@ -1591,7 +1631,8 @@
       "Text": "شهنشه که بازارگان را بخَست",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: شاهی که به بازرگانان کمک می‌کرد، بر بازار و لشکر خود خیری فراوان آورد و آنها را به هم پیوند زد."
     },
     {
       "VOrder": 82,
@@ -1607,7 +1648,8 @@
       "Text": "کی آن‌جا دگر هوشمندان روند",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: کیست که در آن‌جا، افرادی که باهوش و دانا هستند، به سمت آن‌جا بروند، وقتی که خبرهای بدی را بشنوند؟"
     },
     {
       "VOrder": 84,
@@ -1623,7 +1665,8 @@
       "Text": "نکو بایدت نام و نیکی قبول",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: باید نام نیکو و شهرت خوب خود را حفظ کنی، زیرا این ویژگی‌ها در بازار و در مقام پیام‌رسان بسیار مهم هستند."
     },
     {
       "VOrder": 86,
@@ -1639,7 +1682,8 @@
       "Text": "بزرگان مسافر به جان پرورند",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: بزرگان و بزرگان مسافر در دل خود می‌پرورانند که نام نیکی از خود به جای بگذارند و در دنیا بماند."
     },
     {
       "VOrder": 88,
@@ -1655,7 +1699,8 @@
       "Text": "تبه گردد آن مملکت عن‌قریب",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: به زودی آن کشور نابود خواهد شد که در آن، غریبان آزرده خاطر می‌شوند."
     },
     {
       "VOrder": 90,
@@ -1671,7 +1716,8 @@
       "Text": "غریب‌آشنا باش و سیّاح‌دوست",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: آشنا با غریبه‌ها باش و به wanderers محبت کن، زیرا مسافر خوب، شخصی با نام نیک است."
     },
     {
       "VOrder": 92,
@@ -1687,7 +1733,8 @@
       "Text": "نکو دار ضیف و مسافر عزیز",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: مهمان و مسافر را گرامی بدار و از آسیب رساندن به آن‌ها پرهیز کن."
     },
     {
       "VOrder": 94,
@@ -1703,7 +1750,8 @@
       "Text": "ز بیگانه پرهیز کردن نکوست",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: از نزدیکی با بیگانگان پرهیز کردن خوب است، زیرا ممکن است که دشمنت در لباس دوست قرار بگیرد."
     },
     {
       "VOrder": 96,
@@ -1719,7 +1767,8 @@
       "Text": "غریبی که پر فتنه باشد سرش",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی در دیار تو باعث دردسر و فتنه می‌شود، او را آزار نده و از سرزمینت دور کن."
     },
     {
       "VOrder": 98,
@@ -1735,7 +1784,8 @@
       "Text": "تو گر خشم بر وی نگیری رواست",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: اگر بر او خشم نگیری، درست است، چون خود او با خوی بدش در بند دشمنی خود است."
     },
     {
       "VOrder": 100,
@@ -1751,7 +1801,8 @@
       "Text": "وگر پارسی باشدش زاد و بوم",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: اگر او زادگاهش پارسی باشد، به خاطر توانایی‌ها و هنرهایش، او را به سرزمین‌های دیگر مانند صنعاء، سقلابه و روم بفرستید."
     },
     {
       "VOrder": 102,
@@ -1767,7 +1818,8 @@
       "Text": "هم آن‌جا امانش مده تا به چاشت",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: او را در آن‌جا تنها نگذار، زیرا در هنگام صبح نمی‌توان او را از مشکلات دیگران دور نگاه داشت."
     },
     {
       "VOrder": 104,
@@ -1783,7 +1835,8 @@
       "Text": "که گویند برگشته باد آن زمین",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "هوش مصنوعی: می‌گویند آن روزی خواهد آمد که زمین به حالتی برگردد که مردم از آن برخیزند و بیرون بیایند."
     },
     {
       "VOrder": 106,
@@ -1799,7 +1852,8 @@
       "Text": "قدیمان خود را بیفزای قدر",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "هوش مصنوعی: در گذشته به خود ارزش بده و قدر خودت را بشناس، زیرا هیچگاه نمی‌توان به کسی که تربیت شده و بزرگ شده، خیانت کرد."
     },
     {
       "VOrder": 108,
@@ -1815,7 +1869,8 @@
       "Text": "چو خدمتگزاریت گردد کهُن",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "هوش مصنوعی: وقتی کسی به خدمت تو درآید و پس از سال‌ها خدمت به تو وفادار بماند، هرگز فراموشش نکن."
     },
     {
       "VOrder": 110,
@@ -1831,7 +1886,8 @@
       "Text": "گر او را هرم دست خدمت ببست",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "اگر سالخوردگی\u00A0 خدمت خدمتگزار قدیمی را مانع گردید تو در عوض کرم و بخشندگی خود را در حق او ادامه بده"
     },
     {
       "VOrder": 112,
@@ -1847,7 +1903,8 @@
       "Text": "شنیدم که شاپور دم در‌کشید",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "شنیدم که وقتی خسرو مقرری و مواجب شاپور را قطع کرد، شاپور سکوت اختیار کرد و هیچ نگفت."
     },
     {
       "VOrder": 114,
@@ -1863,7 +1920,8 @@
       "Text": "چو شد حالش از بی‌نوایی تباه",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "هوش مصنوعی: زمانی که حالش به خاطر فقر و تنگدستی خراب شد، این داستان را برای شاه نوشت."
     },
     {
       "VOrder": 116,
@@ -1879,7 +1937,8 @@
       "Text": "چو بذل تو کردم جوانی خویش",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "هوش مصنوعی: وقتی که جوانی و بهترین لحظات خود را برای تو بخشیدم، در دوران پیری مرا نرنجان و از خود دور نکن."
     },
     {
       "VOrder": 118,
@@ -1895,7 +1954,8 @@
       "Text": "عمل گر دهی مرد منعم شناس",
       "CoupletIndex": 59,
       "SectionIndex1": 0,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "کار و خدمت را به مرد صاحب مال واگذار کن چون فرد بی‌چیز از سلطان ترس و واهمه ندارد."
     },
     {
       "VOrder": 120,
@@ -1911,7 +1971,8 @@
       "Text": "چو مفلس فرو‌بُرد گردن به دوش",
       "CoupletIndex": 60,
       "SectionIndex1": 0,
-      "SectionIndex2": 62
+      "SectionIndex2": 62,
+      "CoupletSummary": "هوش مصنوعی: زمانی که کسی وضع مالی بسیار بدی دارد و از نظر پولی، توانی برای انجام کاری ندارد، تنها چیزی که از او برمی‌آید، صدای فریاد و ناله است."
     },
     {
       "VOrder": 122,
@@ -1927,7 +1988,8 @@
       "Text": "چو مشرف دو دست از امانت بداشت",
       "CoupletIndex": 61,
       "SectionIndex1": 0,
-      "SectionIndex2": 63
+      "SectionIndex2": 63,
+      "CoupletSummary": "هوش مصنوعی: وقتی که کسی مسئولیت امانتی را بر عهده می‌گیرد، ضروری است که برای نظارت بر او فردی تعیین شود."
     },
     {
       "VOrder": 124,
@@ -1943,7 +2005,8 @@
       "Text": "ور او نیز در‌ساخت با خاطرش",
       "CoupletIndex": 62,
       "SectionIndex1": 0,
-      "SectionIndex2": 64
+      "SectionIndex2": 64,
+      "CoupletSummary": "و اگر او هم راه خطا رفت هر دو را مرخص کن"
     },
     {
       "VOrder": 126,
@@ -1959,7 +2022,8 @@
       "Text": "خدا‌ترس باید امانت‌گزار",
       "CoupletIndex": 63,
       "SectionIndex1": 0,
-      "SectionIndex2": 65
+      "SectionIndex2": 65,
+      "CoupletSummary": "امانت‌گزار ( امانت‌دار) باید از خدا بترسد نه از امانت‌گذار، اگر از خدا نترسد او را امین مپندار"
     },
     {
       "VOrder": 128,
@@ -1975,7 +2039,8 @@
       "Text": "امین باید از داور اندیشناک",
       "CoupletIndex": 64,
       "SectionIndex1": 0,
-      "SectionIndex2": 66
+      "SectionIndex2": 66,
+      "CoupletSummary": "هوش مصنوعی: امین باید نگران قضاوت و نظارت خداوند باشد، نه این که فقط به فکر جبران خطاها یا عذاب و نابودی مردم باشد."
     },
     {
       "VOrder": 130,
@@ -1991,7 +2056,8 @@
       "Text": "بیفشان و بشمار و فارغ نشین",
       "CoupletIndex": 65,
       "SectionIndex1": 0,
-      "SectionIndex2": 67
+      "SectionIndex2": 67,
+      "CoupletSummary": "هوش مصنوعی: بپاش و بشمار، راحت بنشین، چون از میان صد نفر، یکی هم را نمی‌توانی پیدا کنی که مورد اعتماد باشد."
     },
     {
       "VOrder": 132,
@@ -2007,7 +2073,8 @@
       "Text": "دو همجنس دیرینه را هم‌قلم",
       "CoupletIndex": 66,
       "SectionIndex1": 0,
-      "SectionIndex2": 68
+      "SectionIndex2": 68,
+      "CoupletSummary": "هوش مصنوعی: دو موجود هم‌جنس و قدیمی را نباید به یکجا فرستاد تا با هم باشند."
     },
     {
       "VOrder": 134,
@@ -2023,7 +2090,8 @@
       "Text": "چه دانی که همدست گردند و یار",
       "CoupletIndex": 67,
       "SectionIndex1": 0,
-      "SectionIndex2": 69
+      "SectionIndex2": 69,
+      "CoupletSummary": "هوش مصنوعی: تو چه می‌دانی که ممکن است دو نفر هم‌دست شوند و یکی از آن‌ها دزد باشد و دیگری کسی که رازها را پنهان می‌کند؟"
     },
     {
       "VOrder": 136,
@@ -2039,7 +2107,8 @@
       "Text": "چو دزدان ز هم باک دارند و بیم",
       "CoupletIndex": 68,
       "SectionIndex1": 0,
-      "SectionIndex2": 70
+      "SectionIndex2": 70,
+      "CoupletSummary": "هوش مصنوعی: وقتی دزدان از یکدیگر نگران و ترسان باشند، در میان یک کاروان سالم و بی‌خطر قابل نفوذ نیستند."
     },
     {
       "VOrder": 138,
@@ -2055,7 +2124,8 @@
       "Text": "یکی را که معزول کردی ز جاه",
       "CoupletIndex": 69,
       "SectionIndex1": 0,
-      "SectionIndex2": 71
+      "SectionIndex2": 71,
+      "CoupletSummary": "هوش مصنوعی: وقتی کسی را از مقام و موقعیتش برکناری، پس از مدتی ممکن است او را ببخشی و گناهانش را فراموش کنی."
     },
     {
       "VOrder": 140,
@@ -2071,7 +2141,8 @@
       "Text": "بر‌آوردن کام امّیدوار",
       "CoupletIndex": 70,
       "SectionIndex1": 0,
-      "SectionIndex2": 72
+      "SectionIndex2": 72,
+      "CoupletSummary": "هوش مصنوعی: بهتر است که آرزوهای کسی را برآورده کنیم تا اینکه بخواهیم هزاران بند را بشکنیم."
     },
     {
       "VOrder": 142,
@@ -2087,7 +2158,8 @@
       "Text": "نویسنده را گر ستون عمل",
       "CoupletIndex": 71,
       "SectionIndex1": 0,
-      "SectionIndex2": 73
+      "SectionIndex2": 73,
+      "CoupletSummary": "هوش مصنوعی: اگر نویسنده در کار خود دچار مشکل شود و نتواند به درست انجام دادن آن ادامه دهد، امید و آرزوی او نیز از بین نخواهد رفت."
     },
     {
       "VOrder": 144,
@@ -2103,7 +2175,8 @@
       "Text": "به فرمانبران بر شه دادگر",
       "CoupletIndex": 72,
       "SectionIndex1": 0,
-      "SectionIndex2": 74
+      "SectionIndex2": 74,
+      "CoupletSummary": "هوش مصنوعی: فرماندهان و ستمگران به پادشاه عادل، همچون پدری که بر فرزندش خشم می‌گیرد، خشم و نارضایتی می‌آورند."
     },
     {
       "VOrder": 146,
@@ -2119,7 +2192,8 @@
       "Text": "گهش می‌زند تا شود دردناک",
       "CoupletIndex": 73,
       "SectionIndex1": 0,
-      "SectionIndex2": 75
+      "SectionIndex2": 75,
+      "CoupletSummary": "هوش مصنوعی: گاهی انسان را به شدت دچار درد و رنج می‌کند و گاهی هم می‌کوشد تا اشک و غم را از چشمانش پاک کند."
     },
     {
       "VOrder": 148,
@@ -2135,7 +2209,8 @@
       "Text": "چو نرمی کنی خصم گردد دلیر",
       "CoupletIndex": 74,
       "SectionIndex1": 0,
-      "SectionIndex2": 76
+      "SectionIndex2": 76,
+      "CoupletSummary": "هوش مصنوعی: اگر نرمش و مهربانی کنی، دشمن تو شجاع و سرسخت می‌شود و اگر خشمگین باشی، از تو بیزار خواهند شد."
     },
     {
       "VOrder": 150,
@@ -2151,7 +2226,8 @@
       "Text": "درشتی و نرمی به هم در به است",
       "CoupletIndex": 75,
       "SectionIndex1": 0,
-      "SectionIndex2": 77
+      "SectionIndex2": 77,
+      "CoupletSummary": "هوش مصنوعی: خشن بودن و نرم بودن در کنار هم لازم است، مثل کسی که هم زخم می‌زند و هم به Healing و التیام می‌پردازد."
     },
     {
       "VOrder": 152,
@@ -2167,7 +2243,8 @@
       "Text": "جوان‌مرد و خوش‌خوی و بخشنده باش",
       "CoupletIndex": 76,
       "SectionIndex1": 0,
-      "SectionIndex2": 78
+      "SectionIndex2": 78,
+      "CoupletSummary": "هوش مصنوعی: بمان جوانمرد و مهربان و سخاوتمند، وقتی که خداوند نعمت‌هایی به تو عطا کرد، تو هم آن نعمت‌ها را با دیگران تقسیم کن."
     },
     {
       "VOrder": 154,
@@ -2183,7 +2260,8 @@
       "Text": "نیامد کس اندر جهان کاو بماند",
       "CoupletIndex": 77,
       "SectionIndex1": 0,
-      "SectionIndex2": 79
+      "SectionIndex2": 79,
+      "CoupletSummary": "هوش مصنوعی: هیچ کس در این دنیا نمانده است که همیشه زندگی کند، جز افرادی که نام نیک و یاد خوبی از خود بر جا گذاشته‌اند."
     },
     {
       "VOrder": 156,
@@ -2199,7 +2277,8 @@
       "Text": "نمرد آن که مانَد پس از وی به جای",
       "CoupletIndex": 78,
       "SectionIndex1": 0,
-      "SectionIndex2": 80
+      "SectionIndex2": 80,
+      "CoupletSummary": "هوش مصنوعی: کسی که بعد از او یاد و نامش در دل‌ها باقی بماند، واقعاً مرده نیست. یاد او همچون پل، خانه، مهمان‌خانه و دیگر آثارش در زندگی انسان‌ها باقی می‌ماند."
     },
     {
       "VOrder": 158,
@@ -2215,7 +2294,8 @@
       "Text": "هر آن کاو نماند از پسش یادگار",
       "CoupletIndex": 79,
       "SectionIndex1": 0,
-      "SectionIndex2": 81
+      "SectionIndex2": 81,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که پس از خود هیچ نشانه‌ای به جا نگذارد، مانند درختی است که ثمره‌ای به بار نیاورده باشد."
     },
     {
       "VOrder": 160,
@@ -2231,7 +2311,8 @@
       "Text": "وگر رفت و آثار خیرش نماند",
       "CoupletIndex": 80,
       "SectionIndex1": 0,
-      "SectionIndex2": 82
+      "SectionIndex2": 82,
+      "CoupletSummary": "هوش مصنوعی: اگر شخصی از دنیا برود و هیچ نشانه‌ای از خوبی‌ها و آثار مثبت او باقی نماند، پس شایسته نیست که مرگش را به خوبی یاد کنیم."
     },
     {
       "VOrder": 162,
@@ -2247,7 +2328,8 @@
       "Text": "چو خواهی که نامت بود جاودان",
       "CoupletIndex": 81,
       "SectionIndex1": 0,
-      "SectionIndex2": 83
+      "SectionIndex2": 83,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی نامت همیشه در یادها بماند، باید از نام نیک بزرگان استفاده نکنی و آن را در خفا نگه‌داری."
     },
     {
       "VOrder": 164,
@@ -2263,7 +2345,8 @@
       "Text": "همین نقش بر‌خوان پس از عهد خویش",
       "CoupletIndex": 82,
       "SectionIndex1": 0,
-      "SectionIndex2": 84
+      "SectionIndex2": 84,
+      "CoupletSummary": "احوال دوران پس از خودت را همان‌گونه ببین که احوال دوران پس از شاهان قبل را دیدی."
     },
     {
       "VOrder": 166,
@@ -2279,7 +2362,8 @@
       "Text": "همین کام و ناز و طرب داشتند",
       "CoupletIndex": 83,
       "SectionIndex1": 0,
-      "SectionIndex2": 85
+      "SectionIndex2": 85,
+      "CoupletSummary": "هوش مصنوعی: آن‌ها در تمام لحظات از خوشی و لذت بهره‌مند بودند، اما در نهایت همه چیز به پایان رسید و آن‌را ترک کردند."
     },
     {
       "VOrder": 168,
@@ -2295,7 +2379,8 @@
       "Text": "یکی نام نیکو ببُرد از جهان",
       "CoupletIndex": 84,
       "SectionIndex1": 0,
-      "SectionIndex2": 86
+      "SectionIndex2": 86,
+      "CoupletSummary": "هوش مصنوعی: یک نفر با داشتن یک نام نیکو و خوبی که از او به یادگار مانده است، به یاد می‌آید و اثر مثبت او در طول زمان باقی می‌ماند، در حالی که کسی که کارهای بد و زشت کرده، نامش به عنوان یک رسم بد و زشت در خاطره‌ها باقی می‌ماند."
     },
     {
       "VOrder": 170,
@@ -2311,7 +2396,8 @@
       "Text": "به سمع رضا مشنو ایذای کس",
       "CoupletIndex": 85,
       "SectionIndex1": 0,
-      "SectionIndex2": 87
+      "SectionIndex2": 87,
+      "CoupletSummary": "هوش مصنوعی: به حرف دیگران گوش نده، و اگر کسی درباره تو چیزی گفت، عمیقاً به موضوع فکر کن و خودت را در این مسئله درگیر نکن."
     },
     {
       "VOrder": 172,
@@ -2327,7 +2413,8 @@
       "Text": "گنهکار را عذر نسیان بنه",
       "CoupletIndex": 86,
       "SectionIndex1": 0,
-      "SectionIndex2": 88
+      "SectionIndex2": 88,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی اشتباه کرده باشد، عذر او را به خاطر فراموشی قبول کن و وقتی که از تو خواهش می‌کند، به او کمک کن و از او حمایت کن."
     },
     {
       "VOrder": 174,
@@ -2343,7 +2430,8 @@
       "Text": "گر آید گنهکاری اندر پناه",
       "CoupletIndex": 87,
       "SectionIndex1": 0,
-      "SectionIndex2": 89
+      "SectionIndex2": 89,
+      "CoupletSummary": "هوش مصنوعی: اگر گنهکاری به پناه شما بیاید، نباید او را به خاطر اولین گناهش تنبیه کنید."
     },
     {
       "VOrder": 176,
@@ -2359,7 +2447,8 @@
       "Text": "چو باری بگفتند و نشنید پند",
       "CoupletIndex": 88,
       "SectionIndex1": 0,
-      "SectionIndex2": 90
+      "SectionIndex2": 90,
+      "CoupletSummary": "هوش مصنوعی: وقتی کسی به خاطر صحبت‌هایش پند نمی‌گیرد، باید برایش پیامدهای سختی در نظر گرفت تا درس عبرتی برایش شود و متوجه اشتباهاتش شود."
     },
     {
       "VOrder": 178,
@@ -2375,7 +2464,8 @@
       "Text": "وگر پند و بندش نیاید بکار",
       "CoupletIndex": 89,
       "SectionIndex1": 0,
-      "SectionIndex2": 91
+      "SectionIndex2": 91,
+      "CoupletSummary": "هوش مصنوعی: اگر نصیحت و آموزش اثر نداشته باشد، درختی ناسالم است که باید آن را از ریشه کند."
     },
     {
       "VOrder": 180,
@@ -2391,7 +2481,8 @@
       "Text": "چو خشم آیدت بر گناه کسی",
       "CoupletIndex": 90,
       "SectionIndex1": 0,
-      "SectionIndex2": 92
+      "SectionIndex2": 92,
+      "CoupletSummary": "هوش مصنوعی: وقتی از رفتار نادرست کسی ناراحت می‌شوی، به عواقب آن فکر کن و بر آن تأمل کن."
     },
     {
       "VOrder": 182,
@@ -2407,7 +2498,8 @@
       "Text": "که سهل است لعل بدخشان شکست",
       "CoupletIndex": 91,
       "SectionIndex1": 0,
-      "SectionIndex2": 93
+      "SectionIndex2": 93,
+      "CoupletSummary": "هوش مصنوعی: شکستن لعل بدخشان کار سختی نیست، اما نمی‌توان آن را دوباره به حالت قبلی برگرداند."
     },
     {
       "VOrder": 184,

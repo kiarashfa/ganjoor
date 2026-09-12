@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "بس بلند است قصر و خانهٔ یار",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: قصر و خانهٔ محبوب بسیار بلند و بلندمرتبه است، به طوری که وقتی به آن فکر می‌کنم، دستار (عمامه) از سرم می‌افتد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "در رهش بسکه دست و پا زده ام",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در مسیر او چنان تلاش کرده‌ام که پاهایم به رفتار و شیوه‌اش عادت کرده و دست‌هایم از کار کردن باز مانده‌اند."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "بعد از اینم غم حساب نماند",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دیگر نگران غم و اندوه نباش، چرا که دیگر از درد و رنجی که قبلاً احساس می‌کردی خبری نخواهد بود."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "هر چه بینی به بد حواله مکن",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چه بدی می‌بینی، آن را به کسی منتقل نکن، زیرا این دنیا همیشه در حال تغییر و چرخش است."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "کارفرمایشان یکی است یکی",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کارفرمایشان یکی است، چه آن‌ها که کار خوب انجام می‌دهند و چه آن‌ها که کار بد می‌کنند."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "کفر و دین را بهانه نیست جز او",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نه تنها کفر و دین، بلکه هیچ چیز دیگری نمی‌تواند بهانه‌ای برای وجود داشته باشد، زیرا هر دو در حالت خواب و بیداری به او وابسته‌اند."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "در مقامی است فاتح الابواب",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در یک جایگاه، کسی است که درهای موفقیت را می‌گشاید و در مکانی دیگر، فردی است که از رازها و اطلاعات محافظت می‌کند."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "بی حساب است در صفت اسمش",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در توصیف نام او حساب و تعدادی وجود ندارد، چرا که خداوند جز یک‌نفر نیست و برتر از آن است که قابل شمارش باشد."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "دل روان شد به صد زبان در حمد",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من به طرق مختلفی به ستایش و عشق مشغول است، حتی اگر زبانم از توان گفتن و بیان نارسا باشد."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "نشوی تا در این میانه دو دل",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نه به هیچ دلی غیر از دل دوست خود اعتماد کن و نگذار که در این وضعیت دو دلی بر تو غالب شود."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "زاهدا تا خدا چه می خواهد",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای ریاکار، تا زمانی که خداوند چه می‌خواهد، من به گناه خود ادامه می‌دهم و تو هم برای من طلب آمرزش می‌کنی."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "جز اثر پا به راه نگذارد",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کس که بخواهد به درستی و صلاح برسد، باید اقدام کند و تنها با نشانه‌های یا آثار کار، به این هدف نخواهد رسید."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "ساقیا پند از سنایی گیر",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای ساقی، از آموزه‌های سنایی درس بگیر تا از هر دو جهان بهره‌مند شوی."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "با اسیران خویشتن مپسند",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با اسیران خودت هیچ گاه خوشحال و راضی نباش، حتی اگر در شرایطی خاص و با نوشیدنی‌ای لذت ببری. ما در آگاهی و بیداری به سر می‌بریم."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "شد سنایی حکیم حاذق من",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سنایی، حکیم و دانشمندی زبردست، به عنوان دارویی ارزشمند در فروشگاه عطار شناخته می‌شود."
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "پای من راه خانه می داند",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پاهای من به خوبی راه خانه را می‌شناسند و ذهن من نیز به سمت خانهٔ مستی هدایت می‌شود."
     },
     {
       "VOrder": 32,
@@ -255,7 +271,8 @@
       "Position": "Right",
       "Text": "چند ای خودپرست خواهی بود",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چند بار می‌خواهی به خودت آسیب بزنی و در عین حال باعث نارضایتی خدا هم بشوی؟"
     },
     {
       "VOrder": 34,
@@ -269,7 +286,8 @@
       "Position": "Right",
       "Text": "چیست توحید با خدا بودن",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: توحید به معنای یکتایی خداوند است و در این زمینه، بی‌خود بودن، یعنی رها و فارغ از هر نوع تردید و انکاری در وجود و یکتایی اوست. در حقیقت، آنچه که در اینجا بیان شده، نشان‌دهنده حالتی است که انسان در درک خداوند و رابطه‌اش با او، از هرگونه تشکیک و تضادی آزاد است و در این حالت، به آرامش و قرار می‌رسد."
     },
     {
       "VOrder": 36,
@@ -283,7 +301,8 @@
       "Position": "Right",
       "Text": "ورنه با خویشتن اگر خواهی",
       "CoupletIndex": 18,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهی با خودت صحبت کنی، مهم نیست که یک بار بگویی، یا صد بار، یا حتی هزار بار، در هر صورت می‌توانی این کار را انجام دهی."
     },
     {
       "VOrder": 38,
@@ -297,7 +316,8 @@
       "Position": "Right",
       "Text": "اصل توحید نفی غیر خداست",
       "CoupletIndex": 19,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: توحید به معنای یکتایی خداوند، به معنای نادیده گرفتن هر وجود دیگری است. اما در واقعیت، غیر از تو، هیچ موجود دیگری وجود ندارد."
     },
     {
       "VOrder": 40,
@@ -311,7 +331,8 @@
       "Position": "Right",
       "Text": "تا حسابی به خویشتن داری",
       "CoupletIndex": 20,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باید به خودت توجه کنی و در ارتباط با خودت، خودت را در نظر نگیر."
     },
     {
       "VOrder": 42,
@@ -325,7 +346,8 @@
       "Position": "Right",
       "Text": "بی تو در کلبه ام که می باشم",
       "CoupletIndex": 21,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در absence تو، در کلبه‌ام زندگی می‌کنم و هر مویی که بر تنم است، به اندازه میخ تیز و آزاردهنده شده است."
     },
     {
       "VOrder": 44,
@@ -339,7 +361,8 @@
       "Position": "Right",
       "Text": "باده در جام و در زبان توبه",
       "CoupletIndex": 22,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شراب در جام قرار دارد و در کلامم توبه می‌کنم، دستم در کاسه است و به لب‌هایم می‌گویم که مراقب باش."
     },
     {
       "VOrder": 46,
@@ -353,7 +376,8 @@
       "Position": "Right",
       "Text": "ز این جهان در بساط ما امروز",
       "CoupletIndex": 23,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امروز در دنیا چیزی جز مجموعه‌ای از اشعار در دست نداریم."
     },
     {
       "VOrder": 48,
@@ -367,7 +391,8 @@
       "Position": "Right",
       "Text": "هستم امروز ز این تجمل خود",
       "CoupletIndex": 24,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امروز به خاطر این تجمل و زیورآلاتی که دارم، از خدا و پیامبر شکرگزارم."
     },
     {
       "VOrder": 50,
@@ -381,7 +406,8 @@
       "Position": "Right",
       "Text": "دید روزی مرا دل آزرده",
       "CoupletIndex": 25,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روزی دل شکسته و غمزده‌ام، با همه‌ی زیبایی‌ها و عظمتش، عاشقانه به من نگاه کرد."
     },
     {
       "VOrder": 52,
@@ -395,7 +421,8 @@
       "Position": "Right",
       "Text": "گفت ای عاشق خراباتی",
       "CoupletIndex": 26,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای عاشق که در خرابات به سر می‌بری، از می وصال خود پر کن و ساغرت را لبریز کن."
     },
     {
       "VOrder": 54,
@@ -409,7 +436,8 @@
       "Position": "Right",
       "Text": "دل حزینی چرا و از چه سبب",
       "CoupletIndex": 27,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل تو چرا اینقدر ناراحت و ناتوان شده است و کارهایت را در هم بریده؟"
     },
     {
       "VOrder": 56,
@@ -423,7 +451,8 @@
       "Position": "Right",
       "Text": "گفتم ای پادشاه درویشان",
       "CoupletIndex": 28,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به کسی که در مقام والایی قرار دارد و بر پیروان خود فرمان می‌راند، می‌گویم که تو خود یک نیروی قوی و رهبری برای گروهی هستی."
     },
     {
       "VOrder": 58,
@@ -437,7 +466,8 @@
       "Position": "Right",
       "Text": "قوت من شعلهٔ دماغ من است",
       "CoupletIndex": 29,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نیروی من از خشم و غیض من نشأت می‌گیرد و من بی‌چاره‌ای نیستم که به سادگی مانند پرنده‌ای که از آتش سوخته است، از بین بروم."
     },
     {
       "VOrder": 60,
@@ -451,7 +481,8 @@
       "Position": "Right",
       "Text": "گرچه بی بالم و پر پرواز",
       "CoupletIndex": 30,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه بی‌بال و پر شده‌ام و نمی‌توانم پرواز کنم، اما تنها تو را به عنوان طعمه‌ام انتخاب کرده‌ام."
     },
     {
       "VOrder": 62,
@@ -465,7 +496,8 @@
       "Position": "Right",
       "Text": "از تو هرگز نکرده ام دوری",
       "CoupletIndex": 31,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرگز از تو فاصله نگرفته‌ام، هرچند که از عزیزان و وطنم دور هستم."
     },
     {
       "VOrder": 64,
@@ -479,7 +511,8 @@
       "Position": "Right",
       "Text": "آن قدر جای کرده ای در من",
       "CoupletIndex": 32,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو آن‌قدر در دل من جا داری که دیگر هیچ عشق و محبوبی نمی‌تواند جای تو را بگیرد."
     },
     {
       "VOrder": 66,
@@ -493,7 +526,8 @@
       "Position": "Right",
       "Text": "به خدایی که غیر او فانی است",
       "CoupletIndex": 33,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خدایی که تنها او باقی و پایدار است، دست یاری‌ات را بگیر و تمام کارهایت را به او بسپار."
     },
     {
       "VOrder": 68,
@@ -507,7 +541,8 @@
       "Position": "Right",
       "Text": "سال ها شد که ذکر من عشق است",
       "CoupletIndex": 34,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سال‌هاست که موضوع اصلی من عشق است، تو هم ای عشق، به من توجه کن و به سوی من بیا."
     },
     {
       "VOrder": 70,
@@ -521,7 +556,8 @@
       "Position": "Right",
       "Text": "چه شود گر به یمن همت تو",
       "CoupletIndex": 35,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا ممکن است که به برکت تلاش و اراده‌ات، سرنوشت به گونه‌ای تغییر کند که به عشق و محبوبی برسم؟"
     },
     {
       "VOrder": 72,
@@ -535,7 +571,8 @@
       "Position": "Right",
       "Text": "او کشد تیغ و من کشم آهی",
       "CoupletIndex": 36,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او شمشیر می‌کشد و من آهی می‌کشم؛ هر چه غیر از او را برای او قربانی می‌کنم."
     },
     {
       "VOrder": 74,
@@ -549,7 +586,8 @@
       "Position": "Right",
       "Text": "پای هجر از میانه برخیزد",
       "CoupletIndex": 37,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فراق و جدایی از ما دور شود و دیگر به پا نمی‌خیزد."
     },
     {
       "VOrder": 76,
@@ -563,7 +601,8 @@
       "Position": "Right",
       "Text": "ما و من هر دو گم شود در او",
       "CoupletIndex": 38,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما و تو هر دو در عشق گم می‌شویم و در سایه‌ی آن، عشق، عاشق و معشوق یکی می‌شوند."
     },
     {
       "VOrder": 78,
@@ -577,7 +616,8 @@
       "Position": "Right",
       "Text": "چند باشم چو صورت درها",
       "CoupletIndex": 39,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چند وقت باید منتظر بمانم، در حالی که فقط به چهره‌ها نگاه می‌کنم، چشمانم به راه و پشت سرم به دیوار دوخته شده است."
     },
     {
       "VOrder": 80,
@@ -591,7 +631,8 @@
       "Position": "Right",
       "Text": "برسان بر سرم جفاکاری",
       "CoupletIndex": 40,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای خدا، به من خبری برسان و از انتظار طولانی من را نجات بده."
     },
     {
       "VOrder": 82,
@@ -605,7 +646,8 @@
       "Position": "Right",
       "Text": "کشتی ام اوفتاده در گرداب",
       "CoupletIndex": 41,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کشتی من در گردابی گرفتار شده است که نه زمین را می‌بینم و نه کناره‌ای برای نجات."
     },
     {
       "VOrder": 84,
@@ -619,7 +661,8 @@
       "Position": "Right",
       "Text": "مدد از هیچ کس نخواسته ام",
       "CoupletIndex": 42,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از هیچ کس جز تو کمک نخواسته‌ام، پروردگارا، کنار پاکان."
     },
     {
       "VOrder": 86,
@@ -633,7 +676,8 @@
       "Position": "Right",
       "Text": "همتم کی ز خاک بردارد",
       "CoupletIndex": 43,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا می‌توانم از زمین برخیزم و در مسیر پیشرفت و موفقیت حرکت کنم، اگر سایه درختان بر دوشم سنگینی کند؟"
     },
     {
       "VOrder": 88,
@@ -647,7 +691,8 @@
       "Position": "Right",
       "Text": "آنچه جز حمد حضرت باری است",
       "CoupletIndex": 44,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی غیر از ستایش خداوند، جز توصیف پیامبر احمد (ص) نیست."
     },
     {
       "VOrder": 90,
@@ -661,7 +706,8 @@
       "Position": "Right",
       "Text": "در خیالم نه زید و نه عمرو است",
       "CoupletIndex": 45,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در ذهن من نه کسی به نام زید وجود دارد و نه عمری. شعر من نمایانگر حالتی از رازها و ناشناخته‌هاست."
     },
     {
       "VOrder": 92,
@@ -675,7 +721,8 @@
       "Position": "Right",
       "Text": "ای سعیدا کباب کرد مرا",
       "CoupletIndex": 46,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای سعید، اشک‌های فراوان و ناله‌های دردآور من چنان مرا سوزانده که مثل کباب شده‌ام."
     },
     {
       "VOrder": 94,

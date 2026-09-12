@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "گفت همسایه‌ای مرا دیشب",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همسایه‌ای به من گفت که دیشب از تو چیزی شنید و تصمیم گرفته که دیگر به تو توجه نکند."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "سببش بهر چاره پرسیدم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی از او دلیل مشکل خود را پرسیدم، پاسخ داد که چون پولی در کیسه‌ات نیست، در نتیجه راه حلی هم نخواهی داشت."
     },
     {
       "VOrder": 4,
@@ -54,7 +56,8 @@
       "Position": "Right",
       "Text": "گفتمش: ای ز مردمی به کنار",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به او گفتم: ای زمرد، تو در کنار دریا زندگی می‌کنی، اما در این جهان بی همسر هستی."
     },
     {
       "VOrder": 6,
@@ -68,7 +71,8 @@
       "Position": "Right",
       "Text": "تو که هستی ز روی من بیزار",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو که از چهره من بیزاری، بهتر است که خود را نابینا کنی تا دیگر نتوانیم یکدیگر را ببینیم."
     },
     {
       "VOrder": 8,

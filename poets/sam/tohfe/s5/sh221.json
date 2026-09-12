@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "در تهران به کتابت مشغول است. این مطلع از اوست:",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: در تهران به نوشتن مشغول است. این جمله از اوست:"
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "آنچه در دل داشت گویا بر زبان آورده است",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آنچه که در دل دارد، به وضوح بر زبان آورده است. این اشک، مانند رنگ لاله است که از چشمی پر از خون می‌ریزد."
     },
     {
       "VOrder": 3,

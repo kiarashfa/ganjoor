@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "چو یارم دلبر دیگر نیابی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر یارم را گم کنی، هرگز نمی‌توانی مانند او را در این سرزمین پیدا کنی."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "چو روی خوب او مؤمن نبینی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر زیبایی چهره‌اش را نبینی، هرگز به ایمان او پی نخواهی برد و اگر زلف‌های او را ببیند، به کفر نخواهی رسید."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "حریف سرخوشی ساقی رندی",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نتوانی دلبر مستی مانند چشم‌های او را پیدا کنی، دیگر نباید توقع داشته باشی که با مهارت‌ها و شادی‌های ساقی، همسفر شوید."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "بیابی ذوق از یک جرعهٔ می",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر یک جرعه از شراب را بچشی، لذت و شوری را تجربه می‌کنی که با هیچ مقدار از آب بهشتی نمی‌توانی به دست آورد."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "بیا و خرقه بفروش و به می ده",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیایید و لباس ریایی را کنار بگذارید و به می بپاشید، زیرا هیچ چیزی از این وضعیت دل‌انگیزتر نخواهید یافت."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "به درد دل بیا درمان طلب کن",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به سراغ من بیا و از من کمک بخواه، اگر به شکرانهٔ کمک من نتوانی چیزی به دست آوری."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "غنیمت دان حضور نعمت الله",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حضور نعمت خدا را غنیمت بشمار، زیرا در تمام عمر فرصتی مانند این نخواهی یافت."
     },
     {
       "VOrder": 14,

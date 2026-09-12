@@ -731,7 +731,8 @@
       "Text": "ز سالش چو یک پنجه اندر کشید",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "وقتی پنجاه سال از عمرش گذشت، صاحب سه فرزند گرانمایه شد."
     },
     {
       "VOrder": 2,
@@ -747,7 +748,8 @@
       "Text": "به بخت جهاندار هر سه پسر",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "از بخت بلند شاه هر سه فرزند او پسر بودند. سه پسری که هر سه از نژاد پادشاهی نشان داشتند."
     },
     {
       "VOrder": 4,
@@ -763,7 +765,8 @@
       "Text": "به بالا چو سرو و به رخ چون بهار",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "(فرزندان او هر سه) قد بلند و زیبا روی بودند و از همه لحاظ به پادشاه شباهت داشتند."
     },
     {
       "VOrder": 6,
@@ -779,7 +782,8 @@
       "Text": "از این سه دو پاکیزه از شهرناز",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "دو فرزند بزرگتر از شهرناز بودند و فرزند کوچکتر از ارنواز."
     },
     {
       "VOrder": 8,
@@ -795,7 +799,8 @@
       "Text": "پدر نوز ناکرده از ناز نام",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "پدر که هنوز از روی ناز نامزدی برای پسران خود انتخاب نکرده است برای مشورت پیش پیران می رود . در مصرع دوم بجای پیران باید پیران گذاشته شود ."
     },
     {
       "VOrder": 10,
@@ -811,7 +816,8 @@
       "Text": "فریدون از آن نامداران خویش",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "فریدون، یکی از نامدارانش را که عزیزتر بود به نزد خود فراخواند.\u00A0"
     },
     {
       "VOrder": 12,
@@ -827,7 +833,8 @@
       "Text": "کجا نام او جندل پرهنر",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "(کجا:که) که نام آن دانا \u0022جندل\u0022 بود و همواره دلسوز و نیکخواه شاه بود. (هنر: کمال-معرفت-فضیلت-دانش)"
     },
     {
       "VOrder": 14,
@@ -843,7 +850,8 @@
       "Text": "بدو گفت برگرد گرد جهان",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "به او گفت که در دنیا بگرد و سه دختر از نژاد بزرگان پیدا کن"
     },
     {
       "VOrder": 16,
@@ -859,7 +867,8 @@
       "Text": "سه خواهر ز یک مادر و یک پدر",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "سه خواهر که از یک پدر و یک مادر باشند و چهره ای زیبا چون پری، پاک و معصوم و با اصالت باشند ( پیدا کن )"
     },
     {
       "VOrder": 18,
@@ -875,7 +884,8 @@
       "Text": "به خوبی سزای سه فرزند من",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: به خوبی باید با سه فرزند من رفتار شود، همان‌طور که شایسته است با ارتباط من برخورد شود."
     },
     {
       "VOrder": 20,
@@ -891,7 +901,8 @@
       "Text": "به بالا و دیدار هر سه یکی",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هر سه قد و بالای یکسانی داشته باشند بطوری که نتوان گفت یکی به دیگری برتری دارد."
     },
     {
       "VOrder": 22,
@@ -907,7 +918,8 @@
       "Text": "چو بشنید جندل ز خسرو سخن",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: وقتی جندل سخنان خسرو را شنید، نظری پاک و روشن ارائه داد."
     },
     {
       "VOrder": 24,
@@ -923,7 +935,8 @@
       "Text": "که بیدار دل بود و پاکیزه مغز",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: کسی که دل بیدار و خالص دارد و ذهنش پاک است، می‌تواند با زبانی شیوا و مناسب، کارهای زیبا و ارزشمندی را انجام دهد."
     },
     {
       "VOrder": 26,
@@ -939,7 +952,8 @@
       "Text": "ز پیش سپهبد برون شد به راه",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: از حضور فرمانده بیرون رفت و در مسیر، چند نفر او را به نیکی راهنمایی کردند."
     },
     {
       "VOrder": 28,
@@ -955,7 +969,8 @@
       "Text": "یکایک ز ایران سراندر کشید",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: هر یک از مردم ایران به بررسی و تحقیق درباره مسائل مختلف پرداختند و هر نوع گفت‌وگویی انجام دادند."
     },
     {
       "VOrder": 30,
@@ -971,7 +986,8 @@
       "Text": "به هر کشوری کز جهان مهتری",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: در هر کشوری که مردی برتر باشد و دختری را در دل خود پرورش دهد، به آن کشور ارادت و محبت نشان می‌دهد."
     },
     {
       "VOrder": 32,
@@ -987,7 +1003,8 @@
       "Text": "نهفته بجستی همه راز‌شان",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: همه اسرار آنها را کشف کرده‌ای و از نام و آوازشان باخبر شدی."
     },
     {
       "VOrder": 34,
@@ -1003,7 +1020,8 @@
       "Text": "ز دهقان پر مایه کس را ندید",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس را ندیدم که از دهقان پرمایه بیشتر شایسته و لایق باشد، مانند آفریدون."
     },
     {
       "VOrder": 36,
@@ -1019,7 +1037,8 @@
       "Text": "خردمند و روشن‌دل و پاک‌تن",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: عاقل و دل‌پاک و بی‌گناه، به نزد سرو خوش‌چهره‌ای که نماد زیبایی در یمن بوده، آمد."
     },
     {
       "VOrder": 38,
@@ -1035,7 +1054,8 @@
       "Text": "نشان یافت جندل مر اورا درست",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: جندل، نشانه‌ای از اصل خود را پیدا کرد و به همین دلیل سه دختر را مانند فریدون جستجو کرد."
     },
     {
       "VOrder": 40,
@@ -1051,7 +1071,8 @@
       "Text": "خرامان بیامد به نزدیک سرو",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "به آرامی به سمت درخت سرو نزدیک شد، همان‌طور که یک طاووس با وقار به سمت گل می‌رود."
     },
     {
       "VOrder": 42,
@@ -1067,7 +1088,8 @@
       "Text": "زمین را ببوسید و چربی نمود",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: زمین را بوسید و سپس بر آن چربی و رونق افزود، زیرا بر آن کسی که پست است، با این کار توجه و ارزش بیشتری داد."
     },
     {
       "VOrder": 44,
@@ -1083,7 +1105,8 @@
       "Text": "به جندل چنین گفت شاه یمن",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: شاه یمن به جندل گفت: مبادا بدون آفریدن تو، چیزی را به زبان بیاورم."
     },
     {
       "VOrder": 46,
@@ -1099,7 +1122,8 @@
       "Text": "چه پیغام داری چه فرمان دهی",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: هر پیامی یا دستوری که داری، فرستاده‌ای، اگر در جایگاه والایی هستی."
     },
     {
       "VOrder": 48,
@@ -1115,7 +1139,8 @@
       "Text": "بدو گفت جندل که خرم بدی",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: جندل به او گفت که همیشه در خوشی و شادکامی هستی، اما این حال و روز تو دور از من است."
     },
     {
       "VOrder": 50,
@@ -1131,7 +1156,8 @@
       "Text": "از ایران یکی کهترم چون شمن",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: من از ایران فردی کم اهمیت‌تر هستم، مانند پیامی که شمنی به پادشاه یمن می‌آورد."
     },
     {
       "VOrder": 52,
@@ -1147,7 +1173,8 @@
       "Text": "درود فریدون فرخ دهم",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: به سلامتی فریدون با شخصیت و خوب، هر چه بپرسند، من به همه سوالات پاسخ می‌دهم."
     },
     {
       "VOrder": 54,
@@ -1163,7 +1190,8 @@
       "Text": "ترا آفرین از فریدون گرد",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: تو را ستایش می‌کنم ای فریدون بزرگ، کسی که خرد و دانایی ندارد، شایسته چنین ستایشی نیست."
     },
     {
       "VOrder": 56,
@@ -1179,7 +1207,8 @@
       "Text": "مرا گفت شاه یمن را بگوی",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: شاه یمن به من گفت که به او بگو برود و در زمان مناسب بویی خوش را استشمام کند."
     },
     {
       "VOrder": 58,
@@ -1195,7 +1224,8 @@
       "Text": "بدان ای سر مایهٔ تازیان",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: ای سرمایهٔ عرب‌ها، بدان که از ستارهٔ شومی که همیشه بدی‌ها را نشان می‌دهد، بی‌زیان و بی‌خطر هستی."
     },
     {
       "VOrder": 60,
@@ -1211,7 +1241,8 @@
       "Text": "مرا پادشاهی آباد هست",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: من دارای پادشاهی با شکوه هستم که شامل ثروت، قدرت و توانمندی جسمی است."
     },
     {
       "VOrder": 62,
@@ -1227,7 +1258,8 @@
       "Text": "سه فرزند شایستهٔ تاج و گاه",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: اگر داستان به خوبی بیان شود، سه فرزند شایسته و زیبا در آن درخشنده خواهند بود، مانند تاج و ماه."
     },
     {
       "VOrder": 64,
@@ -1243,7 +1275,8 @@
       "Text": "ز هر کام و هر خواسته بی‌نیاز",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معنی است که از هر لذت و خواسته‌ای بی‌نیاز بوده و به هیچ آرزویی نیازی ندارند، زیرا دست آن‌ها به همه چیز رسیده و به هر چیزی که می‌خواهند دسترسی دارند."
     },
     {
       "VOrder": 66,
@@ -1259,7 +1292,8 @@
       "Text": "مر این سه گرانمایه را در نهفت",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: این سه چیز ارزشمند را باید در دل نگه‌داری، زیرا اکنون شاهزاده‌ای با سه جفت از آن‌ها وجود دارد."
     },
     {
       "VOrder": 68,
@@ -1275,7 +1309,8 @@
       "Text": "ز کار آگهان آگهی یافتم",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: از خبرهای کسانی که مطلع بودند، آگاهی کسب کردم و به خاطر این آگاهی، سریعاً اقدام کردم."
     },
     {
       "VOrder": 70,
@@ -1291,7 +1326,8 @@
       "Text": "کجا از پس پرده پوشیده روی",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "بر کسی پنهان نیست که تو سه دختر پاکدامن داری."
     },
     {
       "VOrder": 72,
@@ -1307,7 +1343,8 @@
       "Text": "مران هرسه را نوز ناکرده نام",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "برای هر سه نفر هنوز نامزدی انتخاب نکرده ای . چون این را شنیدم خوشحال شدم"
     },
     {
       "VOrder": 74,
@@ -1323,7 +1360,8 @@
       "Text": "که ما نیز نام سه فرخ نژاد",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: ما هم نام سه فرد خوشبخت را وقتی به ذهنمان آمد، یاد نکردیم."
     },
     {
       "VOrder": 76,
@@ -1339,7 +1377,8 @@
       "Text": "کنون این گرامی دو گونه گهر",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: اکنون باید این ارزشمند را با دو نوع گوهر ترکیب کرد."
     },
     {
       "VOrder": 78,
@@ -1355,7 +1394,8 @@
       "Text": "سه پوشیده رخ را سه دیهیم جوی",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: سه زن زیبا که صورت‌هایشان پنهان است، هر یک دارای تاجی هستند. هر یک از آن‌ها شایسته‌ی احترام و تقدیر است و نیازی به گفت‌وگو برای اثبات این موضوع وجود ندارد."
     },
     {
       "VOrder": 80,
@@ -1371,7 +1411,8 @@
       "Text": "فریدون پیامم بدین گونه داد",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: فریدون پیام را به این شکل به من منتقل کرد: تو باید به همه چیزهایی که به ذهنت می‌رسد پاسخ بدهی."
     },
     {
       "VOrder": 82,
@@ -1387,7 +1428,8 @@
       "Text": "پیامش چو بشنید شاه یمن",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هَنگامیکه شاه یمن پیامِ جَندَل را شَنید، مانند گلِ یاسی که از آب جدا مانده باشد، پژمرد."
     },
     {
       "VOrder": 84,
@@ -1403,7 +1445,8 @@
       "Text": "همی‌گفت گر پیش بالین من",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "به او گفت که اگر این دختران کنار من نباشند و چشمهای من سه ماه آنها را نبینند"
     },
     {
       "VOrder": 86,
@@ -1419,7 +1462,8 @@
       "Text": "مرا روز روشن بود تاره شب",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: من در روشنایی روز می‌دانستم که شب باید با پاسخ گفتن به دو لبم آغاز شود."
     },
     {
       "VOrder": 88,
@@ -1435,7 +1479,8 @@
       "Text": "سراینده را گفت کای نامجوی",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: شخصی به شاعر می‌گوید: ای کسی که به دنبال نام و شهرت هستی، در این نوع گفتگوها باید چنین سخن بگویی."
     },
     {
       "VOrder": 90,
@@ -1451,7 +1496,8 @@
       "Text": "شتابت نباید به پاسخ کنون",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: سرعت تو نباید باعث شود که به پاسخ کنونی من فکر نکنی، زیرا هنوز چندین راز هست که باید کشف شوند."
     },
     {
       "VOrder": 92,
@@ -1467,7 +1513,8 @@
       "Text": "فرستاده را زود جایی گزید",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: فرستاده به سرعت جایی را انتخاب کرد و سپس به امور داخلی آنجا نگاهی انداخت."
     },
     {
       "VOrder": 94,
@@ -1483,7 +1530,8 @@
       "Text": "بیامد در بار دادن ببست",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: به مراسمی آمد و درِ پذیرایی را بست و در میان جمعیتی از اندیشمندان نشسته بود."
     },
     {
       "VOrder": 96,
@@ -1499,7 +1547,8 @@
       "Text": "فراوان کس از دشت نیزه‌وران",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: بسیاری از افراد از دشت جنگجویان با تجربه و دلاور به نزد خود دعوت کردند."
     },
     {
       "VOrder": 98,
@@ -1515,7 +1564,8 @@
       "Text": "نهفته برون آورید از نهفت",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "همه‌ی رازهایش را برای اون گفت."
     },
     {
       "VOrder": 100,
@@ -1531,7 +1581,8 @@
       "Text": "که ما را به گیتی ز پیوند خویش",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: این بیت به ارتباط و پیوندی اشاره دارد که بین ما و دنیای اطراف وجود دارد. مانند سه شعله که در کنار هم و در یک جا روشن هستند، این ارتباطات به ما نور و روشنی می‌بخشند و ما را در مسیر زندگی راهنمایی می‌کنند."
     },
     {
       "VOrder": 102,
@@ -1547,7 +1598,8 @@
       "Text": "فریدون فرستاد زی من پیام",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: فریدون پیامی به من فرستاد و یکی از بهترین جوانان را پیش من فرستاد."
     },
     {
       "VOrder": 104,
@@ -1563,7 +1615,8 @@
       "Text": "همی‌کرد خواهد ز چشمم جدا",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "هوش مصنوعی: من از دیده‌ام دوری خواهم کرد و برای این کار، باید با شما نظری در میان بگذارم."
     },
     {
       "VOrder": 106,
@@ -1579,7 +1632,8 @@
       "Text": "فرستاده گوید چنین گفت شاه",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "هوش مصنوعی: فرستاده می‌گوید که شاه چنین گفته است: ما سه شاه زیبا داریم که در هر زمان و مکان خود را نشان می‌دهند."
     },
     {
       "VOrder": 108,
@@ -1595,7 +1649,8 @@
       "Text": "گراینده هر سه به پیوند من",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "هوش مصنوعی: این بیت به ارتباط و پیوند میان سه چیز اشاره دارد که به شکل‌های مختلفی از وجود من یا فرزند من برخوردار هستند. یعنی هر سه به نوعی به من مرتبط‌اند، ولی هر کدام جنبه‌ها و ابعاد پنهانی دارند."
     },
     {
       "VOrder": 110,
@@ -1611,7 +1666,8 @@
       "Text": "اگر گویم آری و دل زان تهی",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "هوش مصنوعی: اگر بگویم بله و در دل از این موضوع خالی باشم، در واقع دروغ می‌گویم و این سخن همراه با حقیقت نخواهد بود."
     },
     {
       "VOrder": 112,
@@ -1627,7 +1683,8 @@
       "Text": "وگر آرزو‌ها سپارم بدوی",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "هوش مصنوعی: اگر آرزوهایم را رها کنم، دل من که پر از آتش است، به سمت آب خواهد رفت."
     },
     {
       "VOrder": 114,
@@ -1643,7 +1700,8 @@
       "Text": "وگر سر بپیچم ز فرمان او",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "هوش مصنوعی: اگر از دستورات او سرپیچی کنم و به سمتی دیگر بروم، عهد و پیمان خود را شکسته‌ام."
     },
     {
       "VOrder": 116,
@@ -1659,7 +1717,8 @@
       "Text": "کسی کو بود شهریار زمین",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "هوش مصنوعی: کسی که فرمانروای جهان است، بازیچه نیست و نباید با او به دشمنی پرداخت."
     },
     {
       "VOrder": 118,
@@ -1675,7 +1734,8 @@
       "Text": "شنیدستم از مردم راه‌جوی",
       "CoupletIndex": 59,
       "SectionIndex1": 0,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "از مردم راستگو شنیده‌ام که او (فریدون) چه بلایی بر سر ضحاک آورد."
     },
     {
       "VOrder": 120,
@@ -1691,7 +1751,8 @@
       "Text": "ازین در سخن هر چه دارید یاد",
       "CoupletIndex": 60,
       "SectionIndex1": 0,
-      "SectionIndex2": 62
+      "SectionIndex2": 62,
+      "CoupletSummary": "هوش مصنوعی: هر چه دارید از سخن و اندیشه، باید به طور کامل و بی پرده با من در میان بگذارید."
     },
     {
       "VOrder": 122,
@@ -1707,7 +1768,8 @@
       "Text": "جهان آزموده دلاور سران",
       "CoupletIndex": 61,
       "SectionIndex1": 0,
-      "SectionIndex2": 63
+      "SectionIndex2": 63,
+      "CoupletSummary": "هوش مصنوعی: در جهان، افراد شجاعی که تجربه‌های زیادی دارند، به تدریج برای پاسخگویی آماده شده و از کلام خود استفاده می‌کنند."
     },
     {
       "VOrder": 124,
@@ -1723,7 +1785,8 @@
       "Text": "که ما همگنان آن نبینیم رای",
       "CoupletIndex": 62,
       "SectionIndex1": 0,
-      "SectionIndex2": 64
+      "SectionIndex2": 64,
+      "CoupletSummary": "هوش مصنوعی: ما هم‌سن و سالان آن را نمی‌بینیم که تو چطور با هر بادی جای خود را تغییر می‌دهی."
     },
     {
       "VOrder": 126,
@@ -1739,7 +1802,8 @@
       "Text": "اگر شد فریدون جهان شهریار",
       "CoupletIndex": 63,
       "SectionIndex1": 0,
-      "SectionIndex2": 65
+      "SectionIndex2": 65,
+      "CoupletSummary": "هوش مصنوعی: اگر فریدون، پادشاه جهان شود، دیگر ما بندگان او نیستیم که فقط به زینت‌های ظاهری خود اهمیت دهیم."
     },
     {
       "VOrder": 128,
@@ -1755,7 +1819,8 @@
       "Text": "سخن‌گفتن و کوشش آیین ماست",
       "CoupletIndex": 64,
       "SectionIndex1": 0,
-      "SectionIndex2": 66
+      "SectionIndex2": 66,
+      "CoupletSummary": "هوش مصنوعی: صحبت کردن و تلاش کردن، روش و روش‌کار ماست، و کنترل و رهبری، اساس دین ماست."
     },
     {
       "VOrder": 130,
@@ -1771,7 +1836,8 @@
       "Text": "به خنجر زمین را میستان کنیم",
       "CoupletIndex": 65,
       "SectionIndex1": 0,
-      "SectionIndex2": 67
+      "SectionIndex2": 67,
+      "CoupletSummary": "هوش مصنوعی: زمین را با خنجر شخم می‌زنیم و هوا را با نیزه می‌نوازیم."
     },
     {
       "VOrder": 132,
@@ -1787,7 +1853,8 @@
       "Text": "سه فرزند اگر بر تو هست ارجمند",
       "CoupletIndex": 66,
       "SectionIndex1": 0,
-      "SectionIndex2": 68
+      "SectionIndex2": 68,
+      "CoupletSummary": "اگر سه فرزند برایت عزیز هستند سکوت کن وبه جای آنها برای او زر و مال بفرست"
     },
     {
       "VOrder": 134,
@@ -1803,7 +1870,8 @@
       "Text": "و گر چارهٔ کار خواهی همی",
       "CoupletIndex": 67,
       "SectionIndex1": 0,
-      "SectionIndex2": 69
+      "SectionIndex2": 69,
+      "CoupletSummary": "هوش مصنوعی: اگر به دنبال راه حل مشکلاتت هستی، باید از این حکومت و قدرت بترسی."
     },
     {
       "VOrder": 136,
@@ -1819,7 +1887,8 @@
       "Text": "ازو آرزو‌های پرمایه جوی",
       "CoupletIndex": 68,
       "SectionIndex1": 0,
-      "SectionIndex2": 70
+      "SectionIndex2": 70,
+      "CoupletSummary": "هوش مصنوعی: از او خواسته‌های با ارزش و مهمی بخواه که هیچ‌کس نتواند رفتار او را ببیند."
     },
     {
       "VOrder": 138,
@@ -1835,7 +1904,8 @@
       "Text": "چو بشنید از آن نامداران سخن",
       "CoupletIndex": 69,
       "SectionIndex1": 0,
-      "SectionIndex2": 71
+      "SectionIndex2": 71,
+      "CoupletSummary": "هوش مصنوعی: وقتی آن نامداران صحبت را شنیدند، نه سر آن را در دنیا دیدند و نه دلیلی برای آن پیدا کردند."
     },
     {
       "VOrder": 140,

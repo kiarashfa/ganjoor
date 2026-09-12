@@ -601,7 +601,8 @@
       "Text": "چو دود شب بماند از آتش روز",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: مانند دودی که از آتش روز تا شب باقی می‌ماند، آسمان روزهای خوب را می‌نویسد."
     },
     {
       "VOrder": 2,
@@ -617,7 +618,8 @@
       "Text": "بشد بر پشت اشقر آفتابی",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: خورشید بر پشت اسب روشن تابید و چون بازگشت، ماه بر زمین تیره روشنایی افکند."
     },
     {
       "VOrder": 4,
@@ -633,7 +635,8 @@
       "Text": "ز لشکرگه به راه افتاد رامین",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: رامین از اردوگاه حرکت کرد و هیچ کس را جز ماه و ستاره‌ها (پروین) ندید."
     },
     {
       "VOrder": 6,
@@ -649,7 +652,8 @@
       "Text": "رسول ویس\u00A0پیشش\u00A0با چهل کس",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: رسول ویس در مقابل او با چهل نفر حضور داشت که هر یک از آن‌ها لشکری بودند و قدرت‌های زیادی داشتند."
     },
     {
       "VOrder": 8,
@@ -665,7 +669,8 @@
       "Text": "گهی تازان گهی پویان چو گرگان",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: گاهی با شتاب و سرعت می‌دوند و گاهی آرام و با احتیاط حرکت می‌کنند، مانند گرگانی که در یک هفته به مرو می‌رسند."
     },
     {
       "VOrder": 10,
@@ -681,7 +686,8 @@
       "Text": "چو رامین از بیابان رفت بیرون",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: زمانی که رامین از بیابان خارج شد، دیگر در طول یک روز سفر، از سختی راه نجاتی نیافت."
     },
     {
       "VOrder": 12,
@@ -697,7 +703,8 @@
       "Text": "رسول و ویس را از ره گسی کرد",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: پیامبر و ویس را به خاطر ویس از راه جدا کرد و برای او نصیحت‌های فراوانی نمود."
     },
     {
       "VOrder": 14,
@@ -713,7 +720,8 @@
       "Text": "که او را آگاهی از من نهان ده",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: به او بگو که از حال و وضعیت من بی‌خبر باشد، زیرا در این وضعیت، کار ما پنهان است و نیاز به مخفی‌کاری داریم."
     },
     {
       "VOrder": 16,
@@ -729,7 +737,8 @@
       "Text": "مگو این راز جز با ویس و دایه",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: این راز را فقط با افرادی که در این موضوع تخصص دارند، در میان بگذار. کسانی که خود، در این زمینه مراقبتی و حمایتی می‌کنند، می‌توانند به ما کمک کنند و ما را به سود برسانند."
     },
     {
       "VOrder": 18,
@@ -745,7 +754,8 @@
       "Text": "بگو کاین بار کار ما چنان شد",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: بگو که این بار کار ما به گونه‌ای پیش رفت که در هر زبانی درباره‌اش حرف زده شد."
     },
     {
       "VOrder": 20,
@@ -761,7 +771,8 @@
       "Text": "نشاید دید ازین پس روی موبد",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: از این پس نباید روی موبد را دید و اگر آن را ببینم، سزاوار هر بدی هستم."
     },
     {
       "VOrder": 22,
@@ -777,7 +788,8 @@
       "Text": "تو فرداشب به دز بر، باش هشیار",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: امشب به دز برو و مراقب باش، چون شب هنوز به پایان نرسیده و من در گوش تو هستم."
     },
     {
       "VOrder": 24,
@@ -793,7 +805,8 @@
       "Text": "بکن چاری که من پیش تو آیم",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: کاری کن که من به سمت تو بیایم و به تو کمک کنم تا به موفقیت برسی."
     },
     {
       "VOrder": 26,
@@ -809,7 +822,8 @@
       "Text": "نهان دار این سخن تا من رسیدن",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: این سخن را در دل خود نگه‌دار تا زمانی که به مقصد برسم، آنگاه این پرده را خواهم درید و راز را فاش خواهم کرد."
     },
     {
       "VOrder": 28,
@@ -825,7 +839,8 @@
       "Text": "فرستاده برفت از پیش رامین",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: پیام‌آور به سرعت از نزد رامین به سمت راهان رفت، به‌طوری‌که بسیار تندتر از یک شاهین پرواز می‌کرد."
     },
     {
       "VOrder": 30,
@@ -841,7 +856,8 @@
       "Text": "بدان گه سیم‌بر ویس گل اندام",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: در آن زمان که سیمین‌پیکر ویس در میان گل‌ها آرامش داشت، به مرو رفت."
     },
     {
       "VOrder": 32,
@@ -857,7 +873,8 @@
       "Text": "همیدون گنجهای شاه گربز",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: همیشه در آن دز، گنج‌های شاه گربز نگهداری می‌شد."
     },
     {
       "VOrder": 34,
@@ -873,7 +890,8 @@
       "Text": "سپهبد زردِ نامی کوتوالش",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: سردار زردِ معروف که دارایی‌اش بیش از ثروت موبدان بود، وظیفه‌اش را به خوبی انجام می‌دهد."
     },
     {
       "VOrder": 36,
@@ -889,7 +907,8 @@
       "Text": "گزینِ شاه و دستور و برادر",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: انتخاب فرمانروا و برادرش به ثروت و آرزوهایی مشابه با قارون دیگر."
     },
     {
       "VOrder": 38,
@@ -905,7 +924,8 @@
       "Text": "نگهبان بود ویس دلستان را",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: ویس، نگهبان دلستان بود و از طرف خداوند فرمان جهان را دریافت کرده بود."
     },
     {
       "VOrder": 40,
@@ -921,7 +941,8 @@
       "Text": "فرستاده چو بازآمد ز گرگان",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: فرستاده که از گرگان برگشته بود، دروازه را رد کرد و به طور پنهانی وارد شهر شد."
     },
     {
       "VOrder": 42,
@@ -937,7 +958,8 @@
       "Text": "پس آنگه چون زنان پوشید چادر",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: سپس او چادر بر تن کرد و در برابر ویس بانو قرار گرفت و بر روی الاغ نشست."
     },
     {
       "VOrder": 44,
@@ -953,7 +975,8 @@
       "Text": "کجا خود ویس را آیین چنان بود",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: کجا می‌توانست ویس چنین حالتی داشته باشد که هر روز را با جشن و سرور بگذراند؟"
     },
     {
       "VOrder": 46,
@@ -969,7 +992,8 @@
       "Text": "زنان مهتران زی او شدندی",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: زنان بزرگان از او خوشحال بودند و هر هفته با او دیدار می‌کردند."
     },
     {
       "VOrder": 48,
@@ -985,7 +1009,8 @@
       "Text": "بدین نیرنگ زیبا مرد جادو",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: با این فریب زیبا، مرد جادو به طور پنهانی از زردی خارج شد و به سمت بانویی رفت."
     },
     {
       "VOrder": 50,
@@ -1001,7 +1026,8 @@
       "Text": "بگفتش سر به سر پیغام رامین",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: او به او گفت که پیغام رامین را به گونه‌ای زیبا و دلنشین مثل در و شکر بیان کند."
     },
     {
       "VOrder": 52,
@@ -1017,7 +1043,8 @@
       "Text": "که داند گفت چون بُد شادی ویس",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: کسی نمی‌داند که شادی ویس چگونه بود، چون او از مردی که می‌توانست او را نجات دهد، آزاد شده بود."
     },
     {
       "VOrder": 54,
@@ -1033,7 +1060,8 @@
       "Text": "تو گفتی مفلسی گنج روان یافت",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: تو گفتی شخصی که بی‌پول است مانند گنجی ارزشمند به زندگی باز می‌گردد، یا کسی که مرده بود دوباره زنده می‌شود."
     },
     {
       "VOrder": 56,
@@ -1049,7 +1077,8 @@
       "Text": "همانگه سوی زردش کس فرستاد",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: در همان لحظه که به خواب رفتم، کسی را به سمت زردش فرستادم تا پیغام خوابم را به او برساند و بگوید که در خواب خبری از سرنوشت و آینده‌ام به من داده شده است."
     },
     {
       "VOrder": 58,
@@ -1065,7 +1094,8 @@
       "Text": "که ویرو یافت لختی درد و سستی",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: او مدتی دچار درد و خستگی بود، اما حالا دوباره حالش خوب شده است."
     },
     {
       "VOrder": 60,
@@ -1081,7 +1111,8 @@
       "Text": "به آتشگاه خواهم رفتن امروز",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: امروز به محل آتش می‌روم تا کار نیک را انجام دهم و آتش روشن کنم."
     },
     {
       "VOrder": 62,
@@ -1097,7 +1128,8 @@
       "Text": "خورش بفزایم آتش را ببخشش",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: نور خورشید را افزایش می‌دهم و آتش را از روی نیکی و پاکی و آرامش می‌بخشم."
     },
     {
       "VOrder": 64,
@@ -1113,7 +1145,8 @@
       "Text": "سپهبد گفت شاید همچنین کن",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: سپهبد گفت که شاید بهتر باشد همیشه به دنبال انجام کارهای نیک و یادآوری نام خوب باشی و در راه دین خدمت کنی."
     },
     {
       "VOrder": 66,
@@ -1129,7 +1162,8 @@
       "Text": "همانگه ویس شد با دوستداران",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: در همان لحظه، ویس به همراه دوستانش که از میان زنان برجسته و معروف بودند، ظاهر شد."
     },
     {
       "VOrder": 68,
@@ -1145,7 +1179,8 @@
       "Text": "به دروازه به آتشگاه خورشید",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: به دروازه‌ای که به آتشگاه خورشید منتهی می‌شود، نگاهی بینداز که از کردهای شاه جمشید ساخته شده است."
     },
     {
       "VOrder": 70,
@@ -1161,7 +1196,8 @@
       "Text": "چه مایه ریخت خون گوسفندان",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: چقدر خون گوسفندان برای کمک به نیازمندان ریخته شد و این باعث آن برق و خوشحالی در دل‌ها شد."
     },
     {
       "VOrder": 72,
@@ -1177,7 +1213,8 @@
       "Text": "چه مایه جامه و گوهر برافشاند",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: بسته به شرایط و موقعیت‌ها، ممکن است چیزهای با ارزش و زیبا به دست آوریم یا اینکه با مشکلات و چالش‌ها مواجه شویم که آنچه داریم از دست بدهیم."
     },
     {
       "VOrder": 74,
@@ -1193,7 +1230,8 @@
       "Text": "چو شب بر روی گردون سایه گسترد",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: وقتی شب سایه‌اش را بر آسمان گسترد، پیامبری آمد و رامین را به داخل آورد."
     },
     {
       "VOrder": 76,
@@ -1209,7 +1247,8 @@
       "Text": "ز بیگانه تهی کردند ایوان",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: از بیگانگان خالی کردند، و ایوان (محل) در برابر مشتری (سیاره) که سنش زیاد شده، ضعیف و بی‌حال شده است."
     },
     {
       "VOrder": 78,
@@ -1225,7 +1264,8 @@
       "Text": "بماند آن راز در گیتی نهفته",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: رازهایی در دنیا وجود دارند که هنوز فاش نشده‌اند و از آن‌جایی که به شدت محافظت می‌شوند، هیچ‌کس نمی‌تواند به آن‌ها دست پیدا کند."
     },
     {
       "VOrder": 80,
@@ -1241,7 +1281,8 @@
       "Text": "اگرچه کار باشد سهمگین سخت",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: اگرچه کار دشوار و سنگینی باشد، اما با پشتوانه و شانس مناسب، به آسانی انجام می‌شود."
     },
     {
       "VOrder": 82,
@@ -1257,7 +1298,8 @@
       "Text": "چنان چون ویس و رامین را برآمد",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: مانند داستان ویس و رامین، درختی که نماد رنج بود، حالا با شادی جوانه زده است."
     },
     {
       "VOrder": 84,
@@ -1273,7 +1315,8 @@
       "Text": "زنان مهتران یکسر برفتند",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: زنان و خواستگاران مهم و معتبر همه رفتند و همه بیگانگان نیز از در خارج شدند."
     },
     {
       "VOrder": 86,
@@ -1289,7 +1332,8 @@
       "Text": "کسان ویس با رامین بماندند",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: افرادی که ویس را با رامین همراه کردند، همان زمان جنگجویان را برانگیختند."
     },
     {
       "VOrder": 88,
@@ -1305,7 +1349,8 @@
       "Text": "چهل جنگی همه گرد دلاور",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: چهل جنگجو همه به دور دلیران گرد آمده‌اند، مانند زنانی که در زیر چادر نشسته‌اند."
     },
     {
       "VOrder": 90,
@@ -1321,7 +1366,8 @@
       "Text": "بدین چاره ز دروازه برفتند",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: با این تدبیر، از دروازه خارج شدند و از آتش‌گاه راهی برای فرار پیدا کردند."
     },
     {
       "VOrder": 92,
@@ -1337,7 +1383,8 @@
       "Text": "به پیش اندر گروهی شمعداران",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: در جلو، جمعی از شمع‌دارها و جمعی از خدمت‌گزاران و کارمندان حضور دارند."
     },
     {
       "VOrder": 94,
@@ -1353,7 +1400,8 @@
       "Text": "همی راندند مردی را ز راهش",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: مردی را به دلیل گناهش از راهی که می‌رفت، دور کردند و او در عذاب این کار و گناهش پنهان ماند."
     },
     {
       "VOrder": 96,
@@ -1369,7 +1417,8 @@
       "Text": "بدین نیرنگ رامین را به دز برد",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: با فریب و نیرنگ، رامین را به دز بردند و او را زیر چادری پنهان کردند که در آن چهل گرده وجود داشت."
     },
     {
       "VOrder": 98,
@@ -1385,7 +1434,8 @@
       "Text": "چو در دز شد کندز ببستند",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: وقتی که دروازه‌های کندز را بستند، نگهبانان روی دیوارها نشسته بودند."
     },
     {
       "VOrder": 100,
@@ -1401,7 +1451,8 @@
       "Text": "خروش و های هویی برکشیدند",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: در سرای ویس، صدا و هیاهویی بلند شد، اما دشمنی را نتوانستند مشاهده کنند."
     },
     {
       "VOrder": 102,
@@ -1417,7 +1468,8 @@
       "Text": "چو شب تاریک شد چون جان بد مهر",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: وقتی شب بسیار تیره می‌شود، مانند زمانی که جانم در غم تو غرق می‌شود، چهره‌ام را با دودی سیاه و قیر مانند می‌پوشانی."
     },
     {
       "VOrder": 104,
@@ -1433,7 +1485,8 @@
       "Text": "هوا از قعر دریا تیره‌تر شد",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "هوش مصنوعی: هوا به قدری تاریک شد که مانند عمق دریا به نظر می‌رسید، اما آسمان هم پر از زیبایی و نور بود، مانند خزینه‌ای از جواهرات."
     },
     {
       "VOrder": 106,
@@ -1449,7 +1502,8 @@
       "Text": "برآمد لشکر گردون ز خاور",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "هوش مصنوعی: لشکری از آسمان به سمت شرق خارج شد که همانند سکندر از تاریکی به روشنایی آمد."
     },
     {
       "VOrder": 108,
@@ -1465,7 +1519,8 @@
       "Text": "دلیران از کمین بیرون دویدند",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "هوش مصنوعی: دلیران به سرعت از پنهانگاه خود خارج شدند و مانند یک برگ، کسانی که به آنها حمله کرده بودند را مورد ضربه قرار دادند و از سلاح‌های خود استفاده کردند."
     },
     {
       "VOrder": 110,
@@ -1481,7 +1536,8 @@
       "Text": "چو سوزان آتش اندر دز فتادند",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "هوش مصنوعی: وقتی آتش سوزان در دز افتاد، همه شمشیرها را در دستان دلیران قرار دادند."
     },
     {
       "VOrder": 112,
@@ -1497,7 +1553,8 @@
       "Text": "چو خفته کش پلنگ آید به بالین",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "هوش مصنوعی: وقتی پلنگ خوابیده نزدیک می‌شود، برادر رامین به عیادتش می‌آید."
     },
     {
       "VOrder": 114,

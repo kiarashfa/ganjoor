@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "خیز تا می خوریم و غم نخوریم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیایید تا با هم شادابانه زندگی کنیم و از غم و اندوه دور بمانیم، و به نگرانی‌های آینده اهمیت ندهیم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "تا توانیم کرد با همه کس",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا جایی که بتوانیم، با همه افراد با صداقت و انسانیت رفتار می‌کنیم."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "قصد آزار دوستان نکنیم",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نباید به دوستان خود آسیب برسانیم و هیچگاه راز دشمنان را فاش نکنیم."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "نشنویم آنچه ناشنودنیست",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چیزهایی را که نمی‌توان شنید، نشنویم و از آنچه نمی‌توان گفت، چشم‌پوشی کنیم."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "ما که خواهیم جست عیب کسان",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما به دنبال عیب‌های دیگران هستیم، اما خودمان عیوبی داریم که به آن‌ها توجه نمی‌کنیم."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "ای که گفتی که عاقبت بنگر",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که گفتی به عاقبت نگریم، ما مردانی هستیم که در نهایت به عواقب کارهایمان توجه نمی‌کنیم."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "بندهٔ نیکوان لاله رخیم",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من یکی از پیروان نیکوکاران هستم و چهرهٔ زیبایم باعث می‌شود که عاشق دلرباها شوم."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "شب نباشیم جز به مصطبه‌ها",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما در شب‌ها نباید جز در مکان‌های امن و آرام باشیم و در روز نیز هر کجا که برویم، باید در خوشی و زیبایی به سر ببریم."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "می کشان و مقامران دغا",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسانی که در کارشان فریب و نیرنگ دارند، همگی از ما هستند و ما در برابر آن‌ها ضعیف و ناتوانیم."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "پاکبازان هر دو عالم را",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پاکبازان دنیا و آخرت را برای لحظه‌ای باختن به چیزی نمی‌فروشیم."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "دوستار نگار و سرخ مییم",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوستدار زیبا و عشق به شراب هستم، اما دشمن مالی هستم که از والدینم به ارث رسیده است."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "پدران را خدای مزد دهاد",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خداوند به پدران پاداش می‌دهد، نه به مانند ما که فرزندان نامناسبی هستیم."
     },
     {
       "VOrder": 24,

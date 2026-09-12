@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "ای خواجه با تو من سخنی مختصر کنم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای آقا، می‌خواهم به‌طور خلاصه با تو صحبت کنم و از وضعیت خودم به تو بگویم."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "با دشمنان من چو تو پیوند میکنی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو با دشمنان من رابطه برقرار کنی، من هم دوستی‌ات را از دل بیرون می‌آورم."
     },
     {
       "VOrder": 4,
@@ -54,7 +56,8 @@
       "Position": "Right",
       "Text": "بازیچه میکنی سخنان مرا گمان",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو به سخنان من بی‌توجهی می‌کنی، گویی من هم برای تو فقط یک بازیچه هستم. اگر بخواهم چیزی بگویم که برایت بهتر باشد، چه باید بگویم؟"
     },
     {
       "VOrder": 6,
@@ -68,7 +71,8 @@
       "Position": "Right",
       "Text": "باور مکن که دست ز دامن بدارمت",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به این فکر نیفت که من به خاطر تو دست از درخواست و نیازم برمی‌دارم، زیرا بارها و بارها توانسته‌ام خودم را از مشکلات و دردسرها رها کنم."
     },
     {
       "VOrder": 8,
@@ -82,7 +86,8 @@
       "Position": "Right",
       "Text": "نام تو را که گشته بمهر و وفا سمر",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نام تو که نماد محبت و صداقت است، در دنیای پر از ظلم و فساد نمایان می‌شود."
     },
     {
       "VOrder": 10,
@@ -96,7 +101,8 @@
       "Position": "Right",
       "Text": "روشن چو آفتاب، جفای تو را بخلق",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من مثل آفتاب روشن می‌خواهم جفای تو را به مردم بچشانم، تا از شرق تا غرب منتشر شود."
     },
     {
       "VOrder": 12,
@@ -110,7 +116,8 @@
       "Position": "Right",
       "Text": "باخوب و زشت و دوست و دشمن بهر طرف",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از دل ناپاک تو به هر سمت، چه خوب و چه بد، چه دوست و چه دشمن، شکایت می‌کنم."
     },
     {
       "VOrder": 14,
@@ -124,7 +131,8 @@
       "Position": "Right",
       "Text": "ایخواجه بیم کن که زدست جفا و جور",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای آقای من، مراقب باش که از دست ستم و بدی چه بر سرت خواهد آمد، زیرا من همه کارهایت را به سرنوشت و تقدیر می‌سپارم."
     },
     {
       "VOrder": 16,
@@ -138,7 +146,8 @@
       "Position": "Right",
       "Text": "مپسند کز جفای تو نزد خدا و خلق",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دیگر از بی‌وفایی تو راضی نیستم که بخواهم برای خدا و مردم این همه دردسر و آزار و شلوغی را به خودم تحمل کنم."
     },
     {
       "VOrder": 18,
@@ -152,7 +161,8 @@
       "Position": "Right",
       "Text": "آهی زنم چنانکه دل جرخ تیره را",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آه بلندی می‌زنم که قلب تاریک را مانند آتش در دامن وجود دشمن شعله‌ور کنم."
     },
     {
       "VOrder": 20,
@@ -166,7 +176,8 @@
       "Position": "Right",
       "Text": "گنجشکیم که ملک سلیمان بزور خویش",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما گنجشک‌هایی هستیم که با قدرت خود قادر به تحت تاثیر قرار دادن و تغییر جهان اطرافمان هستیم."
     },
     {
       "VOrder": 22,
@@ -180,7 +191,8 @@
       "Position": "Right",
       "Text": "با من تو روی خویش چو شکل دگر کنی",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو چهره‌ات را تغییر بدهی، من هم چهره خود را تغییر می‌دهم."
     },
     {
       "VOrder": 24,
@@ -194,7 +206,8 @@
       "Position": "Right",
       "Text": "تدبیر کار من بکن ای خواجه ورنه من",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای آقا، تدبیری برای کار من بیندیش، وگرنه من خود به تنهایی در وقت صبح برای کارم چاره‌ای می‌اندیشم."
     },
     {
       "VOrder": 26,
@@ -208,7 +221,8 @@
       "Position": "Right",
       "Text": "دل برکنم ز روی تو، با جمع بیدلان",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دلم را از روی تو جدا می‌کنم و با گروهی از دل‌سوختگان، ناگهان بار سفر را از کوی تو می‌بندم و راهی می‌شوم."
     },
     {
       "VOrder": 28,

@@ -961,7 +961,8 @@
       "Text": "چنین گفته‌ست اینجا پاکبازی",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: این طور گفت یک انسان پاک و بی‌غش که من در اینجا در جست‌وجوی رازهای درون خود بودم."
     },
     {
       "VOrder": 2,
@@ -977,7 +978,8 @@
       "Text": "بسی سال اندر این سر بودم اینجا",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: سال‌ها در این مکان بوده‌ام و در اینجا به عمق حقیقت، جزئیات و کل آن پی برده‌ام."
     },
     {
       "VOrder": 4,
@@ -993,7 +995,8 @@
       "Text": "طلب میکردم اینجاگه یکی من",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: من در اینجا در پی ملاقات کسی بودم، که ناگهان چهره‌اش را دیدم."
     },
     {
       "VOrder": 6,
@@ -1009,7 +1012,8 @@
       "Text": "درون میجستم اسرار حقیقت",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: در جستجوی اسرار واقعیات بودم و از محدودیت‌های دنیای طبیعی عبور کردم."
     },
     {
       "VOrder": 8,
@@ -1025,7 +1029,8 @@
       "Text": "بسی بودم درون خلوت خود",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: من در تنهایی خود به دنبال خودم می‌گشتم و احساس دوری از خودم را می‌کردم."
     },
     {
       "VOrder": 10,
@@ -1041,7 +1046,8 @@
       "Text": "همی جستیم یقین دلدار اینجا",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: ما در جستجوی عشق و محبت هستیم و در اینجا، هر صدایی که می‌شنویم، ما را به یاد معشوق می‌اندازد؛ گویی او نیز در این مکان حضور دارد."
     },
     {
       "VOrder": 12,
@@ -1057,7 +1063,8 @@
       "Text": "برون آمد که ای وامانده غافل",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: بیرون آمده که ای کسی که در غفلت و نادانی به سر می‌بری، این‌قدر بیچاره و متکبر و بی‌احساس هستی."
     },
     {
       "VOrder": 14,
@@ -1073,7 +1080,8 @@
       "Text": "چه میداری طلب کان کس ندیداست",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: چه چیز را می‌دانی که از آن کسی خبری ندارد؟ در حالی که تمام ذرات وجود او از دیدها پنهان است."
     },
     {
       "VOrder": 16,
@@ -1089,7 +1097,8 @@
       "Text": "پدیدار است لیکن غیب پنهان",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: ظاهر یک چیز مشخص و واضح است، اما حقیقت باطن آن پنهان است. تنها زمانی می‌توانی به آن دست یابی که از خودت و ویژگی‌های خودت پنهان شوی."
     },
     {
       "VOrder": 18,
@@ -1105,7 +1114,8 @@
       "Text": "تو داری آنچه میجوئی کجائی",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: تو آن چیزی را که به دنبالش هستی در اختیار داری، پس چرا از ما بی‌خبر هستی و توجهی به ما نمی‌کنی؟"
     },
     {
       "VOrder": 20,
@@ -1121,7 +1131,8 @@
       "Text": "تو داری جوهر و جویا شدستی",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: تو دارای ویژگی‌های خاصی هستی و به همین خاطر در جستجوی پاسخ‌ها به شدت متحیر و بی‌پروا شده‌ای."
     },
     {
       "VOrder": 22,
@@ -1137,7 +1148,8 @@
       "Text": "تو داری جوهر و هستی طلبکار",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: تو دارای ارزش و وجودی هستی که از دیگران چیزهایی می‌طلبی، و چه شگفت‌انگیز است که این همه را یکجا به دست آورده‌ای."
     },
     {
       "VOrder": 24,
@@ -1153,7 +1165,8 @@
       "Text": "برون میجوئی و من در درونم",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: نگاهت را به بیرون ندوخت، زیرا درون من دلی نیکو و راهنمایی درست وجود دارد."
     },
     {
       "VOrder": 26,
@@ -1169,7 +1182,8 @@
       "Text": "مرا میجوئی اندر سوی بالا",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: شما در تلاشید تا مرا در مکان‌های بالاتر و دنیای متعالی بیابید، اما من در اینجا، در دل آشفتگی و شیدایی‌ام، باقی مانده‌ام."
     },
     {
       "VOrder": 28,
@@ -1185,7 +1199,8 @@
       "Text": "نیابی هیچ بیرونم یقین دان",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: اگر نتوانی به من دست یابی، به این یقین داشته باش که دل خودت را بیشتر از این نرنجان."
     },
     {
       "VOrder": 30,
@@ -1201,7 +1216,8 @@
       "Text": "نیابی سوی بالا دید من تو",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: اگر تو به سوی کمال و حقیقت می‌روی، متوجه می‌شوی که در این مسیر به وحدت و یگانگی می‌رسی."
     },
     {
       "VOrder": 32,
@@ -1217,7 +1233,8 @@
       "Text": "مرادر جان ببین ای مانده غافل",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: ای غافل، به من توجه کن و نگاهی به درونم بینداز. من را در این مسیر بیاب و به مقصد برسان."
     },
     {
       "VOrder": 34,
@@ -1233,7 +1250,8 @@
       "Text": "منم پنهان، منم حیران بمانده",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: من در جایی مخفی و گیج و سردرگم هستم و همچنان در معبد تو باقی مانده‌ام، همچنان که فقط یک نفر باقی مانده است."
     },
     {
       "VOrder": 36,
@@ -1249,7 +1267,8 @@
       "Text": "ز یکتائی من دریاب خود را",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: از یکتایی من به خود آگاهی پیدا کن تا بتوانم خوب و بد را از هم جدا کنم و از آنها رها شوم."
     },
     {
       "VOrder": 38,
@@ -1265,7 +1284,8 @@
       "Text": "چرا میجوئیم بیرون خود تو",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: چرا ما به دنبال چیزی خارج از خود هستیم وقتی که جستجوگر اینجا در دل خود تو وجود دارد؟"
     },
     {
       "VOrder": 40,
@@ -1281,7 +1301,8 @@
       "Text": "خرد بگذارو ما را در درون بین",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: خودت را نادیده بگیر و به درونت نگاه کن، بین تو و آنچه در بیرون است تفاوت وجود دارد."
     },
     {
       "VOrder": 42,
@@ -1297,7 +1318,8 @@
       "Text": "درونت با برون جستیم هر کس",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که در جستجوی من باشد، جز خودت نخواهد یافت. تنها درون خودت می‌توانی مرا بیابی."
     },
     {
       "VOrder": 44,
@@ -1313,7 +1335,8 @@
       "Text": "برون اکنون بدان این راز اینجا",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: حواست باشد که این راز را اینجا با کسی در میان نگذار. در حضور دیگران درباره‌اش صحبت نکن."
     },
     {
       "VOrder": 46,
@@ -1329,7 +1352,8 @@
       "Text": "وگرنه من ملامت آرمت پیش",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: اگر نه، من در خفا تو را به خاطر خودم ملامت نمی‌کنم و راز تو را پیش کسی نمی‌برم."
     },
     {
       "VOrder": 48,
@@ -1345,7 +1369,8 @@
       "Text": "نهان کن راز ما تا کس نداند",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: راز ما را پنهان کن، تا هیچ‌کس جز تو از آن آگاه نشود و هیچ‌کس دیگر از آن باخبر نگردد."
     },
     {
       "VOrder": 50,
@@ -1361,7 +1386,8 @@
       "Text": "شو اکنون تا ترا واصل کنم من",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: اکنون بیا تا به تو متصل شوم و تمام آرزوها و امیدهایت را به حقیقت بپیوندم."
     },
     {
       "VOrder": 52,
@@ -1377,7 +1403,8 @@
       "Text": "مگو اسرار ما فارغ زکل باش",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: رازداری کن و اسرار من را به کسی نگو، حتی اگر در کنار من هستی، به دیگران نگو."
     },
     {
       "VOrder": 54,
@@ -1393,7 +1420,8 @@
       "Text": "زبان بگشاد و آنگه پیروگفتا",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: او زبانش را باز کرد و سپس با پیرو گفت: ای دانا و بینا، چه خوب و عالی!"
     },
     {
       "VOrder": 56,
@@ -1409,7 +1437,8 @@
       "Text": "بجز که من بگویم رازت ای جان",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: عزیزم، فقط من می‌توانم راز تو را بگویم، پس بیش از این نگرانم نکن."
     },
     {
       "VOrder": 58,
@@ -1425,7 +1454,8 @@
       "Text": "طلب میکردمت در عین توفیق",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: خواسته بودم که در حالت موفقیت و کامیابی تو را ببینم، اما در حقیقت نمی‌توانستم تو را بیابم."
     },
     {
       "VOrder": 60,
@@ -1441,7 +1471,8 @@
       "Text": "طلب میکردمت در عین توحید",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: درخواست نزدیکیت را داشتم، اما در مقام یگانگی، نتوانستم تو را در چشمان خود ببینم."
     },
     {
       "VOrder": 62,
@@ -1457,7 +1488,8 @@
       "Text": "برون میجستمت تا باز یابم",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: من مدتی است که به دنبال تو هستم و از آن زمان در اینجا با شتاب و تلاطم زندگی می‌کنم."
     },
     {
       "VOrder": 64,
@@ -1473,7 +1505,8 @@
       "Text": "نمیدیدم ترا اکنون چو دیدم",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: من هرگز تو را نمی‌دیدم، ولی حالا که تو را دیدم، یقین پیدا کردم که امشب به وصالت رسیده‌ام."
     },
     {
       "VOrder": 66,
@@ -1489,7 +1522,8 @@
       "Text": "حجابت این زمانم زود بردار",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی ما را به جایی ببری، زود بپوشش را بردار."
     },
     {
       "VOrder": 68,
@@ -1505,7 +1539,8 @@
       "Text": "همه عشاق را اینجا بکشتی",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: در اینجا همه عاشقان را سر به نیست کردی و خاک وجودشان را با خون خالص سازنده‌ای آغشته نمودی."
     },
     {
       "VOrder": 70,
@@ -1521,7 +1556,8 @@
       "Text": "همه عشّاق حیرانند و مدهوش",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: تمام عاشقان در شگفتی و حیرت هستند و آنها در بیان احساسات خود ناتوان مانده‌اند؛ گویی در سکوت به سر می‌برند و نمی‌توانند چیزی بگویند."
     },
     {
       "VOrder": 72,
@@ -1537,7 +1573,8 @@
       "Text": "چنین تو با همه اندر میانی",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: تو در میدان زندگی و روابط با دیگران، حقیقتی را نمایان می‌کنی که بدون هیچ تردیدی، روح و جان را زنده می‌سازد."
     },
     {
       "VOrder": 74,
@@ -1553,7 +1590,8 @@
       "Text": "تو جانی لیک پنهانی ز صورت",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: تو روح و جان هستی، اما چرا پنهان شده‌ای؟ چرا از دوستی ناراضی هستی و این را در چهره‌ات نمی‌نمایانی؟"
     },
     {
       "VOrder": 76,
@@ -1569,7 +1607,8 @@
       "Text": "چراچندین که در بند تو هستم",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: چرا که من به خاطر تو در دستان غم و سختی گرفتارم و زیر فشار مشکلات و رنج‌ها مانده‌ام."
     },
     {
       "VOrder": 78,
@@ -1585,7 +1624,8 @@
       "Text": "دلت با من در اینجا رحم نارد",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: دل تو با من نیست و اینجا جا ندارد، چه رسد به اینکه من را به خاطر تو آزار دهند."
     },
     {
       "VOrder": 80,
@@ -1601,7 +1641,8 @@
       "Text": "درون بودی و میجستم برونت",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: درون وجود تو بود و من به دنبالش می‌گشتم. شگفت‌انگیز است که اکنون در اینجا تو را پیدا کردم."
     },
     {
       "VOrder": 82,
@@ -1617,7 +1658,8 @@
       "Text": "کنونت یافتم در جانت ای جان",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: اکنون تو را در وجودت یافته‌ام، ای جان من. من در نظر تو خوشحال و خندان هستم."
     },
     {
       "VOrder": 84,
@@ -1633,7 +1675,8 @@
       "Text": "بسی داغم که اندر دل نهادی",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: این بیت به احساس عمیق اندوه و درد در دل اشاره دارد. شاعر با بیان اینکه داغ و غم در دلش جا گرفته، نشان می‌دهد که حتی در زمان‌های شادی، این درد و غم همراه اوست و نتوانسته آن را فراموش کند. او از این شرایط رنج می‌برد و احساس می‌کند که شادی نمی‌تواند این غم را از بین ببرد."
     },
     {
       "VOrder": 86,
@@ -1649,7 +1692,8 @@
       "Text": "درون خلوتست و غیر بردر",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: درون اتاق تنهاست و کسی جز او در آنجا نیست، او به آرامی و با دقت به در نگاه می‌کند."
     },
     {
       "VOrder": 88,
@@ -1665,7 +1709,8 @@
       "Text": "درون خلوتست و نیست اغیار",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: هرچند که به نظر می‌رسد افراد دیگر در اطراف تو نیستند و تنها در خلوت خود قرار داری، در واقع خودت یار و همراهی برای خودت هستی."
     },
     {
       "VOrder": 90,
@@ -1681,7 +1726,8 @@
       "Text": "تمامت پوست مغز اینجا توئی تو",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: تمام وجود و هستی من در اینجا به خاطر توست، و اکنون در دل من تویی که بسیار خاص و بی‌نظیری."
     },
     {
       "VOrder": 92,
@@ -1697,7 +1743,8 @@
       "Text": "طلبکاری بشد اکنون چو دیدم",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: اکنون که در این شب به وصال تو رسیدم، احساس طلبکاری و نیازمندی به تو در من بیدار شده است."
     },
     {
       "VOrder": 94,
@@ -1713,7 +1760,8 @@
       "Text": "بگو با ما حدیث خویش اینجا",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: بگو با ما از داستان‌هایت بگو، و زود حجاب و پرده را از جلو بردار."
     },
     {
       "VOrder": 96,
@@ -1729,7 +1777,8 @@
       "Text": "حجابت دور کن تا من ببینم",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: حجاب خود را کنار بزن تا من چهره‌ات را ببینم، زیرا همین جاست که من به دنیای مادّی و دینم وابسته‌ام."
     },
     {
       "VOrder": 98,
@@ -1745,7 +1794,8 @@
       "Text": "گرفتاری در اینجا کرد بسیار",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: در این مکان مشکلات زیادی برای تو پیش آمده است. حال که دوباره به من نزدیک شده‌ای، تو را واضح‌تر می‌بینم."
     },
     {
       "VOrder": 100,
@@ -1761,7 +1811,8 @@
       "Text": "نخواهم دادنت آسان من از دست",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: من هرگز تو را به سادگی از دست نمی‌دهم، زیرا حالا به شدت عاشق و سرمست شده‌ام."
     },
     {
       "VOrder": 102,
@@ -1777,7 +1828,8 @@
       "Text": "بیک ره عقل بردی ای دل آرام",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: ای دل، تو پای در راهی گذاشتی که عقل را هم به دنبال خود کشاندی. یقیناً تو آرامش منی که در جانم جا داری."
     },
     {
       "VOrder": 104,
@@ -1793,7 +1845,8 @@
       "Text": "دل آرامی دل آرامی ندارد",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "هوش مصنوعی: دل ندارم که در آرامش باشد، چون هیچ امیدی به سرانجام خوب ندارم."
     },
     {
       "VOrder": 106,
@@ -1809,7 +1862,8 @@
       "Text": "سرانجامم بگو تا چیست بیشک",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "هوش مصنوعی: به من بگو که در نهایت چه می‌شود، چرا همچنان به دنبال من هستی و این همه درنگ می‌کنی؟"
     },
     {
       "VOrder": 108,
@@ -1825,7 +1879,8 @@
       "Text": "جوابم ده که من اصلت بیابم",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "هوش مصنوعی: از من پاسخ را بخواه که من بتوانم به سرچشمه وجودت دست یابم. بگو تا چه زمانی می‌توانم به حقیقت وصالت پی ببرم؟"
     },
     {
       "VOrder": 110,
@@ -1841,7 +1896,8 @@
       "Text": "طلبکارت بدم من سال بسیار",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "هوش مصنوعی: من سال‌های زیادی را در اینجا با دوستان فراوان گذرانده‌ام در حالی که مشتاقانه برای تو انتظار کشیده‌ام."
     },
     {
       "VOrder": 112,
@@ -1857,7 +1913,8 @@
       "Text": "طلب کردم ز هر کس دیدت ای جان",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "هوش مصنوعی: از هر کسی خواستم که بگوید تو کیستی ای جانتا، تا به یقین به معرفت توحید برسم ای جان."
     },
     {
       "VOrder": 114,
@@ -1873,7 +1930,8 @@
       "Text": "بهر نوعی نشان دادند وافی",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "هوش مصنوعی: به هر شکلی به من نشان دادند که من از شنیدن حرف‌های هر کسی آزرده خاطر می‌شوم."
     },
     {
       "VOrder": 116,
@@ -1889,7 +1947,8 @@
       "Text": "نه آن بُد آنچه میگفتند ایشان",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "هوش مصنوعی: آنچه که دیگران درباره من می‌گفتند واقعیت نداشت و من در حقیقت در وضعیت آشفته‌ای قرار داشتم."
     },
     {
       "VOrder": 118,
@@ -1905,7 +1964,8 @@
       "Text": "کنون در وصلت امشب راه بردم",
       "CoupletIndex": 59,
       "SectionIndex1": 0,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "هوش مصنوعی: امشب در وصالت قدم گذاشتم و تمام تقلیدها را از روی نوشته‌ات کنار گذاشتم."
     },
     {
       "VOrder": 120,
@@ -1921,7 +1981,8 @@
       "Text": "کجا تقلید گنجد در برت دوست",
       "CoupletIndex": 60,
       "SectionIndex1": 0,
-      "SectionIndex2": 62
+      "SectionIndex2": 62,
+      "CoupletSummary": "هوش مصنوعی: دوست را در آغوش تو دیدم و فهمیدم که چقدر عمیق و واقعی است. حالا دیگر چیزی برای تقلید وجود ندارد، چون اصل موضوع از ظاهر گذشته و به عمق وجود رفته است."
     },
     {
       "VOrder": 122,
@@ -1937,7 +1998,8 @@
       "Text": "رخت بنمای اکنون تا بدانم",
       "CoupletIndex": 61,
       "SectionIndex1": 0,
-      "SectionIndex2": 63
+      "SectionIndex2": 63,
+      "CoupletSummary": "هوش مصنوعی: اکنون خود را نشان بده تا بفهمم در این دنیا چه کسی مالک قدرت و سلطنت من است."
     },
     {
       "VOrder": 124,
@@ -1953,7 +2015,8 @@
       "Text": "تو کردی این زمان در بستهام من",
       "CoupletIndex": 62,
       "SectionIndex1": 0,
-      "SectionIndex2": 64
+      "SectionIndex2": 64,
+      "CoupletSummary": "هوش مصنوعی: تو در این زمان درهای من را بسته‌ای و من در این تنهایی همیشه به تو پیوسته‌ام."
     },
     {
       "VOrder": 126,
@@ -1969,7 +2032,8 @@
       "Text": "جوابم باز ده ای جوهر ذات",
       "CoupletIndex": 63,
       "SectionIndex1": 0,
-      "SectionIndex2": 65
+      "SectionIndex2": 65,
+      "CoupletSummary": "هوش مصنوعی: ای اصل و جوهر وجود، به من پاسخ بده؛ چه لذتی در این است که دانه‌هایی از خود را در زمین افکنده‌ای؟"
     },
     {
       "VOrder": 128,
@@ -1985,7 +2049,8 @@
       "Text": "جواب آمد که ای گم کرده راهت",
       "CoupletIndex": 64,
       "SectionIndex1": 0,
-      "SectionIndex2": 66
+      "SectionIndex2": 66,
+      "CoupletSummary": "هوش مصنوعی: جواب آمد که ای کسی که راهت را گم کرده‌ای، باید خودت را بسوزانی تا به حقیقتی که در درونت نهفته است، برسی."
     },
     {
       "VOrder": 130,
@@ -2001,7 +2066,8 @@
       "Text": "تو اینجا از کجا داری دلیری",
       "CoupletIndex": 65,
       "SectionIndex1": 0,
-      "SectionIndex2": 67
+      "SectionIndex2": 67,
+      "CoupletSummary": "هوش مصنوعی: تو چگونه اینقدر شجاعت داری که در این مکان خود را مانند شیر به نمایش می‌گذاری؟"
     },
     {
       "VOrder": 132,
@@ -2017,7 +2083,8 @@
       "Text": "ترااین زهرهٔ گفتار نبود",
       "CoupletIndex": 66,
       "SectionIndex1": 0,
-      "SectionIndex2": 68
+      "SectionIndex2": 68,
+      "CoupletSummary": "هوش مصنوعی: تو این توانایی را نداری که به چنین گفتارهایی بپردازی، و نمی‌توانی از پس این رازها برآیی."
     },
     {
       "VOrder": 134,
@@ -2033,7 +2100,8 @@
       "Text": "ولی گر نبُدی این راز بر ما",
       "CoupletIndex": 67,
       "SectionIndex1": 0,
-      "SectionIndex2": 69
+      "SectionIndex2": 69,
+      "CoupletSummary": "هوش مصنوعی: اگر تو این راز را به ما نمی‌گفتی، مطمئناً می‌دانستم که در اینجا چه اتفاقی رخ می‌دهد."
     },
     {
       "VOrder": 136,
@@ -2049,7 +2117,8 @@
       "Text": "سرت از تن جدا اینجایگه من",
       "CoupletIndex": 68,
       "SectionIndex1": 0,
-      "SectionIndex2": 70
+      "SectionIndex2": 70,
+      "CoupletSummary": "هوش مصنوعی: تو بر زبان و دل خود باور کن که من اینجا حاضرم و مطمئن هستم که تو در این وضعیت سخت تنها نیستی."
     },
     {
       "VOrder": 138,
@@ -2065,7 +2134,8 @@
       "Text": "ولی چون صاحب سرّی در این راز",
       "CoupletIndex": 69,
       "SectionIndex1": 0,
-      "SectionIndex2": 71
+      "SectionIndex2": 71,
+      "CoupletSummary": "هوش مصنوعی: ولی چون کسی هست که به خوبی از این موضوع اطلاع دارد، نمی‌توانم این راز را با تو در میان بگذارم، ای بیچاره."
     },
     {
       "VOrder": 140,
@@ -2081,7 +2151,8 @@
       "Text": "همه مائیم لیکن در نهانی",
       "CoupletIndex": 70,
       "SectionIndex1": 0,
-      "SectionIndex2": 72
+      "SectionIndex2": 72,
+      "CoupletSummary": "هوش مصنوعی: ما همه یکسانیم، اما در خفا و به طور پنهانی قرار داریم، اما باید بدانی که این حقیقت را درک کنی."
     },
     {
       "VOrder": 142,
@@ -2097,7 +2168,8 @@
       "Text": "که گستاخی نمیگنجد دراینجا",
       "CoupletIndex": 71,
       "SectionIndex1": 0,
-      "SectionIndex2": 73
+      "SectionIndex2": 73,
+      "CoupletSummary": "هوش مصنوعی: در اینجا جایی برای جسارت و بی‌احترامی نیست و باید کسی humble و آرام باشد تا بتواند در این فضا باقی بماند."
     },
     {
       "VOrder": 144,
@@ -2113,7 +2185,8 @@
       "Text": "بباید بنده تا فرمان برد او",
       "CoupletIndex": 72,
       "SectionIndex1": 0,
-      "SectionIndex2": 74
+      "SectionIndex2": 74,
+      "CoupletSummary": "هوش مصنوعی: باید خاضع و تسلیم بود تا فرمان او به درستی انجام شود و به این ترتیب، جان و زندگی را حفظ کرد."
     },
     {
       "VOrder": 146,
@@ -2129,7 +2202,8 @@
       "Text": "ز دست شاه آنکس جان کل خورد",
       "CoupletIndex": 73,
       "SectionIndex1": 0,
-      "SectionIndex2": 75
+      "SectionIndex2": 75,
+      "CoupletSummary": "هوش مصنوعی: کسی که از دست شاه فرمانبرداری کند و به او نزدیک شود، به نوعی به جان و روح خود آسیب می‌زند و از درد و رنج رهایی نمی‌یابد."
     },
     {
       "VOrder": 148,
@@ -2145,7 +2219,8 @@
       "Text": "ترا امشب یکی جامی که دادیم",
       "CoupletIndex": 74,
       "SectionIndex1": 0,
-      "SectionIndex2": 76
+      "SectionIndex2": 76,
+      "CoupletSummary": "هوش مصنوعی: امشب برای تو یکی جام نوشیدنی داریم که به تو تقدیم می‌کنیم. حقیقت این شب را با این هدیه برایت باز کرده‌ایم."
     },
     {
       "VOrder": 150,
@@ -2161,7 +2236,8 @@
       "Text": "هنوزت ره ندادستیم بر یار",
       "CoupletIndex": 75,
       "SectionIndex1": 0,
-      "SectionIndex2": 77
+      "SectionIndex2": 77,
+      "CoupletSummary": "هوش مصنوعی: ما هنوز اجازه نداده‌ایم که به محبوب نزدیک شوی، اما تو با یک بار بی‌پروایی به این کار دست زدی."
     },
     {
       "VOrder": 152,
@@ -2177,7 +2253,8 @@
       "Text": "بیک جرعه چنین از هوش رفتی",
       "CoupletIndex": 76,
       "SectionIndex1": 0,
-      "SectionIndex2": 78
+      "SectionIndex2": 78,
+      "CoupletSummary": "هوش مصنوعی: به خاطر یک جرعه، تو از خود بی‌خود شدی و به سادگی از ما غافل گشتی."
     },
     {
       "VOrder": 154,
@@ -2193,7 +2270,8 @@
       "Text": "بیک جرعه چنان رفتی تو از دست",
       "CoupletIndex": 77,
       "SectionIndex1": 0,
-      "SectionIndex2": 79
+      "SectionIndex2": 79,
+      "CoupletSummary": "هوش مصنوعی: با یک جرعه از آن شراب، تو چنان از دست رفتی که دیگر در اینجا دیوانه و سرمست شده‌ای."
     },
     {
       "VOrder": 156,
@@ -2209,7 +2287,8 @@
       "Text": "ندانی تو که با خود می چه گوئی",
       "CoupletIndex": 78,
       "SectionIndex1": 0,
-      "SectionIndex2": 80
+      "SectionIndex2": 80,
+      "CoupletSummary": "هوش مصنوعی: تو نمی‌دانی که با خود چه می‌گویی، وقتی در میدانی طوری جمله را می‌شنوی که انگار در حال گفتگو هستی."
     },
     {
       "VOrder": 158,
@@ -2225,7 +2304,8 @@
       "Text": "خطابی باتو کردیم از نهانی",
       "CoupletIndex": 79,
       "SectionIndex1": 0,
-      "SectionIndex2": 81
+      "SectionIndex2": 81,
+      "CoupletSummary": "هوش مصنوعی: ما در خفا با تو سخن گفتیم، اما تو هرگز راز ما را نمی‌دانی."
     },
     {
       "VOrder": 160,
@@ -2241,7 +2321,8 @@
       "Text": "چرا چون درد او بردی در اینجا",
       "CoupletIndex": 80,
       "SectionIndex1": 0,
-      "SectionIndex2": 82
+      "SectionIndex2": 82,
+      "CoupletSummary": "هوش مصنوعی: چرا که تو به خاطر درد او به اینجا آمدی و حالا در عشق به شدت دچار پریشانی و بیچارگی شده‌ای."
     },
     {
       "VOrder": 162,
@@ -2257,7 +2338,8 @@
       "Text": "ندیدی روی ما اینجا به تحقیق",
       "CoupletIndex": 81,
       "SectionIndex1": 0,
-      "SectionIndex2": 83
+      "SectionIndex2": 83,
+      "CoupletSummary": "هوش مصنوعی: آیا ندیدی که در اینجا، به طور واقعی، چه زیبایی و جذابیتی در چهره ما وجود دارد؟ آیا فکر کردی که تو موفقیتی کسب کرده‌ای؟"
     },
     {
       "VOrder": 164,
@@ -2273,7 +2355,8 @@
       "Text": "تمامت انبیای کار دیده",
       "CoupletIndex": 82,
       "SectionIndex1": 0,
-      "SectionIndex2": 84
+      "SectionIndex2": 84,
+      "CoupletSummary": "هوش مصنوعی: تمام پیامبران در این دنیا غم و اندوه زیادی را تجربه کرده‌اند."
     },
     {
       "VOrder": 166,
@@ -2289,7 +2372,8 @@
       "Text": "بسی رنج و ملامتها کشیدند",
       "CoupletIndex": 83,
       "SectionIndex1": 0,
-      "SectionIndex2": 85
+      "SectionIndex2": 85,
+      "CoupletSummary": "هوش مصنوعی: بسیاری از دردها و سرزنش‌ها را تحمل کردند، اما خطایی جز در دید ما نداشتند."
     },
     {
       "VOrder": 168,
@@ -2305,7 +2389,8 @@
       "Text": "تو میخواهی که امشب پردهٔ راز",
       "CoupletIndex": 84,
       "SectionIndex1": 0,
-      "SectionIndex2": 86
+      "SectionIndex2": 86,
+      "CoupletSummary": "هوش مصنوعی: تو می‌خواهی که امشب پردهٔ رازها را کنار بزنیم و چهرهٔ حقیقت را نشان دهیم."
     },
     {
       "VOrder": 170,
@@ -2321,7 +2406,8 @@
       "Text": "نه پرده برگرفتیمت ز رخسار",
       "CoupletIndex": 85,
       "SectionIndex1": 0,
-      "SectionIndex2": 87
+      "SectionIndex2": 87,
+      "CoupletSummary": "هوش مصنوعی: من هیچ پرده‌ای از چهره‌ات کنار نزدم تا زیبایی‌ات نمایان شود."
     },
     {
       "VOrder": 172,
@@ -2337,7 +2423,8 @@
       "Text": "چنین دیوانه و مدهوش ای دل",
       "CoupletIndex": 86,
       "SectionIndex1": 0,
-      "SectionIndex2": 88
+      "SectionIndex2": 88,
+      "CoupletSummary": "هوش مصنوعی: ای دل، اگر می‌خواهی مشکلت حل شود، این‌گونه دیوانه و مدهوش باش."
     },
     {
       "VOrder": 174,
@@ -2353,7 +2440,8 @@
       "Text": "ببازی نیست این پرسیدن اینجا",
       "CoupletIndex": 87,
       "SectionIndex1": 0,
-      "SectionIndex2": 89
+      "SectionIndex2": 89,
+      "CoupletSummary": "هوش مصنوعی: در اینجا پرسش کردن بی‌فایده است و بهتر است از موضوعی که در حال حاضر در مورد آن صحبت می‌شود، بترسی."
     },
     {
       "VOrder": 176,
@@ -2369,7 +2457,8 @@
       "Text": "نمیدانستی اکنون یافتی تو",
       "CoupletIndex": 88,
       "SectionIndex1": 0,
-      "SectionIndex2": 90
+      "SectionIndex2": 90,
+      "CoupletSummary": "هوش مصنوعی: نمی‌دانستی که حالا متوجه شدی دلیل شتاب تو به سمت ما چیست."
     },
     {
       "VOrder": 178,
@@ -2385,7 +2474,8 @@
       "Text": "بده انصاف تا بخشیم جانت",
       "CoupletIndex": 89,
       "SectionIndex1": 0,
-      "SectionIndex2": 91
+      "SectionIndex2": 91,
+      "CoupletSummary": "هوش مصنوعی: اگر انصاف بدهی، جانت را می‌بخشیم، وگرنه در دنیا رسوا خواهی شد."
     },
     {
       "VOrder": 180,
@@ -2401,7 +2491,8 @@
       "Text": "کنیم اندر بر این جمله ابردار",
       "CoupletIndex": 90,
       "SectionIndex1": 0,
-      "SectionIndex2": 92
+      "SectionIndex2": 92,
+      "CoupletSummary": "هوش مصنوعی: من در این کار به تو پرداختم و می‌خواهم محبت و شجاعت تو را برجسته کنم."
     },
     {
       "VOrder": 182,
@@ -2417,7 +2508,8 @@
       "Text": "بسوزانم بر آتش مر ترا من",
       "CoupletIndex": 91,
       "SectionIndex1": 0,
-      "SectionIndex2": 93
+      "SectionIndex2": 93,
+      "CoupletSummary": "هوش مصنوعی: من تو را در آتش می‌سوزانم، اما مطمئن باش که اینجا تنها من هستم که بی‌رحمی می‌کنم."
     },
     {
       "VOrder": 184,
@@ -2433,7 +2525,8 @@
       "Text": "بده انصاف و اکنون گرد بیزار",
       "CoupletIndex": 92,
       "SectionIndex1": 0,
-      "SectionIndex2": 94
+      "SectionIndex2": 94,
+      "CoupletSummary": "هوش مصنوعی: اگر انصاف بدهی و از حرف‌های خود دوری کنی، خوب است؛ وگرنه عذاب و آسیب را تجربه خواهی کرد."
     },
     {
       "VOrder": 186,

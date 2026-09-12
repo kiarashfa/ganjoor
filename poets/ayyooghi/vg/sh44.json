@@ -531,7 +531,8 @@
       "Text": "مر آن دوست را برد نزدیک دوست",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: آن دوست را به جایی بردند که او در آنجا با دوستانش جمع شده بود و فضای خوبی بر قرار بود."
     },
     {
       "VOrder": 2,
@@ -547,7 +548,8 @@
       "Text": "همه خلق از شهر دادند روی",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: تمام مردم به سمت قبر حرکت کردند و به دنبال عشق و محبت هستند."
     },
     {
       "VOrder": 4,
@@ -563,7 +565,8 @@
       "Text": "همی رفت گلشاه زاری کنان",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: گلشاه به آرامی و با زیبایی از میان باغ عبور می‌کند، در حالی که به طرز دلنشینی خوش‌حالی و شادی خود را نشان می‌دهد و گیسوانش در باد به آرامی می‌رقصد."
     },
     {
       "VOrder": 6,
@@ -579,7 +582,8 @@
       "Text": "چو زی گورِ ورقه رسیدش فراز",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: وقتی که وقت مرگ فرا می‌رسد، انسان باید آماده باشد و احساس نیاز به زندگی کردن را کنار بگذارد."
     },
     {
       "VOrder": 8,
@@ -595,7 +599,8 @@
       "Text": "بزد دست بر بر سلب کرد چاک",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: دستش را به سوی نردبان دراز کرد و با آنکه از بالای دیوار پایین آمد، در نهایت بر زمین افتاد."
     },
     {
       "VOrder": 10,
@@ -611,7 +616,8 @@
       "Text": "بغلتید بر خاک چون بیهُشان",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: بر زمین غلتید مانند کسی که هوشیار نیست، مانند مظلوم که در دست مردم به کشیده می‌شود."
     },
     {
       "VOrder": 12,
@@ -627,7 +633,8 @@
       "Text": "به نوحه ز بیجاده بگشاد بند",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: از درد و غم، بی‌راهه‌ای را باز کرد و گرفتار عشق آن دختر زیبای موی سیاه شد."
     },
     {
       "VOrder": 14,
@@ -643,7 +650,8 @@
       "Text": "ز تَفّ دلش حلقه بر بر بسوخت",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: از ناراحتی دل او، حلقه‌هایی از غم به دورش افکنده شده است و این اندوه باعث شده که چشمانش با شادی آغشته شود."
     },
     {
       "VOrder": 16,
@@ -659,7 +667,8 @@
       "Text": "گه از دیده بر لاله بر ژاله راند",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: گاه از چشمانش بر روی گل‌های لاله اشک می‌ریزد و گاه از موهایش عطر خوش را بر زمین پخش می‌کند."
     },
     {
       "VOrder": 18,
@@ -675,7 +684,8 @@
       "Text": "شد از اَندُهِ مهر آن مهرجوی",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: از غم و اندوه عشق، آن عاشق پرشور فریاد می‌کشد و چهره‌اش زخمی و آشفته است."
     },
     {
       "VOrder": 20,
@@ -691,7 +701,8 @@
       "Text": "بشد گور را در برآورد تنگ",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: گور به شدت فشرده و تنگ شده است و بر روی آن، رنگ لاله‌ای نمایان شده است."
     },
     {
       "VOrder": 22,
@@ -707,7 +718,8 @@
       "Text": "ز بس کاشک پالود بر تیره خاک",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: به دلیل زیبایی و لطافتی که در چهره او وجود دارد، خاکی که بر روی آن ریخته شده، مانند گلی شکفته و زنده شده است."
     },
     {
       "VOrder": 24,
@@ -723,7 +735,8 @@
       "Text": "همی گفت: ای مایهٔ راستی",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: او می‌گفت: ای سرچشمه‌ی حقیقت، چه تدبیری به کار بردی که این‌گونه زیبا و مرتب ساخته شدی؟"
     },
     {
       "VOrder": 26,
@@ -739,7 +752,8 @@
       "Text": "چنین با تو کی بود پیمان من",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: چنین بود که من با تو عهد کرده بودم که هرگز دیگر مهمان من نمی‌شوی."
     },
     {
       "VOrder": 28,
@@ -755,7 +769,8 @@
       "Text": "همی گفتی این: چون رسم باز جای",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: می‌گفتی که وقتی به دلم جایی برای تو باز کنم، همچنان هر چند وقت یک‌بار به تو نظر می‌اندازم."
     },
     {
       "VOrder": 30,
@@ -771,7 +786,8 @@
       "Text": "کنونی چه بودت کی در نیم راه",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: در حال حاضر چه وضعیتی داری که در میانسالی، به زمین افتاده‌ای و جایگاه خود را از دست داده‌ای؟"
     },
     {
       "VOrder": 32,
@@ -787,7 +803,8 @@
       "Text": "اگر زد گره بخت بر کار تو",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: اگر در زندگی‌ات دشواری و مشکلاتی پیش آمد، دوست عزیز، حالا اینجا هستم تا به تو کمک کنم و کنارت باشم."
     },
     {
       "VOrder": 34,
@@ -803,7 +820,8 @@
       "Text": "بگفت: ای دلارام و دلبند من",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: او گفت: ای دلبر و فرزند دوست‌داشتنی‌ام، تو که زیبا و وفادار هستی، مالک و معشوق من."
     },
     {
       "VOrder": 36,
@@ -819,7 +837,8 @@
       "Text": "همی تا به خاک اندرون با تو جفت",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که به خاک نروم و تو را همدم خود ندانم، غم دل را پنهان نخواهم کرد."
     },
     {
       "VOrder": 38,
@@ -835,7 +854,8 @@
       "Text": "بگفت این سخن را و با خاک خشک",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: او این سخن را گفت و با خاک خشک در یک مکان مخلوط شد مانند مشک."
     },
     {
       "VOrder": 40,
@@ -851,7 +871,8 @@
       "Text": "همی گفت جورست ازین جور چند؟",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: می‌گفت که دلیلی برای این شکیبایی وجود ندارد. وقتی که مرگ چه زمانی می‌تواند از بندهای دل من رهایی بخشد؟"
     },
     {
       "VOrder": 42,
@@ -867,7 +888,8 @@
       "Text": "چه برخوردنست از جوانی مرا",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: چه حال و هوایی از جوانی‌ام دارم و اکنون چه کار باید بکنم با زندگی‌ام؟"
     },
     {
       "VOrder": 44,
@@ -883,7 +905,8 @@
       "Text": "به چه فال زادم من از مادرم",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: من از زمانی که به دنیا آمده‌ام، با مشکلات و سختی‌ها دست و پنجه نرم کرده‌ام، گویی که به محض زاده شدنم، عذاب و رنج همراه من بوده است."
     },
     {
       "VOrder": 46,
@@ -899,7 +922,8 @@
       "Text": "روان من مدبر شوربخت",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: زندگی من به خاطر بدشانسی‌ام تحت کنترل نیست و روزی هم به هیچ چیز وابسته نخواهم بود و به شدت رها و آزاد خواهم بود."
     },
     {
       "VOrder": 48,
@@ -915,7 +939,8 @@
       "Text": "کسی کِم بدو تازه بُد عیش و عمر",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: کسی که به او خوش می‌گذرد و روزگار خوبی دارد، ناگهان زمانه‌ی فریبنده و بی‌رحم او را از من گرفت."
     },
     {
       "VOrder": 50,
@@ -931,7 +956,8 @@
       "Text": "از اول به یک جای ما را سپهر",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: از ابتدا، سرنوشت ما را به یک مکان خاص هدایت کرد و همیشه ما را تحت حمایت عشق خود قرار داد."
     },
     {
       "VOrder": 52,
@@ -947,7 +973,8 @@
       "Text": "چو پیوسته گشتیم با یک دگر،",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: وقتی که به یکدیگر وابسته شدیم و پیوند خوردیم، احساسات و قلب خود را به اتحاد و نزدیکی سپردیم."
     },
     {
       "VOrder": 54,
@@ -963,7 +990,8 @@
       "Text": "ندیدیم از یک دگر کام دل",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: ما هیچ‌گاه از یکدیگر خوشنودی و رضایت واقعی را ندیدیم، زیرا آن محبوب و معشوق من در زیر خاک و گل مدفون است."
     },
     {
       "VOrder": 56,
@@ -979,7 +1007,8 @@
       "Text": "کنون بی تو ای جان و جانان من",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: اکنون که تو نیستی، ای عزیز و محبوب من، جهان برای من به زندانی تبدیل شده است."
     },
     {
       "VOrder": 58,
@@ -995,7 +1024,8 @@
       "Text": "مکافات یابد ز رب کریم",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: در روز قیامت، کسانی که به دوری از خدا و انجام کارهای ناپسند پرداخته‌اند، عذاب سختی را از خدای مهربان تجربه خواهند کرد."
     },
     {
       "VOrder": 60,
@@ -1011,7 +1041,8 @@
       "Text": "کی ما را ز یکدیگران دور کرد",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: کی ما را از دیگران جدا کرد؟ دل ما را به خاطر این دوری آزرده و رنجور کرده است."
     },
     {
       "VOrder": 62,
@@ -1027,7 +1058,8 @@
       "Text": "کنون چون تو در عهد من جان پاک",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: اکنون که تو در زمان عهد من، جان پاک خود را فدای من کردی، ناگهان به زیر خاک رفتی."
     },
     {
       "VOrder": 64,
@@ -1043,7 +1075,8 @@
       "Text": "من اندر وفای تو جان را دهم",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: اگر وفای تو را به جانم ترجیح دهم، با کمال میل می‌آیم و سرم را بر دامنت می‌گذارم."
     },
     {
       "VOrder": 66,
@@ -1059,7 +1092,8 @@
       "Text": "بدین سان بت گلرخ مهربان",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: این بیت به توصیف زیبایی و لطافت چهره‌ی محبوب اشاره دارد. در این تصویر، چهره‌ی زیبا و دلنشین او مانند گل است و موهایش مانند آبی خروشان و نرم به نظر می‌رسند. به طور کلی، احساساتی از عشق و محبت در این توصیف نهفته است."
     },
     {
       "VOrder": 68,
@@ -1075,7 +1109,8 @@
       "Text": "همی بود و می‌راند خون از جگر",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: همواره غم و اندوهی بر دل زمین و زمان حاکم بود و این وضعیت مانند نوحه‌گری بود که همیشه به سراغ دل‌ها می‌آید و خون جگر را می‌ریزد."
     },
     {
       "VOrder": 70,
@@ -1091,7 +1126,8 @@
       "Text": "هر آن کس کی اندر رسیدی ز راه",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که به تو نزدیک شد، با زاری و ناله، دیگر نمی‌تواند به آن مکان برگردد."
     },
     {
       "VOrder": 72,
@@ -1107,7 +1143,8 @@
       "Text": "ز برنا و پیر و ز مرد و ز زن",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: از نوجوان و پیر و مرد و زن، همه دور هم جمع شده‌اند و انجمنی تشکیل داده‌اند."
     },
     {
       "VOrder": 74,
@@ -1123,7 +1160,8 @@
       "Text": "همه لشکر شام و سالار شام",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: تمام لشکریانی که در شام هستند و فرمانده آن‌ها، به خاطر اندوهی که در دل دارند، همانند باران‌های سیل‌آسا گریه می‌کنند."
     },
     {
       "VOrder": 76,
@@ -1139,7 +1177,8 @@
       "Text": "ز آن نالهٔ زار وز درد اوی",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: ز آن نالهٔ دردآور و زاری که او داشت، هرکسی که او را می‌دید، از شدت تأثر خون گریه می‌کرد."
     },
     {
       "VOrder": 78,
@@ -1155,7 +1194,8 @@
       "Text": "چو جانش تهی گشت و مغزش تهی",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: وقتی که جان او خالی و مغزش تهی شد، مانند درخت سرو بلندی بی‌فروغ و بی‌حالت شد."
     },
     {
       "VOrder": 80,
@@ -1171,7 +1211,8 @@
       "Text": "هوا زی دم اندر برش بسته شد",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: هوا به قدری داغ و سنگین شد که روح از بدن او جدا گردید و رها شد."
     },
     {
       "VOrder": 82,
@@ -1187,7 +1228,8 @@
       "Text": "نهاد از بر خاک روی آن نگار",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: عشق و روی معشوقه‌اش را در برابر خاک نهاد و به او گفت: آیا من برای تو آمده‌ام و کسی حاضر است تا بار سنگین عشق را بر دوش بکشد؟"
     },
     {
       "VOrder": 84,
@@ -1203,7 +1245,8 @@
       "Text": "نُمیدم مگردان کی آزرده‌ام",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: نمی‌خواهم تو را ناراحت کنم، چون درد و محبت قلبم را با خود به همراه آورده‌ام."
     },
     {
       "VOrder": 86,
@@ -1219,7 +1262,8 @@
       "Text": "بگفت این و از دهر بگسست مهر",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: او این را گفت و از محبت دنیا جدا شد، ناگهان آن چهره‌ی زیبا آرام گرفت."
     },
     {
       "VOrder": 88,
@@ -1235,7 +1279,8 @@
       "Text": "چو هُش از تنش ناپدیدار گشت",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: وقتی او از بدنش دور شد، افرادی که او را دیدند، چشمانشان پر از اشک و خون شد."
     },
     {
       "VOrder": 90,
@@ -1251,7 +1296,8 @@
       "Text": "ز دنیا برفت آن بت قندهار",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: آن معشوق زیبا از دنیای مادی رفته است، اما در عالم دیگر همچنان به یار وفادار خود عشق می‌ورزد."
     },
     {
       "VOrder": 92,
@@ -1267,7 +1313,8 @@
       "Text": "چنین است کار جهان سر به سر",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: این دنیا به همین شکل است و همه چیز بر اساس همین قانون پیش می‌رود، پس بهتر است ساده و خلاصه صحبت کنیم!"
     },
     {
       "VOrder": 94,
@@ -1283,7 +1330,8 @@
       "Text": "دو دلبر بر آن دلبری از جهان",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: دو محبوب به دلیری و زیبایی از دنیا رفتند و با خود حسرت و اندوه به جا گذاشتند."
     },
     {
       "VOrder": 96,
@@ -1299,7 +1347,8 @@
       "Text": "ندیده ز یک دیگران جز وفا",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس از دیگران جز با وفا بودن به راه نادرستی و ظلم نرفته است."
     },
     {
       "VOrder": 98,
@@ -1315,7 +1364,8 @@
       "Text": "بدادند جان از پی یکدگر",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: این عبارت به این معناست که برای یکدیگر فداکاری و جانفشانی می‌کنند و این موضوع از اصول و ارزش‌های بنیادی زندگی است."
     },
     {
       "VOrder": 100,

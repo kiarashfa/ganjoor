@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "آن کس که ترا دیده بود ای دلبر",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که تو را دیده است، ای محبوب، دیگر به سمت معشوق دیگری نخواهد نگریست."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "در دیده هر آنکه کرد سوی تو نظر",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که به تو نگاه کند، اگر نیکو نگریسته نشود، مانند این است که نور خورشید و ماه را نبیند و تنها تاریکی را مشاهده کند."
     },
     {
       "VOrder": 4,

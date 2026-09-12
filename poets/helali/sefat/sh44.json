@@ -157,7 +157,8 @@
       "Text": "بیا، ای در جهان مشهور گشته",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: بیا، ای کسی که در دنیا شناخته شده‌ای و به خاطر جایگاهت در جمع دیگران به خود می‌بالی."
     },
     {
       "VOrder": 2,
@@ -173,7 +174,8 @@
       "Text": "بهر کس تا بکی هر جا نشینی؟",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: برای هر کس تا کی می‌توانی هر جا که می‌خواهی بمانی؟ خداوند با توست، حتی اگر تنها باشی."
     },
     {
       "VOrder": 4,
@@ -189,7 +191,8 @@
       "Text": "دویدی سالها در هر طریقی",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: سال‌ها در مسیرهای مختلف دویده‌ای و با دوستان گوناگون ساعت‌ها نشسته‌ای."
     },
     {
       "VOrder": 6,
@@ -205,7 +208,8 @@
       "Text": "بچشم خویشتن صد عیب دیدی",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: اگر با چشمان خودت به عیب‌های خود واقف هستی و با گوش‌هایت هزاران غیبت را شنیده‌ای، به یاد داشته باش که تمسخر دیگران و عیب‌جویی از آن‌ها کار درستی نیست."
     },
     {
       "VOrder": 8,
@@ -221,7 +225,8 @@
       "Text": "بمردم این همه آمیختن چیست؟",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: چرا اینقدر با مردم در هم آمیخته‌اید؟ هدف شما از این کار چیست که خودتان را به دردسر می‌اندازید؟"
     },
     {
       "VOrder": 10,
@@ -237,7 +242,8 @@
       "Text": "گریزان باش، تا عیبت ندانند",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: از دوستان خود دوری کن تا عیب‌هایت را نشناسند و در غیبت تو سخن نگویند."
     },
     {
       "VOrder": 12,
@@ -253,7 +259,8 @@
       "Text": "گر این نام و نشان گردد گم از تو",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: اگر نام و نشانت از تو گم شود، تو از دیگران رها می‌شوی و دیگران هم از تو جدا خواهند شد."
     },
     {
       "VOrder": 14,
@@ -269,7 +276,8 @@
       "Text": "ز غم یعقوب و یوسف هر دو رستند",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: از دل‌تنگی یعقوب و یوسف هر دو آزاد شدند، زیرا چند روز را در تنهایی کنار هم گذراندند."
     },
     {
       "VOrder": 16,
@@ -285,7 +293,8 @@
       "Text": "پدر در کلبه احزان درآمد",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: پدر به خانه‌ای پر از غم و اندوه وارد شد و پسر به دنیایی تاریک و تنهایی افتاد."
     },
     {
       "VOrder": 18,
@@ -301,7 +310,8 @@
       "Text": "یکی آخر عزیز مصر گردید",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: یکی از افراد، در پایان کارش به مقام و جایگاهی والا در مصر رسید، و دیگری در نگاه خود نوری جدید و متفاوت را تجربه کرد."
     },
     {
       "VOrder": 20,
@@ -317,7 +327,8 @@
       "Text": "چو می در شیشه گر خلوت گزینی",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: اگر در تنهایی به نوشیدنی نگاه کنی، دل تو از آلودگی‌ها پاک خواهد شد."
     },
     {
       "VOrder": 22,
@@ -333,7 +344,8 @@
       "Text": "چو گل در پرده گر خلوت پسندی",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: اگر در تنهایی خود را راضی می‌دانی، مانند گلی که در پرده است، بیرون بیا و با مردم بخند."
     },
     {
       "VOrder": 24,
@@ -349,7 +361,8 @@
       "Text": "بخلوت گر روی، از روی تحقیق",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: اگر در خلوت خود به تأمل بپردازی، از حقیقت وجودت چیزهایی نمایان خواهد شد که نشان دهنده موفقیت تو هستند."
     },
     {
       "VOrder": 26,

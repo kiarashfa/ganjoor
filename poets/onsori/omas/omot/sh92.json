@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "ز جوی خورا به چه کمتر بگوی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از جوی آب اگر کم بگویی، ممکن است یک بار به طور زیاد برآید."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "بیابان از آن آب دریا شود",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در بیابان، تنها زمانی آب به وجود می‌آید که ابر به خاطر بخار آب به آسمان برود و تشکیل باران دهد."
     },
     {
       "VOrder": 4,

@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "از ولایت سبزوار است شاعر بدی نبوده این مطلع از اوست :",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: این شاعر از منطقه سبزوار است و شعرش چندان بد نیست. این مطلع از اوست:"
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "به مسجدی که روم در فراق دلبر خویش",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به مکانی می‌روم که در آنجا به یاد جدایی معشوقم به خاطر او سرم را به زمین می‌گذارم و سجده می‌کنم."
     },
     {
       "VOrder": 3,

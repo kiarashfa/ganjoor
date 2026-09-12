@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "یا دلبر من باید و یا دل بر من",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یا باید دلبر من باشد یا اینکه دل من نباشد، حالا دل که در دست من است و دلبر من نیست."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "ای دل بر من مباش بی‌دلبر من",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دل، بدون معشوق من نباش؛ زیرا یک معشوق برای من بهتر از صد دل است."
     },
     {
       "VOrder": 4,

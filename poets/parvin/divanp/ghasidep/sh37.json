@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گردون نرهد ز تندرفتاری",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آسمان به خاطر رفتار سریع و ناپسند دنیا ناراحت نمی‌شود و از تمام بدی‌ها و سیه‌کاری‌های بشر سر پیچی نمی‌کند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "از گرگ چه آمدست جز گرگی؟",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از گرگ جز گرگ نمی‌تواند بیرون بیاید و از مار نیز چیزی جز مار نخواهد آمد."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "بس بی‌بصری، اگرچه بینائی",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بی‌خبری و نادانی در افراد وجود دارد، حتی اگر ظاهری بینا و هشیار داشته باشند. در واقع، بسیاری از افراد ممکن است در ظاهر آگاه و هوشیار به نظر برسند، اما از حقیقت امور بی‌خبر باشند."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "تو غافلی و سپهر گردان را",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو بی‌خبر هستی و فکر می‌کنی که آسمان و جریان‌های آن از سحر و دام‌ها بی‌خبرند."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "تو گندم آسیای گردونی",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو مانند گندمی هستی که در آسیای دایره‌ای شکل آسیاب می‌شود؛ حال چه یک من باشد و چه هزار خروار."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "معماری عقل چون نپذرفتی",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر عقل و درک را نپذیری، به جای آن جهل و نادانی در زندگی‌ات غالب می‌شود."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "سوداگر درّ شاهوارستی",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا درختی را که میوه‌های باارزش و باکیفیت دارد، به‌جای به ثمر نشستن و بهره‌وری از آن، بی‌فایده و بی‌استفاده می‌گذاری؟"
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "زنهار! مخواه از جهان زنهار",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مواظب باش! از دنیا چیزی نخواه، چون این پست‌فطرت هیچ‌گاه به کسی هیچ پناهی نداده است."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "پرگار زمانه بر تو میگردد",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمان به دور تو در حال چرخش است، مانند نقطه‌ای که در یک دایره محصور شده است."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "یک چند شوی به خواب چون مستان",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مدتی در خواب آسوده بگذران، اما ناگهان زمان بیدار شدن می‌رسد و باید چشمانت را باز کنی."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "آید گه درگذشتنت ناچار",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی خواهد رسید که ناگزیر از این عالم خواهی رفت، پس بهتر است آنچه را داری، پشت سر بگذاری."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "رفتند به چابکی سبک‌باران_",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به سرعت و آسانی از این مرحله عبور کردند، چقدر خوب است که سبک‌بار و بی‌خود از این مشکلات عبور کرده‌اند."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "کردار بد تو گشت زنگارش",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: رفتار ناپسند تو باعث شد که باطن دل خراب و آلوده شود، در حالی که دل باید پاک و بی‌زنگار باشد."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "از لقمهٔ تن بکاه تا روزی",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای اینکه در روزی سخت و دشوار به دردسر نیفتی، از لذت‌های زودگذر و مادی کم کن و به دوراندیشی فکر کن."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "بشناس زیان ز سود، تا وقتی",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای آنکه آسیبی به مال‌ات نرسد، باید بتوانی تفاوت بین سود و زیان را بشناسی و عاقلانه تصمیم بگیری تا مالی را به راحتی از دست ندهی."
     },
     {
       "VOrder": 30,

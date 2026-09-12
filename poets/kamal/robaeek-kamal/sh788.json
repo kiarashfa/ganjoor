@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "دردیدۀ روزگارنم بایستی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در این روزگار پر از مشکلات و دردها، ناچارم که یا حالم را با غم تحمل کنم یا صبوری کنم و با این غم زندگی کنم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "یا مایۀ غم چو عمر کم بایستی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر عمر کوتاه است، باید غم را کم داشته باشی، یا اگر غم زیاد است، باید عمرت را به اندازه آن تحمل کنی."
     },
     {
       "VOrder": 4,

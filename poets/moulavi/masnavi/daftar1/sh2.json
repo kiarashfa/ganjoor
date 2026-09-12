@@ -231,7 +231,8 @@
       "Text": "بشنوید ای دوستان این داستان",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "ای یاران و دوستان این حکایت را بشنوید که خود در حقیقت، عین حال و روز ماست."
     },
     {
       "VOrder": 2,
@@ -247,7 +248,8 @@
       "Text": "بود شاهی در زمانی پیش ازین",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "شاهی در گذشته بود که ثروت و مقام داشت و هم آدم دین‌داری بود."
     },
     {
       "VOrder": 4,
@@ -263,7 +265,8 @@
       "Text": "اتّفاقا شاه روزی شد سوار",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "روزی شاه سوار بر اسب و به‌همراه نزدیکان خود برای شکار رفت."
     },
     {
       "VOrder": 6,
@@ -279,7 +282,8 @@
       "Text": "یک کنیزک دید شه بر شاه‌راه",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "بر راه اصلی کنیزکی را دید و شاه کشته‌مرده آن کنیزک شد."
     },
     {
       "VOrder": 8,
@@ -295,7 +299,8 @@
       "Text": "مرغ جانش در قفس چون می‌طپید",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "از عشق آن کنیزک، جانش همچون پرنده‌ای در قفس بی‌تاب شد پس مال داد و آن کنیزک را خرید."
     },
     {
       "VOrder": 10,
@@ -311,7 +316,8 @@
       "Text": "چون خرید او را و برخوردار شد",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "وقتی که کنیزک را خرید و از وصالش بهره‌مند شد، از قضا آن کنیزک بیمار گشت."
     },
     {
       "VOrder": 12,
@@ -327,7 +333,8 @@
       "Text": "آن یکی خر داشت، پالانش نبود",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "یکی خر داشت پالان نداشت، پالان یافت خر را گرگ خورد."
     },
     {
       "VOrder": 14,
@@ -343,7 +350,8 @@
       "Text": "کوزه بودش آب می‌نامد بدست",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "کوزه داشت آب نمی‌یافت، وقتی آب یافت کوزه شکست."
     },
     {
       "VOrder": 16,
@@ -359,7 +367,8 @@
       "Text": "شه طبیبان جمع کرد از چپّ و راست",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "شاه (سراسیمه شد) و از چپ و راست طبیب برای درمان آن کنیزک آورد و به آنها گفت جان من و کنیزک در دست شماست."
     },
     {
       "VOrder": 18,
@@ -375,7 +384,8 @@
       "Text": "جان من سَهلست جان جانم اوست",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "جان من را فراموش کنید جان جان من اوست او را نجات دهید، بیمار و خسته هستم و درمان من اوست."
     },
     {
       "VOrder": 20,
@@ -391,7 +401,8 @@
       "Text": "هر که درمان کرد مَر جان مرا",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هر کسی از شما جان مرا درمان کند گنج‌های پرارزش مرا می‌گیرد."
     },
     {
       "VOrder": 22,
@@ -407,7 +418,8 @@
       "Text": "جمله گفتندش که جانبازی کنیم",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "طبیبان همگی گفتند که فداکاری و نهایت تلاش را انجام می‌دهیم و با هم مشورت و همکاری می‌کنیم."
     },
     {
       "VOrder": 24,
@@ -423,7 +435,8 @@
       "Text": "هر یکی از ما مسیح عالِمیست",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هر کدام از ما پزشکان، به‌تنهایی همچون مسیح شفابخش دنیایی است و درمان هر دردی در کف دست ماست."
     },
     {
       "VOrder": 26,
@@ -439,7 +452,8 @@
       "Text": "«گر خدا خواهد» نگفتند از بطر",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "از روی غرور «اگر خدا خواهد» نگفتند پس خدا ناتوانی بشر را به آنها نشان داد."
     },
     {
       "VOrder": 28,
@@ -455,7 +469,8 @@
       "Text": "ترک استثنا مُرادم قَسوتی‌ست",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "منظورم از نگفتن «اگر خدا خواهد» یک حالت غرور است که در آدمی هست وگرنه گفتن زبانی، چیزی ظاهری و عارضی است. (استثنا یعنی انشاالله‌، اگر خدا خواهد)"
     },
     {
       "VOrder": 30,
@@ -471,7 +486,8 @@
       "Text": "ای بسا ناورده اِستثنا به گُفت",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "چه بسا انسان‌ها که استثنا و «اگر خدا خواهد» را بر زبان نمی‌آورند اما جان‌شان همیشه و در همه‌حال جفت و همراه استثنا و انشالله است."
     },
     {
       "VOrder": 32,
@@ -487,7 +503,8 @@
       "Text": "هرچه کردند از علاج و از دوا",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هرچه از درمان و دوا کردند سودی نداشت و بیماری بدتر شد و خواست آنها بی‌جواب."
     },
     {
       "VOrder": 34,
@@ -503,7 +520,8 @@
       "Text": "آن کنیزک از مرض چون موی شد",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "آن کنیزک از بیماری همچون تار مو ضعیف و لاغر گشت، و شاه از غم خون گریه می‌کرد."
     },
     {
       "VOrder": 36,
@@ -519,7 +537,8 @@
       "Text": "از قضا سرکنگبین صَفرا فزود",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "از قضا و بخت، سکنجبین که باید صفرا را درمان کند آن را بدتر و زیادتر می‌کرد و روغن بادام که باید خشکی را کم کند آن‌را بدتر می‌کرد."
     },
     {
       "VOrder": 38,
@@ -535,7 +554,8 @@
       "Text": "از هلیله قبض شد‌، اطلاق رفت",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هلیله بی‌خاصیت شد و آب، آتش و تب را زیاد می‌کرد به مانند نفت. (هلیله میوه‌ای است تلخ که در طب به‌عنوان قابض مصرف دارد)"
     },
     {
       "VOrder": 40,

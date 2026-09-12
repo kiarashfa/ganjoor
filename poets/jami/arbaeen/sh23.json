@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "ای که پرسی که بهترین کس کیست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر از من بپرسی که بهترین فرد کیست، می‌گویم از زبان بهترین افراد این را می‌گویم."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "بهترین کس، کسی بُوَد که ز خلق",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بهترین فرد کسی است که از نظر اخلاقی و رفتاری بیشتر به مردم کمک کند و به آن‌ها نفع برساند."
     },
     {
       "VOrder": 4,

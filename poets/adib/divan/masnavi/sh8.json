@@ -1001,7 +1001,8 @@
       "Text": "ای تاج خدایگان اعظم",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای تاج و زینت بزرگترین پادشاهان، تو همانند دیهیم قباد و افسر جمشید هستی."
     },
     {
       "VOrder": 2,
@@ -1017,7 +1018,8 @@
       "Text": "زیب سر کسری و فریدون",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: زیب و شکوه تاج کسری و فریدون بر سر پادشاهان می‌درخشد."
     },
     {
       "VOrder": 4,
@@ -1033,7 +1035,8 @@
       "Text": "کاوس پی تو درکه و دشت",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: کاوس برای جستجوی تو به دشت و دره‌ها رفت و همراه با آسمان ابری و رعد و برق شد."
     },
     {
       "VOrder": 6,
@@ -1049,7 +1052,8 @@
       "Text": "سیروس پی تو ساخته رزم",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: سیروس به خاطر تو به جنگ با پادشاهان چین و خوارزم رفته است."
     },
     {
       "VOrder": 8,
@@ -1065,7 +1069,8 @@
       "Text": "در راه تو گشته تیر رستم",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: در مسیر تو، تیر رستم در چشم یار سپید پنهان شده است."
     },
     {
       "VOrder": 10,
@@ -1081,7 +1086,8 @@
       "Text": "وز شوق تو برکشیده شاپور",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: از شوق تو، شاپور کتف عرب‌ها را با ضربه‌های ساطور بریده است."
     },
     {
       "VOrder": 12,
@@ -1097,7 +1103,8 @@
       "Text": "بهرام بعشق تخت ایران",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: بهرام به خاطر عشق به تخت پادشاهی ایران، از چنگال شیران فرار کرده است."
     },
     {
       "VOrder": 14,
@@ -1113,7 +1120,8 @@
       "Text": "وندر طلبت بدشنه تیز",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در جستجوی تو، تیز و شجاع مانند شیر، تیرگی‌ها و دشواری‌ها را کنار می‌زنم."
     },
     {
       "VOrder": 16,
@@ -1129,7 +1137,8 @@
       "Text": "محمود سبکتکین به تاراج",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: محمود سبکتکین به سمت هند رفت تا آنجا را تسخیر کند، ای تاج!"
     },
     {
       "VOrder": 18,
@@ -1145,7 +1154,8 @@
       "Text": "وز تیشه غازیان اسلام",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: تیشه‌های مدافعان اسلام به بت‌های سومنات ضربه زد و آن‌ها را شکست."
     },
     {
       "VOrder": 20,
@@ -1161,7 +1171,8 @@
       "Text": "اندر طلب تو شاه سلجوق",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: شاه سلجوق در جستجوی تو، در سرزمین‌های روم و ختا، به دنبال نشانه‌ای از تو می‌گردد."
     },
     {
       "VOrder": 22,
@@ -1177,7 +1188,8 @@
       "Text": "وز آل زیاد و آل بویه",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: خاندان زیاد و خاندان بویه، دشمنی از بغدادی‌ها را به همراه دارند و این موضوع باعث ایجاد اندوه و سوگواری می‌شود."
     },
     {
       "VOrder": 24,
@@ -1193,7 +1205,8 @@
       "Text": "نادر ز پی تو تاخت در هند",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: نادر به دنبال تو در هند پیش رفت و از آمویه غبار به سمت سند پراکند."
     },
     {
       "VOrder": 26,
@@ -1209,7 +1222,8 @@
       "Text": "تا بر سر جمشید بودی",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که جمشید بر سر قدرت بود، امیدها همچون کعبه در دل‌ها وجود داشت."
     },
     {
       "VOrder": 28,
@@ -1225,7 +1239,8 @@
       "Text": "سودند شهان چین و خلخ",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: پادشاهان چین و خلخ در برابر تو به خاک می‌افتند و سر فرود می‌آورند."
     },
     {
       "VOrder": 30,
@@ -1241,7 +1256,8 @@
       "Text": "از بحر سیاه تا شط نیل",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: از دریاهای آرام تا رود نیل، همه جا به خاطر تو به سجده افتاده‌اند و شوق تو در دل‌ها جا دارد."
     },
     {
       "VOrder": 32,
@@ -1257,7 +1273,8 @@
       "Text": "جیش تو بروم فوج در فوج",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: شما نمی‌توانید بی‌وقفه و به‌طور مداوم به یک موضوع فکر کنید؛ همان‌طور که دریا به طور مداوم در حال موج زدن است."
     },
     {
       "VOrder": 34,
@@ -1273,7 +1290,8 @@
       "Text": "از ساحل رودخانه کر",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: از کنار رودخانه، درختان کرگدن رو به سمت غار می‌روند تا سفر کنند."
     },
     {
       "VOrder": 36,
@@ -1289,7 +1307,8 @@
       "Text": "افراشته موکبت مرادق",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: قدرت و عظمت تو مانند نوری در آسمان است که از بلندی کوه‌ها تابیده می‌شود."
     },
     {
       "VOrder": 38,
@@ -1305,7 +1324,8 @@
       "Text": "افریقیه بر تو باج می داد",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: کشور افریقا به تو مالیات می‌داد و قسطنطنیه نیز برای تو خراج پرداخت می‌کرد."
     },
     {
       "VOrder": 40,
@@ -1321,7 +1341,8 @@
       "Text": "وز نور و فروغت اندر ایوان",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: به خاطر نور و روشنی تو، آفتاب و ستاره‌ها در مقابل زیبایی‌ات خجالت کشیده و شرم می‌کنند."
     },
     {
       "VOrder": 42,
@@ -1337,7 +1358,8 @@
       "Text": "ای شمس قلاده ثریا",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: ای شمس، من گردنبند ثریا را به راه تو تقدیم می‌کنم و به شکوفه‌های جوزا اشاره می‌کنم."
     },
     {
       "VOrder": 44,
@@ -1353,7 +1375,8 @@
       "Text": "امروز هلال تاج داری است",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: امروز ماه تازه‌ای در آسمان نمایان است و در حقیقت، در این روز، شهر به شکوه و زیبایی فرمانروایی می‌درخشد."
     },
     {
       "VOrder": 46,
@@ -1369,7 +1392,8 @@
       "Text": "تو ماهی و فرق شاه چرخت",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: تو مانند ماه هستی و در میان زیبایی‌های خود، چهره‌ای سلطنتی و مانند پرنده‌ای زیبا و دوست‌داشتنی به نظر می‌رسی."
     },
     {
       "VOrder": 48,
@@ -1385,7 +1409,8 @@
       "Text": "چندی ز نظر نهفته بودی",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: مدتی در سایه و دور از چشم دیگران بودی و در خواب و آرامش به سر می‌بردی."
     },
     {
       "VOrder": 50,
@@ -1401,7 +1426,8 @@
       "Text": "در آرزوی تو هر دقیقه",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: هر دقیقه در انتظار تو به اندازه‌ی یک سال حس می‌شود."
     },
     {
       "VOrder": 52,
@@ -1417,7 +1443,8 @@
       "Text": "ای بس مه و سال و هفته و روز",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: ما در طول زمان، از ماه‌ها و سال‌ها گرفته تا هفته‌ها و روزها، همیشه به خاطر حسرت تو در عذاب و ناراحتی بودیم."
     },
     {
       "VOrder": 54,
@@ -1433,7 +1460,8 @@
       "Text": "با خفاشان به پرده شب",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: با خفاش‌ها در تاریکی شب مانند جغدی که آهنگ سوگواری بر زبان دارد، به سر می‌برم."
     },
     {
       "VOrder": 56,
@@ -1449,7 +1477,8 @@
       "Text": "حیرت زده چون کواکب خمس",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: عجیب و شگفت‌زده مانند ستاره‌های درخشان، در پی دستیابی به موفقیت‌ها و پیروزی‌ها، به دنبال روشنایی و درخشش خورشید هستم."
     },
     {
       "VOrder": 58,
@@ -1465,7 +1494,8 @@
       "Text": "اورنگ شهی بخویش می گفت",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: پادشاهی به تختش می‌گفت: با حضور شاه، کی می‌توانم همساز و همردیف او شوم؟"
     },
     {
       "VOrder": 60,
@@ -1481,7 +1511,8 @@
       "Text": "ایوان گفتی بخویش تا کی",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: ایوان به خود گفت: تا چه زمانی از حضور وارث دور خواهم بود؟"
     },
     {
       "VOrder": 62,
@@ -1497,7 +1528,8 @@
       "Text": "چشم تو ز شوق تارک شاه",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: چشم تو به خاطر شوق و علاقه، مانند تاج یک شاه، همیشه به سمت او می‌نگرد."
     },
     {
       "VOrder": 64,
@@ -1513,7 +1545,8 @@
       "Text": "جزعت ز جزع گهر نشان بود",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: چهره‌ات چنان درخشان است که نشان از جواهر در وجودت دارد، و همچون ستاره‌های درخشان سهیل و کهکشان به نظر می‌رسد."
     },
     {
       "VOrder": 66,
@@ -1529,7 +1562,8 @@
       "Text": "بی ناموسان بی حقیقت",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: این بیت به انتقاد از افرادی می‌پردازد که بدون صداقت و ارزش‌های اخلاقی رفتار می‌کنند. آنها در مسیر زندگی به درستی قدم نمی‌گذارند و به طرز نادرستی عمل می‌کنند، در حالی که فاقد اصول و پایه‌های واقعی هستند."
     },
     {
       "VOrder": 68,
@@ -1545,7 +1579,8 @@
       "Text": "ایام محاق ماه ما را",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: ایام تاریکی و کم نوری ماه، به نوعی عزلت و دوری از ما را به یاد می‌آورد، مانند اینکه حکومتی که در دست ما بوده، در حال حاضر به نوعی بیکسی و انزوا رفته است."
     },
     {
       "VOrder": 70,
@@ -1561,7 +1596,8 @@
       "Text": "دانسته بوقت خود مساعد",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: در زمان مناسب، با حالت آماده و با نیروی سرحال و قوی، به کار می‌پردازد."
     },
     {
       "VOrder": 72,
@@ -1577,7 +1613,8 @@
       "Text": "در تاریکی ز هر کرانه",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: در شب، از هر سوی تیرهایی پرتاب شده که به صد هدف نشانه رفته‌اند."
     },
     {
       "VOrder": 74,
@@ -1593,7 +1630,8 @@
       "Text": "همسایه ز بام و دشمن از در",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: همسایه از پشت بام و دشمن از در ورود کردند و به درون خانه آمدند."
     },
     {
       "VOrder": 76,
@@ -1609,7 +1647,8 @@
       "Text": "بیگانه و خویش بهر غارت",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: غریبه و نزدیکان به خاطر غارت، به ساختمان هجوم آوردند."
     },
     {
       "VOrder": 78,
@@ -1625,7 +1664,8 @@
       "Text": "چون شاه به تخت زر برآمد",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: زمانی که شاه بر روی تخت طلا نشسته و از شب تیره به صبح روشن و زیبا قدم گذاشته است."
     },
     {
       "VOrder": 80,
@@ -1641,7 +1681,8 @@
       "Text": "خورشید دمید و سایه بگریخت",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: خورشید طلوع کرد و سایه ناپدید شد و جادوی سحر از بین رفت."
     },
     {
       "VOrder": 82,
@@ -1657,7 +1698,8 @@
       "Text": "الحمد که حاسد بداندیش",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: خوشحالم که حسود بداندیش، نتیجه‌ی ناپاکی‌های خود را می‌بیند و به دام رسیده است."
     },
     {
       "VOrder": 84,
@@ -1673,7 +1715,8 @@
       "Text": "صد شکر که حسرتش به دل ماند",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: بسیار خوب است که آرزوی آن بر دل باقی ماند، بارانش را بخر و اسبش در گل بماند."
     },
     {
       "VOrder": 86,
@@ -1689,7 +1732,8 @@
       "Text": "آن ابر سیاه منقشع شد",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: ابر سیاه کنار رفت و دود غلیظ از میان رفت."
     },
     {
       "VOrder": 88,
@@ -1705,7 +1749,8 @@
       "Text": "می از خم و گل ز شاخ سر زد",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: نوشیدنی از گلاب و گل به بیرون ریخته شد و نور خورشید از درون کاخ نمایان شد."
     },
     {
       "VOrder": 90,
@@ -1721,7 +1766,8 @@
       "Text": "شاه آمد و برگرفت پرده",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: پادشاه آمد و پرده‌ای که بر روی عروس تازه عروسی کشیده شده بود، برداشت."
     },
     {
       "VOrder": 92,
@@ -1737,7 +1783,8 @@
       "Text": "بیمار نوان درون بستر",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: بیمار درون تخت خواب خود، وقتی پزشک مهربان را دید، احساس بهتری پیدا کرد."
     },
     {
       "VOrder": 94,
@@ -1753,7 +1800,8 @@
       "Text": "اندر قدمش فتاد و زارید",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: در زیر پای او افتاده و با حالتی پریشان از چشم‌هایم اشک می‌ریزد."
     },
     {
       "VOrder": 96,
@@ -1769,7 +1817,8 @@
       "Text": "از دیده فشاند گریه شوق",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: چشمانش به شوق، اشک می‌ریزند و سرنوشت با برداشتن طوق از گردنش، او را آزاد می‌کند."
     },
     {
       "VOrder": 98,
@@ -1785,7 +1834,8 @@
       "Text": "از صبح امید تافت پرتو",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: از صبح امید، نور امید در کاخ خوشبختی پادشاه تابید."
     },
     {
       "VOrder": 100,
@@ -1801,7 +1851,8 @@
       "Text": "ای تاج کیان براه باریک",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: ای سردار بزرگ، در مسیر باریکی در طول شب تاریک و سیاهی در شام، گام برمی‌داری."
     },
     {
       "VOrder": 102,
@@ -1817,7 +1868,8 @@
       "Text": "گر نایب سلطنت نمیبود",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: اگر نیرویی در سلطنت نباشد، از این زمین به آسمان دود برمی‌خیزد."
     },
     {
       "VOrder": 104,
@@ -1833,7 +1885,8 @@
       "Text": "از خلق نهفته نیست مانا",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "هوش مصنوعی: این نکته برای مردم پنهان نیست که این فرد باهوش و کاردان است."
     },
     {
       "VOrder": 106,
@@ -1849,7 +1902,8 @@
       "Text": "از راه وفا و حق پرستی",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "هوش مصنوعی: با پایبندی به وفا و حقیقت، به خوبی و با تمام وجود به کارهای پادشاه پرداخته است."
     },
     {
       "VOrder": 108,
@@ -1865,7 +1919,8 @@
       "Text": "دستی و بزمام ملک می داشت",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "هوش مصنوعی: او با یک دست فرمانروایی را در دست داشت و با دست دیگر پرچم را برافراشت."
     },
     {
       "VOrder": 110,
@@ -1881,7 +1936,8 @@
       "Text": "دست چپ و راست بود شه را",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "هوش مصنوعی: دست راست و چپ نشانه‌های قدرت و حمایت از شاه است، در حالی که اشاره به تخت و مقام او دارد."
     },
     {
       "VOrder": 112,
@@ -1897,7 +1953,8 @@
       "Text": "عدلش خوانده است قرة العین",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "هوش مصنوعی: عدل او را \u0022قره العین\u0022 نامیده‌اند و عقلش او را \u0022ذوالیمینین\u0022 می‌خواند."
     },
     {
       "VOrder": 114,
@@ -1913,7 +1970,8 @@
       "Text": "یمن است و یسار در کنارش",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "هوش مصنوعی: یمن و ثروت در کنار هم قرار دارند، چون یمن (خیر و برکت) برای کسی که کارهای نیک انجام می‌دهد، یاری‌گر خواهد بود."
     },
     {
       "VOrder": 116,
@@ -1929,7 +1987,8 @@
       "Text": "ای افسر کیقباد و دارا",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "هوش مصنوعی: ای فرمانده کیقباد و دارا، نور و روشنی شرافت از تو نمایان است."
     },
     {
       "VOrder": 118,
@@ -1945,7 +2004,8 @@
       "Text": "امروز بفرق این شهنشاه",
       "CoupletIndex": 59,
       "SectionIndex1": 0,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "هوش مصنوعی: امروز به خاطر این پادشاه پر زهرا، روشنایی او را از زمین تا آسمان می‌توان دید."
     },
     {
       "VOrder": 120,
@@ -1961,7 +2021,8 @@
       "Text": "پیش گهرت ز خاک افلاک",
       "CoupletIndex": 60,
       "SectionIndex1": 0,
-      "SectionIndex2": 62
+      "SectionIndex2": 62,
+      "CoupletSummary": "هوش مصنوعی: در مقابل ارزش و احترام تو، حتی بزرگ‌ترین چیزها و موجودات به خاک افتاده‌اند."
     },
     {
       "VOrder": 122,
@@ -1977,7 +2038,8 @@
       "Text": "افکنده سنان سماک رامح",
       "CoupletIndex": 61,
       "SectionIndex1": 0,
-      "SectionIndex2": 63
+      "SectionIndex2": 63,
+      "CoupletSummary": "هوش مصنوعی: در این بیت، به تصویر کشیده شده که شخصی با قدرت و شجاعت، شمشیری را در دست دارد و در حال نبرد است. او به طور محکم و با اراده به جلو می‌رود و نشانه‌ای از قدرت و تسلط بر دشمنانش دارد. همچنین، از ستاره‌ی سماک به عنوان نمادی برای راهنمایی و روشنایی در نبرد یاد می‌شود. در کل، این تصویر نمایان‌گر شجاعت و استقامت در مقابل چالش‌ها است."
     },
     {
       "VOrder": 124,
@@ -1993,7 +2055,8 @@
       "Text": "جبهه بره تو جبهه ساید",
       "CoupletIndex": 62,
       "SectionIndex1": 0,
-      "SectionIndex2": 64
+      "SectionIndex2": 64,
+      "CoupletSummary": "هوش مصنوعی: در نبرد، بره تو در سوی دیگر جبهه با تاجی در مقابل تو ظاهر می‌شود."
     },
     {
       "VOrder": 126,
@@ -2009,7 +2072,8 @@
       "Text": "غفره بر تو نهاده مغفر",
       "CoupletIndex": 63,
       "SectionIndex1": 0,
-      "SectionIndex2": 65
+      "SectionIndex2": 65,
+      "CoupletSummary": "هوش مصنوعی: برایت حفاظی گذاشته‌اند که مانند قلاده‌ای از جواهرات است."
     },
     {
       "VOrder": 128,
@@ -2025,7 +2089,8 @@
       "Text": "تو افسر پادشاه شرقی",
       "CoupletIndex": 64,
       "SectionIndex1": 0,
-      "SectionIndex2": 66
+      "SectionIndex2": 66,
+      "CoupletSummary": "هوش مصنوعی: تو فرمانده و سرپرست پادشاهی هستی که زیر نور خورشید سلطنت می‌کند و درخشان است."
     },
     {
       "VOrder": 130,
@@ -2041,7 +2106,8 @@
       "Text": "تاج سر تاج ملک و دینی",
       "CoupletIndex": 65,
       "SectionIndex1": 0,
-      "SectionIndex2": 67
+      "SectionIndex2": 67,
+      "CoupletSummary": "هوش مصنوعی: این بیت به زیبایی اهمیت و مقام پادشاهی و رهبری را بیان می‌کند. تاجی که بر سر پادشاهان قرار می‌گیرد، نماد قدرت و مسئولیت‌های آنان در حفظ ملک و اصول مذهبی است. همچنین نشان دهنده حقیقت و راستی در رهبری و هدایت جامعه است."
     },
     {
       "VOrder": 132,
@@ -2057,7 +2123,8 @@
       "Text": "آن دره تاج تاجداران",
       "CoupletIndex": 66,
       "SectionIndex1": 0,
-      "SectionIndex2": 68
+      "SectionIndex2": 68,
+      "CoupletSummary": "هوش مصنوعی: این دره مانند تاجی برای پادشاهان است و عشق و محبت در آن موج می‌زند، در حالی که آسمانش پر از ابر و باران است."
     },
     {
       "VOrder": 134,
@@ -2073,7 +2140,8 @@
       "Text": "احمد شه نام جوی دیندار",
       "CoupletIndex": 67,
       "SectionIndex1": 0,
-      "SectionIndex2": 69
+      "SectionIndex2": 69,
+      "CoupletSummary": "هوش مصنوعی: احمد، بزرگ‌نام و دیندار، هفتمین پادشاه از خاندان قاجار است."
     },
     {
       "VOrder": 136,
@@ -2089,7 +2157,8 @@
       "Text": "شاهی که بصیر و قدردان است",
       "CoupletIndex": 68,
       "SectionIndex1": 0,
-      "SectionIndex2": 70
+      "SectionIndex2": 70,
+      "CoupletSummary": "هوش مصنوعی: سلطانی که بینش و درک دارد، به بزرگانی که حکیم و دانا هستند، احترام می‌گذارد و به مقام آن‌ها آگاه است."
     },
     {
       "VOrder": 138,
@@ -2105,7 +2174,8 @@
       "Text": "احمد شاه از حساب ابجد",
       "CoupletIndex": 69,
       "SectionIndex1": 0,
-      "SectionIndex2": 71
+      "SectionIndex2": 71,
+      "CoupletSummary": "هوش مصنوعی: احمد شاه به عدد مورد نظر در حساب ابجد، پنجاه و نه اشاره دارد که پس از افزودن سه‌صد به آن به دست می‌آید."
     },
     {
       "VOrder": 140,
@@ -2121,7 +2191,8 @@
       "Text": "وین نام ز روی کنج کاوی",
       "CoupletIndex": 70,
       "SectionIndex1": 0,
-      "SectionIndex2": 72
+      "SectionIndex2": 72,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که نام و آوازه کسی در نتیجه تلاش و زحماتش به اندازه ارزش و قابلیت‌هایش در نظر دیگران اهمیت پیدا کرده و در واقع برابری می‌کند."
     },
     {
       "VOrder": 142,
@@ -2137,7 +2208,8 @@
       "Text": "ای مجلس پایدار ملی",
       "CoupletIndex": 71,
       "SectionIndex1": 0,
-      "SectionIndex2": 73
+      "SectionIndex2": 73,
+      "CoupletSummary": "هوش مصنوعی: ای مجلس دائمی و پایدار ملی، تو همانند کوه مقدس هستی که نور و تجلی را به ارمغان می‌آوری."
     },
     {
       "VOrder": 144,
@@ -2153,7 +2225,8 @@
       "Text": "ای کعبه عدل و روضه فخر",
       "CoupletIndex": 72,
       "SectionIndex1": 0,
-      "SectionIndex2": 74
+      "SectionIndex2": 74,
+      "CoupletSummary": "هوش مصنوعی: ای کعبه‌ی عدالت و باغ فخر، ای مکانی که ملوک در آن سجده می‌کنند."
     },
     {
       "VOrder": 146,
@@ -2169,7 +2242,8 @@
       "Text": "در جوی تو آب عدل جاری",
       "CoupletIndex": 73,
       "SectionIndex1": 0,
-      "SectionIndex2": 75
+      "SectionIndex2": 75,
+      "CoupletSummary": "هوش مصنوعی: در رودخانه تو، آب عدالت در جریان است و این هفت کشتی تو در حال حرکت هستند."
     },
     {
       "VOrder": 148,
@@ -2185,7 +2259,8 @@
       "Text": "تو باغی و شهریار سروت",
       "CoupletIndex": 74,
       "SectionIndex1": 0,
-      "SectionIndex2": 76
+      "SectionIndex2": 76,
+      "CoupletSummary": "هوش مصنوعی: تو مانند باغی هستی که در آن زیبایی و جوانی فراوان است و مانند شاهی هستی که در این باغ، نماد زیبایی و سرسبزی است."
     },
     {
       "VOrder": 150,
@@ -2201,7 +2276,8 @@
       "Text": "تو چرخی و قهر تو مجره",
       "CoupletIndex": 75,
       "SectionIndex1": 0,
-      "SectionIndex2": 77
+      "SectionIndex2": 77,
+      "CoupletSummary": "هوش مصنوعی: تو در حرکتی و خشم تو باعث می‌شود که فرستادگانت همچون ماه و زهره درخشان و تابناک شوند."
     },
     {
       "VOrder": 152,
@@ -2217,7 +2293,8 @@
       "Text": "تابان چو نجوم در بروجند",
       "CoupletIndex": 76,
       "SectionIndex1": 0,
-      "SectionIndex2": 78
+      "SectionIndex2": 78,
+      "CoupletSummary": "هوش مصنوعی: ستاره‌ها مانند آسمان در حال درخشش هستند و همواره در حال بالا رفتن و ترقی کردن هستند."
     },
     {
       "VOrder": 154,
@@ -2233,7 +2310,8 @@
       "Text": "تو ثانی قبة الزمانی",
       "CoupletIndex": 77,
       "SectionIndex1": 0,
-      "SectionIndex2": 79
+      "SectionIndex2": 79,
+      "CoupletSummary": "هوش مصنوعی: تو در اوج زمان و مکان، آرامش و خوشبختی را به ارمغان می‌آوری."
     },
     {
       "VOrder": 156,
@@ -2249,7 +2327,8 @@
       "Text": "در بارگهت خدیو آفاق",
       "CoupletIndex": 78,
       "SectionIndex1": 0,
-      "SectionIndex2": 80
+      "SectionIndex2": 80,
+      "CoupletSummary": "هوش مصنوعی: در دشت گسترده‌ی وجودت، با مهربانی و عدالت، پیمانی بسته شده است."
     },
     {
       "VOrder": 158,
@@ -2265,7 +2344,8 @@
       "Text": "سوگند بدین و داد خورده",
       "CoupletIndex": 79,
       "SectionIndex1": 0,
-      "SectionIndex2": 81
+      "SectionIndex2": 81,
+      "CoupletSummary": "هوش مصنوعی: به این عهد و پیمان قسم می‌خورم و از فراوانی فصول و نشانه‌ها یادآور می‌شوم."
     },
     {
       "VOrder": 160,
@@ -2281,7 +2361,8 @@
       "Text": "ای دار سلام و دین اسلام",
       "CoupletIndex": 80,
       "SectionIndex1": 0,
-      "SectionIndex2": 82
+      "SectionIndex2": 82,
+      "CoupletSummary": "هوش مصنوعی: ای سرزمین آرامش و دین اسلام، ای قبله‌ای که برای خاصان و عامه مردم مورد توجه است."
     },
     {
       "VOrder": 162,
@@ -2297,7 +2378,8 @@
       "Text": "قانون تو احسن الفواعد",
       "CoupletIndex": 81,
       "SectionIndex1": 0,
-      "SectionIndex2": 83
+      "SectionIndex2": 83,
+      "CoupletSummary": "هوش مصنوعی: قانون تو بهترین اصول را دارد و اقبال به یاری تو خواهد آمد."
     },
     {
       "VOrder": 164,
@@ -2313,7 +2395,8 @@
       "Text": "شه در تو نهاده از وفا گام",
       "CoupletIndex": 82,
       "SectionIndex1": 0,
-      "SectionIndex2": 84
+      "SectionIndex2": 84,
+      "CoupletSummary": "هوش مصنوعی: شاه در تو از وفا و صداقت گام می‌گذارد، و نور خورشید به خاطر تو از بام ساختمان تو سر می‌زند."
     },
     {
       "VOrder": 166,
@@ -2329,7 +2412,8 @@
       "Text": "ما مشرقیان ملک پرستیم",
       "CoupletIndex": 83,
       "SectionIndex1": 0,
-      "SectionIndex2": 85
+      "SectionIndex2": 85,
+      "CoupletSummary": "هوش مصنوعی: ما مردمان شرق، به میهن خود عشق می‌ورزیم و در دامان پادشاه به سر می‌بریم."
     },
     {
       "VOrder": 168,
@@ -2345,7 +2429,8 @@
       "Text": "خاک ره شاه دادخواهیم",
       "CoupletIndex": 84,
       "SectionIndex1": 0,
-      "SectionIndex2": 86
+      "SectionIndex2": 86,
+      "CoupletSummary": "هوش مصنوعی: ما از خاک راه پادشاه برای اجرای حق و عدالت خواهش و درخواست داریم."
     },
     {
       "VOrder": 170,
@@ -2361,7 +2446,8 @@
       "Text": "جمشید پرست و کی نوازیم",
       "CoupletIndex": 85,
       "SectionIndex1": 0,
-      "SectionIndex2": 87
+      "SectionIndex2": 87,
+      "CoupletSummary": "هوش مصنوعی: ما جمشید را می‌پرستیم و در عوض، با کینه‌توزی ضحاک می‌جنگیم و ظلم را از بین می‌بریم."
     },
     {
       "VOrder": 172,
@@ -2377,7 +2463,8 @@
       "Text": "این گفت ز اهل خاورستان",
       "CoupletIndex": 86,
       "SectionIndex1": 0,
-      "SectionIndex2": 88
+      "SectionIndex2": 88,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که مردم خاور زمین به خوبی می‌دانند که در مسجد و مدرسه چه اتفاقاتی می‌افتد و چه چیزهایی آموزش داده می‌شود."
     },
     {
       "VOrder": 174,
@@ -2393,7 +2480,8 @@
       "Text": "زنبور عسل بشاه نازد",
       "CoupletIndex": 87,
       "SectionIndex1": 0,
-      "SectionIndex2": 89
+      "SectionIndex2": 89,
+      "CoupletSummary": "هوش مصنوعی: زنبور عسل به خاطر سلطنت و مقام خود به مور ناز می‌کند و از جایگاه خود احساس افتخار می‌کند."
     },
     {
       "VOrder": 176,
@@ -2409,7 +2497,8 @@
       "Text": "تا راست شبی که مه ندارد",
       "CoupletIndex": 88,
       "SectionIndex1": 0,
-      "SectionIndex2": 90
+      "SectionIndex2": 90,
+      "CoupletSummary": "هوش مصنوعی: در شبی که ماه وجود ندارد، کسی که مقام و ارزشی ندارد، خوار و بی‌مقدار است."
     },
     {
       "VOrder": 178,
@@ -2425,7 +2514,8 @@
       "Text": "صد شکر که ما بنیروی بخت",
       "CoupletIndex": 89,
       "SectionIndex1": 0,
-      "SectionIndex2": 91
+      "SectionIndex2": 91,
+      "CoupletSummary": "هوش مصنوعی: بسیار سپاسگزاریم که ما شانس و اقبال خوبی داریم و کسی را که شایسته و مورد ستایش است بر تخت قدرت داریم."
     },
     {
       "VOrder": 180,
@@ -2441,7 +2531,8 @@
       "Text": "ای افسر داد پیشدادی",
       "CoupletIndex": 90,
       "SectionIndex1": 0,
-      "SectionIndex2": 92
+      "SectionIndex2": 92,
+      "CoupletSummary": "هوش مصنوعی: ای فرمانده و داور برتر، مانند تاج کیقباد به سر داری."
     },
     {
       "VOrder": 182,
@@ -2457,7 +2548,8 @@
       "Text": "امروز شدی بتارک ماه",
       "CoupletIndex": 91,
       "SectionIndex1": 0,
-      "SectionIndex2": 93
+      "SectionIndex2": 93,
+      "CoupletSummary": "هوش مصنوعی: امروز به زیبایی و نورانیت همچون ماه تبدیل شدی، یعنی بر روی سرت، مانند تاجی که بر سر شاهان است، زیبایی داری."
     },
     {
       "VOrder": 184,
@@ -2473,7 +2565,8 @@
       "Text": "گشتند تو را درون مشکو",
       "CoupletIndex": 92,
       "SectionIndex1": 0,
-      "SectionIndex2": 94
+      "SectionIndex2": 94,
+      "CoupletSummary": "هوش مصنوعی: در زمانه‌ای که شاهان وجود دارند، به تو تبریک می‌گویند و تو را شایسته می‌دانند."
     },
     {
       "VOrder": 186,
@@ -2489,7 +2582,8 @@
       "Text": "بنشانده ادیب اندرین جشن",
       "CoupletIndex": 93,
       "SectionIndex1": 0,
-      "SectionIndex2": 95
+      "SectionIndex2": 95,
+      "CoupletSummary": "هوش مصنوعی: در این جشن، نویسنده‌ای فرزانه در محیطی خوشبو و زیبا قرار گرفته و شعری دل‌انگیز و پر میوه را ارائه می‌دهد."
     },
     {
       "VOrder": 188,
@@ -2505,7 +2599,8 @@
       "Text": "بسروده برای سال تاریخ",
       "CoupletIndex": 94,
       "SectionIndex1": 0,
-      "SectionIndex2": 96
+      "SectionIndex2": 96,
+      "CoupletSummary": "هوش مصنوعی: در سالی که تاریخش به وضوح مانند ماه و مریخ است، شعری سروده شده است."
     },
     {
       "VOrder": 190,
@@ -2521,7 +2616,8 @@
       "Text": "و آن بیت لطیف نغز این است",
       "CoupletIndex": 95,
       "SectionIndex1": 0,
-      "SectionIndex2": 97
+      "SectionIndex2": 97,
+      "CoupletSummary": "هوش مصنوعی: به طور خلاصه، این جمله به این معناست که ظاهر یک چیز ممکن است زیبا و جذاب باشد، اما برای درک واقعی آن باید به عمق و محتوای درونی آن توجه کرد. در واقع، زیبایی ظاهری تنها یک پوست است و ارزش واقعی در باطن آن نهفته است."
     },
     {
       "VOrder": 192,
@@ -2537,7 +2633,8 @@
       "Text": "نازد بلوای مهر و کیوان",
       "CoupletIndex": 96,
       "SectionIndex1": 0,
-      "SectionIndex2": 98
+      "SectionIndex2": 98,
+      "CoupletSummary": "هوش مصنوعی: در این بیت به زیبایی‌های ستاره‌های مهر و کیوان اشاره شده است و از این دو به عنوان نشانه‌های بزرگی و مقام عالی پادشاهی ایران یاد می‌شود. به طور کلی، این شعر بیانگر عظمت و شکوه تاج و تخت پادشاهی است."
     },
     {
       "VOrder": 194,

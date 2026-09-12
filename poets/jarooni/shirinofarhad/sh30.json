@@ -291,7 +291,8 @@
       "Text": "چو خسرو دیدکان سرو سمنبر",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: وقتی خسرو به چشمان آن سرو سمن‌بَر نگاه کرد، دلش را در آغوش سنگی‌تر از آن یافت."
     },
     {
       "VOrder": 2,
@@ -307,7 +308,8 @@
       "Text": "ره و رسم وفاداری نپوید",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: وفاداری راه و رسم خاص خود را دارد و همه مانند دل خودشان سخت می‌گویند و اصطلاحاً نمی‌توانند به راحتی به آن پایبند باشند."
     },
     {
       "VOrder": 4,
@@ -323,7 +325,8 @@
       "Text": "چو زلفش یک زمان بر خود بپیچید",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: وقتی که زلف او لحظه‌ای دور خودش پیچید، چند قطره اشک از چشمانش فرو ریخت."
     },
     {
       "VOrder": 6,
@@ -339,7 +342,8 @@
       "Text": "پس آنگه خاست از مجلس چو آتش",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: پس از آن، چون از مجلس برخاست، مانند آتشی خشمگین و غضبناک گفت: امیدوارم وقتتان خوش باشد."
     },
     {
       "VOrder": 8,
@@ -355,7 +359,8 @@
       "Text": "روم زین آستان گیرم سر خویش",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: من از این درگاه می‌روم و دیگر نمی‌خواهم دردی را تحمل کنم که بیش از این باشد."
     },
     {
       "VOrder": 10,
@@ -371,7 +376,8 @@
       "Text": "شوم تیر ملامت را نشانه",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: من آماده‌ام تا با تیر انتقاد و نکوهش به سمت خودم حمله کنم و از این جا، مشکلات و سختی‌ها را تحمل نمایم."
     },
     {
       "VOrder": 12,
@@ -387,7 +393,8 @@
       "Text": "مرا بس از تو این خواری کشیدن",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: من به اندازه‌ی کافی از تو رنج و ناگواری کشیده‌ام و بی‌رحمی و ظلم تو را به خوبی تجربه کرده‌ام."
     },
     {
       "VOrder": 14,
@@ -403,7 +410,8 @@
       "Text": "چنین کز مردمی چشمت مرا سوخت",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: از این که نگاهت مرا سوزاند، می‌فهمم که باید از نگاهی مردمی و دوستانه بیاموزم."
     },
     {
       "VOrder": 16,
@@ -419,7 +427,8 @@
       "Text": "از آن هندو ندارم ناسپاسی",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: من نسبت به آن هندو ناسپاسی نمی‌کنم، زیرا او به من درس انسان‌شناسی داد."
     },
     {
       "VOrder": 18,
@@ -435,7 +444,8 @@
       "Text": "مرا زین گفته ها بیهوش کردی",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: من را با این حرف‌ها بی‌هوش کردی، احساس تنهایی می‌کنم و انگار در گوشم صداهایی می‌پیچد."
     },
     {
       "VOrder": 20,
@@ -451,7 +461,8 @@
       "Text": "سخنهایی که لعلت گفت فاشم",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: کلمات زیبا و دلنشینی که تو بر زبان آوردی، برای من کافی است و تا زمانی که زنده‌ام، این یادها را با خود دارم."
     },
     {
       "VOrder": 22,
@@ -467,7 +478,8 @@
       "Text": "عجب گر سگ کشد این خواری از کس",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: عجیب است اگر سگ از کسی این همه بی‌احترامی ببیند، اما اگر من انسان باشم، همین برایم کافی است."
     },
     {
       "VOrder": 24,
@@ -483,7 +495,8 @@
       "Text": "سخنهایی که گوشم از تو بشنفت",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهم به زبان ساده بگویم: چیزهایی که از تو شنیدم، شگفت‌انگیز است و اگر بتوانم آنها را بعد از مرگم بگویم، عجیب خواهد بود."
     },
     {
       "VOrder": 26,
@@ -499,7 +512,8 @@
       "Text": "روا باشد گر از این غم زنم شور",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: اگر از این غم به تپش بیفتم و حالتی شاد ایجاد کنم، حتی می‌توانم در گور نیز زنده بمانم."
     },
     {
       "VOrder": 28,
@@ -515,7 +529,8 @@
       "Text": "نخواهم باز شد یکبارت از سر",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: من دیگر نمی‌خواهم یک بار دیگر از تو جدا شوم، اما اکنون ناچارم از این در بروم."
     },
     {
       "VOrder": 30,
@@ -531,7 +546,8 @@
       "Text": "روم باز آیم ار باشد مرا برگ",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: اگر روزی برگردم، به خاطر تو برمی‌گردم و اگر مرگ به من فرصت دهد، از تو عذرخواهی می‌کنم."
     },
     {
       "VOrder": 32,
@@ -547,7 +563,8 @@
       "Text": "بگفت اینها و شد بر پشت مرکب",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: او این حرف‌ها را گفت و سوار بر مرکب شد و همان شب به سوی روم روانه گردید."
     },
     {
       "VOrder": 34,
@@ -563,7 +580,8 @@
       "Text": "چو رفت آوازه خسرو بدان بوم",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: وقتی صدای خسرو به آن سرزمین رسید، پادشاه روم به استقبال او آمد."
     },
     {
       "VOrder": 36,
@@ -579,7 +597,8 @@
       "Text": "به بهتر مدح و تعریفی ستودش",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: برای ستایش بهتر و تعریف از او، نوازش کرد و عذرخواهی‌های زیادی انجام داد."
     },
     {
       "VOrder": 38,
@@ -595,7 +614,8 @@
       "Text": "فشاندش گنج و گوهرهای بسیار",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: او گنجینه‌ها و جواهرات فراوانی را به او بخشید، به طوری که شایسته پادشاهان باشد."
     },
     {
       "VOrder": 40,
@@ -611,7 +631,8 @@
       "Text": "به شهرش برد و بازش پیش خود خواند",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: او را به شهر خود برد و سپس نزد خود فراخواند و به کنارش بر تخت نشاند."
     },
     {
       "VOrder": 42,
@@ -627,7 +648,8 @@
       "Text": "کمر بست و کله بر سر نهادش",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: او تصمیم گرفت و همه تلاشش را به کار گرفت تا هر چیزی که لازم بود را به او بدهد."
     },
     {
       "VOrder": 44,
@@ -643,7 +665,8 @@
       "Text": "ز گنج و لشکرش چون کرد دل شاد",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: از زمانی که او با ثروت و نیرویش دل مرا شاد کرد، سپس دخترش را به او بخشید."
     },
     {
       "VOrder": 46,
@@ -659,7 +682,8 @@
       "Text": "به دیرش برد و پیمان داد محکم",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: او را به میخانه برد و با قاطعیت پیمان بست که تو مسیحی هستی و اینجا مریم وجود دارد."
     },
     {
       "VOrder": 48,
@@ -675,7 +699,8 @@
       "Text": "چو خسرو آن نوازشها و آن گنج",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: وقتی خسرو آن نوازش‌ها و آن ثروت قهرمانان را مشاهده کرد، از نگرانی‌ها و مشکلاتش راحت شد."
     },
     {
       "VOrder": 50,
@@ -691,7 +716,8 @@
       "Text": "برآرایید لشکر از پی جنگ",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: لشکری برای جنگ آماده کردند و به سمت بهرام چوبین حرکت کردند."
     },
     {
       "VOrder": 52,

@@ -221,7 +221,8 @@
       "Text": "کنون ای سخن‌گوی بیدارمغز",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "حالا ای سخن‌گوی هوشمند، قصه‌ای زیبا و جذاب روایت کن. (شاعر خودش را خطاب قرار داده است.)"
     },
     {
       "VOrder": 2,
@@ -237,7 +238,8 @@
       "Text": "سخن چون برابر شود با خرد",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "وقتی کلام با عقل و خرد هماهنگ شود، روح سراینده در آرامش و راحتی قرار می‌گیرد و پس از مرگش بر او رحمت می‌فرستند."
     },
     {
       "VOrder": 4,
@@ -253,7 +255,8 @@
       "Text": "کسی را که اندیشه ناخوش بود",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "\u00A0اگر کسی اندیشه‌ای ناخوشایند داشته باشد از آن ناخوشی تدبیر او سودایی یا صفراوی می شود"
     },
     {
       "VOrder": 6,
@@ -269,7 +272,8 @@
       "Text": "همی خویشتن را چلیپا کند",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "مانند این می شود که خود را به دار کشد و پیش خردمندان رسوا کتد\u00A0"
     },
     {
       "VOrder": 8,
@@ -285,7 +289,8 @@
       "Text": "ولیکن نبیند کس آهوی خویش",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "اما هیچ‌کس نمی‌تواند عیب خود را ببیند و به نظر تو (توی نوعی) اخلاقت خوش و روشن می‌‌آید."
     },
     {
       "VOrder": 10,
@@ -301,7 +306,8 @@
       "Text": "اگر داد باید که ماند بجای",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "اگر قرار باشد که دادگری برجای بماند بیا و از این پس اندیشه خود را به شخص دانا آشکار کن"
     },
     {
       "VOrder": 12,
@@ -317,7 +323,8 @@
       "Text": "چو دانا پسندد پسندیده گشت",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "اگر دانا رای تو را پسندید بر همه پسندیده می شود و مانند این می شود که آب در جوی تو همچون اشک چشم می شود (کنایه از با ارزش شدن چیزی )"
     },
     {
       "VOrder": 14,
@@ -333,7 +340,8 @@
       "Text": "ز گفتار دهقان کنون داستان",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "این داستان را که از گفته های دهقان شنیده ای بخوان و با راستان بگوی"
     },
     {
       "VOrder": 16,
@@ -349,7 +357,8 @@
       "Text": "کهن‌گشته این داستانها ز من",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "این داستان های کهنه شده به وسیله من باز\u00A0 در انجمن ها نو می شود"
     },
     {
       "VOrder": 18,
@@ -365,7 +374,8 @@
       "Text": "اگر زندگانی بود دیریاز",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اگر زندگی به درازا کشد، من بخواهم تا همیشه در این خوشی بمانم."
     },
     {
       "VOrder": 20,
@@ -381,7 +391,8 @@
       "Text": "یکی میوه‌داری بماند ز من",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: یک میوه‌دار از من یادگار بماند که به خاطر او در باغ به خود می‌بالد."
     },
     {
       "VOrder": 22,
@@ -397,7 +408,8 @@
       "Text": "ازان پس که بنمود پنچاه و هشت",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: پس از آنکه پنجاه و هشت سال به پایان رسید، شگفتی‌های زیادی رخ داد."
     },
     {
       "VOrder": 24,
@@ -413,7 +425,8 @@
       "Text": "همی آز کمتر نگردد بسال",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: به مرور زمان، به دست آوردن روزهای خوب و خوشبختی بیشتر، هرگز کمتر نمی‌شود؛ بلکه همواره به دنبال نشانه‌ها و فال‌های خوب هستیم."
     },
     {
       "VOrder": 26,
@@ -429,7 +442,8 @@
       "Text": "چه گفته‌ست آن موبد پیش‌رو",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: چه کسی گفته است که آن پیرمرد (موبد) همیشه جوان و تازه باقی می‌ماند و هرگز قدیمی نمی‌شود؟"
     },
     {
       "VOrder": 28,
@@ -445,7 +459,8 @@
       "Text": "تو چندان که گویی سخن‌گوی باش",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: به اندازه‌ای که صحبت می‌کنی، سعی کن انسانی با خرد و آگاه باشی که در جست‌وجوی جهان و تجربیات جدید است."
     },
     {
       "VOrder": 30,
@@ -461,7 +476,8 @@
       "Text": "چو رفتی سر و کار با ایزدست",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: وقتی که با خداوند سر و کار داشته باشی، اگر کارهایت خوب باشد، جایگاهت نیز خوب خواهد بود و اگر بد باشد، سرنوشتی ناگوار خواهی داشت."
     },
     {
       "VOrder": 32,
@@ -477,7 +493,8 @@
       "Text": "نگر تا چه کاری، همان بدروی",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: مراقب حرف‌هایت باش، زیرا هر چه بگویی، همان را خواهی شنید."
     },
     {
       "VOrder": 34,
@@ -493,7 +510,8 @@
       "Text": "درشتی ز کس نشنود نرم‌گوی",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی را ندیدی که با محبت و نرمی صحبت کند، جز خوب بودن، هیچ چیز دیگری در این دنیا از او نخواهی یافت."
     },
     {
       "VOrder": 36,
@@ -509,7 +527,8 @@
       "Text": "به گفتار دهقان کنون بازگرد",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: به سخنان کشاورز دوباره توجه کن و ببین که آن مرد چه چیزی را بیان می‌کند."
     },
     {
       "VOrder": 38,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "اگر در خیمه یا در محملی تو",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در چادر یا در مکان دیگری هستی، چه بر روی شتر و چه در مکانی که هستی، مهم این است که تو در آنجا قرار داری."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "بدل نزدیکتر باشی تو از دل",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو نزدیک‌تر از دل به من هستی، چرا که هم دل در تو قرار دارد و هم تو در دل من هستی."
     },
     {
       "VOrder": 4,

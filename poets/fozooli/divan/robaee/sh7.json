@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ماییم که نیست هیچ کس همدم ما",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما افرادی هستیم که هیچ‌کس را در کنار خود نداریم. ما در غم دیگران نیستیم و هیچ‌کس هم در غم ما قرار ندارد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "نی ما خبر از مردم عالم داریم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما از حال و احوال مردم دنیا آگاهی داریم، اما مردم دنیا از حالت ما بی‌خبرند."
     },
     {
       "VOrder": 4,

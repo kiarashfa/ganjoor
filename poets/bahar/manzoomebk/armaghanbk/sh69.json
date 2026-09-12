@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "راست گوی باش که استوار (‌مورد اعتماد) باشی.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: راستگو باش تا مورد اعتماد دیگران باشی."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "جز از راستی هیچ دم برمیار",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فقط از حقیقت صحبت کن و از دروغ و نادرستی پرهیز کن تا در نظر دیگران فردی معتبر و قابل اعتماد باشی."
     },
     {
       "VOrder": 3,

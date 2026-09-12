@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "استرم را اگر فرستادی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر اسبم را فرستادی، هیچگاه جز به یاد مردمان خوب و درستکار نخواهم کرد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "معنی آن فلان تحیاتست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به معنای این است که سلام و درودها به آن شخص خاص و همچنین به روح پاک نیاکانش تقدیم می‌شود."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "ورنه‌گویم که آن فلان ذکرست",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نمی‌گویم که آن موضوع خاص چیست، و آنجا هم جای پر از بادی است."
     },
     {
       "VOrder": 6,

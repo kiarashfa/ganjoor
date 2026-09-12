@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گر زانکه ترا غم دلی روی نمود",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر که دلت از غم کسی گرفته شده است، نباید بر این غم افزوده شود."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "بر بوی دل سوخته می آمد غم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بوی دل سوخته به نزد تو می‌رسید، چرا که غم از قبل به سراغ تو آمده بود و دل آن غم به تو تعلق داشت."
     },
     {
       "VOrder": 4,

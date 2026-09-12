@@ -191,7 +191,8 @@
       "Text": "چون شنید اینها دوان شد تیز و تفت",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: وقتی او این سخنان را شنید، سریع و تند به سوی در موسی، پیامبر خدا، رفت."
     },
     {
       "VOrder": 2,
@@ -207,7 +208,8 @@
       "Text": "رو همی‌مالید در خاک او ز بیم",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: او از ترس اینکه کسی به فریادش برسد، به خاک او می‌مالد و خود را تسلیم می‌کند."
     },
     {
       "VOrder": 4,
@@ -223,7 +225,8 @@
       "Text": "گفت رو بفروش خود را و بره",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: گفت: به خودت نگاه کن و خود را به دیگران عرضه کن، چرا که تو اکنون به اندازه‌ای رسیده‌ای که باید از این موقعیت بهره‌برداری کنی."
     },
     {
       "VOrder": 6,
@@ -239,7 +242,8 @@
       "Text": "بر مسلمانان زیان انداز تو",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: اینان که کیسه و همیان دارند، با زیان و خسارت تو دچار می‌شوند؛ پس نگرانی آن‌ها را بیشتر کن."
     },
     {
       "VOrder": 8,
@@ -255,7 +259,8 @@
       "Text": "من درون خشت دیدم این قضا",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: من درون آجرها دیدم سرنوشت تو را که در آیینه به وضوح نمایان شد."
     },
     {
       "VOrder": 10,
@@ -271,7 +276,8 @@
       "Text": "عاقل اول بیند آخر را بدل",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: عاقل کسی است که از ابتدا به نتیجه و پایان کار توجه دارد، در حالی که فرد نادان تنها به ظاهر و شرایط فعلی نگاه می‌کند و از پیامدهای آینده بی‌خبر است."
     },
     {
       "VOrder": 12,
@@ -287,7 +293,8 @@
       "Text": "باز زاری کرد کای نیکوخصال",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: پرنده‌ای دوباره ناله کرد و گفت: ای نیکوخصال، به من در دل نزن، به من لقب ممالت را مده."
     },
     {
       "VOrder": 14,
@@ -303,7 +310,8 @@
       "Text": "از من آن آمد که بودم ناسزا",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: من از آنچه که هستم، بدی‌ها و ناسزاهایی دارم، اما تو زیبایی‌ها و خوبی‌ها را به من عطا کن."
     },
     {
       "VOrder": 16,
@@ -319,7 +327,8 @@
       "Text": "گفت تیری جست از شست ای پسر",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: پسر جان، گفتنی است که تیر از شست رها شده و به عقب برنمی‌گردد. این یعنی کارهایی که انجام می‌دهی، دیگر قابل برگشت نیستند."
     },
     {
       "VOrder": 18,
@@ -335,7 +344,8 @@
       "Text": "لیک در خواهم ز نیکوداوری",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اما می‌خواهم از نیکوکاران یاد بگیرم تا به آن زمان ایمانم را با خود داشته باشم."
     },
     {
       "VOrder": 20,
@@ -351,7 +361,8 @@
       "Text": "چونک ایمان برده باشی زنده‌ای",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: هرگاه که ایمان داشته باشی، زنده‌ و پایدار هستی."
     },
     {
       "VOrder": 22,
@@ -367,7 +378,8 @@
       "Text": "هم در آن دم حال بر خواجه بگشت",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: در آن لحظه حالتی بر استاد عارض شد و دلش به شدت ناآرام گشت، بنابراین طشت را به نزد او آوردند."
     },
     {
       "VOrder": 24,
@@ -383,7 +395,8 @@
       "Text": "شورش مرگست نه هیضهٔ طعام",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: مرگ یک انقلاب بزرگ است، نه تنها یک گرسنگی یا نیاز به غذا. پس ای بیچاره، این چه فایده‌ای برای تو دارد؟"
     },
     {
       "VOrder": 26,
@@ -399,7 +412,8 @@
       "Text": "چار کس بردند تا سوی وثاق",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: چهار نفر را به سوی بند بردند، در حالی که او بر پشت ساق پا می‌کشید."
     },
     {
       "VOrder": 28,
@@ -415,7 +429,8 @@
       "Text": "پند موسی نشنوی شوخی کنی",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: اگر پند موسی را نمی‌شنوی و شوخی می‌کنی، خودت را به خطر می‌اندازی و بر تیغ تیز می‌زنی."
     },
     {
       "VOrder": 30,
@@ -431,7 +446,8 @@
       "Text": "شرم ناید تیغ را از جان تو",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: تیغ، از جان تو خجالت نمی‌کشد، برادر، زیرا این جان توست که حقیقتاً متعلق به توست."
     },
     {
       "VOrder": 32,

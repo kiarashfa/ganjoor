@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای دوست چرا در دل دیوانه نه ای",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دوست، چرا در دل من غریبه نیستی؟ چه بگویم که تو دیگر غریبه نیستی."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "خود باش دلیل ره که چونت یابم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خودت باش دلیل رفتن به راهی که در آن تو را پیدا کنم. این خانه پر از یاد توست، اما تو در اینجا نیستی."
     },
     {
       "VOrder": 4,

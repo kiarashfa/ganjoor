@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "دو سخن می شنو یکی می گو",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دو حرف را گوش کن؛ یکی را بگو. سخن او را بیان کن، اما به شکلی که خود نیز در آن باشید."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "سخن یار اگر چه بسیار است",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه هم صحبت یار خیلی حرف‌ها برای گفتن دارد، اما بهتر است از دوستان کم صحبت گوش بدهی."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "قدمی نه به بحر ما با ما",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک قدم به سوی دریا نگذار، زیرا ما خود دریا هستیم و آنچه می‌جویی، در وجود خود ما و در عین حال وجود ماست."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "تو چنین غافل و به خود مشغول",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو در دنیای خود غرق و غافل هستی، اما لحظه‌ای نمی‌دانی که وجود او بدون تو معنا ندارد."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "باش یکتا و از دوئی بگذر",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تنها باش و از دوگانگی عبور کن. با چهره‌های گوناگون، هرگز نمی‌توان به یک چهره رسید."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "در خم می نشین و غسلی کن",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در گوشه‌ای نشسته و برای خود طهارت و پاکی بگیر، لباس خود را به می ناب آغشته کن."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "نعمت الله مدام می گوید",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نعمت الله همیشه اعلام می‌کند که جز او هیچ معبودی نیست."
     },
     {
       "VOrder": 14,

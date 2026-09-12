@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "به قطعه گویی مشهور است و در زمان حکومت ازبکیه او را رونقی تمام روی نموده این قطعه از اوست :",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: این متن به یک قطعه شاعرانه معروف اشاره دارد و می‌گوید که در دوران حکومت ازبک‌ها، به این قطعه توجه ویژه‌ای شده است."
     },
     {
       "VOrder": 3,
       "Position": "Right",
       "Text": "به پیر خرد گفتم ای راه دیده",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به فرد دانا گفتم، ای کسی که در مسیر زندگی بینا هستی، وقتی من از این پل خطرناک عبور کنم، چه باید بکنم؟"
     },
     {
       "VOrder": 4,
@@ -46,7 +48,8 @@
       "Position": "Right",
       "Text": "سویم دید از شفقت و گفت با من",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او با محبت به سمت من آمد و بعد از مدت‌ها فکر کردن و تعمق، چیزی به من گفت."
     },
     {
       "VOrder": 6,
@@ -60,7 +63,8 @@
       "Position": "Right",
       "Text": "توجه توجه توجه توجه",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به این نکته توجه کن که همیشه باید بر خداوند توکل کنی و به او اعتماد داشته باشی."
     },
     {
       "VOrder": 8,

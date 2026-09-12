@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گر یکی را دو بار بشماری",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به یکی بیشتر از یک بار توجه کنی، آن یکی را تنها و بی‌اعتنا خواهی گذاشت."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "دو یکی باشد و یکی دو عجب",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دو چیز با هم یکی می‌شوند و یکی نیز دو تا می‌شود؛ شگفتا که یادش از یار به یاری کشیده می‌شود."
     },
     {
       "VOrder": 4,

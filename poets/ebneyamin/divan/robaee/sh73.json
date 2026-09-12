@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "این برشده دولاب که گردد پیوست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این دَولاب که در حال چرخش است، گاهی به ارتفاع می‌رود و گاهی به پایین می‌آید."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "هرچیز که هست نیست هرگز نشود",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که وجود دارد، همیشه در حالتی از عدم است و چیزی که وجود ندارد، هرگز به حالت وجود نخواهد رسید."
     },
     {
       "VOrder": 4,

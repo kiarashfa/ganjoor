@@ -571,7 +571,8 @@
       "Text": "خبر شد به نزدیک افراسیاب",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: افراسیاب متوجه شد که سهراب کشتی را در آب انداخته است."
     },
     {
       "VOrder": 2,
@@ -587,7 +588,8 @@
       "Text": "هنوز از دهن بوی شیر آیدش",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: هنوز بوی شیر در دهانش حس می‌شود و همزمان به یاد شمشیر و تیر می‌افتد."
     },
     {
       "VOrder": 4,
@@ -603,7 +605,8 @@
       "Text": "زمین را به خنجر بشوید همی",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "زمین را با خنجر می شوید؛ هم‌اکنون در پی تلاش برای جنگ با کاووس و پیروزی بر او است."
     },
     {
       "VOrder": 6,
@@ -619,7 +622,8 @@
       "Text": "سپاه انجمن شد برو بر بسی",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "سپاه برای او جمع و آماده شده است و یاد و خاطر او در دل هیچ کس نیست و کسی از او خبر ندارد."
     },
     {
       "VOrder": 8,
@@ -635,7 +639,8 @@
       "Text": "سخن زین درازی چه باید کشید",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "با گفتن این همه سخنان طولانی، چه فایده‌ای حاصل می‌شود؟ هنر، با ارزش‌تر و زیباتر از اصل و نسب خود را نشان می‌دهد."
     },
     {
       "VOrder": 10,
@@ -651,7 +656,8 @@
       "Text": "چو افراسیاب آن سخنها شنود",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: وقتی افراسیاب آن صحبت‌ها را شنید، خوشحال شد و خندید."
     },
     {
       "VOrder": 12,
@@ -667,7 +673,8 @@
       "Text": "ز لشکر گزید از دلاور سران",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: از میان دلاوران لشکر، کسی انتخاب شد که با قدرت و شجاعتش، به راحتی به هر نیرویی می‌تازد."
     },
     {
       "VOrder": 14,
@@ -683,7 +690,8 @@
       "Text": "ده و دو هزار از دلیران گرد",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: هزاران دلیر مانند هومان و مر بارمان را به گرد هم آورد."
     },
     {
       "VOrder": 16,
@@ -699,7 +707,8 @@
       "Text": "به گردان لشکر سپهدار گفت",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: آن را به فرمانده لشکر گفت که این راز باید پنهان بماند و فاش نشود."
     },
     {
       "VOrder": 18,
@@ -715,7 +724,8 @@
       "Text": "چو روی اندر آرند هر دو بروی",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: وقتی هر دو طرف به سوی تهمتن (رستم) بیایند، بدون شک او کسی است که می‌تواند راه‌حلی پیدا کند."
     },
     {
       "VOrder": 20,
@@ -731,7 +741,8 @@
       "Text": "پدر را نباید که داند پسر",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: پسر نباید بداند که پدر چه اندازه به او علاقه دارد و چقدر جان و دلش را به محبت او گره زده است."
     },
     {
       "VOrder": 22,
@@ -747,7 +758,8 @@
       "Text": "مگر کان دلاور گو سالخورد",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: آیا ممکن است که آن دلاور پیر شود و به دست این شیرمرد کشته شود؟"
     },
     {
       "VOrder": 24,
@@ -763,7 +775,8 @@
       "Text": "ازان پس بسازید سهراب را",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: پس از این، سهراب را آماده کنید و یک شب او را به خواب ببرید."
     },
     {
       "VOrder": 26,
@@ -779,7 +792,8 @@
       "Text": "برفتند بیدار دو پهلوان",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: دو پهلوان آگاه و هوشیار به سوی سهراب گل‌رو حرکت کردند."
     },
     {
       "VOrder": 28,
@@ -795,7 +809,8 @@
       "Text": "به پیش اندرون هدیهٔ شهریار",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: به جلو برو و به شاه هدیه‌ای از اسب‌ها و الاغ‌ها با زین و بار بده."
     },
     {
       "VOrder": 30,
@@ -811,7 +826,8 @@
       "Text": "ز پیروزه تخت و ز بیجاده تاج",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: این بیت به توصیف ویژگی‌های سلطنت و نشانه‌های قدرت می‌پردازد. به این ترتیب که تخت سلطنت با نشان‌های باارزشی مانند طلا و عاج تزئین شده است و به عظمت و شکوه سلطنت اشاره می‌کند. در واقع، این شعر بر اهمیت و زیبایی نمادهای قدرت و حکومت تأکید دارد."
     },
     {
       "VOrder": 32,
@@ -827,7 +843,8 @@
       "Text": "یکی نامه با لابه و دلپسند",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: یک نفر نامه‌ای دلنشین و پر از محبت به آن شخص محترم نوشته است."
     },
     {
       "VOrder": 34,
@@ -843,7 +860,8 @@
       "Text": "که گر تخت ایران به چنگ آوری",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: اگر بتوانی سلطنت ایران را به دست بیاوری، زمانه با تو خوب خواهد بود و از قضاوت و انتقام دور خواهد ماند."
     },
     {
       "VOrder": 36,
@@ -859,7 +877,8 @@
       "Text": "ازین مرز تا آن بسی راه نیست",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: از این مرز تا آن طرف راهی نیست، سمنگان و ایران و توران همه یکسان هستند."
     },
     {
       "VOrder": 38,
@@ -875,7 +894,8 @@
       "Text": "فرستمت هرچند باید سپاه",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: اگرچه تو باید فرمانروایی کنی و بر تخت سلطنت بنشینی، اما من تو را فرستادم."
     },
     {
       "VOrder": 40,
@@ -891,7 +911,8 @@
       "Text": "به توران چو هومان و چون بارمان",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: به سرزمین توران، همچون هومان و بارمان، دلیر و فرمانده‌ای وجود نداشت که به راستی بی‌تردید باشد."
     },
     {
       "VOrder": 42,
@@ -907,7 +928,8 @@
       "Text": "فرستادم اینک به فرمان تو",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: به فرمان تو، مهمان‌هایی را برایت فرستادم تا مدتی در کنارت باشند."
     },
     {
       "VOrder": 44,
@@ -923,7 +945,8 @@
       "Text": "اگر جنگ جویی تو جنگ آورند",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: اگر تو در جنگ و نبرد مهارت داشته باشی، دنیا بر بداندیشان و بدخواهان تنگ خواهد شد و شرایط برای آنها سخت و دشوار می‌گردد."
     },
     {
       "VOrder": 46,
@@ -939,7 +962,8 @@
       "Text": "چنین نامه و خلعت شهریار",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: نامه و هدیه‌ای از شاه به همراه تعدادی سوار از جایی برده شد."
     },
     {
       "VOrder": 48,
@@ -955,7 +979,8 @@
       "Text": "به سهراب آگاهی آمد ز راه",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: از راهی به سهراب خبر رسید که از هومان و بارمان و سپاه آمده است."
     },
     {
       "VOrder": 50,
@@ -971,7 +996,8 @@
       "Text": "پذیره بشد با نیا همچو باد",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: بانیا، همچون باد در حال حرکت، به استقبال آمد و دلش پس از دیدن سپاهیان بسیار شاد شد."
     },
     {
       "VOrder": 52,
@@ -987,7 +1013,8 @@
       "Text": "چو هومان ورا دید با یال و کفت",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: وقتی هومان او را با یال و کفت دید، از شگفتی دچار حیرت شد و در جا ماند."
     },
     {
       "VOrder": 54,
@@ -1003,7 +1030,8 @@
       "Text": "بدو داد پس نامهٔ شهریار",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: پس از آن، نامه‌ای از سوی پادشاه به او داده شد که در آن هدیه‌ای شامل اسب و الاغ قرار داشت."
     },
     {
       "VOrder": 56,
@@ -1019,7 +1047,8 @@
       "Text": "جهانجوی چون نامهٔ شاه خواند",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: جهانجوی وقتی نامهٔ شاه را خواند، از آن مکان سریعاً لشکر را به حرکت درآورد."
     },
     {
       "VOrder": 58,
@@ -1035,7 +1064,8 @@
       "Text": "کسی را نبد پای با او بجنگ",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: هرگز با کسی که توانایی یا قدرت بیشتری دارد، درگیر نشو. اگر در موقعیتی قرار گرفتی که باید با یک شیر (سمبل قدرت) مواجه شوی، هرگز خود را در مقابل پلنگ (نسبت به شیر ضعیف‌تر) قرار نده."
     },
     {
       "VOrder": 60,
@@ -1051,7 +1081,8 @@
       "Text": "دژی بود کش خواندندی سپید",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: در اینجا به تصویری اشاره شده است از یک دژ سفید که مردم آن را مرغوب می‌دانند و به آن امید دارند. دژ به عنوان نمادی از قوت و استقامت افرادی است که به ایرانیان مربوط می‌شود و امید آنها را نمایان می‌کند."
     },
     {
       "VOrder": 62,
@@ -1067,7 +1098,8 @@
       "Text": "نگهبان دژ رزم دیده هجیر",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: نگهبان دژ کسی است که با شجاعت و قدرت از آن دفاع می‌کند و برای حفاظت از آن تلاش می‌کند. او با اراده قوی و ابزار لازم به مراقبت از دژ می‌پردازد."
     },
     {
       "VOrder": 64,
@@ -1083,7 +1115,8 @@
       "Text": "هنوز آن زمان گستهم خرد بود",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: هنوز زمان آن رسیده بود که آگاهی به خود آید و به سمت خرد و دانایی حرکت کند و آغاز کند به گردآوری دانش و تجربه."
     },
     {
       "VOrder": 66,
@@ -1099,7 +1132,8 @@
       "Text": "یکی خواهرش بود گرد و سوار",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: یک خواهر داشت که سرسخت و مغرور بود و به خاطر بداندیشی و گردن‌کشی‌اش معروف بود."
     },
     {
       "VOrder": 68,
@@ -1115,7 +1149,8 @@
       "Text": "چو سهراب نزدیکی دژ رسید",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: وقتی سهراب به نزدیک دژ رسید، جنگجوی شجاع هجیر را دید."
     },
     {
       "VOrder": 70,
@@ -1131,7 +1166,8 @@
       "Text": "نشست از بر بادپای چو گرد",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: از روی باد پای نشسته، همانند گردی که از دژ دور می‌شود، افرادی به سمت دشت نبرد حرکت کردند."
     },
     {
       "VOrder": 72,
@@ -1147,7 +1183,8 @@
       "Text": "چو سهراب جنگ‌آور او را بدید",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: وقتی سهراب، جنگجو، او را دید، خشمگین شد و شمشیر انتقام را بالا برد."
     },
     {
       "VOrder": 74,
@@ -1163,7 +1200,8 @@
       "Text": "ز لشکر برون تاخت برسان شیر",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: شیر به جلو حمله کرد و دلیر به درون لشکر هجیر وارد شد."
     },
     {
       "VOrder": 76,
@@ -1179,7 +1217,8 @@
       "Text": "چنین گفت با رزم‌دیده هجیر",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: هجیر به رزم‌دیده می‌گوید: تنها به میدان جنگ آمده‌ای و این کار تو ناپخته و بی‌فکر است."
     },
     {
       "VOrder": 78,
@@ -1195,7 +1234,8 @@
       "Text": "چه مردی و نام و نژاد تو چیست",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: چه آدم بزرگی هستی و خانواده‌ات چه کسی است که باید به خاطر زایندگی‌ات برای تو گریه کرد؟"
     },
     {
       "VOrder": 80,
@@ -1211,7 +1251,8 @@
       "Text": "هجیرش چنین داد پاسخ که بس",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: هجیر به او پاسخ داد که بهتر است به زبان ترکی صحبت نکنم و نیازی به یاری از کسی ندارم."
     },
     {
       "VOrder": 82,
@@ -1227,7 +1268,8 @@
       "Text": "هجیر دلیر و سپهبد منم",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: من دلیر و فرمانده‌ام و اگر بخواهم، همین حالا سر تو را از بدنت جدا می‌کنم."
     },
     {
       "VOrder": 84,
@@ -1243,7 +1285,8 @@
       "Text": "فرستم به نزدیک شاه جهان",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: می‌خواهم بدنت را به نزد پادشاه جهان بفرستم و در زیر خاک مخفی کنم."
     },
     {
       "VOrder": 86,
@@ -1259,7 +1302,8 @@
       "Text": "بخندید سهراب کاین گفت‌وگوی",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: سهراب لبخند زد چون این گفتگو را شنید و با دقت به آن گوش فرا داد."
     },
     {
       "VOrder": 88,
@@ -1275,7 +1319,8 @@
       "Text": "چنان نیزه بر نیزه برساختند",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: آن‌ها به قدری نیزه‌هایی را روی هم قرار دادند که نتوانستند آن‌ها را از یکدیگر تشخیص دهند."
     },
     {
       "VOrder": 90,
@@ -1291,7 +1336,8 @@
       "Text": "یکی نیزه زد بر میانش هجیر",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: یکی نیزه‌ای به وسط او زد، اما هجیر (برادر رستم) نتوانست سنان (نزدیک‌ترین نقطه) را به او برساند و در آنجا قرار گیرد."
     },
     {
       "VOrder": 92,
@@ -1307,7 +1353,8 @@
       "Text": "سنان باز پس کرد سهراب شیر",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: در این بیت، اشاره به نبرد بین سهراب و رستم است. سهراب، شیر جوانی و نیرومند، در حال جنگ است و رستم با نیرویی از تمامی توانش، ضربه‌ای به دل سهراب می‌زند. این موضوع نشان‌دهنده‌ی قدرت و شجاعت رستم و در عین حال مشخص‌کننده‌ی سرنوشت تلخ سهراب است."
     },
     {
       "VOrder": 94,
@@ -1323,7 +1370,8 @@
       "Text": "ز زین برگرفتش به کردار باد",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: او همچون باد از زین بیرون رفت و هیچ نشانه‌ای از او در دل باقی نماند."
     },
     {
       "VOrder": 96,
@@ -1339,7 +1387,8 @@
       "Text": "ز اسپ اندر آمد نشست از برش",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: اسب از پا افتاد و سوارش آرزو داشت که از بدنش جدا شود."
     },
     {
       "VOrder": 98,
@@ -1355,7 +1404,8 @@
       "Text": "بپیچید و برگشت بر دست راست",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: شخصی در حال حرکت بود که ناگهان با روح یا یاد و خاطره‌ای از سهراب مواجه شد و این باعث ایجاد حس غم و نگرانی در او شد."
     },
     {
       "VOrder": 100,
@@ -1371,7 +1421,8 @@
       "Text": "رها کرد ازو چنگ و زنهار داد",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: او از خطر رهایی یافت و وقتی که خشنود شد، نصیحت‌های زیادی به او کرد."
     },
     {
       "VOrder": 102,
@@ -1387,7 +1438,8 @@
       "Text": "ببستش ببند آنگهی رزمجوی",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: او را به محلی نزدیک هومان فرستاد و سپس او را به زنجیر کشید."
     },
     {
       "VOrder": 104,
@@ -1403,7 +1455,8 @@
       "Text": "به دژ در چو آگه شدند از هجیر",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "هوش مصنوعی: وقتی در دژ متوجه شدند که هجیر را دستگیر کرده و به اسیری برده‌اند."
     },
     {
       "VOrder": 106,
@@ -1419,7 +1472,8 @@
       "Text": "خروش آمد و نالهٔ مرد و زن",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "هوش مصنوعی: همهٔ مردم به شدت ناله و فریاد کردند که تعداد کسانی که در آن جمع بودند کم شده است."
     },
     {
       "VOrder": 108,

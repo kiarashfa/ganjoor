@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "درین محیط که سرگشتگی ست حاصل ما",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این مکان پر از آشفتگی و گیجی، ما نیز مانند چیزی که در گرداب افتاده است، گم و بی‌هدف هستیم و نمی‌دانیم باید به کجا برویم."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "گر عشق تو بی سوز ببیند تن ما را",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر عشق تو بدون آتش باشد، تن ما را مانند شمع در شب غم تو ذوب می‌کند."
     },
     {
       "VOrder": 4,

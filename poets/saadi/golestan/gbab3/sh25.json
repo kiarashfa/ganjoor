@@ -36,13 +36,15 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "ابلهی را دیدم سَمین، خِلعتی ثَمین در بر و مَرْکَبی تازی در زیر و قَصَبی مصری بر سر.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "نادانی فربه را دیدم، جامه‌ای گرانبها پوشیده و بر اسبی عَرَبی سوار و دَستاری از کتانِ نازکِ مصری بر سر نهاده."
     },
     {
       "VOrder": 2,
       "Position": "Paragraph",
       "Text": "کسی گفت: سعدی! چگونه همی‌بینی این دیبای مُعْلَمْ بر این حیوانِ لا‌یَعْلَمْ؟",
-      "CoupletIndex": 1
+      "CoupletIndex": 1,
+      "CoupletSummary": "شخصی گفت: ای سعدی! این حریرِ نگارین را بر این جانورِ نادان چگونه یافتی؟"
     },
     {
       "VOrder": 3,
@@ -55,7 +57,8 @@
       "Position": "Right",
       "Text": "قَدْ شٰابَهَ بِالْوَرَیٰ حِمارٌ",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "خری است که شبیه مردم شده استِ گوساله هیکلی که صدایش مانند گاو است."
     },
     {
       "VOrder": 5,
@@ -68,14 +71,16 @@
       "VOrder": 6,
       "Position": "Paragraph",
       "Text": "یک خلقتِ زیبا به از هزار خلعتِ دیبا.",
-      "CoupletIndex": 4
+      "CoupletIndex": 4,
+      "CoupletSummary": "هوش مصنوعی: یک اثر زیبا به مراتب ارزشمندتر از هزار لباس نفیس است."
     },
     {
       "VOrder": 7,
       "Position": "Right",
       "Text": "به آدمی نتوان گفت مانَد این حیوان",
       "CoupletIndex": 5,
-      "SectionIndex1": 1
+      "SectionIndex1": 1,
+      "CoupletSummary": "این جانورِ آدمی‌روی را نتوان مردمِ آدمی‌خوی دانست، که جز به جامه و عمّامه و صورت شبیه مردم نیست؛"
     },
     {
       "VOrder": 8,
@@ -89,7 +94,8 @@
       "Position": "Right",
       "Text": "بگرد در همه اسبابِ مِلک و هستیِ او",
       "CoupletIndex": 6,
-      "SectionIndex1": 1
+      "SectionIndex1": 1,
+      "CoupletSummary": "در رَخْت و پَخْت و دارایی وی جستجو کن، همه را حرام خواهی یافت جز خونَش که گویی ریختن آن رواست."
     },
     {
       "VOrder": 10,

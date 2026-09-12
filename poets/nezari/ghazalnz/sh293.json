@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ما را سخنِ مولّهانه ست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما صحبت‌های عاقلانه‌ای داریم و تو گمان می‌کنی که این‌ها فقط داستان و افسانه هستند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گرچه سخنی رود دو وجهی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با وجود اینکه یک گفتار می‌تواند معانی مختلفی داشته باشد، اما در نهایت به یک حقیقت یا اصل واحد اشاره می‌کند."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "این یک به اضافت است و کثرت",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اینجا به این موضوع اشاره می‌شود که یکی از مفهوم‌ها به عدد و شمارش مربوط می‌شود و اشاره به تنوع و کثرت دارد، در حالی که مفهوم دیگر به یگانگی و وحدت اشاره می‌کند. به عبارت دیگر، یکی نمایانگر تعدد است و دیگری نشاندهنده یکپارچگی و هماهنگی."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "عقل ار چه مقدّم است لیکن",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عقل هرچند از اهمیت بالایی برخوردار است، اما خودش نیز تحت تأثیر شرایط و پیشرفت‌های زمانه قرار می‌گیرد."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "بشنو که مدارِ عشق بر چیست",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به شنیدن توجه کن که عشق بر چه چیزی استوار است و این سخن، نکته‌ای واقعی و مهم را بیان می‌کند."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "بر نقطۀ امرو نقطۀ جان",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امروز، نقطه‌ای است که به زندگی واقعی و ابدی ما مربوط می‌شود و می‌تواند سرآغاز تحولی بزرگ باشد."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "بحری متغیّرست و دروی",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دریا همواره در حال تغییر است و در آن نه عمق مشخصی وجود دارد و نه ساحلی برای پایان آن."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "در آرزویِ لب و کناری",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در آرزوی رسیدن به لب و کنار یک نکته جالب در این میان وجود دارد."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "هان تا بزنیم دست و پایی",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیایید تلاش کنیم و فعالیتی داشته باشیم تا ببینیم در این گمانه چه چیزی واقعی است."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "عشق است و می و می و نزاری",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق و شراب و زیبایی، همه چیزهایی هستند که به نوعی بهانه و فریبند."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "هر جا که زمرحلی برفتیم",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر جا که به مرحله‌ای از زندگی رسیدیم، جایی که توقف می‌کنیم، به نوعی محل نوشیدن شراب است."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "در سایۀ قصرِ او نشستیم",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در زیر سایه قصر او نشسته‌ایم، هر پرنده خود خانه‌اش را دارد."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "ما لایقِ صدرِ او نباشیم",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر ما شایسته‌ی جایگاهی نباشیم، پس سر ما در برابر آستان اوست."
     },
     {
       "VOrder": 26,

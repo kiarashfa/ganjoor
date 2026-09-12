@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "ای شده مَحْرَمِ مجالس، پس",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که به خاطر حضور تو در مجالس، راز هر جلسه به تو سپرده می‌شود، پس این اطلاعات نزد تو امانت است و باید نگه‌داری."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "مکن افشای راز مجلسِ کس",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: راز کسی را در جمع فاش نکن، زیرا افشای آن به معنای خیانت به اوست."
     },
     {
       "VOrder": 4,

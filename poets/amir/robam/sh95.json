@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "خرگه زند وکارکسی نگشاید",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی خانه‌ای افتتاح می‌شود، اما کسی در آن کار نمی‌کند، آشپزخانه هم به کسی غذایی نمی‌دهد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گر دود به مطبخش درآید شاید",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دودی به آشپزخانه او بیفتد، ممکن است که از خود آشپزخانه نیز دودی بلند شود."
     },
     {
       "VOrder": 4,

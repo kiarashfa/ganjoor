@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "سرو و گل گوئی از چمن برخاست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سرو و گل از میان چمن بیرون آمدند و به جمعیت پیوستند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "نه بسوای گل ببوی تو بود",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بلبل که از میان گل‌ها و عطر تو شاداب و سرمست است، تنها به خاطر زیبایی و بوی تو این‌گونه شورانگیز می‌خواند."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "رفت و بنشست با رقیب ببزم",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او رفت و به جمع رقیب نشست، در هنگامه‌ای که راستگویان حاضر بودند. تو همی خواستی که به خاطر من، دست به قتل او بزنند."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "نیست کس را ببزم جای نشست",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس جایی برای نشستن در میهمانی ندارد، تا وقتی که آن سرو خوش‌ قامت بلند شود."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "پی آثار لیلی و سلمی",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به دنبال نشانه‌های لیلی و سلمی، لاله از دشت و گلزار سر بلند کرده است."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "خضر کی دیده گرد آب حیات",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خضر که در افسانه‌ها نماد زندگی جاویدان است، چگونه می‌تواند گیاه تو را که از دهان تو بیرون آمده و نشانه‌ای از حیات است، ببیند؟ این نشان‌دهنده‌ی ارزش و اهمیت وجود تو و سرچشمه‌ی زندگی‌ات است."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "گر بلائیست زآن قد و بالاست",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بلای عشق از قد و قامت اوست، فتنه‌ای که از چشمانش برمی‌خیزد، ناشی از آن Beauty است."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "نم آبی فشاند چشمم دوش",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دیروز چشم من اشکی ریخت که بر اثر آن غبار وجودم برطرف شد."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "داغها داشتم نهان در جان",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من غم‌های زیادی در دل دارم که به خاطر آن، درد و رنج من به شکل بخاری از کفن بیرون می‌آید."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "نیست جز نور شمع پروانه",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تنها نوری که پروانه را به سوی خودش می‌کشاند، از شمع ناشی می‌شود و اگر شعله‌ای از آن بلند شود، این نور از پیراهنش برمی‌خیزد."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "سر نهد بحر عشق را چو حباب",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کس که در این مکان حضور دارد، مانند حبابی که در دریاچه عشق غوطه‌ور است، خود را به عشق می‌سپارد و از خود بی‌خبر می‌شود."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "بر سر کوی تست خاک نشین",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در کنار خیابان تو، من خاک‌نشین و بی‌نهایت عاشق هستم، اگرچه در خانه‌ای دیگر زندگی می‌کنم."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "در درون جلوه کرد نور علی",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نور علی مانند پری در درون خود نمایان شد و اهرمن (نماد شر) به پا خاست."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "شد گره در دل من آشفته",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من از هر طرف تحت تأثیر آن زلف پرچین و شکننده تو قرار گرفته و دچار اضطراب و سردرگمی شده است."
     },
     {
       "VOrder": 28,

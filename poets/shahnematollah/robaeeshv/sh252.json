@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گرچه زخمی رسیده است بر پایم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با وجود اینکه زخمی بر پایم دارم، من بدون توجه به درد و مشکل به خدمتت خواهم آمد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "در راه تو از سر قدمی می‌ سازم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در مسیر تو، از یک قدم کوچک، می‌ سازم پاهایی را که برای رسیدن به تو لازم است. چه چیز دیگری بر من لازم است تا به تو برسم؟"
     },
     {
       "VOrder": 4,

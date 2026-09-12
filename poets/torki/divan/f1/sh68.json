@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "ای دل! از خواب شو دمی بیدار",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دل! لحظه‌ای بیدار شو، شجاعت را به دست بیاور و تنبلی را کنار بگذار."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "شب به سر رفت و، آفتاب دمید",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شب به پایان رسید و صبح فرا رسید. برخیز و آبی به صورتت بزن."
     },
     {
       "VOrder": 4,
@@ -54,7 +56,8 @@
       "Position": "Right",
       "Text": "سفری پیش داری، ای غافل!",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شما سفری در پیش دارید، ای ناآگاه! راه طولانی است، پس بهتر است آماده باشید و وسایل لازم را بردارید."
     },
     {
       "VOrder": 6,
@@ -68,7 +71,8 @@
       "Position": "Right",
       "Text": "کاروان بار بست و، رفت از پیش",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کاروان بار خود را بسته و از کنار تو رفته است؛ هم از جلو و هم از عقب، بر حذر باش."
     },
     {
       "VOrder": 8,
@@ -82,7 +86,8 @@
       "Position": "Right",
       "Text": "چشم بگشا و، راه راست برو",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم‌هات را باز کن و به راه درست برو. راه نادرست را فراموش کن، ای انسان آگاه!"
     },
     {
       "VOrder": 10,
@@ -96,7 +101,8 @@
       "Position": "Right",
       "Text": "گر ببارت متاع سنگین نیست",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کالا و بار تو سنگین و با ارزش نیست، زودتر از آنجا بگذر و نگران نباش."
     },
     {
       "VOrder": 12,
@@ -110,7 +116,8 @@
       "Position": "Right",
       "Text": "عقل خود را اسیر نفس مکن",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عقل خود را تحت تاثیر خواسته‌های نفسانی قرار نده، زیرا در نهایت ممکن است باعث پشیمانی‌ات شود."
     },
     {
       "VOrder": 14,
@@ -124,7 +131,8 @@
       "Position": "Right",
       "Text": "کی تواند دگر که فتح کند",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کیست که بتواند سپاهی را دوباره پیروز کند که فرمانده‌اش به قتل رسیده است؟"
     },
     {
       "VOrder": 16,
@@ -138,7 +146,8 @@
       "Position": "Right",
       "Text": "تا نسوزد دلت ز آتش عشق",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای اینکه به وصال محبوب برسی، باید قلبت از آتش عشق نسوزد؛ در غیر این صورت نمی‌توانی به آن هدف برسی."
     },
     {
       "VOrder": 18,
@@ -152,7 +161,8 @@
       "Position": "Right",
       "Text": "گر به عقل تو نفسی غالب شد",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بر فکرت غلبه‌ای پیدا شود، دیگر نباید از آن امیدی به خوب بودن داشته باشی."
     },
     {
       "VOrder": 20,
@@ -166,7 +176,8 @@
       "Position": "Right",
       "Text": "پخته کی می شود گل کوزه؟",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گل کوزه تا در آتش پخته نشود، به سرانجام نمی‌رسد. بدون حرارت و فرآیندی که او را شکل دهد، رشد و ترقی ندارد."
     },
     {
       "VOrder": 22,
@@ -180,7 +191,8 @@
       "Position": "Right",
       "Text": "خانه کی جای دوست خواهد شد؟",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خانه زمانی می‌تواند به جای دوستی تبدیل شود که تو آن را از دست دیگران رها کنی و به آن توجه کنی."
     },
     {
       "VOrder": 24,
@@ -194,7 +206,8 @@
       "Position": "Right",
       "Text": "رخ در آیینه، کی توانی دید؟",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چقدر می‌توانی چهره‌ات را در آینه ببینی، وقتی که غبار و کدورت از چهره‌ات دور نشود؟"
     },
     {
       "VOrder": 26,
@@ -208,7 +221,8 @@
       "Position": "Right",
       "Text": "ره به منزل کجا بری تا صبح؟",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کجا می‌خواهی به مقصد برسی تا صبح؟ تو که در این شب تار به بیراهه می‌روی."
     },
     {
       "VOrder": 28,
@@ -222,7 +236,8 @@
       "Position": "Right",
       "Text": "تو که در کیسه ات بود زر قلب",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی در دلت تنها پشیمانی وجود دارد و هیچ ثروتی در اختیار نداری، چه چیزی می‌توانی از بازار زندگی به دست آوری؟"
     },
     {
       "VOrder": 30,
@@ -236,7 +251,8 @@
       "Position": "Right",
       "Text": "یک دم از یاد حق مشو غافل",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرگز از یاد خدا غافل نشو، تا از عذاب جهنم و آتش در امان بمانی."
     },
     {
       "VOrder": 32,
@@ -250,7 +266,8 @@
       "Position": "Right",
       "Text": "رحم کن بر پیاده گان غریب",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: لطفاً به کسانی که بی‌سرپناه و بدون وسیله نقلیه هستند رحم کن، ای کسی که بر اسب قدرت و اعتبار سوار هستی!"
     },
     {
       "VOrder": 34,
@@ -264,7 +281,8 @@
       "Position": "Right",
       "Text": "سهل مشمار مردم آزاری",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آزار دادن دیگران را آسان نپندار، زیرا ممکن است روزی پشیمان شوی و آن روز به حساب خواهی آورد."
     },
     {
       "VOrder": 36,
@@ -278,7 +296,8 @@
       "Position": "Right",
       "Text": "دل مظلومی ار برنجانی",
       "CoupletIndex": 18,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دل یک انسان بی‌گناه را آزار دهی، به خاطر ظلمی که از یک ظالم خشن می‌بیند، به شدت او رنج خواهد برد."
     },
     {
       "VOrder": 38,
@@ -292,7 +311,8 @@
       "Position": "Right",
       "Text": "به تلافی یک دل آزردن",
       "CoupletIndex": 19,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی دل کسی را بشکند، هیچ مقدار عذرخواهی و استغفار نمی‌تواند آن را جبران کند."
     },
     {
       "VOrder": 40,
@@ -306,7 +326,8 @@
       "Position": "Right",
       "Text": "تو اگر بد کنی به کس، دیگر",
       "CoupletIndex": 20,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به کسی کار بدی انجام دهی، نباید انتظار داشته باشی که خودت از دیگران خوبی ببینی."
     },
     {
       "VOrder": 42,
@@ -320,7 +341,8 @@
       "Position": "Right",
       "Text": "غیر از این راه نیست راه نجات",
       "CoupletIndex": 21,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جز این راه، راهی برای نجات وجود ندارد. بارها به تو خواهم گفت."
     },
     {
       "VOrder": 44,
@@ -334,7 +356,8 @@
       "Position": "Right",
       "Text": "بهتر از این رهی که من گفتم",
       "CoupletIndex": 22,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو راهی بهتر از آنچه من بیان کرده‌ام می‌شناسی، بیا و آن را با خودت بیاور."
     },
     {
       "VOrder": 46,
@@ -348,7 +371,8 @@
       "Position": "Right",
       "Text": "کلک «ترکی» که خوش سخن مرغی است",
       "CoupletIndex": 23,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پرنده‌ای خوش‌زبان به نام «ترکی» که سخنان نیکو و دلنشین می‌گوید، پیوسته نکته‌های خوب و پندهایش را به من منتقل می‌کند."
     },
     {
       "VOrder": 48,
@@ -362,7 +386,8 @@
       "Position": "Right",
       "Text": "بارالها! زجرم او بگذار",
       "CoupletIndex": 24,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای خدا! عذاب و رنج من را به محمد و اهل بیت او بسپار."
     },
     {
       "VOrder": 50,

@@ -1481,7 +1481,8 @@
       "Text": "مغنی ره باستانی بزن",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "خنیاگرا! یاد باستان کن و به آیین مُغان آهنگ مُغانی بنواز."
     },
     {
       "VOrder": 2,
@@ -1497,7 +1498,8 @@
       "Text": "من بینوا را به آن یک نوا",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "من بینوا را با آن آهنگ گرامی دار و هوای دلم را گرم‌تر کن."
     },
     {
       "VOrder": 4,
@@ -1513,7 +1515,8 @@
       "Text": "گزین فیلسوف جهان‌آزما‌ی",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "دانشمند برگزیدهٔ جهان دیده، پرده سخن را چنین گشوده است:"
     },
     {
       "VOrder": 6,
@@ -1529,7 +1532,8 @@
       "Text": "که قبطی زنی بود در مُلک شام",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "در سرزمین شام زنی قبطی بود که پدرش او را ماریه نامیده بود. (میری‌: شاهی، یعنی پدر نامی شاهانه برای او برگزید یا پدر شاهش او را ماریه نامید)"
     },
     {
       "VOrder": 8,
@@ -1545,7 +1549,8 @@
       "Text": "بسی قلعهٔ نامور داشته",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "[در آنجا] قلعه‌های نام‌آوری داشت که از دست دشمن و ستم بدخوهان آنها را رها کرده‌بود."
     },
     {
       "VOrder": 10,
@@ -1561,7 +1566,8 @@
       "Text": "بدو گشته بدخواه او چیره‌دست",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "بدخواه و دشمنانش بر او چیره گشته و جهان را به کامش تلخ کرده‌بودند."
     },
     {
       "VOrder": 12,
@@ -1577,7 +1583,8 @@
       "Text": "چو کارش ز دشمن به جان آمده",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "چون از دست دشمن جانش به لب رسیده، به پیشگاه شاهِ جهان آمده‌بود."
     },
     {
       "VOrder": 14,
@@ -1593,7 +1600,8 @@
       "Text": "بدان تا بخواهد ز شه داد خویش",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "برای اینکه از پادشاه داد بخواهد و از آباد شدن سرزمین خود شاد گردد،"
     },
     {
       "VOrder": 16,
@@ -1609,7 +1617,8 @@
       "Text": "به دُستورِ شه برد خود را پناه",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "به دُستورِ (=وزیر) شاه پناه برد و سپس از او دادخواهی کرد."
     },
     {
       "VOrder": 18,
@@ -1625,7 +1634,8 @@
       "Text": "چو دیدش که دُستورِ دانش‌پژوه",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هنگامی که دید وزیر (=دُستور) دانش‌پژوه بسیار داناست و در چندین رشته علوم متبحّر است."
     },
     {
       "VOrder": 20,
@@ -1641,7 +1651,8 @@
       "Text": "از آن دادخواهی هراسان شده",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "از دادخواهی پشیمان شد و به آموختن دانش متمایل شد."
     },
     {
       "VOrder": 22,
@@ -1657,7 +1668,8 @@
       "Text": "دل از قصهٔ\u00A0داد و بیداد شست",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "از داستان ستم و دادخواهی دل کند و به آموختن دانش کمر همّت بست."
     },
     {
       "VOrder": 24,
@@ -1673,7 +1685,8 @@
       "Text": "به خدمت‌گر‌ی پیش دانای دهر",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "در خدمت به دانای زمان، خدمتکاری بی‌پروا شد."
     },
     {
       "VOrder": 26,
@@ -1689,7 +1702,8 @@
       "Text": "ز دیگر کنیزان پایین پرست",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "از دیگر کنیزان خدمتکار، کسی جز او محرم آب‌دست نبود [جز او کسی محرم ریختن آب بر دستان او نبود]. (در گذشته،\u00A0پیش و پس از غذا،\u00A0از آفتابه لگن برای شستن دست‌ها استفاده می‌شده است.)"
     },
     {
       "VOrder": 28,
@@ -1705,7 +1719,8 @@
       "Text": "ز پرهیزگار‌ی که بود استاد",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "از آنجا که استاد پرهیزگار بود، هرگاه که ماریه رخ می‌گشود، او نگاه نمی‌کرد."
     },
     {
       "VOrder": 30,
@@ -1721,7 +1736,8 @@
       "Text": "ز دستی چنان کاب از او می‌چکید",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "از دستان بسیار زیبا و لطیف او، جز آبی که بر دستش می‌ریخت چیزی ندید."
     },
     {
       "VOrder": 32,
@@ -1737,7 +1753,8 @@
       "Text": "چو زن دید که‌استاد پرهیزگار",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "وقتی که زن دید، آن استاد پرهیزکار به اندام سیمین او بی‌رغبت است. (کافور اولی کنایه‌است از سپیدی و سیم‌اندامی آن زن)"
     },
     {
       "VOrder": 34,
@@ -1753,7 +1770,8 @@
       "Text": "ز میلی که باشد زنان را به مرد",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "کاملا دلش از آن گرایشی که زنان به مردان دارند، سرد شد."
     },
     {
       "VOrder": 36,
@@ -1769,7 +1787,8 @@
       "Text": "منش داد در دانش آموختن",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "دل به آموختن دانش داد و از اندوختن دانش سامان گرفت."
     },
     {
       "VOrder": 38,
@@ -1785,7 +1804,8 @@
       "Text": "ارسطو‌ی دانا بدان دلنواز",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "[استاد همچون] ارسطوی دانا، دروازه دانش خود را به روی آن دلنواز گشود."
     },
     {
       "VOrder": 40,
@@ -1801,7 +1821,8 @@
       "Text": "بسی دُر بر آن دُر ناسفته سفت",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "گوهر خام او را با گوهر خود جلا داد و گفتنی‌های ناگفته را به او گفت."
     },
     {
       "VOrder": 42,
@@ -1817,7 +1838,8 @@
       "Text": "از آن علم که‌آسان نیاید به‌ دست",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "از دانشی که آسان به دست نمی‌آید، هرچه که بود، در اختیار او گذاشت."
     },
     {
       "VOrder": 44,
@@ -1833,7 +1855,8 @@
       "Text": "زن دانش‌آموز دانش سرشت",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "زن آموزنده دانش و دانش‌دوست وقتی‌که در هر دانشی صاحب‌نظر شد ( و پایان‌نامه‌ای نوشت)"
     },
     {
       "VOrder": 46,
@@ -1849,7 +1872,8 @@
       "Text": "سوی کشور خویشتن کرد رای",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "بر آن شد که به سوی کشور خود برگردد و آیین نیاکان را به جای آورد."
     },
     {
       "VOrder": 48,
@@ -1865,7 +1889,8 @@
       "Text": "بدان داوری دستگاهی نداشت",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "برای انجام چنین کاری، سرمایه‌ای نداشت و برای راه توشه‌ای. (به استناد لغتنامه دهخدا 1-معنی دیگر «داوری» عبارت است از «کار و امر» 2-«دستگاه» به معنی «سرمایه» و «توانایی» نیز آمده است.)"
     },
     {
       "VOrder": 50,
@@ -1881,7 +1906,8 @@
       "Text": "چو دُستورِ دانا چنین دید کار",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "چون وزیر زیرک کار را چنین دید که [زن] بدون گنج نمی‌تواند شهریار شود،"
     },
     {
       "VOrder": 52,
@@ -1897,7 +1923,8 @@
       "Text": "بر آن جوهر انداخت اکسیر زر",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "بر گوهر او اکسیر زر ریخت و او را با اکسیر دانش خود، کیمیاگر کرد."
     },
     {
       "VOrder": 54,
@@ -1913,7 +1940,8 @@
       "Text": "بدان کیمیا ماریه میر گشت",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "ماریه با آن کیمیا، شهریار شد و به دارندهٔ\u00A0علم کیمیا معروف گشت."
     },
     {
       "VOrder": 56,
@@ -1929,7 +1957,8 @@
       "Text": "چو از دانش خویش دُستورِ شاه",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "چون وزیر شاه با چنان گنجی از دانش خود، سرمایه لازم را به او داد،"
     },
     {
       "VOrder": 58,
@@ -1945,7 +1974,8 @@
       "Text": "به دستوری شه سوی کشور‌ش",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "به نمایندگی شاه، او را همراه با لشگر و گنج، به سوی سرزمینش فرستاد. (یعنی آن وزیر او را از سوی شاه، به‌سرزمین خود فرستاد و حاکم آنجا کرد)"
     },
     {
       "VOrder": 60,
@@ -1961,7 +1991,8 @@
       "Text": "شتابنده چون سوی کشور شتافت",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "شتابان سوی کشورش رفت و آرام آرام به بازسازی آن پرداخت."
     },
     {
       "VOrder": 62,
@@ -1977,7 +2008,8 @@
       "Text": "چنان گشت مستغنی از ساو و باج",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "چنان بی‌نیاز از باج و خراج شد که مالیات را از کشورش برداشت."
     },
     {
       "VOrder": 64,
@@ -1993,7 +2025,8 @@
       "Text": "به اکسیر‌کار‌ی چنان شد تمام",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "چنان در اکسیرکاری سرآمد شد که سیمِ خام (نقرهٔ خام) را به زر تبدیل می‌کرد."
     },
     {
       "VOrder": 66,
@@ -2009,7 +2042,8 @@
       "Text": "ز بس زر که آن سیمتن ساز کرد",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "آن سیمتن، از بس زر فراهم آورد که دروازه گنج را بر خاکیان گشود."
     },
     {
       "VOrder": 68,
@@ -2025,7 +2059,8 @@
       "Text": "چه زر در ترازو‌ی آن کس چه سنگ",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "کسی که زر بی‌اندازه و زیاد به دست می‌آورد، زر و سنگ برایش یکی است. (بی‌ترازو‌: سنگین‌، مقدار فراوان)"
     },
     {
       "VOrder": 70,
@@ -2041,7 +2076,8 @@
       "Text": "ز لشگرگهش کس نیامد به‌ دست",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "از لشگریانش کسی نبود که نعل اسب او زر نباشد."
     },
     {
       "VOrder": 72,
@@ -2057,7 +2093,8 @@
       "Text": "به درگاه او هر که سر داشتی",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "راه هرکس به درگاهش می‌افتاد، حتی اگر خر بود پالانش از زر می‌شد!"
     },
     {
       "VOrder": 74,
@@ -2073,7 +2110,8 @@
       "Text": "ز بس زر که بر زیور انباشتند",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "از بس زر روی زر انباشته بودند که زنجیر سگان نیز از طلا بود."
     },
     {
       "VOrder": 76,
@@ -2089,7 +2127,8 @@
       "Text": "گروهی حکیمان دانش پرست",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "گروهی از حکیمان دانش‌پژوه که دچار تنگدستی شده‌ بودند،"
     },
     {
       "VOrder": 78,
@@ -2105,7 +2144,8 @@
       "Text": "از آن گنج پنهان خبر یافتند",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "از آن گنج پنهان آگاه شدند و به دیدن آن گنجینه شتافتند."
     },
     {
       "VOrder": 80,
@@ -2121,7 +2161,8 @@
       "Text": "نمودند خواهش بدان کان گنج",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "به آن معدن گنج گفتند که از تنگدستی رنج می‌برند."
     },
     {
       "VOrder": 82,
@@ -2137,7 +2178,8 @@
       "Text": "ندانیم چون دیگران پیشه‌ای",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "ما [برخلاف] دیگران در جهان، پیشه‌ای نمی‌دانیم مگر اندیشیدن."
     },
     {
       "VOrder": 84,
@@ -2153,7 +2195,8 @@
       "Text": "ز کسب جهان دامن افشانده‌ایم",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "کار و پیشه‌ای نداریم و به نان شب نیازمندیم."
     },
     {
       "VOrder": 86,
@@ -2169,7 +2212,8 @@
       "Text": "تواند که بانوی عاجز نواز",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "بانوی تنگدست‌نواز می‌تواند درِ گنج را به روی ما بگشاید."
     },
     {
       "VOrder": 88,
@@ -2185,7 +2229,8 @@
       "Text": "درآموزد از رای و تدبیر خویش",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "[می‌تواند] با رای و تدبیر خود، چیزی از دانش اکسیر به ما بیاموزد."
     },
     {
       "VOrder": 90,
@@ -2201,7 +2246,8 @@
       "Text": "جهان را چنین گنج گوهر بسی‌ست",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "جهان پر است از چنین گنج‌های زر و کلید هر گنج‌ در دست کسی."
     },
     {
       "VOrder": 92,
@@ -2217,7 +2263,8 @@
       "Text": "مگر قوت را چاره سازی کنیم",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "برای نان شب چاره باید کرد و از خلق جهان بی‌نیاز شد."
     },
     {
       "VOrder": 94,
@@ -2233,7 +2280,8 @@
       "Text": "زن کار پیرا‌ی روشن ضمیر",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "زن کار پیرای و روشن‌اندیش، خواهش آنها را پذیرفت."
     },
     {
       "VOrder": 96,
@@ -2249,7 +2297,8 @@
       "Text": "یکی منظر‌ی بود با آب و رنگ",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "جلوه‌گاه زیبایی بود با گنبدی برآمده از سنگ خارا."
     },
     {
       "VOrder": 98,
@@ -2265,7 +2314,8 @@
       "Text": "عروسانه برشد بر‌ آن جلوه‌گاه",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "مانند یک عروس، با ابریشمی سیاه بر گِرد رخسار، در آن جلوه‌گاه حاضر شد."
     },
     {
       "VOrder": 100,
@@ -2281,7 +2331,8 @@
       "Text": "برآموده چون نرگس و مشک و بید",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "گیسوی سیاه را\u00A0همچون نرگس، مشک و بید،\u00A0به مهره‌های سفید\u00A0آراسته بود."
     },
     {
       "VOrder": 102,
@@ -2297,7 +2348,8 @@
       "Text": "صلیبی دو گیسوی مشگین کمند",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "کمند دو گیسوی سیاه را با پیچ و تاب در آن مهره‌ها به شکل صلیب درآورده بود."
     },
     {
       "VOrder": 104,
@@ -2313,7 +2365,8 @@
       "Text": "به نظارگان گفت گیسو‌ی من",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "به حاضران گفت: «گیسوی مرا در کمان ابرویم نگاه کنید."
     },
     {
       "VOrder": 106,
@@ -2329,7 +2382,8 @@
       "Text": "نمودار اکسیر پنهانی‌ام",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "نشان اکسیر پنهانم را از پیشانی روشنم ببینید!»"
     },
     {
       "VOrder": 108,
@@ -2345,7 +2399,8 @@
       "Text": "نیوشندگان را در آن داوری",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "شنوندگان جلوه‌گاه، از آن سخنوری به اشتباه افتادند."
     },
     {
       "VOrder": 110,
@@ -2361,7 +2416,8 @@
       "Text": "یکی گفت اشارت بدان مهره بود",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "یکی می‌گفت که [آن زن] اشاره‌ داشت به مهره‌ای که چون زهره شفاف و درخشان بود."
     },
     {
       "VOrder": 112,
@@ -2377,7 +2433,8 @@
       "Text": "یکی راز پوشیده از موی جست",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "یکی، راز نهان را در گیسو جستجو می‌کرد زیرا اول مهره را با گیسویش دیده‌بود."
     },
     {
       "VOrder": 114,
@@ -2393,7 +2450,8 @@
       "Text": "گرفتند هر یک پی آن پیشه را",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "همه، با برداشتی نادرست، پیگیر آن کار شدند."
     },
     {
       "VOrder": 116,
@@ -2409,7 +2467,8 @@
       "Text": "از آن قصه هر یک دمی می‌شمرد",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "هر کس از آن داستان چیزی برداشت می‌کرد و کسی به ژرفنای آن پی نبرد."
     },
     {
       "VOrder": 118,
@@ -2425,7 +2484,8 @@
       "Text": "دگر روز خواهش برآراستند",
       "CoupletIndex": 59,
       "SectionIndex1": 0,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "روز دیگر، خواهش‌کردند و از آن موضوع‌، فصلی تازه درخواست کردند."
     },
     {
       "VOrder": 120,
@@ -2441,7 +2501,8 @@
       "Text": "پری‌رو‌ی بر طاق منظر نشست",
       "CoupletIndex": 60,
       "SectionIndex1": 0,
-      "SectionIndex2": 62
+      "SectionIndex2": 62,
+      "CoupletSummary": "آن پری‌روی در بارگاه نشست و آن چند نفر را پایین\nدست خود نشاند."
     },
     {
       "VOrder": 122,
@@ -2457,7 +2518,8 @@
       "Text": "سخن راند از گنج درخواسته",
       "CoupletIndex": 61,
       "SectionIndex1": 0,
-      "SectionIndex2": 63
+      "SectionIndex2": 63,
+      "CoupletSummary": "از گنج خواسته شده، سخن‌گفت همچون گنجی که سربسته و طلسم‌شده باشد."
     },
     {
       "VOrder": 124,
@@ -2473,7 +2535,8 @@
       "Text": "حدیث سر کوه و مردم گیا",
       "CoupletIndex": 62,
       "SectionIndex1": 0,
-      "SectionIndex2": 64
+      "SectionIndex2": 64,
+      "CoupletSummary": "از حدیث سر کوه و مهرگیاه گفت که زیرکان از آن کیمیا می‌سازند."
     },
     {
       "VOrder": 126,
@@ -2489,7 +2552,8 @@
       "Text": "همان سنگ اعظم که کان زرست",
       "CoupletIndex": 63,
       "SectionIndex1": 0,
-      "SectionIndex2": 65
+      "SectionIndex2": 65,
+      "CoupletSummary": "همان سنگ بزرگی که کان زر می‌باشد. زهی سخن که چون کیمیاست!"
     },
     {
       "VOrder": 128,
@@ -2505,7 +2569,8 @@
       "Text": "به پوشیدگی کرد رمز‌ی پدید",
       "CoupletIndex": 64,
       "SectionIndex1": 0,
-      "SectionIndex2": 66
+      "SectionIndex2": 66,
+      "CoupletSummary": "[بدین ترتیب] رمزی پوشیده پدید آورد با قفلی آهنین و کلیدی زرین."
     },
     {
       "VOrder": 130,
@@ -2521,7 +2586,8 @@
       "Text": "به دانا رسید این سخن گنج یافت",
       "CoupletIndex": 65,
       "SectionIndex1": 0,
-      "SectionIndex2": 67
+      "SectionIndex2": 67,
+      "CoupletSummary": "دانا از این سخن به گنج دست یافت و نادان به رنج."
     },
     {
       "VOrder": 132,
@@ -2537,7 +2603,8 @@
       "Text": "گر آن کیمیا را گهر در گیا‌ست",
       "CoupletIndex": 66,
       "SectionIndex1": 0,
-      "SectionIndex2": 68
+      "SectionIndex2": 68,
+      "CoupletSummary": "اگر آن کیمیا گوهرش در گیاه است، گیاه قلم گوهر کیمیا به شمار می‌آید. (اشاره به آموختن دانش و ارزش قلم)"
     },
     {
       "VOrder": 134,
@@ -2553,7 +2620,8 @@
       "Text": "از آن کیمیا با همه چربدست",
       "CoupletIndex": 67,
       "SectionIndex1": 0,
-      "SectionIndex2": 69
+      "SectionIndex2": 69,
+      "CoupletSummary": "در کیمیا، با آن همه دلفریبی، درد سری هست نه چندان خوش‌آیند:"
     },
     {
       "VOrder": 136,
@@ -2569,7 +2637,8 @@
       "Text": "کسی را بود کیمیا در نورد",
       "CoupletIndex": 68,
       "SectionIndex1": 0,
-      "SectionIndex2": 70
+      "SectionIndex2": 70,
+      "CoupletSummary": "کسی شایسته کیمیاست که فریب کیمیاگر نخورَد!"
     },
     {
       "VOrder": 138,
@@ -2585,7 +2654,8 @@
       "Text": "شنیدم خراسانی‌یی بود چست",
       "CoupletIndex": 69,
       "SectionIndex1": 0,
-      "SectionIndex2": 71
+      "SectionIndex2": 71,
+      "CoupletSummary": "شنیدم که خراسانی‌ زرنگی بود که چون بازارش خراب شد به بغداد رفت.\u00A0"
     },
     {
       "VOrder": 140,
@@ -2601,7 +2671,8 @@
       "Text": "دمی چند بر کار کرد ای شگفت",
       "CoupletIndex": 70,
       "SectionIndex1": 0,
-      "SectionIndex2": 72
+      "SectionIndex2": 72,
+      "CoupletSummary": "حیله‌ای چند بر کار کرد شگفت و حیله‌های خراسانی گرفت و موفق شد."
     },
     {
       "VOrder": 142,
@@ -2617,7 +2688,8 @@
       "Text": "از آن دم که اهل خراسان کنند",
       "CoupletIndex": 71,
       "SectionIndex1": 0,
-      "SectionIndex2": 73
+      "SectionIndex2": 73,
+      "CoupletSummary": "از آن حیله‌ها که اهالی خراسان بلدند و اهالی بغداد را آسان فریبند."
     },
     {
       "VOrder": 144,
@@ -2633,7 +2705,8 @@
       "Text": "هزار‌ش عدد بود مصری چو موم",
       "CoupletIndex": 72,
       "SectionIndex1": 0,
-      "SectionIndex2": 74
+      "SectionIndex2": 74,
+      "CoupletSummary": "هزار سکه طلای ناب و نرم مصری داشت که چنان طلایی حتی در روم یافت نشود."
     },
     {
       "VOrder": 146,
@@ -2649,7 +2722,8 @@
       "Text": "به سوهان یکایک همه خُرد سود",
       "CoupletIndex": 73,
       "SectionIndex1": 0,
-      "SectionIndex2": 75
+      "SectionIndex2": 75,
+      "CoupletSummary": "با سوهان همه را یک‌یک سود و خرد کرد و با گِل قرمز مخلوط کرد."
     },
     {
       "VOrder": 148,
@@ -2665,7 +2739,8 @@
       "Text": "وزان سرخ گِل مهره‌ای چند ساخت",
       "CoupletIndex": 74,
       "SectionIndex1": 0,
-      "SectionIndex2": 76
+      "SectionIndex2": 76,
+      "CoupletSummary": "از آن گِل سرخ‌، مُهره و توپ ساخت بشنو و ببین با آن مهره‌ها چه حیله‌ای زد."
     },
     {
       "VOrder": 150,
@@ -2681,7 +2756,8 @@
       "Text": "به عطار‌ی آن مهره‌ها برشمرد",
       "CoupletIndex": 75,
       "SectionIndex1": 0,
-      "SectionIndex2": 77
+      "SectionIndex2": 77,
+      "CoupletSummary": "آن مهره‌ها را نزد عطار شمرد، مُهر کرد و به او سپرد."
     },
     {
       "VOrder": 152,
@@ -2697,7 +2773,8 @@
       "Text": "که این مهره در حُقه‌ای نِه به‌راز",
       "CoupletIndex": 76,
       "SectionIndex1": 0,
-      "SectionIndex2": 78
+      "SectionIndex2": 78,
+      "CoupletSummary": "که این مهره‌ها را در کیسه‌ای پنهان کن. آه از مهره‌دزد و دریغ از مهره‌باز! (در لغتنامه دهخدا، «زهی» به دو معنی آمده است: «آفرین، احسنت» و «افسوس، آه، دریغا» که دومین معنی با این بیت سازگار می‌باشد.)"
     },
     {
       "VOrder": 154,
@@ -2713,7 +2790,8 @@
       "Text": "به دینار‌ی این بر تو بفروختم",
       "CoupletIndex": 77,
       "SectionIndex1": 0,
-      "SectionIndex2": 79
+      "SectionIndex2": 79,
+      "CoupletSummary": "این کیسه را ارزان و به دیناری به تو می‌فروشم که از آن سودها کرده‌ام."
     },
     {
       "VOrder": 156,
@@ -2729,7 +2807,8 @@
       "Text": "چو وقت آید این را که داری به‌رنج",
       "CoupletIndex": 78,
       "SectionIndex1": 0,
-      "SectionIndex2": 80
+      "SectionIndex2": 80,
+      "CoupletSummary": "این را که رنج نگهداری‌اش میکشی، وقتش که برسد به ده برابر می‌خرم."
     },
     {
       "VOrder": 158,
@@ -2745,7 +2824,8 @@
       "Text": "بپرسید عطار کاین را چه نام",
       "CoupletIndex": 79,
       "SectionIndex1": 0,
-      "SectionIndex2": 81
+      "SectionIndex2": 81,
+      "CoupletSummary": "عطار که نام آن را پرسید، به او گفت: «طبریک، همین»"
     },
     {
       "VOrder": 160,
@@ -2761,7 +2841,8 @@
       "Text": "ز دکان عطار چون بازگشت",
       "CoupletIndex": 80,
       "SectionIndex1": 0,
-      "SectionIndex2": 82
+      "SectionIndex2": 82,
+      "CoupletSummary": "وقتی دکان عطار را ترک کرد به افسون‌گری خود را «کیمیا‌ساز» معرفی کرد."
     },
     {
       "VOrder": 162,
@@ -2777,7 +2858,8 @@
       "Text": "به دارالخلافه خبر باز داد",
       "CoupletIndex": 81,
       "SectionIndex1": 0,
-      "SectionIndex2": 83
+      "SectionIndex2": 83,
+      "CoupletSummary": "به دربار خلیفه خبر داد که یک استاد اکسیری آمده است."
     },
     {
       "VOrder": 164,
@@ -2793,7 +2875,8 @@
       "Text": "منم واصل کیمیا در نهفت",
       "CoupletIndex": 82,
       "SectionIndex1": 0,
-      "SectionIndex2": 84
+      "SectionIndex2": 84,
+      "CoupletSummary": "من نهانی به کیمیا دست یافته‌ام و در گوهرشناسی همتا ندارم."
     },
     {
       "VOrder": 166,
@@ -2809,7 +2892,8 @@
       "Text": "عمل‌های من چون درآید به کار",
       "CoupletIndex": 83,
       "SectionIndex1": 0,
-      "SectionIndex2": 85
+      "SectionIndex2": 85,
+      "CoupletSummary": "به کارگیری فن‌های من، یک را ده‌ می‌کند، ده را صد و صد را هزار‌."
     },
     {
       "VOrder": 168,
@@ -2825,7 +2909,8 @@
       "Text": "درستی صدم داد باید نخست",
       "CoupletIndex": 84,
       "SectionIndex1": 0,
-      "SectionIndex2": 86
+      "SectionIndex2": 86,
+      "CoupletSummary": "ابتدا صد سکه تمام لازم دارم که با کیمیای من از آن صد سکه‌، هزار سکه به دست آید."
     },
     {
       "VOrder": 170,
@@ -2841,7 +2926,8 @@
       "Text": "همان استوار‌ان مردم شناس",
       "CoupletIndex": 85,
       "SectionIndex1": 0,
-      "SectionIndex2": 87
+      "SectionIndex2": 87,
+      "CoupletSummary": "و راستگویان مردم‌شناس بر من برگمارند و پاس دهند [ببیند که راست می‌گویم یا نه]"
     },
     {
       "VOrder": 172,
@@ -2857,7 +2943,8 @@
       "Text": "گر آید ز من دستکار‌ی شگرف",
       "CoupletIndex": 86,
       "SectionIndex1": 0,
-      "SectionIndex2": 88
+      "SectionIndex2": 88,
+      "CoupletSummary": "اگر این هنر شگرف از من ساخته شد ایرادی بر من نگیرند."
     },
     {
       "VOrder": 174,
@@ -2873,7 +2960,8 @@
       "Text": "وگر خواهم از راستی درگذشت",
       "CoupletIndex": 87,
       "SectionIndex1": 0,
-      "SectionIndex2": 89
+      "SectionIndex2": 89,
+      "CoupletSummary": "اگر خطا کردم و این ادعای من‌، راست از کار در نیامد این سر من و این تیغ و شمشیر شما!"
     },
     {
       "VOrder": 176,
@@ -2889,7 +2977,8 @@
       "Text": "خلیفه چو اکسیر سازی شنید",
       "CoupletIndex": 88,
       "SectionIndex1": 0,
-      "SectionIndex2": 90
+      "SectionIndex2": 90,
+      "CoupletSummary": "هنگامی که نام کیمیاگری را شنید فریب خورد؛ زر داد و فریبی را خرید!"
     },
     {
       "VOrder": 178,
@@ -2905,7 +2994,8 @@
       "Text": "به افسون روباهی آن شیر‌مرد",
       "CoupletIndex": 89,
       "SectionIndex1": 0,
-      "SectionIndex2": 91
+      "SectionIndex2": 91,
+      "CoupletSummary": "آن شیرمرد با افسون و حیله روباهی سکه‌ها را گرفت و خرج تفریح و می خام کرد."
     },
     {
       "VOrder": 180,
@@ -2921,7 +3011,8 @@
       "Text": "چو ده گانه‌ای ماند ازان زر به جای",
       "CoupletIndex": 90,
       "SectionIndex1": 0,
-      "SectionIndex2": 92
+      "SectionIndex2": 92,
+      "CoupletSummary": "وقتی که ده تا از سکه‌ها باقی ماند آمد که هنر خود را نشان دهد"
     },
     {
       "VOrder": 182,
@@ -2937,7 +3028,8 @@
       "Text": "یکی کوره‌ای ساخت چون زرگر‌ان",
       "CoupletIndex": 91,
       "SectionIndex1": 0,
-      "SectionIndex2": 93
+      "SectionIndex2": 93,
+      "CoupletSummary": "کوره‌ای ساخت شبیه کوره زرگرها که از هر دارویی چیزی در آن ریخت"
     },
     {
       "VOrder": 184,
@@ -2953,7 +3045,8 @@
       "Text": "فرستاد در شهر بالا و پست",
       "CoupletIndex": 92,
       "SectionIndex1": 0,
-      "SectionIndex2": 94
+      "SectionIndex2": 94,
+      "CoupletSummary": "افراد را فرستاد که در شهر بگردند و «طبریک» بیابند اما به دست نیامد."
     },
     {
       "VOrder": 186,
@@ -2969,7 +3062,8 @@
       "Text": "هم آخر رقیبان آن کارگاه",
       "CoupletIndex": 93,
       "SectionIndex1": 0,
-      "SectionIndex2": 95
+      "SectionIndex2": 95,
+      "CoupletSummary": "دست آخر نگهبانان آن کارگاه به عطار نام‌برده رسیدند."
     },
     {
       "VOrder": 188,
@@ -2985,7 +3079,8 @@
       "Text": "گِل سرخ او را به دینار زرد",
       "CoupletIndex": 94,
       "SectionIndex1": 0,
-      "SectionIndex2": 96
+      "SectionIndex2": 96,
+      "CoupletSummary": "گِل سرخ او را با طلا خریدند و به نزد مرد خراسانی بردند."
     },
     {
       "VOrder": 190,
@@ -3001,7 +3096,8 @@
       "Text": "خراسانی آن مهره‌ها کرد خرد",
       "CoupletIndex": 95,
       "SectionIndex1": 0,
-      "SectionIndex2": 97
+      "SectionIndex2": 97,
+      "CoupletSummary": "خراسانی آن مهره‌ها را سایید و خرد کرد و یک دستبرد نشان داد"
     },
     {
       "VOrder": 192,
@@ -3017,7 +3113,8 @@
       "Text": "به کوره درافکند و آتش دمید",
       "CoupletIndex": 96,
       "SectionIndex1": 0,
-      "SectionIndex2": 98
+      "SectionIndex2": 98,
+      "CoupletSummary": "در کوره ریخت و آتش دمید و از آن داروها و چیزهای دیگر فقط زر و طلا به جا ماند"
     },
     {
       "VOrder": 194,
@@ -3033,7 +3130,8 @@
       "Text": "سبیکه فرو ریخت در نای تنگ",
       "CoupletIndex": 97,
       "SectionIndex1": 0,
-      "SectionIndex2": 99
+      "SectionIndex2": 99,
+      "CoupletSummary": "گداخته در نای تنگ فرو ریخت و زر یاقوت رنگ پدیدار شد."
     },
     {
       "VOrder": 196,
@@ -3049,7 +3147,8 @@
       "Text": "به گوش خلیفه رسید این سخن",
       "CoupletIndex": 98,
       "SectionIndex1": 0,
-      "SectionIndex2": 100
+      "SectionIndex2": 100,
+      "CoupletSummary": "به گوش خلیفه رسید که از یک معدن قدیمی\u00A0گنج نوی پیدا شده است.(یعنی از فن کیمیا)"
     },
     {
       "VOrder": 198,
@@ -3065,7 +3164,8 @@
       "Text": "زری دید با سود همره شده",
       "CoupletIndex": 99,
       "SectionIndex1": 0,
-      "SectionIndex2": 101
+      "SectionIndex2": 101,
+      "CoupletSummary": "زری دید که سود شده و از آن بزرگی و کدخدایی ده برابر شده است."
     },
     {
       "VOrder": 200,
@@ -3081,7 +3181,8 @@
       "Text": "به امید گنجی چنان گوهری",
       "CoupletIndex": 100,
       "SectionIndex1": 0,
-      "SectionIndex2": 102
+      "SectionIndex2": 102,
+      "CoupletSummary": "به امید و طمع گنجی چنان ارزشمند با آن مرد خراسانی بسیار لطف کرد."
     },
     {
       "VOrder": 202,
@@ -3097,7 +3198,8 @@
       "Text": "از آن مغربی زر مصری عیار",
       "CoupletIndex": 101,
       "SectionIndex1": 0,
-      "SectionIndex2": 103
+      "SectionIndex2": 103,
+      "CoupletSummary": "از سکه‌های مغربی که از طلای مصری بود برای او ده‌هزار سکه فرستاد."
     },
     {
       "VOrder": 204,
@@ -3113,7 +3215,8 @@
       "Text": "که این را به کار آور ای نیک‌رای",
       "CoupletIndex": 102,
       "SectionIndex1": 0,
-      "SectionIndex2": 104
+      "SectionIndex2": 104,
+      "CoupletSummary": "که این را به کار ببر (و ده‌برابر کن) که من مزد تو را می‌دهم و جبران می‌کنم."
     },
     {
       "VOrder": 206,
@@ -3129,7 +3232,8 @@
       "Text": "کشند استوار‌ان ما از تو دست",
       "CoupletIndex": 103,
       "SectionIndex1": 0,
-      "SectionIndex2": 105
+      "SectionIndex2": 105,
+      "CoupletSummary": "استواران و راستی‌آزمایان ما مزاحم تو نمی‌شوند زیرا درستکاری تو بر ما ثابت شده است."
     },
     {
       "VOrder": 208,
@@ -3145,7 +3249,8 @@
       "Text": "دران آزمایش چو چُست آمدی",
       "CoupletIndex": 104,
       "SectionIndex1": 0,
-      "SectionIndex2": 106
+      "SectionIndex2": 106,
+      "CoupletSummary": "چون در آن آزمایش، سربلند بیرون آمد و به یک معنی، خود را درستکار نشان داد،"
     },
     {
       "VOrder": 210,
@@ -3161,7 +3266,8 @@
       "Text": "خراسانی آن گنج بستد به ناز",
       "CoupletIndex": 105,
       "SectionIndex1": 0,
-      "SectionIndex2": 107
+      "SectionIndex2": 107,
+      "CoupletSummary": "خراسانی آن گنج را به ناز گرفت و همچون یک هندو، کمر به تاراج بست."
     },
     {
       "VOrder": 212,
@@ -3177,7 +3283,8 @@
       "Text": "گریزان ره خانه را پی گرفت",
       "CoupletIndex": 106,
       "SectionIndex1": 0,
-      "SectionIndex2": 108
+      "SectionIndex2": 108,
+      "CoupletSummary": "به سرعت راه خانه را در پیش گرفت و چند شب با کارگزارانِ شاه باده‌گساری کرد."
     },
     {
       "VOrder": 214,
@@ -3193,7 +3300,8 @@
       "Text": "بخفت و به خفتن بخسباندشان",
       "CoupletIndex": 107,
       "SectionIndex1": 0,
-      "SectionIndex2": 109
+      "SectionIndex2": 109,
+      "CoupletSummary": "خود را به خواب زد و آنها را خواباند؛ و چون برخاست، به خاکشان نشاند"
     },
     {
       "VOrder": 216,
@@ -3209,7 +3317,8 @@
       "Text": "ستور‌ان تازی غلامان کار",
       "CoupletIndex": 108,
       "SectionIndex1": 0,
-      "SectionIndex2": 110
+      "SectionIndex2": 110,
+      "CoupletSummary": "به اندازه کافی اسب‌های تازی و غلام خریداری کرد و بار خود را بست."
     },
     {
       "VOrder": 218,
@@ -3225,7 +3334,8 @@
       "Text": "به راهی که دیده نشانش ندید",
       "CoupletIndex": 109,
       "SectionIndex1": 0,
-      "SectionIndex2": 111
+      "SectionIndex2": 111,
+      "CoupletSummary": "به راهی که کسی از آن نشانی نداشت، چنان رفت که در جهان هیچ‌کس ندیده بود."
     },
     {
       "VOrder": 220,
@@ -3241,7 +3351,8 @@
       "Text": "خلیفه چو آگاه شد زین فریب",
       "CoupletIndex": 110,
       "SectionIndex1": 0,
-      "SectionIndex2": 112
+      "SectionIndex2": 112,
+      "CoupletSummary": "هنگامی که خلیفه آگاه\nشد که آن خراسانی زر و زیور را با فریب برده است،"
     },
     {
       "VOrder": 222,
@@ -3257,7 +3368,8 @@
       "Text": "حدیث طبریک به یاد آمدش",
       "CoupletIndex": 111,
       "SectionIndex1": 0,
-      "SectionIndex2": 113
+      "SectionIndex2": 113,
+      "CoupletSummary": "به یاد ماجرای طبریک افتاد و برایش بجز آن، هرچه می‌شنید بی ارزش می‌نمود."
     },
     {
       "VOrder": 224,
@@ -3273,7 +3385,8 @@
       "Text": "خبر بازجست از طبریک فروش",
       "CoupletIndex": 112,
       "SectionIndex1": 0,
-      "SectionIndex2": 114
+      "SectionIndex2": 114,
+      "CoupletSummary": "از طبریک‌فروش ماجرا را بازجست و وقتی شنید به این طنز خندید."
     },
     {
       "VOrder": 226,
@@ -3289,7 +3402,8 @@
       "Text": "طبریک چو تصحیف سازد دبیر",
       "CoupletIndex": 113,
       "SectionIndex1": 0,
-      "SectionIndex2": 115
+      "SectionIndex2": 115,
+      "CoupletSummary": "نگارنده که طبریک را تصحیف کرد، معنی آنرا بگیر و بیاموز."
     },
     {
       "VOrder": 228,
@@ -3305,7 +3419,8 @@
       "Text": "هر افسون کز افسونگر‌ی بشنوی",
       "CoupletIndex": 114,
       "SectionIndex1": 0,
-      "SectionIndex2": 116
+      "SectionIndex2": 116,
+      "CoupletSummary": "هر افسون که از هر افسونگر می‌شنوی‌، زنهار که فریب نخوری."
     },
     {
       "VOrder": 230,
@@ -3321,7 +3436,8 @@
       "Text": "در این داوری هیچکس دم نزد",
       "CoupletIndex": 115,
       "SectionIndex1": 0,
-      "SectionIndex2": 117
+      "SectionIndex2": 117,
+      "CoupletSummary": "چون در کار کیمیاگری سستی نکرده بود، کسی از آن سخنی به میان نیاورد!"
     },
     {
       "VOrder": 232,
@@ -3337,7 +3453,8 @@
       "Text": "سکندر به یونان خبردار شد",
       "CoupletIndex": 116,
       "SectionIndex1": 0,
-      "SectionIndex2": 118
+      "SectionIndex2": 118,
+      "CoupletSummary": "اسکندر در یونان شنید که ماریه بر گنج‌، مار شده\nاست."
     },
     {
       "VOrder": 234,
@@ -3353,7 +3470,8 @@
       "Text": "به شه باز گفتند کان ماده شیر",
       "CoupletIndex": 117,
       "SectionIndex1": 0,
-      "SectionIndex2": 119
+      "SectionIndex2": 119,
+      "CoupletSummary": "به شاه خبر دادند که\nآن ماده‌شیر به گستردنِ دام دلیر خواهد شد."
     },
     {
       "VOrder": 236,
@@ -3369,7 +3487,8 @@
       "Text": "زنی کاردان‌ست و سامان شناس",
       "CoupletIndex": 118,
       "SectionIndex1": 0,
-      "SectionIndex2": 120
+      "SectionIndex2": 120,
+      "CoupletSummary": "زنی کاردان و سامان شناس است و کسی در ثروت همپای او نیست."
     },
     {
       "VOrder": 238,
@@ -3385,7 +3504,8 @@
       "Text": "ز پوشیده گنجی خبر داشته‌ست",
       "CoupletIndex": 119,
       "SectionIndex1": 0,
-      "SectionIndex2": 121
+      "SectionIndex2": 121,
+      "CoupletSummary": "از یک گنج نهان خبر داشته و با آن گنج‌، دنیا را خریده است."
     },
     {
       "VOrder": 240,
@@ -3401,7 +3521,8 @@
       "Text": "به افسونگری سنگ را زر کند",
       "CoupletIndex": 120,
       "SectionIndex1": 0,
-      "SectionIndex2": 122
+      "SectionIndex2": 122,
+      "CoupletSummary": "با افسونگری سنگ را زر می‌کند‌، و صدف‌ریزه را مروارید درخشان."
     },
     {
       "VOrder": 242,
@@ -3417,7 +3538,8 @@
       "Text": "از آن بیشتر گنج زر ساخته‌ست",
       "CoupletIndex": 121,
       "SectionIndex1": 0,
-      "SectionIndex2": 123
+      "SectionIndex2": 123,
+      "CoupletSummary": "گنج او از گنجی که قارون در زیر زمین انداخت‌، بیشتر است."
     },
     {
       "VOrder": 244,
@@ -3433,7 +3555,8 @@
       "Text": "گرش سر نبرد سر تیغ شاه",
       "CoupletIndex": 122,
       "SectionIndex1": 0,
-      "SectionIndex2": 124
+      "SectionIndex2": 124,
+      "CoupletSummary": "اگر تیغ شاه سر او را نبرد، بزودی جهان را با گنج و سپاه می‌گیرد."
     },
     {
       "VOrder": 246,
@@ -3449,7 +3572,8 @@
       "Text": "سپاه آورد دشمنان را به رنج",
       "CoupletIndex": 123,
       "SectionIndex1": 0,
-      "SectionIndex2": 125
+      "SectionIndex2": 125,
+      "CoupletSummary": "سپاه است که دشمن را از پا درمی‌آورد؛ و سپاه در پی چیزی نیست جز گنج."
     },
     {
       "VOrder": 248,
@@ -3465,7 +3589,8 @@
       "Text": "به آزار او شه شتابنده گشت",
       "CoupletIndex": 124,
       "SectionIndex1": 0,
-      "SectionIndex2": 126
+      "SectionIndex2": 126,
+      "CoupletSummary": "شاه آهنگ جنگ او کرد و از خشم همچون خورشید تابان شد."
     },
     {
       "VOrder": 250,
@@ -3481,7 +3606,8 @@
       "Text": "به تدبیر آن شد کزان جان پاک",
       "CoupletIndex": 125,
       "SectionIndex1": 0,
-      "SectionIndex2": 127
+      "SectionIndex2": 127,
+      "CoupletSummary": "[شاه] بر آن شد که با تجویز دشمن جان پاک او را بگیرد. («تدبیر» در لغتنامه دهخدا به معنی مشورت و تجویز نیز آمده است. این معنی، با مصرع دوم سازگار می‌باشد.)"
     },
     {
       "VOrder": 252,
@@ -3497,7 +3623,8 @@
       "Text": "چو از آتش خشم شاهنشهی",
       "CoupletIndex": 126,
       "SectionIndex1": 0,
-      "SectionIndex2": 128
+      "SectionIndex2": 128,
+      "CoupletSummary": "همینکه از آتش خشم شاهنشاه خبر به وزیر دانا رسید،"
     },
     {
       "VOrder": 254,
@@ -3513,7 +3640,8 @@
       "Text": "بسیچید بر خدمت شهریار",
       "CoupletIndex": 127,
       "SectionIndex1": 0,
-      "SectionIndex2": 129
+      "SectionIndex2": 129,
+      "CoupletSummary": "به خدمت شهریار شتافت و با او چرب زبانی به کار آورد:"
     },
     {
       "VOrder": 256,
@@ -3529,7 +3657,8 @@
       "Text": "که آن زن زنی پارسا گوهر‌ست",
       "CoupletIndex": 128,
       "SectionIndex1": 0,
-      "SectionIndex2": 130
+      "SectionIndex2": 130,
+      "CoupletSummary": "که آن زن گوهرش پارسایی است و در برابر تو، کوچکترین چاکر."
     },
     {
       "VOrder": 258,
@@ -3545,7 +3674,8 @@
       "Text": "کمر بستهٔ توست در ملک شام",
       "CoupletIndex": 129,
       "SectionIndex1": 0,
-      "SectionIndex2": 131
+      "SectionIndex2": 131,
+      "CoupletSummary": "او در سرزمین شام کمربسته توست و در گنج و خدمتگزاری بندهٔ تو."
     },
     {
       "VOrder": 260,
@@ -3561,7 +3691,8 @@
       "Text": "بسی گشت چون چاکران گرد من",
       "CoupletIndex": 130,
       "SectionIndex1": 0,
-      "SectionIndex2": 132
+      "SectionIndex2": 132,
+      "CoupletSummary": "چون چاکران، بسیار گرد من چرخید و در چندین هنر شاگردی کرد."
     },
     {
       "VOrder": 262,
@@ -3577,7 +3708,8 @@
       "Text": "منش دل به دانش برافروختم",
       "CoupletIndex": 131,
       "SectionIndex1": 0,
-      "SectionIndex2": 133
+      "SectionIndex2": 133,
+      "CoupletSummary": "دل او را به دانش روشن کردم و نهانی چیزی آموختم."
     },
     {
       "VOrder": 264,
@@ -3593,7 +3725,8 @@
       "Text": "که چندان به دست آرد از برگ و ساز",
       "CoupletIndex": 132,
       "SectionIndex1": 0,
-      "SectionIndex2": 134
+      "SectionIndex2": 134,
+      "CoupletSummary": "چندان ساز و برگ به دست بیاورد که از مردم جهان بی‌نیاز شود."
     },
     {
       "VOrder": 266,
@@ -3609,7 +3742,8 @@
       "Text": "بر او طالعی دیدم آراسته",
       "CoupletIndex": 133,
       "SectionIndex1": 0,
-      "SectionIndex2": 135
+      "SectionIndex2": 135,
+      "CoupletSummary": "در او طالعی بلند دیدم که از گنج و آرزوهایش خبر می‌داد."
     },
     {
       "VOrder": 268,
@@ -3625,7 +3759,8 @@
       "Text": "جز او هر‌که این صنعت آرد به‌ کار",
       "CoupletIndex": 134,
       "SectionIndex1": 0,
-      "SectionIndex2": 136
+      "SectionIndex2": 136,
+      "CoupletSummary": "هرکس جز او این هنر را به کار گیرد، یک جُو گنج هم به دست نمی‌آورد."
     },
     {
       "VOrder": 270,
@@ -3641,7 +3776,8 @@
       "Text": "به هشیاری طالع مال سنج",
       "CoupletIndex": 135,
       "SectionIndex1": 0,
-      "SectionIndex2": 137
+      "SectionIndex2": 137,
+      "CoupletSummary": "به یاری بخت بلند، کسی جز ماریه، مار گنج نشد."
     },
     {
       "VOrder": 272,
@@ -3657,7 +3793,8 @@
       "Text": "کنون کان کفایت به دست آمدش",
       "CoupletIndex": 136,
       "SectionIndex1": 0,
-      "SectionIndex2": 138
+      "SectionIndex2": 138,
+      "CoupletSummary": "اکنون که به کفایت دست یافته، بر جای نیاکان خود نشسته است."
     },
     {
       "VOrder": 274,
@@ -3673,7 +3810,8 @@
       "Text": "چو شه پوزش رای دُستور یافت",
       "CoupletIndex": 137,
       "SectionIndex1": 0,
-      "SectionIndex2": 139
+      "SectionIndex2": 139,
+      "CoupletSummary": "شاه که از دلیل نظر وزیر آگاه شد، از انجام کار و جنگ دوری جُست."
     },
     {
       "VOrder": 276,
@@ -3689,7 +3827,8 @@
       "Text": "چو دُستور گرد از دل شه ربود",
       "CoupletIndex": 138,
       "SectionIndex1": 0,
-      "SectionIndex2": 140
+      "SectionIndex2": 140,
+      "CoupletSummary": "پس از آنکه وزیر دل شاه را نرم کرد، به سرعت کسی را به سوی ماریه فرستاد."
     },
     {
       "VOrder": 278,
@@ -3705,7 +3844,8 @@
       "Text": "بفرمود تا عذر شاه آورد",
       "CoupletIndex": 139,
       "SectionIndex1": 0,
-      "SectionIndex2": 141
+      "SectionIndex2": 141,
+      "CoupletSummary": "فرمان داد تا از شاه پوزش بخواهد و پیکی روانه کند."
     },
     {
       "VOrder": 280,
@@ -3721,7 +3861,8 @@
       "Text": "زن کاردان چون شنید این سخن",
       "CoupletIndex": 140,
       "SectionIndex1": 0,
-      "SectionIndex2": 142
+      "SectionIndex2": 142,
+      "CoupletSummary": "زن باهوش، با شنیدن این سخن، زر تازه را از گنج کهن جدا کرد."
     },
     {
       "VOrder": 282,
@@ -3737,7 +3878,8 @@
       "Text": "فرستاده‌ای را برآراست کار",
       "CoupletIndex": 141,
       "SectionIndex1": 0,
-      "SectionIndex2": 143
+      "SectionIndex2": 143,
+      "CoupletSummary": "فرستاده‌ای را آماده کرد و گنجی برای پادشاه فرستاد که،"
     },
     {
       "VOrder": 284,
@@ -3753,7 +3895,8 @@
       "Text": "که چندین ترازوی گنجینه‌سنج",
       "CoupletIndex": 142,
       "SectionIndex1": 0,
-      "SectionIndex2": 144
+      "SectionIndex2": 144,
+      "CoupletSummary": "چند ترازویِ سنجش گنچ، یکجا چنان گنجی ندیده بود."
     },
     {
       "VOrder": 286,
@@ -3769,7 +3912,8 @@
       "Text": "چو بر گنج دادن دلش راه برد",
       "CoupletIndex": 143,
       "SectionIndex1": 0,
-      "SectionIndex2": 145
+      "SectionIndex2": 145,
+      "CoupletSummary": "چون دلش راضی به دادن گنج شد، هم خودش از مرگ رهایی یافت و هم کینه شاه را از میان برد."
     },
     {
       "VOrder": 288,
@@ -3785,7 +3929,8 @@
       "Text": "درم دادن آتش کُشد کینه را",
       "CoupletIndex": 144,
       "SectionIndex1": 0,
-      "SectionIndex2": 146
+      "SectionIndex2": 146,
+      "CoupletSummary": "دادن درهم، آتش کینه را خاموش می‌کند و خشم دیرینه را فرومی‌نشاند. (آتش کُشتن‌: خاموش کردن آتش)"
     },
     {
       "VOrder": 290,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "تو را افتد که با ما سر برآری",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به ما توجّه کنی و به کمک ما بیایی، آن‌گاه می‌توانی به یاری کسانی که در مشکلات افتاده‌اند بپردازی."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "مکن فرمان دشمن سر درآور",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای خود زحمت نده و به دشمن گوش نکن، با گفتن این حرف چه نیازی است؟ خودت به خودی خود می‌توانی وضعیت را بهتر کنی."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "بهای بوسه جان خواهی و سهل است",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خوای جانت را با یک بوسه معاوضه کنی، بهاش خیلی ناچیز است. پس هرچه در اختیار داری بیاور و تقدیم کن."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "به یک دل وقت را خرسند می‌باش",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در یک دل باید در زمان حال خوشنود و راضی باشی، حتی اگر شرایط زندگی‌ات سخت و کم‌خوری باشد."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "برای تو جهانی را بسوزم",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای تو دنیا را ویران می‌کنم اگر به خاطر نادانی‌ات از تصمیمات نادرست صرف‌نظر کنی."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "نهان از خوی خود درساز با من",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "پنهان از خویت، با من کنار بیا؛ اگر خویت خبر داشته باشد، نمی‌توانی [چنین کنی]."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "مکن حق‌های خاقانی فراموش",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حقایق خاقانی را فراموش نکن؛ اگر روزی به حق دوستان خود رسیدی، به یاد بیاور که این حقوق را نادیده نگیر."
     },
     {
       "VOrder": 14,

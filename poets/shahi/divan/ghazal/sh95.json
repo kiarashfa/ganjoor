@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "با روی تو از سمن که گوید؟",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با چهره زیبای تو، چه کسی می‌تواند از گلستان بگوید؟ و با حضور تو، چه چیزی می‌تواند از باغ و چمن صحبت کند؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "جایی که تو زلف و رخ نمائی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در جایی که تو با زیبایی و جذابیت خود می‌درخشی، دیگر گل‌های زیبا مانند سنبل و نسترن چه سخنی می‌توانند بگویند؟"
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "با لعل تو غنچه لب فرو بست",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر زیبایی لب‌های تو، گل از شرم جلوه‌اش را مخفی کرده است. حالا آیا اظهارنظر در مورد این زیبایی از آن دهنِ چه کسی برمی‌آید؟"
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "درد همه پیش یار گفتند",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همه دردها و مشکلاتشان را به دوستشان گفتند، اما من که چه کسی هستم که درباره خودم صحبت کنم؟ از من کی گوش می‌دهد؟"
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "گر باد صبا نیاید از دوست",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نسیم صبحگاهی از طرف دوست نوزد، در هر مجلسی چه کسی می‌تواند رازهایی را که او نگفته بیان کند؟"
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "گفتی: غم او مگوی با دل",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفتی که از غم او با دل خودت سخن نگوی، پس با دل خودت چه کسی می‌تواند چنین حرفی را بزند؟"
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "از غم چو زر است روی شاهی",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از غم مثل طلاست روی پادشاهی که با آن بت زیبای خود چه می‌گوید؟"
     },
     {
       "VOrder": 14,

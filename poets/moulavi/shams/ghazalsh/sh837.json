@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "هر کجا بوی خدا می‌آید",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر جا که عطر و بوی خدا باشد، مردم بی‌اختیار و بدون توجه به خودشان به آنجا کشیده می‌شوند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "زانک جان‌ها همه تشنه‌ست به وی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چون جان‌ها همه در انتظار عشق و معشوق هستند، صدای سقا (آب‌دهنده) به این تشنه‌دلان می‌رسد."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "شیرخوار کرمند و نگران",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نوزادی در گهواره‌اش نگران و پرسش‌گر است که مادرش چگونه و از کجا به سراغش خواهد آمد."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "در فراقند و همه منتظرند",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دوری و جدایی هستند و همه در انتظارند که از کجا دوستی و دیدار خواهد آمد."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "از مسلمان و جهود و ترسا",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر روز صبح، از مسلمانان و یهودیان و مسیحیان، ندای دعا شنیده می‌شود."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "خنک آن هوش که در گوش دلش",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خوشا به حال کسی که صدای نیایش و دعوت آسمانی به گوش دلش می‌رسد."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "گوش خود را ز جفا پاک کنید",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گوش‌های خود را از آزار و اذیت خالی کنید، زیرا صدایی از دل جشن و شادی به گوش می‌رسد."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "گوش آلوده ننوشد آن بانگ",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که گوشش به صداهای نا مناسب عادت کرده، نمی‌تواند صدای شایسته و مناسب را بشنود و درک کند. هر چیز به جا و درستی به خودشان تعلق می‌گیرد."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "چشم آلوده مکن از خد و خال",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم خود را به چهره کسی که نشانه‌های زیبایی دارد، مشغول نکن، زیرا پادشاه جاودانگی در راه است."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "ور شد آلوده به اشکش می‌شوی",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به اشک او آلوده شوی، شفا پیدا خواهی کرد؛ زیرا از آن اشک، درمانی به وجود می‌آید."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "کاروان شکر از مصر رسید",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کاروانی پر از شیرینی از مصر به ما رسیده و با آرامی و شکوه وارد می‌شود."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "هین خمش کز پی باقی غزل",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "ساکت باش که ادامه غزل\u00A0 \u00A0حقیقتِ مطلقه خودش داره میاد ادامه شعر رو بخونه"
     },
     {
       "VOrder": 24,

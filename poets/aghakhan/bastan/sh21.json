@@ -251,7 +251,8 @@
       "Text": "چو از کار مدیه بپرداخت شاه",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: پس از اینکه شاه کارهای مدیه را به پایان رساند، همه سپاه را به سمت لیدیا حرکت داد."
     },
     {
       "VOrder": 2,
@@ -267,7 +268,8 @@
       "Text": "که جنگی کرازوس با دستگاه",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: این بیت اشاره دارد به جنگی که کرازوس و سپاهش با دشمنان داشتند و چگونه این جنگ به مرزهای قوی و حتی مشکل‌ساز تبدیل شده بود. در واقع، به نوعی نشان‌دهنده نیرو و قدرتی است که در این نبردها وجود داشته است و تاثیراتی که این جنگ‌ها بر سپاه و اوضاع داشته‌اند."
     },
     {
       "VOrder": 4,
@@ -283,7 +285,8 @@
       "Text": "سپاهش فزون بود از صد هزار",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: سپاه دشمن بیش از صد هزار نفر بود، اما به خاطر وجود شهریار، آنها از ترس نتوانستند به جنگ بیایند."
     },
     {
       "VOrder": 6,
@@ -299,7 +302,8 @@
       "Text": "گرفتار شد زنده در رزمگاه",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: در میدان نبرد، فرد زنده‌ای به دام افتاد و سپس پادشاه او را مورد بخشش قرار داد."
     },
     {
       "VOrder": 8,
@@ -315,7 +319,8 @@
       "Text": "همیشه بدی شاه را هم نشین",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: هرگز با بدی شاه دوست نشو، زیرا این انتخاب می‌تواند برای تو عواقب بدی داشته باشد."
     },
     {
       "VOrder": 10,
@@ -331,7 +336,8 @@
       "Text": "از آن جا به اسپرته آورد روی",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: از آنجا به اسپرته می‌رسد که نامش را افسانه‌گو می‌خوانند."
     },
     {
       "VOrder": 12,
@@ -347,7 +353,8 @@
       "Text": "همه ملک یونان سراسر گرفت",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: تمام سرزمین یونان در اختیار او قرار گرفت و او همه چیز را به افراد شایسته و پاک واگذار کرد و از آنجا رفت."
     },
     {
       "VOrder": 14,
@@ -363,7 +370,8 @@
       "Text": "نبود است پیران ویسه جزاو",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در میان لشکر خاص، هیچ‌کس مانند پیران ویسه وجود ندارد که بتواند پیشتاز و سرآمد باشد."
     },
     {
       "VOrder": 16,
@@ -379,7 +387,8 @@
       "Text": "به بابل یکی جنگ فرخ نمود",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: در بابل جنگی به راه افتاد که هر جنگجویی فرصتی برای نشان دادن شجاعت و قدرت خود پیدا کرد."
     },
     {
       "VOrder": 18,
@@ -395,7 +404,8 @@
       "Text": "یهودان که بودندی آن جا اسیر",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: یهودیانی که در آنجا اسیر بودند، وقتی بخت النصر آن‌ها را گرفت و در دستگیر کرد."
     },
     {
       "VOrder": 20,
@@ -411,7 +421,8 @@
       "Text": "زفر چنان شهریار بلند",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: از فضایی که آن پادشاه بزرگ داشت، همه آن‌ها به یکباره از بند رهایی یافتند."
     },
     {
       "VOrder": 22,
@@ -427,7 +438,8 @@
       "Text": "فراوان سلیح و درم دادشان",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: سلاح‌های زیاد و پول‌های فراوانی برای آنها ارسال کردند تا به بیت المقدس برسانند."
     },
     {
       "VOrder": 24,
@@ -443,7 +455,8 @@
       "Text": "دگر باره دز هوخت آباد ساخت",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: بار دیگر در هوخت، آبادانی ایجاد کرد و روح بزرگانی را که از خود راضی بودند، شاداب ساخت."
     },
     {
       "VOrder": 26,
@@ -459,7 +472,8 @@
       "Text": "به توراتش اندر ستاید سروش",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: در کتاب مقدس، سروش به بزرگی کوروش اشاره کرده و نام او را با ستایش ذکر کرده است."
     },
     {
       "VOrder": 28,
@@ -475,7 +489,8 @@
       "Text": "ورا دانیال نبی شد وزیر",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: دانیال نبی به مقام وزارت رسید، در حالی که بخت‌النصر او را به اسیری گرفته بود."
     },
     {
       "VOrder": 30,
@@ -491,7 +506,8 @@
       "Text": "پس از فتح بابل شه رزمخواه",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: پس از پیروزی بر بابل، پادشاه جنگجو تمام سپاهش را به سمت شرق فرستاد."
     },
     {
       "VOrder": 32,
@@ -507,7 +523,8 @@
       "Text": "به هند اندرون نامداری نماند",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: در هند هیچ شخصیت برجسته‌ای باقی نمانده است که نام و اعتبار او با بلندی و درخشندگی یاد نشده باشد."
     },
     {
       "VOrder": 34,
@@ -523,7 +540,8 @@
       "Text": "وز آن جا به سوی ختا و ختن",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: و از آن مکان، آن فرمانده‌ی پیروزمند به سمت ختا و ختن حرکت می‌کند."
     },
     {
       "VOrder": 36,
@@ -539,7 +557,8 @@
       "Text": "بلرزید از هیبتش هند و چین",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: هند و چین از عظمت او به لرزه افتاده‌اند و سرزمین توران هم از قدرتش می‌ترسد."
     },
     {
       "VOrder": 38,
@@ -555,7 +574,8 @@
       "Text": "کجا سالیان اندر آمد هفت",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: سال‌ها پیش از کجا گذشت که سیروس از ایدر به سمت شرق حرکت کرد."
     },
     {
       "VOrder": 40,
@@ -571,7 +591,8 @@
       "Text": "نیاسود از رزم و پیکار و کین",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: او از جنگ و نبرد و دشمنی آسوده نشده و حالا یک خشک‌سالی بر این سرزمین آمده است."
     },
     {
       "VOrder": 42,
@@ -587,7 +608,8 @@
       "Text": "دگر باره آهنگ ایران نمود",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: او دوباره به سمت ایران راه افتاد، زیرا از آنجا به سرعت به سوی مصر حرکت کرد."
     },
     {
       "VOrder": 44,

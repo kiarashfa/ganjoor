@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای راهروان را گذر از کوی تو نه",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای رهگذران، در راه خود از کوی تو بگذرید، نه اینکه ما از عشق و محبت تو بی‌خبر هستیم، و نه اینکه اطلاعاتی از تو به دست نیاورده‌ایم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "هر تشنه که از دست تو بستاند آب",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که از دستان تو آب بگیرد، هرگز با نگاه تو سیراب نخواهد شد."
     },
     {
       "VOrder": 4,

@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "روان پرسیدار (‌با وجدان و روحانی‌) باش که بهشتی بوی.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: با روح و وجدان بیدار زندگی کن تا بهشت را حس کنی."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "روانت چو بردارد از بد خروش",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که روح تو از کارهای بد رها شود، صدای روح از دل معشوق به گوش می‌رسد."
     },
     {
       "VOrder": 3,
@@ -46,7 +48,8 @@
       "Position": "Right",
       "Text": "نگه دار جان را ز کردار زشت",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مواظب جانت باش و از کارهای زشت بپرهیز، زیرا اینها اصول زندگی خوشبخت و بهشتی هستند."
     },
     {
       "VOrder": 5,

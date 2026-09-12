@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "گر ترک طمع کنی نباشد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر از طمع و آرزوهای بی‌پایه بگذری، هیچ نیکویی از کسی نمی‌ترسی و همیشه آرام خواهی بود."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "روزی ز خزانه کسی خواه",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روزی کسی برای درخواست کمک به خزانه‌دار مراجعه کرد، اما خزانه‌دار هیچ چیزی برای او نداشت و نتوانست کمکی کند."
     },
     {
       "VOrder": 4,
@@ -55,7 +57,8 @@
       "Position": "Right",
       "Text": "چیزیکه دهد که شد مقرر",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر چیزی برای کسی مقدر شده باشد، او هرگز به خاطر آن شکرگزار نمی‌شود."
     },
     {
       "VOrder": 6,
@@ -69,7 +72,8 @@
       "Position": "Right",
       "Text": "از سفله مخواه هیچ زنهار",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از آدم‌های پست و بی‌ارزش هیچ چیزی نخواه، زیرا حتی اگر برایت وعده‌هایی دهند، هرگز به حقیقت نخواهد پیوست و به بار نخواهد نشست."
     },
     {
       "VOrder": 8,

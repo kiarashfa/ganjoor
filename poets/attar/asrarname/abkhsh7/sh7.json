@@ -331,7 +331,8 @@
       "Text": "یکی کناس بیرون جست از کار",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "شخصی که شغلش کنّاسی بود از کارش بیرون رفت و گذرش بر دکان عطاری‌یی افتاد. (کناس‌:\u00A0سرگین کش‌، مستراح روب‌.‌)"
     },
     {
       "VOrder": 2,
@@ -347,7 +348,8 @@
       "Text": "چو بوی مشک از دکان برون شد",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "همین‌که بوی خوش دکان عطاری به مشامش رسید همانجا افتاد و غش کرد."
     },
     {
       "VOrder": 4,
@@ -363,7 +365,8 @@
       "Text": "دماغ بوی خوش او را کجا بود؟!",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "کی می‌توانست بوی خوش را تحمل کند؟ تو گفتی که مُرد."
     },
     {
       "VOrder": 6,
@@ -379,7 +382,8 @@
       "Text": "برون آمد ز دکان مرد عطار",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "مرد عطار که او را دید به کمکش شتافت و گلاب و عود آورد."
     },
     {
       "VOrder": 8,
@@ -395,7 +399,8 @@
       "Text": "چو رویش از گلاب و عود تر شد",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "وقتی‌که از گلاب و عود بر روی و صورتش پاشید حال کناس بدتر شد."
     },
     {
       "VOrder": 10,
@@ -411,7 +416,8 @@
       "Text": "یکی کناس دیگر چون بدیدش",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "کناسی دیگر که این احوال را دید. مقداری نجاست در برابر بینی آن بیهوش گرفت."
     },
     {
       "VOrder": 12,
@@ -427,7 +433,8 @@
       "Text": "مشامش از نجاست چون خبر یافت",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "چونکه بوی نجاست به مشامش رسید دو چشمش باز شد و به هوش آمد."
     },
     {
       "VOrder": 14,
@@ -443,7 +450,8 @@
       "Text": "کسی با گند‌ِ بدعت آرمیده",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس با بوی ناخوشایند بدعت آرام نگرفته، بلکه نسیم خوش بوی سنت نادیده را می‌وزد."
     },
     {
       "VOrder": 16,
@@ -459,7 +467,8 @@
       "Text": "اگر روحی رسد سوی دماغش",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: اگر روحی به دماغش برسد، چراغ دلش خاموش می‌شود."
     },
     {
       "VOrder": 18,
@@ -475,7 +484,8 @@
       "Text": "کسی در مبرز این نفس‌ِ ناساز",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: کسی در این حال ناپایدار و متغیر نفس نیست که گاهی پر از احساس و شور و گاهی خالی و بی‌احساس باشد."
     },
     {
       "VOrder": 20,
@@ -491,7 +501,8 @@
       "Text": "اگر بویی رسد او را ز اسرار",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: اگر بویی از اسرار به او برسد، به همان اندازه متواضع و خاضع می‌شود که سرنگون در برابر عظمت و بزرگی."
     },
     {
       "VOrder": 22,
@@ -507,7 +518,8 @@
       "Text": "نکو ناید شتر را بوس دادن",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: بهتر است که به شتر جالبی را نچسبانی و مگس را به طاووس نزدیک نکنید، چرا که هر چیز به اندازه و شایستگی خود ارزش دارد."
     },
     {
       "VOrder": 24,
@@ -523,7 +535,8 @@
       "Text": "چو آبی در چله سی سال پیوست",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: اگر مانند آبی که در چله (فصل سرد) در مدت سی سال جریان پیدا کند، به تو بپیوندد، این سر (فکر و عقل) تو را به شصت قسمت تقسیم خواهد کرد."
     },
     {
       "VOrder": 26,
@@ -539,7 +552,8 @@
       "Text": "تو از خود راه گم کردی درین راه",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: تو در این مسیر خودت را گم کرده‌ای؛ نه به مقصدی رسیده‌ای و نه از چیزی باخبر هستی."
     },
     {
       "VOrder": 28,
@@ -555,7 +569,8 @@
       "Text": "کسانی در چنین ره باز ماندند",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: افرادی که در مسیر حقیقت و عشق به هدف نرسیدند، کسانی بودند که فقط به ظاهر و تظاهر پرداختند و نتوانستند عمق احساسات و محبت‌های خود را بیان کنند."
     },
     {
       "VOrder": 30,
@@ -571,7 +586,8 @@
       "Text": "چو چوگان سرنگون مردان میدان",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: در میدان نبرد، همچون چوبی که در بازی چوگان بر زمین می‌افتد، مردان جنگ به شکست روی می‌آورند و هیچ‌کس نمی‌تواند این چالش را بدون زحمت و سختی پشت سر بگذارد."
     },
     {
       "VOrder": 32,
@@ -587,7 +603,8 @@
       "Text": "همه در پرده حیرت بماندند",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: همه در شگفتی و حیرت باقی ماندند و زیر سایه غیرت و غیرت‌مندی قرار گرفتند."
     },
     {
       "VOrder": 34,
@@ -603,7 +620,8 @@
       "Text": "برون نامد درین دوران به‌غایت",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: در این زمان هیچ‌کس از این منطقه به طور کامل پخته و成熟 نشده است."
     },
     {
       "VOrder": 36,
@@ -619,7 +637,8 @@
       "Text": "فریدونان ز ره مرکب براندند",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: فریدونان از مسیر سوارکاری دور شدند و جز گاوان در این مکان هیچ کس دیگری باقی نماند."
     },
     {
       "VOrder": 38,
@@ -635,7 +654,8 @@
       "Text": "چو یک دل نیست اندر خانقاهی",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: زمانی که در یک مکان مذهبی، مانند خانقاه، وحدت و همدلی وجود نداشته باشد، افراد عادی و مردم عذاب و گناهی ندارند."
     },
     {
       "VOrder": 40,
@@ -651,7 +671,8 @@
       "Text": "دری در قعر دریای دل تست",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: در عمق احساسات و دل‌های ما درب و دنیایی نهفته است که از هر دو عالم و دنیا به دست آمده است."
     },
     {
       "VOrder": 42,
@@ -667,7 +688,8 @@
       "Text": "دل تو موضع تجرید آمد",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: دل تو به محل خلوص و نزدیکی خدا تبدیل شده و به معرفت و یکتایی رسیده است."
     },
     {
       "VOrder": 44,
@@ -683,7 +705,8 @@
       "Text": "دل تو منظر اعلاست حق را",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: دل تو مکان والایی است برای مشاهده حق، اما متأسفانه این حق را نمی‌توانی ببینی."
     },
     {
       "VOrder": 46,
@@ -699,7 +722,8 @@
       "Text": "نظرگاه شبان‌روزی دل تست",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: چشم‌انداز دل شب و روز تو، از آن توست، اما ظاهر دل تو در خاک و سختی گرفته است."
     },
     {
       "VOrder": 48,
@@ -715,7 +739,8 @@
       "Text": "چو روی دل کنی از سوی گِل دور",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: وقتی که از دنیای مادی و دلبستگی‌ها فاصله بگیری و به سمت حقیقت و معنویت بروی، در آن صورت، دل‌ات از این پایین‌ترین مرتبه‌ها رهایی پیدا کرده و به نور و روشنایی دست خواهد یافت."
     },
     {
       "VOrder": 50,
@@ -731,7 +756,8 @@
       "Text": "غلام آن دلم کز دل خبر یافت",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: من بنده‌ٔ دلی هستم که لحظه‌ای از نفس بد خودم آگاه شد و به همین خاطر از آن دوری جست."
     },
     {
       "VOrder": 52,
@@ -747,7 +773,8 @@
       "Text": "عزیزانی که مرد کار بودند",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: افرادی که در کار و تلاش مشغول بودند، لحظه‌ای از نفس و خواسته‌های خود دل‌زده و بی‌زار بودند."
     },
     {
       "VOrder": 54,
@@ -763,7 +790,8 @@
       "Text": "به‌کام نفس خود گامی نرفتند",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: آن‌ها به خواسته‌های خود دست نیافتند و از آنچه دوست داشتند، بهره‌مند نشدند و به راحتی خواب آرامی نداشتند."
     },
     {
       "VOrder": 56,
@@ -779,7 +807,8 @@
       "Text": "نه نان دادند نفس مشتهی را",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: نه تنها برای آرزوی سیری چیزی به او ندادند، بلکه حتی چیزی خالی و بی‌ارزش هم به او ندادند."
     },
     {
       "VOrder": 58,
@@ -795,7 +824,8 @@
       "Text": "ولی هر کاو هوای دل گسل کرد",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: هر کس که به دنبال آرامش دل و عشق باشد، نمی‌تواند بدون تجربه‌ی شدید دلسوزی و درد، به خوشی و امنیت واقعی دست یابد."
     },
     {
       "VOrder": 60,

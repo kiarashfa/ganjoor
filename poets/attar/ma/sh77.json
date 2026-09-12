@@ -331,7 +331,8 @@
       "Text": "ای باحمد لحمک لحمی شده",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که با ستایش تو، گوشتی از من شده است و با نام تو، خون من دارای تپش و زندگی شده است."
     },
     {
       "VOrder": 2,
@@ -347,7 +348,8 @@
       "Text": "ای باحمد بوده در هر جا یکی",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که در هر مکان به ستایش پرداخته‌ای، تو همانند یک وجود واحد هستی که در همه جا به خوشنامی شناخته می‌شوی."
     },
     {
       "VOrder": 4,
@@ -363,7 +365,8 @@
       "Text": "ای باحمد گفته اسرار الاه",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: تو که به ستایش خداوند، رازهای او را بیان می‌کنی و صبحگاهان به بهترین شکل آغاز می‌کنی."
     },
     {
       "VOrder": 6,
@@ -379,7 +382,8 @@
       "Text": "ای باحمد همره و همتاج تو",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که از خوبی‌های تو یاد می‌شود و در کنار تو قرار دارد، ای کسی که در شب معراج تو، نام نیکت بر سر زبان‌هاست."
     },
     {
       "VOrder": 8,
@@ -395,7 +399,8 @@
       "Text": "در ولایت انبیا را سرشده",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: در سرزمین پیامبران، بر همه‌ی ولی‌ها و شخصیت‌های والای الهی، بهترین و بالاترین مقام و افتخار قرار گرفته است."
     },
     {
       "VOrder": 10,
@@ -411,7 +416,8 @@
       "Text": "ای بشاگردیت فخر جبرئیل",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که به بشاگردیت افتخار جبرئیل هستی و پروردگار بزرگ تو را ستایش‌گر شده است."
     },
     {
       "VOrder": 12,
@@ -427,7 +433,8 @@
       "Text": "ای تو خود مظهر عجایب آمده",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: تو خود تجسم شگفتی‌ها هستی و برای تسلط بر هر دو جهان به اینجا آمده‌ای."
     },
     {
       "VOrder": 14,
@@ -443,7 +450,8 @@
       "Text": "ای بهر دو کون فرمانت روان",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: ای تو که برای دو جهان، فرماندهی و سلطنت حکمت در جان تو جاری است."
     },
     {
       "VOrder": 16,
@@ -459,7 +467,8 @@
       "Text": "ای ترا جنّ و پری جویا شده",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: تو که جنی و پری را در جستجوی خویش یافتی، به زبان انسان درآمده‌ای و در کلام او ظاهر شده‌ای."
     },
     {
       "VOrder": 18,
@@ -475,7 +484,8 @@
       "Text": "ای ترا نشناخته قاضی شهر",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: تو که قاضی شهر هستی و به من رحم نمی‌کنی، نمی‌دانی که من کی هستم و فقط بر اساس قوانین بی‌رحمانه‌ات حکم می‌کنی."
     },
     {
       "VOrder": 20,
@@ -491,7 +501,8 @@
       "Text": "ای ترا نشناخته مفتی ما",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که مرا نمی‌شناسی، سرانجام بلا به سراغ تو خواهد آمد."
     },
     {
       "VOrder": 22,
@@ -507,7 +518,8 @@
       "Text": "ای ترا نشناخته ناپاک زاد",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: تو که مرا نشناخته‌ای، ناپاک زاده‌ای، زیرا که از قوم و نسل عاد هستی."
     },
     {
       "VOrder": 24,
@@ -523,7 +535,8 @@
       "Text": "ای ترا نشناخته جز عاشقان",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: تو را فقط عاشقان و نیکان شناخته‌اند و جز آن‌ها کسی تو را نمی‌شناسد."
     },
     {
       "VOrder": 26,
@@ -539,7 +552,8 @@
       "Text": "ای ترا نشناخته جز مرد حق",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که جز مردان حق را نشناخته‌ام، من غیر از این معنی را نخوانده‌ام."
     },
     {
       "VOrder": 28,
@@ -555,7 +569,8 @@
       "Text": "ای ترا نشناخته جز حقّ کسی",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که جز حقیقت نتوانسته‌ام تو را بشناسم، چرا که تو حقیقت را رفتی و حقیقت را بیان کردی بسیار."
     },
     {
       "VOrder": 30,
@@ -571,7 +586,8 @@
       "Text": "ای ترا نشناخته جز مصطفی",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که جز راهنمایی پیامبر، کسی را نشناخته‌ای، فقط در معراج تو با خدای خود ملاقات خواهی کرد."
     },
     {
       "VOrder": 32,
@@ -587,7 +603,8 @@
       "Text": "ای ترا نشناخته جز اهل درد",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: تنها کسانی که به عمق درد و رنج آشنا هستند، می‌توانند تو را بشناسند؛ زیرا آن‌ها هستند که واقعاً مردان حقیقی و شجاعی به حساب می‌آیند."
     },
     {
       "VOrder": 34,
@@ -603,7 +620,8 @@
       "Text": "ای ترا نشناخته جز اهل راز",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: تنها کسانی که در جستجوی حقیقت و درک عمیق هستند، تو را به طور واقعی می‌شناسند و آنها همیشه به تو نیازمندند."
     },
     {
       "VOrder": 36,
@@ -619,7 +637,8 @@
       "Text": "ای ترا نشناخته جز عارفی",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: کسی تو را نمی‌شناسد جز عارفی که در راه عرفان و وحدت با تو آشناست."
     },
     {
       "VOrder": 38,
@@ -635,7 +654,8 @@
       "Text": "ای ترا نشناخته جز کاملان",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: تنها افرادی که به کمال رسیده‌اند، برای دیدن تو آماده و ایستاده‌اند، زیرا هیچ‌کس جز آنها تو را به درستی نمی‌شناسد."
     },
     {
       "VOrder": 40,
@@ -651,7 +671,8 @@
       "Text": "ای دو عالم را شده مقصود، تو",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که در دو جهان هدف و مقصود قرار گرفته‌ای، تو به معنای واقعی عارف و متوجهٔ خدا هستی."
     },
     {
       "VOrder": 42,
@@ -667,7 +688,8 @@
       "Text": "ای ربوده هستی منصور را",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: ای خداوند، منصور را که در خفا بود، با جامی از مستی و سرخوشی آشکار کردی."
     },
     {
       "VOrder": 44,
@@ -683,7 +705,8 @@
       "Text": "ای تو کرده یک نظر در چشم او",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: ای تو که با یک نگاه به چشمان او، خود را به حقیقت وجودی او در دنیا شناسانده‌ای."
     },
     {
       "VOrder": 46,
@@ -699,7 +722,8 @@
       "Text": "ای بمکّه کرده در اوّل ظهور",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: ای که در مکّه ظهور کردی و در نهایت در نجف، همچون دریای نور می‌درخشی."
     },
     {
       "VOrder": 48,
@@ -715,7 +739,8 @@
       "Text": "ای تو در معنی ظهور مصطفی",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: تو در عمق معنا و حقیقت، نشانه‌ی پیامبر هستی و در چهره و ظاهر خود، نمایانگر اویی."
     },
     {
       "VOrder": 50,
@@ -731,7 +756,8 @@
       "Text": "ای دل عطّار از نام تو پر",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: ای دل، شعور و احساس عطّار از نام تو زنده و پرنشاط است و دل او از وجود تو سرشار می‌شود."
     },
     {
       "VOrder": 52,
@@ -747,7 +773,8 @@
       "Text": "ای تو گشته واقف دلها بنور",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که به دل‌ها آگاهی و دانش داری، من از نور ولایت، نوری درونی دارم که همیشه در کنار من است."
     },
     {
       "VOrder": 54,
@@ -763,7 +790,8 @@
       "Text": "چون دلم را ساختی سلطان نشین",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: وقتی که دل مرا پر از نور ایمان کردی، بیا و در جان من ساکن شو."
     },
     {
       "VOrder": 56,
@@ -779,7 +807,8 @@
       "Text": "چون مرابرداشتی ای بحر نور",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: زمانی که تو مرا از خودت برمی‌داری ای دریاى نور، بر من چشم‌پوشى نکن و تا زمان انفجار صور به من نگاه کن."
     },
     {
       "VOrder": 58,
@@ -795,7 +824,8 @@
       "Text": "ختم کن عطار این اسرار را",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: عطار این رازها را به پایان می‌برد، اما در دل خود این نورها را نگه‌دار."
     },
     {
       "VOrder": 60,

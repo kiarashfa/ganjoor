@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "نادانی تو بر دوگونه بینم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌بینم که نادانی تو به دو شکل نمایان است، ای کسی که خود را نادان می‌دانی."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "نادان تری از هر که هست نادان",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: احمق‌تر از هر کسی که نادان است، کسی است که نمی‌داند که نادانی‌اش را نمی‌داند."
     },
     {
       "VOrder": 4,

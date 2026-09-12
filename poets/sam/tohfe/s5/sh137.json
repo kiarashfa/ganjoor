@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "طالبعلم بود و در شعر طبع بانگیز داشت این مطلع از اوست :",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: او دانش‌آموزی بود که در شعر استعداد و ذوق بالایی داشت؛ این بیت از اوست:"
     },
     {
       "VOrder": 3,
       "Position": "Right",
       "Text": "انگشت بهر عشق چو بر ابروان نهاد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: انگشتش را برای عشق بر روی ابروانش گذاشت و با این کار تیر را در کمان برای کشتن من قرار داد."
     },
     {
       "VOrder": 4,

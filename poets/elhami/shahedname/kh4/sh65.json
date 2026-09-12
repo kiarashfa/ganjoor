@@ -401,7 +401,8 @@
       "Text": "که ایدر شتاب آر فرمان تو راست",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: در اینجا گفته شده که هر چیزی که می‌خواهی و به آن نیاز داری، به سرعت در دسترس تو قرار می‌گیرد. همه چیزهایی که ارزشمند و مهم هستند، از جمله ثروت، شهر، بدن و جان تو، متعلق به تو و تحت فرمان تو هستند."
     },
     {
       "VOrder": 2,
@@ -417,7 +418,8 @@
       "Text": "براهیم جنگی به موصل دراست",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: ابراهیم جنگی در موصل در حال نبرد است و سپاه او دور وجود دارد، در حالی که مختار بدون یاری و کمک است."
     },
     {
       "VOrder": 4,
@@ -433,7 +435,8 @@
       "Text": "همه کوفیانند با وی به کین",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: همه افراد کوفه به دشمنی با او هستند، تو خود بگو چگونه ممکن است در چنین وضعیتی این زمردی به دست بیاید؟"
     },
     {
       "VOrder": 6,
@@ -449,7 +452,8 @@
       "Text": "بیا کام خود را برآورده بین",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: بیایید آرزوی خود را محقق شده ببینیم، تا چهره بخت خوش را در پشت پرده تماشا کنیم."
     },
     {
       "VOrder": 8,
@@ -465,7 +469,8 @@
       "Text": "فرستاده اش برد و مصعب بخواند",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: فرستاده او را برد و مصعب نیز به محض اینکه نامه را خواند، به سمت شهر لشکر حرکت کرد."
     },
     {
       "VOrder": 10,
@@ -481,7 +486,8 @@
       "Text": "بدو کوفیان برنبستند راه",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: کوفیان به سرعت مسیر را برای حرکت نیروها باز کردند و دروازه را به روی آن سپاه گشودند."
     },
     {
       "VOrder": 12,
@@ -497,7 +503,8 @@
       "Text": "غو کوس ازکوفه شد بر سپهر",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: صدای طبل از کوفه به آسمان رسید و گردونه‌ی آسمان، سخت‌تر از خورشید، از حرکت ایستاد."
     },
     {
       "VOrder": 14,
@@ -513,7 +520,8 @@
       "Text": "همه شهر شد پر درفش و سنان",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: تمام شهر مملو از پرچم‌ها و نیزه‌ها شده است و سواران جنگی در کنار یکدیگر آماده نبرد هستند."
     },
     {
       "VOrder": 16,
@@ -529,7 +537,8 @@
       "Text": "غو گاو دم نعره ی باره گی",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: صدای نعره‌ی گاو آسمان را به شدت و یک دفعه پاره کرد."
     },
     {
       "VOrder": 18,
@@ -545,7 +554,8 @@
       "Text": "زهر سو فروزان به سر مشعله",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: از هر طرف شعله‌ای روشن است و صدای بوق اتومبیل‌ها و ترافیک، شهر را پر از همهمه کرده است."
     },
     {
       "VOrder": 20,
@@ -561,7 +571,8 @@
       "Text": "سپهبد چو بشنید آن های و هوی",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: سپهبد با شنیدن آن سر و صدا متوجه شد که چه چیزی بر سر کورا آمده است."
     },
     {
       "VOrder": 22,
@@ -577,7 +588,8 @@
       "Text": "همانا بدو از سروش آگهی",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: به حقیقت خبری از سروش به او رسید که کاخ و منزلت تو به زودی خالی خواهد شد."
     },
     {
       "VOrder": 24,
@@ -593,7 +605,8 @@
       "Text": "گزید از پی بنده گی گوشه ای",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: به دنبال بنده‌گی، جایی را انتخاب کن که تو را به سفر راهنمایی کند و توشه‌ات را آماده کند."
     },
     {
       "VOrder": 26,
@@ -609,7 +622,8 @@
       "Text": "درآن گوشه بنشست و زاری گرفت",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: در گوشه‌ای نشسته و به شدت گریه کرده، اشک‌هایش را به چهره می‌مالد."
     },
     {
       "VOrder": 28,
@@ -625,7 +639,8 @@
       "Text": "بیفراشت دست و خدا را بخواند",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: دستش را بلند کرد و خدا را صدا زد، ستایش و نیایش کرد."
     },
     {
       "VOrder": 30,
@@ -641,7 +656,8 @@
       "Text": "که ای برتر از فکر و و هم و قیاس",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که از اندیشه‌ها و قیاس‌های ما برتری، بنده‌گان تو همواره شکر و سپاس تو را به جا می‌آورند."
     },
     {
       "VOrder": 32,
@@ -657,7 +673,8 @@
       "Text": "تو دادی مرا پایه ی ارجمند",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: تو به من جایگاهی ارزشمند دادی و من را از زمین به آسمان بردی."
     },
     {
       "VOrder": 34,
@@ -673,7 +690,8 @@
       "Text": "به کوفه مرا مهتری از تو بود",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: در کوفه یک کسی بود که مقام و رتبه‌اش از تو بالاتر بود و در بین افرادی که گردن‌کش و قدرتمند بودند، او از همه برتر بود."
     },
     {
       "VOrder": 36,
@@ -689,7 +707,8 @@
       "Text": "تو دادی مر این همه برگ و ساز",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: تو به من این همه نعمت و امکانات عطا کردی و من از دست تو بهره‌مند شدم و در هر کاری که خواستم به کمک تو دسترسی داشتم."
     },
     {
       "VOrder": 38,
@@ -705,7 +724,8 @@
       "Text": "به نیکی تو این نام دادی مرا",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: تو با نیکی به من نامی داده‌ای و با این کار به من قدرتی داده‌ای که بتوانم در برابر دشمنان بایستم."
     },
     {
       "VOrder": 40,
@@ -721,7 +741,8 @@
       "Text": "تو کردی مرا اینچنین چیردست",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: تو باعث شدی که این‌گونه با دست و دلم خراب باشم، که هر چیز بدی را که به من بدهی، زیر دستم قرار می‌گیرد."
     },
     {
       "VOrder": 42,
@@ -737,7 +758,8 @@
       "Text": "پس از کشتن دشمنان امام",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: پس از جنگ با دشمنان امام، تنها چیزی که برای من باقی مانده، امید به شهادت است."
     },
     {
       "VOrder": 44,
@@ -753,7 +775,8 @@
       "Text": "بپیوندم اکنون به شاه شهید",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: اکنون می‌خواهم به آن شاه شهیدی که دل‌ها را از خود سیراب می‌کند و نوه پیامبر عزیز✨ بپیوندم."
     },
     {
       "VOrder": 46,
@@ -769,7 +792,8 @@
       "Text": "به مینو درون شادمان کن زمن",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: در باغ بهشت، روحت را با خوشحالی سرشار کن، به یاد علی (ع)، فاطمه (س)، حسین (ع) و حسن (ع) بیفکن."
     },
     {
       "VOrder": 48,
@@ -785,7 +809,8 @@
       "Text": "ببخشا همه تیره گی های من",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: ببخشایید تمام تاریکی‌ها و نادانی‌های من، زیرا آن‌ها همگی ناشی از جهل و نادانی خودم هستند."
     },
     {
       "VOrder": 50,
@@ -801,7 +826,8 @@
       "Text": "چو من بنده ی دوده ی حیدرم",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: من غلام و پیرو خاندان حیدر هستم و از خانواده پیامبر حمایت می‌کنم."
     },
     {
       "VOrder": 52,
@@ -817,7 +843,8 @@
       "Text": "بدان دودمان و بدان شهریار",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: ای فرمانروا و از نسل بزرگ، گناهانم را در روز حساب ببخش."
     },
     {
       "VOrder": 54,
@@ -833,7 +860,8 @@
       "Text": "درآن شب به یکتا خداوند فرد",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: در آن شب، شخصی تنها و بی‌همتا با خداوند سخن می‌گفت و از دردها و غصه‌هایش شکایت می‌کرد."
     },
     {
       "VOrder": 56,
@@ -849,7 +877,8 @@
       "Text": "چه گویم که مختار چون می گریست؟",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: چه بگویم از حال مختار که وقتی گریه می‌کرد، اشک نمی‌ریخت، بلکه خون از چشمانش جاری بود."
     },
     {
       "VOrder": 58,
@@ -865,7 +894,8 @@
       "Text": "سپیده پس از عجز و راز و نیاز",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: سپیده‌دم بعد از ناتوانی و دعا، به دنبال سلام و تشکر و نماز می‌آید."
     },
     {
       "VOrder": 60,
@@ -881,7 +911,8 @@
       "Text": "همانا به گوش دل او سروش",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: دل او شنونده‌ای است که پیامی از سوی امام حسین علیه‌السلام از کربلا با صدای بلند به او رسید و او این پیام را دریافت کرد."
     },
     {
       "VOrder": 62,
@@ -897,7 +928,8 @@
       "Text": "که من در بهشت ای یل رزم خواه",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: در بهشت، ای قهرمان جنگ، منتظر تو هستم و دو چشمانم به دنبال تو است."
     },
     {
       "VOrder": 64,
@@ -913,7 +945,8 @@
       "Text": "میان تو و من همین جان بود",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: میان من و تو، تنها همین جان وجود دارد؛ اگر خواهان جانان هستی، جانت را به من بده."
     },
     {
       "VOrder": 66,
@@ -929,7 +962,8 @@
       "Text": "پس از جانستانی زبدخواه من",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: بعد از آنکه در جدال با کسی که برتر است جانم را از دست دادم، حالا وقت آن است که در راه من جان فشانی کنم."
     },
     {
       "VOrder": 68,
@@ -945,7 +979,8 @@
       "Text": "چو مختار سالار پیروز روز",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: مختار، که فرمانده‌ای پیروزمند و موفق است، همچون روز، کشور را روشن و شاداب می‌کند. او دشمنان را به شدت مجازات می‌کند و آنها را در آتش خشم خود می‌سوزاند."
     },
     {
       "VOrder": 70,
@@ -961,7 +996,8 @@
       "Text": "بدینسان شنید از خجسته سروش",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: در اینجا بیان می‌شود که شخصی از یک ندا یا آواز خوشایند و خوشبختی شنیده است که باعث شده روح، قلب، صبر و عقلش را به او بدهد."
     },
     {
       "VOrder": 72,
@@ -977,7 +1013,8 @@
       "Text": "به پیش خدا خاک بوسید و گفت:",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: آن شخص با خضوع و احترام به درگاه خدا سر بر خاک گذاشت و گفت که اکنون آرزوهایش به تحقق پیوسته است."
     },
     {
       "VOrder": 74,

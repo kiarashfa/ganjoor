@@ -641,7 +641,8 @@
       "Text": "یک کنیز آمد بکف یکتای نان",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: یک کنیز با نانی در دست به گدا گفت: «بیا و اینجا را بگیر، ما اینجا هستیم.»"
     },
     {
       "VOrder": 2,
@@ -657,7 +658,8 @@
       "Text": "نی گرفت آن نان و نی گفتش جواب",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: نی نان را گرفت و چیزی نگفت، بلکه با شور و هیجان گفت که همه چیز برای خداست."
     },
     {
       "VOrder": 4,
@@ -673,7 +675,8 @@
       "Text": "یک دو گامی گشت دور و بازگشت",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: پس از طی کردن چند قدم و بازگشت دوباره، به خدا قسم چیزی را با خود هم‌گام کردم."
     },
     {
       "VOrder": 6,
@@ -689,7 +692,8 @@
       "Text": "آبش اندر چشم و گریه در گلو",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: چشمانش پر از اشک است و گلویش گرفته شده، این حالت نشان‌دهنده‌ای از وجود خداوند و آثار او در زندگی‌اش است."
     },
     {
       "VOrder": 8,
@@ -705,7 +709,8 @@
       "Text": "گفت با صد ناله صاحب دولتان",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: این گدا با ناله و زاری به صاحبان قدرت گفت که تنها به خاطر حق و حقوقش، به او نان بدهند."
     },
     {
       "VOrder": 10,
@@ -721,7 +726,8 @@
       "Text": "آن کنیزک باز نان آورد و آب",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: آن دختر کوچک دوباره نان و آب آورد و گفت: بگیر ای فقیر، سریع‌تر برو."
     },
     {
       "VOrder": 12,
@@ -737,7 +743,8 @@
       "Text": "دست واپس برد و گامی چند رفت",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: دستش را عقب کشید و چند قدمی پیش رفت، اما دوباره به سمت خانه‌اش بازگشت."
     },
     {
       "VOrder": 14,
@@ -753,7 +760,8 @@
       "Text": "کرد فریادی که ای اهل سرای",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: او فریاد زد که ای ساکنان این مکان، به خاطر خدا یک انعام به این گدا بدهید."
     },
     {
       "VOrder": 16,
@@ -769,7 +777,8 @@
       "Text": "ای شما از خوان نعمت کام گیر",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: ای افرادی که از نعمت و ثروت بهره‌مند هستید، فراموش نکنید که باید به یاد نیازمندان و گدایان فقیر باشید."
     },
     {
       "VOrder": 18,
@@ -785,7 +794,8 @@
       "Text": "ای کریمان یک شبی بهر خدا",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: ای مهربانان، یک شب برای خدا لطف کنید و لقمه‌ای به یاد نیازمندان بردارید."
     },
     {
       "VOrder": 20,
@@ -801,7 +811,8 @@
       "Text": "ای شما در خواب راحت خفتگان",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: ای کسانی که در خواب خوش به سر می‌برید، فراموش نکنید که چه کسانی در حال درد و رنج هستند."
     },
     {
       "VOrder": 22,
@@ -817,7 +828,8 @@
       "Text": "باز اهل آن سرا آش و طعام",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: اهل آن خانه خوراک و غذا را به سوی او آوردند و این باغ را سرسبز و پرثمر کردند."
     },
     {
       "VOrder": 24,
@@ -833,7 +845,8 @@
       "Text": "شیئی لله گفت باز و پس دوید",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: چیزی از سوی خداوند صدا زد و دوباره بازگشت و نعره دیگری سر داد."
     },
     {
       "VOrder": 26,
@@ -849,7 +862,8 @@
       "Text": "قند و حلوا و شکر از بهر او",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: او قند و حلوا و شکر را برای خودش آوردند، اما او آنها را نپذیرفت."
     },
     {
       "VOrder": 28,
@@ -865,7 +879,8 @@
       "Text": "سیم و زر دادند او را پس فکند",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: او را با طلا و نقره به غنیمت دادند، اما او آنها را دور انداخت و با صدای بلند اعلام کرد که اینها برای خداست."
     },
     {
       "VOrder": 30,
@@ -881,7 +896,8 @@
       "Text": "هرچه دادند از گدایی بس نکرد",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: او هرچه از دیگران دریافت کرد و به دست آورد، باز هم از درون خانه‌اش دست برنداشت و به دنبال چیزهای بیشتری بود."
     },
     {
       "VOrder": 32,
@@ -897,7 +913,8 @@
       "Text": "روزگاران کار او این بود و بس",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: روزگار فقط به کار او مشغول بود و هیچ‌کس جز او از رازهایش آگاه نبود."
     },
     {
       "VOrder": 34,
@@ -913,7 +930,8 @@
       "Text": "بیست کرت هر شب و روز آن گدا",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: هر شب و روز، آن گدا بیست بار به خانه‌ات می‌آمد تا آنجا را ببیند."
     },
     {
       "VOrder": 36,
@@ -929,7 +947,8 @@
       "Text": "برکفش زنبیل و وردش این سخن",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: زنبیل بر دوش دارد و در دل ندا می‌کند: ای خداوندان کرامت، از من درخواست‌هایی کن."
     },
     {
       "VOrder": 38,
@@ -945,7 +964,8 @@
       "Text": "چون چنین دیدند اهل آن سرا",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: وقتی اهالی آنجا چنین دیدند، به سوی او رفتند و پرسیدند که آیا مسافری فقیر است؟"
     },
     {
       "VOrder": 40,
@@ -961,7 +981,8 @@
       "Text": "ما ندیدستیم چون تو نرگدا",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: ما تاکنون مانند تو زیبایی ندیده‌ایم؛ حالا به من بگو آیا تو معشوق هستی یا عشق تو درد و عذاب است؟"
     },
     {
       "VOrder": 42,
@@ -977,7 +998,8 @@
       "Text": "آبروی هر گدایی برده ای",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: تو آبروی هر گدایی را از بین برده‌ای و خودت میان انبان‌ات شصت دینار جمع کرده‌ای."
     },
     {
       "VOrder": 44,
@@ -993,7 +1015,8 @@
       "Text": "نی ستانی نان نه حلوا نی شکر",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: به معنای این جمله می‌توان گفت که در زندگی، نباید به دنبال چیزهای فریبنده و زودگذر بود. نان و روزی واقعی ارزش بیشتری دارند و چیزهایی مانند حلوا، شکر و حتی طلا و نقره نمی‌توانند جایگزین آنچه که در این دنیا ضروری است، شوند. زندگی باید بر اساس نیازهای واقعی و اساسی بنا شود، نه بر اساس لذت‌های زودگذر و مادی."
     },
     {
       "VOrder": 46,
@@ -1009,7 +1032,8 @@
       "Text": "آن گدا چون این شنید از خواجگان",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: آن گدای بی‌نوا وقتی این را از ثروتمندان شنید، گفت: بگذارید من هم مثل آزادگان زندگی کنم."
     },
     {
       "VOrder": 48,
@@ -1025,7 +1049,8 @@
       "Text": "گر گدایی بهر آش آوردمی",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: اگر من به خاطر آوردن غذای آشی برای یک گدا باشم، اشکم را پاره پاره می‌کنم."
     },
     {
       "VOrder": 50,
@@ -1041,7 +1066,8 @@
       "Text": "بهر نان گر دورتان گردیدمی",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: برای تأمین نان، اگر دور شما بگردم، اشک خود را برای سیر کردن نان‌خوران خود می‌ریزم."
     },
     {
       "VOrder": 52,
@@ -1057,7 +1083,8 @@
       "Text": "عاشقم من بر گدایی روز و شب",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: من عاشق گدایی هستم و شب و روز به این حال زندگی می‌کنم؛ جان من به جان کسی که درخواست می‌کند، وابسته است."
     },
     {
       "VOrder": 54,
@@ -1073,7 +1100,8 @@
       "Text": "من گدایی خواهم ای یاران نه نان",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: من درخواست کمک می‌کنم ای دوستان، زیرا این طلب کردن از شما برای من ارزشش بیشتر از زندگی‌ام است."
     },
     {
       "VOrder": 56,
@@ -1089,7 +1117,8 @@
       "Text": "این بگفت و اشک از چشمان فشاند",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: ایشان این جمله را گفت و اشک از چشمانش سرازیر شد، و کدخدای آن محل به شدت متحیر و شگفت‌زده باقی ماند."
     },
     {
       "VOrder": 58,
@@ -1105,7 +1134,8 @@
       "Text": "ساعتی بگریست عاشق زار زار",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: مدتی عاشق به شدت گریست و اشک‌هایش مانند باران بهاری ریزان بود."
     },
     {
       "VOrder": 60,
@@ -1121,7 +1151,8 @@
       "Text": "عشق آخر سرکشی آغاز کرد",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: عشق در نهایت به اوج خود رسید و سرکشی آغاز شد. کنترل از دست رفت و اسرار آشکار شدند."
     },
     {
       "VOrder": 62,
@@ -1137,7 +1168,8 @@
       "Text": "گفت هستم من گدای روی دوست",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: من خود را خدمتگزار و گدای محبوبم می‌دانم و از این خدمتگزاری تنها خواسته‌ام دیدار اوست."
     },
     {
       "VOrder": 64,
@@ -1153,7 +1185,8 @@
       "Text": "گر ترحم می کنی ای مرد مه",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی رحمی کنی، ای مرد بزرگ، کمی از نوشیدنی دیدارت را به من بده."
     },
     {
       "VOrder": 66,
@@ -1169,7 +1202,8 @@
       "Text": "من گدا هستم گدای یک نظر",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: من یک گدا هستم و تنها به یک نگاه نیاز دارم؛ یک نگاه از تو برای من از صد کیسه شکر شیرین‌تر است."
     },
     {
       "VOrder": 68,
@@ -1185,7 +1219,8 @@
       "Text": "یکدلی اندر رهی گم کرده ام",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: در مسیر یکدلی، گم شده‌ام و برای یافتن آن، به اینجا آمده‌ام."
     },
     {
       "VOrder": 70,
@@ -1201,7 +1236,8 @@
       "Text": "یا دل گم کرده ام را بازده",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: ای دل، یا مرا پیدا کن و به من بازگرد، یا به این دلشکسته و خسته، آرامش و طمأنینه‌ای بده."
     },
     {
       "VOrder": 72,
@@ -1217,7 +1253,8 @@
       "Text": "یا به ترک غمزه فرمایی سخن",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: اگر با چشمک خود توجه مرا جلب کنی، سخنان دل را در آستانه حضورت به زبان می‌آورم و از محبت خود بسیار می‌ریزم."
     },
     {
       "VOrder": 74,
@@ -1233,7 +1270,8 @@
       "Text": "ای خوشا آن سر که در راه تو شد",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: چه زیباست سرنوشتی که در راه تو به خاک افتد و در گذرگاه تو قرار گیرد."
     },
     {
       "VOrder": 76,
@@ -1249,7 +1287,8 @@
       "Text": "ای خنک آن دل که خون شد در غمت",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: ای دل خوشا به حال تو که از عشق تو خون گریه کرده است و ای جسمی که برای دیدن تو فدا شده است."
     },
     {
       "VOrder": 78,
@@ -1265,7 +1304,8 @@
       "Text": "خوش بود جان لیک از بهر نثار",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: روح و جان انسان در حکم یک چیز زیبا و دوست‌داشتنی است، اما برای قربانی کردن و فدای آن، انسان حاضر است تا حتی به خاک پای معشوقش نثار کند."
     },
     {
       "VOrder": 80,
@@ -1281,7 +1321,8 @@
       "Text": "سرخوش است اما به فتوراک شهی",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: این شعر به بیان حالتی از شادی و سرخوشی اشاره دارد که ممکن است سطحی یا گذرا باشد. در آن به یک شخصیت دلپذیر و زیبا اشاره شده، اما همزمان یادآوری می‌شود که همه چیز ممکن است به خاکی و بی‌ارزشی منتهی شود. به عبارت دیگر، زیبایی و شادی ممکن است موقتی باشد و در نهایت به واقعیت‌های زندگی برگردد."
     },
     {
       "VOrder": 82,
@@ -1297,7 +1338,8 @@
       "Text": "دیده خوش باشد ولی در روی تو",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: چشمانم به زیبایی تو خوش است، اما دل من در اسارت گیسوانت گرفتار شده است."
     },
     {
       "VOrder": 84,
@@ -1313,7 +1355,8 @@
       "Text": "جویمت چون جستجوی تو خوش است",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: من به دنبالت می‌آیم چون جستجوی تو برایم شیرین است و از تو صحبت می‌کنم زیرا گفتگوی با تو برایم لذت‌بخش است."
     },
     {
       "VOrder": 86,
@@ -1329,7 +1372,8 @@
       "Text": "رنج تو در جان من رنجی خوش است",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: درد و رنجی که تو احساس می‌کنی برای من مایه‌ی خوشحالی است و ناراحتی تو در دل من مانند گنجی ارزشمند است."
     },
     {
       "VOrder": 88,
@@ -1345,7 +1389,8 @@
       "Text": "سرگذشت عاشقان ای دوستان",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: داستان عاشقان، ای دوستان، همچون دفتر بزرگی خواهد بود که در سراسر جهان گسترش می‌یابد."
     },
     {
       "VOrder": 90,
@@ -1361,7 +1406,8 @@
       "Text": "این زمان بگذار تا وقت دگر",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: در این لحظه، فرصت را غنیمت شمرده و در فرصتی دیگر، آنچه در ذهن داری را بگو."
     },
     {
       "VOrder": 92,
@@ -1377,7 +1423,8 @@
       "Text": "من همی گفتم دعای اولیا",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: من همواره می‌گفتم که دعا و درخواست‌های اولیا به منظور دفع سرنوشت و بلاها نیست."
     },
     {
       "VOrder": 94,
@@ -1393,7 +1440,8 @@
       "Text": "بلکه باشد در نظرشان امتثال",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: در نظر آنان این مهم است که فرمان‌های پادشاه بزرگوار را اطاعت کنند و به آن عمل نمایند."
     },
     {
       "VOrder": 96,
@@ -1409,7 +1457,8 @@
       "Text": "از خدا آمد چو ادعونی خطاب",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: اگر از من بخواهید که دعا کنم، به راستی که خداوند همواره پاسخ می‌دهد. از این رو، ای بزرگوار، بکوشید که در دعا کنید و از او مدد بخواهید."
     },
     {
       "VOrder": 98,
@@ -1425,7 +1474,8 @@
       "Text": "می کنند آن اولیاء مجتبا",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: اولیاء خدا در دعا به اشاره‌ای بسنده می‌کنند."
     },
     {
       "VOrder": 100,
@@ -1441,7 +1491,8 @@
       "Text": "خواهش پیدا و تصریح طلب",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: هرگاه از کسی چیزی بخواهی و درخواست خود را به وضوح بیان کنی، ممکن است به نظر ادب نرسد و دست کم گرفته شود."
     },
     {
       "VOrder": 102,
@@ -1457,7 +1508,8 @@
       "Text": "یک اشارت سوی حاجت می کند",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: یک اشاره به سوی خواسته کافی است تا نیاز خود را برآورده کند."
     },
     {
       "VOrder": 104,
@@ -1473,7 +1525,8 @@
       "Text": "همچو آن ایوب زار مبتلا",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "هوش مصنوعی: مانند آن ایوب که در درد و رنج خود، به خاطر جلوگیری از آسیب و ضرر، دعا نکرد."
     },
     {
       "VOrder": 106,
@@ -1489,7 +1542,8 @@
       "Text": "رب انی مسنی الضر گفت و بس",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "هوش مصنوعی: پروردگارا، به من آسیب رسیده است. فقط به یاد تو می‌افتم و بر تو توکل می‌کنم، ای کس که می‌توانی هرگونه تغییر و بهبودی به من بدهی."
     },
     {
       "VOrder": 108,
@@ -1505,7 +1559,8 @@
       "Text": "هم تو هستی ارحم از کل رحیم",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "هوش مصنوعی: تو بر همه رحیم‌تر و مهربان‌تری و من در گناه و ترس و نگرانی هستم."
     },
     {
       "VOrder": 110,
@@ -1521,7 +1576,8 @@
       "Text": "یا بلاهایی که بشنیدی ازو",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "هوش مصنوعی: بلاهایی که پیش از این درباره او شنیدی، حق با آن نیکوخصال از آن‌ها سخنی نگفته است."
     },
     {
       "VOrder": 112,
@@ -1537,7 +1593,8 @@
       "Text": "همچنین یونس که در بحر بلا",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "هوش مصنوعی: یونس نیز در دشواری‌ها به اراده خداوند آشنا شد و در دل دریا قرار گرفت."
     },
     {
       "VOrder": 114,
@@ -1553,7 +1610,8 @@
       "Text": "پیش از این در لجه دریا نگفت",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "هوش مصنوعی: قبل از این، در عمق دریا، هیچ‌کس نگفته بود که خدای یگانه و بی‌نظیر هیچ جفتی ندارد."
     },
     {
       "VOrder": 116,
@@ -1569,7 +1627,8 @@
       "Text": "انت ذوالسبحان والمجدالمتین",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "هوش مصنوعی: تو ای ذات مقدس و بزرگوار، من همواره در شمار ستمکاران بوده‌ام."
     },
     {
       "VOrder": 118,
@@ -1585,7 +1644,8 @@
       "Text": "سرور لولاک شاه انبیا",
       "CoupletIndex": 59,
       "SectionIndex1": 0,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "هوش مصنوعی: سرور و رهبر پیامبران، حضرت محمد (ص)، اینقدر هم در دعا سخن نگفت."
     },
     {
       "VOrder": 120,
@@ -1601,7 +1661,8 @@
       "Text": "رو به آن سلطان بی انباز کرد",
       "CoupletIndex": 60,
       "SectionIndex1": 0,
-      "SectionIndex2": 62
+      "SectionIndex2": 62,
+      "CoupletSummary": "هوش مصنوعی: به آن پادشاه تنها نگریسته و با یأس و ناامیدی، امیدی را در دل خود زنده کرده است."
     },
     {
       "VOrder": 122,

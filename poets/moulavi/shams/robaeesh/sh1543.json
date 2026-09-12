@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای جان جهان! جز تو کسی کیست؟ بگو",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای جان جهان، غیر از تو کسی وجود ندارد، بگو که بی‌جان و جهان هیچ کس زنده نیست، بگو."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "من بد کنم و تو بد مکافات دهی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر من کار بدی انجام بدهم و تو هم با رفتار بدی به آن پاسخ بدهی، پس تفاوت من و تو در چیست؟ توضیح بده!"
     },
     {
       "VOrder": 4,

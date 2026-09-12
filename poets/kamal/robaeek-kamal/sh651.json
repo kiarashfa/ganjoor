@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "هر گاه که کار وصل در هم بندیم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر زمان که ما تلاش می‌کنیم تا به وصلی دست یابیم، دنیا به گونه‌ای عمل می‌کند که ما خوش نداریم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "داند که چو ما بیکدگر پیوندیم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌داند که وقتی ما به یکدیگر نزدیک می‌شویم، با شادی دور هم نشسته و خوشحالیم و به زندگی قهری می‌زنیم."
     },
     {
       "VOrder": 4,

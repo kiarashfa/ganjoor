@@ -821,7 +821,8 @@
       "Text": "علم باید که ره نمای بود",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: دانش باید راه را نشان دهد و نه اینکه فقط به کنجکاوی و افکار بیهوده دامن بزند."
     },
     {
       "VOrder": 2,
@@ -837,7 +838,8 @@
       "Text": "جهل در داست علم درمان است",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: ناآگاهی و ignorance، خود مشکل است و دانش راهی برای حل آن به شمار می‌آید. دانش به مانند آبی است که درخت ایمان را سیراب می‌کند و آن را تقویت می‌نماید."
     },
     {
       "VOrder": 4,
@@ -853,7 +855,8 @@
       "Text": "زاب گردد درخت تازه و تر",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: درخت تازه و سرسبز به زودی به ثمر می‌نشیند و مردم از میوه آن بهره‌مند خواهند شد."
     },
     {
       "VOrder": 6,
@@ -869,7 +872,8 @@
       "Text": "میوه آن درخت طوبی وش",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: میوه آن درخت، برگرفته از تقوی و پرهیزگاری است و همچنین رفتار نیکو و خوش با دیگران را شامل می‌شود."
     },
     {
       "VOrder": 8,
@@ -885,7 +889,8 @@
       "Text": "علما شمع مجلس افروزند",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: عالم‌ها همانند شمعی هستند که در جمع می‌درخشند و با دانش و حکمت خود به مردم آموزش می‌دهند."
     },
     {
       "VOrder": 10,
@@ -901,7 +906,8 @@
       "Text": "گرچه در صورت مساکینند",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: هرچند که در ظاهر، به نظر می‌رسد که در بین فقرا و مسکینان هستند، اما در واقع آنان سلطانانی هستند که بر ملک اسلام حکم می‌رانند."
     },
     {
       "VOrder": 12,
@@ -917,7 +923,8 @@
       "Text": "هست انفاس عالم عامل",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: نفَس‌های موجودات در عالم، شبیه به نسیم بهاری هستند که به زندگی و باروری می‌انجامد."
     },
     {
       "VOrder": 14,
@@ -933,7 +940,8 @@
       "Text": "هردو مشکین و جان فزاینده",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: هر دو زیبا و نشاط آور هستند و از طریق رحمت خداوند خود را نشان می‌دهند."
     },
     {
       "VOrder": 16,
@@ -949,7 +957,8 @@
       "Text": "از یکی گل به نعمت آبستن",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: از یک طرف، گل در انتظار نعمت و برکت است و از طرف دیگر، دل در حال آماده شدن برای دریافت حکمت و آگاهی است."
     },
     {
       "VOrder": 18,
@@ -965,7 +974,8 @@
       "Text": "خورده هریک چوخضر آب حیات",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که از گفته‌های آنها بهره‌مند شود، مانند خضر که از آب حیات می‌نوشد، از شیرینی و لطف کلامشان استفاده می‌کند مانند گیاهانی که از آب بهره می‌برند."
     },
     {
       "VOrder": 20,
@@ -981,7 +991,8 @@
       "Text": "جان که ره بر سر معانی یافت",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: وقتی روح به فهم عمیق معانی دست یافت، مانند خضر که به آب حیات رسید، زندگی را درک کرد."
     },
     {
       "VOrder": 22,
@@ -997,7 +1008,8 @@
       "Text": "علم جان دگر به جان بخشید",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: دانش و علم، روح جدیدی به زندگی می‌دهد و انسان را از زوال و نابودی نجات می‌دهد."
     },
     {
       "VOrder": 24,
@@ -1013,7 +1025,8 @@
       "Text": "هر که از عین علم شد سیراب",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که به معرفت و علم واقعی دست یابد، جان او هرگز به خواب مرگ نمی‌رود و بی‌خبر از آن نمی‌ماند."
     },
     {
       "VOrder": 26,
@@ -1029,7 +1042,8 @@
       "Text": "چون شود منقطع نفس زنفس",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: زمانی که نفس انسان قطع شود، روح او همچون پرنده‌ای از قفس رها می‌شود و به آزادی می‌پرواز کند."
     },
     {
       "VOrder": 28,
@@ -1045,7 +1059,8 @@
       "Text": "گر ز علم و عمل نیابد پر",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: اگر فردی به علم و عمل دست نیابد، در واقع زندگی‌اش پر از محدودیت‌ها و موانع خواهد بود، همچون خاک تیره که مرزهای روشنی را نمی‌سازد."
     },
     {
       "VOrder": 30,
@@ -1061,7 +1076,8 @@
       "Text": "اور دو بالش بود به علم و عمل",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: او دو بال داشت، یکی علم و دیگری عمل. وقتی زمان پرواز برسد، از زحل نیز عبور می‌کند."
     },
     {
       "VOrder": 32,
@@ -1077,7 +1093,8 @@
       "Text": "حضرتش ارجعی همی گوید",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: او می‌گوید خوشا به حال آن کسی که در جست‌وجوی دوست و یار است."
     },
     {
       "VOrder": 34,
@@ -1093,7 +1110,8 @@
       "Text": "هر که یزدان دو گام علم و عمل",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که خداوند به او دانش و عمل عطا کند، او را به درجات بالا و جایگاه‌های نیکو خواهد رساند."
     },
     {
       "VOrder": 36,
@@ -1109,7 +1127,8 @@
       "Text": "از خداوند علم نافع خواه",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: از خداوند علم مفید بخواه که دل را از غفلت آگاه کند."
     },
     {
       "VOrder": 38,
@@ -1125,7 +1144,8 @@
       "Text": "نشود حاصل آن علوم مگر",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: بدست آوردن نتایج واقعی از دانش‌ها تنها از طریق سخنان خدا و پیامبر ممکن است."
     },
     {
       "VOrder": 40,
@@ -1141,7 +1161,8 @@
       "Text": "بعد از آن از حدیث یارانش",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: پس از آن از صحبت‌های دوستان و همراهانش می‌گوید."
     },
     {
       "VOrder": 42,
@@ -1157,7 +1178,8 @@
       "Text": "سخن اولیای دین نبی",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: سخنان شخصیت‌های معتبر دین و نمایندگان پیامبر محمد (ص) را باید جدی گرفت."
     },
     {
       "VOrder": 44,
@@ -1173,7 +1195,8 @@
       "Text": "ره نمایی کند دل و جان را",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: دل و جان را به سمت درست هدایت می‌کند و درخت ایمان زنده و شاداب است."
     },
     {
       "VOrder": 46,
@@ -1189,7 +1212,8 @@
       "Text": "علم از وحی و کسب مقتبس است",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: دانش از الهام و یادگیری به دست می‌آید، اما سخنان بی‌اساس مجادلین، تنها نتیجه‌ی هوای نفس آنهاست."
     },
     {
       "VOrder": 48,
@@ -1205,7 +1229,8 @@
       "Text": "سخن خوب و لهجه شیرین",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: اگر سخن دلنشین و لهجه‌ای شیرین نداری، با کسی در گفتگو نشین."
     },
     {
       "VOrder": 50,
@@ -1221,7 +1246,8 @@
       "Text": "سخنی گو که شرع فرماید",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: صحبتی بزن که بر اساس قوانین شرع باشد تا شنونده از آن دلگرم و خوشحال شود."
     },
     {
       "VOrder": 52,
@@ -1237,7 +1263,8 @@
       "Text": "هم به اندازه گوی آن را نیز",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: مرد ارزشمند کسی است که به اندازه کافی سخن می‌گوید و از گفتن زیاد پرهیز می‌کند."
     },
     {
       "VOrder": 54,
@@ -1253,7 +1280,8 @@
       "Text": "سخن خوب چون شود بسیار",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: زمانی که سخن خوب زیاد شود، ارزش خود را از دست می‌دهد و دیگر جایی در کارها نخواهد داشت."
     },
     {
       "VOrder": 56,
@@ -1269,7 +1297,8 @@
       "Text": "تشنگان را مده تو چندان آب",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: به تشنگان آب زیاد نده، زیرا در نظر آنها آب به سرعت فراموش می‌شود."
     },
     {
       "VOrder": 58,
@@ -1285,7 +1314,8 @@
       "Text": "خیر گویان چو در حدیث آیند",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: وقتی نیکوکاران در صحبت‌ها و گفت‌وگوها شرکت می‌کنند، به شنوندگان زندگی و انرژی بیشتری می‌بخشند."
     },
     {
       "VOrder": 60,
@@ -1301,7 +1331,8 @@
       "Text": "نفس نیک نفس خوش گفتار",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: نفس خوب و روحی پرخوشی که به دیگران روح می‌دهد، مثل نسیم بهاری است که طراوت و زندگی را به ارمغان می‌آورد."
     },
     {
       "VOrder": 62,
@@ -1317,7 +1348,8 @@
       "Text": "بوی جان زان دهن همی آید",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: بوی جان از آن دهان منتشر می‌شود که زبان تنها به نیکی سخن می‌گوید."
     },
     {
       "VOrder": 64,
@@ -1333,7 +1365,8 @@
       "Text": "از دهانی که شد روان هذیان",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: از زبانی که به طور ناخودآگاه و بی‌رویه صحبت می‌کند، نمی‌توان به آن اعتماد کرد و آن را زبان انسان ندانستم."
     },
     {
       "VOrder": 66,
@@ -1349,7 +1382,8 @@
       "Text": "آن سخن نیست گوز شیطان است",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: آن گفتار، کلامی بی‌معنی و نادرست است که فقط برای آزار و ناراحتی انسان ایجاد شده است."
     },
     {
       "VOrder": 68,
@@ -1365,7 +1399,8 @@
       "Text": "سخن بد چو گند مردار است",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: سخن زشت و ناپسند مانند بوی بد یک جسد است و جایی برای کسانی که در مورد دیگران بدگوی می‌کنند، در میان مردم وجود ندارد."
     },
     {
       "VOrder": 70,
@@ -1381,7 +1416,8 @@
       "Text": "چون زبان حکیم گویا شد",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: زمانی که حکیم سخن می‌گوید، نشانه‌ای از عمق و فهم ناب او نمایان می‌شود."
     },
     {
       "VOrder": 72,
@@ -1397,7 +1433,8 @@
       "Text": "آن زمانی که عقل را قلم است",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: در زمانی که عقل توانایی نوشتن و بیان حقایق را دارد، در کلامش نرمش و برکات زیادی وجود دارد."
     },
     {
       "VOrder": 74,
@@ -1413,7 +1450,8 @@
       "Text": "می نویسد علوم را به دهان",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: انسان با یادگیری علم و دانش، به زندگی تازه و نوینی دست پیدا می‌کند و این دانایی به او جان و انرژی می‌دهد."
     },
     {
       "VOrder": 76,
@@ -1429,7 +1467,8 @@
       "Text": "از ره سمع سوی دل ز اسرار",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: از طریق گوش، رازهای زیادی به دل منتقل می‌شود و این به انسان سودهای فراوانی می‌بخشد."
     },
     {
       "VOrder": 78,
@@ -1445,7 +1484,8 @@
       "Text": "سیرت نطق بین که زو انسان",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: سخن گفتن و بیان احساسات و افکار، ویژگی‌ای است که انسان را از سایر حیوانات متمایز می‌کند."
     },
     {
       "VOrder": 80,
@@ -1461,7 +1501,8 @@
       "Text": "منبع آب زندگی ست زبان",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: منبع حیات، زبان است که با علم و حکمت زندگی را به جریان می‌اندازد."
     },
     {
       "VOrder": 82,
@@ -1477,7 +1518,8 @@
       "Text": "از سخن تا سخن بسی فرق است",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: بین دو نوع سخن تفاوت زیادی وجود دارد؛ بعضی از گفته‌ها الهام الهی و حقیقتی عمیق هستند، در حالی که برخی دیگر تنها فریب و ظاهرسازی هستند."
     },
     {
       "VOrder": 84,
@@ -1493,7 +1535,8 @@
       "Text": "سخنی ره نمای مرد و زن است",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: سخنی که به انسان‌ها هدایت می‌دهد، می‌تواند راه را برای آن‌ها روشن کند، اما اگر کلمات به شیوه نادرست یا با نIntent ناپسند بیان شوند، ممکن است اورا به بیراهه بکشانند و در دام فریب قرار دهند."
     },
     {
       "VOrder": 86,
@@ -1509,7 +1552,8 @@
       "Text": "سخنی هست چون نسیم بهار",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: این جمله به زیبایی و لطافت کلامی اشاره دارد که مانند نسیم ملایم بهاری، در زمان صبحگاه از باغ گل‌ها به گوش می‌رسد."
     },
     {
       "VOrder": 88,
@@ -1525,7 +1569,8 @@
       "Text": "راحت روح و عطر بخش مشام",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: این مضمون به این معناست که روح و عطر خوشبو، آرامش را به عاشقان هدیه می‌دهد و همه می‌توانند از آن بهره‌مند شوند."
     },
     {
       "VOrder": 90,
@@ -1541,7 +1586,8 @@
       "Text": "سخنی چون سموم آتش بار",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: سخنی به شدت زهرآلود و خطرناک است که می‌تواند به طور عمیقی بر روی افکار و احساسات انسان تاثیر بگذارد."
     },
     {
       "VOrder": 92,
@@ -1557,7 +1603,8 @@
       "Text": "هر که دارد به بند عقل زبان",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که بتواند با عقل و اندیشه خود سخن بگوید، در امنیت و آرامش قرار دارد."
     },
     {
       "VOrder": 94,
@@ -1573,7 +1620,8 @@
       "Text": "به سخنهای سخت دل مشکن",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: به سخنان تند و دشوار توجه نکن و با دل خود سختی نکن. مانند اینکه بر روی شیشهٔ نیمه‌ای از آب، سنگی نیندازی که می‌تواند شکسته شود."
     },
     {
       "VOrder": 96,
@@ -1589,7 +1637,8 @@
       "Text": "با لطیفان سخن مگوی درشت",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: با افراد حساس و لطیف به طرز تند و بی‌ادبانه صحبت نکن، چون این کار مناسب کسانی نیست که ظاهر زیبایی دارند."
     },
     {
       "VOrder": 98,
@@ -1605,7 +1654,8 @@
       "Text": "ای دماغت مسخر سودا",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: ای بینی تو چنان تحت تأثیر افکار و احساسات هستی که گفتارت هم بر همین اساس شکل می‌گیرد."
     },
     {
       "VOrder": 100,
@@ -1621,7 +1671,8 @@
       "Text": "به زبان کار بر نمی آید",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: برای بیان کردن افکار و احساسات خود، گاهی اوقات تنها کلمات کافی نیستند و نیاز به ابزار دیگری مثل قلم داریم تا از آن طریق بهتر خود را منتقل کنیم."
     },
     {
       "VOrder": 102,
@@ -1637,7 +1688,8 @@
       "Text": "تا زبان تو را دهد یاری",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که زبان تو به تو کمک کند، هیچگاهی در مخزن خود، حبابی نخواهی گذاشت."
     },
     {
       "VOrder": 104,
@@ -1653,7 +1705,8 @@
       "Text": "هم زبان هم قلم نگه دارند",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "هوش مصنوعی: زبان و قلم هر دو باید در محل مناسب خود استفاده شوند و در خدمت یکدیگر قرار گیرند."
     },
     {
       "VOrder": 106,
@@ -1669,7 +1722,8 @@
       "Text": "کافریننده در جهان صور",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "هوش مصنوعی: در این دنیا، خداوند انسان‌ها را به دو نوع و شکل مختلف خلق کرده است."
     },
     {
       "VOrder": 108,
@@ -1685,7 +1739,8 @@
       "Text": "در معانی یکی به کار آید",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "هوش مصنوعی: در معناهای مختلف، یکی از آن‌ها به کاربرد می‌آید و دیگری به صورت تصویر و شکل خود را نمایان می‌کند."
     },
     {
       "VOrder": 110,
@@ -1701,7 +1756,8 @@
       "Text": "قلمی بر صحایف اذهان",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "هوش مصنوعی: یک قلم بر صفحه‌های ذهن‌ها، نیکویی‌های دو دنیا را می‌نگارد."
     },
     {
       "VOrder": 112,
@@ -1717,7 +1773,8 @@
       "Text": "قلمی دیگر از درون بطون",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "هوش مصنوعی: یک قلم جدید از دل مسائل و موضوعات مختلف، طرح‌ها و نقش‌های متنوعی را نمایش می‌دهد."
     },
     {
       "VOrder": 114,
@@ -1733,7 +1790,8 @@
       "Text": "کاتب هردو عقل و دین باید",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "هوش مصنوعی: برای اینکه نوشته‌ات ارزش و اعتبار بیشتری پیدا کند، باید هم از عقل و هم از دین بهره‌مند باشی."
     },
     {
       "VOrder": 116,
@@ -1749,7 +1807,8 @@
       "Text": "به زبان کار بر نمی آید",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "هوش مصنوعی: در اینجا بیان می‌شود که زبان به تنهایی قادر به انجام کار نیست و اعضای دیگر نیز باید به فعالیت و همکاری بپردازند تا کار به درستی انجام شود."
     },
     {
       "VOrder": 118,
@@ -1765,7 +1824,8 @@
       "Text": "هست هر عضوی آلت کاری",
       "CoupletIndex": 59,
       "SectionIndex1": 0,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "هوش مصنوعی: هر بخشی از بدن وسیله‌ای است برای انجام کارهای روح، و هر یک از اعضا به نوعی به یکدیگر کمک می‌کنند."
     },
     {
       "VOrder": 120,
@@ -1781,7 +1841,8 @@
       "Text": "تن چوشهری وحاکمش جان است",
       "CoupletIndex": 60,
       "SectionIndex1": 0,
-      "SectionIndex2": 62
+      "SectionIndex2": 62,
+      "CoupletSummary": "هوش مصنوعی: بدن همچون شهری است و روح آن حاکم بر بدن است. زندگی و وجود این روح به عقل و ایمان وابسته است."
     },
     {
       "VOrder": 122,
@@ -1797,7 +1858,8 @@
       "Text": "جان زبان را می کند گویا",
       "CoupletIndex": 61,
       "SectionIndex1": 0,
-      "SectionIndex2": 63
+      "SectionIndex2": 63,
+      "CoupletSummary": "هوش مصنوعی: روح انسان زبان را به سخن می‌آورد تا راه خدا را به مردم نشان دهد."
     },
     {
       "VOrder": 124,
@@ -1813,7 +1875,8 @@
       "Text": "ره چو بنمود راه باید رفت",
       "CoupletIndex": 62,
       "SectionIndex1": 0,
-      "SectionIndex2": 64
+      "SectionIndex2": 64,
+      "CoupletSummary": "هوش مصنوعی: وقتی راهی مشخص می‌شود، باید در آن مسیر حرکت کرد. بنده باید به سوی پادشاه برود."
     },
     {
       "VOrder": 126,
@@ -1829,7 +1892,8 @@
       "Text": "تا به کی ساکن جهان بودن",
       "CoupletIndex": 63,
       "SectionIndex1": 0,
-      "SectionIndex2": 65
+      "SectionIndex2": 65,
+      "CoupletSummary": "هوش مصنوعی: چقدر می‌توان در این دنیا زندگی کرد بدون آنکه از وجود واقعی و عمق جان آگاه بود؟"
     },
     {
       "VOrder": 128,
@@ -1845,7 +1909,8 @@
       "Text": "سفری کن ز گلخن دنیی",
       "CoupletIndex": 64,
       "SectionIndex1": 0,
-      "SectionIndex2": 66
+      "SectionIndex2": 66,
+      "CoupletSummary": "هوش مصنوعی: از دنیای پرآشوب و مشکلات فاصله بگیر و به دنیای زیبای معنا و حقیقت برو."
     },
     {
       "VOrder": 130,
@@ -1861,7 +1926,8 @@
       "Text": "عشق با شاهدان علوی باز",
       "CoupletIndex": 65,
       "SectionIndex1": 0,
-      "SectionIndex2": 67
+      "SectionIndex2": 67,
+      "CoupletSummary": "هوش مصنوعی: عشق با زیبایانی با ویژگی‌های والا و روحانی، در حال برگزاری یک بازی دلنشین و جذاب در بهشت است."
     },
     {
       "VOrder": 132,
@@ -1877,7 +1943,8 @@
       "Text": "حیف باشد زمان تلف کردن",
       "CoupletIndex": 66,
       "SectionIndex1": 0,
-      "SectionIndex2": 68
+      "SectionIndex2": 68,
+      "CoupletSummary": "هوش مصنوعی: هدر دادن زمان مانند حیوانات که فقط می‌خوابند و می‌خورند، پشیمانی به همراه دارد."
     },
     {
       "VOrder": 134,
@@ -1893,7 +1960,8 @@
       "Text": "عمر ضایع مکن به گل کاری",
       "CoupletIndex": 67,
       "SectionIndex1": 0,
-      "SectionIndex2": 69
+      "SectionIndex2": 69,
+      "CoupletSummary": "هوش مصنوعی: عمر خود را به کارهای بیهوده هدر نده، چرا که در دل‌سوزی و محبت چه چیز ارزشمندی نهفته است."
     },
     {
       "VOrder": 136,
@@ -1909,7 +1977,8 @@
       "Text": "تا تو از کار گل بپردازی",
       "CoupletIndex": 68,
       "SectionIndex1": 0,
-      "SectionIndex2": 70
+      "SectionIndex2": 70,
+      "CoupletSummary": "هوش مصنوعی: زمانی که تو از کار گل دور شوی، زمانه صد نوع بازی و حوادث دیگر خواهد داشت."
     },
     {
       "VOrder": 138,
@@ -1925,7 +1994,8 @@
       "Text": "جان بپرور به عقل و دانش و دین",
       "CoupletIndex": 69,
       "SectionIndex1": 0,
-      "SectionIndex2": 71
+      "SectionIndex2": 71,
+      "CoupletSummary": "هوش مصنوعی: با پرورش روح و تقویت دانش و ایمان، می‌توانی به مقام‌های عالی و رفیع دست یابی."
     },
     {
       "VOrder": 140,
@@ -1941,7 +2011,8 @@
       "Text": "تا تو در بند چار ارکانی",
       "CoupletIndex": 70,
       "SectionIndex1": 0,
-      "SectionIndex2": 72
+      "SectionIndex2": 72,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که تو در قید و بند چهار اصل و رکن هستی، حالا روحانیان و احوال آن‌ها را چگونه می‌توانی درک کنی؟"
     },
     {
       "VOrder": 142,
@@ -1957,7 +2028,8 @@
       "Text": "از خود این قید را چو برداری",
       "CoupletIndex": 71,
       "SectionIndex1": 0,
-      "SectionIndex2": 73
+      "SectionIndex2": 73,
+      "CoupletSummary": "هوش مصنوعی: اگر این محدودیت‌ها را از خود بزدایی، الملائکه و موجودات آسمانی به یاری تو خواهند آمد."
     },
     {
       "VOrder": 144,
@@ -1973,7 +2045,8 @@
       "Text": "تو چو در خانه یی ودر نگری",
       "CoupletIndex": 72,
       "SectionIndex1": 0,
-      "SectionIndex2": 74
+      "SectionIndex2": 74,
+      "CoupletSummary": "هوش مصنوعی: وقتی در خانه‌ای نشسته‌ای و به داخل نگاه می‌کنی، فقط سقف را می‌بینی و از دنیای بیرون بی‌خبر هستی."
     },
     {
       "VOrder": 146,
@@ -1989,7 +2062,8 @@
       "Text": "قدم از خانه چون نهی بر بام",
       "CoupletIndex": 73,
       "SectionIndex1": 0,
-      "SectionIndex2": 75
+      "SectionIndex2": 75,
+      "CoupletSummary": "هوش مصنوعی: زمانی که قدم از خانه بیرون بگذاری، می‌توانی بر روی بام، ماه، خورشید و سیاره بهرام (مریخ) را ببینی."
     },
     {
       "VOrder": 148,
@@ -2005,7 +2079,8 @@
       "Text": "گفتن از بهر کار در کار است",
       "CoupletIndex": 74,
       "SectionIndex1": 0,
-      "SectionIndex2": 76
+      "SectionIndex2": 76,
+      "CoupletSummary": "هوش مصنوعی: اگر هدف از صحبت کردن کار کردن باشد، پس در این مکان جایی برای گفت و گو وجود ندارد."
     },
     {
       "VOrder": 150,
@@ -2021,7 +2096,8 @@
       "Text": "بار دیوان مباش چون او باش",
       "CoupletIndex": 75,
       "SectionIndex1": 0,
-      "SectionIndex2": 77
+      "SectionIndex2": 77,
+      "CoupletSummary": "هوش مصنوعی: خود را مانند دیوانه‌ها نکن، بلکه به دنبال صحبت با کسانی باش که حکمت و دانش دارند، مانند سلیمان."
     },
     {
       "VOrder": 152,
@@ -2037,7 +2113,8 @@
       "Text": "سر یزدان مگوی با اغیار",
       "CoupletIndex": 76,
       "SectionIndex1": 0,
-      "SectionIndex2": 78
+      "SectionIndex2": 78,
+      "CoupletSummary": "هوش مصنوعی: با مردم غیر از خدا درباره رازهای درونی و با ارزش خود صحبت نکن و بهتر است که آن‌ها را پنهان نگه‌داری."
     },
     {
       "VOrder": 154,
@@ -2053,7 +2130,8 @@
       "Text": "گوهری گر تو را به دست آید",
       "CoupletIndex": 77,
       "SectionIndex1": 0,
-      "SectionIndex2": 79
+      "SectionIndex2": 79,
+      "CoupletSummary": "هوش مصنوعی: اگر جواهری به دستت آمد، آن را به پادشاهان بده زیرا ارزش گنج را تنها آنها می‌دانند."
     },
     {
       "VOrder": 156,
@@ -2069,7 +2147,8 @@
       "Text": "خرج کن نقدهای بازاری",
       "CoupletIndex": 78,
       "SectionIndex1": 0,
-      "SectionIndex2": 80
+      "SectionIndex2": 80,
+      "CoupletSummary": "هوش مصنوعی: برای به دست آوردن چیزی ارزشمند، باید منابع خود را هزینه کنی."
     },
     {
       "VOrder": 158,

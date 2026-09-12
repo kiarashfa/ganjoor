@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "من از کجا غم و شادی این جهان ز کجا",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "من را چه به غم و شادی این دنیا؟ مرا چه به غم باران و غم ناودان؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "چرا به عالم اصلی خویش وانروم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "چرا به عالم و جای اصلی خود نروم، دل (که زیباپسند است) را چه به تماشای این خاک‌دان؟"
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "چو خر ندارم و خربنده نیستم ای جان",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "وقتی که خر ندارم و خربنده هم نیستم ای عزیز جان! مرا چه به غم پالان و غم کودبان؟"
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "هزار‌ساله گذشتی ز عقل و وهم و گمان",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هزار ساله گذشتی و از عقل و وهم و گمان فراتر رفتی؛ تو از کجا و تنگناهای بدگمان از کجا؟"
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "تو مرغ چار‌پر‌ی تا بر آسمان پَرّی",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "تو چهار بال هستی تا به آسمان بپری و بروی؛ تو را چه به غم نردبان و بام؟"
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "کسی تو را و تو کس را به بز نمی‌گیری",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "کسی تو را به‌ بز نمی‌گیرد و تو هیچکس را به بز نمی‌گیری؛ تو از کجا و هیاهای چوپان کجا؟ (به بز گرفتن احتمالا معنی «به‌حساب آوردن» است)"
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "هزار نعره ز بالای آسمان آمد",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هزار نعره و غوغا از بالای آسمان آمد اما تو کاهلی می‌کنی و نمی‌جویی که این غوغا از کجاست."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "چو آدمی به یکی مار شد برون ز بهشت",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "وقتی آدمی با یک مار از بهشت بیرون شد تو چرا با کژدم‌ها و مارها به‌سر می‌بری؟"
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "دلا دلا به سر رشته شو‌، مَثَل بشنو",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "ای عزیز جان، به حرف اصلی بپرداز و اصل‌کار را بگو! که آسمان را چه به ریسمان؟"
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "شراب خام بیار و به پختگان درده",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "شراب خام را بیاور و به پختگان بده! مرا چه به حرف چند قلتبان؟"
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "شراب‌خانه درآ و در از درون دربند",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "به شراب‌خانه در‌آی و در را بر روی نامحرمان ببند، تو را چه به بد و نیک مردمان؟"
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "طمع مدار که عمر تو را کران باشد",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "فکر مکن که عمر تو پایانی دارد؛ صفات حقی و حق کی حد و کران دارد؟"
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "اجل قفس شکند مرغ را نیازارد",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "اجل قفس را می‌شکند و به پرنده آسیب نمی‌زند و او را نمی‌آزارد، مرگ کجا و بال و پر مرغ جاودان از کجا؟"
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "خموش باش که گفتی بسی و کس نشنید",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "سکوت کن که سخنان بسیار گفتی و کسی نشنید؛ که این دهل از چه بامی به گوش می‌رسد و این سخنان از کجا؟"
     },
     {
       "VOrder": 28,

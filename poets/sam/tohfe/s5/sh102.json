@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "اصفهانی است و در صحافی اندک وقوفی دارد اما بسیار لاابالی و هرزه گرد است این مطلع از اوست :",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: این فرد اصفهانی است و کمی در صحافی آگاهی دارد، اما بسیار بی‌پروا و بی‌خیال است."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "همیشه یا ربما در مقام کین باشد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در هر شرایطی، راه کمک و وفا نباید بر اساس انتقام و کینه باشد."
     },
     {
       "VOrder": 3,

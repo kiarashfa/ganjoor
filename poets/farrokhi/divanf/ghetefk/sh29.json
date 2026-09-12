@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "ای جهانی ز تو به آزادی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای جهانی به خاطر تو به من آزادی داده‌اند، اما از تو بیداد و ظلمی بر من هم هست."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "دل من دادی و نبود مرا",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو دل مرا به دست آوردی، اما از دل بی‌وفای تو هیچ شادی برای من نبود."
     },
     {
       "VOrder": 4,
@@ -55,7 +57,8 @@
       "Position": "Right",
       "Text": "دل دهان دل به دوستی دادند",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل به دوستی کسی سپرده شده، اما تو دل مرا به دشمنی خود سپردی."
     },
     {
       "VOrder": 6,
@@ -69,7 +72,8 @@
       "Position": "Right",
       "Text": "قصدکردی به دل ربودن من",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو تصمیم دادی که دل مرا به دست آوری، اما این کار به نابودی قلب من منتهی خواهد شد."
     },
     {
       "VOrder": 8,
@@ -83,7 +87,8 @@
       "Position": "Right",
       "Text": "تا دلم نستدی نیاسودی",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که دل من آرام نگرفته و احساس راحتی نمی‌کند، چگونه می‌تواند از تو جدا شود و آزاد باشد؟"
     },
     {
       "VOrder": 10,
@@ -97,7 +102,8 @@
       "Position": "Right",
       "Text": "دل ببردی و جان شد از پس دل",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو دل مرا از من گرفتی و حالا جانم هم از دل رفت. ای جسم، در چه درد و رنجی به سر می‌بری؟"
     },
     {
       "VOrder": 12,
@@ -111,7 +117,8 @@
       "Position": "Right",
       "Text": "بردل دوستان فرامشتی",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به یاد دوستان بودن و احساس محبت به آنها، در مقابل دشمنان که باید فراموش شوند."
     },
     {
       "VOrder": 14,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "هان ای دل بیخبر! کجاییم بیا",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دل غافل! ما کجا هستیم؟ بیایید با هم باشیم و چرا از یکدیگر جدا شده‌ایم؟ بیایید دوباره به هم نزدیک شویم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "بنگر تو که هر ذرّه که در عالم هست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بنگر به هر ذره از جهان که فریاد می‌زند ما هستیم، بیا و مشاهده کن."
     },
     {
       "VOrder": 4,

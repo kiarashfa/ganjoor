@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "بیا بیمار خود را ده شفائی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیا و به من کمک کن تا بیماری‌ام درمان شود، چرا که هیچ دارویی برای دردم جز تو وجود ندارد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "بیا تا جان برافشانم ز شادی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیا تا از شادی خود جانم را فدای تو کنم، زیرا جان دادن از غم کاری سخت و مصیبت‌آور است."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "نگیرد بر تو کس زیرا که نبود",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس به خاطر کارهای نیک و شایسته‌ی خوبان، تنبیه نمی‌شود؛ زیرا عمل‌های نیک آن‌ها سزا و جزا ندارد."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "مبند ای دل طمع در ماهرویان",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دل، امید نداشته باش به زیبایی‌های ماهرو، زیرا خوبان به وعده‌های خود عمل نمی‌کنند و وفا ندارند."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "بود این عاشقیهای مجازی",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این عشق‌های مجازی، مانند راهنمایی برای کسی است که در جستجوی حقیقت و راستی است."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "چو ره را یافتی بگذر از ایشان",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی به مقصد رسیدی، از کنار این مردم دور بگذر و برای آن‌ها دعا کن."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "بر افشان دست از ایشان فیض یکسر",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دست از آنان که می‌گیرند بردار و تمام نعمت را به سوی ما بفرست، و به سوی خداوند پشت کن."
     },
     {
       "VOrder": 14,

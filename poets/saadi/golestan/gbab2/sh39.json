@@ -55,13 +55,15 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "یکی بر سرِ راهی مستْ خفته بود و زمامِ اختیار از دست رفته.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "شخصی در میانه راه مست و ناهشیار بود و کنترل خود را از دست داده بود."
     },
     {
       "VOrder": 2,
       "Position": "Paragraph",
       "Text": "عابدی بر وی گذر کرد و در آن حالتِ مستقبَح او نظر کرد.",
-      "CoupletIndex": 1
+      "CoupletIndex": 1,
+      "CoupletSummary": "عابدی از کنار او عبور کرد و در حالی که او در وضعیت نامناسبی بود، به او نگاه کرد."
     },
     {
       "VOrder": 3,
@@ -73,7 +75,8 @@
       "VOrder": 4,
       "Position": "Paragraph",
       "Text": "اِذاٰ مَرُّوا بِاللَّغْوِ مَرُّوا کِراماً",
-      "CoupletIndex": 3
+      "CoupletIndex": 3,
+      "CoupletSummary": "چون به ناشایستی (خطایی) بگذرند، جوانمردانه بگذرند (و چشم بپوشند)"
     },
     {
       "VOrder": 5,
@@ -81,7 +84,8 @@
       "Text": "اِذا رَأیْتَ اَثِیماً کُنْ سٰاتِراً وَ حَلیماً",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "چون بزهکاری را بینی،‌ پرده‌پوش و بردبار باش. ای که کارِ مرا زشت می‌شماری چرا کریمانه بر من نمی‌گذری؟ (و چشم نمیپوشی؟)."
     },
     {
       "VOrder": 6,
@@ -97,7 +101,8 @@
       "Text": "متاب ای پارسا، روی از گنهکار",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "ای پرهیزگار از بزهکار اِعراض مکن و به چشم عفو و اغماض در وی ببین."
     },
     {
       "VOrder": 8,
@@ -113,7 +118,8 @@
       "Text": "اگر من ناجوانمردم به کردار",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "اگر من به عمل رادمرد و نکوکار نباشم، تو بر من کریم‌وار بگذر و به دیدهٔ بخشایش بنگر."
     },
     {
       "VOrder": 10,

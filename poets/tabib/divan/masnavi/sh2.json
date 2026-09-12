@@ -231,7 +231,8 @@
       "Text": "بیا ساقی دلم آشفته تست",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای ساقی، بیا که دل من در هم ریخته و آشفته است، در این میخانه، پیوسته از تو سخن می‌گویم."
     },
     {
       "VOrder": 2,
@@ -247,7 +248,8 @@
       "Text": "بده جامی که بس حالم خرابست",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: به من یک جام بنوشان که حال و روزم بسیار بد است و دل پر از اندوه و غم من در رنج و عذاب به سر می‌برد."
     },
     {
       "VOrder": 4,
@@ -263,7 +265,8 @@
       "Text": "طبیبا چون ترا طی شد جوانی",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: ای پزشک، زمانی که جوانی تو به پایان رسید، دوران لذت و شادی هم تمام شد."
     },
     {
       "VOrder": 6,
@@ -279,7 +282,8 @@
       "Text": "کنون اندیشه کن وقتست وقتست",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: اکنون زمان تفکر و تأمل است، وقت آن رسیده که سکوت اختیار کنی."
     },
     {
       "VOrder": 8,
@@ -295,7 +299,8 @@
       "Text": "بکنج بی کسی رو با دل خوش",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: در گوشه‌ی تنهایی‌ات با دل شاد زندگی کن، زیرا آنجا مکانی زیبا و دل‌انگیز است."
     },
     {
       "VOrder": 10,
@@ -311,7 +316,8 @@
       "Text": "بسا محفل بسا مجلس که دیدی",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: بسیار مراسم و جمع‌هایی را دیده‌ای که در آن‌ها از شراب شادی نوشیده می‌شود."
     },
     {
       "VOrder": 12,
@@ -327,7 +333,8 @@
       "Text": "کناری رو چو تیرت از کمان جست",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: اگر از تیر کمانت به هدف خود نرسیدی و هدف فراری شد، ناراحت نباش و خجالت نکش."
     },
     {
       "VOrder": 14,
@@ -343,7 +350,8 @@
       "Text": "گریزان شو زمشت جاهلی چند",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: از جهل و نادانی فاصله بگیر و در عوض به تلاش و کوشش بپرداز. دست به دست هم بدهید و بی‌تفاوتی را کنار بگذارید."
     },
     {
       "VOrder": 16,
@@ -359,7 +367,8 @@
       "Text": "که شاید عاقبت کامت برآید",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: شاید در پایان، آرزوی تو برآورده شود و در میان افراد کامل، نام تو نیز برده شود."
     },
     {
       "VOrder": 18,
@@ -375,7 +384,8 @@
       "Text": "زتنهائی دلت آشفته تا کی",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: از دل تنهاییت تا کی باید ناراحت باشی؟ دوستان رفته‌اند و تو هنوز در خواب هستی، تا کی؟"
     },
     {
       "VOrder": 20,
@@ -391,7 +401,8 @@
       "Text": "درین وادی مکن خوابی و برخیز",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: در این سرزمین خواب نبیند و از این چشمه آب بردارد و بر خیزد."
     },
     {
       "VOrder": 22,
@@ -407,7 +418,8 @@
       "Text": "اگر گردی چو اختر گرد آفاق",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: اگر همانند یک ستاره در آسمان‌ها بگردی و در همه جا سیر کنی، برای اینکه بر روی این طاق نیلوفر بنشینی."
     },
     {
       "VOrder": 24,
@@ -423,7 +435,8 @@
       "Text": "درون پرده راه جستجو نیست",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: در جستجوی حقیقت، نباید به ظواهر اکتفا کرد؛ زیرا بسیاری از رازها در بیرون از ظواهر نهفته‌اند و فقط با گفتگو و ارتباط عمیق‌تر می‌توان به آن‌ها دست یافت."
     },
     {
       "VOrder": 26,
@@ -439,7 +452,8 @@
       "Text": "بود اسرار پنهانت شود حل",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: وقتی که رازهای پنهانت فاش شود، مانند آتش بر خاکستر می‌سوزد و آشکار می‌شود."
     },
     {
       "VOrder": 28,
@@ -455,7 +469,8 @@
       "Text": "خداوندا «طبیب » منفعل را",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: خداوندا، پرستار و درمانگر ناتوانی را که در چنگال خاک و گل گرفتار شده است، آزاد کن."
     },
     {
       "VOrder": 30,
@@ -471,7 +486,8 @@
       "Text": "از این زندان غم آزادیش بخش",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: از این زندان غم، آزادی او را بده و در این ویرانه، راهی برای آباد کردنش فراهم کن."
     },
     {
       "VOrder": 32,
@@ -487,7 +503,8 @@
       "Text": "منم چون لاله در هامون نشسته",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: من مثل لاله‌ای هستم که در بیابان نشسته، به خاک افتاده و در خون غوطه‌ور شده‌ام."
     },
     {
       "VOrder": 34,
@@ -503,7 +520,8 @@
       "Text": "به بخت خود چو مجنون مانده در جنگ",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: به حال خود مانند مجنون افتاده‌ام و در میانه‌ی مشکلات، همچنان استوار و مقاوم مانده‌ام، مانند کوه که در دل سنگ‌ها قرار دارد."
     },
     {
       "VOrder": 36,
@@ -519,7 +537,8 @@
       "Text": "نمی بینم درین صحرای اندوه",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: در این بیابان پر از غم هیچ همسویی با ما نیست جز کوه."
     },
     {
       "VOrder": 38,
@@ -535,7 +554,8 @@
       "Text": "ولی او هم هم آوازی چه داند",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: اما او که از جنس بی جان است، چگونه می‌تواند بفهمد که چه طور باید با دیگری هم‌نوازی کند یا با احساسات همراه شود؟"
     },
     {
       "VOrder": 40,

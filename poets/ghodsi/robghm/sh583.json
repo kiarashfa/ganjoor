@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ناصح به نصیحت چه پی ما گردی؟",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای نصیحت‌گر، چرا پی نصیحت من می‌روی؟ بهتر است که از این مسیر اشتباه برگردی."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "دستار به سر نهی و عاشق نشوی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دستار بر سر بگذاری و در عشق غرق نشوی، پس چرا مانند زلیخا به دور معجرش می‌چرختی؟"
     },
     {
       "VOrder": 4,

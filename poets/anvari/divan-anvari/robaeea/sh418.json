@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای نوبت تو گذشته از چرخ بسی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای تو که نوبتت از دایره روزگار گذشته، \nنباید که بدون نوبت تو، جهانی نفس بکشد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "آوازهٔ نوبتت به هر کس برساد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نام تو به گوش هر کسی می‌رسد، اما تو به کسی اجازه نمی‌دهی که نوبت تو را بگیرد."
     },
     {
       "VOrder": 4,

@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "برادر نیستی است طبعش در شعر مرغوب افتاده بود این مطلع از اوست:",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: شعرش کیفیتی عالی دارد و این مطلع به او تعلق دارد."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "با تو ای آرام جان آرام نتوانم گرفت",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با تو ای مایه آرامش جان، نمی‌توانم به آرامش برسم. رقیبان مرا به وفا و صداقت تو نشان می‌دهند."
     },
     {
       "VOrder": 3,

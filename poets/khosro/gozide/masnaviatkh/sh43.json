@@ -191,7 +191,8 @@
       "Text": "بیره تنبول که صد برگ بست",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: چوپان تنبل در حالی که صد برگ دارد، مانند گلی با صد برگ به دستش می‌رسد."
     },
     {
       "VOrder": 2,
@@ -207,7 +208,8 @@
       "Text": "نادره برگی چو گل بوستان",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: نادره برگی همچون گل از باغی، بهترین نعمت هندوستان است."
     },
     {
       "VOrder": 4,
@@ -223,7 +225,8 @@
       "Text": "تیز چو گوش فرس تیزخیز",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: گوش فرس تیزخیز به معنای دقت و تیزبینی است. در اینجا اشاره به این دارد که هم ظاهر و هم معنی یک چیز باید با دقت و تیزی دیده و درک شوند. به عبارتی، هر دو جنبه ظاهری و معنایی باید به خوبی و با روشنایی مورد توجه قرار گیرند."
     },
     {
       "VOrder": 6,
@@ -239,7 +242,8 @@
       "Text": "تیزی ازو یافته گوش دگر",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: شخص دیگری گوشش را تیز کرده تا از صدای تیز و واضح آگاه شود."
     },
     {
       "VOrder": 8,
@@ -255,7 +259,8 @@
       "Text": "پر رگ و در رگ نه نشانی ز خون",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: در رگ‌های بدن هیچ نشانه‌ای از خون دیده نمی‌شود، اما با این حال، از رگ‌ها بخار و دود می‌آید که نشان‌دهنده وجود خون است."
     },
     {
       "VOrder": 10,
@@ -271,7 +276,8 @@
       "Text": "طرفه نباتی مکه چو شد در دهن",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: وقتی که گیاه مکه در دهانش قرار می‌گیرد، خونش مانند حیوانی از تنش خارج می‌شود."
     },
     {
       "VOrder": 12,
@@ -287,7 +293,8 @@
       "Text": "خوردن آن بوئی دهن کم کند",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: بوی آن خوراکی موجب می‌شود که دهان را شاداب کند و دندان‌ها را نیز تقویت نماید."
     },
     {
       "VOrder": 14,
@@ -303,7 +310,8 @@
       "Text": "سیر خورد گرسنه در دم شود",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی که گرسنه است، هنگام خوردن سیر بخورد، ممکن است گرسنگی او کم شود و احساس سیری بیشتری پیدا کند."
     },
     {
       "VOrder": 16,
@@ -319,7 +327,8 @@
       "Text": "از در تعظیم فتاده به هند",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی در هند به خاطر احترام و ادب به زمین بیفتد، به همان اندازه در سند درها به روی او باز خواهد شد."
     },
     {
       "VOrder": 18,
@@ -335,7 +344,8 @@
       "Text": "سرخی رویش ز سه خدمتگرش",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: زیبایی و سرخی چهره‌اش به خاطر خدمات سه نفر است که او را به بهترین شکل آراسته و زینت داده‌اند."
     },
     {
       "VOrder": 20,
@@ -351,7 +361,8 @@
       "Text": "طرفه که با این سه شریکش به پس",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: شگفت‌انگیز است که با وجود این سه شریک، به وعده‌هایشان پشت کرده و نام راست را نیز فراموش کنند."
     },
     {
       "VOrder": 22,
@@ -367,7 +378,8 @@
       "Text": "گر چه که آبش به نوی هست بیش",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: هرچند که آبش نو و تازه است، اما با گذر زمان کهنه و کهنه‌تر می‌شود."
     },
     {
       "VOrder": 24,
@@ -383,7 +395,8 @@
       "Text": "گر چه که از آب شود زرد رو",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: هرچند که آب به خاطر خاصیتی از زردی، رنگش تغییر کند، اما این زردی باعث از بین رفتن اعتبار و خوبی‌اش نمی‌شود."
     },
     {
       "VOrder": 26,
@@ -399,7 +412,8 @@
       "Text": "برگ که باشد به درختان فراخ",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: برگ‌ها وقتی به درختان گسترده و سرسبز متصل هستند، زود خشک می‌شوند و می‌ریزند وقتی که از شاخه جدا شوند."
     },
     {
       "VOrder": 28,
@@ -415,7 +429,8 @@
       "Text": "برگ عجب بین که گسسته ز بر",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: عجب است که برگی که شش ماه از درخت جدا شده، هنوز هم تازه و سرسبز است."
     },
     {
       "VOrder": 30,
@@ -431,7 +446,8 @@
       "Text": "حرمتش از پیشگه و پائگاه",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: احترام و ارزش این مکان از گذشته تا به حال، هم برای فقیران و هم برای پادشاهان محفوظ است."
     },
     {
       "VOrder": 32,

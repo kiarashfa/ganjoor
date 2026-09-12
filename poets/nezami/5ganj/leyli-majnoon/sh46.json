@@ -491,7 +491,8 @@
       "Text": "شاها ملکا جهان پناها",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای شاه و پادشاه، تو پناهی برای جهان هستی، این فقط یک شاه نیست، بلکه هزاران شاه در وجود تو نهفته‌اند."
     },
     {
       "VOrder": 2,
@@ -507,7 +508,8 @@
       "Text": "جمشید یکم به تخت‌گیری",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: جمشید اول به روشنی و شکوهی همچون خورشید دوم به درخشانی و بی‌نظیری خود اشاره دارد."
     },
     {
       "VOrder": 4,
@@ -523,7 +525,8 @@
       "Text": "شروان‌شهِ کی‌قباد پیکر",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: شروان‌شهِ کی‌قباد به معنای پادشاهی است که در زمینش نوشیدنی‌های تازه و لذت‌بخش وجود دارد و او همچون یک خاقان بزرگ و با شکوه، به نام ابوالمظفر، شناخته می‌شود."
     },
     {
       "VOrder": 6,
@@ -539,7 +542,8 @@
       "Text": "نی شروان‌شاه بل جهان‌شاه",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: درود بر نی شروان‌شاه که مانند کیخسرو دوم، به عنوان پادشاهی بزرگ و پرقدرت شناخته می‌شود."
     },
     {
       "VOrder": 8,
@@ -555,7 +559,8 @@
       "Text": "ای ختم قَرانِ پادشاهی",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: ای پادشاهی که تمام نیکی‌ها و برتری‌ها در تو خلاصه شده، تو هیچ‌گاه بدون نشان و امتیاز نباشی."
     },
     {
       "VOrder": 10,
@@ -571,7 +576,8 @@
       "Text": "روزی که به طالع مبارک",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: روزی که با ستاره‌ای خوش‌یمن از آسمان تاریک بیرون بیایی و به دنیا قدم بگذاری."
     },
     {
       "VOrder": 12,
@@ -587,7 +593,8 @@
       "Text": "مشغول شوی به شادمانی",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: به شادی و خوشحالی مشغول می‌شوی و این متن زیبا را می‌خوانی."
     },
     {
       "VOrder": 14,
@@ -603,7 +610,8 @@
       "Text": "از پیکر این عروس فکری",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: از وجود این زن زیبایی‌ها و اندیشه‌های گرانبها به وجود می‌آید، گاهی از آن جواهرات ناب و گاهی نیز از خلاقیت و تازگی."
     },
     {
       "VOrder": 16,
@@ -619,7 +627,8 @@
       "Text": "آن باد که در پسند کوشی",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: آن بادی که به پسند تو می‌وزد، خود را از زیبایی‌ها پنهان می‌کند."
     },
     {
       "VOrder": 18,
@@ -635,7 +644,8 @@
       "Text": "در کردن این چنین تفضل",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اینکه تو با این همه لطف و مهربانی به من توجه داری، نشان از بزرگواری توست و من هم به تو اعتماد کرده‌ام."
     },
     {
       "VOrder": 20,
@@ -651,7 +661,8 @@
       "Text": "گرچه دل پاک و بخت فیروز",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: با وجود اینکه دل‌ها پاک و سرنوشت‌ها خوشبخت هستند، اما تو باید توجه به نصیحت‌ها داشته باشی."
     },
     {
       "VOrder": 22,
@@ -667,7 +678,8 @@
       "Text": "زین ناصح نصرت الهی",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: ای ناصح، چند کلمه‌ای درباره‌ی یاری الهی بشنو که صبحگاهان به تو می‌گوید."
     },
     {
       "VOrder": 24,
@@ -683,7 +695,8 @@
       "Text": "بر کام جهان جهان بپرداز",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: از لذت‌های دنیا به گونه‌ای بهره‌مند شو که در نهایت به نفع تو باشد و به راحتی از این دنیا جدا نشوی."
     },
     {
       "VOrder": 26,
@@ -699,7 +712,8 @@
       "Text": "ملکی که سزای رایت توست",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: سرزمین و مقام‌هایی که شایسته‌ی مقام توست، در حقیقت در دامن قدرت و اختیار تو قرار دارند."
     },
     {
       "VOrder": 28,
@@ -715,7 +729,8 @@
       "Text": "داد و دهشت کران ندارد",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: هر چه بیشتر بدهی و بخشش کنی، به هیچ وجه ضرر نخواهی کرد و ترس و نگرانی وجود ندارد."
     },
     {
       "VOrder": 30,
@@ -731,7 +746,8 @@
       "Text": "کاری که صلاح دولت توست",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: اگر کاری که به نفع حکومت و دولت توست، نباید در پی آن بروی و یا تلاش بیهوده کنی."
     },
     {
       "VOrder": 32,
@@ -747,7 +763,8 @@
       "Text": "از هرچه شکوه تو به رنج است",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: از هر چیزی که به زیبایی و شکوه تو مربوط می‌شود، حتی اگر در درد و رنج باشد، بهتر است به آن بپردازیم، هرچند که می‌تواند پر از ثروت و ارزش باشد."
     },
     {
       "VOrder": 34,
@@ -763,7 +780,8 @@
       "Text": "مویی مپسند ناروایی",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: مو را نپسند که در کار پادشاهی بهانه‌ای برای نادرستی و سستی ایجاد کند."
     },
     {
       "VOrder": 36,
@@ -779,7 +797,8 @@
       "Text": "دشمن که به عذر شد زبانش",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: اگر دشمنی به خاطر عذری زبانش بسته باشد و خود را بی‌خطر بداند، نباید فریب او را خورد و باید او را از خود دور کرد."
     },
     {
       "VOrder": 38,
@@ -795,7 +814,8 @@
       "Text": "قادر شو و بردبار می‌باش",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: قادر و توانا باش و صبر و شکیبایی را در خود پرورش بده. نوشیدن شراب را تجربه کن، اما هوشیار و آگاه بمان."
     },
     {
       "VOrder": 40,
@@ -811,7 +831,8 @@
       "Text": "بازوی تو گرچه هست کاری",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: اگرچه بازوی تو نیرومند است و می‌تواند به تنهایی کار کند، اما اگر یاری از جانب خداوند نباشد، فایده‌ای ندارد."
     },
     {
       "VOrder": 42,
@@ -827,7 +848,8 @@
       "Text": "رای تو اگرچه هست هشیار",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: اگرچه فکر تو آگاه و روشن است، اما هرگز از دست دیگران دور نشو و به نظرات آنها بی‌توجه نکن."
     },
     {
       "VOrder": 44,
@@ -843,7 +865,8 @@
       "Text": "با هیچ دودل مشو سوی حرب",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: دست به کار نشو و به جنگ نرو تا زمانی که کارها به خوبی آماده و ساماندهی شده باشد."
     },
     {
       "VOrder": 46,
@@ -859,7 +882,8 @@
       "Text": "از صحبت آن کسی بپرهیز",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: از هم‌نشینی با کسی که گاهی با نرمی و گاهی با تندی صحبت می‌کند، دوری کن."
     },
     {
       "VOrder": 48,
@@ -875,7 +899,8 @@
       "Text": "هرجا که قدم نهی فراپیش",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: هرجا که پایت را می‌گذاری، قبل از رفتن به جلو، به این فکر کن که آیا می‌خواهی دوباره به عقب برگردی یا نه."
     },
     {
       "VOrder": 50,
@@ -891,7 +916,8 @@
       "Text": "تا کار به نُه قدم برآید",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: اگر به درستی و با تلاش کافی پیش نروید، ممکن است به نتیجه مطلوب نرسید، حتی اگر زحمات زیادی بکشید."
     },
     {
       "VOrder": 52,
@@ -907,7 +933,8 @@
       "Text": "مفرست پیام دادجویان",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: پیام کسانی را که به دنبال حق و حقیقت هستند، جز با کلامی درست و صریح ارسال نکنید."
     },
     {
       "VOrder": 54,
@@ -923,7 +950,8 @@
       "Text": "در قول چنان کن استواری",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: در سخن و گفتارت چنان محکم و ثابت قدم باش که دیگران با شنیدن آن دچار تردید نشوند."
     },
     {
       "VOrder": 56,
@@ -939,7 +967,8 @@
       "Text": "کس را به خود از رخ گشوده",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: از روی دیده، از جان خودت را ناگهان نمایان نکن، زیرا ممکن است کسی را بی‌دلیل بیازاری."
     },
     {
       "VOrder": 58,
@@ -955,7 +984,8 @@
       "Text": "بر عهد کس اعتماد منمای",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: به هیچ کس اعتماد نکن، زیرا ممکن است در دل خود نتوانی جایی برای او پیدا کنی."
     },
     {
       "VOrder": 60,
@@ -971,7 +1001,8 @@
       "Text": "مشمار عدوی خرد را خرد",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: عقیده‌ات را نسبت به دشمن کوچک و بی‌اهمیت نپندار، زیرا مانند خار، به راحتی از راه خود کنار می‌رود."
     },
     {
       "VOrder": 62,
@@ -987,7 +1018,8 @@
       "Text": "در گوش کسی میفکن آن راز",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: هرگز رازی را در گوش کسی نبر که ممکن است از حرف زدن درباره‌اش پشیمان شوی."
     },
     {
       "VOrder": 64,
@@ -1003,7 +1035,8 @@
       "Text": "آن‌را که زنی، ز بیخ بر کن",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی را که به دست می‌آوری، ریشه‌اش را از بیخ بکن و چیزی را که خودت به دست می‌آوری، به راحتی نگذار که از بین برود."
     },
     {
       "VOrder": 66,
@@ -1019,7 +1052,8 @@
       "Text": "از هرچه طلب کنی شب و روز",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که بخواهی، همواره بیشتر از هر چیز نیک‌نامی و شهرت خوب را جمع کن."
     },
     {
       "VOrder": 68,
@@ -1035,7 +1069,8 @@
       "Text": "بر کشتن آن‌که با زبونی است",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: زود اقدام به کشتن کسی که به خاطر ضعف و ناتوانی تحت فشار قرار گرفته نکن، هرچند که او کارهای اشتباهی کرده باشد."
     },
     {
       "VOrder": 70,
@@ -1051,7 +1086,8 @@
       "Text": "بر دوری کام خویش منگر",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: به خواسته‌های خود به دقت توجه نکن، زیرا سرنوشت تو آن‌ها را به سویت می‌آورد."
     },
     {
       "VOrder": 72,
@@ -1067,7 +1103,8 @@
       "Text": "زین جمله فسانه‌ها که گویم",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: من از این همه داستان‌ها که با تو می‌گویم، هدفم فقط بهانه‌گیری است."
     },
     {
       "VOrder": 74,
@@ -1083,7 +1120,8 @@
       "Text": "گرنه دل تو جهان خداوند",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: اگر دل تو به محبت و معنویت خداوند بی‌نیاز شود، دیگر نیازی به نصیحت‌های دنیوی نخواهی داشت."
     },
     {
       "VOrder": 76,
@@ -1099,7 +1137,8 @@
       "Text": "زآن‌جا که تو راست رهنمایی",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: از آن‌جا که تو مشاوره درستی می‌دهی، جز نظرات درست از تو نمی‌توان انتظار داشت."
     },
     {
       "VOrder": 78,
@@ -1115,7 +1154,8 @@
       "Text": "درع تو به زیر چرخ گردان",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: در زیر آسمان پرچرخش، تو به دعای خوبان و نیکان پناه ببر."
     },
     {
       "VOrder": 80,
@@ -1131,7 +1171,8 @@
       "Text": "حرز تو به وقت شادکامی",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: در زمان شادکامی، تلاش و کوشش تو کافی است تا به امنیت و آرامش دست یابی."
     },
     {
       "VOrder": 82,
@@ -1147,7 +1188,8 @@
       "Text": "یارب ز جمال این جهاندار",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: خداوند، زیبایی این دنیا و حاکم آن را از درد و آسیب پنهان نگه‌دار."
     },
     {
       "VOrder": 84,
@@ -1163,7 +1205,8 @@
       "Text": "هر در که زند تو ساز کارش",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: هر جا که کسی تلاشی می‌کند، تو باید در کنار او باشی و از او حمایت کنی."
     },
     {
       "VOrder": 86,
@@ -1179,7 +1222,8 @@
       "Text": "بادا همه اولیاش منصور",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: بگذار همه دوستان و پیروانش مانند منصور شوند، و وعده‌های او آن‌گونه است که باقی مانده‌ها تحت سلطه او قرار دارند."
     },
     {
       "VOrder": 88,
@@ -1195,7 +1239,8 @@
       "Text": "این نامه که نامدار وی باد",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: این نامه، نشانه‌ای از بزرگی و موقعیت اوست، که بر موفقیت و خوشبختی‌اش می‌افزاید."
     },
     {
       "VOrder": 90,
@@ -1211,7 +1256,8 @@
       "Text": "هم فاتحه‌ایش هست مسعود",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که هم سبب خوشحالی و آغاز خوب او وجود دارد و هم نتیجه و پایان خوشی برای او در نظر گرفته شده است. به عبارت دیگر، همه چیز برای او به خوبی پیش می‌رود و به نتیجه مثبتی منتهی می‌شود."
     },
     {
       "VOrder": 92,

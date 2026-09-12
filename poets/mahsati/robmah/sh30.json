@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "در خانهٔ تو آنچه مرا شاید، نیست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در خانهٔ تو چیزی وجود ندارد که بتواند دلم را آرام کند یا مرا از حال نگرانم بیرون بیاورد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گویی همه چیز دارم از مال و منال",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: انگار که همه چیز را دارم، از دارایی و امکانات، اما در واقع هیچ چیز نیست که به آن نیاز دارم."
     },
     {
       "VOrder": 4,

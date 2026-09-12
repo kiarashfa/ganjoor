@@ -371,7 +371,8 @@
       "Text": "یک عرابی بار کرده اشتری",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: یک بیابانی بار کرده است، دو کیسه سنگین مملو از دانه را روی شترش گذاشته است."
     },
     {
       "VOrder": 2,
@@ -387,7 +388,8 @@
       "Text": "او نشسته بر سر هر دو جوال",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "Ãshoory:او بروی هر دو لنگه بار نشسته بود که یک شخص سخنور و دانا از او پرسش کرد"
     },
     {
       "VOrder": 4,
@@ -403,7 +405,8 @@
       "Text": "از وطن پرسید و آوردش بگفت",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: فردی از وطنش سوال کرد و پاسخ داد. در این پرسش، درهای زیادی به رویش باز شد."
     },
     {
       "VOrder": 6,
@@ -419,7 +422,8 @@
       "Text": "بعد از آن گفتش که این هر دو جوال",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: پس از آن از او پرسید که این دو کیسه چه چیزی را پر کرده‌اند، بگو که حال و وضع آن چیست."
     },
     {
       "VOrder": 8,
@@ -435,7 +439,8 @@
       "Text": "گفت اندر یک جوالم گندمست",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: در یک ظرف، مقداری گندم وجود دارد که در ظرف دیگری تنها کمی ریگ است. این نشان‌دهنده تفاوت قابل توجهی است: در یکی غذا و قوت زندگی مردم است و در دیگری چیزی بی‌ارزش و بی‌فائده است."
     },
     {
       "VOrder": 10,
@@ -451,7 +456,8 @@
       "Text": "گفت تو چون بار کردی این رمال",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: گفتی چرا بار را به تنهایی حمل می‌کنی؟ رمال پاسخ داد: تا زمانی که با دیگران نباشم، آن کیف به تنهایی نمی‌ماند."
     },
     {
       "VOrder": 12,
@@ -467,7 +473,8 @@
       "Text": "گفت نیم گندم آن تنگ را",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: نیمه‌ای از گندم را در آن کیسه بریز و بعد از آن به دنبال دانش و فرهنگ برو."
     },
     {
       "VOrder": 14,
@@ -483,7 +490,8 @@
       "Text": "تا سبک گردد جوال و هم شتر",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: برای اینکه بار و زحمت کم شود و شتر راحت‌تر راه برود، ای حکیم اهل و حر، رقص و شادمانی سر ده!"
     },
     {
       "VOrder": 16,
@@ -499,7 +507,8 @@
       "Text": "این چنین فکر دقیق و رای خوب",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: تفکر عمیق و دیدگاه خوب تو، این‌گونه به وضوح و بی‌پرده در معرض نمایش آمده است."
     },
     {
       "VOrder": 18,
@@ -515,7 +524,8 @@
       "Text": "رحمش آمد بر حکیم و عزم کرد",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: خداوند مهربانی بر حکیم کرد و تصمیم گرفت که او را بر شتری نیکوروش بنشاند."
     },
     {
       "VOrder": 20,
@@ -531,7 +541,8 @@
       "Text": "باز گفتش ای حکیم خوش‌سخن",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: او به حکیم خوش‌زبان گفت که کمی از زندگی و وضعیت خود را برای او توضیح دهد."
     },
     {
       "VOrder": 22,
@@ -547,7 +558,8 @@
       "Text": "این چنین عقل و کفایت که توراست",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: شما به گونه‌ای از عقل و کمال برخوردارید که می‌توانید وزیر یا پادشاه باشید، پس حقیقت را به روشنی بگویید."
     },
     {
       "VOrder": 24,
@@ -563,7 +575,8 @@
       "Text": "گفت این هر دو نیم از عامه‌ام",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: او گفت که هر دوی ما از مردم عادی هستیم، به حالم و به ظاهرم دقت کن."
     },
     {
       "VOrder": 26,
@@ -579,7 +592,8 @@
       "Text": "گفت اشتر چند داری چند گاو",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: شخصی از دیگری پرسید که چند تا شتر و چند تا گاو دارد. او پاسخ داد که نه شتر دارد و نه گاو، بلکه ماجرا چیز دیگری است."
     },
     {
       "VOrder": 28,
@@ -595,7 +609,8 @@
       "Text": "گفت رختت چیست باری در دکان",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: در اینجا شخصی از دیگری می‌پرسد که چه چیزی برای فروش در دکان دارد، اما پاسخ می‌دهد که ما نه دکانی داریم و نه جایی برای فروش. یعنی به نوعی می‌گوید ما در شرایطی نیستیم که بتوانیم چیزی بفروشیم یا مکانی برای این کار داشته باشیم."
     },
     {
       "VOrder": 30,
@@ -611,7 +626,8 @@
       "Text": "گفت پس از نقد پرسم نقد چند",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: گفت بعد از اینکه به بررسی پرداختم، بپرسم که چند تا نقد وجود دارد، چون تو تنها هستی و به محبوبی شبیه هستی."
     },
     {
       "VOrder": 32,
@@ -627,7 +643,8 @@
       "Text": "کیمیای مس عالم با تو است",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: طلای واقعی در دستان توست و فهم و دانش به خودی خود ارزشمند است."
     },
     {
       "VOrder": 34,
@@ -643,7 +660,8 @@
       "Text": "گفت والله نیست یا وجه العرب",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: گفت: به جان خودم، هیچ دلیل و نشانه‌ای در تمام سرزمینم وجود ندارد که به شکل‌های مختلف قدرت شب را نشان دهد."
     },
     {
       "VOrder": 36,
@@ -659,7 +677,8 @@
       "Text": "پا برهنه تن برهنه می‌دوم",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: با پای برهنه و بدنی عاری از لباس می‌دوم، هر کسی که به من نان بدهد، به طرف او می‌روم."
     },
     {
       "VOrder": 38,
@@ -675,7 +694,8 @@
       "Text": "مر مرا زین حکمت و فضل و هنر",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: از این حکمت و دانش و هنر، برای من جز خیال و پریشانی نتیجه‌ای نداشته است."
     },
     {
       "VOrder": 40,
@@ -691,7 +711,8 @@
       "Text": "پس عرب گفتش که رو دور از برم",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: عرب به او گفت که دور شو تا شومی تو بر من نبارد و آسیب نرسانی."
     },
     {
       "VOrder": 42,
@@ -707,7 +728,8 @@
       "Text": "دور بر آن حکمت شومت ز من",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: حکمت تو دور و مشکل است، اما وقتی با من سخن می‌گویی، روشن و واضح می‌شود برای مردم زمانه."
     },
     {
       "VOrder": 44,
@@ -723,7 +745,8 @@
       "Text": "یا تو آن سو رو من این سو می‌دوم",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: اگر تو به سمت پایین بروی، من به سمت بالا می‌دوم و اگر تو از من عبور کنی، من عقب می‌نشینم."
     },
     {
       "VOrder": 46,
@@ -739,7 +762,8 @@
       "Text": "یک جوالم گندم و دیگر ز ریگ",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: بهتر است که یک جوی از گندم و مقداری از ریگ داشته باشیم، تا گرفتار فریب و نیرنگ مردان فریبکار نشویم."
     },
     {
       "VOrder": 48,
@@ -755,7 +779,8 @@
       "Text": "احمقی‌ام بس مبارک احمقیست",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: من احمق هستم و بنابراین خوشا به حال احمق‌ بودن، چرا که قلبم با زیبایی‌ها و روح من با پرهیزکاری گره خورده است."
     },
     {
       "VOrder": 50,
@@ -771,7 +796,8 @@
       "Text": "گر تو خواهی کت شقاوت کم شود",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی سختی‌های زندگی‌ات کمتر شود، تلاش کن که از دانش و حکمت خود بکاهید."
     },
     {
       "VOrder": 52,
@@ -787,7 +813,8 @@
       "Text": "حکمتی کز طبع زاید وز خیال",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "حکمتی -که تو داری- \u00A0که از میل و فکر و‌ خیال خودت سرچشمه میگیرد."
     },
     {
       "VOrder": 54,
@@ -803,7 +830,8 @@
       "Text": "حکمت دنیا فزاید ظن و شک",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: افزایش درک و فهم از دنیای مادّی باعث می‌شود که انسان دچار گمان و تردید شود، ولی درک و فهم دینی به اوج و مرتبه‌ای بالاتر از این دنیا می‌رسد."
     },
     {
       "VOrder": 56,
@@ -819,7 +847,8 @@
       "Text": "زوبعان زیرک آخر زمان",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: زبان‌آوران باهوش در این زمان، بر دانش و تجربیات گذشته خود افزوده‌اند."
     },
     {
       "VOrder": 58,
@@ -835,7 +864,8 @@
       "Text": "حیله‌آموزان جگرها سوخته",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: دوران آموزش به حیله‌گران سختی‌هایی را به همراه داشته و آن‌ها باExperiences دردناک، فنون و ترفندهای مختلف را یاد گرفته‌اند."
     },
     {
       "VOrder": 60,
@@ -851,7 +881,8 @@
       "Text": "صبر و ایثار و سخای نفس و جود",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: صبور بودن، فداکاری کردن و بخشنده بودن از ویژگی‌های مهمی است که می‌تواند برکات و نتایج مثبتی را در زندگی انسان به ارمغان آورد."
     },
     {
       "VOrder": 62,
@@ -867,7 +898,8 @@
       "Text": "فکر آن باشد که بگشاید رهی",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: اندیشه باید به گونه‌ای باشد که راهی برای پیشرفت و رسیدن به اهداف باز کند و این راه ممکن است با ظهور یک شخص تاثیرگذار یا یک فرصت مناسب هموار شود."
     },
     {
       "VOrder": 64,
@@ -883,7 +915,8 @@
       "Text": "شاه آن باشد که از خود شه بود",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: سلطان کسی است که در برابر پادشاهی دیگر قرار گیرد و به خزانه‌ها و نیروهای نظامی او تکیه نکند."
     },
     {
       "VOrder": 66,
@@ -899,7 +932,8 @@
       "Text": "تا بماند شاهی او سرمدی",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: به منظور حفظ و پایندگی مقام سلطنت او، که همواره مانند عزت و اعتبار دین احمدی باشد."
     },
     {
       "VOrder": 68,

@@ -671,7 +671,8 @@
       "Text": "چو از روزگارش چهل سال ماند",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "ببین که چهل سال پیش از پایان حکومت ضحاک خداوند چه سرنوشتی برای او رقم زد."
     },
     {
       "VOrder": 2,
@@ -687,7 +688,8 @@
       "Text": "در ایوان شاهی شبی دیر یاز",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "یک شب در کاخ پادشاهی به همراه ارنواز خوابیده بود."
     },
     {
       "VOrder": 4,
@@ -703,7 +705,8 @@
       "Text": "چنان دید کز کاخ شاهنشهان",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "ضحاک آنگونه خواب دید که سه جنگجو در کاخ شاهی‌اش پدیدار شدند."
     },
     {
       "VOrder": 6,
@@ -719,7 +722,8 @@
       "Text": "دو مهتر یکی کهتر اندر میان",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "دو بزرگسال و یک جوان در میان آنها که به قد مانند سرو و به فر و شکوه مانند شاهان بود."
     },
     {
       "VOrder": 8,
@@ -735,7 +739,8 @@
       "Text": "کمر بستن و رفتن شاهوار",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "رفتار جوانی مانند شاهان بود و در دستش گرزی گاوسار (با سری شبیه گاو) داشت."
     },
     {
       "VOrder": 10,
@@ -751,7 +756,8 @@
       "Text": "دمان پیش ضحاک رفتی به جنگ",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "فریادکنان به سمت ضحاک آمد و بر گردنش افسار انداخت."
     },
     {
       "VOrder": 12,
@@ -767,7 +773,8 @@
       "Text": "همی تاختی تا دماوند کوه",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "تا کوه دماوند تاختند و او را با افسار بر گردن تا آنجا پشت سر خودشان می‌کشاندند."
     },
     {
       "VOrder": 14,
@@ -783,7 +790,8 @@
       "Text": "بپیچید ضحاک بیدادگر",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "ضحاک از وحشت به خود پیچید جوری که انگار جگرش درآمده بود."
     },
     {
       "VOrder": 16,
@@ -799,7 +807,8 @@
       "Text": "یکی بانگ بر زد به خواب اندرون",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "در خواب چنان فریادی زد که از آن کاخ صدستونش لرزید."
     },
     {
       "VOrder": 18,
@@ -815,7 +824,8 @@
       "Text": "بجَستند خورشیدرویان ز جای",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "زیبارویان ساکن کاخ از آن سر و صدا از خواب پریدند."
     },
     {
       "VOrder": 20,
@@ -831,7 +841,8 @@
       "Text": "چنین گفت ضحاک را ارنواز",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "ارنواز به ضحاک گفت که ای شاه! تو را چه شده؟"
     },
     {
       "VOrder": 22,
@@ -847,7 +858,8 @@
       "Text": "که خفته به آرام در خان خویش",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "که در خانهٔ خودت به آرامی خوابیده‌ای اما چنین وحشتزده شدی و بر جان خودت ترسیدی؟"
     },
     {
       "VOrder": 24,
@@ -863,7 +875,8 @@
       "Text": "زمین هفت کشور به فرمان تو است",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هفت کشور تحت فرمان توست و همه‌ی حیوانات و انسان‌ها به تو وفادارند."
     },
     {
       "VOrder": 26,
@@ -879,7 +892,8 @@
       "Text": "به خورشیدرویان جهاندار گفت",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "ضحاک به ارنواز گفت که چنین رازی بهتر است که پنهان بماند."
     },
     {
       "VOrder": 28,
@@ -895,7 +909,8 @@
       "Text": "که گر از من این داستان بشنوید",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: اگر شما این داستان را از من بشنوید، دل‌تان از زندگی‌ام ناامید خواهد شد."
     },
     {
       "VOrder": 30,
@@ -911,7 +926,8 @@
       "Text": "به شاه گرانمایه گفت ارنواز",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "ارنواز به شاه گفت که باید رازت را به ما بگویی."
     },
     {
       "VOrder": 32,
@@ -927,7 +943,8 @@
       "Text": "توانیم کردن مگر چاره‌ای",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "ما می‌توانیم راه حلی برای آن پیدا کنیم چون هیچ مشکلی نیست که راه حلی نداشته باشد."
     },
     {
       "VOrder": 34,
@@ -943,7 +960,8 @@
       "Text": "سپهبد گشاد آن نهان از نهفت",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "شاه خوابش را برای آنها تعریف کرد."
     },
     {
       "VOrder": 36,
@@ -959,7 +977,8 @@
       "Text": "چنین گفت با نامور ماهروی",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "ارنواز به ضحاک گفت که این خواب را سرسری نگیر و دنبال حل مشکلت باش."
     },
     {
       "VOrder": 38,
@@ -975,7 +994,8 @@
       "Text": "نگین زمانه سر تخت تو است",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "در این زمان دنیا از نور بخت و اقبال تو روشن است."
     },
     {
       "VOrder": 40,
@@ -991,7 +1011,8 @@
       "Text": "تو داری جهان زیر انگشتری",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "همهٔ دنیا زیر فرمان توست."
     },
     {
       "VOrder": 42,
@@ -1007,7 +1028,8 @@
       "Text": "ز هر کشوری گِرد کن مهتران",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "از هر سرزمینی عالمان و ستارشناسان و جادوگران را به دربار خود بخوان و ان ها راجمع اوری کن"
     },
     {
       "VOrder": 44,
@@ -1023,7 +1045,8 @@
       "Text": "سخن سربه‌سر موبدان را بگوی",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "خواب خود را برای موبدان تعریف کن و دربارهٔ آن تحقیق کن و دنبال چاره باش."
     },
     {
       "VOrder": 46,
@@ -1039,7 +1062,8 @@
       "Text": "نگه کن که هوش تو بر دست کیست",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "بنگر و ببین که مرگ تو به دست کیست؟ به دست کسی از شمار آدمیان است یا از دیوان و پریان؟"
     },
     {
       "VOrder": 48,
@@ -1055,7 +1079,8 @@
       "Text": "چو دانسته شد چاره ساز آن زمان",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: وقتی که راه حل مشکل را پیدا کردی، نگران نباش و از بدگمانی دیگران ترسی به دل راه نده."
     },
     {
       "VOrder": 50,
@@ -1071,7 +1096,8 @@
       "Text": "شه پر منش را خوش آمد سخن",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "شاه از این سخن خوشش آمد."
     },
     {
       "VOrder": 52,
@@ -1087,7 +1113,8 @@
       "Text": "جهان از شب تیره چون پرّ زاغ",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "شب که مانند پر زاغ تاریک بود ناگهان چراغی (اشاره به خورشید) از پشت کوه در آمد و طلوع کرد."
     },
     {
       "VOrder": 54,
@@ -1103,7 +1130,8 @@
       "Text": "تو گفتی که بر گنبد لاژورد",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "انگار خورشید بر گنبد کبود یاقوت زرد ریخت."
     },
     {
       "VOrder": 56,
@@ -1119,7 +1147,8 @@
       "Text": "سپهبد به هر جا که بد موبدی",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "شاه از همه جا هر موبد سخن‌دادن و بیداردلی بود ..."
     },
     {
       "VOrder": 58,
@@ -1135,7 +1164,8 @@
       "Text": "ز کشور به نزدیک خویش آورید",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "...\u00A0 به نزد خود آورد و آن خواب را برایش تعریف کرد."
     },
     {
       "VOrder": 60,
@@ -1151,7 +1181,8 @@
       "Text": "نهانی سخن کردشان آشکار",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "خوابش را برای آنها تعریف کرد."
     },
     {
       "VOrder": 62,
@@ -1167,7 +1198,8 @@
       "Text": "که بر من زمانه کی آید بسر",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "از آنها پرسید که بر اساس این خواب چه بر سر من خواهد آمد و این تخت پادشاهی به چه کسی می‌رسد؟"
     },
     {
       "VOrder": 64,
@@ -1183,7 +1215,8 @@
       "Text": "گر این راز با من بباید گشاد",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "باید راز این خواب را به من بگویید هر چند تعبیرش خوار شدن من باشد."
     },
     {
       "VOrder": 66,
@@ -1199,7 +1232,8 @@
       "Text": "لب موبدان خشک و رخساره تر",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "موبدان ترسیدند و لبهایشان خشک و چشمشان از اشک تر شد و با هم مشغول گفتگو شدند."
     },
     {
       "VOrder": 68,
@@ -1215,7 +1249,8 @@
       "Text": "که گر بودنی باز گوییم راست",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "با هم می‌گفتند که اگر حقیقت ماجرا را بگوییم او ما را خواهد کشت."
     },
     {
       "VOrder": 70,
@@ -1231,7 +1266,8 @@
       "Text": "و گر نشنود بودنی‌ها درست",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "اما اگر هم حقیقت را نگوییم او می‌فهمد و ما را می‌کشد."
     },
     {
       "VOrder": 72,
@@ -1247,7 +1283,8 @@
       "Text": "سه روز اندر این کار شد روزگار",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "سه روز در این کار زمان سپری شد و هیچ‌کس جرأت نکرد که موضوع را علنی کند."
     },
     {
       "VOrder": 74,
@@ -1263,7 +1300,8 @@
       "Text": "به روز چهارم برآشفت شاه",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "در روز چهارم، شاه به شدت بر افروخته شد و بر موبدان خشم گرفت."
     },
     {
       "VOrder": 76,
@@ -1279,7 +1317,8 @@
       "Text": "که گر زنده‌تان دار باید بسود",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "به آنها گفت دو راه بیشتر ندارید: یا باید زنده زنده بر دار شوید و یا مقدرات را فاش کنید."
     },
     {
       "VOrder": 78,
@@ -1295,7 +1334,8 @@
       "Text": "همه موبدان سرفگنده نگون",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: همه روحانیان با سرهای پایین و دل‌های پر از ترس، چشمان‌شان پر از اشک و خون بود."
     },
     {
       "VOrder": 80,
@@ -1311,7 +1351,8 @@
       "Text": "از آن نامداران بسیار هوش",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "یکی از آنها که بینادل و تیزگوش بود ..."
     },
     {
       "VOrder": 82,
@@ -1327,7 +1368,8 @@
       "Text": "خردمند و بیدار و زیرک به نام",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "... و نام او زیرک بود از میان موبدان جلو آمد ..."
     },
     {
       "VOrder": 84,
@@ -1343,7 +1385,8 @@
       "Text": "دلش تنگ‌تر گشت و ناباک شد",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "... جرأتش زیاد شد و سر صحبتش پیش ضحاک باز شد."
     },
     {
       "VOrder": 86,
@@ -1359,7 +1402,8 @@
       "Text": "بدو گفت پردخته کن سر ز باد",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "به او گفت که افسوس نخور که هیچکس نیست که سرانجامش مردن نباشد."
     },
     {
       "VOrder": 88,
@@ -1375,7 +1419,8 @@
       "Text": "جهاندار پیش از تو بسیار بود",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "پیش از تو شاهان زیادی بودند که سزاوار تخت پادشاهی بودند."
     },
     {
       "VOrder": 90,
@@ -1391,7 +1436,8 @@
       "Text": "فراوان غم و شادمانی شمرد",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "آن پادشاهان غم و شادی‌های جهان را تجربه کردند و مردند و پادشاهی را به دیگران سپردند."
     },
     {
       "VOrder": 92,
@@ -1407,7 +1453,8 @@
       "Text": "اگر بارهٔ آهنینی به پای",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "به هیچ وجه راه فراری از مرگ نداری."
     },
     {
       "VOrder": 94,
@@ -1423,7 +1470,8 @@
       "Text": "کسی را بود زین سپس تخت تو",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "کسی پس از تو صاحب تخت پادشاهی تو می‌شود که تو را به خاک می‌افکند."
     },
     {
       "VOrder": 96,
@@ -1439,7 +1487,8 @@
       "Text": "کجا نام او آفریدون بود",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "نام آن شخص فریدون است."
     },
     {
       "VOrder": 98,
@@ -1455,7 +1504,8 @@
       "Text": "هنوز آن سپهبد ز مادر نزاد",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: هنوز آن فرمانده بزرگ به دنیا نیامده است که زمان پرسش و خبرهای سرد فرا برسد."
     },
     {
       "VOrder": 100,
@@ -1471,7 +1521,8 @@
       "Text": "چو او زاید از مادر پرهنر",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: زمانی که او از مادر با هنر متولد می‌شود، مانند درختی بارور و پربار می‌شود."
     },
     {
       "VOrder": 102,
@@ -1487,7 +1538,8 @@
       "Text": "به مردی رسد بر کشد سر به ماه",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "وقتی فریدون مرد شود به دنبال تخت پادشاهی خواهد بود."
     },
     {
       "VOrder": 104,
@@ -1503,7 +1555,8 @@
       "Text": "به بالا شود چون یکی سرو بُرز",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "قد و قامتش بلند می‌شود و بر شانه گرز فولادی می‌اندازد."
     },
     {
       "VOrder": 106,
@@ -1519,7 +1572,8 @@
       "Text": "زند بر سرت گُرزهٔ گاوسار",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "بر سر تو گرز گاوسار می‌زند و تو را می‌گیرد و به خواری می‌بندد."
     },
     {
       "VOrder": 108,
@@ -1535,7 +1589,8 @@
       "Text": "بدو گفت ضحاک ناپاک دین",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "ضحاک از او پرسید: چرا فریدون مرا می‌بندد؟ چه کینه‌ای از من به دل دارد؟"
     },
     {
       "VOrder": 110,
@@ -1551,7 +1606,8 @@
       "Text": "دلاور بدو گفت گر بخردی",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "هوش مصنوعی: جوانمرد به او گفت: اگر کسی عاقل و خردمند باشد، بدون دلیل به بدی نمی‌پردازد."
     },
     {
       "VOrder": 112,
@@ -1567,7 +1623,8 @@
       "Text": "برآید به دست تو هوش پدرش",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "تو پدرش را می‌کشی به خاطر همین سرش پر از کینهٔ تو می‌شود."
     },
     {
       "VOrder": 114,
@@ -1583,7 +1640,8 @@
       "Text": "یکی گاو برمایه خواهد بدن",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "گاوی خواهد بود که مانند مادر فریدون خواهد بود."
     },
     {
       "VOrder": 116,
@@ -1599,7 +1657,8 @@
       "Text": "تبه گردد آن هم به دست تو بر",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "تو آن گاو را هم می‌کشی و فریدون از کینهٔ خونخواهی آن گاو، گرز گاوسار به دست می‌گیرد."
     },
     {
       "VOrder": 118,
@@ -1615,7 +1674,8 @@
       "Text": "چو بشنید ضحاک بگشاد گوش",
       "CoupletIndex": 59,
       "SectionIndex1": 0,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "زمانی که ضحاک این را شنید، از تخت پایین افتاد و از هوش رفت."
     },
     {
       "VOrder": 120,
@@ -1631,7 +1691,8 @@
       "Text": "گرانمایه از پیش تخت بلند",
       "CoupletIndex": 60,
       "SectionIndex1": 0,
-      "SectionIndex2": 62
+      "SectionIndex2": 62,
+      "CoupletSummary": "موبد از ترس آسیبی که ممکن است به او برسد از تخت رو برگرداند."
     },
     {
       "VOrder": 122,
@@ -1647,7 +1708,8 @@
       "Text": "چو آمد دل نامور باز جای",
       "CoupletIndex": 61,
       "SectionIndex1": 0,
-      "SectionIndex2": 63
+      "SectionIndex2": 63,
+      "CoupletSummary": "زمانی که ضحاک حالش سر جایش آمد دوباره بر تخت نشست."
     },
     {
       "VOrder": 124,
@@ -1663,7 +1725,8 @@
       "Text": "نشان فریدون به گرد جهان",
       "CoupletIndex": 62,
       "SectionIndex1": 0,
-      "SectionIndex2": 64
+      "SectionIndex2": 64,
+      "CoupletSummary": "و پس از آن به شکل آشکار و نهان به دنبال یافتن فریدون بود."
     },
     {
       "VOrder": 126,
@@ -1679,7 +1742,8 @@
       "Text": "نه آرام بودش نه خواب و نه خورد",
       "CoupletIndex": 63,
       "SectionIndex1": 0,
-      "SectionIndex2": 65
+      "SectionIndex2": 65,
+      "CoupletSummary": "از آن پس او آرامش و خواب نداشت و روزش سیاه شد."
     },
     {
       "VOrder": 128,

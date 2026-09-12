@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "درد ما را دوا تواند بود",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دردهای ما با وفا و عشق آن کسی که به ما جفا کرده، درمان خواهد شد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "دلبر از این دهان شیرینت",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عزیزم، با گفتار شیرینت می‌توانی دل و جانم را شاد کنی."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "حالت درد ما که عرضه دهد",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: درد و رنج و غم ما را فقط صبا می‌تواند به او منتقل کند."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "گوید آن دردها که بر دل ماست",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌گوید آن دردهایی که بر دل ماست، ای نازنین، می‌تواند قابل تحمل باشد."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "ای بت دلربا به عهد رخت",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای معشوق جذاب، هیچ کس نمی‌تواند در برابر زیبایی و جذابیت تو پارسا و پاک‌دامن باشد."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "پای بست غم و بلاست دلم",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من در اسارت غم و درد است، زیرا که می‌تواند فریب دو وزش از زلف‌های تو را بخورد."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "تو مرا جانی و ز من دوری",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو جان من هستی و از من دوری. چگونه امکان دارد که تن بدون جان زنده بماند؟"
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "آن بت از لطف خویشتن با من",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او با مهربانی و لطف خود، به من اجازه می‌دهد که حتی برای یک لحظه هم که شده، در کنار او باشم و از وجودش بهره‌مند شوم."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "ای بت بی وفا به جان جهان",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای معشوقه بی وفا، تا چه زمانی می‌خواهی بر جان من ظلم کنی و از محبت دور باشی؟"
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "بی تو جان در تنم نکو نفسی",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بی تو، زندگی‌ام در این جسم دیگر رنگی ندارد. ای دو چشمانم، کجا می‌توانند آرامش بیابند؟"
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "دل مهجور من به درد فراق",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل تنها و دور از معشوقم بیشتر از این نمی‌تواند تحمل درد جدایی را داشته باشد."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "من شکسته دلم چو زلف بتان",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من همچون زلف‌های معشوق به هم ریخته و پریشان است، اما وصال او می‌تواند مانند موم، نرم و قابل انعطاف باشد."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "خاک پای تو در دو چشم بصر",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خاک پای تو می‌تواند به جای دارویی برای چشم‌های عاشق من باشد."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "صحبت آن نگار شهر آشوب",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفتگوی آن معشوق خوش‌چهره که دل‌ها را به هم می‌زند، هیچگاه بدون ماجرایی خواهد بود."
     },
     {
       "VOrder": 28,

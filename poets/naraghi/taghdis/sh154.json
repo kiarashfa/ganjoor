@@ -211,7 +211,8 @@
       "Text": "آن یکی با ماه آمد در جدال",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: یک نفر با ماه وارد مبارزه شد، در حالی که تو همچون شمعی در جشن آسمان، در برابر زمان و سال قرار داری."
     },
     {
       "VOrder": 2,
@@ -227,7 +228,8 @@
       "Text": "ای سپه سالار بزم اختوران",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: ای فرمانده‌ی جشن و شادی، تو که تمامی سربازانت را به خود اختصاص داده‌ای."
     },
     {
       "VOrder": 4,
@@ -243,7 +245,8 @@
       "Text": "ای چراغ خلوت اهل یقین",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: ای نور بخش زندگی مؤمنان، ای که زمین را با روشنی خود روشن می‌کنی."
     },
     {
       "VOrder": 6,
@@ -259,7 +262,8 @@
       "Text": "از تو شبها یکجهانی روشنست",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: شب‌ها به خاطر تو، یک دنیای پر نور و روشنی در صفحه‌ی سبز و خاکستری باغ وجود دارد."
     },
     {
       "VOrder": 8,
@@ -275,7 +279,8 @@
       "Text": "از تو امر خلق عالم منتظم",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: تمام آفرینش و نظم جهان به اراده و خواست تو بستگی دارد و آغاز و پایان همه چیز نیز از تو نشأت می‌گیرد."
     },
     {
       "VOrder": 10,
@@ -291,7 +296,8 @@
       "Text": "از چه در دنبال خور افتاده ای",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: چرا به دنبال خورشید می‌دوی، در حالی که مانند کمانی که بر روی خطی قرار گرفته، نشسته‌ای؟"
     },
     {
       "VOrder": 12,
@@ -307,7 +313,8 @@
       "Text": "از چه افتادستی او را در عقب",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: تو که در سایه‌ی روز به عقب افتاده‌ای، همانا تویی که در شب سلطنت می‌کنی."
     },
     {
       "VOrder": 14,
@@ -323,7 +330,8 @@
       "Text": "آن اگر در روز نورافشان بود",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: اگر آن شخص در روز نور می‌افشاند، جهان در شب، به برکت روشنایی او می‌درخشد."
     },
     {
       "VOrder": 16,
@@ -339,7 +347,8 @@
       "Text": "از چه چون عباس دوسی نزدودی",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: چرا مانند عباس به او نزدیک نمی‌شوی؟ گاه از جلو به او نزدیک می‌شوی و گاهی از پشت."
     },
     {
       "VOrder": 18,
@@ -355,7 +364,8 @@
       "Text": "پیش او گه در خمی گه راستی",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: در محضر او گاهی حالت خمیده و ناتوانی است و گاهی در اوج راستی و صداقت قرار داری. بعضی موقع‌ها قوت و قدرت تو بیشتر می‌شود و در مواقعی دیگر ممکن است ضعف و نقصان حس کنی."
     },
     {
       "VOrder": 20,
@@ -371,7 +381,8 @@
       "Text": "از چه گشتی پیش او کمتر رهی",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: چرا به نزد او کم‌توجهی می‌کنی، آق سنقر. گاهی در قراسنقر و گاهی در جاهای دیگر هستی."
     },
     {
       "VOrder": 22,
@@ -387,7 +398,8 @@
       "Text": "داد پاسخ مه به آن اندرزگو",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که مه با کسی که در راه اندرز و نصیحت به او پرداخته، صحبت می‌کند و به او می‌گوید که اگر بر سلطنت من تاثیر بگذارد، موفق نخواهد شد و من بر این موضوع تاکید دارم."
     },
     {
       "VOrder": 24,
@@ -403,7 +415,8 @@
       "Text": "گر نباشد فیض خورشید علا",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: اگر فیض و روشنایی خورشید بر من نمی‌تابید، تو می‌توانستی به من طعنه بزنی، اما نور سها باعث می‌شود که تو نتوانی این کار را بکنی."
     },
     {
       "VOrder": 26,
@@ -419,7 +432,8 @@
       "Text": "گر نیفکندی به من او سایه ای",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: اگر سایه‌ای جز تاریکی بر من نمی‌افکندی، من هم پایۀ وجودم نمی‌بود."
     },
     {
       "VOrder": 28,
@@ -435,7 +449,8 @@
       "Text": "نظم عالم از نظام نور اوست",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: نظم و ترتیب جهان به دلیل نور اوست، اما چشم خفاش‌ها نسبت به آن نور کور است."
     },
     {
       "VOrder": 30,
@@ -451,7 +466,8 @@
       "Text": "گر شبی با او مقابل خواستم",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: اگر شبی بخواهم روبه‌روی او قرار بگیرم، سال‌ها از شرم و خجالت کوچک می‌شوم."
     },
     {
       "VOrder": 32,
@@ -467,7 +483,8 @@
       "Text": "گر نه این پرتو به من انداختی",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: اگر این نور و پرتو را به من نتاباندی، هیچ‌کس مرا در آسمان نداشت که بشناسد."
     },
     {
       "VOrder": 34,
@@ -483,7 +500,8 @@
       "Text": "من چه دارم جز سیه رویی دگر",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: من هیچ چیزی جز سیاهی و بدبختی ندارم، ای خدا، ناصح (پند دهنده) از من بگذر."
     },
     {
       "VOrder": 36,

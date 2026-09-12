@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "شهنشهی که بود جبرئیل دربانش",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پادشاهی که جبرئیل نگهبان اوست، فرشتگانی مطیع دارد و آسمان سقف قصر اوست."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "تهمتنی که زتیغ شررفشان می زد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به من اتهام زد که در روز جنگ، با تیغی که از شرف و عظمت خود می‌درخشید، به جان دشمنان حمله کردم."
     },
     {
       "VOrder": 4,
@@ -54,7 +56,8 @@
       "Position": "Right",
       "Text": "مجاهدی که میان مبارزان جهان",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مبارزی که قابل رقابت و همتایی در میان جنگجویان جهان نداشت."
     },
     {
       "VOrder": 6,
@@ -68,7 +71,8 @@
       "Position": "Right",
       "Text": "دلاوری که چو بر عمر عبدود زد تیغ",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شجاعتی که وقتی شمشیرش را بر عمر عبدود فرود آورد، صدای تحسین از عرش می‌آمد."
     },
     {
       "VOrder": 8,
@@ -82,7 +86,8 @@
       "Position": "Right",
       "Text": "چنان زقلعهٔ خیبر، ز قهر در بر کند",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مثل اینکه از قلعه‌ی خیبر، به دلیل خشم و قهری که در دل دارد، به شدت می‌لرزد و در تمام پایه‌هایش تزلزل به وجود می‌آورد."
     },
     {
       "VOrder": 10,
@@ -96,7 +101,8 @@
       "Position": "Right",
       "Text": "ز بسکه کشت ز قوم یهود در خیبر",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به دلیل اینکه مردم یهود در خیبر بسیار زراعت کرده بودند، حضرت موسی از شدت ناتوانی و درماندگی، دامن خود را گرفت."
     },
     {
       "VOrder": 12,
@@ -110,7 +116,8 @@
       "Position": "Right",
       "Text": "شهی که جن و بشر، وحش وطیر و، بنده و حر",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شاهی که هم جن و انسان، وحوش و پرندگان، و آزادگان و بندگان از سفره‌ی لطف او روزی می‌گیرند."
     },
     {
       "VOrder": 14,
@@ -124,7 +131,8 @@
       "Position": "Right",
       "Text": "نه خالق است ولی حاکم است بر همه خلق",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او خالق نیست، اما بر تمامی مخلوقات سلطنت می‌کند و همه موجودات تحت فرمان او هستند."
     },
     {
       "VOrder": 16,
@@ -138,7 +146,8 @@
       "Position": "Right",
       "Text": "گناهکاران یکسر سوی بهشت روند",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در روز قیامت، اگر سلمان شفاعت کند، همه گناهکاران به سوی بهشت خواهند رفت."
     },
     {
       "VOrder": 18,
@@ -152,7 +161,8 @@
       "Position": "Right",
       "Text": "کسی که مهر علی نیست در دلش اورا",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به کسی که در دلش محبت علی (ع) نیست، نباید او را بی‌عیب و حلال‌زاده تصور کرد و همچنین نباید او را مسلمان نامید."
     },
     {
       "VOrder": 20,
@@ -166,7 +176,8 @@
       "Position": "Right",
       "Text": "هر آنکه مهر علی کرده جا به سینهٔ او",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که محبت علی را در دل دارد، در روز قیامت نگران عبور از صراط و سنجش اعمالش نخواهد بود."
     },
     {
       "VOrder": 22,
@@ -180,7 +191,8 @@
       "Position": "Right",
       "Text": "نسیم رحمت او گر وزد سوی گلخن",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نسیم رحمت خداوند به سمت گل‌ها بوزد، باغی زیبا و پررنگ و بو به وجود می‌آورد."
     },
     {
       "VOrder": 24,
@@ -194,7 +206,8 @@
       "Position": "Right",
       "Text": "شمیم قهرش، گر بگذرد سوی گلشن",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نسیم خشم او به سمت باغ بوزد، به جای اینکه سنبل‌ها را پر کند، مغیلانش را پر می‌کند."
     },
     {
       "VOrder": 26,
@@ -208,7 +221,8 @@
       "Position": "Right",
       "Text": "عدو اگر شنود نام ذوالفقارش را",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دشمن نام ذوالفقار را بشنود و هنوز ضربه‌ای از آن نخورده باشد، باید از جان خود دست بکشد."
     },
     {
       "VOrder": 28,
@@ -222,7 +236,8 @@
       "Position": "Right",
       "Text": "شهی که نام شریفش چو بر زبان گذرد",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر که نام آن پادشاه بزرگوار بر زبان بیارد، جان خود را فدای او می‌کند."
     },
     {
       "VOrder": 30,
@@ -236,7 +251,8 @@
       "Position": "Right",
       "Text": "بود به مدح و ثنایش زبان ما الکن",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زبان ما در ستایش و مدح خداوند کم می‌آورد، زیرا کسی که خالق بزرگ است شایسته‌ی ستایش‌های بی‌پایان است."
     },
     {
       "VOrder": 32,
@@ -250,7 +266,8 @@
       "Position": "Right",
       "Text": "علی ست آنکه بود ابن عم پیغمبر",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: علی کسی است که پسر عموی پیامبر بود و کسی است که خداوند در قرآن به او ستایش کرده است."
     },
     {
       "VOrder": 34,
@@ -264,7 +281,8 @@
       "Position": "Right",
       "Text": "علی ست آنکه به دوش نبی گذارد قدم",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: علی کسی است که نبی بر دوش او قدم گذاشت و او را بهتر از جانش دانست."
     },
     {
       "VOrder": 36,
@@ -278,7 +296,8 @@
       "Position": "Right",
       "Text": "علی ست آنکه خدایش ستوده در قرآن",
       "CoupletIndex": 18,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: علی شخصی است که خداوند در قرآن او را ستوده و در سورهٔ طاها نزول آیات در مورد مقام او اشاره شده است."
     },
     {
       "VOrder": 38,
@@ -292,7 +311,8 @@
       "Position": "Right",
       "Text": "هر آنکه جز به ثناگوییش گشاید لب",
       "CoupletIndex": 19,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که جز به مدح و ستایش او چیزی بگوید، هیچ کس او را دانشمند و سخن‌سنج نخواهد دانست."
     },
     {
       "VOrder": 40,
@@ -306,7 +326,8 @@
       "Position": "Right",
       "Text": "شها! هوای نجف بر سر است«ترکی» را",
       "CoupletIndex": 20,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای آقا! به یاد نجف هستم، لطفاً طبعی مهربان داشته باش و مرا به سوی نجف ببر."
     },
     {
       "VOrder": 42,
@@ -320,7 +341,8 @@
       "Position": "Right",
       "Text": "تویی که حضرت آدم دویست سال گریست",
       "CoupletIndex": 21,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو هستی که حضرت آدم به خاطر نام تو به مدت دویست سال اشک ریخت و به واسطه آن، خطاهای او بخشیده شد."
     },
     {
       "VOrder": 44,
@@ -334,7 +356,8 @@
       "Position": "Right",
       "Text": "گر التجابه تو ناورده بود حضرت نوح",
       "CoupletIndex": 22,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کمک و نجات تو نبود، حضرت نوح چگونه می‌توانست از طوفان نجات پیدا کند؟"
     },
     {
       "VOrder": 46,
@@ -348,7 +371,8 @@
       "Position": "Right",
       "Text": "خلیل اگر متذکر به نام تو نشدی",
       "CoupletIndex": 23,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر خلیل به یاد نام تو نبود، مطمئناً نجاتی از آتش سوزان نمی‌یافت."
     },
     {
       "VOrder": 48,
@@ -362,7 +386,8 @@
       "Position": "Right",
       "Text": "به بطن حوت چو یونس گرفت جای یقین",
       "CoupletIndex": 24,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی یونس در شکم ماهی قرار گرفت، به یقین به زندگی پس از مرگ در دل آنجا پی برد. این تجربه لطف تو بود که حافظ و نگهبان او شد."
     },
     {
       "VOrder": 50,
@@ -376,7 +401,8 @@
       "Position": "Right",
       "Text": "ز التفات تو یوسف به سلطنت برسید",
       "CoupletIndex": 25,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر توجه تو، یوسف به مقام سلطنت رسید و گرنه او تا همیشه در زندان می‌ماند."
     },
     {
       "VOrder": 52,
@@ -390,7 +416,8 @@
       "Position": "Right",
       "Text": "کمیت خامه شود لنگ، اولین منزل",
       "CoupletIndex": 26,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تراوش قلم در مدح تو، به کژی و ناپایداری می‌افتد، زیرا نخستین مرحله‌ای که آغاز به ستایش تو می‌کند، هیچ‌گونه محدودیت و پایانی ندارد."
     },
     {
       "VOrder": 54,
@@ -404,7 +431,8 @@
       "Position": "Right",
       "Text": "هر آنکه دست تولا به دامن تو زند",
       "CoupletIndex": 27,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که به محبت و دوستی تو چنگ بزند و به تو وابسته شود، در زندگی‌اش به هیچ تنهایی و پژمردگی دچار نخواهد شد."
     },
     {
       "VOrder": 56,
@@ -418,7 +446,8 @@
       "Position": "Right",
       "Text": "شعاع تیغت اگر اوفتد سوی دریا",
       "CoupletIndex": 28,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نور تیغ تو به دریا بیفتد، آن‌قدر تاب و درخشندگی دارد که دریا را خشک می‌کند، مانند بیابان."
     },
     {
       "VOrder": 58,
@@ -432,7 +461,8 @@
       "Position": "Right",
       "Text": "به سوی خصم، چو با ذوالفقار یا زی دست",
       "CoupletIndex": 29,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که به سوی دشمن می‌روی، مانند دستی که با شمشیر ذوالفقار به او حمله می‌کند، تنها با یک اشاره می‌توانی او را مورد هدف قرار دهی."
     },
     {
       "VOrder": 60,
@@ -446,7 +476,8 @@
       "Position": "Right",
       "Text": "سر عدوی تو گر پیچد از اطاعت تو",
       "CoupletIndex": 30,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دشمن تو به خاطر فرمان‌برداری‌ات، بر زمین بیفتد و به مانند گوی‌ای که به چپ و راست می‌غلتد، به زمین بیافتد، تو خود مانند یک قهرمان در میدانی."
     },
     {
       "VOrder": 62,
@@ -460,7 +491,8 @@
       "Position": "Right",
       "Text": "به این جلال کجا بودیای ولی خدا؟",
       "CoupletIndex": 31,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به چه شگفتی، ای ولی خدا! کجا بودی که این عظمت را ببینی؟ به کربلا که حسین و یارانش در آنجا حضور دارند."
     },
     {
       "VOrder": 64,
@@ -474,7 +506,8 @@
       "Position": "Right",
       "Text": "به بینی آنکه چسان پاره پاره شد تنشان",
       "CoupletIndex": 32,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به او نگاه می‌کنم و می‌بینم چگونه بدن جوانانش به خاطر ضربات ظالمانه، پاره پاره شده است."
     },
     {
       "VOrder": 66,
@@ -488,7 +521,8 @@
       "Position": "Right",
       "Text": "ز یک طرف، نگری اهل بیت زارش را",
       "CoupletIndex": 33,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از یک سو، به عذاب و مصیبت اهل بیت نگاه کن و از سوی دیگر، ناله و گریه یتیمانی را بشنو که در غم و اندوه هستند."
     },
     {
       "VOrder": 68,
@@ -502,7 +536,8 @@
       "Position": "Right",
       "Text": "ببین حسین عزیز تو را میان دو نهر",
       "CoupletIndex": 34,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حسین عزیز را در میان دو نهر مشاهده کن، سرش را بریده‌اند و او در حال تشنگی است."
     },
     {
       "VOrder": 70,
@@ -516,7 +551,8 @@
       "Position": "Right",
       "Text": "به جسم گلپر او در میان دشت بلا",
       "CoupletIndex": 35,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دشت پر از مشکلات، او را مانند گل با تیرهای دشمنان مورد هدف قرار دادند و به نوعی به چالش کشیدند."
     },
     {
       "VOrder": 72,
@@ -530,7 +566,8 @@
       "Position": "Right",
       "Text": "به کربلا ز نجف یاعلی بیا بنگر",
       "CoupletIndex": 36,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای علی، از نجف به کربلا بیا و بنگر که سر بریدهٔ تو را دیده و جسم عریان تو را مشاهده کن."
     },
     {
       "VOrder": 74,
@@ -544,7 +581,8 @@
       "Position": "Right",
       "Text": "به کوفه خولی معلون، سر حسینت را",
       "CoupletIndex": 37,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در کوفه، خولی ملعون، سر حسین را ببین که چگونه در تنور پنهان کرده است."
     },
     {
       "VOrder": 76,
@@ -558,7 +596,8 @@
       "Position": "Right",
       "Text": "به زینب ز سر مهر، دل نوازی کن",
       "CoupletIndex": 38,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به زینب با محبت و مهربانی رفتار کن، چرا که دل او شکسته است و چشمانش پر از اشک است."
     },
     {
       "VOrder": 78,

@@ -29,14 +29,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "هرچه اشنوی نیوش‌، یاوه مگوی‌.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چقدر که شنوندگان خوب گوش دهند و دقت کنند، نباید بیهوده صحبت کنند."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "نیوشنده باش و سخن درپذیر",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شنونده‌ی خوبی باش و سخنان را با دقت بپذیر. با توجه به هر پاسخی که می‌گیری، درست و به اندازه‌ آن را در نظر بگیر."
     },
     {
       "VOrder": 3,

@@ -116,7 +116,8 @@
       "Text": "درون کلبه تنگی شبانگاه",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: در شب، در کلبه‌ای کوچک و تنگ، شعله‌های آتش از اجاق بالا می‌روند و به هر طرف پخش می‌شوند."
     },
     {
       "VOrder": 2,
@@ -132,7 +133,8 @@
       "Text": "در آتش چوب تر همچون دل من",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: دل من همچون چوب مرطوبی است که در آتش می‌سوزد و از آن اشک و خونابه می‌ریزد."
     },
     {
       "VOrder": 4,
@@ -149,7 +151,8 @@
       "CoupletIndex": 2,
       "SectionIndex1": 0,
       "SectionIndex2": 6,
-      "SectionIndex3": 7
+      "SectionIndex3": 7,
+      "CoupletSummary": "هوش مصنوعی: ای خنیاگر، از درد جدایی، نغمه‌های آشنا به گوشم می‌رسد."
     },
     {
       "VOrder": 6,
@@ -166,7 +169,8 @@
       "Text": "ز برف بهمنی پوشیده هامون",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: هامون که در برف سنگین پوشیده شده، برازنده و زیبا، با رنگ نقره‌ای بر تن خود نمایان است."
     },
     {
       "VOrder": 8,
@@ -182,7 +186,8 @@
       "Text": "من از سیمینه هامون باز یابم",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: من از سرزمین زیبای هامون نشانه‌ای از محبوب زیبای خود را پیدا می‌کنم."
     },
     {
       "VOrder": 10,
@@ -199,7 +204,8 @@
       "CoupletIndex": 5,
       "SectionIndex1": 0,
       "SectionIndex2": 6,
-      "SectionIndex3": 8
+      "SectionIndex3": 8,
+      "CoupletSummary": "هوش مصنوعی: باد ملایم در گوش من نام تو را می‌گوید و پیغام تو را با لطافت به من منتقل می‌کند."
     },
     {
       "VOrder": 12,
@@ -216,7 +222,8 @@
       "Text": "کجایی؟ کز نوای آتشینم",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: تو کجایی که صدای شوق و احساس من در دل تو شعله‌ور شده و آتش را در سینه‌ات روشن می‌کند؟"
     },
     {
       "VOrder": 14,
@@ -232,7 +239,8 @@
       "Text": "میان برف و یخ در آتشستم",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در میان برف و یخ، من در آتش قرار دارم و این که آتش در میان برف به شدت می‌سوزد، واقعاً عجیب است."
     },
     {
       "VOrder": 16,
@@ -249,7 +257,8 @@
       "CoupletIndex": 8,
       "SectionIndex1": 0,
       "SectionIndex2": 6,
-      "SectionIndex3": 9
+      "SectionIndex3": 9,
+      "CoupletSummary": "هوش مصنوعی: دنیا در نظر من مبهم و تاریک است، تو از من دوری و من به مرگ نزدیک هستم."
     },
     {
       "VOrder": 18,
@@ -266,7 +275,8 @@
       "Text": "برآر ای ساز، آوازی که گردون",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: ای ساز، نغمه‌ای را برآور که راه آسمانی را برای همدلی و هماهنگی باز کند."
     },
     {
       "VOrder": 20,
@@ -282,7 +292,8 @@
       "Text": "فراخوان بخت ره گم کرده‌ام را",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: از بخت می‌خواهم که مرا که راه را گم کرده‌ام، به سوی خانه‌ام هدایت کند."
     },
     {
       "VOrder": 22,
@@ -299,7 +310,8 @@
       "CoupletIndex": 11,
       "SectionIndex1": 0,
       "SectionIndex2": 6,
-      "SectionIndex3": 10
+      "SectionIndex3": 10,
+      "CoupletSummary": "هوش مصنوعی: اگر آسمان به من ظلم کند و سرد باشد، دل من گرم است به خاطر آرزوها و خواسته‌های خودم."
     },
     {
       "VOrder": 24,

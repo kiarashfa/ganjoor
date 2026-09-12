@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "هر چند که فرزند بسامان باشد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچند که فرزند به خوبی تربیت شده باشد، اما اگر پایه‌ای نداشته باشد، درمانی برای دردهایش وجود ندارد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "از زیستنش رنج فراوان باشد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زندگی او پر از دشواری است و مرگش باعث ویرانی روح خواهد شد."
     },
     {
       "VOrder": 4,

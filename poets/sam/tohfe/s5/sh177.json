@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "از جمله شعرای یزدانست این مطلع از اوست :",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: از جمله شعرای معروف، این بیت از اوست:"
     },
     {
       "VOrder": 3,
       "Position": "Right",
       "Text": "نام رقیب بر لب جانان من گذشت",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نام رقیب بر لب محبوب من به زبان آمد، اما کسی نداند که چه مصیبتی بر دل من گذشت."
     },
     {
       "VOrder": 4,

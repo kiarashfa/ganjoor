@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "به هیچ آیین مهر دروغی (‌یعنی بدعهدی‌) مکن که ترا خوره پسین نرسد.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: به هیچ وجه به هیچ عهد و پیمانی خیانت نکن که باعث نشود در پایان کار به مشکلی بر بخوری."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "مورز ایچ در مهربانی دروغ",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرگز در مهربانی دروغ نگو، زیرا چهره افرادی که به دو رویی متوسل می‌شوند، همیشه بی‌نور و تاریک است."
     },
     {
       "VOrder": 3,
@@ -46,7 +48,8 @@
       "Position": "Right",
       "Text": "وزو فرهٔ مردمی کم شود",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که روز قیامت فره و شکوه مردمان کم شود، کارها دچار اختلال می‌شوند و به هم می‌ریزد."
     },
     {
       "VOrder": 5,

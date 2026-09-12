@@ -731,7 +731,8 @@
       "Text": "یک جوانی بود در ایام پیش",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: روزی جوانی در روزگاری گذشته با شرایطی نگران‌کننده و آشفته روبرو شد."
     },
     {
       "VOrder": 2,
@@ -747,7 +748,8 @@
       "Text": "شد تهی دست و پریشان روزگار",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: او در شرایطی دچار ناامیدی و سردرگمی شده است. نه تلاشی برای به دست آوردن معیشت دارد و نه کاری برای سامان دادن به اوضاعش."
     },
     {
       "VOrder": 4,
@@ -763,7 +765,8 @@
       "Text": "مایه‌ای نی تا از آن سودی کند",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: چیزی در دست نیست که از آن بهره‌ای ببریم؛ نه آتش واقعی وجود دارد که دودی از آن برخیزد."
     },
     {
       "VOrder": 6,
@@ -779,7 +782,8 @@
       "Text": "نی کمانی تا شکاری افکند",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: نی که همچون کمان، شکار را به دام می‌اندازد، تخته‌ای که برای بازی قمار استفاده می‌شود."
     },
     {
       "VOrder": 8,
@@ -795,7 +799,8 @@
       "Text": "روز و شب در خانه سر در زیر بال",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: در خانه، شب و روز مشغول نزاع و بحث با همسر و شریک زندگی‌ام هستم."
     },
     {
       "VOrder": 10,
@@ -811,7 +816,8 @@
       "Text": "گه فروش کاسه کردی گه فراش",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: گاهی حاکم به فروش کاسه‌ای مشغول می‌شد و گاهی خدمتکار خانه‌اش می‌شد و گاهی نیز به رهن سپردن چیزهایی می‌پرداخت."
     },
     {
       "VOrder": 12,
@@ -827,7 +833,8 @@
       "Text": "تا نماندش در سرا غیر از زمین",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که او در این دنیا باشد، هیچ چیز جز زمین برایش باقی نخواهد ماند و تنها با کسی خواهد بود که دلش سخت و بی‌احساس است."
     },
     {
       "VOrder": 14,
@@ -843,7 +850,8 @@
       "Text": "تا شبی گفتش که ای بیکاره مرد",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: روزی شخصی به مردی گفت:‌ ای مرد که در بی‌عملی و تنبلی تنها و بی‌نظیری."
     },
     {
       "VOrder": 16,
@@ -859,7 +867,8 @@
       "Text": "تا به کی اندر سرایی چون زنان",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: تا کی باید در خانه‌ای بمانم و مانند زنان بیرون نروم تا فردا برای کسب روزی تلاش کنم؟"
     },
     {
       "VOrder": 18,
@@ -875,7 +884,8 @@
       "Text": "گر نداری کسب مزدوری خوش است",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اگر شغف و درآمدی نداری، خوب است؛ شاید روزی از زحماتت به تو نانی برسد."
     },
     {
       "VOrder": 20,
@@ -891,7 +901,8 @@
       "Text": "چون دگر نانی نمانده در بنه",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: با اینکه امشب چیزی برای خوردن نداریم، اما همدیگر را در آغوش می‌گیریم و گرسنه می‌خوابیم."
     },
     {
       "VOrder": 22,
@@ -907,7 +918,8 @@
       "Text": "چونکه فردا شد زن آمد نزد شوی",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: زن وقتی فردا شد، به شوهرش گفت که بیرون برود تا به دنبال چیزی بگردد."
     },
     {
       "VOrder": 24,
@@ -923,7 +935,8 @@
       "Text": "شد برون آن مرد مسکین از سرا",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: مرد فقیر از خانه بیرون رفت تا شاید از جایی به او کمکی برسد یا روزنه‌ای از امید برایش پیدا شود."
     },
     {
       "VOrder": 26,
@@ -939,7 +952,8 @@
       "Text": "در میان کوچه لختی ایستاد",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: در میانه‌ی کوچه، لحظه‌ای توقف کرد و مشاهده کرد که کسی از جایی بیرون نمی‌آید."
     },
     {
       "VOrder": 28,
@@ -955,7 +969,8 @@
       "Text": "ماند حیران با دل غم از جواب",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: او با دل پر از غم و حیرت، منتظر جوابی است که نمی‌تواند به آن دست یابد و راهی برای برگرداندن خود ندارد."
     },
     {
       "VOrder": 30,
@@ -971,7 +986,8 @@
       "Text": "مسجدی دید آمد آنجا با نیاز",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: او به مسجدی رفت و با حالتی مملو از نیاز، خود را پاک کرد و رو به قبله برای نماز ایستاد."
     },
     {
       "VOrder": 32,
@@ -987,7 +1003,8 @@
       "Text": "در نماز ایستاد آنجا تا به شام",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: در نماز ایستاد تا غروب آفتاب، در حالیکه گاه رکوع می‌رفت، گاه سجده می‌کرد و گاه در حالت قیام بود."
     },
     {
       "VOrder": 34,
@@ -1003,7 +1020,8 @@
       "Text": "چونکه شب شد سوی خانه بازگشت",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: زمانی که شب فرا رسید، زن به سمت خانه برگشت و به دنبال کشف رازها رفت."
     },
     {
       "VOrder": 36,
@@ -1019,7 +1037,8 @@
       "Text": "هین چه آوردی بیاور ای فتی",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: ای جوان، بیا و هر چیزی که داری، بیاور تا من هم مهمانی مناسب بچینم و هم غذای خوبی تهیه کنم."
     },
     {
       "VOrder": 38,
@@ -1035,7 +1054,8 @@
       "Text": "گفت گشتم من در امروز ای سلیم",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: من در روز جاری جستجو کردم، ای سلیم، پاداش کارم را از کارفرمای بزرگوار دریافت کردم."
     },
     {
       "VOrder": 40,
@@ -1051,7 +1071,8 @@
       "Text": "گفت با من آن کریم دلفروز",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: شخصی به من گفت که فردا به تو پاداش دو روز زحمتت را می‌دهم."
     },
     {
       "VOrder": 42,
@@ -1067,7 +1088,8 @@
       "Text": "شرم کردم تا طلبکاری کنم",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: شرمنده‌ام که از کسی چیزی بخواهم یا در مورد وضعیت خودم صحبت کنم."
     },
     {
       "VOrder": 44,
@@ -1083,7 +1105,8 @@
       "Text": "زن بگفتا سهل باشد ای جوان",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: زن گفت: ای جوان، خوب است، من نان می‌گیرم و از همسایه‌ها قرض می‌کنم."
     },
     {
       "VOrder": 46,
@@ -1099,7 +1122,8 @@
       "Text": "روز دویم آن جوان باز از وثاق",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: در روز دوم، آن جوان از بند و محدودیت آزاد شد، مانند ماه که از سایه و خاموشی خود بیرون می‌آید و در آسمان می‌درخشد."
     },
     {
       "VOrder": 48,
@@ -1115,7 +1139,8 @@
       "Text": "در کناری ساعتی باز ایستاد",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: مدتی در کنار ایستاد و سپس سرش را به سمت مسجد خم کرد."
     },
     {
       "VOrder": 50,
@@ -1131,7 +1156,8 @@
       "Text": "بود آنجا تا به شام اندر نماز",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: او در آنجا تا شب به نماز ایستاده بود تا به خاطر آن شخص بخشنده و کمک‌کننده دعا کند."
     },
     {
       "VOrder": 52,
@@ -1147,7 +1173,8 @@
       "Text": "شب درآمد باز سوی خانه شد",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: او دوباره به خانه برگشت و با همسرش درباره داستانی گفتگو کرد."
     },
     {
       "VOrder": 54,
@@ -1163,7 +1190,8 @@
       "Text": "گفت فردا آن کریم با وفا",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: او گفت فردا آن شخص نیکوکار و وفادار پاداش سه روز سختی‌ام را به من خواهد داد."
     },
     {
       "VOrder": 56,
@@ -1179,7 +1207,8 @@
       "Text": "زن در آن شب هم دو قرصی کرد وام",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: زن در آن شب به شویش گفت که امیدوار است همه چیز به خوبی تمام شود و در این لحظه به یاد دو قرص نان افتاد و به فکر آن بود."
     },
     {
       "VOrder": 58,
@@ -1195,7 +1224,8 @@
       "Text": "روز سیم باز آمد آن جوان",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: جوانی که در قید و بند بود، روز زیبایی آزاد شده و به سمت مسجد می‌رود."
     },
     {
       "VOrder": 60,
@@ -1211,7 +1241,8 @@
       "Text": "رو به محراب نماز آورد باز",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: با روی به سمت محراب نماز، چشمانش دوباره به سوی رحمت و محبت دوست گشوده شد."
     },
     {
       "VOrder": 62,
@@ -1227,7 +1258,8 @@
       "Text": "زن نشسته منتظر اندر سرا",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: زنی در خانه نشسته و منتظر همسرش است، در حالی که او در مسجد به عبادت و دعا مشغول است."
     },
     {
       "VOrder": 64,
@@ -1243,7 +1275,8 @@
       "Text": "آخر روز از بر یزدان فرد",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: در پایان روز، خداوند یک فرشته را به همراه پاداش سه روزه برای مردی فرستاد."
     },
     {
       "VOrder": 66,
@@ -1259,7 +1292,8 @@
       "Text": "گوسفندی با یکی خروار آرد",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: گوسفندی که با یک خروار آرد رفتار می‌کند، برای ذبح او نیاز به سنگ و چاقو هم دارد."
     },
     {
       "VOrder": 68,
@@ -1275,7 +1309,8 @@
       "Text": "هم یکی انبان آکنده به زر",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: شخصی که کیسه‌ای پر از طلا داشت، به درب خانه‌اش رفت و زنگ آن را به صدا درآورد."
     },
     {
       "VOrder": 70,
@@ -1291,7 +1326,8 @@
       "Text": "گفت آن زن با سروش بی نظیر",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: آن زن به سروش گفت: بیا، به زودی مزدت را بگیر."
     },
     {
       "VOrder": 72,
@@ -1307,7 +1343,8 @@
       "Text": "آن کریم کارفرما داد و گفت",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: آن شخص سخاوتمند به کارگر گفت که مزد کار تو را برای این سه روز پرداخت می‌کنم. تو که همراه و یاری خوبی برای من هستی."
     },
     {
       "VOrder": 74,
@@ -1323,7 +1360,8 @@
       "Text": "گو به شویت تا بیفزاید به کار",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: به همسرت بگو که تلاشش را بیشتر کند تا من هم بتوانم مزد بیشتری دریافت کنم."
     },
     {
       "VOrder": 76,
@@ -1339,7 +1377,8 @@
       "Text": "آن عطا را زن گرفت و بازگشت",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: زن آن هدیه را دریافت کرد و با حال خوش و دلشاد به خانه برگشت."
     },
     {
       "VOrder": 78,
@@ -1355,7 +1394,8 @@
       "Text": "آن غنم را کشت و نان را پخته کرد",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: آن کشاورز گندم را برداشت و نان را برای مردم آماده کرد. هر کاری که باید انجام می‌شد، به درستی انجام داد."
     },
     {
       "VOrder": 80,
@@ -1371,7 +1411,8 @@
       "Text": "منتظر تا کی درآید در وثاق",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: منتظر هستی که تا کی آن جوان خوشبخت با توافق و هماهنگی به دام بیفتد؟"
     },
     {
       "VOrder": 82,
@@ -1387,7 +1428,8 @@
       "Text": "مرد چون فارغ شد از فرض عشا",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: پس از اینکه مرد از نماز عشاء فارغ شد، مدتی را به دعا و ذکر مشغول نشست."
     },
     {
       "VOrder": 84,
@@ -1403,7 +1445,8 @@
       "Text": "بی خبر از آن عطاهای شگرف",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: او از دریای عمیق به سوی ما آمده است، بدون اینکه از بخشش‌ها و هدایای شگفت‌انگیزی که در آن نهفته است، آگاه باشد."
     },
     {
       "VOrder": 86,
@@ -1419,7 +1462,8 @@
       "Text": "پس به سوی خانهٔ خود شد روان",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: او با چهره‌ای زرد و بدنی خسته و جان آزرده، به راهی افتاد تا به خانه‌اش برگردد."
     },
     {
       "VOrder": 88,
@@ -1435,7 +1479,8 @@
       "Text": "گه به سوی آسمان کردی نگاه",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: گاهی به آسمان نگاه می‌کنی و دوباره راهی خانه می‌شوی."
     },
     {
       "VOrder": 90,
@@ -1451,7 +1496,8 @@
       "Text": "گاه در فکر جواب جفت خویش",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: گاهی در این فکر هستم که همسرم چه نظری درباره صحبت‌هایش خواهد داشت و چگونه به گفتگو ادامه می‌دهد."
     },
     {
       "VOrder": 92,
@@ -1467,7 +1513,8 @@
       "Text": "آمد و بیرون در بنشست زار",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: او آمد و در بیرون در نشست، در حالی که نگران و ناراحت بود و از اشک‌هایش خجالت زده شده بود، همچنین از حضور زن احساس شرمساری می‌کرد."
     },
     {
       "VOrder": 94,
@@ -1483,7 +1530,8 @@
       "Text": "چون ز شب بگذشت پاسی بس دراز",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: پس از اینکه شب به پایان رسید و سحرگاه شد، آن بیچاره بعد از مدت‌ها انتظار، هنوز به خانه برنگشت."
     },
     {
       "VOrder": 96,
@@ -1499,7 +1547,8 @@
       "Text": "زن پی تفتیش حالش در گشود",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: زن برای جستجوی حال شوهرش در را باز کرد و او را در پشت در، در حالی که به شدت پریشان و داغان به نظر می‌رسید، دید."
     },
     {
       "VOrder": 98,
@@ -1515,7 +1564,8 @@
       "Text": "گردن کج کرده سر افکنده پیش",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: با حالتی خمیده و سر به پایین، در حالتی حیرت‌زده و گیج به کارها و وضعیت خود نگاه می‌کند."
     },
     {
       "VOrder": 100,
@@ -1531,7 +1581,8 @@
       "Text": "گفتش اینجا از چه هستی منتظر",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: او از تو می‌پرسد که به چه دلیلی اینجا هستی و چرا در درون خانه منتظری."
     },
     {
       "VOrder": 102,
@@ -1547,7 +1598,8 @@
       "Text": "گفت هستم منتظر اینجا مقیم",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: من اینجا هستم و منتظر هستم تا آن شخص بزرگوار به من کمک کند."
     },
     {
       "VOrder": 104,
@@ -1563,7 +1615,8 @@
       "Text": "گفت جانا اندرآ در خانه زود",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "هوش مصنوعی: عزیزم، زود بیا در خانه تا ببینی چطور بخشش و سخاوت مانند یک دریا است."
     },
     {
       "VOrder": 106,
@@ -1579,7 +1632,8 @@
       "Text": "اندرآ بین موج دریای کرم",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "هوش مصنوعی: در میان امواج دریای بخشندگی، شادی‌ام هر لحظه بیشتر می‌شود."
     },
     {
       "VOrder": 108,
@@ -1595,7 +1649,8 @@
       "Text": "اندرآ و هرکه را خواهی بخوان",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "هوش مصنوعی: به داخل بیا و هر کسی را که می‌خواهی دعوت کن، زیرا امشب مهمان نوازی از جانب کسی با سخاوت فراهم شده است."
     },
     {
       "VOrder": 110,
@@ -1611,7 +1666,8 @@
       "Text": "کیست برگو با من آن کان کرم",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "هوش مصنوعی: کیست که با من بگوید آن کسی که بر اثر لطف و محبتش، شادابی من هر لحظه افزایش می‌یابد؟"
     },
     {
       "VOrder": 112,
@@ -1627,7 +1683,8 @@
       "Text": "می‌دهد مزد سه روز کار تو",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "هوش مصنوعی: پاداش سه روز کار تو در برابر چیزی که در انبار داری، جا نمی‌شود."
     },
     {
       "VOrder": 114,
@@ -1643,7 +1700,8 @@
       "Text": "گفت ای زن آن کریم مطلق است",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "هوش مصنوعی: گفت ای زن، آن شخص نیکوکار و بزرگوار است و به خاطر بخشش‌هایش، جهان پر از زندگی و سرزندگی است."
     },
     {
       "VOrder": 116,
@@ -1659,7 +1717,8 @@
       "Text": "گبر و ترسا و یهود و بت پرست",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "هوش مصنوعی: همه نوع افرادی، چه مسلمان و چه غیرمسلمان، چه مؤمن و چه کافر، به درگاه او دسترسی دارند و می‌توانند از رحمت و فیض او بهره‌مند شوند."
     },
     {
       "VOrder": 118,
@@ -1675,7 +1734,8 @@
       "Text": "هر دو عالم خوان یغمای وی است",
       "CoupletIndex": 59,
       "SectionIndex1": 0,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "هوش مصنوعی: هر دو دنیای موجود بر سر سفره‌ی نعمت‌های او قرار دارند و هم نیکی و هم بدی در فراوانی‌های او غرق شده‌اند."
     },
     {
       "VOrder": 120,
@@ -1691,7 +1751,8 @@
       "Text": "روزها خورشید خوانسالار اوست",
       "CoupletIndex": 60,
       "SectionIndex1": 0,
-      "SectionIndex2": 62
+      "SectionIndex2": 62,
+      "CoupletSummary": "هوش مصنوعی: روزها خورشید به عنوان فرمانده و رئیس او است و در شب‌ها، ماه به عنوان چراغ روشن کننده‌اش عمل می‌کند."
     },
     {
       "VOrder": 122,
@@ -1707,7 +1768,8 @@
       "Text": "ابر آزاری یکی سقای او",
       "CoupletIndex": 61,
       "SectionIndex1": 0,
-      "SectionIndex2": 63
+      "SectionIndex2": 63,
+      "CoupletSummary": "هوش مصنوعی: ابر بی‌رحمی همانند سقایی است که سفره‌اش را برای مهمانی می‌آراید."
     },
     {
       "VOrder": 124,
@@ -1723,7 +1785,8 @@
       "Text": "آسمان بسته میان از کهکشان",
       "CoupletIndex": 62,
       "SectionIndex1": 0,
-      "SectionIndex2": 64
+      "SectionIndex2": 64,
+      "CoupletSummary": "هوش مصنوعی: آسمان تاریک شده و در میان کهکشان‌ها، آن را برای خدمت به انسان‌ها به‌گونه‌ای مرتب کرده‌اند، مانند بندگانی که در خدمت هستند."
     },
     {
       "VOrder": 126,
@@ -1739,7 +1802,8 @@
       "Text": "رعد طبالی بود در کوی او",
       "CoupletIndex": 63,
       "SectionIndex1": 0,
-      "SectionIndex2": 65
+      "SectionIndex2": 65,
+      "CoupletSummary": "هوش مصنوعی: صدا و هیاهوی رعد و برق در کوی او طنین‌انداز است و نور خورشید و ماه مانند عطر مشک از او پخش می‌شود."
     },
     {
       "VOrder": 128,
@@ -1755,7 +1819,8 @@
       "Text": "روز و شب نوبت چیان بام او",
       "CoupletIndex": 64,
       "SectionIndex1": 0,
-      "SectionIndex2": 66
+      "SectionIndex2": 66,
+      "CoupletSummary": "هوش مصنوعی: روز و شب، نوبت کسانی است که بر بام او هستند و همه موجودات جهان در حال دعوت او به جمع هستند."
     },
     {
       "VOrder": 130,
@@ -1771,7 +1836,8 @@
       "Text": "بحر و بر یک سفرهٔ شیلان اوست",
       "CoupletIndex": 65,
       "SectionIndex1": 0,
-      "SectionIndex2": 67
+      "SectionIndex2": 67,
+      "CoupletSummary": "هوش مصنوعی: آب و زمین در کنار هم به مانند میزی است که او برپا کرده است و هر که به این سفره بیاید، تا همیشە مهمان او خواهد بود."
     },
     {
       "VOrder": 132,
@@ -1787,7 +1853,8 @@
       "Text": "طایران اندر فراز شاخها",
       "CoupletIndex": 66,
       "SectionIndex1": 0,
-      "SectionIndex2": 68
+      "SectionIndex2": 68,
+      "CoupletSummary": "هوش مصنوعی: پرنده‌ها در بالای شاخه‌ها در پروازند و مار و مورچه‌ها در سوراخ‌های زمین فعالیت می‌کنند."
     },
     {
       "VOrder": 134,
@@ -1803,7 +1870,8 @@
       "Text": "ماهیان در قعر دریاهای ژرف",
       "CoupletIndex": 67,
       "SectionIndex1": 0,
-      "SectionIndex2": 69
+      "SectionIndex2": 69,
+      "CoupletSummary": "هوش مصنوعی: ماهی‌ها در اعماق دریاهای عمیق زندگی می‌کنند و حیوانات وحشی در دشت‌های وسیع و پهناور حضور دارند."
     },
     {
       "VOrder": 136,
@@ -1819,7 +1887,8 @@
       "Text": "دانه چین خرمن احسان او",
       "CoupletIndex": 68,
       "SectionIndex1": 0,
-      "SectionIndex2": 70
+      "SectionIndex2": 70,
+      "CoupletSummary": "هوش مصنوعی: کسانی که در جمع آوری و بهره‌برداری از نعمت‌های الهی هستند، فقط در پی بهره‌مندی مادی و دنیوی از آن نعمت‌ها هستند."
     },
     {
       "VOrder": 138,
@@ -1835,7 +1904,8 @@
       "Text": "اوست روزی بخش هر جنبنده‌ای",
       "CoupletIndex": 69,
       "SectionIndex1": 0,
-      "SectionIndex2": 71
+      "SectionIndex2": 71,
+      "CoupletSummary": "هوش مصنوعی: او منبع روزی و زندگی برای همه موجودات است و به هر جانداری که زنده است، زندگی و sustenance می‌دهد."
     },
     {
       "VOrder": 140,

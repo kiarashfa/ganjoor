@@ -360,7 +360,8 @@
       "Text": "این جهان همچو لیل و آن چو نهار",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: این دنیا شبیه به شب است و آن دنیا مانند روز. این حالت شبیه به روزها و شب‌های ن گذشته است و آن حالت، شبیه به بهار است."
     },
     {
       "VOrder": 2,
@@ -376,7 +377,8 @@
       "Text": "خواب غفلت از آن شده است گران",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: خواب غفلت به شدت سنگین شده است زیرا شراب شب به اندازه‌ای زیاد و بی‌حد و مرز است."
     },
     {
       "VOrder": 4,
@@ -392,7 +394,8 @@
       "Text": "ساقیِ لیل خلق را ز شراب",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: ساقی شب، مردم را با شراب چنان مست و خراب کرده است که هیچ راهی برای کنترل خود ندارند."
     },
     {
       "VOrder": 6,
@@ -408,7 +411,8 @@
       "Text": "که به صد بانگ بر نمی‌خیزند",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: برخی افراد با وجود صدای بلند و فراخوانی که به گوش می‌رسد، به هیچ‌وجه برنمی‌خیزند و حتی از روی سختی و رنجی که می‌کشند، دست کم از خون دل خود مایه می‌گذارند."
     },
     {
       "VOrder": 8,
@@ -424,7 +428,8 @@
       "Text": "حالت مرگشان کند بیدار",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: مرگشان آنچنان حالتی دارد که می‌تواند آن‌ها را از این غفلت و بی‌خبری بیدار کند و به هوش بیاورد."
     },
     {
       "VOrder": 10,
@@ -440,7 +445,8 @@
       "Text": "لیل خواب آورد یقین همه را",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: شب خواب را به همه هدیه می‌دهد و گیاه‌ها به گوسفندها غذا می‌دهند."
     },
     {
       "VOrder": 12,
@@ -456,7 +462,8 @@
       "Text": "آنکه در لیل باشد او بیدار",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: کسی که در شب بیدار است، باید به حال او توجه کرد و او را از خواب‌رفتگان ندانست."
     },
     {
       "VOrder": 14,
@@ -472,7 +479,8 @@
       "Text": "مرگ را دیده است او پیشین",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: او مرگ را دیده و می‌گوید که باید از زندگی پیشین‌ات بنشینی و در برابر آن بایستی."
     },
     {
       "VOrder": 16,
@@ -488,7 +496,8 @@
       "Text": "مرد عاشق اگرچه مخلوق است",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: مرد عاشق هر چند که موجودی است در این دنیا، اما روح او مانند نوری درخشان و هوشیار است."
     },
     {
       "VOrder": 18,
@@ -504,7 +513,8 @@
       "Text": "صورت او قیامت کبری است",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: چهره او همچون روز قیامت بزرگ و عظیم است، در حالی که قیامت کوچک‌تر از آن، زمانی است که در زندگی‌ام با او روبرو می‌شوم."
     },
     {
       "VOrder": 20,
@@ -520,7 +530,8 @@
       "Text": "زین قیامت عطا و بخشش‌هاست",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: این دنیای ما پر از نعمت‌ها و بخشش‌هاست، اما در جهان دیگر ممکن است عذاب و کیفر وجود داشته باشد."
     },
     {
       "VOrder": 22,
@@ -536,7 +547,8 @@
       "Text": "این و آن یک بوَد چو نور خداست",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که همه چیز در حقیقت یکسان است و مانند نور خداوندی است که همه‌جا را فراگرفته و وجود فردی یا جداگانه‌ای ندارد. قیامت یا روز حساب، نتیجه‌ای است که از این حقیقت نشأت می‌گیرد و در جایی جدا از آن نمی‌توان یافت."
     },
     {
       "VOrder": 24,
@@ -552,7 +564,8 @@
       "Text": "هر دو را خاصیت بود یکسان",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: هر دو دارای ویژگی‌های مشابه‌ای هستند و می‌توانند رازها را آشکار کنند."
     },
     {
       "VOrder": 26,
@@ -568,7 +581,8 @@
       "Text": "هر دو هستند آفتاب منیر",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: هر دو خوبی و بدی مانند دو خورشید در زندگی من هستند و بدون هیچ تغییری، هر دو را به خوبی روشن می‌کنند."
     },
     {
       "VOrder": 28,
@@ -584,7 +598,8 @@
       "Text": "نقد با قلب پیش این خلقان",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: نقد از دل با این مردم در شب تار به یک شکل حرکت می‌کند."
     },
     {
       "VOrder": 30,
@@ -600,7 +615,8 @@
       "Text": "چونکه شب رفت روز شد پیدا",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: وقتی شب تمام می‌شود و روز روشن می‌شود، قلب انسان بی‌شک در معرض حقیقت و واقعیت قرار می‌گیرد و آشکار می‌شود."
     },
     {
       "VOrder": 32,
@@ -616,7 +632,8 @@
       "Text": "مصطفی روز بود چونکه عیان",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: زمانی که مصطفی (پیامبر اسلام) به دنیا آمد، نور وجود او همچون روز روشن شد و هر چیزی که پنهان بود، به وضوح آشکار شد."
     },
     {
       "VOrder": 34,
@@ -632,7 +649,8 @@
       "Text": "نه که بوبکر شد عزیز و گزین ؟",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: آیا واقعاً ابوبکر به مقام عزیز و محبوب رسید؟ آیا ابوجهل واقعاً ذلیل و خوار شد؟"
     },
     {
       "VOrder": 36,
@@ -648,7 +666,8 @@
       "Text": "همگان را چو روز شد معلوم",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: وقتی روز روشن می‌شود، همه متوجه می‌شوند که وجود واقعی متعلق به اوست و این جهان مادی تنها چیزی زودگذر و بی‌ارزش است."
     },
     {
       "VOrder": 38,
@@ -664,7 +683,8 @@
       "Text": "این مسی بود و او سراسر زر",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: این مس، در مقابل او که تماماً از طلاست، قرار دارد و او تنها گوهری بی‌نظیر است."
     },
     {
       "VOrder": 40,
@@ -680,7 +700,8 @@
       "Text": "غیر بوجهل صد هزار دگر",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: جز این نادان، صد هزار نفر دیگر هم مثل او به دوزخ خواهند رفت."
     },
     {
       "VOrder": 42,
@@ -696,7 +717,8 @@
       "Text": "مؤمنان نیز صد هزار هزار",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: مؤمنان به تعداد فراوانی به بهشت رفتند به خاطر آن مختار."
     },
     {
       "VOrder": 44,
@@ -712,7 +734,8 @@
       "Text": "نیست این را نهایت و مبدا",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: این موضوع نه آغاز دارد و نه پایان. راز آن را فردا از من خواهی شنید."
     },
     {
       "VOrder": 46,
@@ -728,7 +751,8 @@
       "Text": "سرّ این آن بود که دانی تو",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: راز این ماجرا این است که تو نمی‌دانی که جسم تو تنها قالبی است و حقیقت تو، جان توست که در آن وجود دارد."
     },
     {
       "VOrder": 48,
@@ -744,7 +768,8 @@
       "Text": "خُرد همچو قراضه ز آنی تو",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: تو مانند تکه‌ای ریز و بی‌ارزش هستی از آنچه که نمی‌دانی، که واقعاً چه ارزش و حقیقتی در وجود تو نهفته است."
     },
     {
       "VOrder": 50,
@@ -760,7 +785,8 @@
       "Text": "مغز نغزی! گذر ز نقش و ز پوست",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: ای انسان باهوش! از ظاهر و شکل بیرونی بگذر تا ببینی که جز خودت هیچ دوستی وجود ندارد."
     },
     {
       "VOrder": 52,
@@ -776,7 +802,8 @@
       "Text": "چشم بگشا و در نگر خود را",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: با چشمانت باز ببین و خودت را درست بشناس و چیزهای بد را کنار بگذار."
     },
     {
       "VOrder": 54,
@@ -792,7 +819,8 @@
       "Text": "زانکه نیک و بد است در تو روان",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: از آن‌جا که خوبی و بدی در وجود تو در حال جریان است، باید هر یک را از دیگری تشخیص بدهی و نیک را بشناسی."
     },
     {
       "VOrder": 56,
@@ -808,7 +836,8 @@
       "Text": "اصل این هر دو از کجاست ببین",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: به سرچشمه و منبع هر یک از این دو نگاه کن و از ریشه و اصل خود، یکی را انتخاب کن."
     },
     {
       "VOrder": 58,
@@ -824,7 +853,8 @@
       "Text": "تا یقینم شود که دیده‌وری",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که مطمئن شوم که تو از همه خوبی‌ها و بدی‌ها آگاه هستی."
     },
     {
       "VOrder": 60,
@@ -840,7 +870,8 @@
       "Text": "تو نئی از کنون بُدی ز قدیم",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: تو از حالا نیستی، بلکه همیشه با خدا بودی و در کنار او قرار داشتی."
     },
     {
       "VOrder": 62,
@@ -856,7 +887,8 @@
       "Text": "هم سوی حق نگر به خود منگر",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: به حق بنگر و به خودت ننگر، هیچ چیزی از آن موجود والا را از دست نده."
     },
     {
       "VOrder": 64,
@@ -872,7 +904,8 @@
       "Text": "تا بدانم که روی خود دیدی",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: تا بفهمم که آیا زیبایی‌ها و ویژگی‌های تو باعث شده‌اند که تغییر کنی و از حالت طبیعی خود خارج نشوی."
     },
     {
       "VOrder": 66,

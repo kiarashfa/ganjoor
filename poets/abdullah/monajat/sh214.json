@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "الهی تو به یاد خودی و من بیاد تو، تو بر خواست خودی و من بر نهاد تو :",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: ای خداوند، تو به یاد خودی و من به یاد تو. تو بر اساس خواسته‌های خودت عمل می‌کنی و من بر اساس خواسته‌های تو."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "سر سروران بستهٔ دام تو",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل‌های عاشقان به نام تو وابسته است و سروران و بزرگان نشانه‌هایی از عشق و محبت به تو دارند."
     },
     {
       "VOrder": 3,
@@ -46,7 +48,8 @@
       "Position": "Right",
       "Text": "بیک دم دو صد جان آزاد را",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در یک لحظه، دو صد جان آزاد می‌توانند به خاطر یک نفر که گرفتار دام تو شده، به بند بیفتند."
     },
     {
       "VOrder": 5,
@@ -60,7 +63,8 @@
       "Position": "Right",
       "Text": "بسا عقل آسوده دل را که کرد",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بسیاری از افراد با عقل و منطقی که دارند، وقتی یک قطره از جام تو را می‌نوشند، دیوانه و نگران می‌شوند."
     },
     {
       "VOrder": 7,

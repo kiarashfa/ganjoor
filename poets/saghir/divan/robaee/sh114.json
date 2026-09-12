@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "بر منتظران ورود یار جانی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای کسانی که منتظر ورود یار هستند، زندگی در انتظار او گذشته است. اما به تو می‌گویم که باید بدانی."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "یا مرده دوباره زندگانی یابد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک انسان یا بار دیگر زندگی پیدا می‌کند، یا شخص زنده به عمر ابدی می‌رسد."
     },
     {
       "VOrder": 4,

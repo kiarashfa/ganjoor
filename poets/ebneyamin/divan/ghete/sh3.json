@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "از برای دو چیز جوید و بس",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مرد عاقل تنها به دنبال دو چیز می‌گردد و بیشتر از آن نمی‌خواهد: دنیا و مهارت‌های آن."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "یا از آن سر بلند گردد دوست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوست از آن‌سوی میدان بر خواهد خاست یا دشمن را زیر پا خواهد گذاشت."
     },
     {
       "VOrder": 4,
@@ -55,7 +57,8 @@
       "Position": "Right",
       "Text": "و آنکه میجوید و نمیداند",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که در جستجوی چیزی است ولی نمی‌داند هدف از این جستجو چیست، در حقیقت در تلاش برای یافتن چیزی است که برایش مشخص نیست."
     },
     {
       "VOrder": 6,
@@ -69,7 +72,8 @@
       "Position": "Right",
       "Text": "چیده باشد بمسکنت خوشه",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی ممکن است با دقت و زحمت خوشه‌ای برداشت کند، اما باد می‌تواند تمام تلاش او را نابود کند و محصولش را به باد دهد."
     },
     {
       "VOrder": 8,
@@ -83,7 +87,8 @@
       "Position": "Right",
       "Text": "غیر جان کندن او خیالش چیست",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: غیر از این که او از دنیا رفتن و ترک کردن زندگی فکر دیگری ندارد، نتیجه این که انسان خود را بشناسد، همان مرگ است."
     },
     {
       "VOrder": 10,

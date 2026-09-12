@@ -26,38 +26,44 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "یاد دارم که شبی در کاروانی همه شب رفته بودم و سحر در کنارِ بیشه‌ای خفته.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر دارم شبی را که در کاروانی بودم و تا صبح را در کنار یک درختزار خوابیده بودم."
     },
     {
       "VOrder": 2,
       "Position": "Paragraph",
       "Text": "شوریده‌ای که در آن سفر همراهِ ما بود نعره‌ای برآورد و راهِ بیابان گرفت و یک نفس آرام نیافت.",
-      "CoupletIndex": 1
+      "CoupletIndex": 1,
+      "CoupletSummary": "هوش مصنوعی: شوریده‌ای که در آن سفر با ما بود، فریادی کشید و به سمت بیابان حرکت کرد و هیچ وقت آرامش پیدا نکرد."
     },
     {
       "VOrder": 3,
       "Position": "Paragraph",
       "Text": "چون روز شد، گفتمش: آن چه حالت بود؟",
-      "CoupletIndex": 2
+      "CoupletIndex": 2,
+      "CoupletSummary": "هوش مصنوعی: زمانی که صبح شد، از او پرسیدم: حالت چطور بود؟"
     },
     {
       "VOrder": 4,
       "Position": "Paragraph",
       "Text": "گفت: بلبلان را دیدم که به نالش در آمده بودند از درخت، و کبکان از کوه و غوکان در آب و بَهایم از بیشه؛",
-      "CoupletIndex": 3
+      "CoupletIndex": 3,
+      "CoupletSummary": "هوش مصنوعی: گفت: بلبل‌ها را دیدم که از درخت به ناله افتاده‌اند و کبک‌ها از کوه، و قورباغه‌ها در آب و حیوانات من از جنگل صدا می‌زنند؛"
     },
     {
       "VOrder": 5,
       "Position": "Paragraph",
       "Text": "اندیشه کردم که مروّت نباشد همه در تسبیح و من به غفلت خُفته.",
-      "CoupletIndex": 4
+      "CoupletIndex": 4,
+      "CoupletSummary": "به تفکّر دریافتم که ناجوانمردی است همهٔ آفریدگانْ خدای را به پاکی یاد کنند و من در اینحال بی‌خبر خفته باشم."
     },
     {
       "VOrder": 6,
       "Position": "Right",
       "Text": "دوش مرغی به صبح می‌نالید",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "دیشب به سحرگاه پرنده‌ای شور و فغان می‌کرد. نغمهٔ وی خرَد و شکیب و تاب و آگاهی از من بِرُبود و خروش از من برآمد."
     },
     {
       "VOrder": 7,
@@ -71,7 +77,8 @@
       "Position": "Right",
       "Text": "یکی از دوستان مخلِص را",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "همانا یاری پاکدل خروش من را شنید؛"
     },
     {
       "VOrder": 9,
@@ -85,7 +92,8 @@
       "Position": "Right",
       "Text": "گفت باور نداشتم که تو را",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "گفت: به راستی نمی‌دانستم که فریاد مرغی تو را بدین‌گونه سرگشته سازد و از دست بِبَرَد."
     },
     {
       "VOrder": 11,
@@ -99,7 +107,8 @@
       "Position": "Right",
       "Text": "گفتم: این شرطِ آدمیّت نیست",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "به پاسخ گفتم: در آیین مردمی روا نیست که پرنده‌ای خدای را به پاکی صفت کند و من آنگاه دم فرو بسته مانم."
     },
     {
       "VOrder": 13,

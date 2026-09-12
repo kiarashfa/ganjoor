@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "آنچه افتاد چند بار مرا",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چندین بار به من نصیحت کردند، اما من به آن توجه نکردم، ای فلانی که من هستم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "آنچه هستم چرا نمی‌گویم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من نمی‌گویم چه چیزی درون من هست، زیرا این خود را به تو نشان ندادم و به تو گفتم که من کیستم."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "شده‌ام سیر زین جهان زیراک",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به دلیل نداشته بودن خوبی‌ها و خوبی‌های واقعی در این دنیا، احساس خستگی و بی‌نفسی کرده‌ام و از این جهان دل‌زده شده‌ام."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "که مرا هیچ‌کس نمی‌داند",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس مرا نمی‌شناسد، مگر خداوند که مرا خوب می‌شناسد و از حقیقت وجودم آگاه است."
     },
     {
       "VOrder": 8,

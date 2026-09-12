@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "اگر دو چشم تو مست مدام خواهد بود",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر چشمان تو همیشه در حال مستی باشند، پس شادی و شوق ما نیز همواره ادامه خواهد داشت."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "ز جام باده ی عشقت خمار ممکن نیست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از پیاله عشق تو مست شدن ممکن نیست، چرا که نوشیدن شراب محبت همیشه ادامه خواهد داشت."
     },
     {
       "VOrder": 4,
@@ -54,7 +56,8 @@
       "Position": "Right",
       "Text": "گمان برند کسانی که خام طبعانند",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برخی از افراد نادان تصور می‌کنند که کار ما از شراب تُند و ناپخته خواهد بود، در حالی که این‌طور نیست."
     },
     {
       "VOrder": 6,
@@ -68,7 +71,8 @@
       "Position": "Right",
       "Text": "شراب و طلعت حور از بهشت مطلوبست",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شراب و زیبایی حوریان از بهشت مورد خواست و آرزوست، وگرنه بهشت فقط برای مردم عادی خواهد بود."
     },
     {
       "VOrder": 8,
@@ -82,7 +86,8 @@
       "Position": "Right",
       "Text": "بکنج میکده آن به که معتکف باشد",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بهتر است در خلوت‌گاه میخانه کسی باشد که از مکان‌های مقدس دوری کند."
     },
     {
       "VOrder": 10,
@@ -96,7 +101,8 @@
       "Position": "Right",
       "Text": "حلال زاده نیم گر بروی شاهد ما",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی زاده‌ی حلال باشد، وقتی به جانب معشوق برود، شراب و موسیقی حرام خواهد بود."
     },
     {
       "VOrder": 12,
@@ -110,7 +116,8 @@
       "Position": "Right",
       "Text": "بمجلسی که تو باشی ندیم خلوت خاص",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو در مجلسی حضور داشته باشی، دیگر نیازی به جمع‌های عمومی نیست و این تنها حضور تو در یک جمع خصوصی، خودش ارزشمند و خاص است."
     },
     {
       "VOrder": 14,
@@ -124,7 +131,8 @@
       "Position": "Right",
       "Text": "مرا که نام بر آمد کنون ببدنامی",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من که اکنون نامم به بدی مشهور شده است، نباید گمانی درباره‌ام ببری که این ننگ و رسوایی به خاطر غم و اندوه من است."
     },
     {
       "VOrder": 16,
@@ -138,7 +146,8 @@
       "Position": "Right",
       "Text": "کجا ز دست دهم جام می چو می دانم",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من چرا باید از دست خودم شراب را بدهیم، در حالی که می‌دانم این شراب است که به کمک و آرامشم خواهد آمد؟"
     },
     {
       "VOrder": 18,
@@ -152,7 +161,8 @@
       "Position": "Right",
       "Text": "بیا که گر نبُود شمع در شب دیجور",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیا که اگر در شب تاریک شمعی نباشد، چهرهٔ زیبای تو برای ما کافیست و همه چیز را روشن می‌کند."
     },
     {
       "VOrder": 20,
@@ -166,7 +176,8 @@
       "Position": "Right",
       "Text": "چو سرو میل چمن کن که صبحدم در باغ",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مثل سرو در باغ ایستاده و با وقار باش، زیرا که در صبحگاه در باغ، بلبل خوش‌صدا و دل‌انگیز سروده‌هایی خواهد خواند."
     },
     {
       "VOrder": 22,
@@ -180,7 +191,8 @@
       "Position": "Right",
       "Text": "ورای قطع تعلق ز دوستان قدیم",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر انسان از پیوندهای خود با دوستان قدیمی جدا شود، عذاب روز قیامت چه خواهد بود؟"
     },
     {
       "VOrder": 24,
@@ -194,7 +206,8 @@
       "Position": "Right",
       "Text": "چه غم ز حربه و حرب عرب چو مجنون را",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چه غم از سلاح و جنگ عرب، وقتی مجنون در کنار در لیلی مقام دارد؟"
     },
     {
       "VOrder": 26,
@@ -208,7 +221,8 @@
       "Position": "Right",
       "Text": "چنین که سر به غلامی نهاده‌ای خواجو",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که تو چنین به بندگی و خدمت به من آمده‌ای، ای خواجو، بدان که این عمل تو باعث خواهد شد که یک سلطان نیز در برابر تو دست به غلامی بزند."
     },
     {
       "VOrder": 28,

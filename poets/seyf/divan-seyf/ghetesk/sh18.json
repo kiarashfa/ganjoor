@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "وصف حسنش نمی توانم گفت",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زیبایی او را نمی‌توانم با دیگران توصیف کنم، هرچند که خودم می‌دانم چگونه باید بیانش کنم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "آنچه جویم نمی توانم یافت",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آنچه به دنبالش هستم را نمی‌توانم پیدا کنم و آنچه را که می‌بینم نمی‌توانم بیان کنم."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "تو مرا بد مبین که من او را",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو مرا به چشم بد نبین که من او را خوب می‌شناسم، اما نمی‌دانم که چه گفته است."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "آشکارا نمی توانم کرد",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نمی‌توانم به‌طور واضح آنچه را که آن دوست در دل و به‌صورت محرمانه به من گفت، بیان کنم."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "گفتم او را مرا بخود برسان",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به او گفتم که باید خود را آماده کند تا من به او برسم، او نیز پاسخ داد که در این مورد آمادگی دارد."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "تا تویّی تو ای فلان نرسد",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که وجود توست، چگونه می‌توانم به خودم برسم؟ این را کسی گفت."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "هرچه پرسیدمش جوابم داد",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچقدر که از او سوال کردم، به من پاسخ داد. زمانی که خواستم به طرف او بروم، نشانی به من داد."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "عاقبت راه یابی از پس در",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در پایان، وقتی به حقیقت رسیدی، در کنار درب منزل من نشسته‌ای و از من درخواست کمک می‌کنی."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "بشکرها نظر مکن تا من",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به او گفته شده که به زیبایی‌های ظاهری توجه نکند تا من مانند مگسی از خودت دور نشوم."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "منشین با کسی که او دور است",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با کسی که دور است نمان، تا من را به خودت نزدیک‌تر نشان دهد."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "لقمه یی خواستم ازو شیرین",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به او گفتم که یک لقمه شیرین می‌خواهم و پرسیدم آیا میهمان من نیستی؟ او پاسخ داد:"
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "غم من خور که دل قوی کندت",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: غم من را بخور تا دل تو قوی‌تر شود. وقتی که به من گفتند نانی دارم، خوشحال شدم."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "بره عشق چون شدم نزدیک",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که عاشق شدم، احساس کردم که عشق به دور از سخن و بیان است."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "عقل ناگه بپیش باز آمد",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عقل ناگهان به من بازگشت و سریعاً در دهانم قرار گرفت و گفت."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "گفتم ای عقل کیستی تو بگو",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به او گفتم: ای عقل، تو که هستی؟ تو را می‌خواهم برای هدایت کاروانم. او در پاسخ گفت..."
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "اولین صادری ز حضرت علم",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی از علم بی‌خبر باشد، من آن علم را به خود قبول دارم."
     },
     {
       "VOrder": 32,
@@ -255,7 +271,8 @@
       "Position": "Right",
       "Text": "گفتم از بهر من چکار کنی",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به او گفتم برای من چه کاری انجام می‌دهی تا من را به خانه‌ام برسانی، او پاسخ داد..."
     },
     {
       "VOrder": 34,
@@ -269,7 +286,8 @@
       "Position": "Right",
       "Text": "گفتمش ترک بار و خر گفتم",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به او گفتم که بار و باربر را رها کن و به سراغ کارهای خانه و زندگی برو. او پاسخ داد که من در این کارها نیاز به کمک و راهنمایی دارم."
     },
     {
       "VOrder": 36,
@@ -283,7 +301,8 @@
       "Position": "Right",
       "Text": "گفتمش خان و مان ندارم من",
       "CoupletIndex": 18,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به او گفتم که من هیچ خانه یا خانواده‌ای ندارم و حتی ثروت را هم نگهبانی می‌کنم. او پاسخ داد:"
     },
     {
       "VOrder": 38,
@@ -297,7 +316,8 @@
       "Position": "Right",
       "Text": "گفتمش مال ترک کرده ماست",
       "CoupletIndex": 19,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به او گفتم که ما از مال و ثروت کناره‌گیری کرده‌ایم و به این مورد از قدرت و شجاعت خود نیز اشاره کردم. او پاسخ داد که..."
     },
     {
       "VOrder": 40,
@@ -311,7 +331,8 @@
       "Position": "Right",
       "Text": "گفتمش ملک ما غم عشق است",
       "CoupletIndex": 20,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به او گفتم که دل‌تنگی عشق معشوق ما را در بر گرفته و دیگر نیرو و توان خدمت به کسی را ندارم. او پاسخ داد که..."
     },
     {
       "VOrder": 42,
@@ -325,7 +346,8 @@
       "Position": "Right",
       "Text": "گفتمش ره دراز و پرخطر است",
       "CoupletIndex": 21,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به او گفتم که راه طولانی و خطرناک است و من فردی پیر و ناتوان هستم. او پاسخ داد:"
     },
     {
       "VOrder": 44,
@@ -339,7 +361,8 @@
       "Position": "Right",
       "Text": "چون زمانی برفت و عاجز گشت",
       "CoupletIndex": 22,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که گذشت و ناتوان شدم، وقت آن فرا رسید که بگویم دیگر نمی‌توانم از تو دور بمانم."
     },
     {
       "VOrder": 46,
@@ -353,7 +376,8 @@
       "Position": "Right",
       "Text": "چون رسیدیم بر سر ره عشق",
       "CoupletIndex": 23,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی به سر راه عشق رسیدیم، دوستانم خداحافظی کردند."
     },
     {
       "VOrder": 48,
@@ -367,7 +391,8 @@
       "Position": "Right",
       "Text": "چون زمین پیش او ببوسیدم",
       "CoupletIndex": 24,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر مقام والای او، به زمین سجده کردم و او که مالک آسمان‌ها و زمین است به من گفت."
     },
     {
       "VOrder": 50,
@@ -381,7 +406,8 @@
       "Position": "Right",
       "Text": "گفتم ای عشق من چه چیز توام",
       "CoupletIndex": 25,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفتم ای عشق، چگونه می‌توانم زیبایی‌هایت را با کلمات شیرین توصیف کنم؟ او جواب داد..."
     },
     {
       "VOrder": 52,
@@ -395,7 +421,8 @@
       "Position": "Right",
       "Text": "همه آداب ره روی زآن پس",
       "CoupletIndex": 26,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تمام آداب و رفتارهای مسیریاب را بعد از آن از جوانمردی یاد گرفتم."
     },
     {
       "VOrder": 54,
@@ -409,7 +436,8 @@
       "Position": "Right",
       "Text": "غم من با دل چو دفتر تو",
       "CoupletIndex": 27,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: غم من مانند دفتری است که در دل تو نوشته شده و این کلام را نمی‌توانم به هیچ مترجمی منتقل کنم."
     },
     {
       "VOrder": 56,
@@ -423,7 +451,8 @@
       "Position": "Right",
       "Text": "چون مرکب شدند حاصل شد",
       "CoupletIndex": 28,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که کارهای تو بر من تأثیر گذاشت، نتیجه‌اش در دستانم به صورت کلامی نمایان شد."
     },
     {
       "VOrder": 58,
@@ -437,7 +466,8 @@
       "Position": "Right",
       "Text": "بتو بر رَقّ عالم ار خواهم",
       "CoupletIndex": 29,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهم تو را در کاغذ دنیا به تصویر بکشم، هر آنچه که از تو می‌دانم را خواهم نوشت."
     },
     {
       "VOrder": 60,
@@ -451,7 +481,8 @@
       "Position": "Right",
       "Text": "من بجاروب نیستی از دل",
       "CoupletIndex": 30,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از دل خود به خانه‌ی نیستی می‌ریزم و این را می‌گویم."
     },
     {
       "VOrder": 62,
@@ -465,7 +496,8 @@
       "Position": "Right",
       "Text": "تا نکردی همه چو قرآن صدق",
       "CoupletIndex": 31,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که تو مانند قرآن صداقت نداشته باشی، هرگز تو را در نزد خود نخواهم خواند."
     },
     {
       "VOrder": 64,
@@ -479,7 +511,8 @@
       "Position": "Right",
       "Text": "من همای سعادتم لیکن",
       "CoupletIndex": 32,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من پرنده‌ای خوشبخش هستم، اما وجود من به تو وابسته است."
     },
     {
       "VOrder": 66,
@@ -493,7 +526,8 @@
       "Position": "Right",
       "Text": "مرغ دل زندگی بمن یابد",
       "CoupletIndex": 33,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مرغ دل زندگی به من می‌رسد و من در آتش عشق می‌سوزم و جانم می‌گوید."
     },
     {
       "VOrder": 68,
@@ -507,7 +541,8 @@
       "Position": "Right",
       "Text": "در مکانها همی نگنجم از آنک",
       "CoupletIndex": 34,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر ارزش و ماهیت وجودی‌ام، در هیچ مکانی نمی‌توانم محدود شوم، زیرا من دوستی و حقیقتی از آنچه فراتر از مکان است را در خود دارم."
     },
     {
       "VOrder": 70,
@@ -521,7 +556,8 @@
       "Position": "Right",
       "Text": "چون گرفتار من شوی دردم",
       "CoupletIndex": 35,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی در مشکلات من درگیر شوی، من دردی که دارم را از تو دور می‌سازم و آزاد می‌کنی."
     },
     {
       "VOrder": 72,
@@ -535,7 +571,8 @@
       "Position": "Right",
       "Text": "دست تسلیم در کف من نه",
       "CoupletIndex": 36,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دست تسلیم خود را در دستانت می‌گذارم تا بتوانم تو را از خودم جدا کنم."
     },
     {
       "VOrder": 74,
@@ -549,7 +586,8 @@
       "Position": "Right",
       "Text": "سخن عشق ازین جهان نبود",
       "CoupletIndex": 37,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سخن عشق مربوط به این دنیا نیست؛ هر چیزی که او گفت، از دنیای دیگری است."
     },
     {
       "VOrder": 76,
@@ -563,7 +601,8 @@
       "Position": "Right",
       "Text": "قصهٔ آن طرف درین جانب",
       "CoupletIndex": 38,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: داستان آن سوی خیابان در این طرف به وجود نمی‌آید و من با این و آن صحبت کردم."
     },
     {
       "VOrder": 78,
@@ -577,7 +616,8 @@
       "Position": "Right",
       "Text": "تا نگویم حدیث عشق، ببر",
       "CoupletIndex": 39,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که درباره عشق حرف نزنم، از دل و ذهنم همه فکرها را دور کن و اجازه نده که چیزی از زبانم خارج شود."
     },
     {
       "VOrder": 80,

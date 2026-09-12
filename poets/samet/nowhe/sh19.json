@@ -136,7 +136,8 @@
       "Text": "چون آلِ طاها، از جورِ ایام",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: چون خانواده‌ی طاها از سختی‌های زمانه رهایی یافتند و به سرزمین شام وارد شدند."
     },
     {
       "VOrder": 2,
@@ -152,7 +153,8 @@
       "Text": "گفتا سکینه، در محضرِ عام:",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: سکینه در جمع مردم گفت: ای مردم بی‌رحم و ای قوم بدنام."
     },
     {
       "VOrder": 4,
@@ -168,7 +170,8 @@
       "Text": "(نحنُ سَبایا، آلِ محمد)",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: ما اسیران آل محمد هستیم، جد ما رسول خدا در هر جا و هر مراسمی حضور دارد."
     },
     {
       "VOrder": 6,
@@ -184,7 +187,8 @@
       "Text": "ما عینِ قبله، اصلِ نمازیم",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ما همان قبله هستیم که نماز نگه می‌دارد، ما پادشاه یثرب و سلطنت حجاز هستیم."
     },
     {
       "VOrder": 8,
@@ -200,7 +204,8 @@
       "Text": "از حکمِ قرآن، ما سرفرازیم",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ما در کشور دین و سرزمین اسلام با افتخار از دستورات قرآن پیروی می‌کنیم."
     },
     {
       "VOrder": 10,
@@ -216,7 +221,8 @@
       "Text": "(نحنُ سَبایا، آلِ محمد)",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: ما بندگان و اسیران اهل محمد هستیم و جد ما رسول خدا در هر مجلس و محفل حاضر است."
     },
     {
       "VOrder": 12,
@@ -232,7 +238,8 @@
       "Text": "ما کاندر این شهر، زار و ملولیم",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: ما در این شهر احساس ناراحتی و بی‌حوصلگی می‌کنیم و از جوی که در آن هستیم رضایت نداریم، زیرا از وحی و الهام دور افتاده‌ایم."
     },
     {
       "VOrder": 14,
@@ -248,7 +255,8 @@
       "Text": "(نحنُ سَبایا، آلِ محمد)",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: ما اسیران اهل محمد هستیم، که جد ما پیامبر در هر مکانی حضور دارد."
     },
     {
       "VOrder": 16,
@@ -264,7 +272,8 @@
       "Text": "خوش می‌نوازید، نای و نقاره",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: شما به زیبایی ساز می‌زنید و ما در حال لذت بردن از تماشا هستیم."
     },
     {
       "VOrder": 18,
@@ -280,7 +289,8 @@
       "Text": "خوش پردهٔ شرم، کردید پاره",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در اینجا اشاره به این است که پرده شرم به طور عجیبی کنار رفته و در نتیجه، افراد به فرزندان یاسین توهین می‌کنند. به نوعی، این شعر به آسیب‌پذیری و بی‌پروایی انسان‌ها در مواجهه با مسائل اخلاقی و اجتماعی اشاره دارد."
     },
     {
       "VOrder": 20,
@@ -296,7 +306,8 @@
       "Text": "(نحنُ سَبایا، آلِ محمد)",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: ما اسیران آل محمد هستیم، جد من رسول خدا در تمام میدان‌ها."
     },
     {
       "VOrder": 22,
@@ -312,7 +323,8 @@
       "Text": "با سینهٔ ریش، با قلبِ پُر‌غم",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: با دل شکسته و قلبی پر از اندوه، با سر برهنه و چشمانی پر از اشک."
     },
     {
       "VOrder": 24,
@@ -328,7 +340,8 @@
       "Text": "ما را نمودند، سرگَردِ عالم",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: ما را در دنیای سرگردان نشان دادند، بر اثر زیاد شدن کینه و خشم از روی اصرار."
     },
     {
       "VOrder": 26,
@@ -344,7 +357,8 @@
       "Text": "(نحنُ سَبایا، آلِ محمد)",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: ما اسیران خاندان محمد هستیم؛ جد ما رسول خدا در هر عرصه‌ای حاضر است."
     },
     {
       "VOrder": 28,
@@ -360,7 +374,8 @@
       "Text": "روزی که قرآن، گردید نازل",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: روزی که قرآن بر ما نازل شد، حرمت و احترام خاصی بر ما بخشیده شد."
     },
     {
       "VOrder": 30,
@@ -376,7 +391,8 @@
       "Text": "ما را خرابه، دادید منزل",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: به ما می‌گویید که در این خرابه زندگی کنیم، در حالی که محل اصلی شما باید به خاطر مهمان‌نوازی ما محفوظ باشد."
     },
     {
       "VOrder": 32,
@@ -392,7 +408,8 @@
       "Text": "(نحنُ سَبایا، آلِ محمد)",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: ما اسیران خانواده محمد هستیم که جد ما رسول خدا در هر مکانی حضور دارد."
     },
     {
       "VOrder": 34,
@@ -408,7 +425,8 @@
       "Text": "آخر غریبیم، ما آلِ حیدر",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: ما آل حیدر در سرزمین شام، همچنان غریب و بی‌کس هستیم، ای مردم کافر."
     },
     {
       "VOrder": 36,
@@ -424,7 +442,8 @@
       "Text": "تا چند ما را، ریزید بر سر",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: چرا باید مدام ما را بر روی خاک و سنگ پرتاب کنید و از پشت بام‌ها سنگ بزنید؟"
     },
     {
       "VOrder": 38,
@@ -440,7 +459,8 @@
       "Text": "(نحنُ سَبایا، آلِ محمد)",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: ما اسیران اهل محمد هستیم و جد ما پیامبر در هر میدان و صحنه‌ای حاضر است."
     },
     {
       "VOrder": 40,
@@ -456,7 +476,8 @@
       "Text": "در این ولایت، ما میهمانیم",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: در این سرزمین ما همچون پرنده‌ای هستیم که از آشیانه‌اش دورافتاده و میهمان هستیم."
     },
     {
       "VOrder": 42,
@@ -472,7 +493,8 @@
       "Text": "تا کی بر افلاک، شیون رسانیم",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: چگونه می‌توانیم تا ابد بر آسمان صداهایی از ناراحتی و فریاد ایجاد کنیم، در حالی که صبح با ناله و شام با گریه همراه است؟"
     },
     {
       "VOrder": 44,
@@ -488,7 +510,8 @@
       "Text": "(نحنُ سَبایا، آلِ محمد)",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: ما اسیران خانواده محمد هستیم، جد من پیامبر است. در هر جمع و مجلسی اگر شب و روز بر سر ناله و شیون باشیم، همچون نی می‌زنیم."
     },
     {
       "VOrder": 46,
@@ -512,7 +535,8 @@
       "Text": "مانند «صامت»، شد عمرِ من طی",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: عمر من مثل یک صامت (سکوت) سپری شد."
     },
     {
       "VOrder": 49,
@@ -520,7 +544,8 @@
       "Text": "در محنت و رنج، در حُزن و آلام",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: در سختی‌ها و دردها، در غم و اندوه."
     },
     {
       "VOrder": 50,
@@ -528,7 +553,8 @@
       "Text": "(نحنُ سَبایا، آلِ محمد)",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: ما اسیران خاندان محمد، جد من پیامبر در هر مکانی هستیم."
     },
     {
       "VOrder": 51,

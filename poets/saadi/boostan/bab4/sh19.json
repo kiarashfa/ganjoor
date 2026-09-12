@@ -271,7 +271,8 @@
       "Text": "عزیزی در اقصای تبریز بود",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "شخص گرانقدری اهل تبریز و اهل عبادت شب بود."
     },
     {
       "VOrder": 2,
@@ -287,7 +288,8 @@
       "Text": "شبی دید جایی که دزدی کمند",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "یک شب در جایی دید که دزدی طناب به سوی بام خانه‌ای افکند (که بالا برود)"
     },
     {
       "VOrder": 4,
@@ -303,7 +305,8 @@
       "Text": "کسان را خبر کرد و آشوب خاست",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "(مرد پارسا) مردم را بیدار کرد؛ فریاد و آشوب بلند شد و از هر سوی مردم چوب‌به‌دست بدانجا سرازیر شدند."
     },
     {
       "VOrder": 6,
@@ -319,7 +322,8 @@
       "Text": "چو نامردم آواز مردم شنید",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هنگامی‌که آن دزدِ نامردم‌، بانگ و فریاد مردم را شنید فرار را بر قرار ترجیح داد."
     },
     {
       "VOrder": 8,
@@ -335,7 +339,8 @@
       "Text": "نهیبی از آن گیر و دار آمدش",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "آن فریاد و غوغا، در دلش ترسی افکند؛ فرصت‌یافت و از آنجا گریخت."
     },
     {
       "VOrder": 10,
@@ -351,7 +356,8 @@
       "Text": "ز رحمت دل پارسا موم شد",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "(اما) دل آن مرد پارسا (که دزد) را از دزدی محروم کرد، به‌حال دزد سوخت."
     },
     {
       "VOrder": 12,
@@ -367,7 +373,8 @@
       "Text": "به تاریکی از پی فراز آمدش",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "در تاریکی در پی او رفت و از کوچه‌ای و راهی دیگر به پیشباز (و مقابل) او رفت."
     },
     {
       "VOrder": 14,
@@ -383,7 +390,8 @@
       "Text": "که یارا مرو کآشنای توام",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "(و به او گفت) که ای یار (‌هم‌پیشه) جایی مرو که من دوست تو (و مثل تو دزد) هستم و می‌دانم که تو مردی و شجاعت تو را قبول دارم."
     },
     {
       "VOrder": 16,
@@ -399,7 +407,8 @@
       "Text": "ندیدم به مردانگی چون تو کس",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "آدمی شجاع مثل تو ندیده‌ام زیرا شجاعت و جنگاوری بر دو نوع است؛"
     },
     {
       "VOrder": 18,
@@ -415,7 +424,8 @@
       "Text": "یکی پیش خصم آمدن مردوار",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "یکی جنگیدن با دشمن و دیگری جان سالم به‌در بُردن در جنگ."
     },
     {
       "VOrder": 20,
@@ -431,7 +441,8 @@
       "Text": "بر این هر دو خصلت غلام توام",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "شجاعت تو را در این دو خصلت و در این‌باره، قبول دارم و نوکر تو هستم، (مانند غلام خود) نامی برایم انتخاب کن که بردهٔ\u00A0تو هستم (مولا در اینجا یعنی غلام)"
     },
     {
       "VOrder": 22,
@@ -447,7 +458,8 @@
       "Text": "گرت رای باشد به حکم کرم",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "اگر از روی بزرگی تصمیم بگیری و (پیشنهادم را بپذیری) به جایی که می‌دانم تو را راهنمایی می‌کنم."
     },
     {
       "VOrder": 24,
@@ -463,7 +475,8 @@
       "Text": "سرایی است کوتاه و در بسته سخت",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "خانه‌ای کوتاه‌دیوار هست با دری قفل شده و فکر‌می‌کنم که صاحب‌خانه در خانه نیست."
     },
     {
       "VOrder": 26,
@@ -479,7 +492,8 @@
       "Text": "کلوخی دو بالای هم بر نهیم",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "(کاری است آسان) دو کلوخ روی هم می‌گذاریم و پای بر دوش دیگری می‌نهیم (و بالا می‌رویم.)"
     },
     {
       "VOrder": 28,
@@ -495,7 +509,8 @@
       "Text": "به چندان که در دستت افتد بساز",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هر چه به‌دست آوردی قانع باش؛ از اینکه امشب بی‌هیچ‌چیزی برگردی بهتر است."
     },
     {
       "VOrder": 30,
@@ -511,7 +526,8 @@
       "Text": "به دل‌داری و چاپلوسی و فن",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "با چرب‌زبانی و حیله او را به‌سوی خانهٔ\u00A0خود برد."
     },
     {
       "VOrder": 32,
@@ -527,7 +543,8 @@
       "Text": "جوانمرد شبرو فرو داشت دوش",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "دزد خم شد و (مرد پارسا) پای بر دوش او نهاد و (از دیوار) بالا رفت."
     },
     {
       "VOrder": 34,
@@ -543,7 +560,8 @@
       "Text": "بَغَلطاق و دستار و رختی که داشت",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "مقداری وسایل و لباس و رخت از روی دیوار به او داد. (غَلطاق: چوب زین)"
     },
     {
       "VOrder": 36,
@@ -559,7 +577,8 @@
       "Text": "وز آنجا برآورد غوغا که دزد",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "(پس از این) از آنجا بانگ کمک برآورد که بیایید دزد را بگیرید و ثواب و مزد ببرید!"
     },
     {
       "VOrder": 38,
@@ -575,7 +594,8 @@
       "Text": "به در جست از آشوب، دزد دغل",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "آن دزد دغل از آشوبی که برخواست‌، همراه با وسایل و جامه‌ها گریخت."
     },
     {
       "VOrder": 40,
@@ -591,7 +611,8 @@
       "Text": "دل آسوده شد مرد نیک اعتقاد",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "آن مرد نیک‌نظر و پارسا خیالش آسوده شد که آدم سرگشته‌ای به مراد خود رسید."
     },
     {
       "VOrder": 42,
@@ -607,7 +628,8 @@
       "Text": "خبیثی که بر کس ترحم نکرد",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "نابکار و خبیثی که به کسی رحم و ترحم نمی‌کرد، آن مرد نیک بر او بخشود."
     },
     {
       "VOrder": 44,
@@ -623,7 +645,8 @@
       "Text": "عجب ناید از سیرت بخردان",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "از سیرت و سرشت خردمندان عجیب و دور از انتظار نیست که از کرم و بزرگ‌منشی حتی بر بدان نیکی می‌کنند."
     },
     {
       "VOrder": 46,
@@ -639,7 +662,8 @@
       "Text": "در اقبال نیکان بدان می‌زیند",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "در اقبال و سایهٔ\u00A0نیکان است که بدان می‌زیند و روزی می‌خورند‌، اگرچه بدان اهل بخشش و نیکی نیستند."
     },
     {
       "VOrder": 48,

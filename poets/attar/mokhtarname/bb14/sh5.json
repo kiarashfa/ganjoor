@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "چون هست جهان جایگه رسوایی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با توجه به اینکه دنیا محل آشکار شدن عیب‌ها و رسوایی‌ها است، چرا در چنین مکانی حرکت می‌کنی و رفت و آمد می‌کنی؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "چون میگویی که من نیم اینجایی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی می‌گویی که من در اینجا نیستم، پس چرا این همه به اینجا می‌آیی و حضور داری؟"
     },
     {
       "VOrder": 4,

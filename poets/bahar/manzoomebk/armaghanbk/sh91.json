@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "شب‌خیز باش که کار روا باشی.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: یاد بگیر که صبح زود بیدار شوی تا بتوانی کارهایت را به خوبی انجام دهی."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "به تاریکی از خواب بیدار شو",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از خواب بیدار شو و با نام خدا به کار و تلاش بپرداز."
     },
     {
       "VOrder": 3,
@@ -46,7 +48,8 @@
       "Position": "Right",
       "Text": "که شب‌خیز را کار باشد روا",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شب‌خیزان مشغول کارند و با این حال، مردم در خواب غفلت خود باقی مانده‌اند و به همین دلیل در رنج و سختی هستند."
     },
     {
       "VOrder": 5,

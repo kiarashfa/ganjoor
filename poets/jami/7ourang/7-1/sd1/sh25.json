@@ -421,7 +421,8 @@
       "Text": "جغد مسکین نشسته پهلوی باز",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: جغد بیچاره کنار باز نشسته و وقتی که از آنجا پرواز کنند، چه حالتی خواهد داشت."
     },
     {
       "VOrder": 2,
@@ -437,7 +438,8 @@
       "Text": "باز سازد ز قصر شه خانه",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: پادشاهی که زمانی در قصری مجلل زندگی می‌کرد، اکنون به جایی تاریک و ویرانه تبدیل شده و در آنجا زیست جغدها را می‌بیند."
     },
     {
       "VOrder": 4,
@@ -453,7 +455,8 @@
       "Text": "میل هر کس به سوی مسکن اوست",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: تمایل هر فرد به خانه و محل زندگی‌اش است، همان‌طور که هر پرنده‌ای به لانه‌اش علاقه‌مند است."
     },
     {
       "VOrder": 6,
@@ -469,7 +472,8 @@
       "Text": "جوان به وقتی که مصحلت بینند",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: جوان وقتی که درک کند که چه چیزی برایش بهتر است، متوجه می‌شود که عارفان در زمان مناسب از رفتن به محفل‌های موزیک و رقص خودداری می‌کنند."
     },
     {
       "VOrder": 8,
@@ -485,7 +489,8 @@
       "Text": "خادم مطبخ آورد به میان",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: خدمتگزار برای تهیه غذا، سفره‌ای را برای مهمانان پهن کرد."
     },
     {
       "VOrder": 10,
@@ -501,7 +506,8 @@
       "Text": "سفره‌ای از حرام مالامال",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: سفره‌ای پر از مال حرام است و در آن هیچ چیزی جز چیزهای حلال وجود ندارد."
     },
     {
       "VOrder": 12,
@@ -517,7 +523,8 @@
       "Text": "نانش از گندمی که شحنه شهر",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: نان او از گندمی است که نگهبان شهر به زور از فقرا در روستا گرفته است."
     },
     {
       "VOrder": 14,
@@ -533,7 +540,8 @@
       "Text": "گوشت زان گوسفند صحرایی",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: گوشت آن گوسفند صحرا که مورد حمله و دزدی قرار گرفته، نشان‌دهنده‌ی غارتگری و بی‌رحمی است."
     },
     {
       "VOrder": 16,
@@ -549,7 +557,8 @@
       "Text": "خود به حرمت از آنچه کردم فاش",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: من به احترام اعمالی که انجام داده‌ام، هر بار به طرز قابل توجهی بیشتر از نیازهای خود را برآورده می‌کنم."
     },
     {
       "VOrder": 18,
@@ -565,7 +574,8 @@
       "Text": "وجه حلوا و خرج پالوده",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: ظاهر شیرینی مانند حلوا و خرج آن مانند پالوده، نشان‌دهنده‌ی این است که برخی افراد به طور ظاهری زیبا و دلپذیر به نظر می‌رسند، اما در باطن ممکن است آلوده و ناپاک باشند."
     },
     {
       "VOrder": 20,
@@ -581,7 +591,8 @@
       "Text": "میوه از بوستان بیوه‌زنان",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: میوه‌ای که از باغ بیوه‌زنان می‌چینند، از آنجا که به ناحق و به زور می‌چینند، به دست آمده است."
     },
     {
       "VOrder": 22,
@@ -597,7 +608,8 @@
       "Text": "شیخ و یاران او به شهوت و آز",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: روحانیون و همراهانش همچون کسانی که به خاطر تمایلات و خواسته‌های نفسانی به سفره‌ای دست دراز می‌کنند، به دنیا و لذت‌های آن توجه دارند."
     },
     {
       "VOrder": 24,
@@ -613,7 +625,8 @@
       "Text": "زند آن‌سان شره بر ایشان راه",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: زندگی افرادی که به راحتی یادشان می‌رود با نام خدا شروع می‌شود، مانند جریانی که بر آنها اثر می‌گذارد."
     },
     {
       "VOrder": 26,
@@ -629,7 +642,8 @@
       "Text": "آن یکی را گرفته تلواسه",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: یکی از آن‌ها در حال نگرانی است و می‌بیند که دیگری بیشتر از او از سفره‌ی مشترک بهره‌مند می‌شود."
     },
     {
       "VOrder": 28,
@@ -645,7 +659,8 @@
       "Text": "لقمه را از شتاب کم خاید",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: اگر لقمه را آرام و با حوصله بخوری، دندان‌ها به خوبی آن را می‌جوند و معده هم بهتر آن را هضم می‌کند."
     },
     {
       "VOrder": 30,
@@ -661,7 +676,8 @@
       "Text": "وان دگر یک نهفته می‌نگرد",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: او از گوشه‌ای دیگر نگاهی به لقمه و قاشقش دارد و به دقت آنها را می‌شمارد."
     },
     {
       "VOrder": 32,
@@ -677,7 +693,8 @@
       "Text": "گر کند در حساب چمچه غلط",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: اگر در محاسبات دقت نداشته باشد و اشتباه کند، او را به شکل‌های مختلف مورد انتقاد قرار می‌دهند."
     },
     {
       "VOrder": 34,
@@ -693,7 +710,8 @@
       "Text": "کانچه کردی خلاف سنت بود",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: هر کاری که برخلاف سنت انجام داده‌ای، سریعاً از آن پشیمان شده و توبه کن."
     },
     {
       "VOrder": 36,
@@ -709,7 +727,8 @@
       "Text": "کند اظهار بخل و ضنت را",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: سختی و خساست خود را نشان می‌دهد، اما بهانه‌ای از عادت‌های خود می‌تراشد."
     },
     {
       "VOrder": 38,
@@ -725,7 +744,8 @@
       "Text": "می‌نهد آن دگر ز نفس دغل",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: آن شخص دیگر با نیرنگ و فریب، لقمه‌های خوراکی را به آرامی در آستین و بغل خود می‌گذارد."
     },
     {
       "VOrder": 40,
@@ -741,7 +761,8 @@
       "Text": "که تبرک ز خوان درویشان",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: من می‌خواهم از سفره‌ی درویشان برکت ببرم و آن را برای خانه و اهل خانواده‌ام بیاورم."
     },
     {
       "VOrder": 42,
@@ -757,7 +778,8 @@
       "Text": "هست این لقمه مایه برکات",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: این لقمه منبع برکت است و هر کسی که آن را بخورد، به رستگاری دست می‌یابد."
     },
     {
       "VOrder": 44,
@@ -773,7 +795,8 @@
       "Text": "باشد این مقتضای طبع خسیس",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: این ممکن است نتیجهٔ طبیعی فردی بخیل باشد، اما او با عذر و بهانه‌های مختلف سعی می‌کند دیگران را فریب دهد."
     },
     {
       "VOrder": 46,
@@ -789,7 +812,8 @@
       "Text": "چون شکم ز آش و نان بینبارند",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: زمانی که شکم‌ها از غذا پر شود، سفره را از وسط برمی‌دارند."
     },
     {
       "VOrder": 48,
@@ -805,7 +829,8 @@
       "Text": "شیخ بهر فتوح زمره خاص",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: شیخ برای دست‌یابی به موفقیت، نماز و دعا خواند و سپس با نیتی خالص و پاک عمل کرد."
     },
     {
       "VOrder": 50,
@@ -821,7 +846,8 @@
       "Text": "لیکن آن فاتحه ز کبر و ریا",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: اما خواهش و خودستایی از چهره‌هایشان پاک نمی‌شود."
     },
     {
       "VOrder": 52,
@@ -837,7 +863,8 @@
       "Text": "باد انفاسشان ز نفس تباه",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: باد ناشی از نفس‌های آنها به قدری تباه و خراب است که نمی‌تواند به سمت بالا برود."
     },
     {
       "VOrder": 54,
@@ -853,7 +880,8 @@
       "Text": "گند لعنت شود فرود آید",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: بهتر است افراد بد و ناپاک، که موجب آزار دیگران می‌شوند، به درستی شناخته شوند و در نهایت، عواقب کارهایشان را ببینند تا دیگران از آن‌ها درس بگیرند و از این رفتارها دوری کنند."
     },
     {
       "VOrder": 56,
@@ -869,7 +897,8 @@
       "Text": "چون که بنمود «اذا طعمتم‌» رو",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: وقتی که شما از طعم آن آگاه شدید، به کار بپردازید و به راه بیفتید."
     },
     {
       "VOrder": 58,
@@ -885,7 +914,8 @@
       "Text": "همه با معده‌های آگنده",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: همه با شکم‌های پر و دل‌های نگران و آشفته هستند."
     },
     {
       "VOrder": 60,
@@ -901,7 +931,8 @@
       "Text": "شکم همچو طبل پیش نهند",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: شکم مانند طبل بزرگ و توخالی است که در آن چیزی نیست و آن را در جای خواب خود قرار می‌دهند."
     },
     {
       "VOrder": 62,
@@ -917,7 +948,8 @@
       "Text": "نه ز انوار ذکرشان شرری",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: نه از نور ذکر آن‌ها شعله‌ای روشن می‌شود و نه نشانه‌ای از حال سماع و حالت روحانی آن‌ها پیدا است."
     },
     {
       "VOrder": 64,
@@ -933,7 +965,8 @@
       "Text": "حاصل ذکر درد گردن و سر",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: نتیجه یادآوری درد گردن و سر، تاثیر لرزش و ضعف در پشت و کمر است."
     },
     {
       "VOrder": 66,
@@ -949,7 +982,8 @@
       "Text": "اکلشان هم نتیجه تازه",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: آن‌ها که به خوردن مشغول هستند، به جز خواب و خواب‌آلودگی نتیجه‌ای تازه نمی‌گیرند."
     },
     {
       "VOrder": 68,
@@ -965,7 +999,8 @@
       "Text": "صحبت پاکشان ز صدق و وفاق",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: گفت‌وگوهای پاک و سالم آنها درباره honesty و توافق، باعث ایجاد صدها دروغ و نفاق می‌شود."
     },
     {
       "VOrder": 70,
@@ -981,7 +1016,8 @@
       "Text": "روز دیگر ازین قیاس بگیر",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: روز دیگری از این مثال می‌توان نتیجه گرفت که دیگر نیازی به توضیح من نیست."
     },
     {
       "VOrder": 72,
@@ -997,7 +1033,8 @@
       "Text": "روز و شب کار این و پیشه چنین",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: زندگی همیشه پر از تلاش و کوشش است و اگر این شرایط ادامه پیدا کند، باید با همین وضع بسازیم و انتظار تغییر نداشته باشیم."
     },
     {
       "VOrder": 74,
@@ -1013,7 +1050,8 @@
       "Text": "نجنا رب من تدلسنا",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: ای پروردگار ما، ما را نجات ده و از شرّ خواسته‌های نفس‌مان در امان نگه‌دار."
     },
     {
       "VOrder": 76,
@@ -1029,7 +1067,8 @@
       "Text": "ثم من سیئات اعمال",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: سپس از بدی‌های اعمالی که به خاطر ناپسندبودن حالتان انجام داده‌اید، نتیجه می‌گیرید."
     },
     {
       "VOrder": 78,

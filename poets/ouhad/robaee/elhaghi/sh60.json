@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "از دوست به هر رهگذری می پرسم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از هر کسی که در مسیرم می‌بینم، درباره‌ی دوست خود سؤال می‌کنم و هر خبری که بتوانم درباره‌اش پیدا کنم، جویا می‌شوم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "تا دشمن بدسگال واقف نشود",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که دشمن بداند که من چه احساسی دارم، من از شخص دیگری سؤال می‌کنم."
     },
     {
       "VOrder": 4,

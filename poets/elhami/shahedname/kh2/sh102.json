@@ -451,7 +451,8 @@
       "Text": "شهنشه چو بشنید آوای پور",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: زمانی که پادشاه صدای فرزند شکیب را شنید، احساساتی عمیق در دلش پیدا شد و اشک از چشمانش سرازیر شد."
     },
     {
       "VOrder": 2,
@@ -467,7 +468,8 @@
       "Text": "چو آن شیر کو بچه ی خویشتن",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: وقتی که شیر بچه‌اش را ببیند، تمام درد و زخم‌های بدنش را فراموش می‌کند و به خاطر آن احساس مسئولیت و قهرمانی می‌کند."
     },
     {
       "VOrder": 4,
@@ -483,7 +485,8 @@
       "Text": "غریوان و غژمان سوی پهنه تاخت",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: نخستین غریو و فریاد و هیاهو در میدان رقابت بلند شد، همان‌گونه که کافران از ترس جاخالی می‌کنند و جرأت نمی‌کنند در برابر آن بایستند."
     },
     {
       "VOrder": 6,
@@ -499,7 +502,8 @@
       "Text": "برآهیخته ذوالفقار دوسر",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: این بیت به توصیف شمشیری به نام ذوالفقار اشاره دارد که به خاطر برآمدگی و قدرتش معروف است. همچنین از آتش خشم و نابغه‌ای که با این شمشیر به مبارزه می‌پردازد، سخن می‌گوید. به طور کلی، تصویر قدرت و خشم نابودگر در این شعر به چشم می‌خورد."
     },
     {
       "VOrder": 8,
@@ -515,7 +519,8 @@
       "Text": "سپه کان بدیدند یکسو شدند",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: لشکر زمانی که دشمن را دید، متفرق شدند و با کمر خمیده و ناتوانی خود را از میدان بیرون کشیدند."
     },
     {
       "VOrder": 10,
@@ -531,7 +536,8 @@
       "Text": "چو آمد به بالین فرزند شاه",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: زمانی که فرزند شاه به بستر آمد، در دریای خون او را در درون آب دید."
     },
     {
       "VOrder": 12,
@@ -547,7 +553,8 @@
       "Text": "سرو پیکر از تیغ کین چاک چاک",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: سرو زیبا به خاطر دشمنی و کینه چاک چاک شده است، و بستر او از علف‌ها و سطح زمین پر شده است."
     },
     {
       "VOrder": 14,
@@ -563,7 +570,8 @@
       "Text": "زاختر فزون زخم بر پیکرش",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: به خاطر زخمی که بر روی پیکر او ایجاد شده، دو موجود یا دو هویت جدید از او به وجود آمده است."
     },
     {
       "VOrder": 16,
@@ -579,7 +587,8 @@
       "Text": "برآورده آه ازدل دردناک",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: از دل بیمار و آزاردهنده‌ام، آهی بلند می‌کشم و خود را به زمین می‌زنم."
     },
     {
       "VOrder": 18,
@@ -595,7 +604,8 @@
       "Text": "به دست وبه زانو همی رفت پیش",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: او با دست و زانو به جلو می‌رفت تا به کنار فرزندش برسد."
     },
     {
       "VOrder": 20,
@@ -611,7 +621,8 @@
       "Text": "گرفت آن سر چاک را درکنار",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: او با سر شکسته‌اش در کنار کسی قرار گرفت که از تاج خورشید و ماه، خجالت می‌کشید."
     },
     {
       "VOrder": 22,
@@ -627,7 +638,8 @@
       "Text": "پس آنگه به رخسار او سود روی",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: سپس بر چهره او نگاهی انداخت و لب و صورتش را بوسید و بر مویش نیز kiss¬ی زد."
     },
     {
       "VOrder": 24,
@@ -643,7 +655,8 @@
       "Text": "برافراشت سرزان رخ پر زخون",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: با سر بلند و چهره‌ای خونین، لعل‌مانند شد، آن ریشی که بویی همچون کافور داشت."
     },
     {
       "VOrder": 26,
@@ -659,7 +672,8 @@
       "Text": "خروشید ازدرد دل چند بار",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: از شدت درد دل، بارها فریاد زد و با چشمان اشکبارش چنین گفت."
     },
     {
       "VOrder": 28,
@@ -675,7 +689,8 @@
       "Text": "که بعد از تو ای زاده ی بوتراب",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: پس از تو، ای فرزند بوتراب، خانه‌ی جهان به ویرانی خواهد گرایید."
     },
     {
       "VOrder": 30,
@@ -691,7 +706,8 @@
       "Text": "پس ازتو جوانا ز ابر هلاک",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: پس از تو جوانان از آسمان به سوی زمین می‌ریزند و بر سر خاک تیره‌ای که دنیا را پوشانده، دچار ویرانی خواهند شد."
     },
     {
       "VOrder": 32,
@@ -707,7 +723,8 @@
       "Text": "تو رفتی ازین گیتی کینه سنج",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: تو از این دنیا رفتی و دیگر از کینه و غم و درد و زحمت آرامش یافته‌ای."
     },
     {
       "VOrder": 34,
@@ -723,7 +740,8 @@
       "Text": "پدر ماند تنها و بی غمگسار",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: پدر به تنهایی و بدون همدردی باقی مانده و در اطرافش دشمنان زیادی را مشاهده می‌کند."
     },
     {
       "VOrder": 36,
@@ -739,7 +757,8 @@
       "Text": "چو شهزاده آوای شه را شنود",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: زمانی که شهزاده صدای فرمانده را شنید، در آخرین لحظه چشمانش را باز کرد."
     },
     {
       "VOrder": 38,
@@ -755,7 +774,8 @@
       "Text": "لبان چو گل غنچه از هم شکفت",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: لبان مانند گل، باز شده و پدر را سلامی فرستاد و گفت."
     },
     {
       "VOrder": 40,
@@ -771,7 +791,8 @@
       "Text": "که من رفتم ای باب ناشادمان",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: من به سفر رفته‌ام و تو ای پدر، در کنار بخشنده خداوند بمان."
     },
     {
       "VOrder": 42,
@@ -787,7 +808,8 @@
       "Text": "مرا مصطفی (ص) داد جامی پرآب",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: پیامبر (ص) به من جامی پر از آب عطا کرد تا آتش دل و جانم را آرامش بخشد."
     },
     {
       "VOrder": 44,
@@ -803,7 +825,8 @@
       "Text": "ز بهر تو آماده فرموده نیز",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: برای تو بهشتی آماده کرده‌اند که در آن یک جام پر از کافور وجود دارد."
     },
     {
       "VOrder": 46,
@@ -819,7 +842,8 @@
       "Text": "همی گوید ای تشنه لب کن شتاب",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: ای تشنه، بشتاب و از من این لیوان آب را بنوش!"
     },
     {
       "VOrder": 48,
@@ -835,7 +859,8 @@
       "Text": "بگفت این وزین دیر ناپایدار",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: این فرد به این فکر می‌کند که این مکان ناپایدار و زودگذر را رها کرده و به سمت نیاکان و پیشینیان خود حرکت کند."
     },
     {
       "VOrder": 50,
@@ -851,7 +876,8 @@
       "Text": "شهنشه چون جاندادن اوبدید",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: وقتی شاه جان را به کسی داده دید، تو احساس کردی که او کاملاً گیج و متحیر شده است."
     },
     {
       "VOrder": 52,
@@ -867,7 +893,8 @@
       "Text": "روان کرد از خون چشمان دورود",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: دود تیره‌ای از اشک‌هایش به راه افتاد و به خاطر آه‌هایش، جهان را پر کرد."
     },
     {
       "VOrder": 54,
@@ -883,7 +910,8 @@
       "Text": "همی گفت پورا – یلا –فرخا",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: این جمله به معنای این است که پور، با شادی و خوشحالی، می‌گوید که ستاره‌ای زیبا و دلنشین درخشان است و پاسخ‌های شیرینی دارد."
     },
     {
       "VOrder": 56,
@@ -899,7 +927,8 @@
       "Text": "مرا یادگار از همایون پدر",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: پدرم چه زود از دنیا رفت و مرا تنها گذاشت."
     },
     {
       "VOrder": 58,
@@ -915,7 +944,8 @@
       "Text": "سرور دلم دیده ی روشنم",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: دل من با دیدن تو شاد بود، اما حالا با نبودنت حسرت و غم بر دلم نشسته است و دنیا برایم خزان شده است. "
     },
     {
       "VOrder": 60,
@@ -931,7 +961,8 @@
       "Text": "ایا اختر تابناک پدر",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: ای ستاره درخشان پدر، چه زود زندگی‌ات به پایان رسید."
     },
     {
       "VOrder": 62,
@@ -947,7 +978,8 @@
       "Text": "چنین است هر اختر صبحدم",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: هر ستاره‌ای که در صبح زود بیشتر می‌درخشد، عمرش کمتر است."
     },
     {
       "VOrder": 64,
@@ -963,7 +995,8 @@
       "Text": "مپندار کز تو فرامش کنم",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: مفهموم این بیت این است که نگو من تو را فراموش کرده‌ام، حتی اگر حرفی بزنم یا سکوت کنم."
     },
     {
       "VOrder": 66,
@@ -979,7 +1012,8 @@
       "Text": "به گفتار اندر تویی بر زبان",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: در کلام تو خودت را می‌بینی و وقتی ساکت می‌شوی، یاد تو در دل و جانم زنده می‌شود."
     },
     {
       "VOrder": 68,
@@ -995,7 +1029,8 @@
       "Text": "بگریم به چهر دلارای تو",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: آیا من باید به خاطر زیبایی تو گریه کنم یا به خاطر راه رفتن دلربای تو؟"
     },
     {
       "VOrder": 70,
@@ -1011,7 +1046,8 @@
       "Text": "ندانم بگریم به زخم سرت",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: نمی‌دانم کدامیک را باید بیشتر غمگین باشم، آیا به خاطر زخم‌های سرت بگریم یا به خاطر پیکرت که پر از خاک و خون است؟"
     },
     {
       "VOrder": 72,
@@ -1027,7 +1063,8 @@
       "Text": "بگریم براین کام خشکیده ات",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: آیا برای دل بی‌حالی‌ات گریه کنم یا به خاطر آرزوهای نادیدنت؟"
     },
     {
       "VOrder": 74,
@@ -1043,7 +1080,8 @@
       "Text": "گروهی که کشتندت ای کشته زار",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: گروهی که به تو آسیب رسانده‌اند، خداوند انتقامشان را خواهد گرفت و عذاب شدید بر آنها نازل خواهد کرد."
     },
     {
       "VOrder": 76,
@@ -1059,7 +1097,8 @@
       "Text": "مرا ای جوان داغت از پا فکند",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: ای جوان، درد و غمت مرا از پا درمی‌آورد و مانند ریشه‌ای، زندگی‌ام را از اساس نابود می‌کند."
     },
     {
       "VOrder": 78,
@@ -1075,7 +1114,8 @@
       "Text": "ببر سوی جدت پیام مرا",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: برو و پیغام مرا به جدت برسان و به مادرم و پدرم هم بگو که پیام من را دریافت کنند."
     },
     {
       "VOrder": 80,
@@ -1091,7 +1131,8 @@
       "Text": "دم دیگر آیم به سوی توشاد",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: در زمان دیگری به سوی تو می‌آیم، امیدوارم تو از این راه به دل اندوهناک من فکر نکنی."
     },
     {
       "VOrder": 82,
@@ -1107,7 +1148,8 @@
       "Text": "پس آنگه تن کشته را آن جناب",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: سپس آن شخص، بدن کشته را بر روی زین اسب عقاب انداخت."
     },
     {
       "VOrder": 84,

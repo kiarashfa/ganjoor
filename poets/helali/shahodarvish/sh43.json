@@ -341,7 +341,8 @@
       "Text": "شاه را خواندی سوی خود خسرو",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: شاه را به سوی خود فراخواندی و خسرو گفت از من نصیحتی بشنو."
     },
     {
       "VOrder": 2,
@@ -357,7 +358,8 @@
       "Text": "عدل پیش آور پادشاهی کن",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: عدالت را در اولویت قرار بده و حاکمیت کن، ظلم را کنار بگذار و هر کاری که دوست داری انجام بده."
     },
     {
       "VOrder": 4,
@@ -373,7 +375,8 @@
       "Text": "تا نبینی ز هیچ رهگذری",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که از دیگران چیزی را نمی‌بینی و در خود مشغول هستی، از وابستگی به دیگران دور خواهی ماند."
     },
     {
       "VOrder": 6,
@@ -389,7 +392,8 @@
       "Text": "سر مپیچ از رضای درویشان",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: به خاطر داشته باش که از خواسته‌ها و رضایت درویشان روی‌گردان نباشی، زیرا آن‌ها انسان‌های بزرگ‌مقام و سرافراز در این جهان هستند."
     },
     {
       "VOrder": 8,
@@ -405,7 +409,8 @@
       "Text": "هر که یابد ز فقر آگاهی",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که به احساس فقر و تهیدستی آگاه باشد، هرگز تمایلی به زندگی پر زرق و برق و قدرت شاهانه نخواهد داشت."
     },
     {
       "VOrder": 10,
@@ -421,7 +426,8 @@
       "Text": "ای بسا شاه عاقبت‌اندیش",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: بسیاری از پادشاهان که با فکر و تدبیر زندگی می‌کنند، در نهایت از مقام بلند خود کناره‌گیری کرده و به زندگی سادگی و درویشی می‌گرایند."
     },
     {
       "VOrder": 12,
@@ -437,7 +443,8 @@
       "Text": "هر که بر درگه تو داد کند",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: هر کس که به درگاه تو بیاید و خواسته‌اش را طلب کند، بی‌تردید به آرزوی خود خواهد رسید."
     },
     {
       "VOrder": 14,
@@ -453,7 +460,8 @@
       "Text": "اگرش هیبت تو لال کند",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: اگر جذبه و شکوه تو به حدی باشد که کسی نتواند حتی حرف دل خود را بزند و فقط به سکوت بیفتد."
     },
     {
       "VOrder": 16,
@@ -469,7 +477,8 @@
       "Text": "همچو گل بر رخسش تبسم کن",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: چنان‌که گل بر چهره‌اش لبخند می‌زند، با کلمات زیبا و دلنشین صحبت کن."
     },
     {
       "VOrder": 18,
@@ -485,7 +494,8 @@
       "Text": "از قلم‌زن به لطف یاد بکن",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: به خاطر نوشته‌های خوب قلم‌زن، بر روزگار تاریک خود اعتماد کن و از او قدردانی کن."
     },
     {
       "VOrder": 20,
@@ -501,7 +511,8 @@
       "Text": "هر جراحت که بر دل از ستمست",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: هر دردی که بر دل عمیق می‌شود، نتیجه ستم و ظلم است که یا بر اثر ضربه‌های نیزه است یا به وسیله کلمات و نوشته‌ها به وجود آمده."
     },
     {
       "VOrder": 22,
@@ -517,7 +528,8 @@
       "Text": "قیمت عدل را شکست مده",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: قیمت عدالت را پایین نیاور و اجازه نده که اصول و قوانین شرع را فراموش کنی."
     },
     {
       "VOrder": 24,
@@ -533,7 +545,8 @@
       "Text": "زان که میزان راستی شرع‌ست",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: چون میزان و ملاک درستی و حقیقت، خود اصول دین است، هر آن‌چه جز آن باشد، فرع و زائده‌ای از حقیقت به شمار می‌آید."
     },
     {
       "VOrder": 26,
@@ -549,7 +562,8 @@
       "Text": "این وصیت چون بکرد جان بسپرد",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: این وصیت به گونه‌ای است که وقتی جان را فدای کسی می‌کند، آن جان به کسی که جان را آفریده، تقدیم می‌شود."
     },
     {
       "VOrder": 28,
@@ -565,7 +579,8 @@
       "Text": "هر کسی بهر ماتم افغان کرد",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: هر شخصی به خاطر اندوه و غم خود، ناله و فریاد زاری می‌کند، و آن اندوهی است که وصف آن ممکن نیست."
     },
     {
       "VOrder": 30,
@@ -581,7 +596,8 @@
       "Text": "شعلهٔ آه تا به گردون رفت",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: آتش دل تا به آسمان رفت و اشک‌های من به عمق جیحون سرازیر شد."
     },
     {
       "VOrder": 32,
@@ -597,7 +613,8 @@
       "Text": "همه آفاق در خروش شدند",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: همه جا به هم ریخت و غوغایی به پا شد و همه ترک‌ها لباس‌های سیاه به تن کردند."
     },
     {
       "VOrder": 34,
@@ -613,7 +630,8 @@
       "Text": "لشکر از ماتمش سیه در بر",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: سپاهیان از غم و ماتم او در اندوه و پریشانی به سر می‌برند، مانند تاریکی که در دل لشکر حاکم است."
     },
     {
       "VOrder": 36,
@@ -629,7 +647,8 @@
       "Text": "زان سیاهی که داشت لشکر او",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: به خاطر تاریکی و سیاهی که لشکر او داشت، سرزمین هند به سرزمین او تبدیل شد."
     },
     {
       "VOrder": 38,
@@ -645,7 +664,8 @@
       "Text": "کمر زر که بر میان می بست",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: دختران زیبا و ثروتمند در میان خود زنجیری از طلا به کمر می‌بندند، اما به دلیل زیبایی و جذابیت خیره‌کننده‌شان، گاهی این زنجیر به خاطر شدت جذبه و جذابیت آنها از کمرشان جدا می‌شود."
     },
     {
       "VOrder": 40,
@@ -661,7 +681,8 @@
       "Text": "شد سیه‌روز ز ماتمش خاتم",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: در اثر غم و اندوهی که او را فراگرفته، چهره‌اش را پوشانده و به طرز غم‌انگیزی به سوگواری می‌پردازد."
     },
     {
       "VOrder": 42,
@@ -677,7 +698,8 @@
       "Text": "تاج یک سو فتاد و ابتر شد",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: تاج (نماد سلطنت) به یک سمت افتاد و همه لشکر و نیروها بی‌سر شدند و از هم پاشیدند."
     },
     {
       "VOrder": 44,
@@ -693,7 +715,8 @@
       "Text": "تخت بر خاک ره ز پا افتاد",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: تختی که بر روی زمین بود و نماد قدرت و عظمت بود، به زمین افتاد و این نشان‌دهنده این است که زمانی می‌رسد که قدرت‌های بزرگ هم از بین خواهند رفت."
     },
     {
       "VOrder": 46,
@@ -709,7 +732,8 @@
       "Text": "این یکی آه دردناکی زدی",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: تو یکی از شدت درد آه بلندی کشیدی و دیگری از غم و اندوه جیب لباسش را پاره کرد."
     },
     {
       "VOrder": 48,
@@ -725,7 +749,8 @@
       "Text": "بدنش را ز گریه می‌شستند",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: بدن او را از اشک‌های گریه تمیز می‌کردند و کفنش را از پارچه‌ای زیبا می‌جستند."
     },
     {
       "VOrder": 50,
@@ -741,7 +766,8 @@
       "Text": "آخرش جانب لحد بردند",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: در نهایت، او را به سمت قبر بردند و مانند یک گنجشک در خاک دفن کردند."
     },
     {
       "VOrder": 52,
@@ -757,7 +783,8 @@
       "Text": "آن که اوج فلک نشیمن ساخت",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: کسی که در بلندای آسمان‌ها زندگی کرد و به مقام‌های رفیع دست یافت، در نهایت به زیر خاک رفته و جایی جز زمین برای خود نیافت."
     },
     {
       "VOrder": 54,
@@ -773,7 +800,8 @@
       "Text": "آن که از حله پیرهن پوشید",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: کسی که لباس زیبای دنیا را به تن می‌کند، در نهایت باید لباس آرامش و کفن را هم بپوشد."
     },
     {
       "VOrder": 56,
@@ -789,7 +817,8 @@
       "Text": "آن که بر فرق تاج از زر کرد",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: کسی که بر سرش تاجی از طلا گذاشت، در نهایت به زیر خاک رفت و ترس و ننگ را بر خود دید."
     },
     {
       "VOrder": 58,
@@ -805,7 +834,8 @@
       "Text": "هیچ کس در جهان قدم نزند",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس در دنیا نباید قدمی بردارد که آن قدم به سمت نابودی نرود."
     },
     {
       "VOrder": 60,
@@ -821,7 +851,8 @@
       "Text": "هر که گهواره ساخت منزل خویش",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که برای خود خانه و زندگی‌ای ساخته، در نهایت به پایان عمرش فکر می‌کند و در محفلش یاد مرگ و جدایی را به همراه دارد."
     },
     {
       "VOrder": 62,

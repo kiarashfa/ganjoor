@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "چیست آن شهریار در پرده؟",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چه کسی است آن فرمانروای پنهان؟ در این شهر شوری به پا است و یار در پس پرده قرار دارد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "هر زمان بار می‌دهد، لیکن",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در هر زمانی می‌توان انتظار داشته باشیم که باران ببارد، اما نمی‌توانیم درپرده یا پشت پرده احتمال بارش را پیش‌بینی کنیم."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "پرده از روی برگرفت آن ماه",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ماه شب، پرده را کنار زد و چهره‌اش را نمایان کرد، گویی که همیشه در پس پرده بوده است."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "همه گلها ازو شکفته و باز",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تمام گل‌ها از او شکفته‌اند، اما گل او هنوز به شکل غنچه و در پرده باقی مانده است."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "پرده داری بدوستان دادست",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوست انتظاری دارد و در عین حال پرده‌ای از رازها و ناگفته‌ها بر روی خود کشیده است. به این معنا که در روابطش با دوستانش، به نوعی محدودیت و مهارت را تجربه می‌کند و در حال حاضر این پرده‌ای که به دوش دارد، او را از ارتباطی عمیق دور نگه می‌دارد."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "چیست این نقش گونه‌گون؟ ار نیست",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این تصویرهای مختلف چه معنی دارند؟ آیا نمی‌توانند نشان‌دهنده‌ی چیزی باشند یا دلیلی برای وجودشان نیست؟"
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "از پس پرده جمله حیرانند",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همه در پشت پرده در حیرت و سرگردانی هستند و هیچ کس نمی‌تواند از این پرده عبور کند."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "همه را رخ به خون دیده نگار",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس در پرده‌ی راز عشق، چهره‌اش را به خون نیالوده است."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "گر نخواهی که: گم شوی از خود",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نمی‌خواهی که خودت را گم کنی، از خودت دور نشو و مراقب باش!"
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "رانی، این پرده را چو راست کنند",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: رانی، وقتی که این پرده را به درستی کنار بزنند، صدای ناله و زاری از پشت پرده به گوش می‌رسد."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "از برون گر هزار بینی، نیست",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر از بیرون به دنیا نگاه کنی، هزاران چیز را می‌بینی، اما در واقع تنها یک حقیقت وجود دارد که آن در پس پرده پنهان شده است."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "هم تویی پردهٔ بصیرت تو",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو خودت درکی و آگاهی، پس خود را در پرده و سایه پنهان مکن."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "پردهٔ خویش را بسوز و ببین",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پرده‌ات را کنار بزن و دوست را به وضوح و بدون هیچ پوششی ببین."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "مرو، ار پرده در میان بینی",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نرو، اگر پرده را در میان ببینی، چه نیازی به پرده دیدن داری؟"
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "تو که چون شیر پرده پشمینی",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو که مانند شیری، وقتی پشت پرده پشمین قرار می‌گیری، چگونه می‌توانی به شکار پرداخته و آن را به دام بیاندازی؟"
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "رفع این پرده یک نفس کارست",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برداشتن این پرده تنها به یک نفس نیاز دارد، پس در این زمانه که همه چیز پرده‌پوش است، مگذار صرفاً روزگار تو را به خود مشغول سازد."
     },
     {
       "VOrder": 32,
@@ -255,7 +271,8 @@
       "Position": "Right",
       "Text": "اگر آن رخ جمال بنماید",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر آن چهره زیبا خود را نشان دهد، پود و تار در پرده را که به هم پیچیده‌اند، کنار می‌زنیم."
     },
     {
       "VOrder": 34,
@@ -269,7 +286,8 @@
       "Position": "Right",
       "Text": "پرده زان دیده‌ای، که هست ترا",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این چشم توست که پرده‌ای را کنار زده، و به تو نشان می‌دهد که تو چه ارزشی داری."
     },
     {
       "VOrder": 36,
@@ -283,7 +301,8 @@
       "Position": "Right",
       "Text": "نظر جهل چون تواند دید",
       "CoupletIndex": 18,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چطور می‌تواند نادانی یار را در غار ببیند در حالی که خود غار در پرده است؟"
     },
     {
       "VOrder": 38,
@@ -297,7 +316,8 @@
       "Position": "Right",
       "Text": "هر که او اختیار خود بگذاشت",
       "CoupletIndex": 19,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که اراده و تصمیم‌گیری خود را رها کند، در نهایت بدون اختیار و کنترل، به سمت مقصدی می‌رود که خارج از اراده‌اش است."
     },
     {
       "VOrder": 40,
@@ -311,7 +331,8 @@
       "Position": "Right",
       "Text": "گر درین پرده میروی، ایدل",
       "CoupletIndex": 20,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در این دنیای پنهان وارد می‌شوی، عشق اوحدی (شاعر) را در این دنیای پنهان نیاور."
     },
     {
       "VOrder": 42,

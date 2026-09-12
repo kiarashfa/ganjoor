@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "بزرگا گر خطایی کرده آمد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بزرگی خطایی مرتکب شود، نباید از من خرده بگیری، چون اگر بزرگ باشد، خطایش نیز بزرگ به حساب می‌آید."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "خطای بندگان باید به هر حال",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خطاهای آدم‌ها باید به نحوی بخشیده شود تا بزرگان را نشان دهد."
     },
     {
       "VOrder": 4,

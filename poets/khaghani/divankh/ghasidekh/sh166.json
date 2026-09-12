@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "اکنون که گشاد گل گریبان",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اکنون که گل‌ها شکوفا شده‌اند و دامن گلستان را پر از زیبایی کرده‌اند، من هم دست خود را به آنها نزدیک می‌کنم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "بی‌بادهٔ زر فشان نباشم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من بدون شراب زردی که به زمین می‌افشاند، مانند بادی نیستم که انگورها را پخش کند."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "خاصه که به هر طرف نشسته است",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به ویژه اینکه در هر سمت و سو، صد باربد با هزار دستان نشسته است."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "از شاخ شکوفه ریز گوئی",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آسمان مانند شاخی پر از شکوفه، ستاره‌ها را بر زمین می‌بارد."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "آن رنگ سیاه لاله ماناک",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: رنگ سیاه لاله به دل مشتری آمده است، مانند کیوان (زحل)."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "در پیکر باغ شکل نرگس",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در باغ، گل نرگس شبیه به چشمی است که مژگانش به سمت پایین افتاده است."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "بر قامت گل قبای اطلس",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بر روی قد گل، لباسی از ابریشم زربفت پوشیده شده که دور تا دور آن را زینت می‌بخشد."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "با هم گل و سبزه و بنفشه",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گل و سبزه و بنفشه با هم رنگارنگ و زیبا هستند، مانند رنگ‌های مختلفی که در رنگین‌کمان دیده می‌شود."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "وقت طرب است و روز عشرت",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمان شادی و خوشی است، روزهای لذت‌بردن فرا رسیده و دوره شکوفایی گل‌ها و فصل بهار است."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "زین پس من و آستین پر زر",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پس از این، من و آستین پر از زر خاقانی و درگاه محبوبم خواهیم بود."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "در باغ ثنای صاحب الجیش",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در باغی که به ستایش او پرداخته شده، پرنده‌ای مانند کَفش‌دار نغمه‌هایی سروده است."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "فهرست دول موفق الدین",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که موفقیت‌ها و دستاوردهای بزرگ عبارتند از فهرستی که به خاطر نوشته‌های فردی به نام \u0022موفق الدین\u0022 به وجود آمده و نشان‌دهنده مسیر خوشبختی و سعادت اوست."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "عبد الغفار کز کمالش",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عبدالغفار که به خاطر کمالش از عدم به سوی وجود گریخته، نشان‌دهنده نقص و کاستی است."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "بر نطع جلال نه فلک را",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بر روی فرش شکوه، نه اینکه آسمان شش بار به اندازه و امکان ضربه‌ای بزند."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "ارجو که مرا به دولت او",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امیدوارم که در دشواری‌های زندگی، به لطف او و نعمت‌هایش برایم سهل و آسان شود."
     },
     {
       "VOrder": 30,

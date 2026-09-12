@@ -347,7 +347,8 @@
       "Text": "ای طلب چشمه امید ما",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای آرزوی ما، چشمه‌ی امید! ما در کنار غم‌های همیشگی‌مان لذت می‌بریم."
     },
     {
       "VOrder": 2,
@@ -363,7 +364,8 @@
       "Text": "گنج طلب زیر قدم سوده ایم",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: ما ابتدا گنج را زیر پای خود قرار داده‌ایم و به دنبال آن هستیم، اما از جستجوی برای به‌دست آوردن گنج خسته نشده‌ایم."
     },
     {
       "VOrder": 4,
@@ -379,7 +381,8 @@
       "Text": "هر نفسم چشمه گشای طلب",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: هر نفس من، شوقی جدید برای خواسته‌هایم ایجاد می‌کند و هر خواسته‌ام مانند عطر و بوی خوشی است که به دنبال آن می‌روم."
     },
     {
       "VOrder": 6,
@@ -395,7 +398,8 @@
       "Text": "نیست ادب روی زره تافتن",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: اگر ادب و احترام بر تن آدمی نباشد، به چه کسی می‌توان به عنوان تکیه‌گاه اعتماد کرد؟"
     },
     {
       "VOrder": 8,
@@ -411,7 +415,8 @@
       "Text": "ماعدم و ذات تو عین وجود",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: وجود من ناشی از وجود توست؛ انگار که عدم، زمانی می‌تواند در هستی تأثیر بگذارد که تو خود بخواهی."
     },
     {
       "VOrder": 10,
@@ -427,7 +432,8 @@
       "Text": "از عدم آرایش ما کرده ای",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: تو از وجود خالی ما، جواهری ساخته‌ای که از هیچ چیز به دست آمده است."
     },
     {
       "VOrder": 12,
@@ -443,7 +449,8 @@
       "Text": "نی غلط این نغمه نه آئین بود",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: این نغمه و آواز، نه بر اساس مقررات و قواعد است، بلکه بر عکس، نغمه‌ی یأس و ناامیدی را کنار بگذارید و به چیزهای مثبت توجه کنید."
     },
     {
       "VOrder": 14,
@@ -459,7 +466,8 @@
       "Text": "گرچه بزادیم ز بحر عدم",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: اگرچه از نیستی به وجود آمده‌ایم، اما به خاطر دستیابی به گنجی ارزشمند است که برای ما مطلوب است."
     },
     {
       "VOrder": 16,
@@ -475,7 +483,8 @@
       "Text": "نسبت این گنج به تعمیرماست",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: این گنجی که داریم، به ما نسبت دارد و خود به خود ارزشمند است. این گوهر بی‌قیمت، زینت‌دهنده‌ی زیبایی ماست."
     },
     {
       "VOrder": 18,
@@ -491,7 +500,8 @@
       "Text": "گر خزفی از تو شود نور یاب",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اگر ظرفی از تو نور بگیرد، مانند خنده‌ای بر روی سنگ قیمتی آفتاب می‌درخشد."
     },
     {
       "VOrder": 20,
@@ -507,7 +517,8 @@
       "Text": "این گهر از نور عطا بر فروز",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: این گوهر از نور بخشش درخشان است و به واسطه‌ی پوشش پنهان و عمیق خود، به سوز و شوق درونی اشاره می‌کند."
     },
     {
       "VOrder": 22,
@@ -523,7 +534,8 @@
       "Text": "برگ و بر باغ فتوحم بده",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: به من اجازه بده که درختان و گل‌ها را در باغ ببینم، در حالی که جسمم ضعیف است و به من نیرو و قدرت روحی بده."
     },
     {
       "VOrder": 24,
@@ -539,7 +551,8 @@
       "Text": "ضعف ، چه ضعفی که ز جسم نزار",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: ناتوانی، چه ناتوانی که از جسم ضعیف خود سایه‌ای از سیمرغ بسازم و آن را نمایان کنم."
     },
     {
       "VOrder": 26,
@@ -555,7 +568,8 @@
       "Text": "گر بضمیرم نهد اندیشه پای",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: اگر در ذهن من افکاری به وجود آید، سنگینی افکار باعث می‌شود که احساس بی‌قراری کنم و از جایم تکان بخورم."
     },
     {
       "VOrder": 28,
@@ -571,7 +585,8 @@
       "Text": "ور بفشارد، قدمی در دلم",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: اگر احساس محبتی در دل من بیدار شود، حتی اگر تحت فشار هم باشم، قدمی به سوی او برمی‌دارم و این احساس مرا از حالت غم و اندوه بیرون می‌آورد."
     },
     {
       "VOrder": 30,
@@ -587,7 +602,8 @@
       "Text": "چون بضمیرم ، بپرد مرغ راز",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: وقتی که رازهای درونی‌ام بیان شود، دیگر نمی‌توانم مانند پرنده‌ای که در قفس است، خود را محدود کنم."
     },
     {
       "VOrder": 32,
@@ -603,7 +619,8 @@
       "Text": "مرغ سکون رم کند از دام من",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: مرغی که آرامش دارد، از بند من رهایی می‌یابد و به پرواز درمی‌آید، مانند جبریل که به بلندای آسمان می‌رود، خواسته‌ام برآورده می‌شود."
     },
     {
       "VOrder": 34,
@@ -619,7 +636,8 @@
       "Text": "جلوه بمعراج معانی کنم",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: من معانی عمیق را با زیبایی و جذابیت بیان می‌کنم و با زبانی شیوا و لطیف، آنها را به نمایش می‌گذارم."
     },
     {
       "VOrder": 36,
@@ -635,7 +653,8 @@
       "Text": "وصل توام روزن ایمان شود",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که ارتباط و نزدیکی با تو باعث می‌شود هر بخشی از وجودم به نور ایمان و حقیقت روشن شود و به نوعی باعث شگفتی و تغییر در وجودم می‌گردد."
     },
     {
       "VOrder": 38,
@@ -651,7 +670,8 @@
       "Text": "این زر اندوده بنه در گداز",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: این طلا را در جایی بگذار و در کنار آن به سکه اصلی‌اش نور بیشتری ببخش."
     },
     {
       "VOrder": 40,
@@ -667,7 +687,8 @@
       "Text": "تا نگرد چشم تماشای ما",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: تا وقتی که نگاه عاشقانه‌ام به تو نیفتد، نام تو بر روی دل‌نوشته‌های من نوشته نخواهد شد."
     },
     {
       "VOrder": 42,
@@ -683,7 +704,8 @@
       "Text": "از ثمرات تو محمد، یکیست",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: از دل‌نشینی‌ها و خوبی‌های تو محمد، یکی از آن‌ها درختی است که فقط اندکی میوه از باغ تو به ما رسیده است."
     },
     {
       "VOrder": 44,
@@ -699,7 +721,8 @@
       "Text": "اندکی اما گل مقصود از اوست",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: مقصود از وجود او تنها کمی است، اما همین کم هم باعث عطرآگینی دنیا و آخرت است."
     },
     {
       "VOrder": 46,
@@ -715,7 +738,8 @@
       "Text": "اندکی از میوه این بوستان",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: درختان این باغ میوه‌ای دارند که برای همه دوستان خوشایند و جذاب است."
     },
     {
       "VOrder": 48,
@@ -731,7 +755,8 @@
       "Text": "وای که در باغ تو این مرغ دون",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: ای کاش در باغ تو این پرنده‌ حقیر نتواند سرود دل‌نشینی را بخواند."
     },
     {
       "VOrder": 50,
@@ -747,7 +772,8 @@
       "Text": "کو پر جبریلی گلزار حال",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: کجا می‌توانم در دنیای سرسبز عشق تو پرنده‌ای مانند جبرئیل پیدا کنم تا بتوانم با آزادی به سوی تو پرواز کنم؟"
     },
     {
       "VOrder": 52,
@@ -763,7 +789,8 @@
       "Text": "میکده راز شود مشربم",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: در میکده رازها فاش می‌شود و وقتی که من سرود مستانه را سر می‌زنم، لبانم به سخن درمی‌آید."
     },
     {
       "VOrder": 54,
@@ -779,7 +806,8 @@
       "Text": "باز شود قفل زبان بستگی",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: زبان ما از قفل سکوت آزاد می‌شود و طعمی از سخن شیرین و شایسته را ارائه می‌دهد."
     },
     {
       "VOrder": 56,
@@ -795,7 +823,8 @@
       "Text": "رحمت خود بر دل عرفی گمار",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: خداوند مهربانی خود را بر دل عرفی نازل کند تا تقلا و سختی‌های زندگی از او دور شود."
     },
     {
       "VOrder": 58,
@@ -811,7 +840,8 @@
       "Text": "شام اجل کز در جان بگذرد",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: شب مرگ که از در جان عبور می‌کند، جهان پر از وجود و زیبایی نیز از میان می‌رود."
     },
     {
       "VOrder": 60,
@@ -827,7 +857,8 @@
       "Text": "از نفسش دور مکن جود را",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: نفس او را از بخشش دور نکن و نور شهادت را به این دودهی که به جا مانده، بده."
     },
     {
       "VOrder": 62,
@@ -843,7 +874,8 @@
       "Text": "مژده گلزار مخلد بده",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: خوشخبر باش که باغ جاودانی به وجود آمده است و از طریق دین محمد، راهی به سوی آن پیدا کن."
     },
     {
       "VOrder": 64,

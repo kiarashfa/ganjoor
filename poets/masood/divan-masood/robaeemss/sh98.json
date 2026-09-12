@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گر باد هوای کوی سرایت سپرد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر باد به سمت کوچه و خانه‌ات بیفتد، می‌دانی که جانم به خاطر تو در خطر است و تو این را می‌دانی."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "اندیشه نخواهم که به تو برگذرد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من نمی‌خواهم به تو فکر کنم، چون اگر به تو بیندیشم، حسرت می‌خورم از اینکه چشمانم فقط به تو نمی‌نگرند."
     },
     {
       "VOrder": 4,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "چون درد نداری، ای دل سرگردان",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دردی نداری، ای دل نگران، رفتن به سراغ دکتر بی‌فایده است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "درمان طلبد کسی که دردی دارد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که دردی دارد، به دنبال درمان می‌گردد، اما اگر تو خود دردی نداری، چرا به دنبال درمان هستی؟"
     },
     {
       "VOrder": 4,

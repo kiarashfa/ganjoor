@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "هر چند که عشق سخت نیکوکار است",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق هرچند که کارهای نیکو انجام می‌دهد، اما این یک مشکل است که فطرت انسان دچار نقص و بدی است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گر شهوت را تو عشق خوانی غلطی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر شهوت را با عشق یکی بدانی، در اشتباهی، زیرا فاصله زیادی بین شهوت و عشق وجود دارد."
     },
     {
       "VOrder": 4,

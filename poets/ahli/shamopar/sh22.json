@@ -221,7 +221,8 @@
       "Text": "چو شاهان شمع اگر رفتی بجایی",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: اگر مانند شاهان و درخشندگی شمع به جایی بروی، در آنجا همواره محبوب و مورد توجه دیگران خواهی بود."
     },
     {
       "VOrder": 2,
@@ -237,7 +238,8 @@
       "Text": "یکی خرگاه بد فانوس نامش",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: یک محل برای نگهداری خرها وجود دارد که به لامپ معروف است و در آنجا گاهی باد می‌وزد و مکانی برای استراحت خرها است."
     },
     {
       "VOrder": 4,
@@ -253,7 +255,8 @@
       "Text": "چه خرگاهی که بد از وی تعظیم",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: چه جایگاهی که از آن، تعظیم و احترام به ارمغان می‌آید؛ لباسی از حریر و جوی سیمی دارد."
     },
     {
       "VOrder": 6,
@@ -269,7 +272,8 @@
       "Text": "چو نخلی بسته از سیم و بربشم",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: شکلی همچون درختی که از نقره ساخته شده است و مردم آن را به دست گرفته و به همراه خود می‌برند."
     },
     {
       "VOrder": 8,
@@ -285,7 +289,8 @@
       "Text": "بدان خرگه زدن شمع از پی باد",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: بدان که شمعی که به خاطر وزش باد روشن شده، به پروانه‌ای که به آن نزدیک می‌شود، نور می‌دهد."
     },
     {
       "VOrder": 10,
@@ -301,7 +306,8 @@
       "Text": "روان فراشش آمد خرگه افراخت",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: یک روان‌شناسی ماهر به کمک فردی آمد و با برپایی سایه‌بان یا پناهگاهی برای او، وضعیتش را بهبود بخشید و او را در آغوش گرفت تا آرامش پیدا کند."
     },
     {
       "VOrder": 12,
@@ -317,7 +323,8 @@
       "Text": "چو در آن خانه گلگون درون شد",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: وقتی که او به آن خانه زیبا وارد شد، قدش مانند درخت سرو به بلندای ستون درآمد."
     },
     {
       "VOrder": 14,
@@ -333,7 +340,8 @@
       "Text": "ز چشم باد باشد تا رخش دور",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: از چشم باد خواهد بود تا چهره‌اش مانند حوری‌ها دور از دسترس شود، در حالی که درون هودج نورانی قرار دارد."
     },
     {
       "VOrder": 16,
@@ -349,7 +357,8 @@
       "Text": "چه هودج خانه یی چون دیده روشن",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: چه جایی منزلی چون دیده روشن است، اما مانند کعبه، آن را لباس پوشانده‌اند."
     },
     {
       "VOrder": 18,
@@ -365,7 +374,8 @@
       "Text": "ز دشمن شمع اگر چه بیم جان داشت",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: شاید از دشمن ترس جان داشته باشد، اما بر اساس حکم «من دخل» در آنجا، امنیت و اطمینان دارد."
     },
     {
       "VOrder": 20,
@@ -381,7 +391,8 @@
       "Text": "به گردش باد طوفی می نمودی",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: اگرچه با وزش باد می‌توانستی طوفانی به پا کنی، اما پروانه کم‌طاقتی و ناتوانی داشتی."
     },
     {
       "VOrder": 22,
@@ -397,7 +408,8 @@
       "Text": "عجب شمعی که بی پروانه او",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: شگفت‌انگیز است که این شمع بدون پروانه‌اش هیچ‌گاه نتوانسته است به خانه‌اش راهی پیدا کند."
     },
     {
       "VOrder": 24,
@@ -413,7 +425,8 @@
       "Text": "ز دست باد او کل لنگر افکند",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: از دست باد، او تمام لنگرها را در آن فانوسی که مانند غنچه است، رها کرد."
     },
     {
       "VOrder": 26,
@@ -429,7 +442,8 @@
       "Text": "چو شد نومید زو پروانه آشفت",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: زمانی که پروانه از او ناامید شد، ناراحت و پریشان گرد او می‌چرخید و با حسرت می‌گفت."
     },
     {
       "VOrder": 28,
@@ -445,7 +459,8 @@
       "Text": "برون از غنچه گر آید گل تر",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: اگر گل تازه‌ای بخواهد از غنچه بیرون بیاید، چرا گل من در غنچه‌ای دیگر باقی مانده است؟"
     },
     {
       "VOrder": 30,
@@ -461,7 +476,8 @@
       "Text": "چه پوشی شمع ایفانوس امشب",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: امشب چه پوشی بر شمع ایفانوس بزنم که آتش تو در لباس من شعله‌ور شود، ای پروردگار!"
     },
     {
       "VOrder": 32,
@@ -477,7 +493,8 @@
       "Text": "مرا جان سوخت از پیراهن تو",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: عشق من به تو آنقدر زیاد است که از زیبایی تو دلم می‌سوزد و آتش درونم به دامن تو منتقل می‌شود."
     },
     {
       "VOrder": 34,
@@ -493,7 +510,8 @@
       "Text": "مپوش از چشم من آن شمع محفل",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: ای آنکه دل تو سنگ است، از گریه‌ها و آه‌های من بترس و آن شمعی را که در محفل می‌درخشد، از دیدگان من پنهان نکن."
     },
     {
       "VOrder": 36,
@@ -509,7 +527,8 @@
       "Text": "مرا از وصل او گر، دیده دوزی",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: ای کاش تو هم مثل من به خاطر دیدن محبوب، دل‌تنگی را تجربه کنی. اگر چنین شود، دل تو نیز همانند دل من در آتش عشق بسوزد."
     },
     {
       "VOrder": 38,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "* چندان بخورم شراب، کاین بوی شراب",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا جایی که می‌توانم شراب بنوشم که بوی آن از خاک برآید، زمانی که زیر خاک بروم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گر بر سر خاک من رسد مَخموری",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی بر سر قبر من بیاید و مست باشد، با بوی شراب من به شدت مست و عاشق می‌شود."
     },
     {
       "VOrder": 4,

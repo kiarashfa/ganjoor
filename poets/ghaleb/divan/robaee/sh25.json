@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "دستم به کلید مخزنی می بایست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باید کلید در قفل بزنم، اما دستانم خالی است و چیزی برای ارائه ندارم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "یا هیچ گهم به کس نیفتادی یار",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یا هیچ‌گاه به کسی نرسیدی، ای دوست، یا اینکه مثل من باید با این دنیا زندگی کنی."
     },
     {
       "VOrder": 4,

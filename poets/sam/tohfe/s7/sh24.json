@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "از ولایت ساوه است این مطلع از اوست :",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: این متن از ولایت ساوه نشأت گرفته است."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "هر لحظه سوزد آه بنوعی دگر مرا",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر لحظه که می‌گذرد، دلی پر از حسرت دارم، چون کسی که محبوبش را با دیگری می‌بیند."
     },
     {
       "VOrder": 3,

@@ -247,7 +247,8 @@
       "Text": "خانه ما هست بسی تنگ‌تر",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: خانه ما به‌حدی تنگ است که حتی نمی‌توان آن را با فضای رحم مادر یا صلب پدر مقایسه کرد."
     },
     {
       "VOrder": 2,
@@ -263,7 +264,8 @@
       "Text": "هست همانا مثل ما در آن",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: وجود ما نیز همانند جنینی در رحم مادران است."
     },
     {
       "VOrder": 4,
@@ -279,7 +281,8 @@
       "Text": "حجره و صحنش همه بر روی هم",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: تمامی فضای حجره و صحن آن در مجموع پنج مرتبه دو ذرع اندازه‌گیری شده و این اندازه کمی کمتر از آنچه باید باشد، است."
     },
     {
       "VOrder": 6,
@@ -295,7 +298,8 @@
       "Text": "بر حجراتش کند ار کس عبور",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی به اتاق‌های او عبور کند و فاتحه‌ای بخواند، باید به یاد قبرها باشد."
     },
     {
       "VOrder": 8,
@@ -311,7 +315,8 @@
       "Text": "باد ز بیجائی و بیم فشار",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: باد که در حال وزیدن است، به خاطر بی‌مکانی و ترس از فشار، هیچ‌گاه به آن خانه نزدیک نمی‌شود."
     },
     {
       "VOrder": 10,
@@ -327,7 +332,8 @@
       "Text": "دورهٔ هر سال در آن غم سرا",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: هر سال، در این محفل غم‌انگیز می‌گذرد و به سختی، ماه به ما نزدیک می‌شود."
     },
     {
       "VOrder": 12,
@@ -343,7 +349,8 @@
       "Text": "سختی آن خانهٔ بد چار فصل",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: سختی زندگی و مشکلات آن در هر فصل و زمانی به مقایسه با خوشی‌ها و لحظات خوب گذرا از بین می‌رود و می‌توان از مشکلات گذر کرد. انسان در پیوند با دیگران و در لحظات خوب، می‌تواند بر سختی‌ها فائق آید."
     },
     {
       "VOrder": 14,
@@ -359,7 +366,8 @@
       "Text": "فصل زمستان نکند آفتاب",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در فصل زمستان، آفتاب هیچگاه به آن خانه نخواهد تابید و رفت و آمدی در آنجا وجود ندارد."
     },
     {
       "VOrder": 16,
@@ -375,7 +383,8 @@
       "Text": "واقعه برعکس بود در بهار",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: در بهار، اتفاقات به گونه‌ای دیگر رخ می‌دهند؛ در شب‌های تاریک، دیگر نمی‌توان به روشنی و زیبایی‌های آن چشم دوخت."
     },
     {
       "VOrder": 18,
@@ -391,7 +400,8 @@
       "Text": "لیک چو خورشید نماید طلوع",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اما هنگامی که خورشید طلوع کند، روشنایی و تابش آن در آنجا آغاز می‌شود."
     },
     {
       "VOrder": 20,
@@ -407,7 +417,8 @@
       "Text": "تا به شب آن خانه چو نیران کند",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: هنگامی که شب فرامی‌رسد، به نظر می‌رسد که آن خانه مانند آتش سوزی ویران می‌شود و گویی دینی به زمستان ادا می‌کند."
     },
     {
       "VOrder": 22,
@@ -423,7 +434,8 @@
       "Text": "الغرض آن خانه که باشد به دهر",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: این خانه، در دنیا به اندازه‌ای تنگ است که حتی برای نگاه کردن به آن، خیسی که در شهر وجود دارد، هم کم است."
     },
     {
       "VOrder": 24,
@@ -439,7 +451,8 @@
       "Text": "پر شده‌ امسال ز انبوه برف",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: امسال به خاطر برف زیاد، کوه‌ها به طور واضح و نمایان دیده می‌شوند."
     },
     {
       "VOrder": 26,
@@ -455,7 +468,8 @@
       "Text": "تنگ ز بس گشته بما آن قفس",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: ما از بس در این قفس تنگ گرفتار شده‌ایم، دیگر نمی‌توانیم نفس بکشیم."
     },
     {
       "VOrder": 28,
@@ -471,7 +485,8 @@
       "Text": "گویدمان برف که جای دگر",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: می‌گوید که برف به ما توصیه می‌کند که برای مکان و زمان مناسب، زودتر تصمیم بگیریم."
     },
     {
       "VOrder": 30,
@@ -487,7 +502,8 @@
       "Text": "زود ببندید از این خانه بار",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: زود دست از این خانه بردارید و از آن بیرون بروید، زیرا من در اینجا صاحب‌خانه هستم."
     },
     {
       "VOrder": 32,
@@ -503,7 +519,8 @@
       "Text": "حادثه بنگر که در این انقلاب",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: به وقوع حوادث نگاه کن که در این تغییر و تحول، دیوار او به طور کامل ویران شده است."
     },
     {
       "VOrder": 34,
@@ -519,7 +536,8 @@
       "Text": "حاصل این قصه بود بیدرنگ",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: این داستان نتیجه‌اش این است که وقتی کسی در شرایط سخت و دشواری قرار می‌گیرد، باید به کمک دیگران متوسل شود."
     },
     {
       "VOrder": 36,
@@ -535,7 +553,8 @@
       "Text": "بایدش از شکوه ببندد دهان",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: انسان باید در برابر شکایت و ناله‌ها سکوت کند، در غیر این صورت مشکلات و تنگی‌ها در زندگی بیشتر خواهد شد."
     },
     {
       "VOrder": 38,
@@ -551,7 +570,8 @@
       "Text": "ما که شکایت به زبان داشتیم",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: ما که از مشکلات خود به زبان می‌آوردیم، از محدودیت‌های محیط و فضا هم گلایه داشتیم."
     },
     {
       "VOrder": 40,
@@ -567,7 +587,8 @@
       "Text": "هیچ نبخشید شکایت اثر",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: هیچ کس از شکایت نتیجه‌ای نمی‌گیرد و این تنها باعث می‌شود که وضعیت بدتر و تنگ‌تر شود."
     },
     {
       "VOrder": 42,
@@ -583,7 +604,8 @@
       "Text": "چشم صغیر است به لطف خدای",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: چشمان کوچک و محدود ما، با عنایت و رحمت خداوند، در جستجوی گسترش و تغییر مکان هستند."
     },
     {
       "VOrder": 44,

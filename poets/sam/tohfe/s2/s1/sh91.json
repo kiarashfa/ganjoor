@@ -36,14 +36,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "از سادات بدخشان بود و سیدی آدمی صفت است این مطلع در منقبت از اوست :",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: او از سادات بدخشان بود و به صفات نیکو شناخته می‌شود. این مطلع در ستایش او است."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "هر گه رسم بخاک در مرتضی علی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر بار که به خاک امام علی (ع) می رسم، جانم را فدای او می کنم."
     },
     {
       "VOrder": 3,
@@ -63,7 +65,8 @@
       "Position": "Right",
       "Text": "چو حایل میشود زلف سیه بر ماه تابانش",
       "CoupletIndex": 3,
-      "SectionIndex1": 1
+      "SectionIndex1": 1,
+      "CoupletSummary": "هوش مصنوعی: وقتی که زلف‌های سیاه او بر چهره‌ی تابناک او سایه می‌اندازد، برای عاشقانی که به او نگاه می‌کنند، تفاوتی بین کفر و ایمان وجود ندارد."
     },
     {
       "VOrder": 6,

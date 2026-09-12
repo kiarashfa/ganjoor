@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای دل تو به عشق در نبینی بنشین",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دل، تو در عشق چیزی نمی‌بینی، بیا و بنشین تا چند کلمه‌ای بگویم. تو اینجا مرد نیستی، پس همین‌جا بنشین."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "اول زوجود خویش برخیز ای دل",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ابتدا از وجود خود بیدار شو، ای دل؛ سپس اگر می‌خواهی در غم عشق بنشینی، بنشین."
     },
     {
       "VOrder": 4,

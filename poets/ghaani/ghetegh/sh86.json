@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای برادر گرت خطایی رفت",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای برادر، اگر اشتباهی از تو سر زد، بهانه‌ی دروغین نیاور."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "کان دروغت بود خطای دگر",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دروغ تو باعث شد خطایی دیگر رخ دهد که بار دیگر نور تو را از بین ببرد."
     },
     {
       "VOrder": 4,

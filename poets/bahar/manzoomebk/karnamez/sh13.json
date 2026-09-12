@@ -381,7 +381,8 @@
       "Text": "نمرهٔ دو بُوَد چو نمرهٔ یَک",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: دو به اندازهٔ یک است، اما کمی بیشتر از آن فضا دارد."
     },
     {
       "VOrder": 2,
@@ -397,7 +398,8 @@
       "Text": "نیست دیوار او سیه چو زغال",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: دیوار او به سیاهی زغال نیست، بلکه تیغه‌ای است که بین محبس و بی‌مبالاتی قرار دارد."
     },
     {
       "VOrder": 4,
@@ -413,7 +415,8 @@
       "Text": "هست بر سقف او یکی روزن",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: بر سقف این مکان یک روزنه وجود دارد که از آنجا نور به درون می‌تابد و باعث روشن شدن فضای درونی می‌شود، در حالی که این مکان به نوعی زندان محسوب می‌شود."
     },
     {
       "VOrder": 6,
@@ -429,7 +432,8 @@
       "Text": "روی در نیز هست پنجره‌ای",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: بر روی این در، پنجره‌ای وجود دارد که از هر طرف باد و هوا به درون می‌آید."
     },
     {
       "VOrder": 8,
@@ -445,7 +449,8 @@
       "Text": "در بر نمرهٔ یک این نمره",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: اگر در مکان خاصی نشسته‌ای، همانند این است که در ظرفی خاص قرار داری. در واقع، ایراد و ویژگی‌های آن مکان به تو ارتباط می‌یابد."
     },
     {
       "VOrder": 10,
@@ -461,7 +466,8 @@
       "Text": "محبس قصر بهتر از شهر است",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: زندان قصر نسبت به شهر بهتر است، چون از نور و پاکیزگی بیشتری برخوردار است."
     },
     {
       "VOrder": 12,
@@ -477,7 +483,8 @@
       "Text": "هرکه این کاخ ساخته است به شهر",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: آن کسی که این ساختمان را ساخته، در شهر زندگی می‌کند و با مردم آنجا رابطه خوبی ندارد."
     },
     {
       "VOrder": 14,
@@ -493,7 +500,8 @@
       "Text": "شمس را اندر او نظارت نیست",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در درون او نور شمس وجود ندارد، همان‌طور که آفتاب در این بنا حضور ندارد."
     },
     {
       "VOrder": 16,
@@ -509,7 +517,8 @@
       "Text": "آن که خدام و آن که مخدومند",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: هر دو گروه، خدمت‌گزاران و خدمت‌گیرندگان، از نور و برکت الهی به دور هستند."
     },
     {
       "VOrder": 18,
@@ -525,7 +534,8 @@
       "Text": "رؤسا را چو حال آن باشد",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اگر حال رؤسای جامعه اینگونه باشد، وضعیت زندانیان چگونه خواهد بود؟"
     },
     {
       "VOrder": 20,
@@ -541,7 +551,8 @@
       "Text": "مر مرا زآن فضای پست وزبون",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: مرا از آن محیط پست و سطحی رنگ و روی آن روز جدا کردند."
     },
     {
       "VOrder": 22,
@@ -557,7 +568,8 @@
       "Text": "شده خاص من اندربن اوقات",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: در این زمان، یک فضای مخصوص و منحصر به فرد برای من در گوشه‌ای آرام و دلنشین فراهم شده است."
     },
     {
       "VOrder": 24,
@@ -573,7 +585,8 @@
       "Text": "یکی از دوستان پاک‌ضمیر",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: یکی از دوستان نیک‌سرشت، در برابر امیر، شجاعت و استقامت از خود نشان داد."
     },
     {
       "VOrder": 26,
@@ -589,7 +602,8 @@
       "Text": "این فلاحم ز پایمردی اوست",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: این موفقیت من به خاطر پایداری و حمایت اوست. آیا کسی بهتر از دوست در روزهای سخت وجود دارد؟"
     },
     {
       "VOrder": 28,
@@ -605,7 +619,8 @@
       "Text": "زی‌من این حجره «‌بیت عاتکه‌» بود",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: این اتاق به خاطر من به «بیت عاتکه» تبدیل شده است و این اتفاق نتیجه‌ی خیر و برکت خاندان برامکه است."
     },
     {
       "VOrder": 30,
@@ -621,7 +636,8 @@
       "Text": "من‌خود این حجره دیده‌ام ‌دو سه راه",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: من خود این اتاق را دیده‌ام و در آنجا دو یا سه بار حضور داشته‌ام، اما هیچ‌گاه گناهی نکرده‌ام."
     },
     {
       "VOrder": 32,
@@ -637,7 +653,8 @@
       "Text": "یک سفر یار «‌رهنما» بودیم",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: ما یک سفر را به عنوان راهنما آغاز کرده بودیم و از جمله کسانی بودیم که به دلیل یک کودتا به اسیری در آمده بودیم."
     },
     {
       "VOrder": 34,
@@ -653,7 +670,8 @@
       "Text": "سید هاشم بدند و ساعت‌ساز",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: سید هاشم بدجنس و ساعت‌ساز، هر دو در یک قفس و در کنار هم زندگی می‌کنند."
     },
     {
       "VOrder": 36,
@@ -669,7 +687,8 @@
       "Text": "بود «‌تیمورتاش» یک مره",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: یک بار در این اتاق «تیمورتاش» را دیدم."
     },
     {
       "VOrder": 38,
@@ -685,7 +704,8 @@
       "Text": "بار دیگر به دور «‌درگاهی‌»",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: دوباره به دور در ورودی، به خاطر دشمنی و نیت‌های منفی تجمع کرده‌ایم."
     },
     {
       "VOrder": 40,
@@ -701,7 +721,8 @@
       "Text": "پانزده روز داشتم دربند",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: مدت پانزده روز در زندان بودم و اکنون در این اتاق زندانی شده‌ام."
     },
     {
       "VOrder": 42,
@@ -717,7 +738,8 @@
       "Text": "بازم این بار بی‌خطا وگناه",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: باز هم در این بار، بخت بد بدون هیچ اشتباه و گناهی مجدداً در این اتاق مرا از راه می‌اندازد."
     },
     {
       "VOrder": 44,
@@ -733,7 +755,8 @@
       "Text": "این اطاقی است رو به شارع عام",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: این اتاقی است که به خیابان پر جنب و جوش و شلوغی نگاه می‌کند، از صبح تا عصر پر سر و صداست."
     },
     {
       "VOrder": 46,
@@ -749,7 +772,8 @@
       "Text": "چون ز محبس کنی نگاه به کوی",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: وقتی از زندان آزاد شوی و به سمت خیابان نگاه کنی، صدای زیبای چهره‌ات را می‌شنوی که به تو پاسخ می‌دهد."
     },
     {
       "VOrder": 48,
@@ -765,7 +789,8 @@
       "Text": "بودیم گر ودیعه‌ها بر «‌بانک‌»",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: اگر ما سرمایه‌هایمان را در بانک نگه دارید، چه زمانی می‌توانیم در مقابل بانک قرار بگیریم؟"
     },
     {
       "VOrder": 50,
@@ -781,7 +806,8 @@
       "Text": "صاحب «‌بانک‌» می‌شدم چون شاه",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: اگر من صاحب بانک می‌شدم، مانند یک پادشاه زندگی می‌کردم و نه اینکه تنها به این بانک خشک و بی‌روح در ذهن مردم اکتفا کنم."
     },
     {
       "VOrder": 52,
@@ -797,7 +823,8 @@
       "Text": "تکیه بر دانش و هنر کردم",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: به علم و هنر تکیه کردم و بر ثروت و جواهرات تکیه زدم."
     },
     {
       "VOrder": 54,
@@ -813,7 +840,8 @@
       "Text": "«‌بانک‌» من بانک دانش و ادب است",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: من مرکز و منبع دانش و ادب هستم، در حالی که او منبع ثروت و جواهرات است."
     },
     {
       "VOrder": 56,
@@ -829,7 +857,8 @@
       "Text": "وارث این «‌بانک‌» را تمام کند",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: وارث این بانک باید کار آن را به پایان برساند، تا بانک من برای همیشه پایدار بماند."
     },
     {
       "VOrder": 58,
@@ -845,7 +874,8 @@
       "Text": "من و او چون رویم ازین مسکن",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: وقتی که من و او از این مکان دور شویم، صدای او همچنان در گوش من باقی می‌ماند و صدای من هم از او فراموش نمی‌شود."
     },
     {
       "VOrder": 60,
@@ -861,7 +891,8 @@
       "Text": "بانک من نور و بانک او نار است",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: صدای من نور بخش و روشنگر است، اما صدای او آتش و خشم است. نور من نشانه‌ی نام و افتخار است، در حالی که آتش او به نوعی ننگ و عیب تبدیل شده است."
     },
     {
       "VOrder": 62,
@@ -877,7 +908,8 @@
       "Text": "فاش گردد چو شد زمان حسیب",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: زمانی خواهد آمد که حقیقت مشخص خواهد شد و همه متوجه خواهند شد که چه کسی به فریب و چاپلوسی دچار شده است، چه من و چه او."
     },
     {
       "VOrder": 64,
@@ -893,7 +925,8 @@
       "Text": "زر و زور از تو دست‌بردار است",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: مال و قدرت از تو فاصله می‌گیرند، چیزهایی که با تو هستند، فقط رفتار و کردار توست."
     },
     {
       "VOrder": 66,
@@ -909,7 +942,8 @@
       "Text": "کرده آن به که نام زاید از او",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: آنکه نامش باعث می‌شود دیگران احترام و شرف پیدا کنند، از او ارزش و بزرگی ناشی می‌شود."
     },
     {
       "VOrder": 68,
@@ -925,7 +959,8 @@
       "Text": "زان که بی‌شبهه اعتبار اینجاست",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: زیرا بدون تردید، ارزش و مقام و افتخار در اینجا وجود دارد."
     },
     {
       "VOrder": 70,

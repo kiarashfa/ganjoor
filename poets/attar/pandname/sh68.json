@@ -151,7 +151,8 @@
       "Text": "گر کنی خیری به دست خویش کن",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: اگر کار خوبی از دست خودت برآید، آن را برای کمک به دیگران بکار ببر و خیرت را نذر هر نیازمندی کن."
     },
     {
       "VOrder": 2,
@@ -167,7 +168,8 @@
       "Text": "یک درم کان را به دست خود دهند",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "یک درهم اگر خود ببخشی بهتر از صد درهم است که پس از مرگت ببخشی."
     },
     {
       "VOrder": 4,
@@ -183,7 +185,8 @@
       "Text": "گر ببخشی خود یکی خرمای تر",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: اگر تو مرا ببخشی و یک خرمای تازه به من بدهی، از صد مثقال طلا پس از تو برایم ارزش بیشتری دارد."
     },
     {
       "VOrder": 6,
@@ -199,7 +202,8 @@
       "Text": "هر چه بخشیدی مکن با او رجوع",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "حتی اگر نیاز پیدا کردی چیزی را که بخشیدی پس مخواه"
     },
     {
       "VOrder": 8,
@@ -215,7 +219,8 @@
       "Text": "این بدان ماند که شخصی قی کند",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "(پس خواستن بخشیده زشت است) مانند این که شخصی استفراغ خود را بخورد."
     },
     {
       "VOrder": 10,
@@ -231,7 +236,8 @@
       "Text": "با پسر گر چیزکی بخشد پدر",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: اگر پدر کمی چیزی به پسر بدهد، به او نزدیک‌تر می‌شود، اما اگر آن را از او پس بگیرد، رابطه‌شان دچار مشکل خواهد شد."
     },
     {
       "VOrder": 12,
@@ -247,7 +253,8 @@
       "Text": "ای پسر با مال و زر شادی مجوی",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "به مال و ثروت دل مبند و هرچه را به کسی بخشیده‌ای را در جایی مگو."
     },
     {
       "VOrder": 14,
@@ -263,7 +270,8 @@
       "Text": "شادی دنیا سراسر غم بود",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: شادی‌های دنیا در حقیقت پر از غم و اندوه هستند و جشن آن، در واقع پشتوانه‌ای از حسرت و غم را به همراه دارد."
     },
     {
       "VOrder": 16,
@@ -279,7 +287,8 @@
       "Text": "امر «لا تفرح» ز دنیا گوش دار",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: در این دنیا به خوشحالی و شادی دل خوش نکن، زیرا دنیا مکان مناسبی برای شادی نیست و باید هوشیار بود."
     },
     {
       "VOrder": 18,
@@ -295,7 +304,8 @@
       "Text": "شادمان را ندارد دوست حق",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: دوست شادمان برای خودش جایگاهی ندارد، چون این را از معلمان آموخته‌ام."
     },
     {
       "VOrder": 20,
@@ -311,7 +321,8 @@
       "Text": "گر فرح داری ز فضل حق رواست",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "اگر شادی تو از فضل حق است رواست درغیر اینصورت شادی از دنیا خطاست."
     },
     {
       "VOrder": 22,
@@ -327,7 +338,8 @@
       "Text": "ای پسر با محنت و غم خوی کن",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: ای پسر، با سختی‌ها و غم‌ها روبرو شو و به جای دلخوری، به دنبال دلجویی و آرامش بگرد."
     },
     {
       "VOrder": 24,

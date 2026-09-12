@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "ای به بالات راست کسوت ناز",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که در بالای خود، لباس ناز و زیبایی داری، دو جهان در مقابل در تو به ناتوانی و احتیاج ایستاده‌اند."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "کوته است از حصار قلعه عشق",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق به قدری قوی است که حتی اگر مشکلات و فتنه‌ها به وجود بیاید، نمی‌توانند مانع آن شوند. در واقع، عشق بلندتر از هرگونه موانع و چالش‌هاست."
     },
     {
       "VOrder": 4,
@@ -55,7 +57,8 @@
       "Position": "Right",
       "Text": "دل مسکین طپان از آن خم زلف",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل بی‌چاره‌ام به خاطر آن موهای تابدار مانند کبوتر، مثل کبوتر در چنگال شکارچی می‌زند."
     },
     {
       "VOrder": 6,
@@ -69,7 +72,8 @@
       "Position": "Right",
       "Text": "هر که افتاد در کمند بتان",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرکس که در دام زیبایی‌های محبوبان بیفتد، نمی‌توانند او را رها کنند تا وقتی که دوباره به آنجا برگردد."
     },
     {
       "VOrder": 8,
@@ -83,7 +87,8 @@
       "Position": "Right",
       "Text": "دوخته بازویش زدیدن غیر",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او چنان مهارت دارد که هرگز به غیر از خود نظر نمی‌اندازد و وقتی تو را می‌بیند، تمام حواسش به تو جلب می‌شود."
     },
     {
       "VOrder": 10,
@@ -97,7 +102,8 @@
       "Position": "Right",
       "Text": "در سرائی که میهمان شد عشق",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در جایی که عشق به مهمانی آمده، عقل او به خاطر عشق منحرف شده و توانایی درک واقعیات را از دست داده است."
     },
     {
       "VOrder": 12,
@@ -111,7 +117,8 @@
       "Position": "Right",
       "Text": "پرتو شمع خواست پروانه",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پروانه به نور شمع می‌نگرد و از او می‌خواهد که بسوزد، زیرا از سختی و نادانی معشوق رنج می‌برد و به همین دلیل می‌کوشد با این درد کنار بیاید."
     },
     {
       "VOrder": 14,
@@ -125,7 +132,8 @@
       "Position": "Right",
       "Text": "چشم بودم بر آن کمان ابرو",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم من به آن کمان ابرو بود، غافل از چشمان تیرانداز."
     },
     {
       "VOrder": 16,
@@ -139,7 +147,8 @@
       "Position": "Right",
       "Text": "پرنیان است خار راه حجاز",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در مسیر عشق، حتی سختی‌ها و مشکلات نیز به شکل زیبا و باارزشی ظاهر می‌شوند و نشان‌دهنده‌ی شرافت و افتخار هستند."
     },
     {
       "VOrder": 18,
@@ -153,7 +162,8 @@
       "Position": "Right",
       "Text": "ببرد عشقت ای نگار خجند",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق تو مرا به شدت می‌برد و شوق و ناز تو همچون بت دلربا می‌گیرد."
     },
     {
       "VOrder": 20,
@@ -167,7 +177,8 @@
       "Position": "Right",
       "Text": "شوق لیلی زخاطر مجنون",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شوق لیلی در دل مجنون، زیبایی و خوشی محمود را از افکار ایاز تحت تأثیر قرار می‌دهد."
     },
     {
       "VOrder": 22,
@@ -181,7 +192,8 @@
       "Position": "Right",
       "Text": "گل چو از چهره پرده بردارد",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی گل زیبایی‌اش را نشان دهد، بلبل سرمست شروع به آواز خوانی می‌کند."
     },
     {
       "VOrder": 24,
@@ -195,7 +207,8 @@
       "Position": "Right",
       "Text": "ای شهنشاه کشور توحید",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای پادشاه سرزمین یگانگی، ای علی، ای نگهبان اسرار."
     },
     {
       "VOrder": 26,
@@ -209,7 +222,8 @@
       "Position": "Right",
       "Text": "همچو مرغی که اوفتد بقفس",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مانند پرنده‌ای که در قفس گرفتار شده و ناآرام است، تو نیز در شیراز دچار سردرگمی و پریشانی هستی."
     },
     {
       "VOrder": 28,
@@ -223,7 +237,8 @@
       "Position": "Right",
       "Text": "باز کن بال او زدست کرم",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اجازه بده تا او بال و پرش را باز کند و با لطف و مهربانی، در هوای تو پرواز کند."
     },
     {
       "VOrder": 30,

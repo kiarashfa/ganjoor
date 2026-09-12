@@ -86,7 +86,8 @@
       "Text": "تا چند عمر خود بجوانان بسر کنیم",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: چقدر باید عمر خود را در کنار جوانان بگذرانیم؟ از این به بعد از عشق‌های بی‌محتوا و سطحی دوری کنیم."
     },
     {
       "VOrder": 2,
@@ -102,7 +103,8 @@
       "Text": "در سینه هر چه هست ز غیرش بدر کنیم",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: در دل هر چه داریم باید از غیر محبوب خالی کنیم، ای معشوق، بیایید و از این دنیا و مسائل آن گذر کنیم."
     },
     {
       "VOrder": 4,
@@ -118,7 +120,8 @@
       "Text": "با یاد دوست از همه قطع نظر کنیم",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: با یاد دوست، همه چیز را فراموش کنیم."
     },
     {
       "VOrder": 6,
@@ -126,7 +129,8 @@
       "Text": "آن قادریکه خیل ملک از جلال اوست",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: آن کسی که قدرتش باعث افتخار و عظمت فرشتگان است، بسیار سخن‌ها و پرسش‌ها در مورد او وجود دارد."
     },
     {
       "VOrder": 7,
@@ -142,7 +146,8 @@
       "Text": "ارض و سما و عرش ز وصف کمال اوست",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: زمین و آسمان و عرش به دلیل کمال او وجود دارند و ذرات عالم مانعی برای دیدن زیبایی او هستند."
     },
     {
       "VOrder": 9,
@@ -158,7 +163,8 @@
       "Text": "آهی کشیم و آنهمه زیر و زبر کنیم",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: ما از دل ناله‌ای می‌زنیم و همه چیز را به هم می‌ریزیم."
     },
     {
       "VOrder": 11,
@@ -166,7 +172,8 @@
       "Text": "آن پیر پاک در صدف اینچنین بسفت",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: آن فرد سالخورده و پاک، در دل این صدف، داستانی را به ویژه درباره‌ی لعل (گوهری) در دل خود پنهان کرده است."
     },
     {
       "VOrder": 12,
@@ -182,7 +189,8 @@
       "Text": "هجر ترا کشید بهر کس سخن نگفت",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: دوست داشتن تو باعث شد که دیگران را فراموش کنم و از کسی حرفی نزنم. وقتی پرسیدند حال و احوال تو چطور است، جواب دادم که این حال تا ابد ادامه خواهد داشت."
     },
     {
       "VOrder": 14,
@@ -198,7 +206,8 @@
       "Text": "با وعده وصال ترا در بدر کنیم",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: با امید دیدار تو، دوری را تحمل می‌کنیم."
     },
     {
       "VOrder": 16,
@@ -206,7 +215,8 @@
       "Text": "با ما ز لطف خویش سفر وعده کرد یار",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: یار با محبت و مهربانی‌اش به ما وعده سفر داده و از درخت نخل میوه خوشبو و شیرین را وعده کرده است."
     },
     {
       "VOrder": 17,
@@ -222,7 +232,8 @@
       "Text": "یکحرف ازان دو لعل شکر وعده کرد یار",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: یاری وعده داد که یک کلام از لبان شیرینش بگوید و دیدار خود را به زمانی دیگر و به مکانی دیگر موکول کرد."
     },
     {
       "VOrder": 19,
@@ -238,7 +249,8 @@
       "Text": "خیزید عاشقان همه عزم سفر کنیم",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: ای عاشقان، برخیزید و آماده سفر شوید."
     },
     {
       "VOrder": 21,
@@ -246,7 +258,8 @@
       "Text": "در راه دوست اینهمه سوز و گداز چیست",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: در مسیر دوست، این همه مشکلات و درد و رنج برای چیست؟ وقتی که غرق جمال تو هستم، برای چه به نماز اهمیت دهم؟"
     },
     {
       "VOrder": 22,
@@ -262,7 +275,8 @@
       "Text": "اندر نماز عشق مجازی نیاز چیست",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: در میان عشق دنیوی، چرا به نیاز فکر کنیم؟ این داستان طولانی و پیچیده چیست؟"
     },
     {
       "VOrder": 24,
@@ -278,7 +292,8 @@
       "Text": "عشقست هر چه هست سخن مختصر کنیم",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: هر آنچه که هست، نشان از عشق است، پس بیایید سخن را کوتاه کنیم."
     }
   ]
 }

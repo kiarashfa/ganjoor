@@ -320,7 +320,8 @@
       "Text": "یا ساقی اسقنی براح",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: ای ساقی، به من شراب بده تا زودتر بنوشم، زیرا صبح من به پایان می‌رسد."
     },
     {
       "VOrder": 2,
@@ -337,7 +338,8 @@
       "CoupletIndex": 1,
       "SectionIndex1": 0,
       "SectionIndex2": 16,
-      "SectionIndex3": 17
+      "SectionIndex3": 17,
+      "CoupletSummary": "هوش مصنوعی: ای معتمد و درمانگر، تو در حقیقت نور و روشنی تمامی زوایا و جوانب هستی."
     },
     {
       "VOrder": 4,
@@ -354,7 +356,8 @@
       "Text": "یا ساقیتی و نور عینی",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای ساقی، تو روشنی چشمان منی و آرامش دل من."
     },
     {
       "VOrder": 6,
@@ -371,7 +374,8 @@
       "CoupletIndex": 3,
       "SectionIndex1": 0,
       "SectionIndex2": 16,
-      "SectionIndex3": 18
+      "SectionIndex3": 18,
+      "CoupletSummary": "هوش مصنوعی: این عبارت به این معناست که شاید تو مانند بدر ماه درخشان هستی، یا نزدیکان من و یا کسی که به من اعتماد دارد."
     },
     {
       "VOrder": 8,
@@ -388,7 +392,8 @@
       "Text": "چون از رخ او نظر ربودی",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: هر بار که به چهره او نگاه می‌کنی، در هر لحظه که در خودت غرق می‌شوی، این احساس را تجربه می‌کنی."
     },
     {
       "VOrder": 10,
@@ -405,7 +410,8 @@
       "CoupletIndex": 5,
       "SectionIndex1": 0,
       "SectionIndex2": 16,
-      "SectionIndex3": 19
+      "SectionIndex3": 19,
+      "CoupletSummary": "هوش مصنوعی: بدون وجود عشق، آیا می‌توان دودی وجود داشت؟ همچون معتمدی یا شفایی."
     },
     {
       "VOrder": 12,
@@ -422,7 +428,8 @@
       "Text": "قد جاء قلندر مباحی",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: یک عارف آزاد و بی‌قید به مجلس می‌آید و از ساقی می‌خواهد که جلوتر بیاید و از جامش بگذارد."
     },
     {
       "VOrder": 14,
@@ -439,7 +446,8 @@
       "CoupletIndex": 7,
       "SectionIndex1": 0,
       "SectionIndex2": 16,
-      "SectionIndex3": 20
+      "SectionIndex3": 20,
+      "CoupletSummary": "هوش مصنوعی: بگذار تا صبح برسانمت به آنچه که می‌خواهی، ای کسی که به من اعتماد داری یا ای کسی که شفایم می‌دهی."
     },
     {
       "VOrder": 16,
@@ -456,7 +464,8 @@
       "Text": "زان روی که جان و جان فزایی",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: به خاطر آن چهره‌ی دل‌فریب تو، که زندگی و نشاط را از یک نگاه به من می‌بخشد."
     },
     {
       "VOrder": 18,
@@ -473,7 +482,8 @@
       "CoupletIndex": 9,
       "SectionIndex1": 0,
       "SectionIndex2": 16,
-      "SectionIndex3": 21
+      "SectionIndex3": 21,
+      "CoupletSummary": "هوش مصنوعی: تو حق داری که بی‌وفا باشی یا اینکه به کسی اعتماد کنی یا مثل یک پزشک اقدام کنی."
     },
     {
       "VOrder": 20,
@@ -490,7 +500,8 @@
       "Text": "سر دست بر آن قرار بودن",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: در زمان خزان، بهار را در نظر داشتن و بر این اساس زندگی کردن."
     },
     {
       "VOrder": 22,
@@ -507,7 +518,8 @@
       "CoupletIndex": 11,
       "SectionIndex1": 0,
       "SectionIndex2": 16,
-      "SectionIndex3": 22
+      "SectionIndex3": 22,
+      "CoupletSummary": "هوش مصنوعی: داشتن یک همدم یا یار که به صورت ناگهانی از دست رفته و دور شده، یا اینکه در کنار او بایستی به عنوان یک پشتیبان و محرم یا به عنوان کسی که می‌تواند درمانگر دردهایش باشد."
     },
     {
       "VOrder": 24,
@@ -524,7 +536,8 @@
       "Text": "زان رو که ز هر خسیم خسته",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: به خاطر اینکه از هر درد و رنجی رهایی یافته‌ام، ای ماه خوش‌چهره، رازهای تو را می‌دانم."
     },
     {
       "VOrder": 26,
@@ -541,7 +554,8 @@
       "CoupletIndex": 13,
       "SectionIndex1": 0,
       "SectionIndex2": 16,
-      "SectionIndex3": 23
+      "SectionIndex3": 23,
+      "CoupletSummary": "هوش مصنوعی: ما می‌گوییم، اما این سخن همچنان در دل مانده است، یا به کسی اعتماد داریم یا درمانی می‌یابیم."
     },
     {
       "VOrder": 28,
@@ -558,7 +572,8 @@
       "Text": "در عشق درآمدی بچستی",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: در عشق وارد شدی و به آن دل سپردی، و سپس در جایگاه ما قرار گرفتی."
     },
     {
       "VOrder": 30,
@@ -575,7 +590,8 @@
       "CoupletIndex": 15,
       "SectionIndex1": 0,
       "SectionIndex2": 16,
-      "SectionIndex3": 24
+      "SectionIndex3": 24,
+      "CoupletSummary": "هوش مصنوعی: ما پیمان بستیم، اما تو به آن پیمان وفا نکردی؛ یا این کار از روی اعتماد بوده یا به خاطر ناتوانی در عمل."
     },
     {
       "VOrder": 32,
@@ -592,7 +608,8 @@
       "Text": "زین آتش در هزار داغیم",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: ما از این آتش در دردی شدید گرفتاریم و از این درد، به اندازه‌ی صدها باغ، رنج می‌بریم."
     },
     {
       "VOrder": 34,
@@ -609,7 +626,8 @@
       "CoupletIndex": 17,
       "SectionIndex1": 0,
       "SectionIndex2": 16,
-      "SectionIndex3": 25
+      "SectionIndex3": 25,
+      "CoupletSummary": "هوش مصنوعی: به خاطر ذوق و سلیقه تو، ما مانند چراغی در دل تاریکی هستیم، آیا تو معتمدی یا شفایی؟"
     },
     {
       "VOrder": 36,
@@ -626,7 +644,8 @@
       "Text": "گویند که: « در جفاست، اسرار »",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: می‌گویند که اسرار در جفا و سخت‌گیری است، اما من به خاطر عشق آن معشوق به این حرف‌ها ایمان آورده‌ام."
     },
     {
       "VOrder": 38,
@@ -643,7 +662,8 @@
       "CoupletIndex": 19,
       "SectionIndex1": 0,
       "SectionIndex2": 16,
-      "SectionIndex3": 26
+      "SectionIndex3": 26,
+      "CoupletSummary": "هوش مصنوعی: این کار نه از روی بدخواهی است و نه بی‌دلیل؛ یا به خاطر یک مسئولیت است و یا به خاطر یک دوستی."
     },
     {
       "VOrder": 40,
@@ -660,7 +680,8 @@
       "Text": "ای دل تو به عشق چند جوشی؟!",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: ای دل، تا کی در عشق شور و هیجان داری؟! چه زمانی از عشق و شوق دست خواهی کشید؟"
     },
     {
       "VOrder": 42,
@@ -677,7 +698,8 @@
       "CoupletIndex": 21,
       "SectionIndex1": 0,
       "SectionIndex2": 16,
-      "SectionIndex3": 27
+      "SectionIndex3": 27,
+      "CoupletSummary": "هوش مصنوعی: در عشق، هم سکوت خوب است و هم اعتماد و هم شفا."
     },
     {
       "VOrder": 44,
@@ -694,7 +716,8 @@
       "Text": "ای نقش خیال شهره یاری",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: ای تصویری که در ذهن ما شهرت داری، از نظر ما دور شو، ای کاش!"
     },
     {
       "VOrder": 46,
@@ -711,7 +734,8 @@
       "CoupletIndex": 23,
       "SectionIndex1": 0,
       "SectionIndex2": 16,
-      "SectionIndex3": 28
+      "SectionIndex3": 28,
+      "CoupletSummary": "هوش مصنوعی: ای که از چهره‌ات یادگاری دارم، یا به مانند معتمد و اعتمادم هستی و یا شفابخش دردهایم."
     },
     {
       "VOrder": 48,
@@ -728,7 +752,8 @@
       "Text": "ای باغ بمانده از بهاری",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: ای باغی که از بهار باقی مانده‌ای، گل‌ها رفته‌اند و تنها سبزه‌هایی باقی مانده‌اند."
     },
     {
       "VOrder": 50,
@@ -745,7 +770,8 @@
       "CoupletIndex": 25,
       "SectionIndex1": 0,
       "SectionIndex2": 16,
-      "SectionIndex3": 29
+      "SectionIndex3": 29,
+      "CoupletSummary": "هوش مصنوعی: اگر صبر پیشه کنی، یا به کسی اعتماد داری و یا در انتظار درمانی هستی."
     },
     {
       "VOrder": 52,
@@ -762,7 +788,8 @@
       "Text": "من پند تو یار می‌گزینم",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: من برای خودم دوست و همدمی انتخاب می‌کنم، اما در دل من همیشه شمس دین تبریزی جا دارد."
     },
     {
       "VOrder": 54,
@@ -779,7 +806,8 @@
       "CoupletIndex": 27,
       "SectionIndex1": 0,
       "SectionIndex2": 16,
-      "SectionIndex3": 30
+      "SectionIndex3": 30,
+      "CoupletSummary": "هوش مصنوعی: در آتش عشق، یا به اعتماد کسی هستم که مرا ملزم به حرف‌هایی کرده، یا به کسی که در حال بهبودی و درمان من است."
     },
     {
       "VOrder": 56,

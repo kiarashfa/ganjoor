@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "خوشا دردی که درمانش تو باشی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خوشا آن درد که تو تنها درمان آن باشی و خوشا آن راه که تو خود انتهای آن باشی."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "خوشا چشمی که رخسار تو بیند",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چه زیباست چشمی که بتواند چهره‌ات را ببیند و چه نیکوست سرزمینی که تو در آن پادشاهی."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "خوشا آن دل که دلدارش تو گردی",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چه خوب است دلی که معشوقش تو باشی و چه خوشبخت است جانی که محبوبش تو باشی."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "خوشی و خرمی و کامرانی",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که تو آرزوی او را داشته باشی، خوشبخت و شاداب خواهد بود."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "چه خوش باشد دل امیدواری",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل امیدوار خوشحال است، چرا که امید و آرزوی او تو هستی."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "همه شادی و عشرت باشد ای دوست",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دوست، در خانه‌ای که تو مهمانش هستی، همه شادی و خوشی و خوشبختی باید وجود داشته باشد."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "گل و گلزار خوش آید کسی را",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که به زیبایی و دلنشینی گل و باغ علاقه دارد، باید بداند که زیبایی واقعی و دلنواز در وجود تو نهفته است."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "چه باک آید ز کس آن را که او را",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی نگهبان و حمایت کننده‌ات باشد، نباید از دیگران نگران باشی."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "مپرس از کفر و ایمان بی‌دلی را",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از کسی که دلش خالی است و به کفر و ایمان فکر می‌کند، چیزی نپرس. زیرا هر دو حالت کفر و ایمان از خود تو نشأت می‌گیرد."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "مشو پنهان از آن عاشق که پیوست",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از آن عاشق که همیشه به تو توجه دارد، پنهان مشو، چون او در هر حال تو را می‌بیند، چه در زوایای پیدا و چه در خفا."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "برای آن به تَرکِ جان بگوید",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل بیچاره‌ای که می‌داند زندگی‌اش به تو وابسته است، حاضر است جانش را فدای تو کند."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "عراقی طالب درد است دایم",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عراقی همیشه به دنبال درد است، به این امید که تو کسی باشی که بتوانی او را درمان کنی."
     },
     {
       "VOrder": 24,

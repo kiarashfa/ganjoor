@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای چرخ ز گردش تو خرسند نیم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای چرخ فلک، از گردش تو خرسند نیستم، زیرا آزاد نیستم و لایق بند و زنجیر نیستم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گر میل تو بابی هنر نااهل است",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر خواسته تو به کسی که هنری ندارد برسد، من هم مثل او نه اهل هستم و نه هنرمند."
     },
     {
       "VOrder": 4,

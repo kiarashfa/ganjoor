@@ -711,7 +711,8 @@
       "Text": "مغنی بیا چنگ را ساز کن",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: خواننده، بیا و ابزار موسیقی را به صدا درآور و با نغمه‌ها و کلام زیبا، دل‌ها را شاد کن."
     },
     {
       "VOrder": 2,
@@ -727,7 +728,8 @@
       "Text": "مرا از نوازیدنِ چنگ خویش",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: مرا با ملودی‌های زیبای خود نوازش کن و با نواختن چنگت، به من شادی بده."
     },
     {
       "VOrder": 4,
@@ -743,7 +745,8 @@
       "Text": "چو روز دگر صبح گیتی‌فروز",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: هنگامی که روز جدیدی فرا می‌رسد و روشنایی دنیا را به ارمغان می‌آورد، صبح با موفقیت شب را به پایان می‌رساند."
     },
     {
       "VOrder": 6,
@@ -759,7 +762,8 @@
       "Text": "برآمد گل از چشمهٔ آفتاب",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: از زیر نور آفتاب، گل شکوفه می‌زند و مه را مانند ماهی در آب فرو می‌برد."
     },
     {
       "VOrder": 8,
@@ -775,7 +779,8 @@
       "Text": "بر اورنگِ زر شد شهِ تاجور",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: سلطان بر تخت زرین نشسته است و بر کمرش کمری از گوهرهای درخشان بسته است."
     },
     {
       "VOrder": 10,
@@ -791,7 +796,8 @@
       "Text": "نشسته همه زیرکان زیر تخت",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: همه افراد باهوش و دانا زیر تخت افلاطون نشسته‌اند و در حال معمولی به نظر می‌رسند، اما به طور پنهانی و به شکلی نمایشی، لباسی بر افراشته‌اند که نشان‌دهنده شخصیت و دانش آن‌هاست."
     },
     {
       "VOrder": 12,
@@ -807,7 +813,8 @@
       "Text": "شه از نسبتی کاو در آن پرده ساخت",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "یعنی شاه از موسیقیی که (افلاطون) زد در عجب ماند که (افلاطون) این نسبت را از کجا دانست (نسبت امروزه هم ارز واژه مُد است در موسیقی غربی)"
     },
     {
       "VOrder": 14,
@@ -823,7 +830,8 @@
       "Text": "بپرسید از او کای جهان‌دیده پیر",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: از او پرسیدند، ای پیر دنیا دیده، رازهای نهفته و پنهان را از درون خود بازگو نکن."
     },
     {
       "VOrder": 16,
@@ -839,7 +847,8 @@
       "Text": "شمایید بر قفل دانش کلید",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: شما مانند کلیدی هستید که قفل دانش را باز می‌کند. به واسطه فکر و نظر شما، دانش و فهم به وجود آمده است."
     },
     {
       "VOrder": 18,
@@ -855,7 +864,8 @@
       "Text": "ز دانندگان خوانده‌ای هیچکس؟",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: آیا تا به حال از دانایان کسی را شنیده‌ای که نسبت به شما به مهارت و دانش بیشتری دسترسی داشته باشد؟"
     },
     {
       "VOrder": 20,
@@ -871,7 +881,8 @@
       "Text": "خیالی برانگیخت زین کارگاه",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "در هستی هنری و اندیشه‌ای هست که به آن آگاهی نیافته باشی؟"
     },
     {
       "VOrder": 22,
@@ -887,7 +898,8 @@
       "Text": "فلاطون پس از آفرین تمام",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: افلاطون پس از اینکه آفرینش تمام شد، این گونه بیان کرد که این چرخ آسمانی همانند فیروزه است."
     },
     {
       "VOrder": 24,
@@ -903,7 +915,8 @@
       "Text": "از آن بیشتر ساخت افسونگری",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: بیشتر از آنچه که جادوگری می‌تواند انجام دهد، کسی می‌تواند با دلی به ما هدایت کند که ما را به خود جذب کند."
     },
     {
       "VOrder": 26,
@@ -919,7 +932,8 @@
       "Text": "گر آن‌ها که پیشینگان ساختند",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: اگر آن‌هایی که در گذشته با تدبیر و ترفند خود به پیروزی دست یافتند و برتری پیدا کردند،"
     },
     {
       "VOrder": 28,
@@ -935,7 +949,8 @@
       "Text": "یکی گویم از صد دراین روزگار",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: در این روزگار، کسی نمی‌داند که معلم چه رازهایی را در دل خود دارد."
     },
     {
       "VOrder": 30,
@@ -951,7 +966,8 @@
       "Text": "اگر شاه فرمایدم اندکی",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "اگر شاه دستور دهد اندکی را بازگو کنم یک دهم نه بلکه یک صدم."
     },
     {
       "VOrder": 32,
@@ -967,7 +983,8 @@
       "Text": "اجازت رسید از سر داستان",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: اجازه داده شد که از آغاز داستان بگویم، زیرا دانا درباره آن داستان صحبت خواهد کرد."
     },
     {
       "VOrder": 34,
@@ -983,7 +1000,8 @@
       "Text": "جهاندیده دانایِ روشن‌ضمیر",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: کس دانا و باتجربه به این شکل بیان کرد که ای پادشاهی که به علم و دانش علاقه‌مندی، من با تو سخن می‌گویم."
     },
     {
       "VOrder": 36,
@@ -999,7 +1017,8 @@
       "Text": "شنیدم بخاری به گرمی شتافت",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: داستان از این قرار است که بخاری با سرعت و شتاب به حرکت درآمد و به زمین برخورد کرد و شکوفه‌های آن را شکافت. این حرکت نشان‌دهنده‌ی قدرت و اثرگذاری بخار بر زمین است."
     },
     {
       "VOrder": 38,
@@ -1015,7 +1034,8 @@
       "Text": "برانداخت هامون کلوخ از مغاک",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: هامون کلوخ را به کنار انداخت و از عمق زمین یک طلسم نمایان شد."
     },
     {
       "VOrder": 40,
@@ -1031,7 +1051,8 @@
       "Text": "ز روی و ز مس قالبی ریخته",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: چهره‌ای زیبا و دلربا شکل گرفته و از آن صورت، شجاعت و قدرتی همچون اسب به وجود آمده است."
     },
     {
       "VOrder": 42,
@@ -1047,7 +1068,8 @@
       "Text": "گشاده ز پهلوی اسبِ بلند",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: یکی از پهلوهای اسب بلند شکاف و سوراخی مانند شکاف آب ایجاد شده است."
     },
     {
       "VOrder": 44,
@@ -1063,7 +1085,8 @@
       "Text": "چو خورشید از آن رخنه درتافتی",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: مثل این که خورشید از یک شکاف تابیده و تو به نقش و نگار پنهانی که در آنجا وجود دارد، پی برده‌ای."
     },
     {
       "VOrder": 46,
@@ -1079,7 +1102,8 @@
       "Text": "شُبانی بر آن ژرف‌وادی گذشت",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: شبی یک چوپان از کنار دره‌ای عمیق عبور کرد و در آنجا توده‌ای خالی و بی‌اثر را در دشت ساده و باز مشاهده کرد."
     },
     {
       "VOrder": 48,
@@ -1095,7 +1119,8 @@
       "Text": "طلسمی درفشنده در وی پدید",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: شبی در آن دره عمیق، یک طلسمی ظاهر شد و درخشش خاصی داشت."
     },
     {
       "VOrder": 50,
@@ -1111,7 +1136,8 @@
       "Text": "ستوری مسین دید در پیکرش",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: یک نفر در حالی که به چهره‌ی شخصی نگاه می‌کند، متوجه می‌شود که در وجود او شکاف یا نقصی وجود دارد که به نوعی با ذات و وجودش در ارتباط است."
     },
     {
       "VOrder": 52,
@@ -1127,7 +1153,8 @@
       "Text": "در آن رخنه از نور تابنده هور",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: در آن شکاف، نوری درخشان از خورشید تابید و همه‌ی دور و بر را روشن کرد."
     },
     {
       "VOrder": 54,
@@ -1143,7 +1170,8 @@
       "Text": "بر او خفته‌ای دید دیرینه سال",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "بر آن، مرده‌ای کهن را دید که سالم مانده بود"
     },
     {
       "VOrder": 56,
@@ -1159,7 +1187,8 @@
       "Text": "به دستش در از رنگِ انگشتری",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: دست او انقدر زیباست که انگشتری با نگینی درخشان مانند سیاره مشتری بر آن می‌درخشد."
     },
     {
       "VOrder": 58,
@@ -1175,7 +1204,8 @@
       "Text": "بر او دست خود را سبک‌تاز کرد",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: او دستش را به آرامی بر روی او گذاشت و از انگشتش یک انگشتر بیرون آورد."
     },
     {
       "VOrder": 60,
@@ -1191,7 +1221,8 @@
       "Text": "چو انگشتری دید در مشت خویش",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: وقتی او انگشتری را در مشت خود دید، فوراً آن را در انگشتش گذاشت."
     },
     {
       "VOrder": 62,
@@ -1207,7 +1238,8 @@
       "Text": "دگر نقد شاهانه آنجا نیافت",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: نقد شاهانه دیگری در آن جا پیدا نکرد، بنابراین ستودن را رها کرد و از آن مکان خارج شد."
     },
     {
       "VOrder": 64,
@@ -1223,7 +1255,8 @@
       "Text": "گله پیش در کرد و می‌رفت شاد",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: گله به سمت جلو حرکت می‌کرد و در حالی که شاد بود، صبر و حوصله نشان می‌داد تا صبح فرا برسد."
     },
     {
       "VOrder": 66,
@@ -1239,7 +1272,8 @@
       "Text": "چو از رایت شیر پیکر سپهر",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: وقتی که علم و دانش، مانند پرچم شیر، از آسمان بالا می‌رود و روشنایی خورشید را می‌تاباند."
     },
     {
       "VOrder": 68,
@@ -1255,7 +1289,8 @@
       "Text": "شُبان رفت نزدیکِ صاحب‌گله",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: شبان به نزد صاحب‌گله رفت و در کوه و دشت شروع به گله‌گذاری و شکایت کرد."
     },
     {
       "VOrder": 70,
@@ -1271,7 +1306,8 @@
       "Text": "بدان تا نگین را نهد پیش او",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: فردی که می‌خواهد چیزی را به فرد دیگر عرضه کند، باید بداند که ارزش آن چیز چقدر است، چه بهای کمی داشته باشد و چه بهای زیادی."
     },
     {
       "VOrder": 72,
@@ -1287,7 +1323,8 @@
       "Text": "چو صاحب‌گله دید کامد شبان",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: وقتی صاحب‌دام‌ها دید که شبان با لحن شیرین و فریبنده‌اش از رازها و درد دل‌هایش می‌گوید، فهمید که او به زودی وارد ماجرا خواهد شد."
     },
     {
       "VOrder": 74,
@@ -1303,7 +1340,8 @@
       "Text": "بپرسید از او حال میش و بره",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: از او حال میش و بره را پرسیدند و او پاسخ روشنی داد."
     },
     {
       "VOrder": 76,
@@ -1319,7 +1357,8 @@
       "Text": "شبانه به هنگام گفت و شنید",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "یعنی در حین گفتگوی شبان و صاحب گله، شبان زمان‌هایی ناپدید و از دیده غیب می‌شد."
     },
     {
       "VOrder": 78,
@@ -1335,7 +1374,8 @@
       "Text": "دگرره پدیدار گشت از نهفت",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: دیگر راهی آشکار شد و از پنهان بیرون آمد. صاحب گله صدایش را بلند کرد و گفت."
     },
     {
       "VOrder": 80,
@@ -1351,7 +1391,8 @@
       "Text": "که هردم چرا گردی از من نهان؟",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: چرا هر آن، از من پنهان می‌شوی؟ بار دیگر ناگهان ظاهر می‌شوی."
     },
     {
       "VOrder": 82,
@@ -1367,7 +1408,8 @@
       "Text": "نگر تا چه افسون درآموختی؟",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: ببین چقدر در تقلید و فریبکاری مهارت پیدا کرده‌ای که خود را به شکلی فریبنده تزئین کرده‌ای."
     },
     {
       "VOrder": 84,
@@ -1383,7 +1425,8 @@
       "Text": "شبانه عجب ماند از آن داوری",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "( شبان ) از آن حرف (صاحب گله) در شگفت ماند و برای فهمیدنش به فکر فرو رفت"
     },
     {
       "VOrder": 86,
@@ -1399,7 +1442,8 @@
       "Text": "چنان بود کان مردِ خاتم‌پرست",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "و دریافت که (علتش آن بود) با انگشتر در دستش بازی می‌کرد"
     },
     {
       "VOrder": 88,
@@ -1415,7 +1459,8 @@
       "Text": "نگین‌دانِ او را چه زود و چه دیر",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: نگین‌دان او به شکل ناگهانی و گاهی اوقات به سمت بالا می‌رود و گاهی هم به سمت پایین می‌آید."
     },
     {
       "VOrder": 90,
@@ -1431,7 +1476,8 @@
       "Text": "نگین تا به بالا گرفتی قرار",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: هنگامی که نگین را بالا بردی، موقعیتی برای شبان رخ داد که آن را برای ناظر شفاف و واضح کرد."
     },
     {
       "VOrder": 92,
@@ -1447,7 +1493,8 @@
       "Text": "چو سوی کف دست گردان شدی",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هنگامیکه نگین انگشتر به کف دست چرخیده می‌شد شبان از نظر پنهان می‌گشت"
     },
     {
       "VOrder": 94,
@@ -1463,7 +1510,8 @@
       "Text": "نهاد نگین را چنان بُد حساب",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: نگین به‌گونه‌ای قرار داده شده بود که کسی نمی‌توانست صاحب آن را بشناسد و او در پس‌پرده‌ای پنهان بود."
     },
     {
       "VOrder": 96,
@@ -1479,7 +1527,8 @@
       "Text": "شبان چون از این بازی آگاه گشت",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: زمانی که شبان از این بازی و حقایق آن باخبر شد، تصمیم گرفت تا آزمونی را در کوه و دشت انجام دهد."
     },
     {
       "VOrder": 98,
@@ -1495,7 +1544,8 @@
       "Text": "درآمد به بازیگری ساختن",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: زندگی، همچون بازیگری است که با مهارت و هنرنمایی، از لحظات خود استفاده می‌کند و گاهی به دستانش می‌چرخد و گاهی هم ممکن است چیزی را از دست بدهد."
     },
     {
       "VOrder": 100,
@@ -1511,7 +1561,8 @@
       "Text": "کجا رأی پنهان شدن داشتی",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: چرا تصمیم خود را پنهان کردی؟ که این نگین را از دستت دور نکردی."
     },
     {
       "VOrder": 102,
@@ -1527,7 +1578,8 @@
       "Text": "چو کردی به پیدا شدن رای خویش",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: وقتی که تصمیم خود را مشخص کردی، نشان خود را بر جایی که باید باقی گذاشتی."
     },
     {
       "VOrder": 104,
@@ -1543,7 +1595,8 @@
       "Text": "به پیدا و پنهان شدن گرد شهر",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "با آشکار و غیب شدن گرد شهر می‌گشت و هرچه خواست بدست آورد"
     },
     {
       "VOrder": 106,
@@ -1559,7 +1612,8 @@
       "Text": "یکی روز برخاست پنهان به راز",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "هوش مصنوعی: روزی شخصی به طور پنهانی برخواست و نگین را که در دست داشت از بالای جایی برداشت."
     },
     {
       "VOrder": 108,
@@ -1575,7 +1629,8 @@
       "Text": "برهنه یکی تیغ هندی به دست",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "هوش مصنوعی: یک نفر که بدنش عریان بود، با یک شمشیر هندی در دست به سمت پادشاه رفت و در جایی پنهان شد."
     },
     {
       "VOrder": 110,
@@ -1591,7 +1646,8 @@
       "Text": "چو خالی شد از خاصگان انجمن",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "هوش مصنوعی: وقتی که انجمن از افرادی که خاص و برجسته بودند خالی شد، او به وضوح وجود خودش را نشان داد."
     },
     {
       "VOrder": 112,
@@ -1607,7 +1663,8 @@
       "Text": "دل پادشا را به خود بیم کرد",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "هوش مصنوعی: دل شاه را به خود ترسناک کرد و این ترس باعث شد که پادشاه تسلیم او شود."
     },
     {
       "VOrder": 114,
@@ -1623,7 +1680,8 @@
       "Text": "به زنهار گفتش که «کام تو چیست؟",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "هوش مصنوعی: به او هشدار داد و پرسید: «آرزو و خواسته‌ات چیست؟ و چه کسی تو را به اینجا فرستاده است؟»"
     },
     {
       "VOrder": 116,
@@ -1639,7 +1697,8 @@
       "Text": "شبان گفت پیغمبرم زود باش",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "هوش مصنوعی: شبانی به پیغمبر می‌گوید که زودتر به من بگو و از شانس خوبم خوشحال باش."
     },
     {
       "VOrder": 118,
@@ -1655,7 +1714,8 @@
       "Text": "چو خواهم نبیند مرا هیچکس",
       "CoupletIndex": 59,
       "SectionIndex1": 0,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "هوش مصنوعی: وقتی که می‌خواهم هیچ‌کس مرا نبیند، این تنها معجزه‌ای‌ست که می‌خواهم به آن دست پیدا کنم."
     },
     {
       "VOrder": 120,
@@ -1671,7 +1731,8 @@
       "Text": "بدو پادشا بگروید از هراس",
       "CoupletIndex": 60,
       "SectionIndex1": 0,
-      "SectionIndex2": 62
+      "SectionIndex2": 62,
+      "CoupletSummary": "هوش مصنوعی: پادشاه از ترس همان مردم شهر به سرعت فرار کرد."
     },
     {
       "VOrder": 122,
@@ -1687,7 +1748,8 @@
       "Text": "شبان آنچنان گردن‌افراز گشت",
       "CoupletIndex": 61,
       "SectionIndex1": 0,
-      "SectionIndex2": 63
+      "SectionIndex2": 63,
+      "CoupletSummary": "هوش مصنوعی: شبانی به قدری بزرگ و سرافراز شد که پادشاهی دوباره به او رجوع کرد."
     },
     {
       "VOrder": 124,
@@ -1703,7 +1765,8 @@
       "Text": "نگین بین که از مهر انگشتری",
       "CoupletIndex": 62,
       "SectionIndex1": 0,
-      "SectionIndex2": 64
+      "SectionIndex2": 64,
+      "CoupletSummary": "هوش مصنوعی: به زیبایی توجه کن که چگونه مهر انگشتری می‌تواند به پیامبری رسانده شود."
     },
     {
       "VOrder": 126,
@@ -1719,7 +1782,8 @@
       "Text": "حکیمان نگر کان نگین ساختند",
       "CoupletIndex": 63,
       "SectionIndex1": 0,
-      "SectionIndex2": 65
+      "SectionIndex2": 65,
+      "CoupletSummary": "هوش مصنوعی: حکیمان توجه کن که چگونه با خرد و دانایی، نگینی را خلق کردند و چطور به وسیله‌ی همان دانایی، آن را از جای خود برداشتند."
     },
     {
       "VOrder": 128,
@@ -1735,7 +1799,8 @@
       "Text": "چنان باید انگیخت نیرنگ و ساز",
       "CoupletIndex": 64,
       "SectionIndex1": 0,
-      "SectionIndex2": 66
+      "SectionIndex2": 66,
+      "CoupletSummary": "هوش مصنوعی: باید به گونه‌ای حیله و ترفند به کار برد که ما از پشت پرده راز چیزی را درک نکنیم و متوجه نشویم."
     },
     {
       "VOrder": 130,
@@ -1751,7 +1816,8 @@
       "Text": "بسی کردم اندیشه را رهنمون",
       "CoupletIndex": 65,
       "SectionIndex1": 0,
-      "SectionIndex2": 67
+      "SectionIndex2": 67,
+      "CoupletSummary": "هوش مصنوعی: من به اندازه کافی به تفکر و تأمل پرداختم، اما نتوانستم راهی برای رهایی از این وابستگی پیدا کنم."
     },
     {
       "VOrder": 132,
@@ -1767,7 +1833,8 @@
       "Text": "ثنا گفت بر وی چو شاه این شنید",
       "CoupletIndex": 66,
       "SectionIndex1": 0,
-      "SectionIndex2": 68
+      "SectionIndex2": 68,
+      "CoupletSummary": "هوش مصنوعی: وقتی شاه این سخنان را شنید، به ستایش او پرداخت و متوجه شد که از او نشانه‌ای بر جای مانده است."
     },
     {
       "VOrder": 134,
@@ -1783,7 +1850,8 @@
       "Text": "همه پاسداران آن آستان",
       "CoupletIndex": 67,
       "SectionIndex1": 0,
-      "SectionIndex2": 69
+      "SectionIndex2": 69,
+      "CoupletSummary": "هوش مصنوعی: تمام نگهبانان آن مکان، از این داستان درس عبرتی گرفتند."
     },
     {
       "VOrder": 136,

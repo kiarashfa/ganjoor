@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "پادشاها نصیحتم شنو",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای پادشاه، نصیحت مرا بشنو و مملکت را به دست روس‌ها نسپار."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "نوعروسی است ملک وتو داماد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نوعروسی در حال برگزاری جشن است و تو به عنوان داماد باید مراقب باشی. به کسی اجازه نده که به نوعروس نزدیک شود."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "روس اهریمنی است خونخواره",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روس مانند موجودی اهریمنی و خشن است که به خون و خشونت تمایل دارد؛ بنابراین، نباید به او ابزار و وسایل قدرت یا دخالت را بدهی."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "تا تقاضای دیگری نکند",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی کسی از تو درخواست دیگری ندارد، به او مراجعه نکن و او را نپذیر."
     },
     {
       "VOrder": 8,

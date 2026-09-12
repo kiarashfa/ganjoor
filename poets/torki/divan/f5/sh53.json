@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "ای فلان! از تو سخت می ترسم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از تو بسیار می‌ترسم زیرا فکر می‌کنم برکت و مشکلات زیادی از جانب تو ناشی می‌شود."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "کار تو جز لگد زدن نبود",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ظاهراً کار تو فقط بیهوده و ناپسند است، انگار که ارتباطی با حیوانی مثل خر داری."
     },
     {
       "VOrder": 4,

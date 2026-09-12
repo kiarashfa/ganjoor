@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "از بهر چه حل نمی کنی مشکل خود",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا در تلاش برای حل مشکل خود نیستی و چرا دل خود را از بندهای آرزوها آزاد نمی‌کنی؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "اینجا تو برای حاصلی آمده ای",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو در اینجا برای رسیدن به هدف‌هایی آمده‌ای، اما ای کسی که بی‌هدف هستی، دوباره به جستجوی هدف خود بپرداز."
     },
     {
       "VOrder": 4,

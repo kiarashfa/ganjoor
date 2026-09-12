@@ -350,7 +350,8 @@
       "Text": "گفت من نیکخواه ایشانم",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: گفت من به فکر خوب بودن برای آن‌ها هستم و با همه مثل اعضای خانواده‌ام مهربانم."
     },
     {
       "VOrder": 2,
@@ -366,7 +367,8 @@
       "Text": "\u00A0« این سزای من است و کردارم",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: این نتیجه و پاداش من است و به دلیل اعمالی که انجام داده‌ام، مانند گلی زیبا نیستم و همانند خاری دچار درد و رنج هستم."
     },
     {
       "VOrder": 4,
@@ -382,7 +384,8 @@
       "Text": "وای بر قوم اگر کنم نفرین",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: آه بر حال آن ملت که اگر نفرین کنم، همه چیزشان از جمله مال و جانشان از بین می‌رود و حتی دینشان نیز از دست می‌رود."
     },
     {
       "VOrder": 6,
@@ -398,7 +401,8 @@
       "Text": "راستین شیخ همچو سر باشد",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: شیخ واقعی مانند روح است، در حالی که غیر از او تنها جسم انسانی به حساب می‌آید."
     },
     {
       "VOrder": 8,
@@ -414,7 +418,8 @@
       "Text": "زنده بی سر کسی کجا ماند ؟",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: کسی که بی‌سر زندگی می‌کند، چگونه می‌تواند وجود داشته باشد؟ و پای بدون سر چگونه می‌تواند راه را بشناسد؟"
     },
     {
       "VOrder": 10,
@@ -430,7 +435,8 @@
       "Text": "دست و پایی که شد جدا از تن",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: اگر دست و پای انسان از بدنش جدا شود، هرچند که حرکت کند، اما توانایی و کارایی ندارد."
     },
     {
       "VOrder": 12,
@@ -446,7 +452,8 @@
       "Text": "جنبش از وی رود شود ساکن",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: حرکت و جنبش از او ناشی می‌شود، اما اگر عضوی بی‌حرکت و مرده باشد، به‌طور حتم ثابت و بی‌تحرک خواهد بود."
     },
     {
       "VOrder": 14,
@@ -462,7 +469,8 @@
       "Text": "خلق بی‌دین بدان جدا ز سرند",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: آفرینش‌ بی‌ایمان را به‌خوبی از هم تشخیص می‌دهند؛ نقش و ظاهرشان شبیه انسان است، اما در واقعیت مانند خرند."
     },
     {
       "VOrder": 16,
@@ -478,7 +486,8 @@
       "Text": "زندگی‌شان دراز خود نکشد",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: زندگی آنها به طول نمی‌انجامد و در نهایت، ملک الموت همه را خواهد گرفت."
     },
     {
       "VOrder": 18,
@@ -494,7 +503,8 @@
       "Text": "سر بریده اگر شود جنبان",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اگر سر بریده‌ای را ببینی که حرکت می‌کند، بدان که در آن لحظه، ساکت است و هیچ حرفی نمی‌زند."
     },
     {
       "VOrder": 20,
@@ -510,7 +520,8 @@
       "Text": "زانکه هر جنبشی که بی‌مدد است",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: هر حرکتی که بدون کمک و پشتیبانی باشد، به سرعت متوقف می‌شود و بی‌فایده می‌گردد."
     },
     {
       "VOrder": 22,
@@ -526,7 +537,8 @@
       "Text": "وقت جنبش ورا تو ساکن بین",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: در زمان حرکت و تلاش او را ایستاده و ساکن ببین، هر چیزی که در دنیا ممکن شد را مشاهده کن."
     },
     {
       "VOrder": 24,
@@ -542,7 +554,8 @@
       "Text": "اهل دل را حیاتشان باقی‌ست",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: افراد دلدار همچنان زنده‌اند و زندگی‌شان به عشق و شوری که دارند وابسته است. جان آنها هم پر از لذت و شادی است و هم به واسطه‌ی خوبی‌هایی که از آن‌ها می‌چشند."
     },
     {
       "VOrder": 26,
@@ -558,7 +571,8 @@
       "Text": "مرگ ایشان چو نقل از خانه است",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: مرگ آن‌ها مانند خروج از خانه است؛ عبور از زندگی به سوی محبوب واقعی است."
     },
     {
       "VOrder": 28,
@@ -574,7 +588,8 @@
       "Text": "صدر جنت شده است جای همه",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: بهشتی که به عنوان اوج و بهترین مکان شناخته می‌شود، محل حضور تمام حقیقت‌ها شده و در آنجا، یکی از بزرگ‌ترین شخصیت‌ها به عنوان سرپرست و رئیس همه آن‌چه وجود دارد، قرار دارد."
     },
     {
       "VOrder": 30,
@@ -590,7 +605,8 @@
       "Text": "مدتی بود خانه شان دنیا",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: مدتی بود که خانه‌ی آن‌ها به دنیا تعلق داشت و حالا مرگشان آن‌ها را به دنیای دیگری منتقل کرده است."
     },
     {
       "VOrder": 32,
@@ -606,7 +622,8 @@
       "Text": "اینچنین مرگ را مگوی تو مرگ",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: اینطور نگو که مرگ، مرگ است؛ بلکه بگو که کسی بیچاره به پایانی رسید."
     },
     {
       "VOrder": 34,
@@ -622,7 +639,8 @@
       "Text": "خشمگین شد از آن گروه لئیم",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: از آن دسته افراد بدجنسی که باعث عصبانیت او شدند، آگاه و مطلع شد از اسرار فرد دانشمند و باخبر."
     },
     {
       "VOrder": 36,
@@ -638,7 +656,8 @@
       "Text": "هر دو با هم ز قوم گردیدند",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: هر دو از یک قوم شدند و وقتی با هم صحبت کردند، همه چیز به گرد هم آمد."
     },
     {
       "VOrder": 38,
@@ -654,7 +673,8 @@
       "Text": "ره ندادند دیگر ایشان را",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: آن افراد بی‌غیرت و بی‌جان اجازه ندادند که دیگران به مسیر خود ادامه دهند."
     },
     {
       "VOrder": 40,
@@ -670,7 +690,8 @@
       "Text": "مدتی چون بر این حدیث گذشت",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: مدتی که از این ماجرا گذشت، همه چیز به حالت بی‌حالی و خشک شدن درآمد و زیبایی‌ها و زندگی‌ها از بین رفتند."
     },
     {
       "VOrder": 42,
@@ -686,7 +707,8 @@
       "Text": "مدد از حق بدو بریده شد آن",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: کمک از جانب خداوند به او قطع شده است و بنابراین، او در باغستان (زندگی) موفق نخواهد شد."
     },
     {
       "VOrder": 44,
@@ -702,7 +724,8 @@
       "Text": "همه گشتند سرد از آن گرمی",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: همه به خاطر زیبایی و جذابیت چهره‌اش تحت تأثیر قرار گرفتند و از خجالت و بی‌شرمی او سرد و بی‌روح شدند."
     },
     {
       "VOrder": 46,
@@ -718,7 +741,8 @@
       "Text": "معرفتشان نماند و بسته شدند",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: دانش و آگاهی آن‌ها از بین رفت و همه دچار سردرگمی و خستگی شدند."
     },
     {
       "VOrder": 48,
@@ -734,7 +758,8 @@
       "Text": "روزشان گشت همچو شب تاریک",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: روز آن‌ها به تاریکی شب تبدیل شد و در اثر غم، همه‌ی آن‌ها به حالت ضعف و ناتوانی درآمدند."
     },
     {
       "VOrder": 50,
@@ -750,7 +775,8 @@
       "Text": "روزها شیخ را نمی‌دیدند",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: در طول روزها، کسی شیخ را نمی‌دید، اما در شب، همه به خواب‌های ناخوشایند مبتلا بودند."
     },
     {
       "VOrder": 52,
@@ -766,7 +792,8 @@
       "Text": "آخر کار جمله دانستند",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: در نهایت همه به یک نتیجه رسیدند و همچون کسانی که در حال عزاداری هستند، به همدیگر نگاه کردند و زخم‌های خود را شستند."
     },
     {
       "VOrder": 54,
@@ -782,7 +809,8 @@
       "Text": "هر یکی دست خود همی‌خایید",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: هر کس به نوعی از دلش غم و اندوهی را بیرون می‌آورد و به دنبال راهی برای رهایی از آن است."
     },
     {
       "VOrder": 56,
@@ -798,7 +826,8 @@
       "Text": "گفته با هم « اگر چنین ماند",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: اگر اوضاع این‌گونه ادامه پیدا کند، نمی‌دانیم چه بر سر ما خواهد آمد و فقط خداست که از آن آگاه است."
     },
     {
       "VOrder": 58,
@@ -814,7 +843,8 @@
       "Text": "پیش از آنکه رویم جمله ز دست",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: پیش از اینکه از دست بروم، همه تلاش کنیم تا از این وضعیت رهایی یابیم."
     },
     {
       "VOrder": 60,
@@ -830,7 +860,8 @@
       "Text": "سوی ایشان رویم توبه کنان",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: به سمت آن‌ها می‌روم و در حالی که توبه می‌کنم، به دنبال وصل و پیوستگی می‌گردم تا از جدایی و دوری رها شوم."
     },
     {
       "VOrder": 62,
@@ -846,7 +877,8 @@
       "Text": "همه جمع آمدند بر در او",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: همه اطرافیان جمع شده بودند و بر در او به احترام او سر و صورت به زمین می‌ساییدند."
     },
     {
       "VOrder": 64,

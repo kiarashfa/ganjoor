@@ -55,7 +55,8 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "بی گناه باش که بی‌بیم باشی‌. سپاس‌دار باش که به نیکویی ارزانی باشی.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: بی‌گناه بودن به تو آرامش می‌بخشد. شکرگزار باش تا در زندگی خود خوشبختی بیشتری به دست آوری."
     },
     {
       "VOrder": 2,
@@ -63,7 +64,8 @@
       "Text": "سر بیمناکی گنهکارگی است",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ترس و نگرانی ناشی از گناه، بر سر گنهکار سایه افکنده و او را به گرفتار شدن و آوارگی دچار کرده است."
     },
     {
       "VOrder": 3,
@@ -79,7 +81,8 @@
       "Text": "همان بیگناهی تناسانیست",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: بی‌گناهی و پاکی انسان به معنای خوب بودن و سپاسگزاری از نعمت‌ها و رضایت از آن‌هاست."
     },
     {
       "VOrder": 5,
@@ -95,7 +98,8 @@
       "Text": "گنه کاره را بیم باشد ز شاه",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: گناهکار از شاه می‌ترسد، اما شخص بی‌گناه از هیچ‌کس نمی‌ترسد."
     },
     {
       "VOrder": 7,

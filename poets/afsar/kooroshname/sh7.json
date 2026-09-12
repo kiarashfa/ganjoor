@@ -521,7 +521,8 @@
       "Text": "چو پوربنی پال بی چاره شد",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: وقتی که کمبودی وجود نداشته باشد، به راحتی می‌توان تمامی مشکلات را حل کرد و در این حالت، تمامی موانع داخلی نیز به آسانی برطرف می‌شوند."
     },
     {
       "VOrder": 2,
@@ -537,7 +538,8 @@
       "Text": "سر برج و بارو چو لشکر بدید",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: هنگامی که از بالای قلعه و بارو به تماشای لشکر پرداخت، دلش از شادمانی و پیروزی و بخت خوب به وجد آمد."
     },
     {
       "VOrder": 4,
@@ -553,7 +555,8 @@
       "Text": "بگفتا دگر، روز من شد تباه",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: او گفت که روز من خراب شده است، نه یار و دوستی دارم و نه ثروتی و نه نیرویی در کنارم."
     },
     {
       "VOrder": 6,
@@ -569,7 +572,8 @@
       "Text": "شبانه یکی آتشی بر فروخت",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: در یک شب، شخصی آتشی روشن کرد و خودش و تمام اعضای خانواده‌اش در آتش سوختند."
     },
     {
       "VOrder": 8,
@@ -585,7 +589,8 @@
       "Text": "همی در سرای خود آتش فکند",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: در خانه‌اش آتش می‌افروزد، زیرا بدی کردار پدرش بر او اثر گذاشته است."
     },
     {
       "VOrder": 10,
@@ -617,7 +622,8 @@
       "Text": "به آتش بسوزد همه خانمان",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی خانواده‌اش را دچار مشکل کرده باشد، باید عواقب کارهایش را ببیند و این باعث ویرانی خانه و کاشانه‌اش خواهد شد."
     },
     {
       "VOrder": 14,
@@ -633,7 +639,8 @@
       "Text": "وگر نیک رفتار باشد بدهر",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی در دنیا با نیک رفتاری زندگی کند، دیگران نیز به نیکی درباره او فکر خواهند کرد."
     },
     {
       "VOrder": 16,
@@ -649,7 +656,8 @@
       "Text": "چو فرزند خود دوست داری بسی",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: اگر فرزند خوب و مهربانی داشته باشی، نباید با دیگری بدرفتاری کنی."
     },
     {
       "VOrder": 18,
@@ -665,7 +673,8 @@
       "Text": "بنی پال بد کرد و پورش بسوخت",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: بنی پال کارهای بدی انجام داد و پسرش را به آتش کشید. همان آتشِ خشم و بدی که خودش ایجاد کرده بود، نهایتاً خودش را نیز خواهد سوزاند."
     },
     {
       "VOrder": 20,
@@ -681,7 +690,8 @@
       "Text": "هو خشتر چو بشنید کردار او",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: وقتی هوخشید به رفتار و کردار او پی‌برد، احساس کرد که او همچون آتش داغ و پرحرارت است."
     },
     {
       "VOrder": 22,
@@ -697,7 +707,8 @@
       "Text": "غمین گشت لیکن ز پیکار دست",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: غمگین شد، اما از جنگ و درگیری دست برداشت تا به آن بیچارگان آسیب نرساند."
     },
     {
       "VOrder": 24,
@@ -713,7 +724,8 @@
       "Text": "نگه کرد دروازه را باز یافت",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: او به دروازه نگریست و متوجه شد که به فرمان او، شمار زیادی از سربازان به سرعت در حال حرکت هستند."
     },
     {
       "VOrder": 26,
@@ -729,7 +741,8 @@
       "Text": "وزین روی مردان آشوریان",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: مردان آشوری، با سرهای برهنه و در حالی که خمیده‌اند، به این دلیل که به نشانه احترام و خضوع در برابر قدرت و عظمت چیزی یا کسی، سرشان را پایین آورده‌اند."
     },
     {
       "VOrder": 28,
@@ -745,7 +758,8 @@
       "Text": "سوی شاه ایران نهادند روی",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: به سمت پادشاه ایران روی آوردند و با ادب و فرمانبرداری به او سلام کردند و درباره تخت و مقامش صحبت کردند."
     },
     {
       "VOrder": 30,
@@ -761,7 +775,8 @@
       "Text": "شه ماد و بابل دوشاه جوان",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: دو پادشاه جوان از سرزمین ماد و بابل به دست جنگ و نبرد دچار شدند."
     },
     {
       "VOrder": 32,
@@ -777,7 +792,8 @@
       "Text": "چو تسلیمشان شد قبول دو شاه",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: زمانی که دو شاه به خاطر بزرگان و مسئولان تسلیم شدند، مسیر را برای آن‌ها گشودند."
     },
     {
       "VOrder": 34,
@@ -793,7 +809,8 @@
       "Text": "دگر منقرض گشت آشوریان",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: آشوریان از بابل ناپدید شدند و تقسیم شدند به دو نیمه، یکی از آن‌ها آریان بود."
     },
     {
       "VOrder": 36,
@@ -809,7 +826,8 @@
       "Text": "چنین گفته شد بین دو شهریار",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: دو پادشاه با هم صحبت کردند و تصمیم گرفتند که در این موضوع خاص، نیاز است که ما نیز در این کار مشارکت داشته باشیم."
     },
     {
       "VOrder": 38,
@@ -825,7 +843,8 @@
       "Text": "چو بر نینوا شاه لشکر کشید",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: وقتی که شاه با سپاهش از بالای رود دجله به نینوا رسید، به ایران رسید."
     },
     {
       "VOrder": 40,
@@ -841,7 +860,8 @@
       "Text": "فلسطین و سوریه و بین نهر",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: شاعر در این بیت به مکان‌های تاریخی و جغرافیایی اشاره می‌کند، جایی که فلسطین، سوریه و بین‌النهرین (منطقه‌ای که شامل بابل می‌شود) را نام می‌برد. او به دنبال آنها است و شاید به جستجو و کشف ارزش‌های فرهنگی و تاریخی این سرزمین‌ها اشاره دارد."
     },
     {
       "VOrder": 42,
@@ -857,7 +877,8 @@
       "Text": "چو شد کار آشوریان ساخته",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: زمانی که کار آشوریان تمام شد، سرزمینشان به خوبی آماده و پر رونق گشت."
     },
     {
       "VOrder": 44,
@@ -873,7 +894,8 @@
       "Text": "شه ماد با فتح و با فرهی",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: شاه ما با اقتدار و نیکویی به سوی فراست و حکمت حرکت کرد."
     },
     {
       "VOrder": 46,
@@ -889,7 +911,8 @@
       "Text": "شه بابل آمد به همراه او",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: پادشاه بابل به همراه افرادی که با او بودند، به خوبی و نیکی رفتار کردند."
     },
     {
       "VOrder": 48,
@@ -905,7 +928,8 @@
       "Text": "چنان دوست گشتند باهم دوشاه",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: دو دوست به قدری با هم صمیمی و نزدیک شدند که مانند دو پادشاهی شدند که از بابل به ایران سفر کرده‌اند."
     },
     {
       "VOrder": 50,
@@ -921,7 +945,8 @@
       "Text": "بشد دختر شاه را خواستگار",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: یک خواستگار برای پسر پادشاه به خواستگاری دختر شاه آمد."
     },
     {
       "VOrder": 52,
@@ -937,7 +962,8 @@
       "Text": "چو بخت النصر پور آن شاه بود",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: بخت النصر، فرزند آن پادشاه، جوان و در کنار سفره بود."
     },
     {
       "VOrder": 54,
@@ -953,7 +979,8 @@
       "Text": "شهنشه پذیرفت خواهش از او",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: پادشاه درخواست او را پذیرفت و به او آن دختر زیبا را داد."
     },
     {
       "VOrder": 56,
@@ -969,7 +996,8 @@
       "Text": "چو دختر باو داد آن شهریار",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: وقتی آن پادشاه دخترش را به همسری او داد، رابطه دوستی محکم و استواری میان آن‌ها برقرار شد."
     },
     {
       "VOrder": 58,
@@ -985,7 +1013,8 @@
       "Text": "ببابل ببردند چون دخت شاه",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: بابل را به‌خاطر بردن دختر شاهش گرفتند و سر شاه بابل مانند ماه نمایان شد."
     },
     {
       "VOrder": 60,
@@ -1001,7 +1030,8 @@
       "Text": "باندک زمانی شهنشاه ماد",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: مدتی کوتاه، شاه ماد با اراده قوی تصمیم گرفت و بلافاصله سرزمین‌های وسیعی را تحت تسلط خود درآورد."
     },
     {
       "VOrder": 62,
@@ -1017,7 +1047,8 @@
       "Text": "به تسخیر لیدی هوس کرده شاه",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: شاه با هوش و قدرتی که دارد، به تسخیر لیدی در آمده و می‌گوید: من همان پادشاه بزرگ و با افتخار هستم."
     },
     {
       "VOrder": 64,
@@ -1033,7 +1064,8 @@
       "Text": "کنون بایدم نیک رائی کنم",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: اکنون با اندیشه خوبم تصمیم می‌گیرم و از این به بعد به گسترش مرزها می‌پردازم."
     },
     {
       "VOrder": 66,
@@ -1049,7 +1081,8 @@
       "Text": "همی بود در فکر تسخیر آن",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: در ذهن خود درگیر تسلط بر آن چیز بودی و برای چنین فرصتی تلاش نکردی."
     },
     {
       "VOrder": 68,
@@ -1065,7 +1098,8 @@
       "Text": "چو یک روز گفتند با شهریار",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: روزی گفتند به پادشاه که تعدادی از سکاها (قوم‌هایی که کم اعتبار بودند) وجود دارند."
     },
     {
       "VOrder": 70,
@@ -1081,7 +1115,8 @@
       "Text": "بکشته سه تن از جوانان ماد",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: سه جوان از قوم ماد که کشته شده بودند، به سرزمین لیدی فرار کردند و در آنجا خوشحال شدند."
     },
     {
       "VOrder": 72,
@@ -1097,7 +1132,8 @@
       "Text": "هو خشتر چو بشنید خود این خبر",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: وقتی هوخشتره این خبر را شنید، گفت که من تمامی لیدیان را جمع می‌کنم."
     },
     {
       "VOrder": 74,
@@ -1113,7 +1149,8 @@
       "Text": "پیامی فرستاد بر لیدیان",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: پیامی به سکاها که لیدیانی هستند، ارسال شد که این افراد از نژاد آریایی هستند."
     },
     {
       "VOrder": 76,
@@ -1129,7 +1166,8 @@
       "Text": "ز مادی بکشتند ایشان سه تن",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: سه نفر از آنان در سرزمین لیدیا به قتل رسیدند و جسم و روح خود را پنهان کردند."
     },
     {
       "VOrder": 78,
@@ -1145,7 +1183,8 @@
       "Text": "فرستید آن ناکسان نزد من",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: افرادی که از طبقه پایین و بی‌ارزشی هستند به سمت من فرستاده شده‌اند تا من با خاک سیاه، خودشان را دفن کنم."
     },
     {
       "VOrder": 80,
@@ -1161,7 +1200,8 @@
       "Text": "وگرنه نمایم چنان جنگ و جوش",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: اگر اینگونه پیش نروی و به من توجه نکنی، جنگ و شور و هیجانی به راه می‌اندازم که حتی نر مادری از ترس به صدا درآید."
     },
     {
       "VOrder": 82,
@@ -1177,7 +1217,8 @@
       "Text": "چو این پیک آمد بر شاه سارد",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: وقتی این پیام‌رسان به شاه سارد رسید، پیام پادشاه بزرگ را برای او باز کرد."
     },
     {
       "VOrder": 84,
@@ -1193,7 +1234,8 @@
       "Text": "شه لیدیان گفت من جنگ را",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: شَه لیدیان می‌گوید: من جنگ را انتخاب می‌کنم، زیرا این ننگ و رسوایی را نمی‌خواهم تحمل کنم."
     },
     {
       "VOrder": 86,
@@ -1209,7 +1251,8 @@
       "Text": "چو آمد چنین پیک بر شاه ماد",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: وقتی این پیام به شاه ماد رسید، خبر از لیدی و جنگ را آورد."
     },
     {
       "VOrder": 88,
@@ -1225,7 +1268,8 @@
       "Text": "شهنشه بر آشفت و گفتی سپاه",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: پادشاه خشمگین شد و گفت: ببینید که سپاه چگونه به صف ایستاده و راه را می‌پیماید."
     },
     {
       "VOrder": 90,
@@ -1241,7 +1285,8 @@
       "Text": "چو لشکر شد آماده کارزار",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: وقتی که نیروها برای نبرد آماده می‌شوند، زمین زیر پای هزاران نفر به شدت متزلزل و درگیر می‌شود."
     },
     {
       "VOrder": 92,
@@ -1257,7 +1302,8 @@
       "Text": "سوار و پیاده همی با شکوه",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: افراد در حال حرکت با زیبایی و شکوه از دشت‌ها، صحراها و کوه‌ها عبور کردند."
     },
     {
       "VOrder": 94,
@@ -1273,7 +1319,8 @@
       "Text": "بدشتی دو لشکر بهم چون رسید",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: وقتی که دو لشکر به هم نزدیک شدند، از صدای سر و صدای غوغای آنان، گوش‌ها پاره شد."
     },
     {
       "VOrder": 96,
@@ -1289,7 +1336,8 @@
       "Text": "همی جنگ کردند با یکدگر",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: آنها با یکدیگر جنگیدند، نه یکی پیروز شد و نه دیگری مغلوب گردید."
     },
     {
       "VOrder": 98,
@@ -1305,7 +1353,8 @@
       "Text": "چو شش سال این جنگ بد در میان",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: پس از سال‌ها جنگ سخت و دشوار، خسارات و زیان‌های زیادی بر هر دو طرف نبرد وارد شده است."
     },
     {
       "VOrder": 100,

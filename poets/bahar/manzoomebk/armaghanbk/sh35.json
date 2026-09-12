@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "به هیچ کس دروغ مگوی.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: هرگز به کسی دروغ نگو."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "دلت را ز نیکو سخن ده فروغ",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل خود را با گفتار زیبا روشن کن و هرگز زبانت را به دروغ آلوده نکن."
     },
     {
       "VOrder": 3,

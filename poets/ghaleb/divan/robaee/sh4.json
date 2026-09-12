@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای دوست به سوی این فرومانده بیا",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دوست، به سمت این راهمند آمده، از مسیر بی‌راهه خارج شو و به سوی من بیایید."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گفتی که مرا مخوان که من مرگ توام",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفتی که مرا صدا نزن، زیرا من مرگ تو هستم. بر آنچه که خود گفته‌ای پایبند باش و بدون دعوت من بیا."
     },
     {
       "VOrder": 4,

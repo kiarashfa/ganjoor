@@ -29,14 +29,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "بیگاه مخند. پیش و پس پاسخ به پیمانه گیر (‌پیمان - انداز)",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: به آرامی بخند. پیش و پس از اینکه پاسخ را به درستی اندازه‌گیری کنی."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "به بیگاه بر روی مردم مخند",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اواخر شب به دیگران نخند و از سخنان بی‌ارزش لب باز نکن."
     },
     {
       "VOrder": 3,

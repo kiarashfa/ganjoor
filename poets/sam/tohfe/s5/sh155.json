@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "از شعرایی است که نو پیدا شده این مطلع از اوست:",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: این شاعر تازه‌کار است و این شعر مربوط به اوست."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "مرا چو مست به بینی مگو که بی خبر است این",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی مرا مانند یک فرد مست ببینی، هیچ نگویید که من بی خبرم. زیرا ما در دنیای عشق هستیم و این جهانی که در آن زندگی می‌کنیم، متفاوت است."
     },
     {
       "VOrder": 3,

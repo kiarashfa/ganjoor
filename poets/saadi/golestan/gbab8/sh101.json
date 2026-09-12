@@ -25,26 +25,30 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "اوّل كسی كه عَلَم بر جامه كرد و انگشتری در دست، جمشید بود.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: نخستین کسی که پرچم به دوش گرفت و انگشتری در دست کرد، جمشید بود."
     },
     {
       "VOrder": 2,
       "Position": "Paragraph",
       "Text": "گفتندش: چرا به چپ دادی و فضیلت راست راست؟",
-      "CoupletIndex": 1
+      "CoupletIndex": 1,
+      "CoupletSummary": "به او گفتند: چرا انگشتر را در دست چپت کردی، در حالی که دست راست شایسته تر هست"
     },
     {
       "VOrder": 3,
       "Position": "Paragraph",
       "Text": "گفت: راست را زینت راستی تمام است.",
-      "CoupletIndex": 2
+      "CoupletIndex": 2,
+      "CoupletSummary": "او گفت: برای دست راست، زینت همان راستی‌اش کافی و کامل است (راستی و پاکی دست راست هست و نیازی به انگشتر ندارد)"
     },
     {
       "VOrder": 4,
       "Position": "Right",
       "Text": "فریدون گفت نقّاشان چین را",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فریدون به نقاشان دستور داد تا اطراف محل برگزاری مراسمش را زیباسازی کنند و نقوش زیبا و هنری بسازند."
     },
     {
       "VOrder": 5,
@@ -58,7 +62,8 @@
       "Position": "Right",
       "Text": "بدان را نیک دار ای مرد هشیار",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "با مردم بد هم خوب رفتار کن، ای مرد خردمند،که نیکان خود بزرگوار و نیک‌روز هستند"
     },
     {
       "VOrder": 7,

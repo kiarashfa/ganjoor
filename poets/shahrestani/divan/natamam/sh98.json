@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "قفل کتابخانه حیرت دل من است",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کتابخانه‌ای که در دل من وجود دارد، پر از رازهای عشق و محبت است و آن را می‌توان همچون قفلی تصور کرد که همه‌ی این اسرار را در خود نگه داشته است."
     },
     {
       "VOrder": 2,
@@ -41,14 +42,16 @@
       "Position": "Right",
       "Text": "صید نگاه گرم ز دام رمیدگی است",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نگاه گرم و محبت‌آمیز مانند دام‌ می‌ماند که کسی از آن می‌گریزد و به راحتی نمی‌تواند در آن بماند."
     },
     {
       "VOrder": 4,
       "Position": "Right",
       "Text": "آیینه دار وحشت و الفت دل من است",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیینه‌ای که نشان‌دهنده ترس و عشق در دل من است."
     }
   ]
 }

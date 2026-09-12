@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "* یاران به موافقت چو دیدار کنید",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی با دوستانتان دیدار می‌کنید، باید به یاد دوستتان هم باشید و درباره‌اش صحبت کنید."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "چون بادهٔ خوشگوار نوشید به هم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که مشروب شیرینی نوشیدند و به یکدیگر خوشامد گفتند، وقتی نوبت به ما رسید، ما را به پایین می‌فرستند."
     },
     {
       "VOrder": 4,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "خواهی که مقیم و خوش شوی با ما تو",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی با ما بمانی و خوشحال باشی، باید آن وسوسه و شلوغی را کنار بگذاری."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "آنگه تو چنان شوی که بودی با من",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سپس تو به حالتی که با من بودی درمی‌آیی و من نیز به حالتی که در کنار تو بودم، برمی‌گردم."
     },
     {
       "VOrder": 4,

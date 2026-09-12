@@ -211,7 +211,8 @@
       "Text": "مغنّی نوایی بیا ساز کن",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای خواننده، آواز بخوان و نغمه‌ای بساز که جهان را سرشار از رازی ارزشمند کند."
     },
     {
       "VOrder": 2,
@@ -227,7 +228,8 @@
       "Text": "چنان تازه کن داغ دیرینهام",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: به گونه‌ای تازگی به دردهای قدیمی من ببخش که دیگر آتش آن‌ها از دل من برود و به جهنم هم نمی‌تواند برگردد."
     },
     {
       "VOrder": 4,
@@ -243,7 +245,8 @@
       "Text": "نی استخوانم، دم صور کن",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: من همچون نی هستم، بی‌گوشت و بی‌استخوان. به مانند نوای خوش بلبل، دلم پر از شوق و التهاب است."
     },
     {
       "VOrder": 6,
@@ -259,7 +262,8 @@
       "Text": "که بخشم قلم را پرآوازگی",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: من به قلم خود زندگی و شادابی جدیدی می‌بخشم و به سخن‌هایم طراوت و تازگی می‌دهم."
     },
     {
       "VOrder": 8,
@@ -275,7 +279,8 @@
       "Text": "کشم پردهای معنی بکر را",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: من پرده‌های معنای ناب را کنار می‌زنم و جلوه‌ای تازه به آن می‌بخشم؛ تا افکارم را به نمایش بگذارم."
     },
     {
       "VOrder": 10,
@@ -291,7 +296,8 @@
       "Text": "گه از دیده گویم بَرِ راستان",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: گاهی آنچه را که از چشم خود دیده‌ام تعریف می‌کنم و گاهی آنچه را که از دیگران شنیده‌ام نقل می‌کنم."
     },
     {
       "VOrder": 12,
@@ -307,7 +313,8 @@
       "Text": "سخن را به سر تاج شاهی نهم",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: من سخن را در اوج قدرت و اهمیت قرار می‌دهم و با روشنایی و روشنی مثل آب زلال، آن را در دل تاریکی و مشکلات جاری می‌سازم."
     },
     {
       "VOrder": 14,
@@ -323,7 +330,8 @@
       "Text": "بده ساقی آن جام یاقوت رنگ",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: به من آن لیوان سرخ رنگ بده که مانند گل، پرده‌های خوب و بد را کنار بزند."
     },
     {
       "VOrder": 16,
@@ -339,7 +347,8 @@
       "Text": "بر آتش نهم دلق پندار را",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: من به آتش می‌زنم لباس خیالی را و از زیر پیراهن محبوبم سر برمی‌آورم."
     },
     {
       "VOrder": 18,
@@ -355,7 +364,8 @@
       "Text": "بیا تا نمانده ست در زیر گل",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: بیا تا زمانی که هنوز چیزی از زندگی برایمان نمانده، دستمان را به سوی خوشبختی و آرزوهایمان دراز کنیم."
     },
     {
       "VOrder": 20,
@@ -371,7 +381,8 @@
       "Text": "به راه وفا جانفشانی کنیم",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: در راه وفا و صداقت جان را فدای عشق کنیم و به دنیای جاویدان و ماندگاری برسیم."
     },
     {
       "VOrder": 22,
@@ -387,7 +398,8 @@
       "Text": "سرآریم در خطّ فرمان عشق",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: در عشق، آماده‌ام تا جانم را در میدان عشق فدای معشوق کنم."
     },
     {
       "VOrder": 24,
@@ -403,7 +415,8 @@
       "Text": "سر نافه بگشا حزین، دیر شد",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: وقت آن است که دیگر منتظر نمانی و اقدام کنی، زیرا زمان از دست رفته است و حالا اوضاع تغییر کرده و دشوارتر شده است."
     },
     {
       "VOrder": 26,
@@ -419,7 +432,8 @@
       "Text": "بیا بازکن دفتر راز را",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: بیا دوباره رازها را باز کنیم و به قلمی که نکته‌ها را می‌نویسد، بگوییم."
     },
     {
       "VOrder": 28,
@@ -435,7 +449,8 @@
       "Text": "که آهوی چین عزم جولان کند",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: آهوهای زیبا و دلربای چین قصد دارند در دشت‌ها بگردند و زیبایی‌های وجودشان زمین را معطر و پر از عطر خوش کنند."
     },
     {
       "VOrder": 30,
@@ -451,7 +466,8 @@
       "Text": "سخن راندن نغز، کار من است",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: من به بیان زیبا و دلنشین صحبت کردن شهرت دارم و صحبت‌هایم در دنیا به یادگار خواهد ماند."
     },
     {
       "VOrder": 32,
@@ -467,7 +483,8 @@
       "Text": "فروغی که کردم ز دل اقتباس",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: آن نوری که از دل خود دریافت کردم، به دست یک داور با انصاف سپردم تا ارزش آن را بشناسد."
     },
     {
       "VOrder": 34,
@@ -483,7 +500,8 @@
       "Text": "بود از دم پاک اهل حضور",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که افرادی که در صف اهل حضور و معنویت قرار دارند، از خطاها و حسدهای ناپاک دور نگه داشته می‌شوند و در آغوش پاکی و صفا قرار دارند."
     },
     {
       "VOrder": 36,

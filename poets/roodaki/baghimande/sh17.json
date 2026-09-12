@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "این جهان پاک، خواب‌ْکردار است",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "این جهان کلا خیال و سراب است؛ کسی این را می‌داند که صاحب‌دل است. (پاک در اینجا قید است یعنی کلا، تماما)"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "نیکی او به جایگاه بد است",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "نیکی او در جای بد و نامناسب است و در زمانیکه باید غمخوار و تیمار تو باشد شادی می‌کند."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "چه نشینی بدین جهان هموار؟",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "چرا در این جهان‌، آسوده و راحت نشسته‌ای؟ جهانی که کارش همه نامناسب و دشواری است."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "کُنِش او نه خوب و چهرش خوب",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هم کردار و هم رفتار او زشت و ناخوب است اما ظاهرا زیبا و خوب به‌نظر می‌رسد."
     },
     {
       "VOrder": 8,

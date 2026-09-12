@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "کس با تو عدو محاربت نتواند",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ کس نمی‌تواند با تو دشمنی کند، زیرا که در دام تو گرفتار می‌شود."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "نه دل دهدش که با تو شمشیر زند",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نه دلش اجازه می‌دهد که بر تو شمشیر بکشد و نه آنقدر صبر دارد که از تو روی برگرداند."
     },
     {
       "VOrder": 4,

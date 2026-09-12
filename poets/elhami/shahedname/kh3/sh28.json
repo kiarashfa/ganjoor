@@ -491,7 +491,8 @@
       "Text": "نشست از بر باره ی تیز گرد",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: او از روی سپر تیز پیاده شد و دوباره به سمت تیراندازی حرکت کرد."
     },
     {
       "VOrder": 2,
@@ -507,7 +508,8 @@
       "Text": "بزد نعره چون حیدر پرشکوه",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: با صدای بلندی مانند حیدر(علی) که پر از شکوه و عظمت است، درخواست مبارزه‌ای را از آن گروه مطرح کرد."
     },
     {
       "VOrder": 4,
@@ -523,7 +525,8 @@
       "Text": "به رزمش نیامد کسی زان سپاه",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس از آن گروه به میدان نبرد نیامد، زیرا همه از شمشیر پادشاه ترس داشتند."
     },
     {
       "VOrder": 6,
@@ -539,7 +542,8 @@
       "Text": "روان نبی (ص)، داور اولیا",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: حضرت محمد (ص) روح بزرگ، قاضی و داور فرشتگان و نماینده خداوند در دین، نماد عظمت و بزرگی است."
     },
     {
       "VOrder": 8,
@@ -555,7 +559,8 @@
       "Text": "به دستی هلال سپهر ظفر",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: در آسمان، یک دست نماد پیروزی و دیگری نماد نور و روشنی را در دست دارد."
     },
     {
       "VOrder": 10,
@@ -571,7 +576,8 @@
       "Text": "سمند رسول خدا زیر ران",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: سمند پیامبر خدا با سرعت به صف بزرگ آن سپاه کوبید."
     },
     {
       "VOrder": 12,
@@ -587,7 +593,8 @@
       "Text": "نور دید درهم ز شمشیر شاه",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: نور دید درهم ز شمشیر شاه صف، به این معناست که دیدن نوری از شمشیر شاه در میدان نبرد، نشان از قدرت و عظمت او و همچنین صفوف منظم جنگجوها است. این تصویر به ما هشدار می‌دهد که در قلب میدان جنگ، نبردی جدی در حال وقوع است."
     },
     {
       "VOrder": 14,
@@ -603,7 +610,8 @@
       "Text": "به گوش آمدی نعره ی ذوالجناح",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: صدای نعره‌ی ذوالجناح به گوش می‌رسد، گاهی از دور و گاهی از مخفیگاهش."
     },
     {
       "VOrder": 16,
@@ -619,7 +627,8 @@
       "Text": "چنان لشگر از بیمش افروختند",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: لشگری که از ترس او برپا شد، به حدی بزرگ بود که بر روی سر کوپال (حیوانی در افسانه‌ها) نیز ضربه زدند."
     },
     {
       "VOrder": 18,
@@ -635,7 +644,8 @@
       "Text": "گریزان پسر بر پدر کوس زن",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: پسر از پدر فرار کرده و به نوعی در حال ناپاکی است، در حالی که مردی که به او وابسته است به زنی بیچاره تبدیل شده است."
     },
     {
       "VOrder": 20,
@@ -651,7 +661,8 @@
       "Text": "ز جولان اسبان و انبوه گرد",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: به خاطر حرکت سریع اسب‌ها و تجمع گرد و غبار، آسمان به رنگ تیره‌ای درآمد و گنبد آبی رنگ را پوشاند."
     },
     {
       "VOrder": 22,
@@ -667,7 +678,8 @@
       "Text": "زتاب عطش خسرو کاینات",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: به خاطر تشنگی و شدت عطش، فرمانروای کائنات بار دیگر به سوی رود فرات هجوم آورد."
     },
     {
       "VOrder": 24,
@@ -683,7 +695,8 @@
       "Text": "نگهبان رودش چو از دور دید",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: نگهبان رود وقتی از دور صدای بلندی را شنید، به دوستانش هشدار داد."
     },
     {
       "VOrder": 26,
@@ -699,7 +712,8 @@
       "Text": "که گیرید بروی سر راه تنگ",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی بر سر راه تنگی قرار گیرد، می‌توانید با شمشیر و تیر خود او را متوقف کنید."
     },
     {
       "VOrder": 28,
@@ -715,7 +729,8 @@
       "Text": "سواران سوی شاه در تاختند",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: سواره‌نظام به سمت شاه شتافتند و با سلاح‌های خود، تیر و شمشیر و نیزه را آماده کردند."
     },
     {
       "VOrder": 30,
@@ -731,7 +746,8 @@
       "Text": "به یک حمله کرد آن خداوندگار",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: آن فرمانده‌ای که دستش از سواران خالی بود، با یک حمله مستقیم به سمت رود بار رفت."
     },
     {
       "VOrder": 32,
@@ -747,7 +763,8 @@
       "Text": "درآمد درآن موج زن آب سرد",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: در میان آن موج‌های خنک آب، یک تپه وجود داشت که به شدت پر از آب بود."
     },
     {
       "VOrder": 34,
@@ -763,7 +780,8 @@
       "Text": "به پیش دهان بردش آن نظیر",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: او به جلو آمد و به چهره‌اش نگریست و متوجه شد که آن فرد، حصین نمیر است."
     },
     {
       "VOrder": 36,
@@ -779,7 +797,8 @@
       "Text": "سرش گشت از رشک آن پر زدود",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: از حسادت، سرش به دور چرخید و با سرعت، یکی تیر را در کمان گذاشت."
     },
     {
       "VOrder": 38,
@@ -795,7 +814,8 @@
       "Text": "چون آن تیر پران بجست از گشاد",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: وقتی آن تیرانداز با شتاب از کمان رها شد، به سوی شاه آمد و لب او را بوسید."
     },
     {
       "VOrder": 40,
@@ -811,7 +831,8 @@
       "Text": "که شاها لب از آب خوردن ببند",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: ای پادشاه،嘴 خود را از نوشیدن آب بازدار، زیرا این آب منبع حیات توست که از آسمان می‌ریزد."
     },
     {
       "VOrder": 42,
@@ -827,7 +848,8 @@
       "Text": "کشید آن خدنگ از دهان شهریار",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: آن تیر از دهان پادشاه بیرون آمد و رودخانه‌ای که به رنگ خون درآمده بود، به وجود آمد."
     },
     {
       "VOrder": 44,
@@ -843,7 +865,8 @@
       "Text": "بدانست آن داور انس و جان",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: آن داور بزرگ و دانا، که به روح و جسم انسان آگاه است، می‌داند که در این شرایط، باید جان را به او بسپاریم، حتی اگر جانمان تشنه باشد."
     },
     {
       "VOrder": 46,
@@ -859,7 +882,8 @@
       "Text": "ز دریا لب خشک آمد برون",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: از دریا قهری به shore رسیده است و به مانند جریانی از خون از دهان جاری می‌شود."
     },
     {
       "VOrder": 48,
@@ -875,7 +899,8 @@
       "Text": "گرفتند گردش سپه بیدرنگ",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: سپاه به سرعت به حرکت درآمد و با نیزه، شمشیر، تیر و پیکان به دشمن حمله کردند."
     },
     {
       "VOrder": 50,
@@ -891,7 +916,8 @@
       "Text": "شهنشاه از ایشان نکرد ایچ باک",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: سلطان از آنها هیچ هراسی نداشت، در حالی که قلبش پر از خشم و سرش پر از شور و حال بود."
     },
     {
       "VOrder": 52,
@@ -907,7 +933,8 @@
       "Text": "از ایشان بسی خصم نامی بکشت",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: از آن‌ها دشمن نامی زیادی را کشتند و دوباره به او پشت کردند."
     },
     {
       "VOrder": 54,
@@ -923,7 +950,8 @@
       "Text": "چو شمر اینچنین دید گفتا: تفو",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: شمر وقتی این وضعیت را دید، عصبانی شد و گفت: به شما که بی آبرو هستید، لعنت می‌فرستم."
     },
     {
       "VOrder": 56,
@@ -939,7 +967,8 @@
       "Text": "که بیچاره گشتید از یک سوار",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: اگر از یک سوار به شدت ترسیده‌اید، بهتر است چند بار از او دور شوید تا آرامش پیدا کنید."
     },
     {
       "VOrder": 58,
@@ -955,7 +984,8 @@
       "Text": "بتازید و گرد ورا یکسره",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: با قدرت و سرعت به او حمله کنید و تمام تمرکزتان را بر او بگذارید، همان‌طور که دایره را به نقطه تبدیل می‌کنید."
     },
     {
       "VOrder": 60,
@@ -971,7 +1001,8 @@
       "Text": "بدوناوک و تیغ و خنجر زنید",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: بدون هیچ سلاحی، از بالای اسب به زمین پرتاب کنید."
     },
     {
       "VOrder": 62,
@@ -987,7 +1018,8 @@
       "Text": "سپه یکسره اسب کین تاختند",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: سربازان و جنگجویان به خوبی آماده شده و بر اسب‌هایشان سوار شدند و برای درگیری به سوی پادشاه حمله کردند، در حالی که شمشیرها و چاقوها را به دست داشتند."
     },
     {
       "VOrder": 64,
@@ -1003,7 +1035,8 @@
       "Text": "به یک حمله فرزند خیرالانام",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: به طور ناگهانی، فرزند کسی که بهترین نام را دارد، آن سپاه را به طور کامل پراکنده کرد."
     },
     {
       "VOrder": 66,
@@ -1019,7 +1052,8 @@
       "Text": "نه از تیغ اندیشه بودش نه تیر",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: او نه به وسیله تفکر و اندیشه قوی، بلکه با تکیه بر شمشیر و قدرت جسمی، توانسته است دشمنان پست خود را از بین ببرد."
     },
     {
       "VOrder": 68,
@@ -1035,7 +1069,8 @@
       "Text": "چو این دید شمر تبه روزگار",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: وقتی شمر این را دید، از سرنوشت بدی که دچارش شده بود، شرمنده شد با توجه به حرف‌هایی که خودش زده بود."
     },
     {
       "VOrder": 70,
@@ -1051,7 +1086,8 @@
       "Text": "به سالار لشگر بگفت آن پلید",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: آن فرد زشت به فرمانده لشکر گفت که هیچ‌کس چشمی به شدت و قدرت این جنگجوی شیر مانند ندیده است."
     },
     {
       "VOrder": 72,
@@ -1067,7 +1103,8 @@
       "Text": "گمانم زمنی گر شود پر زمرد",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: به نظرم اگر زمانی فرا برسد که از این افراد، گوهرهایی همچون زمرد استخراج شود، تنها در یک لحظه به دست خواهد آمد."
     },
     {
       "VOrder": 74,
@@ -1083,7 +1120,8 @@
       "Text": "ندیدم که یک مرد بی یار و کس",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: هیچ مردی را ندیدم که بدون همراه و پشتیبان باشد، نه کسی که از او کمک کند و نه فریاد رسی در کنار او باشد."
     },
     {
       "VOrder": 76,
@@ -1099,7 +1137,8 @@
       "Text": "به چشم اندرش نعش پیوند و یار",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: در دل نگریستن به زیبایی‌های دنیا و به یاد آوردن دوست، و در گوش شنیدن صدای کودکان نالان."
     },
     {
       "VOrder": 78,
@@ -1115,7 +1154,8 @@
       "Text": "روانش زمرگ پسر پر ز سوز",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: روح او از درد مرگ پسرش آکنده از اندوه و سوز است، چون که سه روز است که از آب گوارا نخورده."
     },
     {
       "VOrder": 80,
@@ -1131,7 +1171,8 @@
       "Text": "چنانش بود دل به جان استوار",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: دل او به قدری محکم و استوار بود که در میان جنگ و در برابر چندین سوار، هیچ تردیدی به خود راه نداد و نتوانست سرش را از میدان جنگ برگرداند."
     },
     {
       "VOrder": 82,
@@ -1147,7 +1188,8 @@
       "Text": "مگر این پسر کشته پور علی (ع)",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: آیا این جوان، فرزند علی (ع) است که با شجاعت و دلیری به میدان آمده است؟"
     },
     {
       "VOrder": 84,
@@ -1163,7 +1205,8 @@
       "Text": "گواهی دهم سبط پیغمبر (ص) است",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: شهادت می‌دهم که نوه پیامبر، نشانه‌ی شجاعت و دلیری وارث علی (ع) است."
     },
     {
       "VOrder": 86,
@@ -1179,7 +1222,8 @@
       "Text": "چو افکند بسیار مرد و سمند",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: هنگامی که مردان و اسب‌های زیادی به سمت مرکز حرکت کردند، پادشاه گرامی نیز به سوی آنجا آمد."
     },
     {
       "VOrder": 88,
@@ -1195,7 +1239,8 @@
       "Text": "به ناگه یکی مرد ژولیده موی",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: ناگهان مردی با مویی نامرتب و بی‌نظم ظاهر شد، که به دنبال حقیقت و دین بود و همیشه راست می‌گفت."
     },
     {
       "VOrder": 90,
@@ -1211,7 +1256,8 @@
       "Text": "به چشم اندر آمد شهنشاه را",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: با دیدن نگاه شهنشاه، متوجه شدم که تو راهی را به سوی او پیموده‌ای."
     },
     {
       "VOrder": 92,

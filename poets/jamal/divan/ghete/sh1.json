@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "که خواستم از تو زابلهی من",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خواستم از تو کمک بگیرم و به من گفتی که در اینجا نمی‌توانم یاری کنم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "ته تو نه رهی تو نه کاهت",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو نه راهی را پیدا می‌کنی و نه از خودت چیزی داری، ای فروشنده‌ی خوش‌چهره، بیا و به دور باده بچرخ."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "انبار و رهی چه حاجت ای خر",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: انبار و مسیر چه نیازی داری، ای خر، از آشپزخانه خاص خودت کمک بگیر."
     },
     {
       "VOrder": 6,

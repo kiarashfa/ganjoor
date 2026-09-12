@@ -29,14 +29,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "هرچه به تو نه نیکواست تو نیز به دگرکس مکن‌.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچقدر که با تو رفتار نیکو نیست، تو نیز با دیگران خوب رفتار نکن."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "هر آن چیزکان زی تو نبود نکو",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که از تو خوب نیست، برای دیگران هم آرزو نکن."
     },
     {
       "VOrder": 3,

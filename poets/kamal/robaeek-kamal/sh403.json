@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گفتی دودلی تو ، از تو کاری ناید",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو گفته‌ای که در تصمیم‌گیری تردید داری، اما تو هیچ کاری از دستت برنمی‌آید. اینطور به من نسبت بی‌اعتمادی می‌دهی."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "چون نیست مرا دلی وگر نیزم هست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دلی برای من نیست، اما اگر هم داشته باشم، تا صد بار به خاطر غمت باید بسوزم."
     },
     {
       "VOrder": 4,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "شاها! خصمت چو تیره شد اختر او",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای پادشاه! زمانی که ستاره‌ی دشمن تو تیره و کم‌نور شد، تیغه‌ی شمشیر تو به زیبایی و ارزش او آسیب خواهد زد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "لیکن حاسد هنوز در سر دارد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حسود هنوز در دلش آرزو دارد که نامی برای خود داشته باشد، حتی اگر سرش را قطع کنی."
     },
     {
       "VOrder": 4,

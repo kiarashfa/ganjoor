@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "تنگی آورده خانهٔ صیاد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صیاد به خاطر تنگی و کمبود جا در خانه‌اش، باید چند چاک به قفس‌اش اضافه کند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "سیرآن جلوه مفت فرصت ماست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جلوه‌ی زیبای زندگی فرصتی ارزشمند برای ماست، مانند بهار که باید از چشم بد دور بماند."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "عشق چون شمع در تلاش سجود",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق مانند شمعی است که در حال فروغ و تلاش است و ما را به سمت تسلیم و احترام به خود می‌کشاند."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "نفس آنست آنکه‌تا رسید به لب",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نفس همان چیزی است که وقتی به لب ما نزدیک می‌شود، مانند سحر قیامت به وجود می‌آید."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "دل تنگ آخر از جهان بردبم",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل ما از دلتنگی به ستوه آمد و در این دنیا رازهایی داشتیم که کسی به آن‌ها پی نبرد."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "بیستون در غبار سرمه‌کم ست",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دودی که بر بیستون نشسته است، صدای ناله به دنبال فرهاد نیز رفته است."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "چیست شغل جهان حیرانی",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شغل دنیا گیج و سرگردانی است و هر کس به اندازه ظرفیت و توانایی خودش در این دنیا زندگی می‌کند."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "ازکف وارثان نرفت برون",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زر و مال قارون هرگز از دست وارثان او خارج نشد و همچنین بناهای شگرف شداد نیز پابرجا ماندند."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "خفته‌ای زیر سقف بی‌دیوار",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در مکانی آرام و راحت، که دیواری ندارد، تو در خواب هستی. امیدوارم زندگی خوشی در این خانه داشته باشی."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "یار عمری‌ست‌نام ما نگرفت",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوست ما سال‌هاست که نام ما را فراموش کرده، اما این فراموشی ناشی از این است که او یاد کسی دیگر را در ذهن دارد."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "نامه دل بود درکف امید",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من نامه‌ای به امیدی نوشته بود، اما در دستم ماند و دوباره ارسال نشد."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "تا چراغم رسد به خاموشی",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من تا وقتی که نورم به پایان برسد، همه شب مشغول آرایش چشم خود هستم."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "گردم این نه قفس نمی‌یابد",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که اگرچه ممکن است در ظاهر در محدودیت‌هایی به سر ببرم، اما در عمل احساس نمی‌کنم که این محدودیت‌ها بتوانند مرا باطل کنند یا آزادی‌ام را از بین ببرند. در واقع، می‌توانم از زیر این محدودیت‌ها عبور کنم و خود را آزاد احساس کنم."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "چون سپندم در آتشی‌که مپرس",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من مانند آتشی در جا هستم و اگر فریاد بزنم، مثل گرانبهایی می‌شوم که در گرد و غبار می‌افتد."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "محمل‌شمع‌می‌کشم‌بیدل",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من شمع را در حالی که محملی از عشق دارم به دوش می‌کشم و در این مسیر، غم و رنج به پاهایم فشار می‌آورند."
     },
     {
       "VOrder": 30,

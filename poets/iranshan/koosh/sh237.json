@@ -151,7 +151,8 @@
       "Text": "دگر روز برداشت لشکر ز جای",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: در روز دیگری، سپاه از مکان خود حرکت کرد و جهان پر شد از صدای ناله و ساز."
     },
     {
       "VOrder": 2,
@@ -167,7 +168,8 @@
       "Text": "دو لشکر برابر فرود آمدند",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: دو گروه از سربازان به طور مساوی از جنگل به دشت و رودخانه رسیدند."
     },
     {
       "VOrder": 4,
@@ -183,7 +185,8 @@
       "Text": "فرستاد کارآگهی شاه چین",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: شاه چین به یک کارآگاه دستور می‌دهد تا سواران دشمن را ببیند و اوضاع را بررسی کند."
     },
     {
       "VOrder": 6,
@@ -199,7 +202,8 @@
       "Text": "همه تا چه مایه سپاه آمده‌ست",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: همه چقدر به جنگ آمده‌اند، فرمانده‌ی بزرگ و باکرامت نیز به همراهشان آمده است."
     },
     {
       "VOrder": 8,
@@ -215,7 +219,8 @@
       "Text": "بیامد سلیح و سپه دید و اسب",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: سلیح و سپاه آمدند و اسب‌ها با سرعت زیادی حرکت کردند، مانند یک اژدهای چابک."
     },
     {
       "VOrder": 10,
@@ -231,7 +236,8 @@
       "Text": "سپاه است، گفتا چو دریای چین",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: او گفت که مانند دریای چین، لشکری است که به جنگ می‌روند و با شتاب و ناپایداری به کینه و دشمنی مشغول‌اند."
     },
     {
       "VOrder": 12,
@@ -247,7 +253,8 @@
       "Text": "زمین از گرانی و ساز یلان",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: زمین به خاطر سنگینی و نغمه‌های پهلوانان به لرزه درآمد، مانند دل کسانی که در رنج و اندوه‌اند."
     },
     {
       "VOrder": 14,
@@ -263,7 +270,8 @@
       "Text": "چنان بارگی برخروشد همی",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: چنان بارانی می‌بارد که حتی ماه را هم پوشانده و از دید پنهان کرده است."
     },
     {
       "VOrder": 16,
@@ -279,7 +287,8 @@
       "Text": "سپهدارشان قارن تیره‌کیش",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: فرمانده سپاه آنها، قارن که به تاریکی و کفر معتقد بود، برادر کسی را که در نبرد پیشین شرکت کرده بود، به یاد می‌آورد."
     },
     {
       "VOrder": 18,
@@ -295,7 +304,8 @@
       "Text": "تو او را چنان گرز بر سر زدی",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: شما او را همچون پتکی بر سر زدی که همه نیروهایش را به هم ریختی."
     },
     {
       "VOrder": 20,
@@ -311,7 +321,8 @@
       "Text": "بدو گفت کوش این فرومایه مرد",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: برو بگو به این فرد پست که از آنچه برادرش خورد، بدتر بخورد."
     },
     {
       "VOrder": 22,
@@ -327,7 +338,8 @@
       "Text": "نه قارن بدو هیچ پیغام کرد",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: نه کسی از قارن پیامی فرستاد و نه او در آن جنگ تلاش کرد تا آرامش برقرار کند."
     },
     {
       "VOrder": 24,

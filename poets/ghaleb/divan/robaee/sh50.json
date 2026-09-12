@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "امروز که روز عید نوروز بود",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امروز که روز عید نوروز است، روزی خوش و شاداب به حساب می‌آید."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "هر عیش و نشاطی که درین روز بود",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر شادی و لذتی که امروز تجربه می‌کنی، هر روز به خاطر خوش‌شانسی تو خواهد بود."
     },
     {
       "VOrder": 4,

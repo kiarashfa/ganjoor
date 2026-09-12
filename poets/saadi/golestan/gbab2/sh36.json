@@ -36,44 +36,51 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "درویشی به مَقامی در آمد که صاحبِ آن بُقعه کریم‌النَّفس بود؛ طایفهٔ اهل فضل و بَلاغت در صحبتِ او هر یکی بَذله و لطیفه همی‌گفتند.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "درویشی به جایی وارد شد که صاحب آن مکان فردی مهربان و بزرگوار بود. گروهی از انسان‌های با فضل و بلیغ در کنار آن فرد بزرگوار نشسته بودند و هر کدام شوخی و لطیفه‌ای می‌گفتند."
     },
     {
       "VOrder": 2,
       "Position": "Paragraph",
       "Text": "درویش راهِ بیابان کرده بود و مانده و چیزی نخورده.",
-      "CoupletIndex": 1
+      "CoupletIndex": 1,
+      "CoupletSummary": "درویش از راه دوری آمده بود و چیزی هم نخورده بود."
     },
     {
       "VOrder": 3,
       "Position": "Paragraph",
       "Text": "یکی از آن میان به طریقِ ظرافت گفت: تو را هم چیزی بباید گفت.",
-      "CoupletIndex": 2
+      "CoupletIndex": 2,
+      "CoupletSummary": "یکی از آن جمع از سر احترام و ظریف‌بینی گفت: تو هم چیزی بگو."
     },
     {
       "VOrder": 4,
       "Position": "Paragraph",
       "Text": "گفت: مرا چون دیگران فضل و ادبی نیست و چیزی نخوانده‌ام، به یک بیت از من قناعت کنید.",
-      "CoupletIndex": 3
+      "CoupletIndex": 3,
+      "CoupletSummary": "گفت: من مانند دیگران فضل و ادبی ندارم که حرفی بزنم و چیزی هم نخوانده‌ام؛ فقط یک بیت می‌گویم و به همین از من بسنده کنید."
     },
     {
       "VOrder": 5,
       "Position": "Paragraph",
       "Text": "همگنان به رغبت گفتند: بگوی!",
-      "CoupletIndex": 4
+      "CoupletIndex": 4,
+      "CoupletSummary": "هم‌نشینان با میل گفتند بگو"
     },
     {
       "VOrder": 6,
       "Position": "Paragraph",
       "Text": "گفت:",
-      "CoupletIndex": 5
+      "CoupletIndex": 5,
+      "CoupletSummary": "گفت"
     },
     {
       "VOrder": 7,
       "Position": "Right",
       "Text": "من گُرْسِنِه در برابرم سفرهٔ نان",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "من وقتی گرسنه باشم و در مقابلم سفره‌ی نان باشد، درست مثل مرد مجردی هستم که پشت درب حمام زنانه ایستاده."
     },
     {
       "VOrder": 8,
@@ -86,13 +93,15 @@
       "VOrder": 9,
       "Position": "Paragraph",
       "Text": "یاران نهایتِ عجز او بدانستند و سفره پیش آوردند.",
-      "CoupletIndex": 7
+      "CoupletIndex": 7,
+      "CoupletSummary": "افراد جمع متوجه وضع او و گرسنگی شدیدش شدند و سفره‌ای برای او آماده کردند."
     },
     {
       "VOrder": 10,
       "Position": "Paragraph",
       "Text": "صاحب دعوت گفت: ای یار! زمانی توقّف کن که پرستارانم، کوفته‌بریان می‌سازند.",
-      "CoupletIndex": 8
+      "CoupletIndex": 8,
+      "CoupletSummary": "دعوت کننده گفت: ای دوست! کمی صبر کن تا خادمان من، غذای کوفته بریان را آماده کنند."
     },
     {
       "VOrder": 11,
@@ -105,7 +114,8 @@
       "Position": "Right",
       "Text": "کوفته بر سفرهٔ من گو مباش",
       "CoupletIndex": 10,
-      "SectionIndex1": 1
+      "SectionIndex1": 1,
+      "CoupletSummary": "برای آدم گرسنه نیازی به غذایی مثل کوفته و دیگر غذاهای خوشمزه و گران و رنگارنگ نیست، برای گرسنه نان خالی هم حکم بهترین غذا را دارد و مثل کوفته است."
     },
     {
       "VOrder": 13,

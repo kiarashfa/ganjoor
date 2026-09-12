@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "اگر بگسستی از ما، غم نداریم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر از ما جدا شوی، ما نگران نیستیم، زیرا ما به اندازه کافی از این جدایی‌ها و مشکلات داشته‌ایم."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "نداری گر سر پیوند ما تو",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو در پیوند ما هیچ نداشتی، پس برو و بی‌دردسر زندگی کن، چون ما نیز از تو چیزی نداریم."
     },
     {
       "VOrder": 4,
@@ -54,7 +56,8 @@
       "Position": "Right",
       "Text": "بر ابرو گر تو از اندیشه ما",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو بر ابرویت فکر کنی و آن را خم کنی، ما هیچ کس برای خم نکردن ابرویمان نداریم."
     },
     {
       "VOrder": 6,
@@ -68,7 +71,8 @@
       "Position": "Right",
       "Text": "اگر دینار و درهم نیست ما را",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر پول و ثروت نیست، ما هم از این مسیر دل‌تنگ و ناراحت نیستیم."
     },
     {
       "VOrder": 8,

@@ -161,7 +161,8 @@
       "Text": "کسی بر حکم بین الناس بگزین",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: کسی را برای قضاوت میان مردم انتخاب کن که دیگران درباره‌اش بگویند از تو انسان بهتری است."
     },
     {
       "VOrder": 2,
@@ -177,7 +178,8 @@
       "Text": "سزای مسند است آن پاک طینت",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: شایسته‌ی مقام و مقام‌دار آن فرد نیک‌نفس است که فضائلش از دیگران بیشتر باشد."
     },
     {
       "VOrder": 4,
@@ -193,7 +195,8 @@
       "Text": "دم خصمش نسازد تار و تیره",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: هنگامی که دشمن دم به دم در کار دشمنی است، تاریکی و تنهایی بر دلش حاکم می‌شود و دلش از فکر و یاد او آزار می‌بیند."
     },
     {
       "VOrder": 6,
@@ -209,7 +212,8 @@
       "Text": "چو خصمان در برش سازنده حجت",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: زمانی که دشمنان دور و بر او به عنوان دلیلی بر محبت حمله می‌کنند، محبت از هر سو در دل تاریک می‌شود."
     },
     {
       "VOrder": 8,
@@ -225,7 +229,8 @@
       "Text": "قرین عصمت و پرهیزگاری",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: کسی که از گناه و خطا دور است و دارای پرهیزگاری می‌باشد، در عین حال با بردباری و حلمی که دارد، به آرامش و آرامش درونی دست می‌یابد."
     },
     {
       "VOrder": 10,
@@ -241,7 +246,8 @@
       "Text": "ببین اندر هنرهائی که ورزد",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: به کارهایی که افراد در آن مهارت دارند، توجه کن؛ زیرا هر شخصی در زمینه خود ارزشمند است."
     },
     {
       "VOrder": 12,
@@ -257,7 +263,8 @@
       "Text": "نظر کن نیک و کار مزد بشناس",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: به دقت بررسی کن و ارزش تلاش هر کس را بشناس. به اندازه‌ای که توانایی و تلاش اوست، به او احترام و پاداش بده."
     },
     {
       "VOrder": 14,
@@ -273,7 +280,8 @@
       "Text": "ز رنج و سختیش اندازه برگیر",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: از درد و زحماتش درس بگیر و برای هر کارش حساب و کتاب جدیدی داشته باش."
     },
     {
       "VOrder": 16,
@@ -289,7 +297,8 @@
       "Text": "مده رنج کسی نسبت بغیرش",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: به کسی که به تو آسیب رسانده، رنج نده و او را مورد سرزنش قرار نده، چون هر فردی فقط از خودش خوب و بد می‌آفریند."
     },
     {
       "VOrder": 18,
@@ -305,7 +314,8 @@
       "Text": "برفق آرند از ایشان بی سود",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: از آن‌ها برف می‌بارد، لیکن هیچ سودی در بر ندارد و نیاز به آن‌ها باعث خستگی و فرسودگی می‌شود."
     },
     {
       "VOrder": 20,
@@ -321,7 +331,8 @@
       "Text": "چو زنگه شبه در آیینه کار",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: زمانی که زنگار به آینه می‌نشیند، تصویر در آن خوب نمایان نمی‌شود و آینه کدر و تار می‌گردد."
     },
     {
       "VOrder": 22,
@@ -337,7 +348,8 @@
       "Text": "شتاب و عجله را از کف گذارد",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: شتاب و عجله را کنار گذاشت و با آرامش از هر طرف به سفر رفت."
     },
     {
       "VOrder": 24,
@@ -353,7 +365,8 @@
       "Text": "مکن بهر از رشوت کار را بیع",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: کاری را به خاطر رشوت انجام نده، زیرا این کار در دنیا ثمری نخواهد داشت."
     },
     {
       "VOrder": 26,

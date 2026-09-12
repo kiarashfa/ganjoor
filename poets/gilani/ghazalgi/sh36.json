@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "شب همه شب با تو می‌گوییم راز",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر شب با تو گفت‌وگو می‌کنیم و رازی را در میان می‌گذاریم، در حالی که غفلتاً پای‌هایمان دراز شده است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "ای ز ما کرده فراموش گوییا",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو که ما را فراموش کرده‌ای، به نظر می‌رسد هرگز به سمت ما باز نخواهی گشت."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "خیز و ترک خواب کن تا نیمه‌شب",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیدار شو و از خواب نزن، تا نیمه‌شب ما فرصتی داشته باشیم که با هم راز و رمزهایی را در میان بگذاریم."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "بی‌نیاز‌م از تو و طاعات تو",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از تو و عبادت‌هایت بی‌نیازم، حتی با وجود نماز و روزه‌های زیادت، بحث و جدل‌های زیادی کرده‌ام."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "تو نیاز آور برای من که نیست",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو برای من به قدری مهم هستی که هیچ عملی که شایسته‌ی تو باشد، ندارم جز این نیاز."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "محیی گر کاری نکردی غم مخور",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو کاری نکرده‌‌ای، دلشاد نباش؛ من هم در کار تو هستم و هم راهی برای بهبود وضعیت دارم."
     },
     {
       "VOrder": 12,

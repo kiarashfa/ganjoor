@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای مایهٔ رهبری و گمراهی تو",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که باعث هدایت و گمراهی دیگران هستی، اگر بخواهی من آماده‌ام تا از تو فرمانبری کنم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گر خوانم و گر نخوانمت می دانی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچند که من بخوانمت یا نخوانمت، تو می‌دانی که اگر بخواهم یا نخواهم، تو از آن باخبری."
     },
     {
       "VOrder": 4,

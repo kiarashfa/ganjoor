@@ -76,7 +76,8 @@
       "Text": "ز ما ای گل چه دیدی؟",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: ای گل، تو از ما چه چیز دیده‌ای که از کنار ما رفته‌ای و دامن خود را بالا کشیده‌ای؟"
     },
     {
       "VOrder": 2,
@@ -92,7 +93,8 @@
       "Text": "جفا کردی، بخشیدم",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: تو به من آسیب زدی، اما من بخشیدمت. من به تو وفا کردم، اما تو از من آزرده شدی."
     },
     {
       "VOrder": 4,
@@ -108,7 +110,8 @@
       "Text": "عتاب تو، بشنیدم",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: تنبیه و سرزنش تو را شنیدم، اما صدا و ناله من را نشنیدی."
     },
     {
       "VOrder": 6,
@@ -124,7 +127,8 @@
       "Text": "نگارا",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: ای دلبر، تو روشنی بخش دل و جان منی."
     },
     {
       "VOrder": 8,
@@ -132,7 +136,8 @@
       "Text": "ندیدم جز خواری",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: جز ذلت و خواری چیزی از عشق تو ندیدم، اما به خاطر عشق تو از دنیا چشم پوشیدم."
     },
     {
       "VOrder": 9,
@@ -148,7 +153,8 @@
       "Text": "چه دیدی جز یاری",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: چه دیدی جز یاری که ناگهان مثل بخت از من دور شد؟"
     },
     {
       "VOrder": 11,
@@ -164,7 +170,8 @@
       "Text": "اگر با تو، وفا کردم",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: اگر در حق تو نیکی کردم، ممکن است که اشتباه کرده باشم."
     },
     {
       "VOrder": 13,
@@ -180,7 +187,8 @@
       "Text": "چو دیدم خویت را",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: وقتی که زیبایی تو را دیدم، چرا در محله‌ات جاگیر شدم؟"
     },
     {
       "VOrder": 15,
@@ -196,7 +204,8 @@
       "Text": "چو دیدی مهرم را",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: وقتی دیدی که به من علاقه‌مند هستم، چرا در نهایت از خانه و زندگی‌ام دور شدی؟"
     },
     {
       "VOrder": 17,
@@ -212,7 +221,8 @@
       "Text": "دلدارا",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: دلبر عزیز، تو برای من مانند نوری هستی که در تاریکی می‌تابد و زندگی‌ام را روشن می‌کند."
     },
     {
       "VOrder": 19,
@@ -220,7 +230,8 @@
       "Text": "چو دل از من ربودی",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: وقتی که قلب من را از من گرفتی، دیگر آن دوست و همراهی که قبلاً بودی، نیستی."
     },
     {
       "VOrder": 20,
@@ -236,7 +247,8 @@
       "Text": "چو مهر من افزون شد",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: وقتی که عشق و محبت من بیشتر شد، تو به سختی و بی‌رحمی خود اضافه کردی."
     },
     {
       "VOrder": 22,
@@ -252,7 +264,8 @@
       "Text": "نه از دردم پرسیدی",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: نه از حال بد من خبری گیر، نه دردی را که دارم تسکین دادی."
     },
     {
       "VOrder": 24,
@@ -268,7 +281,8 @@
       "Text": "نگارا",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: ای محبوب، تو زیبایی و ناز و لطافتی که دل را می‌رباید."
     },
     {
       "VOrder": 26,
@@ -276,7 +290,8 @@
       "Text": "گمان بردم اول",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در ابتدا فکر می‌کردم که اگر جانم را بخواهم، دل مرا نخواهی شکست."
     },
     {
       "VOrder": 27,
@@ -292,7 +307,8 @@
       "Text": "ندانستم ای گل",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: نمی‌دانستم ای گل، که به زودی عهد و وفای مرا خواهی شکست."
     },
     {
       "VOrder": 29,
@@ -308,7 +324,8 @@
       "Text": "اگر صید تو شد جانم",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: اگر تو به قلب من نفوذ کنی و مرا به خود جذب کنی، احساس پشیمانی و ندامت می‌کنم."
     },
     {
       "VOrder": 31,
@@ -324,7 +341,8 @@
       "Text": "ز مهرم دل کندی",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: دل را از محبت من جدا کردی، اما من همانی هستم که همیشه به تو می‌گفتم."
     },
     {
       "VOrder": 33,
@@ -340,7 +358,8 @@
       "Text": "به عهدت دل بستم",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: دل به قول و پیمان تو سپردم، اما تو را که وعده داده بودیم، در کنار خود نیافتم."
     },
     {
       "VOrder": 35,
@@ -356,7 +375,8 @@
       "Text": "دلدارا",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: دلدارم، تو آن نور و روشنی هستی که زندگی‌ام را پر می‌کند و به من آرامش می‌بخشد. عشق و محبت تو چون نوری در تاریکی‌ام می‌درخشد و حس می‌کنم که بدون تو نمی‌توانم زندگی کنم."
     }
   ]
 }

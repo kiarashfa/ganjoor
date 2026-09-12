@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "طالبعلم و ظریف و خوش طبع و خوشنویس است، این مطلع از اوست:",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: او دانش‌آموخته‌ای با ذوق، ظریف و خوش‌طبع است که خط خوشی نیز دارد."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "حدیث کشتن ما هر دو در میان دارند",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: داستان کشتن ما، که هر دو در آن نقش داریم، در میان است و طوطی نشسته بر لب لعل، سخن از آن می‌گوید."
     },
     {
       "VOrder": 3,

@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "شاعری پاکیزه گوست و این مطلع از اوست و خوب گفته :",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: شاعری با کلامی زیبا و خالص است و این بیت متعلق به اوست که به زیبایی بیان شده است."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "ز آتش عشق نه تنها جگرم میسوزد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آتش عشق نه تنها جگرم را می‌سوزاند، بلکه به خاطر گريه‌های زیاد، چشم‌هایم نیز می‌سوزد."
     },
     {
       "VOrder": 3,

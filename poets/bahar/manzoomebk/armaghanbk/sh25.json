@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "از سیزک (‌خبرچین‌) و دروغ مرد سخن مشنو.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: به حرف‌های خبرچین‌ها و دروغ‌های دیگران گوش ندهید."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "مکن گوش هرگز به مرد دروغ",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرگز به حرف‌های مرد دروغ گوش نده، زیرا در سخنانش هیچ نشانه‌ای از حقیقت وجود ندارد."
     },
     {
       "VOrder": 3,

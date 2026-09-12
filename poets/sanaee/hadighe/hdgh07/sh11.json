@@ -371,7 +371,8 @@
       "Text": "در جهانی که عقل و ایمانست",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: در دنیایی که عقل و ایمان وجود دارد، مرگ جسم به معنای زنده شدن روح است."
     },
     {
       "VOrder": 2,
@@ -387,7 +388,8 @@
       "Text": "تن فدا کن که در جهان سخن",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: بدن را فدای سخن کن، زیرا در این دنیا وقتی که جان از بدن جدا شود، سخن و معانی آن زنده می‌مانند."
     },
     {
       "VOrder": 4,
@@ -403,7 +405,8 @@
       "Text": "روزی آخر ز چرخ پاینده",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: روزی خواهد رسید که از چرخ زمان، هم تو سایه‌ای و هم کسی که بر تو سایه می‌افکند."
     },
     {
       "VOrder": 6,
@@ -419,7 +422,8 @@
       "Text": "گر ترا از حواس مرگ برید",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: اگر تو از احساس مرگ فاصله بگیری، حتی مرگ هم آرزوی مرگ را نخواهد داشت."
     },
     {
       "VOrder": 8,
@@ -435,7 +439,8 @@
       "Text": "هاون ار چند چیزها ساید",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: اگر هاون چند چیز را با هم بزند، در نهایت همه آن‌ها با هم برای رسیدن به یک نتیجه نهایی هموار می‌شوند. زمانی که وقت درست برسد، همه چیز به هم پیوند می‌خورد و نتیجه مطلوب به دست می‌آید."
     },
     {
       "VOrder": 10,
@@ -451,7 +456,8 @@
       "Text": "مرگ اگر ریخت خون ماده و نر",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: اگر مرگ باعث شود که خون مرد و زن ریخته شود، در روز قیامت نیز خون همه در کنار هم جاری خواهد شد."
     },
     {
       "VOrder": 12,
@@ -467,7 +473,8 @@
       "Text": "ای بهان را به بد بیازرده",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که بهانه را با کارهای زشت آزرده‌ای و آنچه بد بود را با افراد بد انجام داده‌ای."
     },
     {
       "VOrder": 14,
@@ -483,7 +490,8 @@
       "Text": "عمرت از آس آسمان سوده",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: زندگی تو به بازی تقدیر وابسته است، پس چرا لحظه‌ای هم از آن آسوده خاطر نیستی؟"
     },
     {
       "VOrder": 16,
@@ -499,7 +507,8 @@
       "Text": "بس بود زین سپس کنف کفنت",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: دیگر بس است، کافیست که از کنف و لایه‌های کفن به اندازه‌ای استفاده کنی که نمی‌تواند پیرهنت را تحمل کند."
     },
     {
       "VOrder": 18,
@@ -515,7 +524,8 @@
       "Text": "لعل را کافتاب پروردست",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: لعل، که به شکل گوهر زیبایی است، تحت تأثیر نور خورشید قرار گرفته و از تمام مشکلات و آسیب‌ها جدا شده است."
     },
     {
       "VOrder": 20,
@@ -531,7 +541,8 @@
       "Text": "شحنهٔ اوست آفتاب بلند",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: خورشید بلندی او را در دسترس ندارد و نه کسی می‌تواند به او آسیب برساند یا او را تهدید کند."
     },
     {
       "VOrder": 22,
@@ -547,7 +558,8 @@
       "Text": "چون همی زاختران پذیرد قوت",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: زمانی که ستاره‌ها نیرویی را دریافت کنند، هیچ چیز از ارزش و زیبایی سنگ‌های قیمتی مانند یاقوت کمتر نخواهد شد."
     },
     {
       "VOrder": 24,
@@ -563,7 +575,8 @@
       "Text": "باز دُرّی کز آب زاد و مغاک",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: دریایی که از آب به وجود آمده و در عمق زمین مدفون شده، در نهایت از خاکی که خود از آن آمده، به وجود آمده است."
     },
     {
       "VOrder": 26,
@@ -579,7 +592,8 @@
       "Text": "بر فلک شو که در جهان وجود",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: به آسمان برو؛ در این جهان هر کسی که در جود و بخشش برتر باشد، کریم‌تر و بزرگ‌تر است."
     },
     {
       "VOrder": 28,
@@ -595,7 +609,8 @@
       "Text": "دشمن جان تنست خاکش دار",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: دشمن جان و تن تو، خاکش را به حرم کعبه حق تشبیه کن و دلش را پاک نگه‌دار."
     },
     {
       "VOrder": 30,
@@ -611,7 +626,8 @@
       "Text": "زانکه اندر سرای سور و صوَر",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: زیرا در خانه شادی و زیبایی، برای رسیدن به مقام و جایگاه بالا تلاش می‌شود."
     },
     {
       "VOrder": 32,
@@ -627,7 +643,8 @@
       "Text": "همه آلایش تو از طین است",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: تمام ناپاکی‌ها و زشتی‌های تو برآمده از ماده و جسم است، اما زیبایی و زینت واقعی تو ناشی از دیانت و ایمان توست."
     },
     {
       "VOrder": 34,
@@ -643,7 +660,8 @@
       "Text": "رهبر این راه را چو مرگت نیست",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: اگر رهبر این مسیر نیست، یعنی کسی که راه را هدایت کند، پس بی‌هدف و بی‌برنامه نروید، چون در این حالت از وضعیت خود چیزی نخواهید داشت."
     },
     {
       "VOrder": 36,
@@ -659,7 +677,8 @@
       "Text": "مرگ هدیه است نزد داننده",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: مرگ برای کسی که آگاه است، همچون هدیه‌ای از سوی خداوند به شمار می‌آید. او آن را به چشم یک مهمان غیرمنتظره می‌بیند که وارد زندگی‌اش شده و به نوعی بخشی از روند زندگی است."
     },
     {
       "VOrder": 38,
@@ -675,7 +694,8 @@
       "Text": "سوی دین هدیهٔ خدایش دان",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: به خداوند هدیه‌ای از دین تقدیم کن، زیرا اگر کسی به‌زور به مهمانی‌ات بیاید، خداوند خودش را به تو خواهد رساند."
     },
     {
       "VOrder": 40,
@@ -691,7 +711,8 @@
       "Text": "مرگ ناخوانده کایدت مهمان",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: مرگ ناگهانی و غیرمنتظره به سراغت می‌آید و تو مهمانی هستی که هدیه‌ای از جانب خداوند در قالب جان و بدن خود دریافت کرده‌ای."
     },
     {
       "VOrder": 42,
@@ -707,7 +728,8 @@
       "Text": "جامه‌ت ای آنکه تخت تو خردست",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که لباس تو، حاصل زحمات و تلاش‌های توست، که بر تخت پادشاهی نشسته‌ای و تمام عناصر طبیعی مانند آتش، آب، باد و خاک در دست تو هستند."
     },
     {
       "VOrder": 44,
@@ -723,7 +745,8 @@
       "Text": "مرگ چون رخ نمود هیچ منال",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: زمانی که مرگ خودش را نشان می‌دهد، هیچ ناراحتی نکن و با دل و جان، به آن خوشامد بگو."
     },
     {
       "VOrder": 46,
@@ -739,7 +762,8 @@
       "Text": "همچو ایمان برای سور و سروش",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: مثل ایمان که برای جشن و شادی لباس‌های برهنه‌ای به تن می‌کند."
     },
     {
       "VOrder": 48,
@@ -755,7 +779,8 @@
       "Text": "این همه هستیی که در بدنست",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: این همه وجودی که در بدن است، در واقع تنها نقشی است که از پیر و پیرزن در آن نقش بسته شده است."
     },
     {
       "VOrder": 50,
@@ -771,7 +796,8 @@
       "Text": "نه و چار است مر ترا مایه",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: تو در سختی‌ها و مشکلات نباید از اصول و پایه‌های خود تمایل نشان دهی و از آن‌ها بگذری."
     },
     {
       "VOrder": 52,
@@ -787,7 +813,8 @@
       "Text": "گر به غفلت زیی درین مسکن",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: اگر بی‌توجهی کنی و در این خانه زندگی کنی، جان بیچاره‌ات در جایی امن نخواهد ماند."
     },
     {
       "VOrder": 54,
@@ -803,7 +830,8 @@
       "Text": "بروی زین سرای بی‌معنی",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: به این خانه بی‌معنی نرو، زیرا که گوش‌های تو پر از زرق و برق است."
     },
     {
       "VOrder": 56,
@@ -819,7 +847,8 @@
       "Text": "از پی پنج روزه بدمردی",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: پس از پنج روز نامساعدی و سختی، ثروتی از دنیا به دست آوردی."
     },
     {
       "VOrder": 58,
@@ -835,7 +864,8 @@
       "Text": "باری ار زین شکار نیست گزیر",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: اگر از این شکار گریزی نیست، پس مرغ دنیا را در دام دنیا بگیر."
     },
     {
       "VOrder": 60,
@@ -851,7 +881,8 @@
       "Text": "خرج کردی برای تن جان را",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: برای به دست آوردن نان و روزی، جان و روح خود را هزینه کرده‌ای و در این مسیر، ایمان و اعتقادت را به خطر انداخته‌ای."
     },
     {
       "VOrder": 62,
@@ -867,7 +898,8 @@
       "Text": "مکن ار مال را شناسی ارج",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: اگر مال و ثروت را می‌شناسی، نباید آن را در میان افراد نادان و کور خرج کنی."
     },
     {
       "VOrder": 64,
@@ -883,7 +915,8 @@
       "Text": "کی بود سوی بزمی و رزمی",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: چرا کسی به مجالس شادمانی و جنگ‌های شهر خوارزم و ارزش‌های آنجا نمی‌پردازد؟"
     },
     {
       "VOrder": 66,
@@ -899,7 +932,8 @@
       "Text": "جعفری را چو نیست اینجا نرخ",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: اگر در اینجا بازار جعفری نیست، بهتر است از دنبال کردن تجارت در کرخ خودداری کنی."
     },
     {
       "VOrder": 68,

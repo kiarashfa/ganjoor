@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گر در سفرم تویی رفیق سفرم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در سفر باشم، تو همسفر من هستی و اگر در کنارم باشم، تو همراه و مونس من خواهی بود."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "هر جا که نشینم و به هر جا گذرم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر جا که باشم و هر جایی که بروم، جز تو هیچ خواسته و آرزوی دیگری ندارم."
     },
     {
       "VOrder": 4,

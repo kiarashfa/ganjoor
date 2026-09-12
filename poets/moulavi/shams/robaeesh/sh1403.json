@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای در دو جهان یگانه تعجیل مکن",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای یگانه‌ی بی‌نظیر در دو جهان، لطفاً در رفتن عجله نکن. چون زمان هم خودش در حال گذر است و نباید شتابی در این کار داشت."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "مگریز سوی کرانه تعجیل مکن",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خانه ما بیا و از شتاب و عجله دوری کن. نیازی نیست که به کرانه و مرزها بگریزی."
     },
     {
       "VOrder": 4,

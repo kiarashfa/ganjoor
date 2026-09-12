@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "رو که سوی راستی بسیج نداری",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به سوی حقیقت گرایش نداری، چیزی جز طبیعت پیچیده‌ات برای عرضه نخواهی داشت."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "دایم پنداشتی که داری چیزی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو همیشه فکر می‌کردی که چیزی در اختیار داری، اما در واقع هیچ چیز نداری و از این واقعیت خبر نداری."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "تا کی گوئی که بوده‌ام به بسیجات",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا چه زمانی می‌گویی که من در گروه شما بوده‌ام، در حالی که هرچه در پس این گروه است، تو نداری؟"
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "خاطر خاقانی از بسیج ببردی",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خاطر خاقانی از بسیج رنجیده است، زیرا دل مردم را به دلگرمی و جمعیت ندارند."
     },
     {
       "VOrder": 8,

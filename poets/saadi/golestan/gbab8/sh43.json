@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "هرکه با بزرگان ستیزد، خون خود ریزد.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هر کس با بزرگان دربیفتد، به خودش آسیب می‌زند."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "خویشتن را بزرگ پنداری",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "خود را آدم بزرگ می‌بینی (خود را بزرگتر از چیزی که هستی می‌بینی). راست میگویند که آدم لوچ (چپ‌چشم) یکی را دو تا می‌بیند."
     },
     {
       "VOrder": 3,
@@ -46,7 +48,8 @@
       "Position": "Right",
       "Text": "زود بینی شکسته پیشانی",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "وقتی خودت را در حدی می‌بینی که با شاخ قوچ بازی و رقابت کنی (با قوچ سر به سر شوی) به‌ناچار با سر شکسته‌ات مواجه خواهی شد.\u00A0"
     },
     {
       "VOrder": 5,

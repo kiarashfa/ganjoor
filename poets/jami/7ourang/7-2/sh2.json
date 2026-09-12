@@ -241,7 +241,8 @@
       "Text": "کردی از آشوب گردش‌های دهر",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: از دوش دهر و تغییرات آن، تو با نیروی خود از بیابان و کوه‌ها به سمت شهر آمدی."
     },
     {
       "VOrder": 2,
@@ -257,7 +258,8 @@
       "Text": "دید شهری پر فغان و پر خروش",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: شهر شلوغ و پر سر و صداست، مردم به شدت از یکدیگر نشاط و هیجان می‌گیرند."
     },
     {
       "VOrder": 4,
@@ -273,7 +275,8 @@
       "Text": "بی‌قراران جهان در هر مَقَر",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: نامتعادل‌ها در دنیا در هر مکانی به صورت جدا از هم و به نحوی متفاوت از یکدیگر در حال حرکت‌اند."
     },
     {
       "VOrder": 6,
@@ -289,7 +292,8 @@
       "Text": "آن یکی را از برون عزم درون",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: یکی از آنها با اراده‌ای که از خارج به وجود می‌آید، به سمت درون می‌رود و دیگری با کششی که از درون دارد، به سوی بیرون می‌رود."
     },
     {
       "VOrder": 8,
@@ -305,7 +309,8 @@
       "Text": "آن یکی را از یمین رو در شمال",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: این بیت بیانگر این است که یکی از طرف‌ها در سمت راست به سمت شمال حرکت می‌کند، در حالی که طرف دیگر در همان سمت راست در حال جست‌وخیز و تحرک است."
     },
     {
       "VOrder": 10,
@@ -321,7 +326,8 @@
       "Text": "کُردِ مسکین چون بدید آن کار و بار",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: کرد بیچاره وقتی آن وضعیت را دید، تصمیم گرفت که از وسط جمع فاصله بگیرد و به یک کناری برود."
     },
     {
       "VOrder": 12,
@@ -337,7 +343,8 @@
       "Text": "گفت اگر جا بر صف مردم کنم",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: اگر در میان صف مردم قرار بگیرم، این احتمال وجود دارد که خودم را گم کنم."
     },
     {
       "VOrder": 14,
@@ -353,7 +360,8 @@
       "Text": "یک نشانه بهر خود ناکرده ساز",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: چطور می‌توانم خود را دوباره پیدا کنم، وقتی که حتی یک نشانه برای شناختن خودم نداشته باشم؟"
     },
     {
       "VOrder": 16,
@@ -369,7 +377,8 @@
       "Text": "اتفاقا یک کدو بودش به دست",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: یک دفعه کدویی در دست کسی بود که برای نشان دادن چیزی به پایش بسته شده بود."
     },
     {
       "VOrder": 18,
@@ -385,7 +394,8 @@
       "Text": "تا چو خود را گم کند در شهر و کو",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: شخصی می‌تواند خود را در شلوغی شهر و در میان مردم گم کند، ولی وقتی به کدو نگاه کند، دوباره خود را پیدا می‌کند."
     },
     {
       "VOrder": 20,
@@ -401,7 +411,8 @@
       "Text": "زیرکی آن راز را دانست و زود",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: زرنگی باعث شد که او به راز پی ببرد و به سرعت برای کشف آن اقدام کرد تا به جایی رسید که دوباره استراحت کرد."
     },
     {
       "VOrder": 22,
@@ -417,7 +428,8 @@
       "Text": "آن کدو را حالی از وی باز کرد",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: کدو را در حالتی که به او نگاه می‌کرد، برداشت و روی بدن خود قرار داد و سپس به خواب رفت."
     },
     {
       "VOrder": 24,
@@ -433,7 +445,8 @@
       "Text": "کرد چون بیدار شد دید آن کدو",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: وقتی او بیدار شد، دید که کدوئی به پای کسی بسته شده و آن شخص در کنارش نشسته است."
     },
     {
       "VOrder": 26,
@@ -449,7 +462,8 @@
       "Text": "بانگ بر وی زد که خیز ای سست‌کیش",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: با صدای بلند او را صدا کردم که برخیز ای کسی که ایمان و تصمیم ضعیفی داری، زیرا من در کار خودم از تو گیج و سردرگم مانده‌ام."
     },
     {
       "VOrder": 28,
@@ -465,7 +479,8 @@
       "Text": "این منم یا تو نمی‌دانم درست",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: من نمی‌دانم که این من هستم یا تو؛ اگر من هستم، چرا این کدو بر پای توست؟!"
     },
     {
       "VOrder": 30,
@@ -481,7 +496,8 @@
       "Text": "ور تویی‌، این من کجایم کیستم‌‌؟",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: اگر تو هستی، من در کجایم و چه موجودی هستم؟ در وجود تو به شمار می‌آیم و نمی‌دانم چیستم."
     },
     {
       "VOrder": 32,
@@ -497,7 +513,8 @@
       "Text": "ای خدا آن کرد بی‌سرمایه‌ام",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: ای خدا، کسی که هیچ سرمایه‌ای ندارد، مرا از همه دیگران پست‌تر و پایین‌تر قرار داده است."
     },
     {
       "VOrder": 34,
@@ -513,7 +530,8 @@
       "Text": "ده ز فضلت رونقی این کرد را",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: با لطف و بخشش تو، رونق و زندگی به من هدیه‌ای داده‌ای؛ از مهربانی‌ات به من آرامش و درمانی ببخش."
     },
     {
       "VOrder": 36,
@@ -529,7 +547,8 @@
       "Text": "تا ز هر آلایشی صافی شوم",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: به دنبال آن هستم که از هر نوع آلودگی پاک شوم تا بتوانم به اهل دل کمک کنم و نیازهای آنها را برطرف کنم."
     },
     {
       "VOrder": 38,
@@ -545,7 +564,8 @@
       "Text": "جامی‌آسا یک به یک را شادکام",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: اگر خوشی و شادابی یک به یک مثل جامی در دستم بود، نمی‌خواستم آن را به کسی بدهیم و تنها خودم از آن لذت می‌بردم."
     },
     {
       "VOrder": 40,
@@ -561,7 +581,8 @@
       "Text": "ور به من این مکرمت باشد بدیع",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: اگر این لطف و محبت از سوی تو باشد، من نیز می‌توانم خواسته‌ام را از آقا و سرور کائنات بگویم."
     },
     {
       "VOrder": 42,

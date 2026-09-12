@@ -30,7 +30,8 @@
       "Position": "Right",
       "Text": "هیچ دانی که چیست دخل حرام",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا می‌دانی چه چیزی درآمدی نامناسب است یا کدام هزینه‌ها به نتیجه نمی‌رسند؟"
     },
     {
       "VOrder": 2,
@@ -44,7 +45,8 @@
       "Position": "Right",
       "Text": "به گدایی فراهم آوردن",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گدایی کردن و جمع‌آوری چیزهایی و بعد به طور شوخی و غیرجدی از آن‌ها استفاده کردن."
     },
     {
       "VOrder": 4,

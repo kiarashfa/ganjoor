@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "عالم ناپرهیزگار کور مشعله‌دار است.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "\u00A0دانشمند بی‌پرهیز مانند کوری است که مشعل حمل می کند"
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "بی‌فایده هر که عمر در باخت",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "کسی که عمرش را بی‌فایده (و بی‌علم و عمل) سپری کرد، (مانند کسی است که به‌بازار رفته و‌) چیزی نخریده و پولش را هم گم کرده‌‌است."
     },
     {
       "VOrder": 3,

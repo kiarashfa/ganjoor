@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "خواهی قلمم بنام در کش یکبار",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهی، یک بار با قلم من نام بنویس. اگر بخواهی، یک بار دیگر هم با قلمی دیگر نام بنویس."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "گر سر بکشم ز خط فرمان تو من",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر از دستور تو سرپیچی کنم، مانند قلمی هستم که یک بار تیغش را به سر می‌کشد."
     },
     {
       "VOrder": 4,

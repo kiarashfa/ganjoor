@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "چو خود را پاک دامن می ندانم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرگاه خود را فردی پاک و بی‌گناه احساس نکنم، چه مکانی را بالاتر از یک مکان ناپاک نمی‌دانم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "چرا اندر صف مردان نشینم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا باید در میان مردان بنشینم، وقتی که خودم را به عنوان یک مرد واقعی نمی‌شناسم؟"
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "بیا تا ترک خود گیرم که خود را",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیایید تا از خودم فاصله بگیرم، زیرا به خودم بیشتر از هر دشمنی اعتماد ندارم."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "دلی کز آرزوها گشت پر بت",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دلی که از خواسته‌ها و آرزوها پر شده، برای من ارزش و زیبایی ندارد."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "چو عیسی از یکی سوزن فروماند",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من همچنان از شدت عشق و شوق مانند عیسی که از سوزن عبور نمی‌کند، عاجز مانده‌ام و این معشوق هم برای من کمتر از آن سوزن نمی‌باشد."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "مرا جانان فروشد در غمت جان",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عزیزم به خاطر غم تو جانم را می‌فروشد، هرچند نمی‌دانم که آیا جان دیگری نیز به من کمک خواهد کرد یا نه."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "چنان در عشق تو سرگشته گشتم",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در عشق تو به حدی حیران شدم که گویی جانم را گم کرده‌ام و دیگر نمی‌دانم جسمم کجاست."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "مرا هم کشتی و هم سوختی زار",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من هم غرق کردی و هم به شدت زجرم دادی، نمی‌دانم تو از من چه می‌خواهی."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "گهی گویی که تن زن صبر کن صبر",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاهی می‌گویی که باید صبر کنی، اما من نمی‌دانم که چگونه صبر کردن خودش درمانی است."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "گهی گویی مرا بستان ورستی",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاهی می‌گویی مرا بگیر و گاهی از من دور می‌شوی، اما من نمی‌دانم که در این حال چه چیزی را از دست می‌دهم، حتی اگر از بهای زیادی باشد، به اندازه‌ای کم که قابل توجه نیست."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "چون من یک ذره‌ام نه هست و نه نیست",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من یک ذره کوچک هستم که نه وجود واقعی دارم و نه عدم، ولی همه نور و روشنی را می‌شناسم."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "فرو رفتم در این وادی کم و کاست",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این مسیر وارد شدم، با تمامی کاستی‌ها و نقص‌ها، تو بهتر از من می‌دانی در چه وضعیتی هستم، حتی اگر من خودم ندانم."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "درین حیرت دل حیران خود را",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این حالت که دلم در حیرت و سرگردانی به سر می‌برد، هیچ راهی برایم بهتر از مرگ به نظر نمی‌رسد."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "که گیرد دامن عطار ازین پس",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از این پس، هر کس به عطار (شاعر و عارف بزرگ) نزدیک شود، دیگر نمی‌تواند او را از خود دور کند، زیرا من هیچ ارتباط و وابستگی به کسی جز او نمی‌شناسم."
     },
     {
       "VOrder": 28,

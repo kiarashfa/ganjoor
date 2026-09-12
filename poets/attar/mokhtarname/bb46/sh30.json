@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای صبح!‌اگر تو یاریی خواهی کرد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای صبح! اگر می‌خواهی کمک کنی، باید برای ما رازها و ناگفته‌های خود را پنهان کنی."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "من خود ز سیه گری شب میترسم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از تاریکی شب و بدی‌های آن می‌ترسم، تو هم نمی‌توانی کارهای خوبی انجام دهی."
     },
     {
       "VOrder": 4,

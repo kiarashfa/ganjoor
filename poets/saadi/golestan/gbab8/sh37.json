@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "هر که با بدان نشیند، نیکی نبیند.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کس با افراد بد و نالسن معاشرت کند، از خوبی و نیکویی بهره‌ای نخواهد برد."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "گر نشیند فرشته‌ای با دیو",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر فرشته‌ای کنار دیو نشسته و تحت تاثیر او قرار گیرد، خیانت و نیرنگ را یاد خواهد گرفت."
     },
     {
       "VOrder": 3,
@@ -46,7 +48,8 @@
       "Position": "Right",
       "Text": "از بدان نیکویی نیاموزی",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از افراد بد نمی‌توان خوبی را یاد گرفت، همان‌طور که گرگ هرگز نمی‌تواند به عنوان یک دباغ رفتار کند."
     },
     {
       "VOrder": 5,

@@ -421,7 +421,8 @@
       "Text": "بد یکی طرار از اهل دوان",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: یک نفر بدطینت از گروهی به نام دوان به سمت دکان بقالی به راه افتاد."
     },
     {
       "VOrder": 2,
@@ -437,7 +438,8 @@
       "Text": "پس به آن بقال گفت ای ارجمند",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: به بقال گفت: ای محترم، قیمت گردوهایت را به هزار بگو تا بدانم."
     },
     {
       "VOrder": 4,
@@ -453,7 +455,8 @@
       "Text": "گفت ده درهم هزاری مشتری",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: گفت اگر می‌خواهی هزار درهم بگیری، بهتر است که زودتر ده درهم را بدهی."
     },
     {
       "VOrder": 6,
@@ -469,7 +472,8 @@
       "Text": "گفت صد باشد بچند این گردکان",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: در این مصرع، شخصی می‌گوید که اگر چیزی به مقدار صد باشد، به چند واحد آن در آخر تبدیل می‌شود. شخص دیگری پاسخ می‌دهد که ارزش آن تنها به یک درهم است. به‌طور کلی، این گفتگو درباره ارزش و قیمت چیزی است که به نظر می‌رسد بسیار زیاد باشد، اما در واقع بسیار ناچیز است."
     },
     {
       "VOrder": 8,
@@ -485,7 +489,8 @@
       "Text": "گفت با من گو که ده گردو بچند",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: او به من گفت که چند گردو بده و من جواب دادم که به اندازه یک دهم درهم است، ای بزرگوار."
     },
     {
       "VOrder": 10,
@@ -501,7 +506,8 @@
       "Text": "گفت چبود قیمت یک گردکان",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: کسی پرسید قیمت یک گردنبند چقدر است، و جواب شنید که این چیز ارزش و بهای خاصی ندارد، ای فلانی."
     },
     {
       "VOrder": 12,
@@ -517,7 +523,8 @@
       "Text": "گفت یک گردو عطا فرما به من",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: گفت یک گردو به من بده، اما او در جواب هیچ نگفت و به آرامی گردو را داد."
     },
     {
       "VOrder": 14,
@@ -533,7 +540,8 @@
       "Text": "باز کرد از او یکی دیگر طلب",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: یکی از خادمان خواجه با آرامش و بدون سر و صدا خواسته‌ای را از او مطرح کرد و آن را به خواجه ارائه داد."
     },
     {
       "VOrder": 16,
@@ -549,7 +557,8 @@
       "Text": "گفت بازم گردکانی کن عطا",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: یک نفر از دیگری خواسته که دوباره گردکانی‌اش کند، اما فرد مقابل می‌پرسد که تو از کجا هستی؟ عزیزم."
     },
     {
       "VOrder": 18,
@@ -565,7 +574,8 @@
       "Text": "گفت باشد موطن من در دوان",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: شهر مولینا، جای زندگی من خواهد بود، جایی که جلال و دانش به خوبی شناخته شده است."
     },
     {
       "VOrder": 20,
@@ -581,7 +591,8 @@
       "Text": "گفت رو ای دزد طرار دغل",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: برو، ای دزد حیله‌گر! دغل بازی نکن و کسی دیگر را فریب نده."
     },
     {
       "VOrder": 22,
@@ -597,7 +608,8 @@
       "Text": "باد نفرین بر جلال الدین تو",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: باد به جلال الدین نفرین می‌کند که چگونه این نکات را به تو آموخته است."
     },
     {
       "VOrder": 24,
@@ -613,7 +625,8 @@
       "Text": "ای تو کودن تر ز بقال دکان",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: ای تو که از بقالی که در دکانش فقط چیزهای بی‌ارزش می‌فروشد هم نادان‌تر هستی، عمر تو از بچه‌های کوچه و بازار هم بی‌ارزش‌تر است."
     },
     {
       "VOrder": 26,
@@ -629,7 +642,8 @@
       "Text": "گر کسی گوید که از عمرت بجا",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی بگوید که از عمرت هنوز سی سال دیگر باقی مانده است، ای امیدواری!"
     },
     {
       "VOrder": 28,
@@ -645,7 +659,8 @@
       "Text": "چند باشد قیمت این چل سال را",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: چند سال از عمر من گذشته است؟ بگو تا بدانم دارایی‌ام چقدر است."
     },
     {
       "VOrder": 30,
@@ -661,7 +676,8 @@
       "Text": "فاش می بینم که می خندی بر او",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: من به وضوح می‌بینم که تو از حرف‌های این دیوانه می‌خندی."
     },
     {
       "VOrder": 32,
@@ -677,7 +693,8 @@
       "Text": "پاسخش بدهی که گر ملک جهان",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: اگر تمام دنیا را به من بدهی، باز هم ارزش عمرم نیست."
     },
     {
       "VOrder": 34,
@@ -693,7 +710,8 @@
       "Text": "گر دهی صد ملک بی تشویش را",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: اگر به من صد کشور بدون نگرانی بدهی، من برای آن می‌فروشم که زندگی خودم را داشته باشم."
     },
     {
       "VOrder": 36,
@@ -709,7 +727,8 @@
       "Text": "لیکن ای کودن ببین بی قیل و قال",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: اما ای فکر نادان، ببین که بدون هیچ بحث و جدلی، به راحتی زمان و فرصتهایت را به رایگان از دست می‌دهی."
     },
     {
       "VOrder": 38,
@@ -725,7 +744,8 @@
       "Text": "بین که آن دیو لعین بیتاب و پیچ",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: این دیو لعین هیچ‌گاه آرام نمی‌گیرد و روزهای تو را به راحتی از دست می‌دهد."
     },
     {
       "VOrder": 40,
@@ -741,7 +761,8 @@
       "Text": "آخر آن عمری که صد ملکش بها",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: در نهایت، زندگی که با تمامی ثروت و داشته‌هایش ارزشمند به نظر می‌رسد، تنها به همین روزها خلاصه می‌شود و بیشتر از این چیزی برای نشان دادن ندارد."
     },
     {
       "VOrder": 42,
@@ -757,7 +778,8 @@
       "Text": "روزها چون رفت عمرت شد تلف",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: روزها که می‌گذرد، عمرت تباه می‌شود؛ نه سرمایه‌ای برای تو باقی می‌ماند و نه سودی به دست می‌آوری."
     },
     {
       "VOrder": 44,
@@ -773,7 +795,8 @@
       "Text": "آنچه قیمت بودش از عالم فزون",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که ارزشمند بود و در این دنیا به آن اهمیت داده می‌شد، حالا چه کردی و آن چیز کجا رفته است؟"
     },
     {
       "VOrder": 46,
@@ -789,7 +812,8 @@
       "Text": "ای دو صد حیف از چنین گنج نهان",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: ای کاش چنین گنج بزرگ و ارزشمندی که به‌طور ناگهانی از دست ما رفته، در دستان ما باقی می‌ماند."
     },
     {
       "VOrder": 48,
@@ -805,7 +829,8 @@
       "Text": "ای هزار افسوس عالمها دریغ",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: ای کاش که نمی‌بود این حال، که خورشید ما زیر ابر پنهان شده است."
     },
     {
       "VOrder": 50,
@@ -821,7 +846,8 @@
       "Text": "ای دریغ از گنج باد آورد ما",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: افسوس بر گنجینه‌ای که باد برای ما به ارمغان آورده است و افسوس بر کسی که بتواند درد ما را درک کند."
     },
     {
       "VOrder": 52,
@@ -837,7 +863,8 @@
       "Text": "دردها دارم بدل از روزگار",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: من در دل خود دردهای زیادی دارم و می‌خواهم کسی را پیدا کنم که بتوانم این دردها را با او در میان بگذارم."
     },
     {
       "VOrder": 54,
@@ -853,7 +880,8 @@
       "Text": "ای خدا کو دامن کوه بلند",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: ای خدا، کجاست دامن بلند کوه که بشود در آنجا به آرزوهایم برسم و چند روزی را در آن خوش بگذرانم؟"
     },
     {
       "VOrder": 56,
@@ -869,7 +897,8 @@
       "Text": "گه به خاکستر نشینم گه به خاک",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: گاهی به حالتی غمگین و دل‌شکسته فرود می‌آیم و گاهی در دنیای واقعی قرار می‌گیرم؛ به طوری که یقه‌ام را چاک می‌زنم و بی‌تابی می‌کنم."
     },
     {
       "VOrder": 58,
@@ -885,7 +914,8 @@
       "Text": "گه ز درد خود بنالم وای وای",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: گاهی از درد خود شکایت می‌کنم و ناله می‌زنم، وای بر من! و گاهی دیگر به حال روزگار خود می‌گرایم و اشک می‌ریزم، های های."
     },
     {
       "VOrder": 60,
@@ -901,7 +931,8 @@
       "Text": "خنجری کو تا بدرم سینه را",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: می‌خواهم با یک ضربه، دردهای درونم را آشکار کنم و از رازهای نهفته‌ی قلبم پرده بردارم."
     },
     {
       "VOrder": 62,
@@ -917,7 +948,8 @@
       "Text": "آمدم یاران بتنگ از دست خود",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: به محض اینکه به جمع دوستانم رسیدم، احساس کردم که از دست خودم به تنگ آمده‌ام. ای کاش هیچ‌کس به عنوان دوست بد و ناخوشایند در کنارم نبود."
     },
     {
       "VOrder": 64,
@@ -933,7 +965,8 @@
       "Text": "کیست دانی یار بدکردار من",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: کیست که بداند یار بدخلق من کیست، که همیشه همراه و همدم یار من است؟"
     },
     {
       "VOrder": 66,
@@ -949,7 +982,8 @@
       "Text": "آتشم زان تیز و دردم زان فزون",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: آتش من از تیزی درد می‌سوزد و سینه‌ام به خاطر غم زیاد، رنج و خون ریزی می‌کند."
     },
     {
       "VOrder": 68,
@@ -965,7 +999,8 @@
       "Text": "روز من زان شام و شام من سیاه",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: روزهایم به خاطر شب‌هایی که سپری می‌کنم، به سختی می‌گذرد و شب‌هایم تاریک و غم‌آلود است. جانم از این سختی‌ها خسته و ناتوان شده است."
     },
     {
       "VOrder": 70,
@@ -981,7 +1016,8 @@
       "Text": "آن منم من مایه ی رنج و محن",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: من هستم، من همان کسی که باعث رنج و مشکلات شما هستم، ای مسلمانان، از دست من ناله کنید."
     },
     {
       "VOrder": 72,
@@ -997,7 +1033,8 @@
       "Text": "هرکسی نالد ز دست این و آن",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: هر کسی از مشکلات و سختی‌های دیگران شِکوه کند، من هم از خودم می‌نالـم، ای دوستان."
     },
     {
       "VOrder": 74,
@@ -1013,7 +1050,8 @@
       "Text": "این منی را ای خدا بستان ز من",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: ای خدا، این وجود و خودم را از من بگیر و مرا از مشکلات و مصیبت‌های خودم آزاد کن."
     },
     {
       "VOrder": 76,
@@ -1029,7 +1067,8 @@
       "Text": "هست دوری کردن از خود فرض عین",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: دوری از خود به نظر ما مانند یک واقعیت محض است؛ ای کاش که فاصله شرق و غرب را درک کنیم."
     },
     {
       "VOrder": 78,

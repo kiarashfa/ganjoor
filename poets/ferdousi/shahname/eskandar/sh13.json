@@ -481,7 +481,8 @@
       "Text": "بفرمود تا رفت پیشش پزشک",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: فرمان داد تا پزشک به دیدن او برود و علت را بیان کند، وقتی که اشک را دید."
     },
     {
       "VOrder": 2,
@@ -497,7 +498,8 @@
       "Text": "سر دردمندی بدو گفت چیست",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: بیماری به آن شخص گفت که چه چیزی وجود دارد که بعد از این، بر درد ما باید اشک ریخت؟"
     },
     {
       "VOrder": 4,
@@ -513,7 +515,8 @@
       "Text": "بدو گفت هر کس که افزون خورد",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: به او گفتند هر کسی که بیشتر از حد نیازش بخورد، وقتی بر سر سفره نشسته باشد به غذا توجهی نمی‌کند."
     },
     {
       "VOrder": 6,
@@ -529,7 +532,8 @@
       "Text": "نباشد فراوان خورش تن درست",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: در اینجا بیان می‌شود که تعداد زیادی از خورش‌ها وجود ندارد، اما خورش بزرگ و خوشمزه‌ای وجود دارد که به دنبال آن می‌گردی."
     },
     {
       "VOrder": 8,
@@ -545,7 +549,8 @@
       "Text": "بیامیزم اکنون ترا دارویی",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: اکنون تصمیم دارم که تو را با دارویی ترکیب کنم که از گیاهان به دست آمده و از هر طرف آن را فراهم کنم."
     },
     {
       "VOrder": 10,
@@ -561,7 +566,8 @@
       "Text": "که همواره باشی تو زان تن درست",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: همیشه باید مراقب باشی که بدنت سالم باشد و از داروها دور بمانی."
     },
     {
       "VOrder": 12,
@@ -577,7 +583,8 @@
       "Text": "همان آرزوها بیفزایدت",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: آرزوهای تو به نسبت آنچه می‌طلبی بیشتر می‌شود، اما اگر هرچه بیشتری بخوری، چیزی برای تو باقی نخواهد ماند."
     },
     {
       "VOrder": 14,
@@ -593,7 +600,8 @@
       "Text": "همان یاد داری سخنهای نغز",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: یاد آن سخنان زیبا و دلنشین در وجودت طوری اثر گذار است که می‌تواند جان و روح تو را پر کند."
     },
     {
       "VOrder": 16,
@@ -609,7 +617,8 @@
       "Text": "شوی بر تن خویشتن کامگار",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: وقتی خود را در شرایط خوب و شاد قرار دهی و با آرامش و خوشحالی با زندگی روبه‌رو شوی، دل تو مانند بهار شاداب و خوشبو می‌شود."
     },
     {
       "VOrder": 18,
@@ -625,7 +634,8 @@
       "Text": "همان رنگ چهرت به جای آورد",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: رنگ چهره‌ات نشان‌دهنده‌ی شخصیت و نیت پاک توست و این پاکی در هر کاری که انجام می‌دهی نمایان می‌شود."
     },
     {
       "VOrder": 20,
@@ -641,7 +651,8 @@
       "Text": "نگردد پراگنده مویت سپید",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: موهای سپید تو هرگز به خاطر سفیدی دنیا ناامید نخواهند شد."
     },
     {
       "VOrder": 22,
@@ -657,7 +668,8 @@
       "Text": "سکندر بدو گفت نشنیده‌ام",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: سکندر به او گفت: من هیچ‌کس را از میان پادشاهان به این شکل ندیده‌ام و تا به حال این‌چیزی را نشنیده‌ام."
     },
     {
       "VOrder": 24,
@@ -673,7 +685,8 @@
       "Text": "گر آری تو این نغز دارو به جای",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: اگر تو این داروی خوشگوار را به کار ببری، جای تو در دنیا مانند راهنما برای من خواهد بود."
     },
     {
       "VOrder": 26,
@@ -689,7 +702,8 @@
       "Text": "خریدار گردم ترا من به جان",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: من برای تو به جان خریدار می‌شوم، چون از بدگمانی و آسیب‌های ناشی از آن دور هستم."
     },
     {
       "VOrder": 28,
@@ -705,7 +719,8 @@
       "Text": "ورا خلعت و نیکویها بساخت",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: او لباس و زیبایی‌های زیادی را برای او آماده کرده است، پزشکان دانا سر او را بالا برده‌اند."
     },
     {
       "VOrder": 30,
@@ -721,7 +736,8 @@
       "Text": "پزشک سراینده آمد به کوه",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: پزشکی از گروه سرایندگان به کوه آمد و همراه خود برخی از آن‌ها را نیز آورد."
     },
     {
       "VOrder": 32,
@@ -737,7 +753,8 @@
       "Text": "ز دانایی او را فزون بود بهر",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: او از دانش خود بهره‌ای بیشتر دارد، به همین دلیل می‌تواند زهر را بشناسد و از آن دوری کند."
     },
     {
       "VOrder": 34,
@@ -753,7 +770,8 @@
       "Text": "گیاهان کوهی فراوان درود",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: گیاهان کوهستانی بسیاری وجود دارند که از آنجا برای هر چیزی که بی‌فایده و بی‌استفاده است، بهره‌برداری می‌شود."
     },
     {
       "VOrder": 36,
@@ -769,7 +787,8 @@
       "Text": "ازو پاک تریاکها برگزید",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: او بهترین تریاک‌ها را انتخاب کرد و دارو را به گونه‌ای ترکیب کرد که شایسته بود."
     },
     {
       "VOrder": 38,
@@ -785,7 +804,8 @@
       "Text": "تنش را به داروی کوهی بشست",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: تنش را با داروی طبیعت شستشو می‌داد و به همین ترتیب سال‌ها سالم و قوی نگهش می‌داشت."
     },
     {
       "VOrder": 40,
@@ -801,7 +821,8 @@
       "Text": "چنان شد که او شب نخفتی بسی",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: به گونه‌ای بود که تو شب را بیدار ماندی و با هر کس که بودی، شاد و خوشحال گپ زدی."
     },
     {
       "VOrder": 42,
@@ -817,7 +838,8 @@
       "Text": "به کار زنان تیز بودی سرش",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: تو در کار زنان ماهر بودی و با ظرافت و نرمی به هر جا که نیاز بود، وارد می‌شدی و شرایط را زیر نظر می‌گرفتی."
     },
     {
       "VOrder": 44,
@@ -833,7 +855,8 @@
       "Text": "ازان سوی کاهش گرایید شاه",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: از آن طرف که شاه به کاهش و کم شدن توجه کرد، هیچ کس را در آنجا در نظر نگرفت."
     },
     {
       "VOrder": 46,
@@ -849,7 +872,8 @@
       "Text": "چنان بد که روزی بیامد پزشک",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: پزشک روزی آمد و متوجه شد که نشانه‌ای از نقصان و کمبود در آن شخص وجود دارد که در چشمانش قابل دیده شدن است."
     },
     {
       "VOrder": 48,
@@ -865,7 +889,8 @@
       "Text": "بدو گفت کز خفت و خیز زنان",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: او به او گفت که اگر دختران جوان از خواب و بیداری دست بکشند، بدون شک جوانی به تنشان پیری می‌آورد."
     },
     {
       "VOrder": 50,
@@ -881,7 +906,8 @@
       "Text": "برآنم که بی‌خواب بودی سه شب",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: من می‌خواهم که تو سه شب بدون خواب بمانی و این موضوع را به من بگویی و زبانت را باز کنی."
     },
     {
       "VOrder": 52,
@@ -897,7 +923,8 @@
       "Text": "سکندر بدو گفت من روشنم",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: سکندر به او گفت که من از آزارها بی‌خبرم و بدنم هیچ ضعفی ندارد."
     },
     {
       "VOrder": 54,
@@ -913,7 +940,8 @@
       "Text": "پسندیده دانای هندوستان",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: خردمند هندوستان این کار را پسندیده نمی‌دانست و در این موضوع هم رأی نبود."
     },
     {
       "VOrder": 56,
@@ -929,7 +957,8 @@
       "Text": "چو شب تیره شد آن نبشته بجست",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: زمانی که شب تاریک شد، او نوشته‌ای را پیدا کرد و دارویی برای کاهش درد آورد."
     },
     {
       "VOrder": 58,
@@ -945,7 +974,8 @@
       "Text": "همان نیز تنها سکندر بخفت",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: سکندر هم به تنهایی خوابید و هیچ‌گاه با ماه، یعنی محبوبش، دیداری نداشت."
     },
     {
       "VOrder": 60,
@@ -961,7 +991,8 @@
       "Text": "به شبگیر هور اندر آمد پزشک",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: پزشک به کنار هور آمد و نگاه کرد، اما چیزی برای درمان نیافت و آنجا را خالی از بار دید."
     },
     {
       "VOrder": 62,
@@ -977,7 +1008,8 @@
       "Text": "بینداخت دارو به رامش نشست",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: دارویی به زمین انداخت و بر روی اسب نشسته، جامی را در دست گرفت و با شادی آن را نوشید."
     },
     {
       "VOrder": 64,
@@ -993,7 +1025,8 @@
       "Text": "بفرمود تا خوان بیاراستند",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: او دستور داد تا سفره را آماده کنند و نوازنده‌ای برای نواختن موسیقی و همچنین نوشیدنی مهیا کردند."
     },
     {
       "VOrder": 66,
@@ -1009,7 +1042,8 @@
       "Text": "بدو گفت شاه آن چرا ریختی",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: شاه به او گفت: چرا این دارو را که با زحمت تهیه کرده‌ای، هدر دادی و به این سادگی ریختی؟"
     },
     {
       "VOrder": 68,
@@ -1025,7 +1059,8 @@
       "Text": "ورا گفت شاه جهان دوش جفت",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: او گفت که پادشاه جهان شب گذشته با کسی هم‌مراسم نشد و در تاریکی شب تنها خوابید."
     },
     {
       "VOrder": 70,
@@ -1041,7 +1076,8 @@
       "Text": "چو تنها بخسپی تو ای شهریار",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: اگر به تنهایی به خواب بروی ای پادشاه، هیچ دارویی برای تو سودمند نخواهد بود."
     },
     {
       "VOrder": 72,
@@ -1057,7 +1093,8 @@
       "Text": "سکندر بخندید و زو شاد شد",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: سکندر خندید و از نگرانی و درد خود رهایی یافت و خوشحال شد."
     },
     {
       "VOrder": 74,
@@ -1073,7 +1110,8 @@
       "Text": "وزان پس ز داننده دل کرد شاد",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: پس از آن، دل دانشمند شاد شد و گفت: «دنیای بدون تو بی‌ارزش است.»"
     },
     {
       "VOrder": 76,
@@ -1089,7 +1127,8 @@
       "Text": "بزرگان و اخترشناسان همه",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: بزرگان و دانشمندان نجوم همگی به نظر می‌رسد که به هندوستان رفته‌اند."
     },
     {
       "VOrder": 78,
@@ -1105,7 +1144,8 @@
       "Text": "وزانجا بیامد سوی خان خویش",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: از آنجا به سوی خانه‌اش روانه شد و تمام شب را در تلاش بود تا درد و مشکلش را درمان کند."
     },
     {
       "VOrder": 80,
@@ -1121,7 +1161,8 @@
       "Text": "چو برزد سر از کوه روشن چراغ",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: زمانی که چراغی روشن از بالای کوه زبانه کشید، دشت و چمن همچون دریا روشن و تابناک شدند."
     },
     {
       "VOrder": 82,
@@ -1137,7 +1178,8 @@
       "Text": "سکندر بیامد بران بارگاه",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: سکندر به آن کاخ وارد شد، با لب‌هایی پر از خنده و دلی که از غم پریشان شده بود."
     },
     {
       "VOrder": 84,
@@ -1153,7 +1195,8 @@
       "Text": "فرستاده را دید سالار بار",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: سالار پیام‌رسان را مشاهده کرد، از او درباره بار پرسید و او را به سوی پادشاه هدایت کرد."
     },
     {
       "VOrder": 86,
@@ -1169,7 +1212,8 @@
       "Text": "یکی بدره دینار و اسپی سیاه",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: شاه فرمان داد که یک کیسه دینار و یک اسب سیاه برای زرين ببرد."
     },
     {
       "VOrder": 88,
@@ -1185,7 +1229,8 @@
       "Text": "پزشک خردمند را داد و گفت",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: پزشک دانا را به او نشان دادند و گفتند که با نیت پاک و درک درست، به او کمک کند."
     },
     {
       "VOrder": 90,

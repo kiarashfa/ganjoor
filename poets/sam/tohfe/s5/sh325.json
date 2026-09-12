@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "به تیرگری اوقات صرف میکرد . این رباعی از اوست :",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: او وقت خود را صرف تیرگری می‌کرد. این یک رباعی از اوست:"
     },
     {
       "VOrder": 3,
       "Position": "Right",
       "Text": "جانا همه از تو تند خوبی آید",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عزیزم، همه چیز از تو نشأت می‌گیرد و خوبی‌ها از تو سرچشمه می‌زنند، و از عطر تو احساسی از جذابیت و وسوسه به وجود می‌آید."
     },
     {
       "VOrder": 4,
@@ -46,7 +48,8 @@
       "Position": "Right",
       "Text": "گفتی که ز من وفا نیاید هرگز",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو گفتی که وفا از من برنخواهد آمد، اما به خدا قسم هر چه از تو بگوید، من انجام می‌دهم."
     },
     {
       "VOrder": 6,

@@ -65,7 +65,8 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "ناآمرزیده مرد آزرمان را به زندان مکن، گزیده و بزرگ مردم و هشیار مرد را بر بند زندان‌بان کن.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: مرد نادان را به زندان نینداز، بلکه افراد باهوش و بزرگ را که در جامعه تأثیرگذار هستند، در قید و بند نگه‌دار."
     },
     {
       "VOrder": 2,
@@ -73,7 +74,8 @@
       "Text": "به زندان مکن آبرومند را",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: آبرومند را در بند نکن و نهال جوان و سربلند را به خطر نینداز."
     },
     {
       "VOrder": 3,
@@ -89,7 +91,8 @@
       "Text": "(‌جوان گنه کاره دربان مکن",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: جوانی که خطایی کرده را به زندان نینداز و نگذار که تحت نگهبانی باشد."
     },
     {
       "VOrder": 5,
@@ -105,7 +108,8 @@
       "Text": "کسی کاو ندارد ز یزدان هراس",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: کسی که از خدا ترسی ندارد، به طور یقین از تو هم حراسی ندارد."
     },
     {
       "VOrder": 7,
@@ -121,7 +125,8 @@
       "Text": "به زندانت بگمار مردی گزین",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: به زندان تو مردی آگاه و با شخصیت و با اخلاق نیکو بسپار."
     },
     {
       "VOrder": 9,

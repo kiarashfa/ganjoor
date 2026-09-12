@@ -661,7 +661,8 @@
       "Text": "چو آگاهی آمد به سام دلیر",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: زمانی که سام دلیر به آگاهی رسید، متوجه شد که پسر دستان به مانند شیر قوی و نیرومند شده است."
     },
     {
       "VOrder": 2,
@@ -677,7 +678,8 @@
       "Text": "کس اندر جهان کودک نارسید",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: هیچ کس در این دنیا به اندازه این مرد بزرگ و دلیر به کمال نرسیده و این‌گونه توانمند و بی‌نظیر نبوده است."
     },
     {
       "VOrder": 4,
@@ -693,7 +695,8 @@
       "Text": "بجنبید مرسام را دل ز جای",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: به خودتان بیایید و دل را از جایش پُر کنید، زیرا برای دیدار آن کودک، اراده و تصمیمی در دل دارید."
     },
     {
       "VOrder": 6,
@@ -709,7 +712,8 @@
       "Text": "سپه را به سالار لشکر سپرد",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: سپه را به فرمانده‌ی خود سپرد و به راه افتاد و کسانی را که جهان را دیده بودند هم با خود برد."
     },
     {
       "VOrder": 8,
@@ -725,7 +729,8 @@
       "Text": "چو مهرش سوی پور دستان کشید",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: زمانی که خورشید محبتش به سوی فرزند دستان تابید، نیروهای سپاه را به سوی زاولستان هدایت کرد."
     },
     {
       "VOrder": 10,
@@ -741,7 +746,8 @@
       "Text": "چو زال آگهی یافت بر بست کوس",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: زمانی که زال از وضعیت آگاه شد، به علامات و صداهای جنگ پرداخته و جمعیتی از لشکری را به وجود آورد که مانند چوب درخت آبنوس محکم و استوار بود."
     },
     {
       "VOrder": 12,
@@ -757,7 +763,8 @@
       "Text": "خود و گرد مهراب کابل خدای",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: در اطراف مهراب کابل، به وجود آوردن خدای پذیرفته شده را در نظر گرفتند."
     },
     {
       "VOrder": 14,
@@ -773,7 +780,8 @@
       "Text": "بزد مهره در جام و برخاست غو",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: مهره را در جام انداخت و بلافاصله هیاهو و سر و صدا آغاز شد، به طوری که از هر دو فرمانده خبر رسید."
     },
     {
       "VOrder": 16,
@@ -789,7 +797,8 @@
       "Text": "یکی لشکر از کوه تا کوه مرد",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: یک گروه بزرگ از کوه تا کوه در زمینه‌ای تاریک و در سمتی دیگر آسمانی آبی و زیبا وجود دارد."
     },
     {
       "VOrder": 18,
@@ -805,7 +814,8 @@
       "Text": "خروشیدن تازی اسپان و پیل",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: تا چه زمانی صدای حماسه‌جویانهٔ نیزه‌داران و فیل‌ها در حال سرازیر شدن است؟"
     },
     {
       "VOrder": 20,
@@ -821,7 +831,8 @@
       "Text": "یکی ژنده پیلی بیاراستند",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: یک فیل زوار و کهنه را با زین و افزار زیبا آراسته‌اند و بر تختی زرین نشاندند."
     },
     {
       "VOrder": 22,
@@ -837,7 +848,8 @@
       "Text": "نشست از بر تخت زر پور زال",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: زال پسر پور زال، بر تخت زرین نشسته است و با شجاعت و قدرتی شبیه به شیر،‌ خود را نمایان کرده است."
     },
     {
       "VOrder": 24,
@@ -853,7 +865,8 @@
       "Text": "به سر برش تاج و کمر بر میان",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: او بر سر خود تاجی دارد و سپری را به کمر بسته است، همچنین در دستش گرزی سنگین و قوی است."
     },
     {
       "VOrder": 26,
@@ -869,7 +882,8 @@
       "Text": "چو از دور سام یل آمد پدید",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: وقتی سام یل از دور دیده شد، سپاه را به دو قسمت تقسیم کرده و آماده نبرد کرد."
     },
     {
       "VOrder": 28,
@@ -885,7 +899,8 @@
       "Text": "فرود آمد از باره مهراب و زال",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: مهراب و زال از جایگاه خود پایین آمدند و بزرگان زیادی که سال‌ها در کنار آن‌ها بوده‌اند، به جمع‌شان پیوستند."
     },
     {
       "VOrder": 30,
@@ -901,7 +916,8 @@
       "Text": "یکایک نهادند سر بر زمین",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: هر کدام به احترام و ادب، سر به زمین گذاشتند و سام یل را ستایش کردند."
     },
     {
       "VOrder": 32,
@@ -917,7 +933,8 @@
       "Text": "چو گل چهرهٔ سام یل بشکفید",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: وقتی چهرهٔ زیبا و دلربا مانند گل بشکفد، مانند این است که بر روی فیل، بچهٔ شیری را بنگرید."
     },
     {
       "VOrder": 34,
@@ -933,7 +950,8 @@
       "Text": "چنان همش بر پیل پیش آورید",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: به صورت کلی، در این بیت تصویر به‌دام افتاده‌ای از یک پادشاه با تجملاتش، در حال تماشای یک میدان نبرد یا نمایش رخدادهایی است که در آنجا در حال وقوع است. او با شکوه و جلالش به‌دقت به وقایع اطرافش نگاه می‌کند، گویی که می‌خواهد از اوضاع آگاه شود و بر اوضاع تسلط یابد."
     },
     {
       "VOrder": 36,
@@ -949,7 +967,8 @@
       "Text": "یکی آفرین کرد سام دلیر",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: مرد شجاعی به نام سام، برای تهما، که یک موجود شگفت‌انگیز است، دعایی کرد تا همیشه شاد و خوشبخت باشد."
     },
     {
       "VOrder": 38,
@@ -965,7 +984,8 @@
       "Text": "ببوسید رستمش تخت ای شگفت",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: رستم به احترام نیا، تخت او را بوسید و ستایش نوینی را آغاز کرد."
     },
     {
       "VOrder": 40,
@@ -981,7 +1001,8 @@
       "Text": "که ای پهلوان جهان شاد باش",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: ای پهلوان، خوشحال باش! من از تو و نیروی تو قدرت گرفته‌ام. تو آغاز و اساس انرژی و قوت من هستی."
     },
     {
       "VOrder": 42,
@@ -997,7 +1018,8 @@
       "Text": "یکی بنده‌ام نامور سام را",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: من یکی از بندگان نامدار سام هستم و از غذا، خواب و آرامش بهره‌مندم."
     },
     {
       "VOrder": 44,
@@ -1013,7 +1035,8 @@
       "Text": "همی پشت زین خواهم و درع و خود",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: من قصد دارم درود و سلام خود را از روی زین بفرستم و در کنار آن، زره و تیر ناوک نیز داشته باشم."
     },
     {
       "VOrder": 46,
@@ -1029,7 +1052,8 @@
       "Text": "به چهر تو ماند همی چهره‌ام",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: به چهره تو که نگاه می‌کنم، صورت من هم مانند آن می‌شود، مگر اینکه من هم مانند تو زهره‌ام."
     },
     {
       "VOrder": 48,
@@ -1045,7 +1069,8 @@
       "Text": "وزان پس فرود آمد از پیل مست",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: سپس او از روی فیل، که به شدت مست بوده، پایین آمد و دست سپهدار را گرفت."
     },
     {
       "VOrder": 50,
@@ -1061,7 +1086,8 @@
       "Text": "همی بر سر و چشم او داد بوس",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: او به علامت عشق و محبت، بوسه‌ای بر سر و چشم او می‌زند و در دل خود احساس بزرگی و شکوه می‌کند، همچون صدای شکوهمند فیل‌ها و طنین ساز."
     },
     {
       "VOrder": 52,
@@ -1077,7 +1103,8 @@
       "Text": "سوی کاخ ازان پس نهادند روی",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: پس از آن، به سمت کاخ رفتند و در طول مسیر با خوشحالی و گفتگوهای شاداب، پیش رفتند."
     },
     {
       "VOrder": 54,
@@ -1093,7 +1120,8 @@
       "Text": "همه کاخها تخت زرین نهاد",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: همه قصرها بر تخت‌های زرین نشسته‌اند، غذا خورده و در آرامش و خوشحالی به سر می‌برند."
     },
     {
       "VOrder": 56,
@@ -1109,7 +1137,8 @@
       "Text": "برآمد برین بر یکی ماهیان",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: بر روی آب، یک ماهی به آرامی پدیدار شد که هیچ‌گاه در میانه دشواری‌ها قرار نگرفته است."
     },
     {
       "VOrder": 58,
@@ -1125,7 +1154,8 @@
       "Text": "بخوردند باده به آوای رود",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: در کنار رودخانه، نوشیدنی‌ای نوشیدند و هر یک به نوبت شعری را زمزمه کردند."
     },
     {
       "VOrder": 60,
@@ -1141,7 +1171,8 @@
       "Text": "به یک گوشهٔ تخت، دستان نشست",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: در یک سمت تخت، دستان نشسته و در سمت دیگر، رستم با گرزی در دست ایستاده است."
     },
     {
       "VOrder": 62,
@@ -1157,7 +1188,8 @@
       "Text": "به پیش اندرون سام گیهان گشای",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: به جلو برو و درون جهان را بگشا، همان‌طور که پرنده‌ای طلایی از تاجش فرود می‌آید."
     },
     {
       "VOrder": 64,
@@ -1173,7 +1205,8 @@
       "Text": "ز رستم همی در شگفتی بماند",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: رستم همیشه در حیرت می‌ماند، هر بار که نام خدا را می‌خواند."
     },
     {
       "VOrder": 66,
@@ -1189,7 +1222,8 @@
       "Text": "بدان بازوی و یال و آن پشت و شاخ",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: بدان که این بدن به مانند قلمی باریک و کشیده است، با بازوهایی قوی، یالی بلند و پشتی مستحکم، و سینه‌ای وسیع و پهن."
     },
     {
       "VOrder": 68,
@@ -1205,7 +1239,8 @@
       "Text": "دو رانش چو ران هیونان ستبر",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: دو پایش مانند دو پای اسب نیرومند است و دلش همچون شیر نر شجاع و قوی است."
     },
     {
       "VOrder": 70,
@@ -1221,7 +1256,8 @@
       "Text": "بدین خوب رویی و این فر و یال",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: هیچ یک از پهلوانان همتای تو، به این زیبایی و شکوه و جلال نرسیده‌اند."
     },
     {
       "VOrder": 72,
@@ -1237,7 +1273,8 @@
       "Text": "بدین شادمانی کنون می خوریم",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: در این لحظه از زندگی و خوشحالی، بیایید با نوشیدن شراب، گلویمان را پر کنیم و به خاطر غم و اندوهی که داریم، شکرگزاری کنیم."
     },
     {
       "VOrder": 74,
@@ -1253,7 +1290,8 @@
       "Text": "به زال آنگهی گفت تا صد نژاد",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: سپس به زال گفتند که اگر بخواهی نسل و نژاد خود را بشماری، هیچ‌کس مانند او این ویژگی را ندارد و در یادها نمی‌ماند."
     },
     {
       "VOrder": 76,
@@ -1269,7 +1307,8 @@
       "Text": "که کودک ز پهلو برون آورند",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: کودک را به زیبایی از پهلو بیرون می‌آورند، اما چگونه می‌توان برای این کار تدبیری اندیشید؟"
     },
     {
       "VOrder": 78,
@@ -1285,7 +1324,8 @@
       "Text": "بسیمرغ بادا هزار آفرین",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: مرغی با عظمت و شگفت‌انگیز است که هزاران بار باید او را ستود، چرا که خداوند او را در این دنیا به راهی نشانده است."
     },
     {
       "VOrder": 80,
@@ -1301,7 +1341,8 @@
       "Text": "که گیتی سپنجست پر آی و رو",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: جهان مانند یک اسفنج است که پر از آب می‌باشد؛ وقتی که قدیمی می‌شود، می‌توانند آن را بفشارند و دوباره تازه و نو کنند."
     },
     {
       "VOrder": 82,
@@ -1317,7 +1358,8 @@
       "Text": "به می دست بردند و مستان شدند",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: در میخانه مشغول نوشیدن شدند و به خاطر رستم، یاد دستان به یادشان آمد."
     },
     {
       "VOrder": 84,
@@ -1333,7 +1375,8 @@
       "Text": "همی خورد مهراب چندان نبید",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: مهراب به قدری شراب می‌نوشد که هیچ‌کس در دنیا مانند خودش را نمی‌بیند."
     },
     {
       "VOrder": 86,
@@ -1349,7 +1392,8 @@
       "Text": "همی گفت نندیشم از زال زر",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: او می‌گفت که به زال زر و سام و شاهی با تاج و شکوه فکر نمی‌کنم."
     },
     {
       "VOrder": 88,
@@ -1365,7 +1409,8 @@
       "Text": "من و رستم و اسب شبدیز و تیغ",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: من و رستم و اسب شبدیز و شمشیر، بر دشمن نمی‌هراسیم و از سایه قوی‌تری نمی‌گذریم."
     },
     {
       "VOrder": 90,
@@ -1381,7 +1426,8 @@
       "Text": "کنم زنده آیین ضحاک را",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: من زندگی ضحاک را زنده می‌کنم و به وسیله‌ی مشک سارا، خاک را چنان می‌سازم."
     },
     {
       "VOrder": 92,
@@ -1397,7 +1443,8 @@
       "Text": "پر از خنده گشته لب زال و سام",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: لب‌های زال و سام از خوشحالی پر از خنده شده است و صحبت‌های مهراب دل آنها را شاد کرده است."
     },
     {
       "VOrder": 94,
@@ -1413,7 +1460,8 @@
       "Text": "سر ماه نو هرمز مهرماه",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: در آغاز ماه نو، هرمز، نماینده مهرماه، بر تخت خوشبختی نشسته و مسیر خوشبختی را انتخاب کرد."
     },
     {
       "VOrder": 96,
@@ -1429,7 +1477,8 @@
       "Text": "بسازید سام و برون شد به در",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: ساختند سام و زال با پدرش از خانه بیرون آمدند و به سمت یک مکان جدید رفتند."
     },
     {
       "VOrder": 98,
@@ -1445,7 +1494,8 @@
       "Text": "همی رفت بر پیل رستم دژم",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "رستم برای خداحافظی با پدر بزرگش با روی گرفته بر فیل نشسته بود\u00A0"
     },
     {
       "VOrder": 100,
@@ -1461,7 +1511,8 @@
       "Text": "چنین گفت مر زال را کای پسر",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: این جمله به معنای این است که کسی به زال می‌گوید: «ای پسر، توجه کن که تنها از کسانی که درستکار و عادل هستند، بهره‌مند خواهی شد و راهی در پیش خواهی داشت.»"
     },
     {
       "VOrder": 102,
@@ -1477,7 +1528,8 @@
       "Text": "به فرمان شاهان دل آراسته",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: به دستور فرمانروایان، دل آراسته و زیبا شده است و تصمیم گرفته شده که خرد و دانایی را انتخاب کنند."
     },
     {
       "VOrder": 104,
@@ -1493,7 +1545,8 @@
       "Text": "همه ساله بر بسته دست از بدی",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "هوش مصنوعی: هر سال به دور از اعمال زشت زندگی کرده و هر روز به دنبال راهی برای نزدیک شدن به خدا هستم."
     },
     {
       "VOrder": 106,
@@ -1509,7 +1562,8 @@
       "Text": "چنان دان که بر کس نماند جهان",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "هوش مصنوعی: بفهم که هیچ کس تا ابد در این دنیا نمی‌ماند، بنابراین باید واقعیات زندگی را به صورت روشن و پنهان بشناسی و درک کنی."
     },
     {
       "VOrder": 108,
@@ -1525,7 +1579,8 @@
       "Text": "برین پند من باش و مگذر ازین",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "هوش مصنوعی: به این توصیه من توجه کن و از آن بگذر، جز اینکه در مسیر درست قدم بگذاری، بر روی زمین نرو."
     },
     {
       "VOrder": 110,
@@ -1541,7 +1596,8 @@
       "Text": "که من در دل ایدون گمانم همی",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "هوش مصنوعی: من در دل خود احساس می‌کنم که سختی زمان به من نزدیک شده است."
     },
     {
       "VOrder": 112,
@@ -1557,7 +1613,8 @@
       "Text": "دو فرزند را کرد پدرود و گفت",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "هوش مصنوعی: پدر دو فرزند خود را وداع گفت و به آنها یادآور شد که این نکات و آموزه‌ها را نباید مخفی نگه دارند."
     },
     {
       "VOrder": 114,
@@ -1573,7 +1630,8 @@
       "Text": "برآمد ز درگاه زخم درای",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "هوش مصنوعی: صدای کرنایی که از زخم در گشاسته می‌آید، مانند خشخش فیل‌هاست. "
     },
     {
       "VOrder": 116,
@@ -1589,7 +1647,8 @@
       "Text": "سپهبد سوی باختر کرد روی",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "هوش مصنوعی: سپهبد به سمت غرب نگاه کرد و با زبانی گرم صحبت کرد، در حالی که دلش می‌خواست از شرم و احترام خودداری کند."
     },
     {
       "VOrder": 118,
@@ -1605,7 +1664,8 @@
       "Text": "برفتند با او دو فرزند او",
       "CoupletIndex": 59,
       "SectionIndex1": 0,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "هوش مصنوعی: دو فرزند او به همراهش رفتند، چهره‌ای پر از اشک داشتند و دلشان پر از آموزه‌ها و درس‌هایی بود."
     },
     {
       "VOrder": 120,
@@ -1621,7 +1681,8 @@
       "Text": "دو منزل برفتند و گشتند باز",
       "CoupletIndex": 60,
       "SectionIndex1": 0,
-      "SectionIndex2": 62
+      "SectionIndex2": 62,
+      "CoupletSummary": "هوش مصنوعی: دو مکان را پشت سر گذاشتند و دوباره به عقب بازگشتند، آن فرمانده مسیر طولانی را پیش گرفت."
     },
     {
       "VOrder": 122,
@@ -1637,7 +1698,8 @@
       "Text": "وزان روی زال سپهبد به راه",
       "CoupletIndex": 61,
       "SectionIndex1": 0,
-      "SectionIndex2": 63
+      "SectionIndex2": 63,
+      "CoupletSummary": "هوش مصنوعی: سپهبد زال با چهره‌ای درخشان، سپاهیان را به سمت سیستان راهنمایی کرد و آنها را به جلو می‌برد."
     },
     {
       "VOrder": 124,
@@ -1653,7 +1715,8 @@
       "Text": "شب و روز با رستم شیرمرد",
       "CoupletIndex": 62,
       "SectionIndex1": 0,
-      "SectionIndex2": 64
+      "SectionIndex2": 64,
+      "CoupletSummary": "هوش مصنوعی: در طول شب و روز، رستم، مرد شجاع، خوش گذرانی می‌کرد و به همراه آن باده نوشی نیز داشت."
     },
     {
       "VOrder": 126,

@@ -501,7 +501,8 @@
       "Text": "چون رفت به گوش هر کس این راز",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: زمانی که این راز به گوش هر کسی رسید و از هر طرف صدایی برخاست،"
     },
     {
       "VOrder": 2,
@@ -517,7 +518,8 @@
       "Text": "کازاده جوانی از فلان کوی",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: یک جوان از محله‌ای خاص، به زیبایی دختری دل باخته و شیفته‌اش شده است."
     },
     {
       "VOrder": 4,
@@ -533,7 +535,8 @@
       "Text": "در مکتب عشق شد غلامش",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در آغوش عشق، او را به عنوان خدمتکار خود پذیرفته و روز و شب نامش را می‌نویسد."
     },
     {
       "VOrder": 6,
@@ -549,7 +552,8 @@
       "Text": "مقصود وی آن بت یگانه است",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: مقصود او فقط همان معشوق خاص است و در واقع آموزش و یادگیری، بهانه‌ای برای رسیدن به اوست."
     },
     {
       "VOrder": 8,
@@ -565,7 +569,8 @@
       "Text": "زو هر چه شنید یاد گیرد",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: هر آنچه از دیگران می‌شنود، یاد می‌گیرد و آموزش جدیدی را فرا می‌گیرد که آن را به فراموشی می‌سپارد."
     },
     {
       "VOrder": 10,
@@ -581,7 +586,8 @@
       "Text": "آموختنش، کجا بود هوش؟!",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: یادگیری آن، به کجا وابسته بود؟! کسی که آموخته، فراموش می‌کند."
     },
     {
       "VOrder": 12,
@@ -597,7 +603,8 @@
       "Text": "زین قصه، بهر در سرایی",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: از این داستان، به سوی خانه‌ای می‌رفت که در آن یک ماجرای پنهان وجود داشت."
     },
     {
       "VOrder": 14,
@@ -613,7 +620,8 @@
       "Text": "تاگشت ز گفت و گوی اوباش",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که در نتیجه صحبت‌ها و گفتگوهای گروهی از افراد بی‌فرهنگ، اطلاعاتی درباره مادر لیلی به طور علنی و آشکار مطرح شده است."
     },
     {
       "VOrder": 16,
@@ -629,7 +637,8 @@
       "Text": "مادر ز نهیب شرم اغیار",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: مادر از شرم و ترس نسبت به نگاه‌های بیگانه، در گوشه‌ای نشسته و دلش پر از غم و اندوه است."
     },
     {
       "VOrder": 18,
@@ -645,7 +654,8 @@
       "Text": "زان آتش ده زبانه ترسید",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: از آن آتش شعله‌های تند ترسید و از سرزنش‌ها و انتقادهای زمانه هراسان شد."
     },
     {
       "VOrder": 20,
@@ -661,7 +671,8 @@
       "Text": "فرزند خجسته را نهانی",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: فرزند خوشبخت را در آرامش و دور از چشم دیگران به آرامی و با محبت بزرگ می‌کرد."
     },
     {
       "VOrder": 22,
@@ -677,7 +688,8 @@
       "Text": "گفت ای دل و دیدهٔ مرا نور",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: ای دل و دیده‌ام، نورم از روی توست و از چشم بد دور بماند."
     },
     {
       "VOrder": 24,
@@ -693,7 +705,8 @@
       "Text": "دانی که جهان فریبناک است",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: می‌دانی که دنیا فریبنده است و آرامش آن با غم و تباهی همراه است."
     },
     {
       "VOrder": 26,
@@ -709,7 +722,8 @@
       "Text": "هر کاسه که خوان دهر، دارد",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: هر ظرفی که زندگی به ما می‌سازد، ممکن است درونش چیزی خطرناک و مضر وجود داشته باشد؛ حتی آنچه که به نظر خوشمزه و دلپذیر می‌آید، ممکن است زهر آلود باشد."
     },
     {
       "VOrder": 28,
@@ -725,7 +739,8 @@
       "Text": "هر سرخ گلی که در بهاریست",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: هر گلی که در بهار می‌شکفد، در کنارش یک خار هم وجود دارد."
     },
     {
       "VOrder": 30,
@@ -741,7 +756,8 @@
       "Text": "تو ساده مزاجی و تنگ دل",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: تو آدمی هستی که به راحتی تحت تأثیر قرار می‌گیری و دلخوشی‌های کمی داری و از خوبی‌ها و بدی‌های دنیا بی‌خبر هستی."
     },
     {
       "VOrder": 32,
@@ -757,7 +773,8 @@
       "Text": "چون اهل زمانه را وفا نیست",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: از آنجا که مردم زمانه به عهد و پیمان خود وفادار نیستند، انتظار وفاداری از آن‌ها منطقی نیست."
     },
     {
       "VOrder": 34,
@@ -773,7 +790,8 @@
       "Text": "هان تا نکنی عنان دل سست",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: مراقب باش که اگر در اداره احساساتت سستی کنی، ممکن است به راحتی درگیر مشکلات و گرفتار حوادث ناگوار شوی."
     },
     {
       "VOrder": 36,
@@ -789,7 +807,8 @@
       "Text": "القصه شنیده‌ام که جایی",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: به هر حال، شنیده‌ام که در جایی به دوستی یا آشنایی توجهی داری."
     },
     {
       "VOrder": 38,
@@ -805,7 +824,8 @@
       "Text": "ترسم که چو گردد این خبر فاش",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: می‌ترسم که اگر این خبر به گوش دیگران برسد، با افراد نادرست شناخته شوی و آبرویت برود."
     },
     {
       "VOrder": 40,
@@ -821,7 +841,8 @@
       "Text": "آتش که به شاخ ارزن افتد",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: اگر آتش به کاه یا علف خشک بزند و زود آن را خاموش نکنی، احتمال دارد که به مزرعه یا انبار غلات آسیب جدی بزند."
     },
     {
       "VOrder": 42,
@@ -837,7 +858,8 @@
       "Text": "با این تن پاک و گوهر پاک",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: چرا باید با این بدن و روح پاک خود را به چیزهای سطحی و دنیوی آلوده کنی؟"
     },
     {
       "VOrder": 44,
@@ -853,7 +875,8 @@
       "Text": "جایی منشین که چو نهی پای",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: در جایی ننشین که اگر پایت را به بی‌احترامی بگذاری، از آن مکان بلند نشوی.  \n"
     },
     {
       "VOrder": 46,
@@ -869,7 +892,8 @@
       "Text": "چون شهره شود عروس معصوم،",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: زمانی که عروس معصوم شناخته شود، دیگر مشخص نیست که پاکی و پلیدی در او چگونه است؟"
     },
     {
       "VOrder": 48,
@@ -885,7 +909,8 @@
       "Text": "آن کس که مگس ز کاسه راند",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: کسی که مگس را از ظرف غذا دور می‌کند، نمی‌داند که خوردن و نخوردن آن چه تأثیری بر او دارد و چه چیزی را از دست می‌دهد."
     },
     {
       "VOrder": 50,
@@ -901,7 +926,8 @@
       "Text": "عشق ار چه بود به صدق و پاکی",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: عشق هرچند بسیار صادقانه و خالصانه باشد، اما از عیب و نقص دور نیست."
     },
     {
       "VOrder": 52,
@@ -917,7 +943,8 @@
       "Text": "آوازه چو گشت در جهان عام",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: وقتی نام و شهرت کسی در دنیا پخش شود، هیچ‌کس به او بدی نمی‌کند و به دشنام نمی‌گوید."
     },
     {
       "VOrder": 54,
@@ -933,7 +960,8 @@
       "Text": "گر دم نزنند کاردانان",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: اگر دانایان سکوت کنند، چگونه می‌توان از دست بدگمانان رهایی یافت؟"
     },
     {
       "VOrder": 56,
@@ -949,7 +977,8 @@
       "Text": "مادر به حدیث نیک خواهی",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: مادر در مورد خوبی‌های لیلی صحبت می‌کند، اما همین صحبت‌ها باعث می‌شود که او به خطر بیفتد و دلتنگی‌های عاطفی ایجاد کند."
     },
     {
       "VOrder": 58,
@@ -965,7 +994,8 @@
       "Text": "بر زانوی درد سر نهاده",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: انسانی در حال تحمل درد و رنج است، سرش را بر زانو گذاشته و در سکوت از درونش احساس خسران و ناراحتی می‌کند."
     },
     {
       "VOrder": 60,
@@ -981,7 +1011,8 @@
       "Text": "با سوختگان حدیث پرهیز",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: با افرادی که در آتش عشق سوخته‌اند، درباره پرهیز از روغن صحبت می‌شود، در حالی که آتش بسیار تند و شدید است."
     },
     {
       "VOrder": 62,
@@ -997,7 +1028,8 @@
       "Text": "بیمار ز هر چه داری اش باز",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: اگر بیمار را از هر چیزی که داری برنجانی، لب‌هایش را به همان چیز سرگرم می‌سازد."
     },
     {
       "VOrder": 64,
@@ -1013,7 +1045,8 @@
       "Text": "مادر چو شناخت کاو اسیرست",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: وقتی مادر متوجه شد که کودک در سختی و مشکل است، او را در آن وضعیت رها کن و به او کمک نکن، زیرا آنجا دیگر جای ماندن نیست."
     },
     {
       "VOrder": 66,
@@ -1029,7 +1062,8 @@
       "Text": "تن زد ز نصیحتی که می‌گفت",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: او از نصیحت‌ و توصیه‌ای که می‌گفت پرهیز کرد و گفت که این خبر پنهانی با همسرش است."
     },
     {
       "VOrder": 68,
@@ -1045,7 +1079,8 @@
       "Text": "بشنید پدر چو حال فرزند",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: پدر وقتی حال فرزندش را دید که از شرم و خجالت به خود آمده است، بسیار نگران و ناراحت شد."
     },
     {
       "VOrder": 70,
@@ -1061,7 +1096,8 @@
       "Text": "فرمود که سرو نوبهاری",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: فرمود که وقتی سرو در بهار به گل بنشیند، به مانند پاران با زیبایی خاصی احاطه می‌شود."
     },
     {
       "VOrder": 72,
@@ -1077,7 +1113,8 @@
       "Text": "از پرده برون سخن نراند",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: سخن از پرده بیرون نمی‌آید، اما هرچه در پس پرده گفته شده، ممکن است خوانده شود."
     },
     {
       "VOrder": 74,
@@ -1093,7 +1130,8 @@
       "Text": "مه را به سرای بند کردند",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: ماه را در خانه به دام انداختند و دیوارهای خانه را بلندتر ساختند."
     },
     {
       "VOrder": 76,
@@ -1109,7 +1147,8 @@
       "Text": "او ماند به کنج حجره دلتنگ",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: او در گوشه‌ای از اتاق نشسته و به شدت احساس ناراحتی می‌کند، به طوری که اشک‌هایش باعث تغییر رنگ خاک می‌شود."
     },
     {
       "VOrder": 78,
@@ -1125,7 +1164,8 @@
       "Text": "هر ناله که عاشقانه می‌زد",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: هر ناله‌ای که عاشقانه از دل برمی‌خاست، آتش عشق از لبانش شعله‌ور می‌شد."
     },
     {
       "VOrder": 80,
@@ -1141,7 +1181,8 @@
       "Text": "شد خانه ز آه آتش اندود",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: خانه به خاطر ناله‌ها و اندوه‌ها به حالت سوخته و غم‌انگیزی درآمده است، مانند زمینی که قبر مجرمان در آن وجود دارد و سرشار از دود و سیاهی است."
     },
     {
       "VOrder": 82,
@@ -1157,7 +1198,8 @@
       "Text": "صبری نه که دل به راه دارد",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: صبر کن؛ چرا که دل به مسیرش ادامه می‌دهد و ذهن هم همچنان در حال تفکر و تأمل است."
     },
     {
       "VOrder": 84,
@@ -1173,7 +1215,8 @@
       "Text": "یاری نه که سینه را بکاود",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: دوست یا یاری نیست که درد و رنج دل را درک کند و از دل من خون غم بریزد."
     },
     {
       "VOrder": 86,
@@ -1189,7 +1232,8 @@
       "Text": "با زیستنی چنان که دانی",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: با زندگی کردن به طریقی که به خوبی می‌دانی، می‌توانی به مفهوم واقعی مرگ و زندگی پی ببری."
     },
     {
       "VOrder": 88,
@@ -1205,7 +1249,8 @@
       "Text": "هر چند که مادر از سر سوز",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: هرچند که مادر به خاطر احساس دلتنگی و محبت، شب و روز در کنار او حاضر می‌شود، ولی در نهایت این عشق و محبت برای او کافی نیست."
     },
     {
       "VOrder": 90,
@@ -1221,7 +1266,8 @@
       "Text": "لیک آنکه ورا هوای یارست،",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: اما کسی که دلش هوای محبوب را دارد، با مادر و پدرش چه کاری دارد؟"
     },
     {
       "VOrder": 92,
@@ -1237,7 +1283,8 @@
       "Text": "نی خویش ز دوست باشد افزون",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: دوستی و محبت به دیگران از مهم‌ترین چیزهاست، زیرا این زندگی ارزشمند و گرانبهایی که داریم، نشان‌دهنده ارتباط عمیق‌تری با دل‌های دیگران است."
     },
     {
       "VOrder": 94,

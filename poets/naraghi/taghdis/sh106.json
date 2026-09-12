@@ -421,7 +421,8 @@
       "Text": "روزگاری از سخن لب دوختم",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: مدتی زبان به سخن نمی‌گشودم و سکوت کرده بودم تا اینکه برای آموختن از شاه خود به گفتگو پرداختم."
     },
     {
       "VOrder": 2,
@@ -437,7 +438,8 @@
       "Text": "مدتی بودم چو طفل شیر نوش",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: مدتی در شرایطی بودم مانند یک کودک که هنوز شیر می‌نوشد، بی‌صدا و خاموش، فقط با گوش‌هایی شنوا."
     },
     {
       "VOrder": 4,
@@ -453,7 +455,8 @@
       "Text": "تا زبانم لطف آن شه باز کرد",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که آن پادشاه زبانم را به لطف و محبت خود باز کرد، من نیز شروع به صحبت در ستایش او کردم."
     },
     {
       "VOrder": 6,
@@ -469,7 +472,8 @@
       "Text": "گر نبودی خلق عالم در حجاب",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: اگر انسان‌ها همچون خفاش‌ها در برابر آفتاب پوشیده و در حجاب می‌بودند، جهان به این وضعیت نمی‌رسید."
     },
     {
       "VOrder": 8,
@@ -485,7 +489,8 @@
       "Text": "در مدیح او سخن سر کردمی",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: من در تعریف و ستایش او سخن گفتم و جهانی پر از زیبایی و ارزش آفریدن."
     },
     {
       "VOrder": 10,
@@ -501,7 +506,8 @@
       "Text": "گر نه چشم اهل دوران کور بود",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: اگر چشم مردم این زمان نابینا بود، چهرهٔ پادشاه از دید آن‌ها پنهان می‌ماند."
     },
     {
       "VOrder": 12,
@@ -517,7 +523,8 @@
       "Text": "می فکندم پرده از رخسار او",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: من پرده را از چهره‌اش کنار می‌زدم و با او روبرو می‌شدم، مانند اینکه آینه‌ای پیش روی او قرار داده‌ام."
     },
     {
       "VOrder": 14,
@@ -533,7 +540,8 @@
       "Text": "آینه لیکن چه آرم بهر کور",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: آینه، چه می‌توانم بگویم برای کسی که در تاریکی است و به نور نمی‌رسد؟ چه سخنی می‌توانم درباره خورشید بگویم برای کسانی که نمی‌توانند آن را ببینند؟"
     },
     {
       "VOrder": 16,
@@ -549,7 +557,8 @@
       "Text": "گر بگویم آنچه آن شد را سزاست",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهم بگویم آنچه که اتفاق افتاده، مناسب است، مردم نمی‌توانند آن را درک کنند."
     },
     {
       "VOrder": 18,
@@ -565,7 +574,8 @@
       "Text": "ور بگویم آنچه می‌فهمند خلق",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهم آنچه را مردم می‌فهمند بگویم، باید جواهرات زیبا را به پیراهن کهنه بیاویزم."
     },
     {
       "VOrder": 20,
@@ -581,7 +591,8 @@
       "Text": "آنکه عین الله و وجه الله بود",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: کسی که خود تجلی واقعی خداوند است و وجهه‌ی اوست، آیا کسی می‌تواند او را وصف کند یا به درک او برسد؟"
     },
     {
       "VOrder": 22,
@@ -597,7 +608,8 @@
       "Text": "چه تواند گفت بینا نزد کور",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: کسی که بیناست و نور را می‌شناسد، نمی‌تواند به شخص نابینا که از نور بی‌خبر است، توضیح دهد که نور چیست و چگونه است."
     },
     {
       "VOrder": 24,
@@ -613,7 +625,8 @@
       "Text": "مدح او گویم ولی با خاصگان",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: من در ستایش او سخن می‌گویم، اما تنها با عده‌ای خاص و با زبان دل، نه با زبان معمولی."
     },
     {
       "VOrder": 26,
@@ -629,7 +642,8 @@
       "Text": "صفهٔ دیگر بیارایم کنون",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: اکنون می‌خواهم جایی دیگر را زینت دهم و اهل دل و جان را به آن‌جا هدایت کنم."
     },
     {
       "VOrder": 28,
@@ -645,7 +659,8 @@
       "Text": "صفه ای سازم ولی نه از آب و گل",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: محلی برپا می‌کنم ولی نه از مصالح معمولی، بلکه فضایی را فراهم می‌کنم برای آرامش و انس با کسانی که دل‌های پاک و عاشق دارند."
     },
     {
       "VOrder": 30,
@@ -661,7 +676,8 @@
       "Text": "رازها آریم با هم در میان",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: ما با هم رازهایی داریم که باید در خفا نگه‌داریم و آن‌ها را علنی نکنیم."
     },
     {
       "VOrder": 32,
@@ -677,7 +693,8 @@
       "Text": "سرّ یاران کی توان بی پرده گفت",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: سخن و رازهای دوستان را نمی‌توان به راحتی بیان کرد، بلکه باید این اسرار را در دل نگه داشت."
     },
     {
       "VOrder": 34,
@@ -693,7 +710,8 @@
       "Text": "از نهفتن گرچه دل در آتش است",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: اگرچه دل در آتش پنهان است، اما بگو که این آتش در دل خوشایند است."
     },
     {
       "VOrder": 36,
@@ -709,7 +727,8 @@
       "Text": "تن در آتش دود خاکستر شود",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: بدن در آتش دچار سوختگی و خاکستر می‌شود، اما دل می‌تواند در دل آتش به طلا تبدیل شود."
     },
     {
       "VOrder": 38,
@@ -725,7 +744,8 @@
       "Text": "تن در آتش گر فتد گردد هلاک",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: اگر بدن در آتش بسوزد، نابود می‌شود؛ اما اگر دل شکسته و آلوده شود، می‌تواند پاک و صاف گردد."
     },
     {
       "VOrder": 40,
@@ -741,7 +761,8 @@
       "Text": "تن سیه انگِشت ز اخگر می‌شود",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "تن از اخگر زغالِ سیاه می‌شود ولی دل، گوگرد قرمز."
     },
     {
       "VOrder": 42,
@@ -757,7 +778,8 @@
       "Text": "آتش تن لیک جانان را سزد",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: گرمای بدن برای مجنون قابل تحمل است، اما آتش دل عاشقان چیزی است که سزاوار آن‌هاست."
     },
     {
       "VOrder": 44,
@@ -773,7 +795,8 @@
       "Text": "پخته‌ای باید چه پخته سوخته",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: انسانی باید باشد که فراتر از تجربه‌های معمولی و سختی‌ها رفته باشد و همچون شعله‌ای در آتش، تمام وجودش پر از شعف و انرژی باشد."
     },
     {
       "VOrder": 46,
@@ -789,7 +812,8 @@
       "Text": "تا در این افتد از این آتش شرر",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که شعله‌ای از این آتش برآید، دیگران از داغی و سوزندگی آن آتش مطلع خواهند شد."
     },
     {
       "VOrder": 48,
@@ -805,7 +829,8 @@
       "Text": "خلوتی خواهم کنون آراستن",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: اکنون می‌خواهم به تنهایی و آرامش بپردازم و این آرامش را با زیبایی‌های جانانم تزئین کنم."
     },
     {
       "VOrder": 50,
@@ -821,7 +846,8 @@
       "Text": "اندر آنجا آتشی افروختن",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: در آن مکان، انسان فرزانه‌ای آتش عشق و شور در دل خود و همراهانش بر می‌افروزد و آن‌ها را می‌سوزاند."
     },
     {
       "VOrder": 52,
@@ -837,7 +863,8 @@
       "Text": "خلوتی سازم سپهرش آستان",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: برای خودم فضایی آرام و خلوت ایجاد می‌کنم تا در آن راز و نیاز کنم و به درگاه اشراف و شخصیت‌های بزرگ روی آورم."
     },
     {
       "VOrder": 54,
@@ -853,7 +880,8 @@
       "Text": "خلوتی روح الامینش پیشکار",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: در اینجا به دور از هیاهو، فرشته وحی (روح الامین) به عنوان خدمتکار عشق در مکانی با شکوه و سرسبز و دلپذیر حضور دارد."
     },
     {
       "VOrder": 56,
@@ -869,7 +897,8 @@
       "Text": "صفه دویم شه ما خواسته",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: دومین صف از ما خواسته است که با نور عشق تزئین شود."
     },
     {
       "VOrder": 58,
@@ -885,7 +914,8 @@
       "Text": "صفه‌ای چون جان عاشق سوزناک",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: صفه‌ای وجود دارد که جان عاشق را می‌سوزاند و شمع آن با نور عشق خالص روشن است."
     },
     {
       "VOrder": 60,
@@ -901,7 +931,8 @@
       "Text": "من همی گویم که ای سلطان جان",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: ای سلطان جان، من همواره می‌گویم که وجود تو روح دنیا را فدای خود کرده است."
     },
     {
       "VOrder": 62,
@@ -917,7 +948,8 @@
       "Text": "صفهٔ دل بهر تو آراسته",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: دل من به خاطر تو آذین بسته و جانم برای خدمت به تو آماده است و ایستاده است."
     },
     {
       "VOrder": 64,
@@ -933,7 +965,8 @@
       "Text": "منظر چشمم قدمگاه شماست",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: چشم من به شما دوخته شده و قلب و جانم فدای راه شماست."
     },
     {
       "VOrder": 66,
@@ -949,7 +982,8 @@
       "Text": "پای تو حیف است بر چشمان من",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: عزیزم، قدم‌های مبارک تو ارزش بیشتری از چشم‌های من دارند، پس لطفاً بر جان من گام بگذار."
     },
     {
       "VOrder": 68,
@@ -965,7 +999,8 @@
       "Text": "خاک راهت توتیای دیده‌ام",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: در اینجا شاعر به طور عاطفی از عشق و دوری صحبت می‌کند. او این گونه بیان می‌کند که گرد و غبار مسیر تو همچون مرواریدی در چشمانش نشسته است و به خاطر درد جدایی تو، رنج زیادی را تحمل کرده است."
     },
     {
       "VOrder": 70,
@@ -981,7 +1016,8 @@
       "Text": "رخصتی فرما که بگشایم زبان",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: اجازه بدهید تا با زبانم داستان عشق را بیان کنم و آن را در جمع شما بگویم."
     },
     {
       "VOrder": 72,
@@ -997,7 +1033,8 @@
       "Text": "سر کنم از عشق جان بخشا سخن",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: من از عشق کسانی که جان می‌افزایند سخن می‌گویم و با شجاعت درباره زیبایی‌های محبوبانم در جمع صحبت می‌کنم."
     },
     {
       "VOrder": 74,
@@ -1013,7 +1050,8 @@
       "Text": "آتش دیرینه را دامن زنم",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: من شعله‌های عشق و احساس را شعله‌ور می‌کنم و این آتش را در دل مردان و زنان زنده نگه می‌دارم."
     },
     {
       "VOrder": 76,
@@ -1029,7 +1067,8 @@
       "Text": "راستی عشق آتش سرکش بود",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: واقعاً عشق مانند آتش سرکش و طغیانی است که هر دو عالم را تحت تأثیر خود قرار می‌دهد و از این آتش، همه چیز گرم و زنده می‌شود."
     },
     {
       "VOrder": 78,

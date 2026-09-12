@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "دریاب که رخت برنهادم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بفهم که من تمام تعلقاتم را رها کرده و از این دنیا دور شده‌ام."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "هم غصه به زیر پای بردم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من هم غم و اندوه خود را به زیر پا گذاشتم و هم قدم‌هایم را بر بالای آن گذاشته‌ام."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "نایافته وصل جان بدادم",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به خاطر عدم وصل و محبوبی که به او نرسیدم، جانم را فدای او کردم و حالا هم به خاطر آن عشق دیگری را در دل گذاشته‌ام."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "دریای غم تو موج می‌زد",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: غم تو مانند دریا پر از موج بود و من به دنبال آن موج‌ها رفتم."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "ناگاه به درد غرق گشتم",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ناگهان دچار درد شدم و هر چه بیشتر قدم برداشتم، این درد افزایش پیدا کرد."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "گفتی سفری بکن که در راه",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفتی که برو سفر و در این راه من برای تو خطرات زیادی را در نظر گرفته‌ام."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "از خاک در تو برگرفتم",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از خاک تو آن چهره‌ای را برمی‌دارم که در سفر به یاد تو گذاشته‌ام."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "فراشی خاک درگه تو",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به معنای این است که من با چشمانی پر از اشک، در برابر درگاه تو خاکی را به نشانهٔ خضوع و بندگی پخش کرده‌ام."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "خون خوردن جاودانه بی تو",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بدون تو، زندگی‌ام پر از درد و رنج است و قلبم نیز از این وضعیت بی‌خبر است."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "از خون سرشک من گلی شد",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کجا که سرم را گذاشتم، اشک من سبب شد که آن مکان به زیبایی گل تبدیل شود."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "جز نام تو بار بر نیاورد",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ نامی جز نام تو نتوانسته است، بار سنگینی از درد و رنجی که در دل دارم را تحمل کند."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "در آتش دل بتافتم گرم",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به خاطر عشق و شوق به معشوق در آتش دل خود سوختم و از هر دردی که به من رسید، گرم و پرشور شدم."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "بس مهر که از خیال رویت",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به اندازه‌ی زیادی عشق و محبت از تصور چهره‌ات بر مردمک چشمانم گذاشته‌ام."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "آن چندان مهر تا قیامت",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من تمام عشق و محبت خود را تا پایان دنیا برای یک نگاه از تو کنار گذاشته‌ام."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "بی او نظری فرید نگشاد",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بدون حضور او، فکری نداشتم که این اصل را به‌عنوان یک قاعده معتبر برگزیده‌ام."
     },
     {
       "VOrder": 30,

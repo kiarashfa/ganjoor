@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "امروز تو را دسترس فردا نیست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "امروز، تو به فردا دسترسی نداری و افکار فردایت جز خیالات نیست."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "ضایع مکن این دم ار دلت شیدا نیست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "این لحظه را تباه نکن اگر حالت خوش است و دلی افسرده نداری؛ چراکه عمر باقی اعتباری ندارد."
     },
     {
       "VOrder": 4,

@@ -13,25 +13,29 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "توحید سه قسم است:",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: توحید به سه نوع تقسیم می‌شود:"
     },
     {
       "VOrder": 2,
       "Position": "Paragraph",
       "Text": "توحید اقرار که ایمان به خدا و کفر به بتها است",
-      "CoupletIndex": 1
+      "CoupletIndex": 1,
+      "CoupletSummary": "هوش مصنوعی: توحید به معنای اعتراف به یگانگی خدا و عدم پذیرش بت‌ها و خدایان دیگر است."
     },
     {
       "VOrder": 3,
       "Position": "Paragraph",
       "Text": "توحید معاملت که آنچه هست در ملکوت او و به اراده او و بخواست او است",
-      "CoupletIndex": 2
+      "CoupletIndex": 2,
+      "CoupletSummary": "هوش مصنوعی: توحید در معاملات به این معناست که هر چیزی که وجود دارد، در سلطه و تحت اراده و خواست خداوند است."
     },
     {
       "VOrder": 4,
       "Position": "Paragraph",
       "Text": "توحید ذکر رؤیت که از غیر خدا بیزار شدن و در یکی رسیدن است",
-      "CoupletIndex": 3
+      "CoupletIndex": 3,
+      "CoupletSummary": "هوش مصنوعی: توحید به معنای این است که افراد از هر آنچه غیر از خداوند است، دوری جسته و بر یکتایی او تمرکز کنند."
     }
   ]
 }

@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "ولد امیر فرامرز دیلمی است این مطلع از جمله اشعار اوست :",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: امیر فرامرز دیلمی، زاده‌ی ولدی است. این جمله بخشی از اشعار اوست:"
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "گاهی گذر که بی تو بگلزار کرده ایم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاهی که بی تو به گلزار رفته‌ایم، یاد تو کرده و بسیار گریسته‌ایم."
     },
     {
       "VOrder": 3,

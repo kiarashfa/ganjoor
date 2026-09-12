@@ -331,7 +331,8 @@
       "Text": "دو شعور است در نهاد بشر",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: انسان دارای دو نوع فکر و آگاهی است: یکی حسی و غریزی که به طور طبیعی در وجود اوست، و دیگری علمی و آموخته شده که از طریق اطلاعات و تجربه به دست می‌آید."
     },
     {
       "VOrder": 2,
@@ -347,7 +348,8 @@
       "Text": "آن نهانست و این دگر پیدا",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: آنچه پنهان است و آنچه آشکار، هر دو به اراده خداوند وجود دارند."
     },
     {
       "VOrder": 4,
@@ -363,7 +365,8 @@
       "Text": "آن شعوری که از برون در است",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: این شعور که از خارج به زندگی ما می‌آید، محافظ و نگهبان فرهنگ و تمدن انسان‌ها است."
     },
     {
       "VOrder": 6,
@@ -379,7 +382,8 @@
       "Text": "و آن کجا ناپدید و پنهانیست",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: آن‌جا که نشانی از ناپدید شدن و پنهان شدن وجود ندارد، پاسبانی وجود دارد که از نسل انسان محافظت می‌کند."
     },
     {
       "VOrder": 8,
@@ -395,7 +399,8 @@
       "Text": "دین و آیین و دانش و فرهنگ",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: دیانت، آداب و رسوم، علم و فرهنگ همگی از آگاهی و درک انسان نشأت می‌گیرند و رنگ و شکل می‌گیرند."
     },
     {
       "VOrder": 10,
@@ -411,7 +416,8 @@
       "Text": "لیک‌ جان‌ها از این‌ شمار جداست",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: اما روح‌ها از این دسته متمایزند، زیرا فعالیت روح آگاه قابل مشاهده نیست."
     },
     {
       "VOrder": 12,
@@ -427,7 +433,8 @@
       "Text": "آنچه را روح و نفس و دل خوانی",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: آنچه که به عنوان روح، نفس و دل می‌شناسیم، محلی است برای شعور و آگاهی نهفته."
     },
     {
       "VOrder": 14,
@@ -443,7 +450,8 @@
       "Text": "مغز جای شعور مکتسب است",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: مغز محل وابستگی و یادگیری عقل و دانش انسان است، اما دل محل دریافت بخشش و رحمت الهی می‌باشد."
     },
     {
       "VOrder": 16,
@@ -459,7 +467,8 @@
       "Text": "هست‌ پُر زین شعور، قلب زنان",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: زنان دارای شعور و هوش بالایی هستند؛ وقتی این را متوجه شدی، باید در رفتار و تصمیم‌گیری‌هایت احتیاط کنی و کنترل بیشتری بر احساسات خود داشته باشی."
     },
     {
       "VOrder": 18,
@@ -475,7 +484,8 @@
       "Text": "با زنی بشکامه گفتم من",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: با زنی به گفتگو نشستم و از او پرسیدم چرا با خودت دشمنی می‌کنی؟"
     },
     {
       "VOrder": 20,
@@ -491,7 +501,8 @@
       "Text": "شوهری داشتی و سامانی",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: تو همسری داشتی و زندگی‌ای با آبرو که شامل نان و خوراک بود."
     },
     {
       "VOrder": 22,
@@ -507,7 +518,8 @@
       "Text": "کودکانی ز قند شرین‌تر",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: کودکان چهره‌هایی شیرین دارند که از قند هم شیرین‌تر است و رنگ پوستشان به لاله‌ها می‌ماند و زیباست."
     },
     {
       "VOrder": 24,
@@ -523,7 +535,8 @@
       "Text": "از چه رو پشت پا زدی همه را",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: چرا همه را به سرنوشت و مصیبت دچار کردی و پشت به آن‌ها کردی؟"
     },
     {
       "VOrder": 26,
@@ -539,7 +552,8 @@
       "Text": "دادی از دست کودکان عزیز",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: تو به خاطر بچه‌های عزیز خودت آبرو و حیثیت را از دست دادی و حتی بر همسرت نیز تأثیر گذاشتی."
     },
     {
       "VOrder": 28,
@@ -555,7 +569,8 @@
       "Text": "دادی از روی شهوت و بیداد",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: به خاطر تمایلات و ظلمت خود، آبروی یک قبیله را بر باد دادی."
     },
     {
       "VOrder": 30,
@@ -571,7 +586,8 @@
       "Text": "شده‌ای هرکسی و هر جایی",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: تو به هر کسی و در هر مکانی تبدیل شده‌ای و روز و شب مشغول زیبایی‌سازی چهره‌ات هستی."
     },
     {
       "VOrder": 32,
@@ -587,7 +603,8 @@
       "Text": "زود ازین ره تکیده خواهی شد",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: به زودی از این راه خسته و پژمرده خواهی شد، مانند اناری که ازش آب گرفته‌اند."
     },
     {
       "VOrder": 34,
@@ -603,7 +620,8 @@
       "Text": "چون شدی پیر، دورت اندازند",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: وقتی که پیر شوی، مردم به دور تو خواهند بود و به نوعی تو را فراموش خواهند کرد، مانند اینکه زنده زنده به قبرت می‌فرستند."
     },
     {
       "VOrder": 36,
@@ -619,7 +637,8 @@
       "Text": "خویش‌ را جفت غم چراکردی‌؟‌!",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: چرا برای خودت یک همدم غم درست کردی؟ چرا به خودت ظلم کردی؟"
     },
     {
       "VOrder": 38,
@@ -635,7 +654,8 @@
       "Text": "پاسخم داد زن‌: که گفتی راست",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: زن پاسخ داد: «تو راست می‌گویی، اما در دل من چیزی دیگر می‌خواست.»"
     },
     {
       "VOrder": 40,
@@ -651,7 +671,8 @@
       "Text": "نیست زن را به کار سر، سروکار",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: زن را کار سر و امور ظاهری نیست، بلکه ارتباط او با دل و احساساتش است و این موضوع اصل کار اوست."
     },
     {
       "VOrder": 42,
@@ -667,7 +688,8 @@
       "Text": "عقل را مغز می‌دهد یاری",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: عقل با کمک مغز، به انسان یاری می‌رساند، در حالی که عشق با دل، از آن حمایت می‌کند."
     },
     {
       "VOrder": 44,
@@ -683,7 +705,8 @@
       "Text": "هرکه با عشق طرح الفت ریخت",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که با عشق احساس نزدیکی و محبت را ایجاد کند، در واقع پیوندهای عقلانی و منطقی را قطع کرده است."
     },
     {
       "VOrder": 46,
@@ -699,7 +722,8 @@
       "Text": "زن و عشق و دل وشعور نهان",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: زنان و عشق، دل و احساس عمیق مردان و فهم و نظم در کارهای جهان."
     },
     {
       "VOrder": 48,
@@ -715,7 +739,8 @@
       "Text": "من ندانم پی صلاح بشر",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: من نمی‌دانم که برای بهبود وضعیت بشر، کدام یک از دو مذهب بهتر و مناسب‌تر است."
     },
     {
       "VOrder": 50,
@@ -731,7 +756,8 @@
       "Text": "گر دل و مغز هر دو یار شدی",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: اگر دل و فکر با هم همراه شوند، عقل و عشق به خوبی با هم هماهنگ خواهند شد."
     },
     {
       "VOrder": 52,
@@ -747,7 +773,8 @@
       "Text": "جای بر هیچ کس نگشتی ننگ",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: شما در هیچ‌کس جای نگیری، زیرا بدی و ننگ آشتی را از خود دور کردی و فقط در جنگ باقی ماندی."
     },
     {
       "VOrder": 54,
@@ -763,7 +790,8 @@
       "Text": "مام نگریستی به کشته پسر",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: ای مادر، آیا به کشته شدن پسر کسی نگاه نکردی و در حالی که گرسنه‌ای روی بستر استراحت کردی؟"
     },
     {
       "VOrder": 56,
@@ -779,7 +807,8 @@
       "Text": "نشدی دربدر زن بیوه",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: این بیت به احساس دلتنگی و پریشانی زنی اشاره دارد که پس از فوت همسرش به سختی و بی‌کسی دچار شده است. او به طور کامل در غم و اندوه خویش غرق شده و در این وضعیت، در نهایت ناامیدی و سردرگمی به سر می‌برد."
     },
     {
       "VOrder": 58,
@@ -795,7 +824,8 @@
       "Text": "و آن تفنگی که می‌زند بدو میل",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: و آن سلاحی که به سمت او تیر می‌زند، به چوب و آهنش تبدیل به ابزارهایی مثل گاوآهن و بیل می‌شود."
     },
     {
       "VOrder": 60,

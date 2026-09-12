@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "معشوقه پی وفا نباشد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر معشوقه‌ام هم وفادار باشد، اما به قول و وعده‌مان وفا نکند، برایم بی‌فایده است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "هرگز سر کوی خوبرویان",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرگز نباید به محل حضور زیبایی‌ها بدون ماجرا و آشفتگی رفت."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "هر چند که یار ما ختاییست",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچند که دوست ما ویژگی‌های خاص خود را دارد، اما ما در قضاوت خود دچار اشتباه نخواهیم شد."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "ای با همه طلعت تو نیکو",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا خوشبختی و زیبایی تو با سرنوشت ما به خوبی همراه نیست؟"
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "دعوی چه کنی به روی‌پوشی؟",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چگونه می‌توانی ادعا کنی که پنهانی؟ پوشاندن خورشید شایسته نیست."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "خوبی که ندید روی او کس",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس امروز به جز خدا نیست که زیبایی او را دیده باشد."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "عشق تو قضای آسمانیست",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق تو حکم و سرنوشت آسمانی است و هیچ کس نمی‌تواند از تقدیر و سرنوشت خود عبور کند."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "من عاشقم و لبت ببوسم",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من عاشق هستم و می‌خواهم لبت را ببوسم، اما این عشق نمی‌تواند شامل همه افراد باشد و همه را به یکسان دوست ندارد."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "گفتی که: ترا دوا صبوریست",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو گفتی که برای تحمل این درد، تنها راهش صبر است، اما این درد درمانی ندارد."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "آن غم که تو ریختی درین دل",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: غم و اندوهی که تو به دل من وارد کردی، جایی دارد که دیگر جایی برای پذیرش ندارد."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "زیر قدمت ببوسم ایرا",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به پای تو بوسه می‌زنم، ای دلبر، که بالای تو هیچ مشکل و دشواری نیست."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "زر میخواهی ز من، ترا خود",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی از من طلا بگیری، باید بدانی که یک بوسه‌ی ساده و بی‌قیمت هم برای تو ارزش ندارد."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "زر پر مطلب، که اوحدی را",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زر پر مطلب به این معناست که به جز دعا، هیچ چیز ارزشمندی در دست اوحدی وجود ندارد. یعنی اوحدی تمام ارزش‌ها و ثروت‌های معنوی خود را در دعا و نیایش می‌بیند و جز این نمی‌تواند چیزی دیگری را در زندگی‌اش مهم بشمارد."
     },
     {
       "VOrder": 26,

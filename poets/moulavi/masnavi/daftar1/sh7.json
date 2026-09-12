@@ -411,7 +411,8 @@
       "Text": "گفت ای شه خلوتی کن خانه را",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "(آن حکیم) گفت‌: ای شاه، اندرون خانه را خلوت کن طوری‌که نه خویش و نه بیگانه در اینجا کسی نباشد."
     },
     {
       "VOrder": 2,
@@ -427,7 +428,8 @@
       "Text": "کس ندارد گوش در دِهلیزها",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "یا کسی (در این نزدیکی نباشد) که از پنجره و روزنی گوش‌کند تا من از کنیزک چیزهایی بپرسم."
     },
     {
       "VOrder": 4,
@@ -443,7 +445,8 @@
       "Text": "خانه خالی مانْد و یک دَیّار نَه",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "خانه، خالی از همه شد و کسی جز طبیب و بیمار در آنجا نماند."
     },
     {
       "VOrder": 6,
@@ -459,7 +462,8 @@
       "Text": "نرم‌نرمک گفت شهرِ تو کجاست؟",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "با ملایمت از او پرسید که اهل کدام شهر هستی؟ زیرا روش درمان‌کردن اهالی سرزمین‌های مختلف با هم فرق دارد."
     },
     {
       "VOrder": 8,
@@ -475,7 +479,8 @@
       "Text": "واندر آن شهر از قرابت کیستت؟",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "در آن شهر چه‌کسی از نزدیکانت و دوستانت هستند؟ و به‌چه چیزهایی در آن شهر علاقه داری؟"
     },
     {
       "VOrder": 10,
@@ -491,7 +496,8 @@
       "Text": "دست بر نبضش نهاد و یَک‌ بیَک",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "نبض او را گرفته‌بود و یک‌به‌یک از سختی‌ها و خاطرات تلخ او می‌پرسید."
     },
     {
       "VOrder": 12,
@@ -507,7 +513,8 @@
       "Text": "چون کسی را خار در پایش جهد",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "وقتی که خار در پای کسی فرو می‌رود (برای بیرون آوردن آن) پایش را بر سر زانو می‌نهد."
     },
     {
       "VOrder": 14,
@@ -523,7 +530,8 @@
       "Text": "وز سَرِ سوزن همی جوید سرش",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "و با یک سوزن به‌دنبال آن خار می‌گردد و اگر آن‌را نیابد با آب‌دهان آن را تر و نرم می‌کند."
     },
     {
       "VOrder": 16,
@@ -539,7 +547,8 @@
       "Text": "خار در پا شد چنین دشواریاب",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "وقتی که یافتن خار در پا اینچنین دشوار است؛ پس تصور کن که یافتن خار و درد دل چقدر دشوارتر است."
     },
     {
       "VOrder": 18,
@@ -555,7 +564,8 @@
       "Text": "خار در دل گر بدیدی هر خَسی",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "اگر هر آدم نادانی می‌توانست درد و بیماری دل را بیابد؛ چه‌کسی غمگین و دردمند می‌ماند؟"
     },
     {
       "VOrder": 20,
@@ -571,7 +581,8 @@
       "Text": "کس به زیر دُمِِّ خر خاری نهد",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "شخصی یک خار را در زیر دُم خر می‌گذارد و آن‌خر نمی‌تواند از آن رها شود و برای رها شدن، می‌جهد و جفتک می‌اندازد."
     },
     {
       "VOrder": 22,
@@ -587,7 +598,8 @@
       "Text": "برجهد، وان خار محکم‌تر زند",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "آن خر می‌جهد و خار را محکم‌تر فرو می‌کند؛ در اینجا به یک آدم عاقل و دانا نیاز است تا خار را جدا کند."
     },
     {
       "VOrder": 24,
@@ -603,7 +615,8 @@
       "Text": "خر ز بهر دفع خار از سوز و درد",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "خر برای رفع سوز و درد خار، جفتک می‌انداخت و صد جا را زخم کرد."
     },
     {
       "VOrder": 26,
@@ -619,7 +632,8 @@
       "Text": "آن حکیمِ خارچینْ استاد بود",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "آن طبیب و حکیم شفاگر، استاد بود و همه چیز را بررسی می‌کرد."
     },
     {
       "VOrder": 28,
@@ -635,7 +649,8 @@
       "Text": "زان کنیزک بر طریق داستان",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "و از آن کنیز به‌شکل احوالپرسی و خاطره و داستان، درباره دوستانش می‌پرسید."
     },
     {
       "VOrder": 30,
@@ -651,7 +666,8 @@
       "Text": "با حکیمْ او قصّه‌ها می‌گفت فاش",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "(آن کنیزک نیز) با حکیم و بدون پنهان کردن از خواجگان و شهرها و جاهایی که رفته بود، حکایت‌ها می‌گفت."
     },
     {
       "VOrder": 32,
@@ -667,7 +683,8 @@
       "Text": "سوی قصّه گفتنش می‌داشت گوش",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "حکیم گوشش به خاطرات او بود و در همان زمان حواسش به سرعت نبض او نیز بود."
     },
     {
       "VOrder": 34,
@@ -683,7 +700,8 @@
       "Text": "تا که نبض از نام کی گردد جَهّان",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "تا اینکه ببیند با یاد آوردن چه‌کسی نبضش می‌جهد (که در اینصورت) آن‌شخص، مقصود و معشوق اوست."
     },
     {
       "VOrder": 36,
@@ -699,7 +717,8 @@
       "Text": "دوستان و شهرِ او را برشمرد",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "دوستان و شهر و دیار او را نام می‌برد و پس از آن از شهری دیگر پرسید."
     },
     {
       "VOrder": 38,
@@ -715,7 +734,8 @@
       "Text": "گفت چون بیرون شدی از شهرِ خویش",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "گفت: وقتی از شهر خود سفر کردی؛ بیشتر در کدام شهر توقف کرده‌ای؟"
     },
     {
       "VOrder": 40,
@@ -731,7 +751,8 @@
       "Text": "نام شهری گفت و زان هم درگذشت",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "آن کنیزک نام یک شهر را گفت و رنگ رخسار و نبض او تغییر نکرد."
     },
     {
       "VOrder": 42,
@@ -747,7 +768,8 @@
       "Text": "خواجگان و شهرها را یَک‌ بیَک",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "از خواجگان و شهرها که دیده بود یک‌به‌یک را شرح داد و از خانه‌ها و لطف‌ها گفت."
     },
     {
       "VOrder": 44,
@@ -763,7 +785,8 @@
       "Text": "شهر شهر و خانه خانه قصّه کرد",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "شهر به‌شهر و خانه‌به‌خانه را نام برد اما نه نبض او تغییر کرد نه رخسارش زرد شد."
     },
     {
       "VOrder": 46,
@@ -779,7 +802,8 @@
       "Text": "نبض او بر حالِ خود بُد بی‌گزند",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "نبض او با همان سرعت می‌زد تا اینکه از سمرقند زیبا پرسید."
     },
     {
       "VOrder": 48,
@@ -795,7 +819,8 @@
       "Text": "نبضْ جَست و رویْ سرخ و زرد شد",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "نبض او تند شد و رنگ او سرخ و زرد می‌شد و از اهالی سمرقند، یک زرگر متمایز شد."
     },
     {
       "VOrder": 50,
@@ -811,7 +836,8 @@
       "Text": "چون ز رنجور آن حکیم این راز یافت",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "وقتی‌که حکیم‌، آن راز را از بیمار دریافت؛ ریشه بیماری و رنجش را پیدا کرد."
     },
     {
       "VOrder": 52,
@@ -827,7 +853,8 @@
       "Text": "گفت کوی او کدام است در گُذَر",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "گفت: آن زرگر در کدام کوی و گذر است؟ او نیز پاسخ‌داد: گذر سرِ پل و کوی غاتفر."
     },
     {
       "VOrder": 54,
@@ -843,7 +870,8 @@
       "Text": "گفت دانستم که رنجت چیست، زود",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "گفت‌: بیماری تو را شناختم و به‌سرعت در درمان و رهایی تو‌، شگفتی‌ها نشان خواهم داد."
     },
     {
       "VOrder": 56,
@@ -859,7 +887,8 @@
       "Text": "شاد باش و فارغ و آمِن که من",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "شاد باش و خیالت راحت باشد که من همان کار را با تو می‌کنم که باران با چمن می‌کند."
     },
     {
       "VOrder": 58,
@@ -875,7 +904,8 @@
       "Text": "من غم تو می‌خَورم، تو غم مخَور",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "من به‌فکر تو هستم پس ناراحت مباش زیرا من صد برابر یک پدر‌، بر تو مهربان‌تر هستم."
     },
     {
       "VOrder": 60,
@@ -891,7 +921,8 @@
       "Text": "هان و هان این راز را با کس مگو",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "اما مواظب باش و هشدار که از این راز با هیچ‌کس نگویی؛ با شاه نیز چیزی مگو حتی اگر زیاد بپرسد."
     },
     {
       "VOrder": 62,
@@ -907,7 +938,8 @@
       "Text": "خانهٔ اسرار تو چون دل شود",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: اگر رازهای درونت را در دل خود نگه‌داری، به زودی به خواسته‌هایت خواهی رسید."
     },
     {
       "VOrder": 64,
@@ -923,7 +955,8 @@
       "Text": "گفت پیغامبر که هر که سِرّ نهفت",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: پیامبر گفت که هر کسی راز خود را پنهان کند، به زودی به آرزویش خواهد رسید."
     },
     {
       "VOrder": 66,
@@ -939,7 +972,8 @@
       "Text": "دانه چون اندر زمین پنهان شود",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: وقتی دانه در زیر زمین دفن می‌شود، راز آن موجب رویش و سرسبزی باغ می‌شود."
     },
     {
       "VOrder": 68,
@@ -955,7 +989,8 @@
       "Text": "زَرّ و نقره گر نبودندی نهان",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: اگر طلا و نقره در زیر زمین مخفی نبودند، چگونه می‌توانستند پرورش یابند و به وجود آیند؟"
     },
     {
       "VOrder": 70,
@@ -971,7 +1006,8 @@
       "Text": "وعده‌ها و لطف‌های آن حکیم",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: حکیم با وعده‌ها و محبت‌هایش، آن رنجور را از ترس و نگرانی آرام کرد."
     },
     {
       "VOrder": 72,
@@ -987,7 +1023,8 @@
       "Text": "وعده‌ها باشد حقیقی، دل‌پذیر",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "وعده‌هایی هست که راست هستند و شادی‌بخش، و وعده‌هایی هست که مَجاز و دروغ‌‌ هستند و غمی گلوگیر به بار می‌آورند.(‌تاسه یعنی فشار گلو‌)"
     },
     {
       "VOrder": 74,
@@ -1003,7 +1040,8 @@
       "Text": "وعدهٔ اهل کرم، گنج روان",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: اینان که سخاوت دارند و کرم در وجودشان است، وعده‌هایشان مانند گنجی جاری و باارزش است. اما وعده‌های کسانی که شایسته نیستند، موجب درد و رنج می‌شود."
     },
     {
       "VOrder": 76,

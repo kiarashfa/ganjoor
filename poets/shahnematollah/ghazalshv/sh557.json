@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "به جز میخانه جای ما نباشد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جز میخانه، جایی برای ما وجود ندارد و هیچ جایی نمی‌تواند مثل فضای ما باشد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "بیا دُردی دردش نوش میکن",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیایید یکی از مشکلات و دردها را با نوشیدن دردی دیگر تسکین دهیم، زیرا این کار ممکن است خوشایندتر از درمان‌های ما باشد."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "نیابد پادشاهی یا ولایت",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ پادشاهی یا حکومتی نمی‌تواند وجود داشته باشد، اگر سرپرست و بزرگ ما گدا و در فقر باشد."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "بقای جاودان داریم از عشق",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق ما پایدار و ابدی است و غم ما از نابودی‌مان نشأت نمی‌گیرد."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "به صدق دل به جانان جان سپردیم",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با صداقت و خلوص نیت، خود را به محبوب سپرده‌ایم و جز او پاداشی برای ما وجود ندارد."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "خدای هر دو عالم جز یکی نیست",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خداوندی که هم در این جهان و هم در جهان دیگر وجود دارد، تنها یک نفر است و هیچ خدای دیگری وجود ندارد."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "به جز انعام عام نعمت الله",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به جز بخشش‌های عمومی و نعمت‌های خداوند، صدای کسی که در فقر و نیاز است، وجود ندارد."
     },
     {
       "VOrder": 14,

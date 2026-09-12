@@ -301,7 +301,8 @@
       "Text": "شبی میگفت اکّافی همین راز",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: شبی شخصی به من گفت که ای پروردگار، این پرده و مانع را از میان بردار."
     },
     {
       "VOrder": 2,
@@ -317,7 +318,8 @@
       "Text": "مسوزان بیش از این مر دوستانت",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: دیگر به سوز و ناراحت نکردن دوستانت ادامه نده، بگو تا کی می‌خواهی این راز پنهانی را در دل نگه‌داری؟"
     },
     {
       "VOrder": 4,
@@ -333,7 +335,8 @@
       "Text": "چنین پیدا چنین پنهان چرائی",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: چرا تو با آدم‌های رند و خوش‌گذران در هر لحظه آشنا هستی، در حالی که خودت هم به همین اندازه آشکار و پنهان هستی؟"
     },
     {
       "VOrder": 6,
@@ -349,7 +352,8 @@
       "Text": "همه خاصان کشیدستی بزنجیر",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: تمامی افرادی که در این مکان به مقامات و امتیازهای ویژه دست یافته‌اند، در واقع هیچ‌گونه تدبیری ندارند و در زنجیر محدودیت‌ها گرفتار هستند."
     },
     {
       "VOrder": 8,
@@ -365,7 +369,8 @@
       "Text": "همه حیران تو اینجا بماندند",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: همه در اینجا به شگفتی تو مشغول هستند و برخی از آنها از ادامه‌ی مسیر خود دست کشیده‌اند."
     },
     {
       "VOrder": 10,
@@ -381,7 +386,8 @@
       "Text": "تو یار عامی و خاصان چنین خوار",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: تو دوست عامه و خاص هستی و این گونه به آنها بی‌احترامی می‌کنی، اما همیشه برای آنها دلسوزی می‌کنی."
     },
     {
       "VOrder": 12,
@@ -397,7 +403,8 @@
       "Text": "تمامت عاشقان در خون فکندی",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: تمام عاشقان را در خون غوطه‌ور کردی و پرده‌نشینانشان را از میان آن‌ها بیرون آوردی."
     },
     {
       "VOrder": 14,
@@ -413,7 +420,8 @@
       "Text": "ترا باشد مسلّم آنچه خواهی",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که می‌خواهی، به آسانی می‌توانی انجام بدهی، چرا که تو یک سلطان بر بندگانت هستی."
     },
     {
       "VOrder": 16,
@@ -429,7 +437,8 @@
       "Text": "بیک ره ماندهام اینجای بر در",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: من در پیش در بسته‌ای نشسته‌ام و در حالتی ناامید و بی‌پناه به سر می‌برم. احساس ناتوانی و غم در وجودم جاری است."
     },
     {
       "VOrder": 18,
@@ -445,7 +454,8 @@
       "Text": "نمود عشق خود اینجا تو بنمای",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: ای عشق، اینجا خودت را نشان بده و مشکلات و دردهای همه را برطرف کن."
     },
     {
       "VOrder": 20,
@@ -461,7 +471,8 @@
       "Text": "تو بگشا این گره از بود جمله",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که تو باید این مشکل و سختی را حل کنی، زیرا تمامی موجودات و چیزهایی که وجود دارند، زیر نظر و تحت فرمان تو هستند."
     },
     {
       "VOrder": 22,
@@ -477,7 +488,8 @@
       "Text": "تو داری جان و دل هستی دل و جان",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: تو وجودت تمام جان و دل است، پس دل و جان عاشقانت را هر لحظه ناراحت نکن."
     },
     {
       "VOrder": 24,
@@ -493,7 +505,8 @@
       "Text": "رهی بنمودهٔ عشاق با خود",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: عاشقان راهی را نشان داده‌اند و همگی به یک چیز امیدوارند و آن اینکه در نهایت به وصال معشوق خود دست یابند."
     },
     {
       "VOrder": 26,
@@ -509,7 +522,8 @@
       "Text": "نگردانی و بخشی آخر کار",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: شما آنها را رنجانیده‌اید، اما در پایان راه، یک بار دیگر با محبت و دوستی به آنها نزدیک خواهید شد."
     },
     {
       "VOrder": 28,
@@ -525,7 +539,8 @@
       "Text": "بلای عشق تو اینجا کشیدند",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: عشق تو باعث شد که مشکلاتی را تحمل کنند، زیرا برای دیدن چهره تو سختی‌ها را متحمل شدند."
     },
     {
       "VOrder": 30,
@@ -541,7 +556,8 @@
       "Text": "در آخرشان لقای خویش بنمای",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: در پایان کار خود، دیدار و ملاقات با خدا را نشان بده و خودت را از قبل آماده کن."
     },
     {
       "VOrder": 32,
@@ -557,7 +573,8 @@
       "Text": "همه واصل کن اینجاگه چو منصور",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: همه را به این مکان برسانید مانند منصور، تا همه نورها به نور دیگری تبدیل شوند."
     },
     {
       "VOrder": 34,
@@ -573,7 +590,8 @@
       "Text": "حقیقت شان بیکره بود گردان",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: واقعیت آن‌ها وسیع و غیرقابل دسترسی است، در حالی که همه‌ی آن‌ها به دور از سود و فایده‌ای هستند."
     },
     {
       "VOrder": 36,
@@ -589,7 +607,8 @@
       "Text": "بدست تست این سرّ نهانی",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: این راز پنهانی که همه چیز در آن نهفته است، تنها در دست تو قرار دارد و تو به خوبی از آن آگاهی داری."
     },
     {
       "VOrder": 38,
@@ -605,7 +624,8 @@
       "Text": "گر آمرزی تمامت در قیامت",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: اگر در قیامت بخواهی تمام آمرزش‌هایت را به دست آوردی، این تمام هستند و مانند خاکستری در مقابل تو قرار می‌گیرند."
     },
     {
       "VOrder": 40,
@@ -621,7 +641,8 @@
       "Text": "کف خاکست پیشت جمله جانها",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: خاکستری که در پیش تو قرار دارد، نمایانگر همه جان‌هاست؛ بنابراین در این مکان، تنها نگذار آن‌ها را بی‌ارزش کن."
     },
     {
       "VOrder": 42,
@@ -637,7 +658,8 @@
       "Text": "ببگذار ای کریم ناتوانبخش",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: ای بخشنده بزرگوار، بگذار تا با لطف و کرامتت، به بندگان خود رحمت کنی و نعمت را بر شهروندان جهان ارزانی داری."
     },
     {
       "VOrder": 44,
@@ -653,7 +675,8 @@
       "Text": "سوی جنّت رسان مر جمله را پاک",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: به سوی بهشت، همه را با دل پاک ببر که در نظر تو، پاکان همچون خاک معمولی هستند."
     },
     {
       "VOrder": 46,
@@ -669,7 +692,8 @@
       "Text": "وصال خویش کن روزیّ جمله",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: روزی به وصال و رسیدن به معشوق خود بپرداز و در نهایت نتیجه‌اش را ببین که چقدر دل‌سوز و دردناک خواهد بود."
     },
     {
       "VOrder": 48,
@@ -685,7 +709,8 @@
       "Text": "همه حیران و زار افتاده نزدیک",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: همه گیج و پریشان به کنار تو افتاده‌اند و در مسیر باریک و دشوار مانده‌اند."
     },
     {
       "VOrder": 50,
@@ -701,7 +726,8 @@
       "Text": "در این زندان کن ایشان راتو آزاد",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: در این زندان، کن این شخص را آزاد کن، چرا که همه‌ی اسیران در اینجا فریاد دادخواهی دارند."
     },
     {
       "VOrder": 52,
@@ -717,7 +743,8 @@
       "Text": "در آخرشان بکن مقصود حاصل",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: در نهایت، مقصود و هدف همه چیز از وجود خودت به دست می‌آید."
     },
     {
       "VOrder": 54,

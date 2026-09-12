@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "زن فرزانه و شرمگین دوست دار",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: زن باهوش و باوقار، احساساتی را در دل دارد."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "زن باخرد را ز جان دوست دار",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زن با عقل و درایت را باید بر جان و دل بپسندید؛ زیرا او می‌تواند همیار و همراه خوبی باشد."
     },
     {
       "VOrder": 3,
@@ -46,7 +48,8 @@
       "Position": "Right",
       "Text": "زنی جوی فرزانه و شرمگین",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زنی بافرهنگ و با حیا که هوشیار و آرام است و همیشه در جستجوی آرامش و خوشبختی می‌باشد."
     },
     {
       "VOrder": 5,

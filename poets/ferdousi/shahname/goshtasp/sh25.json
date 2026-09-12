@@ -461,7 +461,8 @@
       "Text": "برآمد بسی روزگاری بدوی",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: مدت طولانی‌ای گذشت که خسرو به سوی سیستان رفت و سفر کرد."
     },
     {
       "VOrder": 2,
@@ -477,7 +478,8 @@
       "Text": "که آنجا کند زند و استا روا",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در آن مکان، فرستنده‌ای قرار می‌گیرد و توانمندی‌هایی را برای موبدان فراهم می‌آورد و به آنها تأسیس می‌دهد."
     },
     {
       "VOrder": 4,
@@ -493,7 +495,8 @@
       "Text": "جو آنجا رسید آن گرانمایه شاه",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: جو به آن مکان رسید و آن شاه باارزش به استقبال او رفت و پهلوانان سپاه نیز آماده بودند."
     },
     {
       "VOrder": 6,
@@ -509,7 +512,8 @@
       "Text": "شه نیمروز آنک رستمش نام",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: در این بیت به شخصیت رستم اشاره شده است که در میانه روز، به عنوان یکی از برجسته‌ترین و مشهورترین سواران و پهلوان‌های تاریخ شناخته می‌شود. او به قدری شجاع و توانمند است که در کنار سام، پدرش، می‌تواند ایستادگی کند و مورد ستایش قرار گیرد. رستم نماد قدرت و دلیری است که در دنیای پهلوانی به اوج خود رسیده است."
     },
     {
       "VOrder": 8,
@@ -525,7 +529,8 @@
       "Text": "ابا پیر دستان که بودش پدر",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: پدر بزرگ و باتجربه‌ای که در میان برگزیدگان و سرآمدان قرار دارد."
     },
     {
       "VOrder": 10,
@@ -541,7 +546,8 @@
       "Text": "به شادی پذیره شدندش به راه",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: به خاطر شادی، او را به راهی پذیرفتند و به این ترتیب، شاه خوشحال و شادمان شد."
     },
     {
       "VOrder": 12,
@@ -557,7 +563,8 @@
       "Text": "به زاولش بردند مهمان خویش",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: مهمان خود را با احترام و ادب به خانه آوردند و همه با attitude ای خضوع‌گونه در مقابل او ایستادند."
     },
     {
       "VOrder": 14,
@@ -573,7 +580,8 @@
       "Text": "وزو زند و کشتی بیاموختند",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: آنها جنگ و مهارت‌های دریایی را یاد گرفتند و سپس فتیله‌ها را روشن کردند."
     },
     {
       "VOrder": 16,
@@ -589,7 +597,8 @@
       "Text": "برآمد برین میهمانی دو سال",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: گشتاسپ به مدت دو سال در این مهمانی، با پسر زال غذا خورد و سرگرم بود."
     },
     {
       "VOrder": 18,
@@ -605,7 +614,8 @@
       "Text": "به هرجا کجا شهریاران بدند",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: هر جا که شاهان و فرمانروایان حضور داشتند، از ماجرای گشتاسپ مطلع شدند."
     },
     {
       "VOrder": 20,
@@ -621,7 +631,8 @@
       "Text": "که او مر سر پهلوان را ببست",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: او بر سر قهرمان سرپوشی قرار داد و تنش را با قدرتی چون پلنگ، به زنجیر کشید."
     },
     {
       "VOrder": 22,
@@ -637,7 +648,8 @@
       "Text": "به زاولستان شد به پیغمبری",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: به زاولستان آمد پیامبری که بر بت‌ها و خدایان ساختگی لعنت کند."
     },
     {
       "VOrder": 24,
@@ -653,7 +665,8 @@
       "Text": "بگشتند یکسر ز فرمان شاه",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: همه به خاطر فرمان شاه به یکباره از هم جدا شدند و پیمان او را نقض کردند."
     },
     {
       "VOrder": 26,
@@ -669,7 +682,8 @@
       "Text": "چو آگاهی آمد به بهمن که شاه",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: وقتی بهمن از وقوع ماجرا مطلع شد، فهمید که شاه آن شیر بی‌گناه را به دام انداخته است."
     },
     {
       "VOrder": 28,
@@ -685,7 +699,8 @@
       "Text": "نبرده گزینان اسفندیار",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: اسفندیار بدون انتخاب و دقت از آنجا رفت و تیماردار نیز همراه او برنخاست."
     },
     {
       "VOrder": 30,
@@ -701,7 +716,8 @@
       "Text": "همی داشتند از سپه دست باز",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: آن‌ها در ابتدا از سپاه فاصله گرفتند، اما دوباره به عقب برگشتند و راه طولانی را پیش گرفتند."
     },
     {
       "VOrder": 32,
@@ -717,7 +733,8 @@
       "Text": "به پیش گو اسفندیار آمدند",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: اسفندیار به پیش آمد و شاهزادگان شیروار نیز به او ملحق شدند."
     },
     {
       "VOrder": 34,
@@ -733,7 +750,8 @@
       "Text": "پدر را به رامش همی داشتند",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: پدر را برای آرامش و شادی نگه‌می‌داشتند، اما او را در زندان تنها رها کردند."
     },
     {
       "VOrder": 36,
@@ -749,7 +767,8 @@
       "Text": "پس آگاهی آمد به سالار چین",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: پس خبر به فرمانده چین رسید که پادشاه به خاطر سوءتفاهمی به دشمنی برخاسته است."
     },
     {
       "VOrder": 38,
@@ -765,7 +784,8 @@
       "Text": "برآشفت خسرو به اسفندیار",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: خسرو از دست اسفندیار عصبانی شد و او را به زندان و بند فرستاد."
     },
     {
       "VOrder": 40,
@@ -781,7 +801,8 @@
       "Text": "خود از بلخ زی زابلستان کشید",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: او به سفر از بلخ به زابلستان پرداخته و در مسیر خود، از بیابان عبور کرده و رود سیحون را می‌بیند."
     },
     {
       "VOrder": 42,
@@ -797,7 +818,8 @@
       "Text": "به زاول نشستست مهمان زال",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: مهمانی به زال، در این روزگار نشسته و دو سال از آن زمان گذشته است."
     },
     {
       "VOrder": 44,
@@ -813,7 +835,8 @@
       "Text": "به بلخ اندرونست لهراسپ شاه",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: در بلخ شاه لهراسپ حضور دارد و از ایرانیان و سپاهیان هیچ نشانی باقی نمانده است."
     },
     {
       "VOrder": 46,
@@ -829,7 +852,8 @@
       "Text": "مگر هفتصد مرد آتش پرست",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: آیا ممکن است که هفتصد مرد پرستنده آتش، همگی دست‌های خود را به سوی آتش دراز کرده باشند؟"
     },
     {
       "VOrder": 48,
@@ -845,7 +869,8 @@
       "Text": "جز ایشان به بلخ اندرون نیست کس",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: جز این افراد، در بلخ هیچ کس دیگری نیست که شبیه آن آهنگ‌سازان باشد."
     },
     {
       "VOrder": 50,
@@ -861,7 +886,8 @@
       "Text": "مگر پاسبانان کاخ همای",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: آیا نگهبانان کاخ هنوز به کار خود ادامه می‌دهند؟ بیدار شو و دیر نکن."
     },
     {
       "VOrder": 52,
@@ -877,7 +903,8 @@
       "Text": "مهان را همه خواند شاه چگل",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: شاه، همه بزرگواران و شخصیت‌های مهم را به دعوت خود فراخواند و در دلش به یاد سپرد که جنگی مانند جنگ لهراسپ شروع شده است."
     },
     {
       "VOrder": 54,
@@ -893,7 +920,8 @@
       "Text": "بدانید گفتا که گشتاسپ شاه",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: بدانید که شاه گشتاسپ به سمت جنوب شرقی، راهی را انتخاب کرده است."
     },
     {
       "VOrder": 56,
@@ -909,7 +937,8 @@
       "Text": "به زاول نشستست با لشکرش",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: زاول به همراه سپاهش نشسته و در هیچ‌کجا از کشورش سواری مانند او وجود ندارد."
     },
     {
       "VOrder": 58,
@@ -925,7 +954,8 @@
       "Text": "کنونست هنگام کین خواستن",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: حالا وقت آن است که برای انتقام گرفتن تلاش کنیم و آماده شویم."
     },
     {
       "VOrder": 60,
@@ -941,7 +971,8 @@
       "Text": "پسرش آن گرانمایه اسفندیار",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: پسر او، اسفندیار، که از نظر ارزش و اهمیت بسیار بالا است، به محکمی و استواری در بند و زنجیر قرار دارد."
     },
     {
       "VOrder": 62,
@@ -957,7 +988,8 @@
       "Text": "کدامست مردی پژوهنده راز",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: کدام مردی است که به دنبال کشف رازها می‌رود و توانایی دارد این مسیر طولانی و عمیق را طی کند؟"
     },
     {
       "VOrder": 64,
@@ -973,7 +1005,8 @@
       "Text": "نراند به راه ایچ و بی‌ره رود",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: زمانی که کسی به بی‌راهه و بدون مسیر مشخصی برود، از سرزمین ایران در هراس و نگرانی خواهد بود و به سوی مقصد ندانسته‌ای خواهد رفت."
     },
     {
       "VOrder": 66,
@@ -989,7 +1022,8 @@
       "Text": "یکی جادوی بود نامش ستوه",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: یک نفر وجود دارد که نامش ستوه است و او مانند یک جادوگر عمل می‌کند. او راه را برای دیگران هموار می‌کند و در کارهای پنهانی به تحقیق و کاوش می‌پردازد."
     },
     {
       "VOrder": 68,
@@ -1005,7 +1039,8 @@
       "Text": "منم گفت آهسته و نامجوی",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: من به آرامی گفتم و جویای نام تو هستم. بگو که چه می‌خواهی تا هر آنچه لازم است بگویم."
     },
     {
       "VOrder": 70,
@@ -1021,7 +1056,8 @@
       "Text": "شه چینش گفتا به ایران خرام",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: شه چینش می‌گوید به ایران برو و ببین که نگهبان آتش کجاست."
     },
     {
       "VOrder": 72,
@@ -1037,7 +1073,8 @@
       "Text": "پژوهندهٔ راز پیمود راه",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: پژوهشگر و جستجوگری که به دنبال کشف و درک اسرار است، مسیر خود را به سمت بلخ انتخاب کرد، جایی که در آن زمان پادشاهی ناپایدار و با مشکلات مواجه بود."
     },
     {
       "VOrder": 74,
@@ -1053,7 +1090,8 @@
       "Text": "ندید اندرون شاه گشتاسپ را",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: شاه گشتاسپ در درون قصر کسی را پرستش نمی‌کند و لهراسپ را نیز نمی‌بیند."
     },
     {
       "VOrder": 76,
@@ -1069,7 +1107,8 @@
       "Text": "بشد همچنان پیش خاقان بگفت",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: او به پیش خاقان رفت و به او گفت که صورتش را بر زمین نهاد."
     },
     {
       "VOrder": 78,
@@ -1085,7 +1124,8 @@
       "Text": "چو ارجاسپ آگاه شد شاد گشت",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: وقتی ارجاسپ از خبر آگاه شد، خوشحال شد و از دلتنگی‌های طولانی خود رهایی پیدا کرد."
     },
     {
       "VOrder": 80,
@@ -1101,7 +1141,8 @@
       "Text": "سران را همه خواند و گفتا روید",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "به همه سران گفت که بروید و سپاه پراکنده را گرد آورید ."
     },
     {
       "VOrder": 82,
@@ -1117,7 +1158,8 @@
       "Text": "برفتند گردان لشکر همه",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: تمامی سربازان و نیروهای نظامی به سمت کوه‌ها و دشت‌ها و مکان‌های دام‌ها رفتند."
     },
     {
       "VOrder": 84,
@@ -1133,7 +1175,8 @@
       "Text": "بدو باز خواندند لشکرش را",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: لشکر او را دوباره فراخواندند و سواران برگزیده کشورش را نیز جمع کردند."
     },
     {
       "VOrder": 86,

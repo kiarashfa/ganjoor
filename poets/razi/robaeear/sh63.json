@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "تا چند زمانی و مکانی باشیم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چه مدت دیگر باید در این زمان و مکان بمانیم و از کاروانی که در حرکت است عقب بمانیم؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "آن روز که آب زندگانی می‌ریخت",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در آن زمانی که زندگی و سرزندگی به وفور وجود داشت، آرزو داشتیم که با آزادی و شور و شوق زندگی کنیم."
     },
     {
       "VOrder": 4,

@@ -161,7 +161,8 @@
       "Text": "روز گفتش: «چه ترّهات است این‌؟",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: در روز، او پرسید: \u0022این چه حرف‌های بی‌معنی و بی‌محتواست؟ این‌گونه سخن گفتن هیچ جانی ندارد.\u0022"
     },
     {
       "VOrder": 2,
@@ -177,7 +178,8 @@
       "Text": "رای تاریک تو چه رای زند‌؟",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: رأی تاریک تو چه می‌تواند بگوید؟ آیا تنها در لابه‌لای هزیمت و ناامیدی چیزی از خود نشان می‌دهد؟"
     },
     {
       "VOrder": 4,
@@ -193,7 +195,8 @@
       "Text": "من جهان‌دار و من جهان‌تابم",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: من صاحب جهان و نور آن هستم؛ در زمین و آسمان درخشانم و در همه جا حضور دارم."
     },
     {
       "VOrder": 6,
@@ -209,7 +212,8 @@
       "Text": "هفت اقلیم آسمان دارم",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: من در دل تخت‌گاه خود، به وسعت هفت اقلیم آسمان‌ها را در اختیار دارم."
     },
     {
       "VOrder": 8,
@@ -225,7 +229,8 @@
       "Text": "تا بود در میان هفت اقلیم",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که در هفت سرزمین وجود دارد، از هر سمت سه قسمت و دو نیمه وجود دارد."
     },
     {
       "VOrder": 10,
@@ -241,7 +246,8 @@
       "Text": "بحر و بر، طول و عرض، شیب و فراز",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: من از همه چیزهایی که در دنیا وجود دارند، یعنی دریا و زمین، بلند و کوتاه، و همه تغییرات و فراز و نشیب‌های زندگی، هیچ چیزی را نمی‌پذیرم و یاد نمی‌گیرم."
     },
     {
       "VOrder": 12,
@@ -257,7 +263,8 @@
       "Text": "سال تا سال طوف ملک کنم",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: هر سال در اندیشه‌ی نابودی ظلم و جور هستم و می‌خواهم ریشه و بنیاد آنها را از بین ببرم."
     },
     {
       "VOrder": 14,
@@ -273,7 +280,8 @@
       "Text": "دارم از راه امر بار خدای",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: من در راه انجام وظیفه و تبلیغ احکام الهی، با استقامت و پیروی از عدالت، قدم برمی‌دارم."
     },
     {
       "VOrder": 16,
@@ -289,7 +297,8 @@
       "Text": "همه در امن و زینهار من‌اند",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: همه در امنیت و حفاظت من هستند و نیک‌خواه و سپاس‌گذار من‌اند."
     },
     {
       "VOrder": 18,
@@ -305,7 +314,8 @@
       "Text": "کوه از من کمر گران دارد",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: کوه به خاطر جواهرات قیمتی که در دل خود دارد، به نظر می‌رسد که سنگینی و استحکام بیشتری پیدا کرده است."
     },
     {
       "VOrder": 20,
@@ -321,7 +331,8 @@
       "Text": "بحر از من کند خزاین پُر",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: دریا به من گنجینه‌های فراوانی می‌دهد و من در کنار ابرها مرواریدهایی را می‌ریزیم."
     },
     {
       "VOrder": 22,
@@ -337,7 +348,8 @@
       "Text": "خاک افسرده را بجوشانم",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: می‌خواهم زمین کسل و بی‌روح را زنده کنم و باغ را با رنگ‌های سرخ و سبز پر کنم."
     },
     {
       "VOrder": 24,
@@ -353,7 +365,8 @@
       "Text": "خود جهان را منم مربی و بس",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: من معلم جهانی هستم و هیچ چیز دیگری نمی‌خواهم، فقط باید مانند شب‌های طولانی نفس بکشم."
     },
     {
       "VOrder": 26,

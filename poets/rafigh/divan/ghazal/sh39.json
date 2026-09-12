@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "درد من از تو دوا گشت؟ نگشت",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا مشکل من با تو حل شد؟ آیا خواسته من با تو برآورده شد؟ باز هم برآورده نشد."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "یار ما یار بما گشت؟ نگشت",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوست ما آیا به ما وفادار شد؟ یا اینکه به ما وفاداری نشان نداد؟"
     },
     {
       "VOrder": 4,
@@ -54,7 +56,8 @@
       "Position": "Right",
       "Text": "آنکه یک لحظه نشد همدم من",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شخصی که حتی برای یک لحظه هم با من نبوده، آیا به راحتی می‌تواند از دیگران جدا شود؟ نه، نمی‌تواند."
     },
     {
       "VOrder": 6,
@@ -68,7 +71,8 @@
       "Position": "Right",
       "Text": "دوست با من ز وفا بود؟ نبود",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوست آیا با من وفادار بود؟ آیا دشمن او به خاطر بی‌وفایی و ظلم به من آسیب رساند؟ اینطور نیست."
     },
     {
       "VOrder": 8,
@@ -82,7 +86,8 @@
       "Position": "Right",
       "Text": "یکدم آن عقده گشای دل من",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: لحظه‌ای آیا کسی که دل مرا می‌گشاید، توانست دردم را برطرف کند؟ نه، نتوانست."
     },
     {
       "VOrder": 10,
@@ -96,7 +101,8 @@
       "Position": "Right",
       "Text": "زیر بار غم او چون قد من",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زیر بار اندوه او، چطور قد من به اندازه دو نفر بلند نشد؟ نشد."
     },
     {
       "VOrder": 12,
@@ -110,7 +116,8 @@
       "Position": "Right",
       "Text": "کس چو مجنون به ره عشق، رفیق",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس مانند مجنون در راه عشق، همراه عاشقانی پرشور و بی‌خیال نشد."
     },
     {
       "VOrder": 14,
@@ -124,7 +131,8 @@
       "Position": "Right",
       "Text": "او چو من سر به هوا بود؟ نبود",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا او مانند من بی‌خیال و سر به هوا بود؟ آیا او مثل من بی‌قرار و سردرگم شد؟ نشد."
     },
     {
       "VOrder": 16,
@@ -138,7 +146,8 @@
       "Position": "Right",
       "Text": "عشق خوبان آفت جان و دل است",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشقی که به زیبایی‌ها و افراد نیکو داریم، ممکن است برای روح و قلب انسان مضر باشد و عشق ورزیدن به این افراد کار آسانی نیست."
     },
     {
       "VOrder": 18,
@@ -152,7 +161,8 @@
       "Position": "Right",
       "Text": "جان سپردم در غم خوبان و باز",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در غم معشوقان خود جان باختم و رغم همه این دردها، هنوز هم دل به آن‌ها دارم و به سویشان متمایل هستم."
     },
     {
       "VOrder": 20,
@@ -166,7 +176,8 @@
       "Position": "Right",
       "Text": "کاش داند حال من در عشق خویش",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کاش آن کسی که در عشقش غافل است، وضع و حال من را بداند و متوجه شود که چقدر به او فکر می‌کنم و چقدر نگرانش هستم."
     },
     {
       "VOrder": 22,
@@ -180,7 +191,8 @@
       "Position": "Right",
       "Text": "نیست از جور توام پای گریز",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از رفتار ناعادلانه‌ات نمی‌توانم فرار کنم؛ به همین خاطر در کوی تو گیر کرده‌ام و پایم در گِل است."
     },
     {
       "VOrder": 24,
@@ -194,7 +206,8 @@
       "Position": "Right",
       "Text": "در دل من آرزوی وصل یار",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دل من، آرزوی دیدن معشوق وجود دارد، اما این تنها یک خیال بی‌فایده و توهم است."
     },
     {
       "VOrder": 26,
@@ -208,7 +221,8 @@
       "Position": "Right",
       "Text": "دوری از یاران و مهجور از دیار",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فاصله گرفتن از دوستان و جدا شدن از سرزمین برای تو ساده است، اما برای من بسیار دشوار است."
     },
     {
       "VOrder": 28,
@@ -222,7 +236,8 @@
       "Position": "Right",
       "Text": "خواجه اش را نیست لطف ارنه، رفیق",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دوستی از طرف معشوق نداشته باشم، دوست من که همواره در خدمت است، با وفاداری و محبت به من نزدیک خواهد بود."
     },
     {
       "VOrder": 30,

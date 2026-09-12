@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ترا یک نکتهٔ سر بسته گویم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهم چیزی درسی به تو بگویم، باید به یک نکتهٔ مهم توجه کنی که به خوبی پنهان است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "بمیری گر به تن جانی نداری",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در بدنت جان و زندگی نیستی، از دنیا خواهی رفت و اگر هم جان داری و در بدن هستی، باز هم مرگ سراغت می‌آید."
     },
     {
       "VOrder": 4,

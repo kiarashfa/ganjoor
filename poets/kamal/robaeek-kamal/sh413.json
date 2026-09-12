@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "بی یاد تو از من نفسی برناید",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بدون یاد تو، هیچ نفس راحتم راحتم نمی‌کند، و به خاطر درد جدایی تو، هیچ‌کس نمی‌تواند آرامش پیدا کند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گفتی که فلان در سر این کار شود",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو گفتی که فلانی در این کار موفق خواهد شد، اما من نگرانم که در این زمینه خیلی پیشرفتی نکند."
     },
     {
       "VOrder": 4,

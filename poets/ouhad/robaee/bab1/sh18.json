@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "عقل ارچه همه علوم‌ها می‌داند",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه عقل از همه علوم آگاه است، اما در برابر علم تو احساس ناتوانی و کمبود می‌کند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "ای دوست تویی که هستی خود دانی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دوست، تو خود می‌دانی که کیستی و چه هستی، چرا که خودت بهتر از هر کس دیگری به حقیقت وجودت آگاهی."
     },
     {
       "VOrder": 4,

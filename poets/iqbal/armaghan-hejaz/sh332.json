@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "بگو ابلیس را از من پیامی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به ابلیس بگو که از من پیامی بفرستد، تا کجا باید در زیر دام پنهان شود."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "مرا این خاکدانی خوش نیاید",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این دنیا برای من خوشایند نیست، زیرا صبح آن تنها به آماده کردن شام می‌گذرد."
     },
     {
       "VOrder": 4,

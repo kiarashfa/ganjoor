@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "در تو ای گنبد امید و هراس",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در تو، ای گنبد، امید و ترس وجود دارد و همچنین نشانه‌هایی از آرامش در چهره‌ات نمایان است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "سبز و خرم چو آسی اندر چشم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: درختان سرسبز و شاداب، در هنگامی که بیدار می‌شوند، به دور و بر خود نگاهی می‌اندازند و به زیبایی‌های طبیعت می‌نگرند. آن‌ها مانند سنگ آسیاب، به خود می‌بالند و زیبایی و تازگی خود را می‌فروشند."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "نه غلط می کنم تو داری تو",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو مانند الماس می‌درخشی و زیبایی تو به حدی است که فکر می‌کنم این زیبایی به خود الماس هم مربوط می‌شود."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "این چنین آفریده گشت جهان",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جهان به این شکل ساخته شده که هر کسی در یک شغل خاص مشغول به کار است و مردم هم از نوع‌های مختلف به وجود آمده‌اند."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "فلک سفله نحس گردد و سعد",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانه‌ای بد و نادرست خواهد شد و در عین حال، خوشبختی و زندگی افراد در آن دانه‌ای برای رشد و برداشت دارد."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "ای فلک شرم تا کی این نیرنگ",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای آسمان، تا کی شرم نمی‌کشی؟ این فریب و نیرنگی که در جهان دیده می‌شود، تا کی ادامه خواهد داشت؟"
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "مژه بر پلکم ار شود پیکان",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر مژه‌ام بر پلک‌هایم مانند پیکان باشد و اگر موی سرم بر بالای سرم به شکل نگهبان درآید،"
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "نایدم باک از آنکه ایمن کرد",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من نگران نیستم، زیرا روح و جسم من از نگرانی و امید به امنیت دست یافته‌اند."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "خواجه عبدالحمید بن احمد",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خواجه عبدالحمید بن احمد، شخصیتی برجسته و با افتخار از خاندان بنی عباس است."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "آنکه او را قیاس وصف نکرد",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که نتوان او را با توصیف مقایسه کرد، زیرا وصف او فراتر از مقایسه است."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "نیست بی او جهان جهان چونانک",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جهان بدون او وجود ندارد، مانند اینکه یک جام بدون نوشیدنی ناب معنایی ندارد."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "رتبت جاه و کثرت جودش",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مقام و عظمت او و فراوانی بخشش‌هایش در دنیا نه امیدی برای دیگران بر جا گذاشته و نه دلی را ناامید کرده است."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "رای او را فلک نشاند حرون",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فکر و نظر او را آسمان به جایی می‌رساند، و تدبیر او از زمانه بالاتر می‌باشد."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "خنجر آبداده را ماند",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دلی که در آن احساسات شدید و عواطف قوی وجود دارد، مانند خنجر تیز و آبداده است. این دل با طبعی چون آهن، محکم و استوار است."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "این نبوده تو را خرد معیار",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این شخص به این نتیجه رسیده است که عقل و هوش تو نمی‌تواند معیاری برای سنجش ارزش تو باشد و همچنین هنر و مهارت تو قابل اندازه‌گیری نیست."
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "تیر وهم تو کز کمان بجهد",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تیر خیالات و تصورات تو مانند ستاره‌ای در آسمان درخشان و برجسته است که از کمان رهایی یافته و به سمت هدفی پرتاب می‌شود."
     },
     {
       "VOrder": 32,
@@ -255,7 +271,8 @@
       "Position": "Right",
       "Text": "تیغ رایت خرد سپر نکند",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تیغ اندیشه تو به هیچ چیزی تسلیم نمی‌شود، حتی اگر زمان به شدت در حال تغییر و دگرگونی باشد."
     },
     {
       "VOrder": 34,
@@ -269,7 +286,8 @@
       "Position": "Right",
       "Text": "در شب نعش و انجم معنی",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در شب، اجساد و ستارگان معنا پیدا می‌کنند و آسمان به دستان تو مانند برگه‌ای می‌شود که می‌توانی بر آن بنویسی."
     },
     {
       "VOrder": 36,
@@ -283,7 +301,8 @@
       "Position": "Right",
       "Text": "روح را لفظ تو لطیف سخن",
       "CoupletIndex": 18,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روح انسان با واژه‌های تو نازک و زیبا می‌شود، و چشمانش با نگاه تو حالت شیفتگی و آرامش خاصی پیدا می‌کند."
     },
     {
       "VOrder": 38,
@@ -297,7 +316,8 @@
       "Position": "Right",
       "Text": "ای ز نعت تو عاجز و حیران",
       "CoupletIndex": 19,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو به قدری زیبا و بی‌نظیری که حتی بهترین ذهن‌ها و بزرگ‌ترین دانشمندان نیز از وصف و درک آن ناتوان هستند."
     },
     {
       "VOrder": 40,
@@ -311,7 +331,8 @@
       "Position": "Right",
       "Text": "از امارت دل تراست غذا",
       "CoupletIndex": 20,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل تو منبع غذا و nourishment است و لباس تو از جسم و بدن تو برمی‌آید."
     },
     {
       "VOrder": 42,
@@ -325,7 +346,8 @@
       "Position": "Right",
       "Text": "گو ز وسواس خیزد اصل جنون",
       "CoupletIndex": 21,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وسواس، که به نوعی اضطراب و افکار مزاحم اشاره دارد، ریشه‌اش در جنون است و این وسواس به خودی خود باعث می‌شود تا مرا به جنون بکشاند."
     },
     {
       "VOrder": 44,
@@ -339,7 +361,8 @@
       "Position": "Right",
       "Text": "دل من تنگ کرد و مظلم کرد",
       "CoupletIndex": 22,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من به شدت مضطرب و غمگین شده و این احساس خوف و تاریکی ناشی از فقر و نیاز، بر من چیره شده است."
     },
     {
       "VOrder": 46,
@@ -353,7 +376,8 @@
       "Position": "Right",
       "Text": "روز چون عندلیب نالم زار",
       "CoupletIndex": 23,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روزها مثل بلبل سراغ دلم را می‌گیرم و شب‌ها مانند خروس، پاسبی از دلگیرى و غم را دارم."
     },
     {
       "VOrder": 48,
@@ -367,7 +391,8 @@
       "Position": "Right",
       "Text": "کرد گردون ز توزی و دیبا",
       "CoupletIndex": 24,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آسمان به خاطر تو زیبا و باوقار شده، و در حالی که من لباس و فرشم ساده و معمولی شده است."
     },
     {
       "VOrder": 50,
@@ -381,7 +406,8 @@
       "Position": "Right",
       "Text": "چون قلم زردم و نزار و نوان",
       "CoupletIndex": 25,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این روزگار، حال من مثل یک قلم زرد و ضعیف است که به سادگی در حال فروپاشی و ناپایداری به سر می‌برد."
     },
     {
       "VOrder": 52,
@@ -395,7 +421,8 @@
       "Position": "Right",
       "Text": "با چنین حال و هیأت و صورت",
       "CoupletIndex": 26,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با این حالت و قیافه‌ام، نتوانستم کسی را از بی‌موردها تشخیص دهم."
     },
     {
       "VOrder": 54,
@@ -409,7 +436,8 @@
       "Position": "Right",
       "Text": "شغلم افزون ز شغل غواصی است",
       "CoupletIndex": 27,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شغل من از کار غواصی بیشتر و والی‌تر است، اما درآمدم کمتر از درآمد یک کناس (کسی که با شغل خاصی مانند دکان‌داری و یا فروشندگی روزگار می‌گذراند) است."
     },
     {
       "VOrder": 56,
@@ -423,7 +451,8 @@
       "Position": "Right",
       "Text": "نیست چون من کس از جهان مخصوص",
       "CoupletIndex": 28,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس در این دنیا به اندازه من مخصوص و منحصر به فرد نیست. من از همه مردم جدا و متمایز هستم."
     },
     {
       "VOrder": 58,
@@ -437,7 +466,8 @@
       "Position": "Right",
       "Text": "همه انفاس من مدایح تست",
       "CoupletIndex": 29,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تمامی نفس‌های من به ستایش تو اختصاص دارد، و به همین دلیل است که نفس‌هایم را زنده نگه می‌دارم."
     },
     {
       "VOrder": 60,
@@ -451,7 +481,8 @@
       "Position": "Right",
       "Text": "جز سپاس تو نیست بر سر من",
       "CoupletIndex": 30,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تنها شکرگزاری توست که بر من فضیلت می‌افزاید، ای آفریدگار؛ هزار بار سپاسگزارم."
     },
     {
       "VOrder": 62,
@@ -465,7 +496,8 @@
       "Position": "Right",
       "Text": "بشنوم نیک و بد ببینم راست",
       "CoupletIndex": 31,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من بهتر می‌شنوم و بدتر می‌بینم، ولی اکنون در وضعیتی درخودم مانده‌ام."
     },
     {
       "VOrder": 64,
@@ -479,7 +511,8 @@
       "Position": "Right",
       "Text": "تو شناسی همی که شعر مرا",
       "CoupletIndex": 32,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو شعر من را نشناسی، هر شاعری نمی‌تواند شعر من را بشناسد."
     },
     {
       "VOrder": 66,
@@ -493,7 +526,8 @@
       "Position": "Right",
       "Text": "بر زر مدح نفکنم حملان",
       "CoupletIndex": 33,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به ستایش طلا نمی‌پردازم و بافته‌های پُر زرق و برق را نمی‌سازم."
     },
     {
       "VOrder": 68,
@@ -507,7 +541,8 @@
       "Position": "Right",
       "Text": "از تو قیمت گرفت گفته من",
       "CoupletIndex": 34,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به نوعی بیانگر این است که عشق و محبت می‌تواند ارزش و قیمتی فراتر از هر چیز مادی به فرد بدهد. به عبارت دیگر، عشق می‌تواند مانند طلا ارزشمند باشد، حتی اگر در ابتدا به نظر نیاید."
     },
     {
       "VOrder": 70,
@@ -521,7 +556,8 @@
       "Position": "Right",
       "Text": "فرق کن فرق کن خداوندا",
       "CoupletIndex": 35,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای خداوند، تفاوت بین چیزهای ارزشمند و بی‌ارزش را مشخص کن و گوهرها را از سنگ‌ها، و پارچه‌های گران‌بها را از پارچه‌های ساده جدا کن."
     },
     {
       "VOrder": 72,
@@ -535,7 +571,8 @@
       "Position": "Right",
       "Text": "مادح خویش را به عدل ببین",
       "CoupletIndex": 36,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شاعر می‌گوید که کسی را که در ستایشش تعادل و انصاف رعایت می‌کند، باید به درستی شناخت و باید بنده خود را براساس حق و عدالت بشناسیم."
     },
     {
       "VOrder": 74,
@@ -549,7 +586,8 @@
       "Position": "Right",
       "Text": "متنبی نکو همی گوید",
       "CoupletIndex": 37,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: متنبی به خوبی می‌گوید که افراد باهوش و زیرک، از افزایش فعالیت و تلاش، به درستی خصلت‌های خوب و شایسته را درک می‌کنند."
     },
     {
       "VOrder": 76,
@@ -563,7 +601,8 @@
       "Position": "Right",
       "Text": "این قصیده که من فرستادم",
       "CoupletIndex": 38,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این شعری که من فرستادم، تمام وجود و احساساتم را به دوست تقدیم کرده‌ام."
     },
     {
       "VOrder": 78,
@@ -577,7 +616,8 @@
       "Position": "Right",
       "Text": "بوی ازو یافت طبله عطار",
       "CoupletIndex": 39,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عطار از او بویی گرفته و به خاطر آن، شکل و شخصیتش را از او اقتباس کرده است. کلبه‌ی او به نام نخاس شکل گرفته است."
     },
     {
       "VOrder": 80,
@@ -591,7 +631,8 @@
       "Position": "Right",
       "Text": "ماه را تا بدل شود هر ماه",
       "CoupletIndex": 40,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ماه هر ماه به دل می‌آید و در حالی که به شکل سپری نقره‌ای درخشش دارد، همچون داسی طلایی نمایان می‌شود."
     },
     {
       "VOrder": 82,
@@ -605,7 +646,8 @@
       "Position": "Right",
       "Text": "چرخ گردان بود به هفت اقلیم",
       "CoupletIndex": 41,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جهان به دست چرخ و گردش خود می‌چرخد و تن انسان با استفاده از پنج حس خود به حرکت و فعالیت ادامه می‌دهد."
     },
     {
       "VOrder": 84,
@@ -619,7 +661,8 @@
       "Position": "Right",
       "Text": "همتت را چو چرخ باد علو",
       "CoupletIndex": 42,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همت و تلاش تو باید مانند باد باشد که بی‌وقفه و پرتوان است، و مقام و موقعیت تو مانند کوهی مستحکم باید باشد که هیچ چیز نتواند آن را متزلزل کند."
     },
     {
       "VOrder": 86,

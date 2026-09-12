@@ -151,7 +151,8 @@
       "Text": "فعل را خواهی کنی و خواه نه",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: هرگونه که بخواهی عمل کنی یا از آن دوری جویی، در نهایت تو را در همان عمل و ترک آن، راهی نیست."
     },
     {
       "VOrder": 2,
@@ -167,7 +168,8 @@
       "Text": "کس نبتواند بپیچد پنجه‌ات",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس نمی‌تواند به چنگال تو آسیب بزند یا از جلوگیری به عمل تو، درد و رنجی به تو برساند."
     },
     {
       "VOrder": 4,
@@ -183,7 +185,8 @@
       "Text": "با تو باشد اختیار و اختیار",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: با تو است که اختیار من و توانایی‌ام در دست تو قرار دارد و این ارتباط، ریشه‌ای محکم دارد."
     },
     {
       "VOrder": 6,
@@ -199,7 +202,8 @@
       "Text": "ورنه آن قدرت نباشد جان من",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: اگر آن نیرویی که در اختیار دارم وجود نداشت، جان من با این همه توانایی نمی‌توانست به خود ببالد. پس در مورد قدرت، سخن نگویید."
     },
     {
       "VOrder": 8,
@@ -215,7 +219,8 @@
       "Text": "اختیارت چون به دست دیگری‌ست",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: وقتی که اختیار و تصمیم‌گیری تو به دست دیگران باشد، در واقع تو اختیار واقعی نداری، ای دوست."
     },
     {
       "VOrder": 10,
@@ -231,7 +236,8 @@
       "Text": "باشد او از تو بگیرد اختیار",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: اگر او از تو خواسته‌ای بگیرد، ممکن است قدرت و اختیار تو را نیز از تو بگیرد."
     },
     {
       "VOrder": 12,
@@ -247,7 +253,8 @@
       "Text": "عاجز و زار و زبون گرداندت",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: تو را از بلندای مقام و عظمت به جایی می‌رساند که ضعیف و بی‌چاره و ناتوان می‌شوی."
     },
     {
       "VOrder": 14,
@@ -263,7 +270,8 @@
       "Text": "یا فرستد مانعی در کار تو",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: ممکن است که مانع یا مشکلی در مسیر تو به وجود بیاید که باعث تضعیف عزمی که برای انجام کارهایت داری، شود."
     },
     {
       "VOrder": 16,
@@ -279,7 +287,8 @@
       "Text": "یا بگرداند از آن میل دلت",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: یا دلخواهت را به چیزی دیگر مشغول کند یا آنچه را که به آن مشغولی، به جلو بیاورد."
     },
     {
       "VOrder": 18,
@@ -295,7 +304,8 @@
       "Text": "این نباشد اختیار و جبر نیز",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: این نوعی از وضعیت است که نه تنها ما اختیار داریم، بلکه جبر نیز وجود دارد. در واقع، ما در شرایطی هستیم که بین اختیار و جبر در حال حرکتیم."
     },
     {
       "VOrder": 20,
@@ -311,7 +321,8 @@
       "Text": "گر کنی فعل از تو باشد ای عمو",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: اگر تو اقدام کنی، همه چیز به تو بستگی دارد ای عمو، که با هوش و اراده هستی."
     },
     {
       "VOrder": 22,
@@ -327,7 +338,8 @@
       "Text": "دست تو بگرفته شاه دستگیر",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: اگر شاه دست تو را گرفته باشد، دیگر مجبور نیستی که فرمانبردار باشی ای مرد باخبر."
     },
     {
       "VOrder": 24,

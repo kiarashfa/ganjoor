@@ -891,7 +891,8 @@
       "Text": "چنان بُد که ضحاک را روز و شب",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "ضحاک به قدری نگران شده بود که شب و روز فقط از فریدون حرف می زد.\u00A0"
     },
     {
       "VOrder": 2,
@@ -907,7 +908,8 @@
       "Text": "بر آن برز بالا ز بیم نشیب",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "ضحاک بلند مقام از ترس شکست و از دست دادن شاهی دلش پر از ترس از فریدون شده بود."
     },
     {
       "VOrder": 4,
@@ -923,7 +925,8 @@
       "Text": "چنان بُد که یک روز بر تخت عاج",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "یک روز ضحاک که بر تخت خود نشسته بود و تاج فیروزه اش را بر سر گذاشته بود"
     },
     {
       "VOrder": 6,
@@ -939,7 +942,8 @@
       "Text": "ز هر کشوری مهتران را بخواست",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "از هر سرزمینی، بزرگان را فراخواند تا بتواند دوباره اوضاع پادشاهی را سر و سامان دهد.\u00A0"
     },
     {
       "VOrder": 8,
@@ -955,7 +959,8 @@
       "Text": "از آن پس چنین گفت با موبدان",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "ضحاک به موبدان گفت که ای آگاهان خردمند."
     },
     {
       "VOrder": 10,
@@ -971,7 +976,8 @@
       "Text": "مرا در نهانی یکی دشمن‌ست",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "من یک دشمنی دارم که خردمندان از وجود او آگاه هستند."
     },
     {
       "VOrder": 12,
@@ -987,7 +993,8 @@
       "Text": "به سال اندکی و به دانش بزرگ",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "دشمن من جوان است و با دانش، دلیر است اما از نژاد با اصل و نسبی نیست."
     },
     {
       "VOrder": 14,
@@ -1003,7 +1010,8 @@
       "Text": "اگر چه به سال اندک ای راستان",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "موبدان به او تذکر دادند که با وجود اینکه دشمن او کم سن و سال است، (باید خطر او را جدی گرفت.)"
     },
     {
       "VOrder": 16,
@@ -1019,7 +1027,8 @@
       "Text": "که دشمن اگر چه بود خوار و خُرد",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "موبدان گفتند که اگرچه دشمن ضعیف و جوان است، نباید او را دست کم گرفت.\u00A0"
     },
     {
       "VOrder": 18,
@@ -1035,7 +1044,8 @@
       "Text": "ندارم همی دشمن خُرد خوار",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "ضحاک گفت که دشمن را کوچک نخواهم شمرد ولی از بد روزگار می ترسم"
     },
     {
       "VOrder": 20,
@@ -1051,7 +1061,8 @@
       "Text": "همی زین فزون بایدم لشکری",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "پس لشکری آماده خواهم کرد که شامل مردم و دیو و پری باشد."
     },
     {
       "VOrder": 22,
@@ -1067,7 +1078,8 @@
       "Text": "یکی لشگری خواهم انگیختن",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "لشکری متشکل از انسانها و دیوها درست خواهم کرد."
     },
     {
       "VOrder": 24,
@@ -1083,7 +1095,8 @@
       "Text": "بباید بدین بود هم‌داستان",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "باید در مورد این موضوع همکاری کنیم زیرا من از اتفاقات بد هراس دارم."
     },
     {
       "VOrder": 26,
@@ -1099,7 +1112,8 @@
       "Text": "یکی محضر اکنون بباید نوشت",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "باید یک متنی بنویسیم و شهادت دهیم که ضحاک تنها کار نیک می کند و پادشاهی عادلی است."
     },
     {
       "VOrder": 28,
@@ -1115,7 +1129,8 @@
       "Text": "نگوید سخن جز همه راستی",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "بنویسیم که ضحاک راستگو است و کارهای نیک و خیر انجام می دهد."
     },
     {
       "VOrder": 30,
@@ -1131,7 +1146,8 @@
       "Text": "ز بیم سپهبد همه راستان",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "از ترس ضحاک، همگی شروع به نوشتن چنین استشهاد نامه ای کردند."
     },
     {
       "VOrder": 32,
@@ -1147,7 +1163,8 @@
       "Text": "بر آن محضر اژدها ناگزیر",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "جوان و پیر از ترس ضحاک، گواهی به خوبی او دادند."
     },
     {
       "VOrder": 34,
@@ -1163,7 +1180,8 @@
       "Text": "هم آنگه یکایک ز درگاه شاه",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "در همان زمان یک نفر وارد بارگاه شد و صدای دادخواهی اش بلند شد."
     },
     {
       "VOrder": 36,
@@ -1179,7 +1197,8 @@
       "Text": "ستم دیده را پیش او خواندند",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "فرد دادخواه را نزد ضحاک فراخواندند و پیش بزرگان به او جای دادند."
     },
     {
       "VOrder": 38,
@@ -1195,7 +1214,8 @@
       "Text": "بِدو گفت مهتر به روی دژم",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "ضحاک با چهره برآشفته از او پرسید، چه کسی به تو ستم کرده است؟"
     },
     {
       "VOrder": 40,
@@ -1211,7 +1231,8 @@
       "Text": "خروشید و زد دست بر سر ز شاه",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "کاوه بر سر خود کوبید و فریاد زد که من کاوه ی دادخواه هستم."
     },
     {
       "VOrder": 42,
@@ -1227,7 +1248,8 @@
       "Text": "یکی بی‌زیان مرد آهنگرم",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "من یک آهنگر بی نوا هستم که از سمت شاه ستم دیده ام."
     },
     {
       "VOrder": 44,
@@ -1243,7 +1265,8 @@
       "Text": "تو شاهی و گر اژدها پیکری",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "کاوه گفت که ای ضحاک، اگر تو شاه هستی و مانند اژدها بزرگ هستی، باید این داستان من را داوری کنی."
     },
     {
       "VOrder": 46,
@@ -1259,7 +1282,8 @@
       "Text": "که گر هفت کشور به شاهی تو راست",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "کاوه گفت: اگه تو شاه هفت کشور هستی، چرا تمام بدبختی آن برای ماست؟"
     },
     {
       "VOrder": 48,
@@ -1275,7 +1299,8 @@
       "Text": "شماریت با من بباید گرفت",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "کاوه گفت: من باید با تو حساب و کتابی داشته باشم تا همه از این داستان متعجب شوند.\u00A0"
     },
     {
       "VOrder": 50,
@@ -1291,7 +1316,8 @@
       "Text": "مگر کز شمار تو آید پدید",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "کاوه گفت: که از حساب و کتاب تو شاید معلوم شود که چرا از بین همه نوبت من شده است؟"
     },
     {
       "VOrder": 52,
@@ -1307,7 +1333,8 @@
       "Text": "که مارانت را مغز فرزند من",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "کاوه گفت: که چرا مغز فرزند من باید غذای مارهای تو بشود؟"
     },
     {
       "VOrder": 54,
@@ -1323,7 +1350,8 @@
       "Text": "سپهبد به گفتار او بنگرید",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "ضحاک سخنان او را شنید و از آن متعجب شد."
     },
     {
       "VOrder": 56,
@@ -1339,7 +1367,8 @@
       "Text": "بِدو باز دادند فرزند او",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "فرزند کاوه را به او پس دادند و از او دلجویی کردند."
     },
     {
       "VOrder": 58,
@@ -1355,7 +1384,8 @@
       "Text": "بفرمود پس کاوه را پادشا",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "ضحاک از کاوه خواست که پس او برای خوب بودن ضحاک گواهی دهد."
     },
     {
       "VOrder": 60,
@@ -1371,7 +1401,8 @@
       "Text": "چو بر خواند کاوه همه محضرش",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "وقتی که کاوه استشهادنامه را خواند، برآشفت و رو به بزرگان کشور کرد."
     },
     {
       "VOrder": 62,
@@ -1387,7 +1418,8 @@
       "Text": "خروشید کای پای مردان دیو",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "عصبانی شد و به بزرگان گفت که ای حامیان ضحاک که ترسی از آفریدگار ندارید."
     },
     {
       "VOrder": 64,
@@ -1403,7 +1435,8 @@
       "Text": "همه سوی دوزخ نهادید روی",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "کاوه به بزرگان گفت که همگی دل به حرف های ضحاک سپرده اید و راه دوزخ را پیش گرفته اید."
     },
     {
       "VOrder": 66,
@@ -1419,7 +1452,8 @@
       "Text": "نباشم بدین محضر اندر گوا",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "کاوه گفت من به این استشهاد گواهی نمی دهم و از پادشاه هم ترسی ندارم."
     },
     {
       "VOrder": 68,
@@ -1435,7 +1469,8 @@
       "Text": "خروشید و برجست لرزان ز جای",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "در حالی که از شدت عصبانیت می‌لرزید، بلند شد و گواهی نامه را پاره کرد و روی زمین انداخت."
     },
     {
       "VOrder": 70,
@@ -1451,7 +1486,8 @@
       "Text": "گرانمایه فرزند او پیش اوی",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "کاوه به همراه فرزندش شتابان از دربار خارج شد."
     },
     {
       "VOrder": 72,
@@ -1467,7 +1503,8 @@
       "Text": "مهان شاه را خواندند آفرین",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "بزرگان از ضحاک پرسیدند که ای پادشاه شهیر"
     },
     {
       "VOrder": 74,
@@ -1483,7 +1520,8 @@
       "Text": "ز چرخ فلک بر سرت باد سرد",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "حتی چرخ فلک نمی‌تواند در روز نبرد باعث ناامیدی تو شود."
     },
     {
       "VOrder": 76,
@@ -1499,7 +1537,8 @@
       "Text": "چرا پیش تو کاوهٔ خام‌گوی",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "بزرگان از ضحاک پرسیدند که چرا در مقابل عصبانیت کاوه (ساکت ماندی و واکنش ندادی؟)"
     },
     {
       "VOrder": 78,
@@ -1515,7 +1554,8 @@
       "Text": "همه محضر ما و پیمان تو",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "چطور استشهادنامهٔ ما و پیمان‌نامهٔ تو را پاره کرد و سر از فرمان تو پیچید؟"
     },
     {
       "VOrder": 80,
@@ -1531,7 +1571,8 @@
       "Text": "کیِ نامور پاسخ آورد زود",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "ضحاک پاسخ داد که من خودم هم متعجب هستم."
     },
     {
       "VOrder": 82,
@@ -1547,7 +1588,8 @@
       "Text": "که چون کاوه آمد ز درگه پدید",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "ضحاک گفت که وقتی کاوه وارد شد و صدای او را شنیدم،"
     },
     {
       "VOrder": 84,
@@ -1563,7 +1605,8 @@
       "Text": "میان من و او ز ایوان درست",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "انگار کوهی از آهن بین من و او رشد کرد."
     },
     {
       "VOrder": 86,
@@ -1579,7 +1622,8 @@
       "Text": "ندانم چه شاید بدن زین سپس",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "ضحاک گفت که نمیدانم از این پس چه خواهد شد، زیرا که راز جهانی را هیچ کس نمی داند."
     },
     {
       "VOrder": 88,
@@ -1595,7 +1639,8 @@
       "Text": "چو کاوه برون شد ز درگاه شاه",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "وقتی کاوه از دربار خارج شد، مردمان گرد او جمع شدند و با او همراه شدند."
     },
     {
       "VOrder": 90,
@@ -1611,7 +1656,8 @@
       "Text": "همی بر خروشید و فریاد خواند",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "کاوه به اعتراض فریاد زد و خواستار عدالت شد."
     },
     {
       "VOrder": 92,
@@ -1627,7 +1673,8 @@
       "Text": "از آن چرم کآهنگران پشت پای",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "کاوه از چرمی که آهنگران برای محافظت در زمان چکش کاری روی پای خود می بندند،"
     },
     {
       "VOrder": 94,
@@ -1643,7 +1690,8 @@
       "Text": "همان کاوه آن بر سر نیزه کرد",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "کاوه آن چرم را بر سر نیزه کرد و این جوش و خروش مردم را بیشتر کرد."
     },
     {
       "VOrder": 96,
@@ -1659,7 +1707,8 @@
       "Text": "خروشان همی رفت نیزه به دست",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "کاوه با نیزه ش حرکت کرد و بانگ زد که این مردم خدا پرست."
     },
     {
       "VOrder": 98,
@@ -1675,7 +1724,8 @@
       "Text": "کسی کاو هوای فریدون کند",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "کسی که خواهان امدن فریدون است، باید از اسارت ضحاک دست بکشد."
     },
     {
       "VOrder": 100,
@@ -1691,7 +1741,8 @@
       "Text": "بپویید کاین مهتر آهرمن است",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "کاوه گفت بشتابید که این شاه اهرمین است و در دل با آفریدگار دشمن است."
     },
     {
       "VOrder": 102,
@@ -1707,7 +1758,8 @@
       "Text": "بدان بی‌بها ناسزاوار پوست",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "آن چرم کم ارزش باعث شد که دوست و دشمن کاوه مشخص شود."
     },
     {
       "VOrder": 104,
@@ -1723,7 +1775,8 @@
       "Text": "همی رفت پیش اندرون مرد گرد",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "کاوهٔ قهرمان همینطور که جلو می‌رفت جمعیتی انبوهی همراهش می‌شد."
     },
     {
       "VOrder": 106,
@@ -1739,7 +1792,8 @@
       "Text": "بدانست خود کافریدون کجاست",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "او می‌دانست که فریدون کجاست و به سمت آنجا رفت."
     },
     {
       "VOrder": 108,
@@ -1755,7 +1809,8 @@
       "Text": "بیامد به درگاه سالار نو",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "به خانه فریدون رفت و آنجا خروشی بلند شد."
     },
     {
       "VOrder": 110,
@@ -1771,7 +1826,8 @@
       "Text": "چو آن پوست بر نیزه بر دید کِی",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "وقتی آن پوست بر نیزه را دید رسم خوبی را پایه‌گذاری کرد."
     },
     {
       "VOrder": 112,
@@ -1787,7 +1843,8 @@
       "Text": "بیاراست آن را به دیبای روم",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "آن را با پارچهٔ دیبای رومی و گوهر و طلا آراست."
     },
     {
       "VOrder": 114,
@@ -1803,7 +1860,8 @@
       "Text": "بزد بر سر خویش چون گرد ماه",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "بر سر آن گوهری مثل ماه زد و رسم خوبی به جا گذاشت."
     },
     {
       "VOrder": 116,
@@ -1819,7 +1877,8 @@
       "Text": "فرو هشت ازو سرخ و زرد و بنفش",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "پرچم سه‌رنگ سرخ و زرد و بنفشی از آن ساخت و آن را درفش کاویانی نامید."
     },
     {
       "VOrder": 118,
@@ -1835,7 +1894,8 @@
       "Text": "از آن پس هر آن کس که بگرفت گاه",
       "CoupletIndex": 59,
       "SectionIndex1": 0,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "پس از آن زمان، هر کسی که به مقام سلطنت می‌رسید و تاج بر سر می‌گذاشت ..."
     },
     {
       "VOrder": 120,
@@ -1851,7 +1911,8 @@
       "Text": "بر آن بی‌بها چرم آهنگران",
       "CoupletIndex": 60,
       "SectionIndex1": 0,
-      "SectionIndex2": 62
+      "SectionIndex2": 62,
+      "CoupletSummary": "گوهرهای دیگری به آن چرم در اصل کم‌ارزش اضافه می‌کرد."
     },
     {
       "VOrder": 122,
@@ -1867,7 +1928,8 @@
       "Text": "ز دیبای پرمایه و پرنیان",
       "CoupletIndex": 61,
       "SectionIndex1": 0,
-      "SectionIndex2": 63
+      "SectionIndex2": 63,
+      "CoupletSummary": "از پارچه‌های گرانبها درفش کاویانی طوری شد که ..."
     },
     {
       "VOrder": 124,
@@ -1883,7 +1945,8 @@
       "Text": "که اندر شب تیره خورشید بود",
       "CoupletIndex": 62,
       "SectionIndex1": 0,
-      "SectionIndex2": 64
+      "SectionIndex2": 64,
+      "CoupletSummary": "در شب‌های تاریک، نور خورشید امید را در دل‌ها به وجود می‌آورد و جهان را روشن\u00A0 کرد."
     },
     {
       "VOrder": 126,
@@ -1899,7 +1962,8 @@
       "Text": "بگشت اندرین نیز چندی جهان",
       "CoupletIndex": 63,
       "SectionIndex1": 0,
-      "SectionIndex2": 65
+      "SectionIndex2": 65,
+      "CoupletSummary": "مدتی گذشت و اتفاق خاصی نیفتاد."
     },
     {
       "VOrder": 128,
@@ -1915,7 +1979,8 @@
       "Text": "فریدون چو گیتی بر آن گونه دید",
       "CoupletIndex": 64,
       "SectionIndex1": 0,
-      "SectionIndex2": 66
+      "SectionIndex2": 66,
+      "CoupletSummary": "فریدون وقتی اوضاع جهان را آن گونه و بر علیه ضحاک دید ..."
     },
     {
       "VOrder": 130,
@@ -1931,7 +1996,8 @@
       "Text": "سوی مادر آمد کمر بر میان",
       "CoupletIndex": 65,
       "SectionIndex1": 0,
-      "SectionIndex2": 67
+      "SectionIndex2": 67,
+      "CoupletSummary": "...\u00A0 در حالی که تاج کیانی بر سر گذاشته بود پیش مادرش آمد."
     },
     {
       "VOrder": 132,
@@ -1947,7 +2013,8 @@
       "Text": "که من رفتنی‌ام سوی کارزار",
       "CoupletIndex": 66,
       "SectionIndex1": 0,
-      "SectionIndex2": 68
+      "SectionIndex2": 68,
+      "CoupletSummary": "به مادرش گفت که من عازم جنگ هستم و تو جز دعا برای من کاری نمی‌توانی بکنی."
     },
     {
       "VOrder": 134,
@@ -1963,7 +2030,8 @@
       "Text": "ز گیتی جهان‌آفرین را پرست",
       "CoupletIndex": 67,
       "SectionIndex1": 0,
-      "SectionIndex2": 69
+      "SectionIndex2": 69,
+      "CoupletSummary": "از هر چه در جهان است خداوند را بپرست و بدان که توانایی انسانها برای نیکوکاری از خدا می‌آید."
     },
     {
       "VOrder": 136,
@@ -1979,7 +2047,8 @@
       "Text": "فرو ریخت آب از مژه مادرش",
       "CoupletIndex": 68,
       "SectionIndex1": 0,
-      "SectionIndex2": 70
+      "SectionIndex2": 70,
+      "CoupletSummary": "مادرش گریه‌اش گرفت و با اندوه با خدا راز و نیاز کرد."
     },
     {
       "VOrder": 138,
@@ -1995,7 +2064,8 @@
       "Text": "به یزدان همی گفت زنهار من",
       "CoupletIndex": 69,
       "SectionIndex1": 0,
-      "SectionIndex2": 71
+      "SectionIndex2": 71,
+      "CoupletSummary": "به خدا گفت که من فرزند جهاندارم را به تو سپردم."
     },
     {
       "VOrder": 140,
@@ -2011,7 +2081,8 @@
       "Text": "بگردان ز جانش بد جاودان",
       "CoupletIndex": 70,
       "SectionIndex1": 0,
-      "SectionIndex2": 72
+      "SectionIndex2": 72,
+      "CoupletSummary": "از او همواره بدی‌ها را دور کن و دنیا از از نابخردان خالی کن."
     },
     {
       "VOrder": 142,
@@ -2027,7 +2098,8 @@
       "Text": "فریدون سبک ساز رفتن گرفت",
       "CoupletIndex": 71,
       "SectionIndex1": 0,
-      "SectionIndex2": 73
+      "SectionIndex2": 73,
+      "CoupletSummary": "فریدون به سرعت شروع به رفتن کرد و قصدش را از همگان پنهان کرد. (سبک: سریع)"
     },
     {
       "VOrder": 144,
@@ -2043,7 +2115,8 @@
       "Text": "برادر دو بودش دو فرخ همال",
       "CoupletIndex": 72,
       "SectionIndex1": 0,
-      "SectionIndex2": 74
+      "SectionIndex2": 74,
+      "CoupletSummary": "فریدون دو برادر بزرگتر از خودش داشت."
     },
     {
       "VOrder": 146,
@@ -2059,7 +2132,8 @@
       "Text": "یکی بود ازیشان کیانوش نام",
       "CoupletIndex": 73,
       "SectionIndex1": 0,
-      "SectionIndex2": 75
+      "SectionIndex2": 75,
+      "CoupletSummary": "یکی از برادران فریدون کیانوش و دیگری پرمایهٔ شادکام نام داشت."
     },
     {
       "VOrder": 148,
@@ -2075,7 +2149,8 @@
       "Text": "فریدون بریشان زبان برگشاد",
       "CoupletIndex": 74,
       "SectionIndex1": 0,
-      "SectionIndex2": 76
+      "SectionIndex2": 76,
+      "CoupletSummary": "فریدون به برادرانش مژده داد که شاد باشند."
     },
     {
       "VOrder": 150,
@@ -2091,7 +2166,8 @@
       "Text": "که گردون نگردد به جز بر بهی",
       "CoupletIndex": 75,
       "SectionIndex1": 0,
-      "SectionIndex2": 77
+      "SectionIndex2": 77,
+      "CoupletSummary": "زیرا اوضاع دنیا به خوبی و به نفع ما تغییر می‌کند."
     },
     {
       "VOrder": 152,
@@ -2107,7 +2183,8 @@
       "Text": "بیارید داننده آهنگران",
       "CoupletIndex": 76,
       "SectionIndex1": 0,
-      "SectionIndex2": 78
+      "SectionIndex2": 78,
+      "CoupletSummary": "آهنگران خبره را بیاورید تا یک گرز گران برای من بسازند."
     },
     {
       "VOrder": 154,
@@ -2123,7 +2200,8 @@
       "Text": "چو بگشاد لب هر دو بشتافتند",
       "CoupletIndex": 77,
       "SectionIndex1": 0,
-      "SectionIndex2": 79
+      "SectionIndex2": 79,
+      "CoupletSummary": "همین که این را گفت برادران فریدون به بازار آهنگران رفتند."
     },
     {
       "VOrder": 156,
@@ -2139,7 +2217,8 @@
       "Text": "هر آن کس کز آن پیشه بُد نام‌جوی",
       "CoupletIndex": 78,
       "SectionIndex1": 0,
-      "SectionIndex2": 80
+      "SectionIndex2": 80,
+      "CoupletSummary": "آهنگران نامی و معروف پیش فریدون آمدند."
     },
     {
       "VOrder": 158,
@@ -2155,7 +2234,8 @@
       "Text": "جهان‌جوی پرگار بگرفت زود",
       "CoupletIndex": 79,
       "SectionIndex1": 0,
-      "SectionIndex2": 81
+      "SectionIndex2": 81,
+      "CoupletSummary": "فریدون نقش آن گرز را برایشان کشید."
     },
     {
       "VOrder": 160,
@@ -2171,7 +2251,8 @@
       "Text": "نگاری نگارید بر خاک پیش",
       "CoupletIndex": 80,
       "SectionIndex1": 0,
-      "SectionIndex2": 82
+      "SectionIndex2": 82,
+      "CoupletSummary": "بر روی خاک ( زمین) نقشی (نگاری) کشید ( نگارید) که همانند سر گاومیش بود"
     },
     {
       "VOrder": 162,
@@ -2187,7 +2268,8 @@
       "Text": "بر آن دست بردند آهنگران",
       "CoupletIndex": 81,
       "SectionIndex1": 0,
-      "SectionIndex2": 83
+      "SectionIndex2": 83,
+      "CoupletSummary": "آهنگران مشغول ساخت گرز شدند تا این که گرز آماده شد."
     },
     {
       "VOrder": 164,
@@ -2203,7 +2285,8 @@
       "Text": "به پیش جهان‌جوی بردند گرز",
       "CoupletIndex": 82,
       "SectionIndex1": 0,
-      "SectionIndex2": 84
+      "SectionIndex2": 84,
+      "CoupletSummary": "گرز را که مانند خورشید درخشان بود پیش فریدون آوردند."
     },
     {
       "VOrder": 166,
@@ -2219,7 +2302,8 @@
       "Text": "پسند آمدش کار پولادگر",
       "CoupletIndex": 83,
       "SectionIndex1": 0,
-      "SectionIndex2": 85
+      "SectionIndex2": 85,
+      "CoupletSummary": "او از کار آهنگران خوشش آمد و به آنها لباس و نقره و طلا هدیه داد."
     },
     {
       "VOrder": 168,
@@ -2235,7 +2319,8 @@
       "Text": "بسی کردشان نیز فرخ امید",
       "CoupletIndex": 84,
       "SectionIndex1": 0,
-      "SectionIndex2": 86
+      "SectionIndex2": 86,
+      "CoupletSummary": "علاوه بر آن به آنها وعده‌های دیگری هم داد."
     },
     {
       "VOrder": 170,
@@ -2251,7 +2336,8 @@
       "Text": "که گر اژدها را کنم زیر خاک",
       "CoupletIndex": 85,
       "SectionIndex1": 0,
-      "SectionIndex2": 87
+      "SectionIndex2": 87,
+      "CoupletSummary": "به آنها گفت که اگر ضحاک را شکست دهد به آنها آسودگی هدیه می‌دهد."
     },
     {
       "VOrder": 172,

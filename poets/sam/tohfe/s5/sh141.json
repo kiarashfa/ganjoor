@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "از شاعری همین گدایی یاد گرفته این مطلع از اوست :",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: این مطلع از شاعری است که کار و زندگی یک گدا را به خوبی درک کرده و از آن یاد گرفته است."
     },
     {
       "VOrder": 3,
       "Position": "Right",
       "Text": "آه، گرم از دل دمادم می کشم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آه، با گرمای دل، لحظه به لحظه آه می‌کشم، اگر آتش در خانه‌ام بیفتد."
     },
     {
       "VOrder": 4,

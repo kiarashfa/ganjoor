@@ -281,7 +281,8 @@
       "Text": "ای ز تو شق خرقه ماه منیر",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای تو که نور ماه منی، در پیش تو خورشید نیز به فرمان تو آمده است."
     },
     {
       "VOrder": 2,
@@ -297,7 +298,8 @@
       "Text": "قصر نبوت به تو چون شد بلند",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: وقتی مقام نبوت به تو بسیار بلند و عظیم شد، مانند اینکه کسری (پادشاه ساسانی) در برابر قصر تو تسلیم شد."
     },
     {
       "VOrder": 4,
@@ -313,7 +315,8 @@
       "Text": "چتر فرازنده فرقت سحاب",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: چتر بزرگ فرقت باعث شده است که ابرها در سایه تو قرار بگیرند و تو تحت نور آفتاب هستی."
     },
     {
       "VOrder": 6,
@@ -329,7 +332,8 @@
       "Text": "سایه ندیدت به زمین هیچ کس",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس نتوانسته است در دنیای خاکی تو را مشاهده کند؛ تنها نوری که وجود دارد، سایه‌ای از خورشید است."
     },
     {
       "VOrder": 8,
@@ -345,7 +349,8 @@
       "Text": "جانت ز آلایش تن پاک بود",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: روح تو از آلودگی‌های جسم دور بوده و بر این خاک، سایه‌ای نینداخته است."
     },
     {
       "VOrder": 10,
@@ -361,7 +366,8 @@
       "Text": "دیده تو هم ز پس و هم ز پیش",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: چشمان تو، هم از جلو و هم از عقب، نگریسته‌اند؛ مانند چشمان تمام انسان‌ها که از جلو می‌بینند."
     },
     {
       "VOrder": 12,
@@ -377,7 +383,8 @@
       "Text": "روحی و غایب نه ز تو هیچ سوی",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: روح تو در بین ما نیست، اما هیچ چیز از تو پنهان نیست. در دیدگاه تو، همه چیز در حال حاضر یک طرف و یک تصویر دارد."
     },
     {
       "VOrder": 14,
@@ -393,7 +400,8 @@
       "Text": "شمعی و نور از تو رسد جمع را",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: تو همچون شمعی هستی که نورش به دیگران می‌رسد، اما خودت پشتی و رویی نداری که در سایه‌اش پنهان شوی."
     },
     {
       "VOrder": 16,
@@ -409,7 +417,8 @@
       "Text": "سنگ سیه در کف تو سبحه سنج",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: سنگ سیاه در دستان تو به مانند تسلی و آرامش برای دل‌هایی که در رنج هستند، به حساب می‌آید."
     },
     {
       "VOrder": 18,
@@ -425,7 +434,8 @@
       "Text": "بحر کرم موج زن از مشت تو",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: دریای سخاوت و generosity از دست تو به شدت در حال موج زدن است و از قدرت تو، روزنه‌ای از امید و فرصت به وجود آمده است."
     },
     {
       "VOrder": 20,
@@ -441,7 +451,8 @@
       "Text": "گرسنه و تشنه هزاران هزار",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: هزاران نفر از گرسنگی و تشنگی رنج می‌برند و به دنبال یک جرعه آب و لقمه‌ای نان هستند."
     },
     {
       "VOrder": 22,
@@ -457,7 +468,8 @@
       "Text": "نخل که بودش به زمین سخت پای",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: نخل که برای زنده ماندن در زمین سخت تلاش می‌کند، دستور تو را از جا برمی‌دارد."
     },
     {
       "VOrder": 24,
@@ -473,7 +485,8 @@
       "Text": "کرد به هر سو که تو خواندی خرام",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: به هر سمتی که تو اشاره کردی، راه رفت و به هر جایی که تو خواستی، سکونت گزید."
     },
     {
       "VOrder": 26,
@@ -489,7 +502,8 @@
       "Text": "بر در غاری که گذار تو بود",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: در کنار غاری که تو از آن عبور کردی، حصاری از خواسته‌ها و طلب‌های دشمنت ساخته شده است."
     },
     {
       "VOrder": 28,
@@ -505,7 +519,8 @@
       "Text": "پرده چرا بافت یکی جانور",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: چرا یکی از جانوران پرده‌ای بافت و دیگری چه دلیلی داشت آن را قرار دهد؟"
     },
     {
       "VOrder": 30,
@@ -521,7 +536,8 @@
       "Text": "تا نرسد زخمی از اهل خلاف",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که آسیب و مشکلی از سوی افرادی که با هم در تضاد هستند به تو نرسیده، این پوست (یا حفاظ) را بپوش، زیرا وقتی به تو آسیب برسد، این حفاظ دیگر کارایی نخواهد داشت."
     },
     {
       "VOrder": 32,
@@ -537,7 +553,8 @@
       "Text": "مایده کان نیم شبیت آمده",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: در میانه شب، مائده‌ای از خانه‌ی «ابیت» به من رسیده است."
     },
     {
       "VOrder": 34,
@@ -553,7 +570,8 @@
       "Text": "«یطعمنی » طعمه و «یسقینی » آب",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: این بیت به معنای این است که کسی به من غذایی می‌دهد و از آب گوارایی سیرابم می‌کند."
     },
     {
       "VOrder": 36,
@@ -569,7 +587,8 @@
       "Text": "چون لب تو لقمه ز بزغاله کرد",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: وقتی لب‌های تو لقمه‌ای از گوشت بزغاله را می‌بلعند، آن لقمه با ناله‌ای به زیر لب تو می‌افتد."
     },
     {
       "VOrder": 38,
@@ -585,7 +604,8 @@
       "Text": "گفت که آلوده به زهرم مخور",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: گفت اگر چه این شکر شیرین است، اما به آن زهر آلود است و نباید آن را خورد. تلخی زهر حتی در این شیرینی هم محسوس است."
     },
     {
       "VOrder": 40,
@@ -601,7 +621,8 @@
       "Text": "قبضه ریگی که فشاندی ز کف",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: قبضه‌ای که از دستانت رها شده، هدفی برای کسانی شده که بینا نیستند."
     },
     {
       "VOrder": 42,
@@ -617,7 +638,8 @@
       "Text": "سرمه صفت نور بصر را کفیل",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: سرمه، که به عنوان دارویی برای تقویت بینایی شناخته می‌شود، می‌تواند به خوبی حفاظت کند از دید چشم، اما در نظر دشمن، این موضوع در میانه دعوا و چالش‌ها به میل و خواسته‌ای تبدیل می‌شود."
     },
     {
       "VOrder": 44,
@@ -633,7 +655,8 @@
       "Text": "جامی عاجز که نواساز توست",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: جامی که به عشق و زیبایی تو ناتوان شده، سکوت کرده و نمی‌تواند درباره اعجاز و شگفتی‌های تو سخن بگوید."
     },
     {
       "VOrder": 46,
@@ -649,7 +672,8 @@
       "Text": "گرچه گهروار چو تیغ آمده ست",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: هرچند که همچون تیغ تیز و برنده است، اما به مانند مروارید با ارزش و دل‌انگیز نیز جلوه‌دهی می‌کند."
     },
     {
       "VOrder": 48,
@@ -665,7 +689,8 @@
       "Text": "خواست به نعتت گهری تابناک",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: او به خاطر زیبایی‌ات سنگی درخشان بر روی زمین انداخت، زیرا شرم و حیا اجازه نمی‌دهد که با چهره‌ات روبرو شود."
     },
     {
       "VOrder": 50,

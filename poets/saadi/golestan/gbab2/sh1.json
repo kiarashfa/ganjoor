@@ -25,20 +25,23 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "یکی از بزرگان گفت پارسایی را: چه گویی در حقِ فلان عابد که دیگران در حقِ وی به طعنه سخن‌ها گفته‌اند؟",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: یکی از افراد بزرگ به یک پارسا گفت: درباره فلان عابد چه نظری داری، در حالی که دیگران درباره او حرف‌های کنایه‌آمیز زده‌اند؟"
     },
     {
       "VOrder": 2,
       "Position": "Paragraph",
       "Text": "گفت: بر ظاهرش عیب نمی‌بینم و در باطنش غیب نمی‌دانم.",
-      "CoupletIndex": 1
+      "CoupletIndex": 1,
+      "CoupletSummary": "در بیرونش نقصی نمی‌بینم و از راز درونش آگاه نیستم."
     },
     {
       "VOrder": 3,
       "Position": "Right",
       "Text": "هر که را، جامه پارسا، بینی",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هر کس را در کسوت زاهدان دیدی، پرهیزگار و نکوکار بشمار،"
     },
     {
       "VOrder": 4,
@@ -52,7 +55,8 @@
       "Position": "Right",
       "Text": "ور ندانی که در نهانش چیست",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هرچند از باطن وی آگاه نباشی. زیرا پاسبانِ شرع را به درونِ خانهٔ کسان کار نیست و هرگز به جستجوی فسقِ پنهان نمی‌پردازد."
     },
     {
       "VOrder": 6,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "آیا که مرا تو دستگیری یا نه",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا تو به من کمک می‌کنی یا نه؟ آیا به فریاد من می‌رسید یا نه که در این حالت در رنج و اسیری هستم؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گفتی که ترا ببندگی بپذیرم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفتی که اگر بخواهم با تو در بند باشم، می‌پذیری؟ من برایت تلاش کردم، حالا بستگی دارد که تو این را بپذیری یا نه."
     },
     {
       "VOrder": 4,

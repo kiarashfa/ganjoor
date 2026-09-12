@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "از ولایت خراسان است این مطلع از اوست :",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: این شعر از منطقه خراسان نشأت گرفته است."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "تا زلف دو تای تو بلای دل ما شد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی زلف‌های تو باعث دردسر دل ما شدند، عشق ما که تنها بود، اکنون به دو بخش تقسیم شده است."
     },
     {
       "VOrder": 3,

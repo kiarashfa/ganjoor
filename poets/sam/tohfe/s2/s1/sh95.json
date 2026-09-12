@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "از سادات شهر مذکور است و طالبعلم خوبست این مطلع از اوست :",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: او از خانواده سادات در آن شهر است و دانشجوی خوبی است."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "دمبدم بهر تو ای غنچه دهن می میرم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر لحظه به خاطر تو، ای غنچه، بر مرگ خود می‌افزایم. لب‌هایت را نگشای و به من آزار نرسان که واقعاً به خاطر تو جان می‌بازم."
     },
     {
       "VOrder": 3,

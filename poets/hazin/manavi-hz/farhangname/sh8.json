@@ -221,7 +221,8 @@
       "Text": "دل خاک شد از ستوران، ستوه",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: دل از فشار و ناله‌ی دلیران در هم شکست و زمین را تحت فشار قرار داد."
     },
     {
       "VOrder": 2,
@@ -237,7 +238,8 @@
       "Text": "نمودی در آن پهن دشت بلا",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: تو در دشت وسیع مشکلات و مصائب، به مانند سنان آتش و نیزه‌ها ظاهر شدی."
     },
     {
       "VOrder": 4,
@@ -253,7 +255,8 @@
       "Text": "هوا ابری، ازکاوب بانی درفش",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: آسمان ابری است و درختان مانند پرچم در حال اهتزاز هستند، زمین دارای سنگ‌های قیمتی است و تیغ‌هایی به رنگ بنفش در فضا به چشم می‌خورد."
     },
     {
       "VOrder": 6,
@@ -269,7 +272,8 @@
       "Text": "بغرّید نای و بنالید کوس",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: صدای نی به حزن درآمد و طبل رخسار مهر شروع به نواختن کرد، و از ترس، چوب آبنوس به لرزه درآمد."
     },
     {
       "VOrder": 8,
@@ -285,7 +289,8 @@
       "Text": "فغان سازکرد، اژدر کرّنا",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: ناله‌ای شنیده می‌شود و اژدها دهانش را باز کرده، نشانه‌ای از بلیّه و مصیبت است."
     },
     {
       "VOrder": 10,
@@ -301,7 +306,8 @@
       "Text": "عقاب کمانها، سبک بال شد",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: عقاب با پرهایش آزاد و سبک پرواز می‌کند و سپرهای زریّن به مرحله‌ای می‌رسند که دیگر توانایی محافظت ندارند."
     },
     {
       "VOrder": 12,
@@ -317,7 +323,8 @@
       "Text": "ز بس خون، سنان از رگ جان گرفت",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: به دلیل ریختن خون بسیار، شمشیرها رنگین و زمین به رنگ سرخ و دل‌نشین درآمد."
     },
     {
       "VOrder": 14,
@@ -333,7 +340,8 @@
       "Text": "چکاچاک تیغ و هیاهوی جنگ",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: صدای خش‌خش شمشیرها و هیاهوی جنگ بر روی بهرام چهره‌ای بی‌رنگ و بی‌حالش را نشان می‌دهد."
     },
     {
       "VOrder": 16,
@@ -349,7 +357,8 @@
       "Text": "بر و بُرز گردانِ پولادپوش",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: مأموری گردن‌کلفت که مانند زنگ‌های فلزی با صلابت و قدرت حرکت می‌کند، از تیزی و تندی سلاحش بهره می‌برد."
     },
     {
       "VOrder": 18,
@@ -365,7 +374,8 @@
       "Text": "زره، در بر و دوش رویین تنان",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: زره بر تن و دوش جنگجویان آهنین، با صد چشم حیران به تماشا و دودلی از تیغ و نیزه است."
     },
     {
       "VOrder": 20,
@@ -381,7 +391,8 @@
       "Text": "به سر، ترک زرّین آن پرشکوه",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: بر روی سر، ترک زرین با شکوه و روشنایی همچون آتش از لبه کوه نمایان است."
     },
     {
       "VOrder": 22,
@@ -397,7 +408,8 @@
       "Text": "خدنگ خداوند کوپال و رخش",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: خداوندی که با قدرت و شکوه خود، مانند اسب رخش در زمین قرار دارد، استوانه‌های مقاومت را در نبرد نشان می‌دهد."
     },
     {
       "VOrder": 24,
@@ -413,7 +425,8 @@
       "Text": "هماوردش از بیم زخم درشت",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: رقیب او از ترس آسیب شدید، به زیر سپر رفته است، مانند سنگی که به پشتش می‌افتد."
     },
     {
       "VOrder": 26,
@@ -429,7 +442,8 @@
       "Text": "در آمد یکی نامور از سپاه",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: یک شخص مشهور از سپاه وارد میدان شد و بخت، به او یاری رساند، او در برابر دشمنی که رنجش‌ها در دل داشت، قرار گرفت."
     },
     {
       "VOrder": 28,
@@ -445,7 +459,8 @@
       "Text": "به ترکش، چنان کوفت گرز گران",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: به محض اینکه ضربه‌ای سنگین به هدف برخورد کرد، وضعیتی به وجود آمد که گویا سر به طور کامل درون بدن پنهان شده است."
     },
     {
       "VOrder": 30,
@@ -461,7 +476,8 @@
       "Text": "زمین از تپش، گوی سیماب شد",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: زمین به شدت می‌لرزد و مانند جیوه‌ای در حال تپش است و رگ‌های آن از لرزش بی‌قرار و ناآرام شده‌اند."
     },
     {
       "VOrder": 32,
@@ -477,7 +493,8 @@
       "Text": "رسید اندر آن عرصه، طوفان به اوج",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: در آن میدان، طوفانی به اوج رسید و آب شمشیر را به جنب و جوش درآورد."
     },
     {
       "VOrder": 34,
@@ -493,7 +510,8 @@
       "Text": "سَرِ گردنان، در خم خام بود",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: سر گردن‌ها در خم و حالت نرم بود و چهره‌ی شانس، موی زیبای شب را تداعی می‌کرد."
     },
     {
       "VOrder": 36,
@@ -509,7 +527,8 @@
       "Text": "هوا داشت، ازگرز بارنده میغ",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: هوا تغییر کرده بود و ابرهای باران‌زا مانند تیرهایی از خون، در آسمان در حرکت بودند، و امواج دریا در حال طغیانی بودند که شبیه نهنگ‌های تیز دندانه به نظر می‌رسیدند."
     },
     {
       "VOrder": 38,

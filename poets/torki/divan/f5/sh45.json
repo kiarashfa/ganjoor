@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "کسی را گر به بینی درخرابات",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی را در مکان‌های نامناسب ببینی، نباید بگویی که او زاهد و پرهیزگار است."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "وگر خمار را بینی به مسجد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی را که مست است در مسجد ببینی، نباید به او بگویی فاسق و شراب‌خوار است."
     },
     {
       "VOrder": 4,
@@ -54,7 +56,8 @@
       "Position": "Right",
       "Text": "تو را از باطن مردم خبر نیست",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو از درون آدم‌ها باخبر نیستی، اما خداوند می‌داند که هر کس در چه حال و فعالیتی است."
     },
     {
       "VOrder": 6,

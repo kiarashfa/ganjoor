@@ -501,7 +501,8 @@
       "Text": "چو شب شد بخوابید در قصر خویش",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: در شب، او در قصر خود خوابید و دلش از روزش شاد بود."
     },
     {
       "VOrder": 2,
@@ -517,7 +518,8 @@
       "Text": "چنان دید در خواب آن شهریار",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: پادشاه در خواب دید که ماری از روی دوشش بلند شده است."
     },
     {
       "VOrder": 4,
@@ -533,7 +535,8 @@
       "Text": "دو مار سیه برشد از دوش او",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: دو مار سیاه از دوش او خارج شده و سرهای خود را در گوش او قرار داده‌اند."
     },
     {
       "VOrder": 6,
@@ -549,7 +552,8 @@
       "Text": "بگفتند: گو چیسث کبر و غرور",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: گفتند: چرا به خاطر تکبر و خودبزرگ‌بینی از خداوند دور شده‌ای؟"
     },
     {
       "VOrder": 8,
@@ -565,7 +569,8 @@
       "Text": "خدا داد بر تو چنین اقتدار",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: خدا به تو چنین مقام و جایگاهی داد تا تو بتوانی بلندی و افتخار را تجربه کنی."
     },
     {
       "VOrder": 10,
@@ -581,7 +586,8 @@
       "Text": "تو مغرور بر خویشتن گشته‌ای",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: تو به خودت مغروری و از این وضعیت غافلی، در حالی که در واقع همچون یک کودک بی‌خبر و آشفته‌ای."
     },
     {
       "VOrder": 12,
@@ -597,7 +603,8 @@
       "Text": "ندانی که باشد شکست تو هم",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: نمی‌دانی که در زیر شکست تو، نیرویی وجود دارد که از تو قوی‌تر است."
     },
     {
       "VOrder": 14,
@@ -613,7 +620,8 @@
       "Text": "سراسیمه از خواب بیدار شد",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: ناگهان از خواب بیدار شد و در حالی که مضطرب و ناامید بود، احساس ناراحتی و اندوه کرد."
     },
     {
       "VOrder": 16,
@@ -629,7 +637,8 @@
       "Text": "دو چشمش به بستر ز هم باز کرد",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: دو چشم او را از هم باز کرد، و صحبت کردن را آغاز نمود."
     },
     {
       "VOrder": 18,
@@ -645,7 +654,8 @@
       "Text": "بگفتا مغان را بخوانید زود",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: گفت به زودی دانشمندان را فرابخوانید تا تعبیر خواب من را بگویند."
     },
     {
       "VOrder": 20,
@@ -661,7 +671,8 @@
       "Text": "مغان بوسه دادند روی زمین",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: مغان از عشق و زیبایی سخن می‌گویند و می‌گویند ای پادشاه، تو با آفرین و زیبایی خود زمین را تسخیر کرده‌ای."
     },
     {
       "VOrder": 22,
@@ -677,7 +688,8 @@
       "Text": "چه بودت که آشفته گشتی چنین",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: چی شده که این‌قدر آشفته‌ای؟ کسی نسبت به تو خشمگین یا کینه‌توز نیست."
     },
     {
       "VOrder": 24,
@@ -693,7 +705,8 @@
       "Text": "چو از مار و از خواب دوشینه گفت",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: وقتی که از خواب بیدار شد، رازهایی را که پنهان شده بود، افشا کرد."
     },
     {
       "VOrder": 26,
@@ -709,7 +722,8 @@
       "Text": "بگفتند شاها ترا خواب دوش",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: به تو گفته‌اند ای شاه، خواب شب گذشته‌ات از هزاران صدا و هیاهو خبر می‌دهد."
     },
     {
       "VOrder": 28,
@@ -725,7 +739,8 @@
       "Text": "گزندت رسد از جهان کهن",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: اگر آسیبی از جهان قدیمی به تو برسد، دیگر درباره این موضوع صحبت نخواهیم کرد."
     },
     {
       "VOrder": 30,
@@ -741,7 +756,8 @@
       "Text": "بود دشمنت دشمن خانگی",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: دشمن تو در خانه‌ات به تو آسیب می‌زند، اما تو باید با قدرت و شجاعت مقابله کنی."
     },
     {
       "VOrder": 32,
@@ -757,7 +773,8 @@
       "Text": "نباشد وی از خیل همسایگان",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: در میان همسایگان تو، هیچ‌کس نخواهد بود که از تو چیزی بگیرد و سرزمینت به رایگان باشد."
     },
     {
       "VOrder": 34,
@@ -773,7 +790,8 @@
       "Text": "چو بشنید پشتش بلرزید شاه",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: وقتی شاه صدای پشثش را شنید، به شدت ترسید و نمی‌دانست که آن فردی که در دلش کینه دارد کیست."
     },
     {
       "VOrder": 36,
@@ -789,7 +807,8 @@
       "Text": "یکی دختری داشت چون نوبهار",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: او دختری داشت که مانند بهار جوان و زیبا بود، همچون سرو بلند و چون نگار خوش‌رنگ و خوش‌چهره."
     },
     {
       "VOrder": 38,
@@ -805,7 +824,8 @@
       "Text": "ورا نام بد ماندانای نکو",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: در شهر درباره‌ی کسی به نام \u0022ورا\u0022 که شهرت خوبی ندارد، بسیار صحبت می‌شود."
     },
     {
       "VOrder": 40,
@@ -821,7 +841,8 @@
       "Text": "بدو بد گمان گشت آژیدهاک",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: او به سرعت به دخترش بدگمان شد و از او ترسید."
     },
     {
       "VOrder": 42,
@@ -837,7 +858,8 @@
       "Text": "بگفتا کنم دور، گر دخترم",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: او گفت: اگر دخترم نیاید، دورش می‌کنم تا از او آسیبی نبینم."
     },
     {
       "VOrder": 44,
@@ -853,7 +875,8 @@
       "Text": "اگر چند از نوجوانان ماد",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: اگرچه چند نفر از جوانان ماد، به نام‌های بزرگ و نیکو مشهور هستند،"
     },
     {
       "VOrder": 46,
@@ -869,7 +892,8 @@
       "Text": "ز جان و ز دل خواستارش بدند",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که از عمق جان و دل، خواسته‌ای برای بی‌وفایی به او نبود و در عوض، دل به او دادند و به خاطر وفایش به جان او دل بستند."
     },
     {
       "VOrder": 48,
@@ -885,7 +909,8 @@
       "Text": "ولیکن از آن خواب آژیدهاک",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: اما خواب‌های آشفته و وحشت‌آور او به گونه‌ای بود که به شدت نگران و پریشانش کرده بود."
     },
     {
       "VOrder": 50,
@@ -901,7 +926,8 @@
       "Text": "که از دخت و از دادن او به شوی",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: از دختر و از دادن او یکباره بگذر و با او گفتگو کن."
     },
     {
       "VOrder": 52,
@@ -917,7 +943,8 @@
       "Text": "چو در پارس کامبوزیا بود امیر",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: در پارس، شخصی به نام کامبوزیا وجود داشت که امیری نجیب و با فضیلت، دلیر و جوانمرد بود."
     },
     {
       "VOrder": 54,
@@ -933,7 +960,8 @@
       "Text": "بیاورد کامبوزیا را به ماد",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: کامبوزیا را به مادرش آورد و دختر خودش را به او داد."
     },
     {
       "VOrder": 56,
@@ -949,7 +977,8 @@
       "Text": "چو او را نجیب و ملایم بدید",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: وقتی او را مهربان و با ادب دید، هیچ باور بدی در موردش در ذهنش ایجاد نشد."
     },
     {
       "VOrder": 58,
@@ -965,7 +994,8 @@
       "Text": "بدادش ورا دخت چون ماه را",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: دختری زیبا مانند ماه به پادشاه آرامش می‌بخشد و دل او را راحت می‌کند."
     },
     {
       "VOrder": 60,
@@ -981,7 +1011,8 @@
       "Text": "برفت او ز ماد و به همراه برد",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: او به سمت ماد رفت و دختر شاه را که به همراهش بود، به سوی پارس برد."
     },
     {
       "VOrder": 62,
@@ -997,7 +1028,8 @@
       "Text": "دگر باره آن شاه خوابی بدید",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: او دوباره خواب شاه را دید که از آن خواب، شگفتی بزرگی به وجود آمد."
     },
     {
       "VOrder": 64,
@@ -1013,7 +1045,8 @@
       "Text": "چنان دید کز اشکم دخترش",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: او به گونه‌ای مشاهده کرد که از اشک‌هایش، دختری مانند جوانه‌ای بر بالای تاک به آسمان برآمد."
     },
     {
       "VOrder": 66,
@@ -1029,7 +1062,8 @@
       "Text": "بگسترد بر آسیا شاخ و برگ",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: شاخه‌ها و برگ‌های درخت بر روی زمین پراکنده شده‌اند و هیچ باد یا بارانی نمی‌تواند بر آن‌ها تاثیر بگذارد."
     },
     {
       "VOrder": 68,
@@ -1045,7 +1079,8 @@
       "Text": "هراسان و لرزنده بیدار شد",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: هر انسان و موجودی به طور ناگهانی و با شتاب بیدار شد و دنبال مغان (آدم‌های دانا و عارف) رفت."
     },
     {
       "VOrder": 70,
@@ -1061,7 +1096,8 @@
       "Text": "بگفتا که خوابی بدیدم گران",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: او گفت که خواب سنگینی دیده‌ام و به خاطر آن خواب حالا بسیار ناراحت و پریشانم."
     },
     {
       "VOrder": 72,
@@ -1077,7 +1113,8 @@
       "Text": "ز تاک و ز دختر همه باز گفت",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: از درخت انگور و دختر جوان همه صحبت کردند و هر کسی راز دل خود را که پنهان کرده بود، آشکار نمود."
     },
     {
       "VOrder": 74,
@@ -1093,7 +1130,8 @@
       "Text": "به تعبیر گفتند او را مغان",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: مغان به خاطر خشم و ترس او، او را ستایش کردند."
     },
     {
       "VOrder": 76,
@@ -1109,7 +1147,8 @@
       "Text": "که آید یکی کودک از دخترت",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: یک کودک از دخترت به دنیا بیاید که ممکن است مشکلاتی برایت به همراه داشته باشد."
     },
     {
       "VOrder": 78,
@@ -1125,7 +1164,8 @@
       "Text": "چنان دان که دخت تو زاید پسر",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که به گونه‌ای رفتار کن که فرزند دختری تو پسر خواهد آورد و این پسر به قدری قوی و توانمند خواهد بود که تمامی جهان را تحت فرمان خود درآورد."
     },
     {
       "VOrder": 80,
@@ -1141,7 +1181,8 @@
       "Text": "بترسید از بختش آژیدهاک",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: از سرنوشت او بترسید، زیرا که از دختر خودش نگران و مضطرب شده است."
     },
     {
       "VOrder": 82,
@@ -1157,7 +1198,8 @@
       "Text": "رسولی فرستاد بر دخترش",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: پیامبری به دخترش خبری فرستاد تا از سرزمین پارس برای او طلا بیاورد و او را در آغوش بگیرد."
     },
     {
       "VOrder": 84,
@@ -1173,7 +1215,8 @@
       "Text": "چو دخت شه آمد به نزد پدر",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: وقتی دختر شاه به نزد پدرش آمد، زمین را با صورتش بوسید."
     },
     {
       "VOrder": 86,
@@ -1189,7 +1232,8 @@
       "Text": "بگفتا پدر جمله فرمان تو راست",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: پدر گفت که همه ما به دستورات تو احترام می‌گذاریم، زیرا فرمان تو باعث آرامش و راحتی زندگی ماست."
     },
     {
       "VOrder": 88,
@@ -1205,7 +1249,8 @@
       "Text": "بفرمود کای دختر خوب رو",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: او گفت: ای دختر زیبا، در خانه‌ات بمان و درباره شوهر خود صحبت نکن."
     },
     {
       "VOrder": 90,
@@ -1221,7 +1266,8 @@
       "Text": "به پاسخ چنین گفت دختر به شاه",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: دختر به شاه گفت: ای پادشاه عادل و نیکوکار، به این پرسش پاسخ بده."
     },
     {
       "VOrder": 92,
@@ -1237,7 +1283,8 @@
       "Text": "تو شاهی و من کمترین بنده‌ام",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: تو در مرتبه بلندی و من تنها نوکری هستم که فرمانت را می‌پذیرم و سرم را به خاطر عبودیت و خدمت به تو پایین نگه داشته‌ام."
     },
     {
       "VOrder": 94,

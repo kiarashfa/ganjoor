@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای دل و جانت بهواها گرو",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دل و جانت تحت تأثیر خواجه و خواسته‌های او هستی، اما اینجا اشتباه می‌کنی و از این مسیر نرو."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گر دلت از جان ادب آموختست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دلت از جان آداب و ادب را آموخته باشد، نباید دنبال به دست آوردن دنیا و ثروت باشی."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "خواجه، بهر حال تو خود را بدان",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای عزیز، در هر حال تو باید بدانید که الان زمان کاشت است، نه زمان برداشت."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "جام نوا زخم کهن سال حق",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر سال، زخم‌های قدیمی تازه می‌شوند و زندگی نو به خود می‌گیرد."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "یار درین مجلس ما حاضرست",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوست ما در این مجلس حضور دارد، پس بی‌جهت نگران و مضطرب نباش."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "قصه عشاق ز حد درگذشت",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق عاشقان از حد و اندازه فراتر رفته است. پس بیش از این داستان‌ها را زیاد مطرح نکن، ای زمانه!"
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "یار ازان سو سوی قاسم شتافت",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوست به سمت قاسم رفت و قاسم این دویدن و شتاب را دید."
     },
     {
       "VOrder": 14,

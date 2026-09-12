@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "از سادات شهر قم است و سیدی آدمی صفت، این مطلع از اوست :",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: او از خانواده سادات در شهر قم است و شخصیتی برجسته دارد."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "دردا که مرا بر سر کویت نگذارند",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آه که ای کاش مرا بر سر کویت رها نمی‌کردند و اجازه می‌دادند حتی برای یک لحظه هم که شده، چهره زیبایت را ببینم."
     },
     {
       "VOrder": 3,

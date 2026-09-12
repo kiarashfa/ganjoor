@@ -55,7 +55,8 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "بازاری تخلص میکند و این دو رباعی از اوست:",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: بازاری به معرفی خود می‌پردازد و دو رباعی از او ارائه می‌شود."
     },
     {
       "VOrder": 5,
@@ -63,7 +64,8 @@
       "Text": "او در طلب زر است و من با زاری",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: او دنبال طلا و ثروت است، اما من با اندوه و خواهش از تو می‌خواهم که اگر بتوانی دل مرا از درد و غمش رها کنی."
     },
     {
       "VOrder": 6,
@@ -79,7 +81,8 @@
       "Text": "صیدی است که آن، از دهن باز آری",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: گویی شکار طعمه‌ای است که با کلام دل، از دهان بیرون می‌آید. به دل گفتم، احوال تو چگونه است؟"
     },
     {
       "VOrder": 8,
@@ -95,7 +98,8 @@
       "Text": "دل دیده پر آب کرد و بسیار گریست",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: دل از اشک پر شد و به شدت گریه کرد و گفت: حال کسی چگونه می‌تواند باشد؟"
     },
     {
       "VOrder": 10,

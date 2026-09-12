@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "تا توانی هیچ درمانم مکن",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چه در توان داری، برای درمان من تلاش نکن و هیچ راه حلی برای نجات جانم پیدا نکن."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "رنج من می‌بین و فریادم مرس",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: درد و رنج من را ببین و صدای فریاد من را بشنو، اما برای من راه حلی ارائه نکن یا درمان نکن."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "جز به دشنام و جفا نامم مبر",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تنها با زشتی و بدی نام مرا نبر، فقط با درد و اندوه به من فرمان نده."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "گر نخواهی کشتنم از تیغ غم",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نمی‌خواهی مرا با تیغ غم بکشی، پس مرا به درد جدایی مبتلا نکن."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "ور بر آن عزمی که ریزی خون من",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر قصد داری خون من را به زمین بریزی، فقط با شمشیر خودت این کار را نکن."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "از من مسکین به هر جرمی مرنج",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از من بیچاره ناراحت نشو به خاطر هر اشتباهی که مرتکب می‌شوم، پس تو هم به خاطر هر اشتباهی که می‌کنی، ناراحت نکن."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "گر گناهی کردم از من عفو کن",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر اشتباهی از من سر زده، لطفاً مرا ببخش و برای خطایم مجازات نکن."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "تا عراقی ماند در درد فراق",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که عراقی در درد جدایی باقی مانده، از من حرف بزن و مرا درمان نکن."
     },
     {
       "VOrder": 16,

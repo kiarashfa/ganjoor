@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "در دایره‌ای که آمد و رفتن ماست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "این دایره که آمدن و رفتن ما در آن است‌، سران و پایانش نامعلوم است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "کس می‌نزند دمی در این معنی راست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "کسی پاسخ درستی نگوید (نگفته) که این آمدن از کجاست و این رفتن به کجا."
     },
     {
       "VOrder": 4,

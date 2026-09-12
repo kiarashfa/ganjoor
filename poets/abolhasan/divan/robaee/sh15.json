@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "عیب ست بد اب پاک شوینده عیب",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر آب پاکی برای شستن عیب‌ها وجود داشته باشد، عیب کسی که هنرمند و سخن‌سراست، مانند تو، نیز قابل پاک شدن نیست."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گویند که جویای منی دوری نیست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌گویند که اگر به دنبال من هستی، دور نیستم. من پر از عیب هستم و تو هم در جستجوی عیوب منی."
     },
     {
       "VOrder": 4,

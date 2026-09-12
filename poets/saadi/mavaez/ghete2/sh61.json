@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "شد غلامی به جوی، کآب آرَد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "یک غلام به کنار رودخانه رفت تا آب بیاورد؛ اما آب رود او را برد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "دام هر بار ماهی آوردی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هر بار با دام، ماهی به دست می‌آمد؛ اما این بار ماهی فرار کرد و دام را هم با خودش برد."
     },
     {
       "VOrder": 4,

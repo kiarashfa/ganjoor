@@ -641,7 +641,8 @@
       "Text": "اگر انصاف باشد باز گویم",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهیم به طور عادلانه قضاوت کنیم، باید از ابتدا و با وضوح تمام به بیان حرف‌ها و نظرات بپردازم."
     },
     {
       "VOrder": 2,
@@ -657,7 +658,8 @@
       "Text": "وگرنه این سخن ناگفته بهتر",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: اگر این سخن بیان نشود، بهتر است؛ مانند گنجی که هنوز کشف نشده و هنری که به نمایش درنیامده، ارزشمندتر خواهد بود."
     },
     {
       "VOrder": 4,
@@ -673,7 +675,8 @@
       "Text": "همین روسی که او آورد لشکر",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: این شعر به این معناست که همان روسی که لشکر به سرزمین روس آورده است، شش ماه کمتر از آنچه انتظار می‌رفت، در آنجا حکمرانی کرد. به نوعی به نشان دادن ضعف یا ناپایداری قدرت حکومت در آن زمان اشاره دارد."
     },
     {
       "VOrder": 6,
@@ -689,7 +692,8 @@
       "Text": "چه شد این ملک را زیر و زبر کرد؟",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: چه اتفاقی افتاده که این سرزمین را به هم ریخته است؟ که این هیاهو بر روی خاک پایان یافته است."
     },
     {
       "VOrder": 8,
@@ -705,7 +709,8 @@
       "Text": "به هر شهرش رسد آتش برافروخت",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: در هر شهری که آتش شعله‌ور شد، تمام قدرت و دولتی که به عثمانی تعلق داشت، نابود گردید."
     },
     {
       "VOrder": 10,
@@ -721,7 +726,8 @@
       "Text": "شه رومی به پیش اسباب رزمش",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: سلطان روم در برابر تجهیزات جنگی‌اش با وجود آمادگی، از جسارت و عزم راسخ برخوردار نبود."
     },
     {
       "VOrder": 12,
@@ -737,7 +743,8 @@
       "Text": "بود او لشکرش از قاف تا قاف",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: او دارای لشکری است که از یک بیابان تا بیابان دیگر را فراگرفته و همه می‌دانند که من این را بی‌دلیل نمی‌گویم."
     },
     {
       "VOrder": 14,
@@ -753,7 +760,8 @@
       "Text": "همان دولت که هشتصد سال پیش است",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: دولت و قدرتی که هشتصد سال پیش وجود داشت چه شد که اکنون به شکل اندکی ضعیف و کوچک درآمده است؟"
     },
     {
       "VOrder": 16,
@@ -769,7 +777,8 @@
       "Text": "مگر سلطان محمود جهاندار",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: آیا ممکن است سلطان محمود که حکمرانی بزرگ بود، در خزانه‌اش حتی یک دینار هم نداشته باشد؟"
     },
     {
       "VOrder": 18,
@@ -785,7 +794,8 @@
       "Text": "مگر توپ و تفنگش کم بد از روس",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: آیا توپ و تفنگ روس‌ها کمتر از آن باشد که از آن‌ها حسرت و شکایت داشته باشیم؟"
     },
     {
       "VOrder": 20,
@@ -801,7 +811,8 @@
       "Text": "به یک قصدی چرا روسی به در رفت",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: چرا روسی به یک هدف خاص از در خارج شد؟ آیا این به خاطر آتش بود یا به خاطر نفت دیگری؟"
     },
     {
       "VOrder": 22,
@@ -817,7 +828,8 @@
       "Text": "تصور کن که سال آنچنان بود",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: تصور کن که سالی دور، جنگی میان روسیه و آذربایجان در گرفته بود."
     },
     {
       "VOrder": 24,
@@ -833,7 +845,8 @@
       "Text": "ولیعهد شه آن اقبال فیروز",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: ولعهد شاه صاحب سرنوشتی خوش و پیروزمند است که در برابر افرادی قرار دارد که آتش دشمنی را افروخته‌اند."
     },
     {
       "VOrder": 26,
@@ -849,7 +862,8 @@
       "Text": "ز حد بیرون قتال و جنگ کردند",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: از حد و مرز خود فراتر رفتند و به جنگ و نبرد پرداختند، هدفشان کسب مال و جان بود."
     },
     {
       "VOrder": 28,
@@ -865,7 +879,8 @@
       "Text": "بسی سر غازیان شیرافکن",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: بسیاری از سران و افسران شجاع و دلیر از میدان جنگ بر اثر دشمنی و خطرها جدا شده و از بدن خود جدا گشته‌اند."
     },
     {
       "VOrder": 30,
@@ -881,7 +896,8 @@
       "Text": "بسی زنده اسیر غازیان شد",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: بسیاری از افراد در نتیجه حمله‌ها و جنگ‌ها گرفتار شده و در حالی که به سمت تهران در حرکت بودند، جان خود را از دست دادند."
     },
     {
       "VOrder": 32,
@@ -897,7 +913,8 @@
       "Text": "بسی جمعیتی اینجا ز روس است",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: عده‌ی زیادی از مردم اینجا از سرزمین روس آمده‌اند و در زمره‌ی خدمتگزاران و خاک‌ساران هستند."
     },
     {
       "VOrder": 34,
@@ -913,7 +930,8 @@
       "Text": "بدیدند هم ثبات جنگ او را",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: آنها ثبات و استواری جنگ او را مشاهده کردند، همچنین نظام توپ و قدرت فرمانده‌اش را نیز دیدند."
     },
     {
       "VOrder": 36,
@@ -929,7 +947,8 @@
       "Text": "اگر روزی تکاهل رفت در کار",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: اگر روزی بی‌توجهی و سستی در کار اتفاق بیفتد، نه ارتشی باقی می‌ماند و نه پولی وجود خواهد داشت."
     },
     {
       "VOrder": 38,
@@ -945,7 +964,8 @@
       "Text": "وگر پولش رسیدی از ضرورت",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: اگر پول و نیازش را به‌دست آوردی، از کجا به این فکر افتادی که دست از جنگ و جدل برداری؟"
     },
     {
       "VOrder": 40,
@@ -961,7 +981,8 @@
       "Text": "ز تیغ و تیر آتشبار برداشت",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: با شمشیر و تیرهای آتش‌زا، دشمنان را به شدت متحمل شکست کرد و کارشان را ساخت."
     },
     {
       "VOrder": 42,
@@ -977,7 +998,8 @@
       "Text": "همیشه بود چاپارش به راهی",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: همواره یک فرستاده وجود داشت که نامه‌ای را به دربار پادشاه می‌برد."
     },
     {
       "VOrder": 44,
@@ -993,7 +1015,8 @@
       "Text": "که گر پولی رسد از بهر لشکر",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: اگر پولی برای کمک به لشکر به من برسد، به یاری خدا دشمن را به زمین می‌زنم."
     },
     {
       "VOrder": 46,
@@ -1009,7 +1032,8 @@
       "Text": "کنم پاک آن حدود از جمله ناپاک",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: من مرزهای ناپاکی را پاک می‌کنم و نگذارم که دشمن بر روی آن‌ها پای بگذارد."
     },
     {
       "VOrder": 48,
@@ -1025,7 +1049,8 @@
       "Text": "حدود ملک را محروس دارم",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: سرزمین خود را از ظلم و ستم محفوظ نگه‌داشته‌ام و از دست استبداد دور نگه‌داشته‌ام."
     },
     {
       "VOrder": 50,
@@ -1041,7 +1066,8 @@
       "Text": "مخالف گو چو بودی خدمت شاه",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی با شاه مخالف باشد، هرچقدر هم که خدمت کند و چیزی را به عرض برساند، در دل شاه محبوب نخواهد بود."
     },
     {
       "VOrder": 52,
@@ -1057,7 +1083,8 @@
       "Text": "که قربانت بگردم نیست تشویش",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: من برایت قربانی می‌شوم، اگرچه نگرانی زیادی وجود ندارد، اگر هم اندکی باشد، باید از قبل باشد."
     },
     {
       "VOrder": 54,
@@ -1073,7 +1100,8 @@
       "Text": "که آذربایجانی‌ها بخواهند",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: آذربایجانی‌ها قصد دارند از این ترفند استفاده کرده و پولی واقعی به دست آورند."
     },
     {
       "VOrder": 56,
@@ -1089,7 +1117,8 @@
       "Text": "مدار اندیشه از این های و این هوی",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: آیا این حواس‌پرتی و سردرگمی می‌تواند دلیلی باشد که دشمن به این سمت بیاید؟"
     },
     {
       "VOrder": 58,
@@ -1105,7 +1134,8 @@
       "Text": "که خود ایشان نمایند چاره این کار",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: برای حل این مشکل، تنها خود آنها باید اقدام کنند و در اینجا راهی برای نجات وجود ندارد."
     },
     {
       "VOrder": 60,
@@ -1121,7 +1151,8 @@
       "Text": "یکی گوید ارس باشد روایت",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: یکی می‌گوید که همه چیز به کسب و کار و پول مربوط می‌شود؛ این داستان نشان‌دهنده‌ی همان موضوع است."
     },
     {
       "VOrder": 62,
@@ -1137,7 +1168,8 @@
       "Text": "شده خوش روس دست او درین کار",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: در این کار، دست خوش او به خوبی پیش رفته که از خزانه، پول زیادی به دست می‌آورند."
     },
     {
       "VOrder": 64,
@@ -1153,7 +1185,8 @@
       "Text": "یکی گوید که شه با روم سازد",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: کسی می‌گوید چرا پادشاه با روم توافق کند، در حالی که اگر پولی بدهد، کار خاصی انجام نمی‌دهد؟"
     },
     {
       "VOrder": 66,
@@ -1169,7 +1202,8 @@
       "Text": "یکی گوید یکی گشتند با روس",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: کسی می‌گوید که دو نفر همیشه با هم به دنبال من هستند و از آنجا کسی در حال مراقبت و خبر کردن از من است."
     },
     {
       "VOrder": 68,
@@ -1185,7 +1219,8 @@
       "Text": "نویسد بر من از هر باب نامه",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: هر روز نامه‌ای از او به من می‌رسد که در هر موضوعی نوشته شده است."
     },
     {
       "VOrder": 70,
@@ -1201,7 +1236,8 @@
       "Text": "به بنده واجب آمد عرض این کار",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: من لازم دیدم که این کار را به شما بگویم، زیرا دستور از سوی پادشاه است و من اختیار انجام آن را دارم."
     },
     {
       "VOrder": 72,
@@ -1217,7 +1253,8 @@
       "Text": "ز نقل روس بوده این سئوالت",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: این سوال تو از روی خبرهای روسیه بوده و بسیار خوب است که باید مطابق با وضعیت و حال و احوالت پاسخ داده شود."
     },
     {
       "VOrder": 74,
@@ -1233,7 +1270,8 @@
       "Text": "پیاده لشکری بی زور بینم",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: می‌بینم افرادی را که بدون قدرت و توانایی در حرکتند، مانند مردگانی که در گور خوابیده‌اند."
     },
     {
       "VOrder": 76,
@@ -1249,7 +1287,8 @@
       "Text": "مدار اندیشه خود گردید ضایع",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: فکر و اندیشه‌ام از دست من خارج شده است؛ هرجا که می‌روی، به این رخدادها توجه کن."
     },
     {
       "VOrder": 78,
@@ -1265,7 +1304,8 @@
       "Text": "یکی گوید که گر حکم جدال است",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: یکی می‌گوید که اگر قضاوتی در مورد نزاع باشد، تنها پیروزی غیر از من امکان‌پذیر نیست."
     },
     {
       "VOrder": 80,
@@ -1281,7 +1321,8 @@
       "Text": "ز شمشیر جهان‌سوزم بسوزم",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: من از شمشیری که قادر به سوزاندن جهان است می‌سوزم و چه آتش‌هایی که به‌خاطر کینه و حسد دیگران روشن می‌کنم."
     },
     {
       "VOrder": 82,
@@ -1297,7 +1338,8 @@
       "Text": "تعهد می‌کنم کز روس یک تن",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: من قول می‌دهم که هیچ کس از روس‌ها را بدون حفاظت و حمایت از میدان جنگ خارج نکنم."
     },
     {
       "VOrder": 84,
@@ -1313,7 +1355,8 @@
       "Text": "به حق باشد صدای توپ رزمی",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: به حق، صدای توپ جنگی که دیده نشده، مانند صدای شادی و جشن در مراسمی است."
     },
     {
       "VOrder": 86,
@@ -1329,7 +1372,8 @@
       "Text": "خصوصا توپ شصت و چار پوندی",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: به‌ویژه توپ سنگینی که صدایش مانند رعد و برق بسیار تند است."
     },
     {
       "VOrder": 88,
@@ -1345,7 +1389,8 @@
       "Text": "ندیده طبل جنگ و فوج صالدات",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: او تا به حال جنگ و آرایش سربازان پیاده را در برابر اسب ندیده بود و به همین خاطر دچار حیرت و شگفتی شد."
     },
     {
       "VOrder": 90,
@@ -1361,7 +1406,8 @@
       "Text": "بگفتی جنگ روس آسان نماید",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: شما گفتید که جنگ روسی‌ها در آنجا آسان خواهد بود، اما کیست که جرأت کند در این شرایط تلاش کند؟"
     },
     {
       "VOrder": 92,
@@ -1377,7 +1423,8 @@
       "Text": "یکی گوید که تا مارا بود جان",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: کسی می‌گوید تا زمانی که جان داریم، نباید نگران باشیم و غم به دل راه دهیم."
     },
     {
       "VOrder": 94,
@@ -1393,7 +1440,8 @@
       "Text": "نه زر خواهیم و نه زحمت دهیمش",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: ما به دنبال طلا و ثروت نیستیم و نمی‌خواهیم برای کسی زحمت بکشیم، بلکه از دارایی و جان خود به او کمک می‌کنیم."
     },
     {
       "VOrder": 96,
@@ -1409,7 +1457,8 @@
       "Text": "به دشمن جملگی یکباره تازیم",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: همه با هم و به‌طور هماهنگ به دشمن حمله می‌کنیم و از رودخانه جیحون، سیلاب خون بر سر آن‌ها خواهیم ریخت."
     },
     {
       "VOrder": 98,
@@ -1425,7 +1474,8 @@
       "Text": "یکی گوید که رفع هر بلائی",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: کسی می‌گوید که فلان زاهد می‌تواند با یک دعا هر مصیبتی را برطرف کند."
     },
     {
       "VOrder": 100,
@@ -1441,7 +1491,8 @@
       "Text": "یکی گوید ز خیرات و مبرات",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: یکی می‌گوید که از نیکوکاری‌ها و اعمال خیری که مشاهده کرده‌ام، دریافتم که راهی برای مقابله با بلاها و خطرات وجود دارد."
     },
     {
       "VOrder": 102,
@@ -1457,7 +1508,8 @@
       "Text": "یکی گوید میان یقظه و خواب",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: یک نفر می‌گوید که بین خواب و بیداری، انسان مقدسی را دیده که در حال تماشای آب و آتش است."
     },
     {
       "VOrder": 104,
@@ -1473,7 +1525,8 @@
       "Text": "که آن آب آتش سوزان بگشتی",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "هوش مصنوعی: آبی که آتش‌زا بود، تبدیل به جایگاهی برای ریحان سبز شده است."
     },
     {
       "VOrder": 106,
@@ -1489,7 +1542,8 @@
       "Text": "پس آنگه هاتفی داده سروشش",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "هوش مصنوعی: سپس یک صدا به او رسید و این حرف را در گوش هر دو نفر گفت."
     },
     {
       "VOrder": 108,
@@ -1505,7 +1559,8 @@
       "Text": "که آتش کفر هست و آب اسلام",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "هوش مصنوعی: حرف تو ای زاهد این است که باید به مردم اعلام کنی، چرا که آتش کفر وجود دارد و آب اسلام می‌تواند آن را خاموش کند."
     },
     {
       "VOrder": 110,
@@ -1521,7 +1576,8 @@
       "Text": "وثوقی چون که با این بنده دارد",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "هوش مصنوعی: اعتمادی که او به این بنده دارد، باعث می‌شود که از این نوع لحظات خاص و ارزشمند یادداشت بردارد."
     },
     {
       "VOrder": 112,
@@ -1537,7 +1593,8 @@
       "Text": "یکی گوید که آقائی ز کرمان",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "هوش مصنوعی: یک نفر می‌گوید که شخصی از کرمان مدتی در شهر کاشان زندگی کرده است."
     },
     {
       "VOrder": 114,
@@ -1553,7 +1610,8 @@
       "Text": "کنون درالخلافه هست امروز",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "هوش مصنوعی: امروز در دنیای متفاوتی زندگی می‌کنیم و در این زمان، ستاره‌ها نشان‌دهنده‌ی روزگار خوشی و موفقیت هستند."
     },
     {
       "VOrder": 116,
@@ -1569,7 +1627,8 @@
       "Text": "ولی از جفر هم با ربط باشد",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "هوش مصنوعی: اما اگر از جفر هم ارتباطی وجود داشته باشد، باید این علم نا آشنا به خوبی ثبت و ضبط شده باشد."
     },
     {
       "VOrder": 118,
@@ -1585,7 +1644,8 @@
       "Text": "شب آدینه جمعی هر که چیزی",
       "CoupletIndex": 59,
       "SectionIndex1": 0,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "هوش مصنوعی: در شب جمعه، گروهی از مردم از هر کسی که سوالی داشتند، پاسخ‌های روشنی می‌گرفتند."
     },
     {
       "VOrder": 120,
@@ -1601,7 +1661,8 @@
       "Text": "سئوالی شد ز جفر و رمل هم دید",
       "CoupletIndex": 60,
       "SectionIndex1": 0,
-      "SectionIndex2": 62
+      "SectionIndex2": 62,
+      "CoupletSummary": "هوش مصنوعی: سوالی که درباره علم جفر و رمل مطرح شد، پاسخی به آن داده شد که به فرد می‌گوید: خوشحال باش، زیرا امیدی برای آینده وجود دارد."
     },
     {
       "VOrder": 122,

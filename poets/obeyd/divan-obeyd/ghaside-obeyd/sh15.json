@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "بنوش باده که فصل بهار می‌آید",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نوشیدن شراب را جشن بگیر چرا که فصل بهار نزدیک است و خوشحالی و سرزندگی به روزهایمان برمی‌گردد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "ز ابر قطرهٔ آب حیات می‌بارد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از ابر، قطره‌ای از آب حیات می‌ریزد و بوی خوشی از باد به مشام می‌رسد."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "برای رونق بزم معاشران لاله",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای اینکه جمع عاشقان شاداب و پررونق باشد، لاله‌ها با زیبایی خاصی در کنار شراب خوش‌طعم حضور دارند."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "میان باغ به صد لب شکوفه میخندد",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در باغ، با شکوفه‌هایی که به سمت آسمان می‌خندند، سبزه‌ها می‌رویند و گل‌ها شکوفا می‌شوند."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "دماغ شیفتگان را به جوش میرد",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صدای خوش مرغی که از دشت و صحرا می‌آید، شور و هیجان را در دل عاشقان به اوج می‌رساند."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "هزار پیرهن از شوق میکند پاره",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: غنچه با شنیدن صدای هزاران ساز، از خوشحالی چنان به وجد می‌آید که هزار پیرهن را پاره می‌کند."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "به باغ گربه بر اطراف شاخ پنداری",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در باغی که گربه‌ای در اطراف درخت‌ها حرکت می‌کند، به نظر می‌رسد که آماده است تا طعمه‌ای را شکار کند."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "به هر کجا که رود مرده زنده گرداند",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کجا که بادی بوزد، موجب زنده شدن چیزهای مرده می‌شود، مخصوصاً بادی که از سمت جویبار می‌وزد."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "کنون چو غنچه و گل هرکجا که زنده‌دلیست",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اکنون مانند غنچه و گل، هر جا که شادمانی و زندگی وجود داشته باشد، زیر سایهٔ درختان بید و چنار حضور پیدا می‌کند."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "کنار آب و کنار بتان غنیمت دان",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در کنار آب و یارانی زیبا ارزش لحظات را بدان، چرا که زمان عشق و نزدیکی نزدیک شده است."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "غلام دولت آنم که مست سوی چمن",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از بندگان دولت هستم که در حال مستی به سمت باغ می‌روم و دستی به سوی معبودی چون نگار (زیبا) دراز کرده‌ام."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "به باغ جلوه کنان گل نهاده زر بر کف",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به باغ بیایید و زیبایی گل‌ها را ببینید که به دست‌های زریشان مشغول است و به همراه خود، با نثار می، به جشن و شادی در حضور فرمانروا می‌رسد."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "جمال دنیی ودین کافتاب هر روزه",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زیبایی دنیا و دیانت مانند خورشید هر روز به سوی درگاه او با سربازی و تواضع می‌آید."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "خدایگان سلاطین که دولت او را",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خدای بزرگ سلاطین، قدرت و موفقیت او از جانب پروردگار می‌باشد."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "شهیکه مژدهٔ اقبال و کامرانی او",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صدا و نشانه‌ خوشبختی و موفقیت او از بالای دژی آسمانی و سرسبز می‌آید."
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "فلک خزاین جنات آستانهٔ تو",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آسمان و ستاره‌ها در برابر فراوانی خزائن بهشت در درگاه تو هیچ نیستند."
     },
     {
       "VOrder": 32,
@@ -255,7 +271,8 @@
       "Position": "Right",
       "Text": "به روز معرکه خورشید تیغ زن هر دم",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در روز جنگ، خورشید همچون شمشیر در حرکت است و هر لحظه به یاری از زخم‌های تیغ تو می‌آید تا تو را نجات دهد."
     },
     {
       "VOrder": 34,
@@ -269,7 +286,8 @@
       "Position": "Right",
       "Text": "ز باد نیزهٔ آتش نهیب چون آبت",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از نسیم تند، نیزه‌های آتشین به سوی دشمنان شعله‌ور می‌وزد و دل خاکی و سوخته از غم و درد به پیش می‌آید."
     },
     {
       "VOrder": 36,
@@ -283,7 +301,8 @@
       "Position": "Right",
       "Text": "به هر طرف که رود رایت تو نصرت و فتح",
       "CoupletIndex": 18,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به هر سو که بروی، پرچم پیروزی و نصرت تو از سمت راست و چپ در کنار تو خواهد بود."
     },
     {
       "VOrder": 38,
@@ -297,7 +316,8 @@
       "Position": "Right",
       "Text": "خجسته سایهٔ چتر جهانگشای ترا",
       "CoupletIndex": 19,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سایه خوشایند چتر تو از اینکه در کنار خورشید قرار دارد، احساس ناخوشایندی پیدا می‌کند."
     },
     {
       "VOrder": 40,
@@ -311,7 +331,8 @@
       "Position": "Right",
       "Text": "به بندگی تو هر کو نگه کند ننگش",
       "CoupletIndex": 20,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که در خدمت تو باشد، اگر به نام رستم و اسفندیار افتخار کند، به نوعی شرمنده و حقیر است."
     },
     {
       "VOrder": 42,
@@ -325,7 +346,8 @@
       "Position": "Right",
       "Text": "ز گفته‌های کسان عرض میکنم بیتی",
       "CoupletIndex": 21,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از صحبت‌های دیگران بهره می‌برم و شعری را بیان می‌کنم که مناسب اینجا است."
     },
     {
       "VOrder": 44,
@@ -339,7 +361,8 @@
       "Position": "Right",
       "Text": "ز عمر برخور و دل را نوید شادی ده",
       "CoupletIndex": 22,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از زندگی بهره‌برداری کن و دل خود را خوشحال نگه‌دار، چون نشانه‌هایی از خوشبختی و موفقیت در راه است."
     },
     {
       "VOrder": 46,
@@ -353,7 +376,8 @@
       "Position": "Right",
       "Text": "هزار سال بمان کامران که دولت تو",
       "CoupletIndex": 23,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هزار سال زندگی کن و خوشبختی را تجربه کن؛ زیرا موفقیت‌های تو بستگی به تصمیماتی دارد که می‌گیری و آنها باعث می‌شود که به کامیابی برسی."
     },
     {
       "VOrder": 48,

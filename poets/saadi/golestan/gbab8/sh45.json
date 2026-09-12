@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "ضعیفی که با قوی دلاوری کند، یار دشمن است در هلاک خویش.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که با وجود ضعف، به مبارزه با قوی می‌پردازد، در واقع به دشمن خود کمک می‌کند تا او را نابود کند."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "سایه پرورده را چه طاقت آن",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن که در امنیت و راحتی بزرگ شده است، نمی‌تواند با دلیران و جنگجویان به نبرد برود."
     },
     {
       "VOrder": 3,
@@ -46,7 +48,8 @@
       "Position": "Right",
       "Text": "سست بازو به جهل می‌فکند",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که ناتوان و بی‌تجربه است، به خاطر نادانی‌اش، نمی‌تواند با افراد قوی و قدرتمند رقابت کند."
     },
     {
       "VOrder": 5,

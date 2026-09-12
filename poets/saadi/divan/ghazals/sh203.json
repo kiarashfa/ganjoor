@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "تو را نادیدن ما غم نباشد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "تو اگر ما را نبینی هرگز غمگین نمی‌شوی، زیرا در لشکر هواخواهانت بهتر از ما کم نیستند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "من از دست تو در عالم نهم روی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "من از دست تو سر سر به کوه و بیابان می‌گذارم و در جهان سیر و سفر خواهم کرد، اما افسوس هیچکس در جهان مانند تو نیست."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "عجب گر در چمن برپای خیزی",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "عجیب است اگر تو برخیزی و سرو پیش قد و قامت تو خم نشود."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "مبادا در جهان دلتنگ رویی",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "نیست باد آن کسی که دلتنگ است و\u00A0 با دیدن روی تو شاد و خرم نشود."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "من اول روز دانستم که این عهد",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "من از همان روز که با من پیمان و عهد بستی می‌دانستم که به آن وفا نخواهی کرد..."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "که دانستم که هرگز سازگاری",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "...چون می‌دانستم که هرگز پری و آدمیزاد با یکدیگر سازگار نیستند."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "مکن یارا دلم مجروح مگذار",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "محبوبم! دلم را مجروح و زخمی رها نکن که هیچ مرهمی برای زخم‌هایش در جهان ندارم."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "بیا تا جان شیرین در تو ریزم",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "ریختن: نثار کردن (لغت‌نامه) / بخل: منع و امساک / دوستی: عشق / کنایه: جان\nریختن (جان را نثار کردن و فدا نمودن) / معنی: ای یار بیا تا جان شیرینم را در\nپایت نثار کنم تا بدانی که در دوستی با تو در نثار جان بخل نمی‌ورزم.\u00A0-\u00A0منبع: شرح غزل‌های سعدی"
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "نخواهم بی تو یک دم زندگانی",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "طیب: خوشی و شادی / عیش: \u00A0زندگی / جناس زاید: دم، همدم / معنی: \u00A0اگر تو نباشی، حتی یک لحظه هم زندگانی را آرزو\nنمی‌کنم؛ زیرا خوشی زندگی بدون یاری\nهمنشین و همدم ممکن نیست.\u00A0-\u00A0منبع: شرح غزل‌های سعدی"
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "نظر گویند سعدی با که داری",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "به من می‌گویند: «سعدی! نظر به چه کسی داری؟ به ما بگو، زیرا درد دل کردن با دوست و رفیق اشکالی ندارد.»\u00A0"
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "حدیث دوست با دشمن نگویم",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "من با دشمنان درباره‌ی عشقِ دوست سخن نمی‌گویم، چون هرگز مدعی و لاف‌زنِ عشق بر عشق واقعی محرم نیست."
     },
     {
       "VOrder": 22,

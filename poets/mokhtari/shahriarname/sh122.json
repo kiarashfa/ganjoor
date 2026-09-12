@@ -541,7 +541,8 @@
       "Text": "چه کشتیش آمد به دریای چین",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: کسی که تو را کشت، در دریای چین به زمین افتاد و از کشتی آن، انتقام و کینه بیرون آمد."
     },
     {
       "VOrder": 2,
@@ -557,7 +558,8 @@
       "Text": "بزد خیمه در پیش دریا کنار",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: چادر را به دشت کنار دریا برپا کرد و جهانی را مانند جوی شیرین و مشهور به نام شیراوژن به تصویر کشید."
     },
     {
       "VOrder": 4,
@@ -573,7 +575,8 @@
       "Text": "همه مرز چین برهم آمد ازین",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: همه مرزهای چین به هم ریخت و از بین رفت، به خاطر اینکه نیرویی به دروازه‌ی چین حمله کرد."
     },
     {
       "VOrder": 6,
@@ -589,7 +592,8 @@
       "Text": "چه بشنید خاقان یکی لشکری",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: خاقان که فردی قدرتمند است، خبر از وقوع یک مشکل یا نارضایتی را می‌شنود و بلافاصله فرمان می‌دهد که یک گروه نظامی به سمت آن محل فرستاده شود تا به سرعت این مشکل را بررسی و رفع کنند."
     },
     {
       "VOrder": 8,
@@ -605,7 +609,8 @@
       "Text": "که گر رزم جویند رزم آورند",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: اگر کسانی به دنبال جنگ و نبرد باشند، باید آماده باشند برای مبارزه و نباید اجازه دهند که وطن و سرزمینشان به خطر بیفتد."
     },
     {
       "VOrder": 10,
@@ -621,7 +626,8 @@
       "Text": "سپهبد یکی ترک منقاش نام",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: سپهبدی از قوم ترک با نام منقاش، سپاهی را از میان چین کاه شام به بیرون آورد."
     },
     {
       "VOrder": 12,
@@ -637,7 +643,8 @@
       "Text": "دوره شش هزار ازیلان دلیر",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: شش هزار سال دلیران به همراه آن ترک، مانند شیر به میدان آمدند."
     },
     {
       "VOrder": 14,
@@ -653,7 +660,8 @@
       "Text": "چونزد سپاه سپهبد رسید",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: زمانی که سپاه فرمانده به جایی رسید، با صدا زدن و کوبیدن طبل‌های جنگ، صف کشید و لشکر را آماده نبرد کرد."
     },
     {
       "VOrder": 16,
@@ -669,7 +677,8 @@
       "Text": "فرستاد مردی هم اندر زمان",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: مردی در آن زمان به سوی فرمانده شجاع و با روحیه فرستاده شد."
     },
     {
       "VOrder": 18,
@@ -685,7 +694,8 @@
       "Text": "کازین آمدن کام و رای تو چیست",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: چرا به سوی عشق می‌آیی و هدف و آرزوی تو چیست؟ نام و نشانی که در دل داری چیست؟"
     },
     {
       "VOrder": 20,
@@ -701,7 +711,8 @@
       "Text": "که این مرز چین است و شیران چین",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: این سرزمین، سرزمین چین است و شیران آن در کمین‌گاه‌ها هستند تا بر سر دارایی‌های طبیعت و منابع جنگل‌ها تسلط پیدا کنند."
     },
     {
       "VOrder": 22,
@@ -717,7 +728,8 @@
       "Text": "به توران اگر برد خواهی سپاه",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهی سپاه خود را به سمت توران ببری، از این مرز خونینی هیچ راهی برای عبور وجود ندارد."
     },
     {
       "VOrder": 24,
@@ -733,7 +745,8 @@
       "Text": "براه دگر سوی توران خرام",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: به راه دیگری به سمت توران نرو، زیرا ممکن است گرفتار دام دشمن شوی."
     },
     {
       "VOrder": 26,
@@ -749,7 +762,8 @@
       "Text": "وگر جنگجو سوی چین آمدی",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: اگر جنگجویی به سمت چین سفر کنی، برای نبرد با نهنگان آمده‌ای."
     },
     {
       "VOrder": 28,
@@ -765,7 +779,8 @@
       "Text": "بگو تا ببندم کمر بهر جنگ",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: بیا بگو تا برای جنگ آماده شوم و یکی از تکیه‌گاه‌های خود را از این حس انتقام‌جویی رها کنم."
     },
     {
       "VOrder": 30,
@@ -781,7 +796,8 @@
       "Text": "که منقاش چینی بود نام من",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: نام من به معنای منقاش چینی است و من در دام جنگی شیر، سمبل قدرت و خشونت، قرار دارم."
     },
     {
       "VOrder": 32,
@@ -797,7 +813,8 @@
       "Text": "فرستاده رفت و بیامد چو باد",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: فرستاده رفت و مانند باد به سرعت بازگشت، و سپهدار به این شکل به او پاسخ داد."
     },
     {
       "VOrder": 34,
@@ -813,7 +830,8 @@
       "Text": "که با چین میانم نباشد نبرد",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: اگر در زندگی‌ام با مشکلاتی مواجه نشوم، با سپاه به سرزمین توران خواهم رفت و از آنجا انتقام می‌گیرم."
     },
     {
       "VOrder": 36,
@@ -829,7 +847,8 @@
       "Text": "یکی راه بگشای تا بگذرم",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: یک نفر راهی باز کند تا من از سپاه عبور کنم و به سمت چین و توران بروم."
     },
     {
       "VOrder": 38,
@@ -845,7 +864,8 @@
       "Text": "وگرنه چه برگرز دست آورم",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: اگر به دست نیاورم چیزی از ترکان چین، پس چه فایده‌ای دارد که بخواهم تلاش کنم؟"
     },
     {
       "VOrder": 40,
@@ -861,7 +881,8 @@
       "Text": "فرستاد برگشت چون باد زود",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: پیامی به سرعت بازگشت و آن کسی که از دور خبر را شنیده بود، به سرعت گفت."
     },
     {
       "VOrder": 42,
@@ -877,7 +898,8 @@
       "Text": "چو بشنید منقاش آمد بجوش",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: به محض اینکه خبر آمدن منقاش را شنید، بر افروخته شد و به سرعت وارد شد، مثل شیران پرشور و غران."
     },
     {
       "VOrder": 44,
@@ -893,7 +915,8 @@
       "Text": "میان سپاه اندر آواز داد",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: در میان لشکر صدایی بلند شد که گفت: ای هندی با پوست تیره و نژاد نامناسب!"
     },
     {
       "VOrder": 46,
@@ -909,7 +932,8 @@
       "Text": "همی راه جوئی ز شیران چین",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: به دنبال راهی هستی که تو را به سمت جنگجویانی شجاع در چین ببرد تا سپاه را به سوی سرزمین توران رهنمون شود."
     },
     {
       "VOrder": 48,
@@ -925,7 +949,8 @@
       "Text": "گرت راه باید کنون زین سپاه",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی اکنون از این لشکر عبور کنی، باید با شمشیر این مسیر را باز کنی و خود را از جمع شیران دور کنی."
     },
     {
       "VOrder": 50,
@@ -941,7 +966,8 @@
       "Text": "سپهبد چه بشنید برکرد اسب",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: سپهبد چه چیزی شنید که اسب برانگیخته شد و با ناراحتی صدا کرد، همچون آتش خشمگین گشسب؟"
     },
     {
       "VOrder": 52,
@@ -957,7 +983,8 @@
       "Text": "بگردان چین گفت یک تن عنان",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: یک نفر گفت که باید از چین دور شویم و مهار را به سمت دیگری بکشیم تا این جنگجویان و مبارزان را به چالش بکشیم."
     },
     {
       "VOrder": 54,
@@ -973,7 +1000,8 @@
       "Text": "که تنها بسم چینیان را به جنگ",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: تنها به نام چینی‌ها به جنگ رفت و گفت که آمده تا کمربندش را محکم ببندد."
     },
     {
       "VOrder": 56,
@@ -989,7 +1017,8 @@
       "Text": "بمنقاش بربست ره استوار",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: شعری به تصویر می‌کشد که ابرهای بهاری به صورت قوی و پرانرژی در حال حرکت هستند و مسیری را به پیش می‌برند. این ابرها به طور محکم و استوار راه خود را ادامه می‌دهند."
     },
     {
       "VOrder": 58,
@@ -1005,7 +1034,8 @@
       "Text": "کمان گرد بر زه ستمکاره مرد",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: کمان خمیده‌ای که به دست مردی ستمگر است، آماده نبرد با شیر شده است."
     },
     {
       "VOrder": 60,
@@ -1021,7 +1051,8 @@
       "Text": "بگرد سپهبد ببارید تیر",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: به دور سپهبد بگردید و تیرها را رها کنید، مانند بارانی که از ابرها به زمین می‌ریزد، با شدت و انبوهی فراوان."
     },
     {
       "VOrder": 62,
@@ -1037,7 +1068,8 @@
       "Text": "سپهبد چه در زیر پولاد بود",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: سپهبد در زیر زره و armor بود، اما تیرش مثل باد به سرعت به هدف می‌رسید."
     },
     {
       "VOrder": 64,
@@ -1053,7 +1085,8 @@
       "Text": "بزد دست و برداشت گرز گران",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: او با قدرت و شجاعت شمشیری به دست گرفت و به میدان رفت؛ در آنجا، پهلوانی به سختی در تنگنا افتاده بود."
     },
     {
       "VOrder": 66,
@@ -1069,7 +1102,8 @@
       "Text": "فرو کوفت برترک آن ترک گرز",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: آن مرد با چوب بزرگ خود به سر آن ترک ضربه‌ای زد که همان ترک، به دلیل ضربه‌ای که خورد، نامش بر آن ترک افتاد."
     },
     {
       "VOrder": 68,
@@ -1085,7 +1119,8 @@
       "Text": "برآورد گرزش ز منقارش گرد",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: چرند و خرافاتی را که از منقار پرنده به در می‌آید، به گونه‌ای با خشم بیان کن که سر آن پرنده را به درد بیاورد."
     },
     {
       "VOrder": 70,
@@ -1101,7 +1136,8 @@
       "Text": "وز آن پس برآورد گرز گران",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: پس از آن، چیزی سنگین به دست گرفت و به سمت لشکر چینیان رفت."
     },
     {
       "VOrder": 72,
@@ -1117,7 +1153,8 @@
       "Text": "بهرسوی کآن شیر برکاشتی",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: در هرجایی که آن شیر را دیدی، که از خون گل‌های لاله در دشت چین، کشت کرده است."
     },
     {
       "VOrder": 74,
@@ -1133,7 +1170,8 @@
       "Text": "سرو ترک می کرد با ترک نرم",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: درخت سرو خوش‌قد و قامت با زیبایی لطیف و نرم خود، کجا می‌توانی دستت را به چیزی سنگین و خشن مثل گرز گرم بگيری؟"
     },
     {
       "VOrder": 76,
@@ -1149,7 +1187,8 @@
       "Text": "چو ترکان بدیدند رزم درشت",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: وقتی ترک‌ها مشاهده کردند که جنگ به شدت در حال انجام است، به سرعت از پشت به سپهبد حمله کردند."
     },
     {
       "VOrder": 78,
@@ -1165,7 +1204,8 @@
       "Text": "سپهدار برگشت از رزمگاه",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: سردار از میدان نبرد برگشت و به نزد شاه و مردم آمد."
     },
     {
       "VOrder": 80,
@@ -1181,7 +1221,8 @@
       "Text": "به جمهور گفت کای شه کامکار",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: ای پادشاه موفق، به مردم گفتی که امروز روز شکار است."
     },
     {
       "VOrder": 82,
@@ -1197,7 +1238,8 @@
       "Text": "چو زی صیدگه بازگردم به کام",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: وقتی به منطقه شکار بازگردم، به آرامش و لذت می‌پیچم و به سمت شهر خاقان حرکت می‌کنم."
     },
     {
       "VOrder": 84,
@@ -1213,7 +1255,8 @@
       "Text": "گمانم که خاقان سپاه آورد",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد که پادشاه لشکری به سوی ما فرستاده که ما را به تنگنا و فشار بیاندازد."
     },
     {
       "VOrder": 86,
@@ -1229,7 +1272,8 @@
       "Text": "بگفت و به نخجیر آورد روی",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: او گفت و به شکارگاه رفت، جایی که رفتار شیران را مشاهده می‌کند و به جستجوی شکار می‌پردازد."
     },
     {
       "VOrder": 88,
@@ -1245,7 +1289,8 @@
       "Text": "به دشتی کجا جای نخجیر بود",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: جایی را تصور کن که مناسب شکار است، جایی که می‌تواند محل زندگی شیر هم باشد."
     },
     {
       "VOrder": 90,
@@ -1261,7 +1306,8 @@
       "Text": "یکی سهمگین نره شیر ژیان",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: در دشت نخجیر، یک شیر نر و قدرتمند وجود دارد که به شدت مشهور و ترسناک است."
     },
     {
       "VOrder": 92,
@@ -1277,7 +1323,8 @@
       "Text": "خروشید مانند شیر سپهر",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: آسمان مانند شیری غران به صدا درآمد و از نبرد او، دیو چهره‌ای را در هم پیچید."
     },
     {
       "VOrder": 94,
@@ -1293,7 +1340,8 @@
       "Text": "چه گردان به نخجیر در تاختند",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: گروهی از شکارچیان به سمت شکار رفتند و راهی را که به شیر نر می‌رسید، انتخاب کردند."
     },
     {
       "VOrder": 96,
@@ -1309,7 +1357,8 @@
       "Text": "چو شیر ژیان دیدشان در ستیز",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: وقتی شیر ژیان آن‌ها را در حال درگیری دید، با دندان‌های تیزش آتش خشم را شعله‌ور کرد."
     },
     {
       "VOrder": 98,
@@ -1325,7 +1374,8 @@
       "Text": "میان سواران درافتاد شیر",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: در میان جنگجویان، شیری به شدت درگیر شد و با قدرت هر کسی را که از بالا به او حمله کرد، به پایین انداخت."
     },
     {
       "VOrder": 100,
@@ -1341,7 +1391,8 @@
       "Text": "سواران نهادند رخ در گریز",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: سواران به سرعت در حال فرار هستند، زیرا وقتی با شیر روبرو می‌شوند، هرگز در برابر آن نمی‌ایستند."
     },
     {
       "VOrder": 102,

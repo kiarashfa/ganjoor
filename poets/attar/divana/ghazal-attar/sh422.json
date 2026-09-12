@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "منم اندر قلندری شده فاش",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در میان گروهی از انسان‌های بی‌قید و بند به وضوح مشخص شده‌ام که به قلندری (گروهی که به زندگی آزاد و بی‌پروایی اعتقاد دارند) دچار شده‌ام."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "همه افسوس‌خواره و همه رند",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همه غم‌دار و عیاش هستند، همه دچار درد و رنج هستند و همه به نوعی به دام مشکلات افتاده‌اند."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "ترک نیک و بد جهان گفته",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به دنبال خوبی و بدی در دنیا نباش، چرا که دنیا با وجود و عدم تو بی‌توجه است."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "دام دیوانگی بگسترده",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دام دیوانگی گسترده به قدری که عقل معاش هم در آن گرفتار شده است."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "ساقیا چند خسبی آخر؟ خیز",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای ساقی، تا کی در خواب و بی‌خبر خواهی ماند؟ بر خیز و آستین بالا بزن، زیرا که زمانه به تو اجازه استراحت نمی‌دهد و نباید کاهلی کنی."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "بنشان از دلم غبار به می",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دلم را از غبار برهان و با می پاک کن، زیرا تو درون سینه‌ام مثل فراش (خدمتگزار) هستی."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "گر تو در معرفت شکافی موی",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در درک و شناخت عمیق‌تر بپردازی، خواهی دید که ارزش و درخشندگی کلام تو به اندازه یک گوهر است."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "یک سر موی بیش و کم نشود",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ چیزی در سرنوشت و تقدیر انسان تغییر نمی‌کند و هر آنچه که از ابتدا توسط خداوند نگاشته شده است، همانطور باقی می‌ماند."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "تو چه دانی که در نهاد کثیف",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو نمی‌دانی که در درون موجودات ناپسند، آیا حقیقتی مانند روح وجود دارد یا فقط موجودی تاریک و منفی مانند خفاش."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "عاشقی خواه اوفتاده ز شوق",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عاشق کسی است که حتی اگر از شوق دچار افتادگی شود، مانند پیشخدمت شمعی در کنار فرش می‌ماند."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "چه کنی زاهدی که از سردی",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چه تلاش کنی و عبادت کنی، اگر قلبت از ترس عذاب و بی‌توجهی به خدا پر باشد، فایده‌ای نخواهد داشت."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "زاهد خام خویش‌بین هرگز",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: انسان زاهد و خودپسند هرگز به کمال و پختگی نمی‌رسد، حتی اگر دانش و اطلاعات زیادی داشته باشد."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "هست زاهد چو آن دروگر بد",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زاهد مانند آن دروگری است که همیشه در تلاش است تا محصولات خود را به سوی خود جذب کند."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "مرد ایثار باش و هیچ مترس",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "نبّاش‌: نبش‌کننده‌، کفن‌دزد."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "من نی‌ام خرده‌گیر و خرده‌شناس",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در جستجوی عیب‌جویی و تحلیل جزئیات نیستم، زیرا از این کار چیزی به دست نمی‌آورم."
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "دور باشید از کسی که مدام",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از افرادی که همیشه در دل خود کفر دارند و ایمانشان را به زبان نمی‌آورند، دوری کنید."
     },
     {
       "VOrder": 32,
@@ -255,7 +271,8 @@
       "Position": "Right",
       "Text": "چون نی‌ام زاهد و نی‌ام فاسق",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من مانند نی هستم، نه زاهد و نه فاسق. پس من چه گروهی هستم؟ ای کاش می‌دانستم."
     },
     {
       "VOrder": 34,
@@ -269,7 +286,8 @@
       "Position": "Right",
       "Text": "چه خبر داری این دم ای عطار",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای عطار، چه خبر داری از حال و احوال؟ تا زمانی که قدم به این مسیر نگذاری، درک و آگاهی‌ات کامل نخواهد شد."
     },
     {
       "VOrder": 36,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ساقی باید که می ببخشد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ساقی باید شرابی را به مهمان بدهد و رند نیز باید از آن بنوشد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "تشریف شریف می دهد شاه ",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شاه بزرگوار به کسی که مقام والایی دارد احترام می‌گذارد و او نیز باید آن را با آراستگی و شایستگی بپذیرد."
     },
     {
       "VOrder": 4,

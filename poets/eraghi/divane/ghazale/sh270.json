@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "لقد فاح الربیع و دار ساقی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بهار خوشبو شده و گرداننده‌اش در حال سرویس‌دهی است، و نسیم معطر باغ‌های عراق در حال وزیدن است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "صبا بوی عراق آورد گویی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نسیم صبحگاهی بوی عرفان و زیبایی‌های عراق را به ارمغان آورد، گویی که خود عراق از لطافت این نسیم شاداب و خوشحال شده است."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "الا یا حبذا! نفحات ارض",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کاش! بوی خوش سرزمین، عشق و yearning را تسکین می‌دهد."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "دریغا! روزگار نوش بگذشت",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کاش! روزهای خوب و خوشی که گذشتند، به یادم می‌آید که دوستم بخت و حمایتی بود شبیه یک ساقی."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "بلیت ان صبحی بالبلایا",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به نوعی به یادآوری یک صبح زیبا و دلپذیر اشاره دارد که در آن زمان، از ملاقات‌ها و لحظات خوب گذشته یاد می‌شود. احساس دلنشینی از یادآوری آن روزها را منتقل می‌کند."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "ز جور روزگار ناموافق",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از ناعدالتی‌های زندگی و روزگار نامساعد، از دوستانی که توافق و همدلی ندارند جدا شدم."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "ادر، یا ایها الساقی، ارحنی",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای ساقی، از من درد جدایی را دور کن و به من بگو زمانی را که در خمار و اندوه این فراق هستم، التیام ببخشی."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "دلم را شاد کن، ساقی، که نگذاشت",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: انتظار دارم که ای ساقی، دل شادیم را با نوشیدنی‌ات شگفت‌انگیز کنی، چرا که جدایی هیچ‌گونه غمی بر جای نذاشته است."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "و عل لعل لطیفی نار قلبی",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شاید لطافت‌های زیبای تو باعث شعله‌ور شدن آتش در دلم شده باشد و قلب من در حال سوختن است."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "بده جامی، که اندر وی ببینم",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به من جامی بده که در آن، زیبایی دوستان را ببینم و حس وابستگی و دوستی را تجربه کنم."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "جرعت من التفرق کل یوم",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر روز از هم جدا می‌شویم و اشک‌هایمان از چشمان‌مان سرازیر می‌شود."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "بنال، ای دل، ز درد و غم که پیوست",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دل، با صدای بلند از درد و غم خود شکایت کن، چون به شدت درگیر غم و رنج جدایی هستی."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "الا یا اهل العراق، تحذ قلبی",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای اهل عراق، دل من به سوی شما می‌تپد و از اشتیاقم پریشانم."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "عراقی، خوش بموی و زار بگری",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عراقی، با موهای زیبا و حالتی ناراحت، گریان باش، چرا که در هند به دنبال یک جفت مناسب می‌گردی."
     },
     {
       "VOrder": 28,

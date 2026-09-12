@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گویند به من که چونی و حالت چیست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به من می‌گوید که حالت چطور است و چگونه‌ای، اما از مرگ بترس زیرا بدون تو باید به زندگی ادامه دهم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "در شهر کسی دیگر نمی دانم کیست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در شهر کسی را نمی‌شناسم که درد و رنج من را بشناسد و به من توجه کند."
     },
     {
       "VOrder": 4,

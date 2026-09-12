@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گر در این بحر آشنا یابی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در این دریا به جستجو بپردازی، حقیقت ما را به وضوح مشاهده خواهی کرد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "دردمندی اگر دوا جوئی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی درد دارد و به دنبال درمان است، باید درد را به جان بخرد تا بهبودی حاصل کند."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "گر وصال خدای خود طلبی",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به دنبال نزدیکی و ارتباط با خدا هستی، باید از خودخواهی‌ات گذر کنی تا به خدا دسترسی پیدا کنی."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "نقد معنی که گنج صورت ماست",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به دنبال درک عمیق زیبایی و معناهای نهفته در وجود خود هستی، باید بدان که اگر به درون خود مراجعه کنی، به گنجینه‌ای از ارزش‌ها و معانی می‌رسی که در وجودت نهفته است."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "از فنا بگذر و بقا را جو",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به زندگی ادامه بده و به دنبال ماندگاری باش، زیرا در فرآیند جستجوی ماندگاری، به حقیقت فنا نیز پی می‌بری."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "ذوق در عاشقی و قلاشی است",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق و شعف در محبت و دل‌باختگی است، نه در زهد و گوشه‌نشینی. شادی و ذوق ناشی از عشق را از زندگی زاهدان که تنها در عبادت‌اند، نمی‌توان به دست آورد."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "همدم جام می شو ای عاشق",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای عاشق، با می همراه شو تا از لذت و شوقی بهره‌مند گردی."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "ای که گوئی که تا کیش جویم",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به دنبال حقیقتی هستی، باید به جستجوی آن ادامه دهی تا زمانی که آن را بیابی."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "خویش گم کرده ای و می جوئی",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر خودِ واقعی‌ات را گم کرده‌ای و در جستجوی آن هستی، زمانی که آن را پیدا کنی، خوشحالی بزرگی نصیبت خواهد شد."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "عاشقانه بیا قدم در نه",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عزیزم، با عشق به جلو قدم بگذار. یا به عشق تو را می‌کشد یا خودت عشق را پیدا می‌کنی."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "خلعت عشق را بپوشی خوش",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به لباس عشق درآیی، خوش‌حال می‌شوی، اگر از خاندان پیامبر عبا بگیری."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "در غمش پایدار مردانه",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در غم او با استقامت و شجاعت باش، زیرا از عشق او بسیار بهره‌مند خواهی شد."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "راحت جان مبتلا دانی",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر از درد و رنج کسی آگاه شوی، می‌فهمی که او چگونه با مشکلات دست و پنجه نرم می‌کند."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "نعمت الله را بدست آور",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نعمت‌های خداوند را بدست آور تا به هدف و مقصود دنیوی و اخروی خود برسید."
     },
     {
       "VOrder": 28,

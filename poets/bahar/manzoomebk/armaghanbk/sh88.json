@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "سخن دوآیینه (‌به دورویی و تذبذب‌) مگوی.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: از صحبت درباره‌ی افرادی که دو رو و متزلزل هستند، خودداری کن."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "سخن هیچگه بر دو آیین مگوی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سخن را به دو صورت متفاوت بیان نکن، زیرا این کار اعتبار و آبروی تو را زیر سوال می‌برد."
     },
     {
       "VOrder": 3,

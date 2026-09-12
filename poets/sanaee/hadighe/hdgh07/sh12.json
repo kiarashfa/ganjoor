@@ -151,7 +151,8 @@
       "Text": "اینکه اقلیم بیم و امیدست",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: مناطق مختلف زندگی پر از ترس و امید هستند و این وضعیت به نوعی مانند روزی است که نور خورشید به آنجا می‌تابد."
     },
     {
       "VOrder": 2,
@@ -167,7 +168,8 @@
       "Text": "اینک امروز ربع مسکونست",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: امروز در جهانی که زندگی می‌کنیم، ما تنها بخشی کوچک از دریای وسیع زندگی هستیم."
     },
     {
       "VOrder": 4,
@@ -183,7 +185,8 @@
       "Text": "هیچ نادیده عالم معنی",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: چرا ادعای دانایی می‌کنی در حالی که هیچ چیز از معنای واقعی معرفت را نمی‌دانی؟"
     },
     {
       "VOrder": 6,
@@ -199,7 +202,8 @@
       "Text": "تو ز طاوس پای دیدستی",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: تو زیبایی و شکوه طاووس را دیده‌ای و نام سرزمین‌ها را شنیده‌ای."
     },
     {
       "VOrder": 8,
@@ -215,7 +219,8 @@
       "Text": "ز رزی دانهٔ عنب دیدی",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: تو درخت انگور را دیدی که دانه‌هایش مانند مهره‌های عجیب هستند، مخصوصاً در شب."
     },
     {
       "VOrder": 10,
@@ -231,7 +236,8 @@
       "Text": "بازی روز و شب به انبازی",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: زندگی شب و روز مثل یک بازی است که در مقابل تو، مانند بازی در شب به نظر می‌رسد."
     },
     {
       "VOrder": 12,
@@ -247,7 +253,8 @@
       "Text": "شیر گرمابه دیده از نقاش",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهی در زندگی به مقام بالا و شجاعت دست یابی، باید ابتدا هنر و مهارت‌های لازم را یاد بگیری و با زیرکی از تجربه‌های دیگران بهره‌برداری کنی. در واقع، برای رسیدن به موفقیت باید مراحل را طی کنی و به تدریج به هدف‌های بزرگ‌تر فکر کنی."
     },
     {
       "VOrder": 14,
@@ -263,7 +270,8 @@
       "Text": "تو که این را چو جان نگه داری",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: اگر تو این موضوع را به اندازه جانت ارزش قائل باشی، گاهی اوقات ممکن است باعث آزرده‌خویی عقل خود شوی."
     },
     {
       "VOrder": 16,
@@ -279,7 +287,8 @@
       "Text": "نبود مر ترا بهی و مهی",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: تو نه خورشیدی داری و نه ماهی، در حالی که دلت از طمع پر است و دستت خالی."
     },
     {
       "VOrder": 18,
@@ -295,7 +304,8 @@
       "Text": "برکه خندند ساکنان اثیر",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: در دریاچه، ساکنان متعجب به این امر خندیدند که تو با اشک و اندوه، باقی مانده‌های گوز و پنیر را به جا گذاشتی."
     },
     {
       "VOrder": 20,
@@ -311,7 +321,8 @@
       "Text": "گوز مر خرس حرص را بگذار",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: خرس حرص و طمع را کنار بگذار و این پنیر را به گربه بده."
     },
     {
       "VOrder": 22,
@@ -327,7 +338,8 @@
       "Text": "که اگر با تو دم زند هوست",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی با تو صحبت کند، ممکن است از ظلم و ناگاری زندگی خلاص شود و از قید و بندهای آن رهایی یابد."
     },
     {
       "VOrder": 24,

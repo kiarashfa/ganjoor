@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای که پرسی ز حال میر تمور",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که از حال میر تمور می‌پرسی، به تو می‌گویم که حال او چگونه است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گرچه چپ بود راست ره می‌رفت",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چند که مسیرش نادرست و کج به نظر می‌رسد، اما او با صداقت و پیروی از اصول، به سمت هدفش حرکت می‌کند."
     },
     {
       "VOrder": 4,

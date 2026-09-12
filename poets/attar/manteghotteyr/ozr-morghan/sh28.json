@@ -181,7 +181,8 @@
       "Text": "شهریاری کرد قصری زرنگار",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: پادشاهی کاخی زیبا و مجلل ساخت و برای آن صد هزار دینار خرج کرد."
     },
     {
       "VOrder": 2,
@@ -197,7 +198,8 @@
       "Text": "چون شد آن قصر بهشت آسا تمام",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: زمانی که آن قصر زیبا و بهشتی به طور کامل ساخته شد، آرایش و زیبایی آن را از زمین برداشتند."
     },
     {
       "VOrder": 4,
@@ -213,7 +215,8 @@
       "Text": "هر کسی می‌آمدند از هر دیار",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: افرادی از مناطق مختلف می‌آمدند و با هدایای خود به خدمت پیش‌کش می‌کردند."
     },
     {
       "VOrder": 6,
@@ -229,7 +232,8 @@
       "Text": "شه حکیمان و ندیمان را بخواند",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: شاه، حکیمان و دوستان خود را فراخواند و آنها را نزدیک خود آورد و بر کرسی نشاند."
     },
     {
       "VOrder": 8,
@@ -245,7 +249,8 @@
       "Text": "گفت این قصر مرا در هیچ‌حال",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: او گفت که این قصر هیچ‌گاه از زیبایی و کمال خالی نیست و همیشه دارای ویژگی‌های خوب است."
     },
     {
       "VOrder": 10,
@@ -261,7 +266,8 @@
       "Text": "هر کسی گفتند در روی زمین",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که در دنیا زندگی کرده، هرگز نظیر این شخص را نه دیده و نه خواهد دید."
     },
     {
       "VOrder": 12,
@@ -277,7 +283,8 @@
       "Text": "زاهدی برجست، گفت ای نیک بخت",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: شخصی پرفاضله به فردی خوشبخت گفت: در وجود تو نقطه ضعفی وجود دارد که به شدت نگران‌کننده است."
     },
     {
       "VOrder": 14,
@@ -293,7 +300,8 @@
       "Text": "گر نبودی قصر را آن رخنه عیب",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: اگر رخنه‌ای در قصر نبود، عیب و نقصش هدیه‌ای است که قصر بهشت را از عالم غیب به ما معرفی کرده است."
     },
     {
       "VOrder": 16,
@@ -309,7 +317,8 @@
       "Text": "شاه گفتا من ندیدم رخنه‌ای",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: شاه می‌گوید: من هرگز ندیدم که تو، ای نادان، بتوانی باعث ایجاد تفرقه یا آشوبی شوی."
     },
     {
       "VOrder": 18,
@@ -325,7 +334,8 @@
       "Text": "زاهدش گفت ای به شاهی سرفراز",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: زاهد به شخصی می‌گوید که ای کسی که در جلال و عظمت شاهانه به سرمی‌بری، یک نقطه ضعفی وجود دارد که آن را از عزرائیل، فرشته مرگ، پنهان نمی‌توان کرد."
     },
     {
       "VOrder": 20,
@@ -341,7 +351,8 @@
       "Text": "بوک آن رخنه توانی کرد سخت",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: اگر بتوانی به دل کسی نفوذ کنی و او را تحت تأثیر قرار دهی، ارزشش بیشتر از هر قصر یا تاج و تختی است که داشته باشی."
     },
     {
       "VOrder": 22,
@@ -357,7 +368,8 @@
       "Text": "گرچه این قصرست خرم چون بهشت",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: هرچند این قصر زیبا و دل‌انگیز مانند بهشت است، اما مرگ، آن را در نظر تو زشت خواهد کرد."
     },
     {
       "VOrder": 24,
@@ -373,7 +385,8 @@
       "Text": "هیچ باقی نیست، هست اینجای زیست",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: هیچ چیزی باقی نمانده، فقط زندگی جاری است، اما چیزی که پایدار باشد وجود ندارد. این موضوع چه دلیلی دارد؟"
     },
     {
       "VOrder": 26,
@@ -389,7 +402,8 @@
       "Text": "از سرای و قصر خود چندین مناز",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: از کاخ و خانه‌ات به خاطر تکبر و خودبرتربینی‌ات کم نداشته باش."
     },
     {
       "VOrder": 28,
@@ -405,7 +419,8 @@
       "Text": "گر کسی از خواجگی و جای تو",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی که در موقعیت بالایی قرار دارد به شما عیب‌جویی کند، نشان‌دهنده‌ی خوبی برای شما نخواهد بود و باید از این موضوع ناراحت شوید."
     },
     {
       "VOrder": 30,

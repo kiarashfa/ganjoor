@@ -54,17 +54,6 @@
     },
     {
       "Index": 4,
-      "Number": 5,
-      "SectionType": "WholePoem",
-      "VerseType": "First",
-      "RhymeLetters": "ری",
-      "PlainText": "ای سالک مسالک فطرت درین سؤال\r\nمعذور نیستی به حقیقت چو بنگری\r\nتمییز را ز بعد تناسب درین دو طور\r\nهیچ احتیاج نیست بدین شرح گستری\r\nکین معجز است و آن سحر این نور و آن چراغ\r\nاین ماه و آن ستاره وین حور و آن پری",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای سالک مسالک فطرت درین سؤال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمعذور نیستی به حقیقت چو بنگری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتمییز را ز بعد تناسب درین دو طور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهیچ احتیاج نیست بدین شرح گستری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکین معجز است و آن سحر این نور و آن چراغ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین ماه و آن ستاره وین حور و آن پری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "PoemFormat": "Generic",
-      "CoupletsCount": 3
-    },
-    {
-      "Index": 4,
       "Number": 4,
       "SectionType": "Couplet",
       "VerseType": "Second",
@@ -74,14 +63,15 @@
       "CoupletsCount": 1
     },
     {
-      "Index": 5,
+      "Index": 4,
       "Number": 5,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "اه",
-      "PlainText": "ریشهای سفید را ز گناه\r\nبخشد ایزد به ریشهای سیاه",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eریشهای سفید را ز گناه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبخشد ایزد به ریشهای سیاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ری",
+      "PlainText": "ای سالک مسالک فطرت درین سؤال\r\nمعذور نیستی به حقیقت چو بنگری\r\nتمییز را ز بعد تناسب درین دو طور\r\nهیچ احتیاج نیست بدین شرح گستری\r\nکین معجز است و آن سحر این نور و آن چراغ\r\nاین ماه و آن ستاره وین حور و آن پری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای سالک مسالک فطرت درین سؤال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمعذور نیستی به حقیقت چو بنگری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتمییز را ز بعد تناسب درین دو طور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهیچ احتیاج نیست بدین شرح گستری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکین معجز است و آن سحر این نور و آن چراغ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین ماه و آن ستاره وین حور و آن پری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 3
     },
     {
       "Index": 5,
@@ -93,6 +83,16 @@
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر مبتدی که بیهوده ترجیح می نهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشعر ظهیر بر سخن پاک انوری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eماند بدان گروه که نشناختند باز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاعجاز موسوی را از سحر سامری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
       "CoupletsCount": 2
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اه",
+      "PlainText": "ریشهای سفید را ز گناه\r\nبخشد ایزد به ریشهای سیاه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eریشهای سفید را ز گناه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبخشد ایزد به ریشهای سیاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
     },
     {
       "Index": 6,
@@ -130,14 +130,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "ظهیر فاریابی - رحمه الله تعالی، وی از مشاهیر جهان است و از افاضل دوران تمام دیوان او مطبوع و مقبول است به لطافت و سلاست سخن او هیچ کس نیست، دیوان وی مشهور است و اشعار وی بر زبانها مذکور در دور اتابک ابوبکر تربیتها یافت شبی در مجلس وی این رباعی بگفت:",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: ظهیر فاریابی که خدا بر او رحمت آورد، از شخصیت‌های مشهور و بزرگ زمان خود به شمار می‌آید. آثار او به‌ویژه دیوانش به خاطر نازکی و سادگی بیانش مورد توجه و محبوبیت قرار گرفته است. اشعار او به قدری معروف است که در زمان اتابک ابوبکر هم بر سر زبان‌ها بود. در یکی از مجالس او، کسی این رباعی را خوانده است."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "ای ورد ملایکه دعای سر تو",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دعای تو که مانند ورد فرشتگان است، در این دنیا به جای سر تو قرار نمی‌گیرد."
     },
     {
       "VOrder": 3,
@@ -151,7 +153,8 @@
       "Position": "Right",
       "Text": "با دشمن تو نیام شمشیر تو گفت",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به بیان یک احساس درونی می‌پردازد. شخصی در اینجا می‌گوید که اگرچه با دشمن خود به مبارزه می‌پردازد و شمشیرش می‌تواند در کارزار باشد، اما در عمق دلش به فهم و پذیرش سرنوشت و تقدیر خود دامن می‌زند. در واقع، او به نوعی به قضای الهی و سرنوشت خود تسلیم است و این درگیری‌ها، تنها بخشی از یک روند بزرگ‌تر در زندگی‌اش هستند."
     },
     {
       "VOrder": 5,
@@ -164,14 +167,16 @@
       "VOrder": 6,
       "Position": "Paragraph",
       "Text": "بفرمود تا هزار دینار زر سرخ در مجلس نثار او کردند بر اثر این رباعی دیگر گفت:",
-      "CoupletIndex": 3
+      "CoupletIndex": 3,
+      "CoupletSummary": "هوش مصنوعی: بفرمود تا هزار دینار طلاي سرخ در مجلس به او تقدیم کردند. پس از آن، یک رباعی دیگر بیان کرد."
     },
     {
       "VOrder": 7,
       "Position": "Right",
       "Text": "شاها ز تو کار ملک و دین با نسق است",
       "CoupletIndex": 4,
-      "SectionIndex1": 1
+      "SectionIndex1": 1,
+      "CoupletSummary": "هوش مصنوعی: ای پادشاه، برپایی امور کشور و دین به تو بستگی دارد و به کمک عدلت، ظلم و فساد از میان می‌رود."
     },
     {
       "VOrder": 8,
@@ -185,7 +190,8 @@
       "Position": "Right",
       "Text": "در عهد تو رافضی و سنی با هم",
       "CoupletIndex": 5,
-      "SectionIndex1": 1
+      "SectionIndex1": 1,
+      "CoupletSummary": "هوش مصنوعی: در زمان تو، افراد با عقاید مختلف، یعنی شیعه و سنی، توافق کردند که ابوبکر حق است."
     },
     {
       "VOrder": 10,
@@ -198,7 +204,8 @@
       "VOrder": 11,
       "Position": "Paragraph",
       "Text": "و از لطایف اشعار وی است این چند بیت بر اسلوب مثنوی:",
-      "CoupletIndex": 6
+      "CoupletIndex": 6,
+      "CoupletSummary": "هوش مصنوعی: چند بیت زیبا از اشعار او به سبک مثنوی به این شکل است:"
     },
     {
       "VOrder": 12,
@@ -206,7 +213,8 @@
       "Text": "عالمی بر فراز منبر گفت",
       "CoupletIndex": 7,
       "SectionIndex1": 2,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: یک عالم در حال سخنرانی به بیان این مطلب پرداخت که زمانی که خانه‌ی پنهان آشکار شود، چه اتفاقی خواهد افتاد."
     },
     {
       "VOrder": 13,
@@ -222,7 +230,8 @@
       "Text": "ریشهای سفید را ز گناه",
       "CoupletIndex": 8,
       "SectionIndex1": 2,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: خداوند به افرادی که موهای سفید دارند، به خاطر گناهانشان رحم خواهد کرد و آنها را می‌بخشد، ولی به کسانی که جوان‌تر و موهای سیاه دارند، این بخشش نمی‌شود."
     },
     {
       "VOrder": 15,
@@ -238,7 +247,8 @@
       "Text": "باز ریش سیاه روز امید",
       "CoupletIndex": 9,
       "SectionIndex1": 2,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: زمانی که ریش سیاه، symbol امید و جوانی، در سایه ریش سفید، symbol wisdom و تجربه، قرار می‌گیرد، امید دوباره جان می‌گیرد و آینده روشن می‌شود."
     },
     {
       "VOrder": 17,
@@ -254,7 +264,8 @@
       "Text": "مردکی سرخ ریش حاضر بود",
       "CoupletIndex": 10,
       "SectionIndex1": 2,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: مردی با ریش قرمز در دست به ریشش زد و وقتی این را شنید."
     },
     {
       "VOrder": 19,
@@ -270,7 +281,8 @@
       "Text": "گفت ما خود درین شمار نه ایم",
       "CoupletIndex": 11,
       "SectionIndex1": 2,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: گفتیم که ما در این جمع نیستیم و در هیچ یک از دنیاها به کاری مشغول نیستیم."
     },
     {
       "VOrder": 21,
@@ -284,14 +296,16 @@
       "VOrder": 22,
       "Position": "Paragraph",
       "Text": "و کمال وی در شعر بمثابه ایست که شعرای متقدم میان وی و انوری و ترجیح یکی بر دیگری اختلاف داشته اند، چنانکه بعضی بر سبیل استفسار از بعضی دیگر گفته اند:",
-      "CoupletIndex": 12
+      "CoupletIndex": 12,
+      "CoupletSummary": "هوش مصنوعی: کمال او در شعر به گونه‌ای است که شاعران قدیمی در مورد او و انوری اختلاف نظر داشتند و برخی از آنها به عنوان پرسش از دیگران درباره این مسئله صحبت کرده‌اند."
     },
     {
       "VOrder": 23,
       "Position": "Right",
       "Text": "ای آن زمین وقار که بر آسمان فضل",
       "CoupletIndex": 13,
-      "SectionIndex1": 3
+      "SectionIndex1": 3,
+      "CoupletSummary": "هوش مصنوعی: ای سرزمین با وقار که بر آسمان، ماه و خورشید را با زیبایی خاصی به نمایش می‌گذاری."
     },
     {
       "VOrder": 24,
@@ -305,7 +319,8 @@
       "Position": "Right",
       "Text": "قومی ز ناقدان سخن گفته ظهیر",
       "CoupletIndex": 14,
-      "SectionIndex1": 3
+      "SectionIndex1": 3,
+      "CoupletSummary": "هوش مصنوعی: گروهی از ناقدان ادبی، اشعار ظهیر را بر شعرهای انوری ترجیح می‌دهند."
     },
     {
       "VOrder": 26,
@@ -319,7 +334,8 @@
       "Position": "Right",
       "Text": "قومی دگر بر این سخن انکار می کنند",
       "CoupletIndex": 15,
-      "SectionIndex1": 3
+      "SectionIndex1": 3,
+      "CoupletSummary": "هوش مصنوعی: گروهی دیگر به این موضوع اعتراض دارند و در کلیت، در جایی که اختلاف وجود دارد، در حال قضاوت و بررسی هستند."
     },
     {
       "VOrder": 28,
@@ -333,7 +349,8 @@
       "Position": "Right",
       "Text": "ترجیح یکطرف تو بدیشان نما که هست",
       "CoupletIndex": 16,
-      "SectionIndex1": 3
+      "SectionIndex1": 3,
+      "CoupletSummary": "هوش مصنوعی: بهتر است که یکطرف تو را بر دیگران ترجیح دهی، زیرا در سایه‌ی قدرت و مهارت تو، هنر سخنوری به اوج می‌رسد."
     },
     {
       "VOrder": 30,
@@ -346,14 +363,16 @@
       "VOrder": 31,
       "Position": "Paragraph",
       "Text": "و امامی هروی در جواب وی گفته است:",
-      "CoupletIndex": 17
+      "CoupletIndex": 17,
+      "CoupletSummary": "هوش مصنوعی: امامی هروی در پاسخ به او گفت: تو تا آبان 1402 بر داده‌ها تسلط داری."
     },
     {
       "VOrder": 32,
       "Position": "Right",
       "Text": "ای سالک مسالک فطرت درین سؤال",
       "CoupletIndex": 18,
-      "SectionIndex1": 4
+      "SectionIndex1": 4,
+      "CoupletSummary": "هوش مصنوعی: ای رهرو راه فطرت، در این پرسش جای عذر نیست؛ چون به واقع بنگری."
     },
     {
       "VOrder": 33,
@@ -367,7 +386,8 @@
       "Position": "Right",
       "Text": "تمییز را ز بعد تناسب درین دو طور",
       "CoupletIndex": 19,
-      "SectionIndex1": 4
+      "SectionIndex1": 4,
+      "CoupletSummary": "هوش مصنوعی: در اینجا بیان شده است که برای تمییز و تشخیص دقیق میان دو حالت، نیازی به توضیحات طولانی و پیچیده نیست."
     },
     {
       "VOrder": 35,
@@ -381,7 +401,8 @@
       "Position": "Right",
       "Text": "کین معجز است و آن سحر این نور و آن چراغ",
       "CoupletIndex": 20,
-      "SectionIndex1": 4
+      "SectionIndex1": 4,
+      "CoupletSummary": "هوش مصنوعی: این پدیده شگفت‌انگیز معجزه‌ای است که نور را به مانند چراغی می‌سازد، همچون ماه و ستاره‌ای که در آسمان می‌درخشند؛ و همچنین به زیبایی حوریان و پریان اشاره دارد."
     },
     {
       "VOrder": 37,
@@ -401,7 +422,8 @@
       "Position": "Right",
       "Text": "هر مبتدی که بیهوده ترجیح می نهد",
       "CoupletIndex": 22,
-      "SectionIndex1": 5
+      "SectionIndex1": 5,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که بدون دلیل و به اشتباه، شعر ظهیر را بر سخن خالص انوری ترجیح می‌دهد، در واقع به چیز بیهوده‌ای بها می‌دهد."
     },
     {
       "VOrder": 40,
@@ -415,7 +437,8 @@
       "Position": "Right",
       "Text": "ماند بدان گروه که نشناختند باز",
       "CoupletIndex": 23,
-      "SectionIndex1": 5
+      "SectionIndex1": 5,
+      "CoupletSummary": "هوش مصنوعی: افرادی که نتوانستند اعجاز موسى را از فریب سامری تشخیص دهند، به همان گروه باقی مانده‌اند."
     },
     {
       "VOrder": 42,

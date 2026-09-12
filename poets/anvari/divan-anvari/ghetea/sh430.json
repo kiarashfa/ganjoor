@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ندارد مجلس ما بی‌تو نوری",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مجلس ما بدون تو هیچ نوری ندارد، هرچند که این مجلس شایسته‌ی تو نیست."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "چه فرمایی چه گویی مصلحت چیست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نظرت چیست و چه پیشنهادی داری؟ آیا بهتر است تو به ما بیایی یا ما به سمت تو برویم؟"
     },
     {
       "VOrder": 4,

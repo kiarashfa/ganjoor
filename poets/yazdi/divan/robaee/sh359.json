@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای بوم در این بوم مؤسس شده‌ای",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کبوتر، تو در این مکان مستقر شده‌ای و ای زاغ، تو در باغ به محفل‌داری مشغول گشته‌ای."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "در مدرسه درس می‌دهی رنگارنگ",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در مدرسه به شکلی زیبا و متنوع درس می‌دهی، انگار که به تو آموزش داده‌اند چگونه این کار را انجام دهی."
     },
     {
       "VOrder": 4,

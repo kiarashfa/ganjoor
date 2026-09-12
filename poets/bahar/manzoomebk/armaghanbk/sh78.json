@@ -29,14 +29,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "فرتم سخن (‌سخن عالی‌) به دشچهر (‌بدذات‌) مگوی.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: سخن خوب را به کسی که بدذات است مگوی."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "میاموز دانش به ناپاکزاد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آموختن علم و دانش به کسی که پاک نیست، بیهوده است؛ زیرا علم مانند چراغی است که در کنار ناپاکی قرار نمی‌گیرد."
     },
     {
       "VOrder": 3,

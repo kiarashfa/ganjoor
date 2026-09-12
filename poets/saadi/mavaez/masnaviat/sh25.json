@@ -30,7 +30,8 @@
       "Position": "Right",
       "Text": "هر که بی‌مشورت کند تدبیر",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی بدون مشورت و نظر دیگران تصمیم بگیرد، احتمالاً به هدفش نخواهد رسید و کارش به خوبی پیش نخواهد رفت."
     },
     {
       "VOrder": 2,
@@ -44,7 +45,8 @@
       "Position": "Right",
       "Text": "بیخ بی‌مشورت که بنشانی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بدون مشورت و فکر، کاری را شروع کنی، نتیجه‌اش جز پشیمانی نخواهد بود."
     },
     {
       "VOrder": 4,

@@ -137,7 +137,8 @@
       "Text": "دروغ ای برادر ندارد فروغ",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای برادر، دروغ هیچ‌گاه روشنی و درخشش ندارد. پس تا جایی که می‌توانی از دروغ بپرهیز."
     },
     {
       "VOrder": 2,
@@ -153,7 +154,8 @@
       "Text": "چوگفتی دروغی شوی بیقرار",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: زمانی که دروغ بگویی، دلتنگ و نگران خواهی شد، زیرا ممکن است دروغت روزی فاش شود."
     },
     {
       "VOrder": 4,
@@ -169,7 +171,8 @@
       "Text": "دروغ تو چون فاش گرددبه خلق",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: اگر دروغ تو برای مردم آشکار شود، تو به شدت شرمنده خواهی شد و مانند طنابی که در گردن می‌اندازند، خود را در خطر خواهی دید."
     },
     {
       "VOrder": 6,
@@ -185,7 +188,8 @@
       "Text": "بسی شرمساری کشی از دروغ",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: از دروغ باعث شرم و خجالت زیادی می‌شوی و خود را به آتش عذاب می‌اندازی."
     },
     {
       "VOrder": 8,
@@ -201,7 +205,8 @@
       "Text": "دروغ ای برادر مگوبا کسی",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: ای برادر، از دروغ گفتن بپرهیز، چرا که بسیاری از افرادی که به این دام افتاده‌اند، دچار مشکلات زیادی شده‌اند."
     },
     {
       "VOrder": 10,
@@ -217,7 +222,8 @@
       "Text": "دروغ ار شنیدی مرودرپیش",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: اگر در جایی دروغی درباره‌ی تو شنیدی، نباید ناراحت باشی. مهم این است که خودت را درست نگه‌داری و به رفتارهای خودت توجه کنی."
     },
     {
       "VOrder": 12,
@@ -233,7 +239,8 @@
       "Text": "دروغ ار بگوئی دروغی بگو",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: اگر قرار است دروغی بگویی، بهتر است دروغی بگویی که هیچ کس نتواند آن را بسنجد یا باطل کند."
     },
     {
       "VOrder": 14,
@@ -249,7 +256,8 @@
       "Text": "دروغی که تحقیق اومیتوان",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: اگر نمی‌تونی به حقیقت چیزی پی ببری، بهتر است اون را برای کسی بازگو نکنی."
     },
     {
       "VOrder": 16,
@@ -265,7 +273,8 @@
       "Text": "دروغی که دور است منزل گهش",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: دروغی که فاصله‌ی زیادی دارد، در حقیقت به جایی نمی‌رسد که بتوانی به راحتی از آن عبور کنی."
     },
     {
       "VOrder": 18,
@@ -281,7 +290,8 @@
       "Text": "نگویم بگولیکن از راه دور",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: نمی‌خواهم بگویم، اما از راه دور نمی‌تواند ببیند، جایی که دارد عبور می‌کند."
     },
     {
       "VOrder": 20,
@@ -297,7 +307,8 @@
       "Text": "چرا تا بود راست گوئی دروغ",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: چرا وقتی راست‌گویی وجود دارد، دروغ باید خوشایند باشد؟ در بزم شراب، دروغ هیچ لذتی ندارد."
     },
     {
       "VOrder": 22,

@@ -1481,7 +1481,8 @@
       "Text": "یکی پیری مرا آواز می‌داد",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: یک پیرمرد به من هشدار می‌داد که ای عطار، از تو یاری خواسته و فریاد می‌زند."
     },
     {
       "VOrder": 2,
@@ -1497,7 +1498,8 @@
       "Text": "جهان بر هم زدی و فتنه کردی",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: تو با اقداماتی که انجام دادی، در دنیا آشوب و بلوا به‌پا کردی و به باورهای دینی مردم آسیب زدی."
     },
     {
       "VOrder": 4,
@@ -1513,7 +1515,8 @@
       "Text": "تو گفتی آنچه احمد گفت باهو",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: تو گفتی هر آنچه احمد گفت، ولی تو هم در تمام اسرار یاهو تأثیر داشتی."
     },
     {
       "VOrder": 6,
@@ -1529,7 +1532,8 @@
       "Text": "تو گفتی آنچه سلمان در نهان گفت",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: تو آنچه سلمان در دلش گفتی و آنچه منصور به وضوح بیان کرد، گفتی."
     },
     {
       "VOrder": 8,
@@ -1545,7 +1549,8 @@
       "Text": "تو هشیار طریقت مست کردی",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: تو در مسیر عرفان آگاه و بیدار شده‌ای، ولی به کسانی که در قالب قواعد و اصول دینی هستند، بی‌احترامی کرده و آنها را بی‌توجه به حقیقت و معنا می‌انگاری."
     },
     {
       "VOrder": 10,
@@ -1561,7 +1566,8 @@
       "Text": "تو در عالم زدی لاف توکل",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: تو در دنیا از توکل سخن می‌گویی، اما به بی‌رحمی و ظلم به دیگران دامن زده‌ای و صبر را نادیده می‌گیری."
     },
     {
       "VOrder": 12,
@@ -1577,7 +1583,8 @@
       "Text": "تو گفتی سرّ توحید خداوند",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: تو می‌گویی که راز یکتایی خداوند را در عرفان و تصوف هیچ چیز دیگری نمی‌تواند بیان کند."
     },
     {
       "VOrder": 14,
@@ -1593,7 +1600,8 @@
       "Text": "تو کردی راز پنهان آشکارا",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: تو رازی را که پنهان بود، به روشنی آشکار کردی. حالا بیایید با هم درباره مفهوم خدا صحبت کنیم."
     },
     {
       "VOrder": 16,
@@ -1609,7 +1617,8 @@
       "Text": "که تا یابم وقوفی از معانی",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: می‌خواهم به درک عمیقی از معانی برسم تا در دانش و حکمت موفق شوم."
     },
     {
       "VOrder": 18,
@@ -1625,7 +1634,8 @@
       "Text": "بیا بر گو که منزلگاه آن یار",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: بیا بگو که محل زندگی آن کسی که دلش را در پنهان می‌بینم و از دید دیگران پنهان است کجاست."
     },
     {
       "VOrder": 20,
@@ -1641,7 +1651,8 @@
       "Text": "بیا برگو که آن روح روانم",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: بیا و به من بگو که آن روح لطیف من است که حتی با این نیمه جانم هم بر آن می‌افزایم."
     },
     {
       "VOrder": 22,
@@ -1657,7 +1668,8 @@
       "Text": "بیا برگو تو حال عاشقان را",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: بیا و تو حال عاشقانی را بگو که در راه خدا جان خود را فدا کردند."
     },
     {
       "VOrder": 24,
@@ -1673,7 +1685,8 @@
       "Text": "بیا برگو طریق فقر و درویش",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: بیا و راه زندگی فقیرانه و درویشی را بپیماییم، زیرا من دلی دارم که از درد خیلی رنج می‌برد."
     },
     {
       "VOrder": 26,
@@ -1689,7 +1702,8 @@
       "Text": "بیا برگو که انسان کیست در دهر",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: بیایید صحبت کنیم که انسان در جهان چه کسی است و در این دنیای بزرگ چه مفهومی دارد."
     },
     {
       "VOrder": 28,
@@ -1705,7 +1719,8 @@
       "Text": "بیا برگو زحال زهد و تقوی",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: بیایید از حال و وضعیت زهد و تقوی بگوییم و ببینیم که در این زمینه چه کسی حرف‌های بزرگ و ادعاهای خاصی دارد."
     },
     {
       "VOrder": 30,
@@ -1721,7 +1736,8 @@
       "Text": "بیا برگو که راه حق کدامست",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: بیا بگو که راه حقیقت چیست، چه کسی می‌تواند بگوید که دین به کمال رسیده است؟"
     },
     {
       "VOrder": 32,
@@ -1737,7 +1753,8 @@
       "Text": "بیا برگو که ناجی کیست در دین",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: بیا بگو که نجات‌دهنده در دین کیست، کسی که در این دریای خونین غرق می‌شود."
     },
     {
       "VOrder": 34,
@@ -1753,7 +1770,8 @@
       "Text": "بیا برگو که علم دین کدام است",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: بیا بگو که کدام علم برای دین ما اهمیت دارد و ثروت و مال دنیا بر چه کسانی حرام است."
     },
     {
       "VOrder": 36,
@@ -1769,7 +1787,8 @@
       "Text": "بیا برگو که این افلاک و ایوان",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: بیا ببین که این جهان و فضای بزرگ برای چه هدفی وجود دارد، مشابه چرخش دایره‌ای."
     },
     {
       "VOrder": 38,
@@ -1785,7 +1804,8 @@
       "Text": "بیا برگو که لذات جهان چیست",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: بیایید با هم بررسی کنیم که لذت‌های این دنیا چیست و در این خانه، روح و حقیقت انسان در کجاست."
     },
     {
       "VOrder": 40,
@@ -1801,7 +1821,8 @@
       "Text": "بیا برگو که سلطانان عادل",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: بیایید ببینیم که پادشاهان عادل با عدالت خود چه نتایجی به دست می‌آورند."
     },
     {
       "VOrder": 42,
@@ -1817,7 +1838,8 @@
       "Text": "بیا برگو ز حال شاه ظالم",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: بیا بگو از وضعیت شاه ظالم که آیا او به خاطر ظلمی که می‌کند مجرم است یا اینکه از این ظلم بی‌خبر و در امنیت قرار دارد؟"
     },
     {
       "VOrder": 44,
@@ -1833,7 +1855,8 @@
       "Text": "بیا برگو که خود حق را که دید او",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: بیا بگو که وقتی حق را شناخت، او چه نقشی در دریاچه‌ی گوهر پیدا کرد."
     },
     {
       "VOrder": 46,
@@ -1849,7 +1872,8 @@
       "Text": "بیا برگو که سر لو کشف چیست",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: بیا و بگو که نشانه‌های حقیقت چیست، و معناهای سخن من را تو چه می‌دانی؟"
     },
     {
       "VOrder": 48,
@@ -1865,7 +1889,8 @@
       "Text": "بیا برگو ز حال نوح و کشتی",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: بیایید درباره‌ی وضعیت نوح و کشتی او صحبت کنیم؛ اگر تو هم در کشتی نوح نشسته‌ای، حتماً از حال او باخبر هستی."
     },
     {
       "VOrder": 50,
@@ -1881,7 +1906,8 @@
       "Text": "بیا برگو سلیمانی کدامست",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: بیا و بگو که سلیمان کیست، چرا در حضور او پرندگان آرام هستند."
     },
     {
       "VOrder": 52,
@@ -1897,7 +1923,8 @@
       "Text": "بیا از حال قاضی گوی و مفتی",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: بیا از وضعیت قاضی و مفتی صحبت کن، چرا تو هم مثل آن‌ها خوابیده‌ای و از زندگی لذت نمی‌بری؟"
     },
     {
       "VOrder": 54,
@@ -1913,7 +1940,8 @@
       "Text": "بیا بر گو زحال احتسابم",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: بیا و از حال و روز من بگو که تا ساقی برایم جام شراب بیاورد."
     },
     {
       "VOrder": 56,
@@ -1929,7 +1957,8 @@
       "Text": "بیا برگو عوام الناس را حال",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: بیا تا به افرادی که درگیر پول و ثروت هستند، نگاهی بیندازیم."
     },
     {
       "VOrder": 58,
@@ -1945,7 +1974,8 @@
       "Text": "بیا برگو طریق اغنیا را",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: بیا و راه ثروتمندان را برای ما توضیح بده، و رازهای اولیا را آشکار کن."
     },
     {
       "VOrder": 60,
@@ -1961,7 +1991,8 @@
       "Text": "بیا برگو که آن زنده کجا شد",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: بیا بگو که آن فرد زنده کجا رفت که روح شیرینش از بدنش جدا شد؟"
     },
     {
       "VOrder": 62,
@@ -1977,7 +2008,8 @@
       "Text": "بیا برگو که از یک دین احمد",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: بیا بگو که از یک دین پیامبر احمد، هفتاد و دو ملت و گروه مختلف به وجود آمده‌اند."
     },
     {
       "VOrder": 64,
@@ -1993,7 +2025,8 @@
       "Text": "بیا برگو زعشق یار سرمست",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: بیا با هم درباره عشق محبوب صحبت کنیم، چرا که عشق او به ما تسلط پیداکرده و ما را درگیر کرده است."
     },
     {
       "VOrder": 66,
@@ -2009,7 +2042,8 @@
       "Text": "بیا برگو که سر راه با کیست",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: بیا بگو که در این مسیر، با چه کسی روبه‌رو هستیم و در این دو جهان چه کسی را می‌شناسیم."
     },
     {
       "VOrder": 68,
@@ -2025,7 +2059,8 @@
       "Text": "بیا برگو که زنده کیست جاوید",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: بیا و بگو که چه کسی همیشه زنده است، کسی که از او امیدواریم به زندگی."
     },
     {
       "VOrder": 70,
@@ -2041,7 +2076,8 @@
       "Text": "بیا برگو همه اسرار عالم",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: بیا و تمام رازهای جهان را برملا کن، چرا که در این رازها اقیانوس‌های بزرگی نهفته است."
     },
     {
       "VOrder": 72,
@@ -2057,7 +2093,8 @@
       "Text": "چو کرد این سی سؤال آن پیر از من",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: وقتی آن پیر از من این سی سوال را پرسید، سرم را پایین انداختم و در جیب دامنم گذاشتم."
     },
     {
       "VOrder": 74,
@@ -2073,7 +2110,8 @@
       "Text": "فتادم در تفکر کی الهم",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: من در اندیشه‌ام که کی به یاری من خواهی آمد، تویی که پشتوانه و پناه من هستی."
     },
     {
       "VOrder": 76,
@@ -2089,7 +2127,8 @@
       "Text": "بهر چیزی که دارد از تو نامی",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که چیزی از تو دارد، از من سوالی در مورد آن مطرح کرد."
     },
     {
       "VOrder": 78,
@@ -2105,7 +2144,8 @@
       "Text": "تو ای دریای اسرار نهانی",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: ای دریای پر از رازهای پنهان، من که مسکینم نمی‌دانم تو چه می‌دانی."
     },
     {
       "VOrder": 80,
@@ -2121,7 +2161,8 @@
       "Text": "تو گویا کن به فضل خود زبانم",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: خواهش می‌کنم، با فضل و کرم خود، به من قدرت بیان و درک بده تا بتوانم رازها و نکات پنهانت را بفهمم."
     },
     {
       "VOrder": 82,
@@ -2137,7 +2178,8 @@
       "Text": "ز من پرسد تمام سر پنهان",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: از من بپرس که در دل چه secretos و رازهایی نهفته است، بپرس از من که چه حکمت‌هایی در رفتار و گفتار بزرگترها وجود دارد."
     },
     {
       "VOrder": 84,
@@ -2153,7 +2195,8 @@
       "Text": "سؤال اوست از اسرار منصور",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: سوال او درباره‌ی رازهای منصور و همچنین پرسش از موسی و کوه طور است."
     },
     {
       "VOrder": 86,
@@ -2169,7 +2212,8 @@
       "Text": "مرا پرسد ز مشکل‌های عالم",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: از من درباره دشواری‌های دنیا و وضعیت انسان‌ها می‌پرسند، به ویژه در مورد گندم و زندگی آدمی."
     },
     {
       "VOrder": 88,
@@ -2185,7 +2229,8 @@
       "Text": "مرا گفتی نگو اسرارها را",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: به من گفتی رازها را بیان نکن و به راه پیامبر و امام علی اشاره نکن."
     },
     {
       "VOrder": 90,
@@ -2201,7 +2246,8 @@
       "Text": "مرا کی زهرهٔ اسرار گفتن",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: آیا من توانایی بیان اسرار حقایق و روش حیدر کرار را دارم؟"
     },
     {
       "VOrder": 92,
@@ -2217,7 +2263,8 @@
       "Text": "مرا پرسی که راه حق کدام است",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: می‌پرسی راه درست کدام است، اما تو که می‌دانی در عالم، همه چیز به طور کامل وجود دارد."
     },
     {
       "VOrder": 94,
@@ -2233,7 +2280,8 @@
       "Text": "کرا قدرت بود بی امر جبار",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: کسی که طاقت و قدرت داشته باشد، بدون فرمان خداوند، نمی‌تواند به طور واضح درباره این موضوع صحبت کند."
     },
     {
       "VOrder": 96,
@@ -2249,7 +2297,8 @@
       "Text": "مرا می‌پرسد از آن پیر کامل",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: مرا از آن فرد باتجربه‌ای می‌پرسد که نسبت به همه چیز آگاه است و می‌خواهد بداند که پس کیست که از این ماجرا بی‌خبر است."
     },
     {
       "VOrder": 98,
@@ -2265,7 +2314,8 @@
       "Text": "مرا پرسد ز هفتاد و دو ملت",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: مرا می‌پرسند که چرا با وجود هفتاد و دو ملت مختلف، تنها یک حقیقت وجود دارد و بقیه موارد چه دلیلی دارند."
     },
     {
       "VOrder": 100,
@@ -2281,7 +2331,8 @@
       "Text": "دگر پرسد سلیمانی چه چیز است",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: سلیمان دیگر می‌پرسد که چه چیزی وجود دارد که به اندازه‌ی یوسف مصری ارزشمند و محترم است."
     },
     {
       "VOrder": 102,
@@ -2297,7 +2348,8 @@
       "Text": "نکردی تو سلیمانی چه دانی",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: تو هرگز مثل سلیمان کاری نکردی، پس چه چیزی از اسرار عشق و سلطنت می‌دانی؟"
     },
     {
       "VOrder": 104,
@@ -2313,7 +2365,8 @@
       "Text": "رموز مرغ و مور و وحش صحرا",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "هوش مصنوعی: رموز زندگی و رفتار پرندگان و حیوانات صحرا چیست که تنها سلیمان به آن آگاه است؟"
     },
     {
       "VOrder": 106,
@@ -2329,7 +2382,8 @@
       "Text": "رموز مار و مور و ماهی و طیر",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "هوش مصنوعی: من تمام اسرار و معانی مربوط به مار، مور، ماهی و پرنده را در کتابی به نام \u0022منطق الطیر\u0022 بیان کرده‌ام."
     },
     {
       "VOrder": 108,
@@ -2345,7 +2399,8 @@
       "Text": "میان انبیا این سر نهانست",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "هوش مصنوعی: در بین پیامبران، این حقیقت پنهان است، اما در میان اولیا آشکار و مشخص است."
     },
     {
       "VOrder": 110,
@@ -2361,7 +2416,8 @@
       "Text": "دگر پرسد ز حال قاضی ما",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "هوش مصنوعی: یکی دیگر از مردم درباره وضعیت قاضی ما سوال می‌کند که او به قوانین پیامبر آگاه است، اما در میان هیاهو و آشفتگی قرار دارد."
     },
     {
       "VOrder": 112,
@@ -2377,7 +2433,8 @@
       "Text": "ز شیخ و قاضی و مفتی چه گویم",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "هوش مصنوعی: نمی‌دانم از چه کسی درباره‌ی راه و روش حضرت مرتضی بپرسم، چون از نظر من، شیخ، قاضی و مفتی چیزی برای گفتن ندارند."
     },
     {
       "VOrder": 114,
@@ -2393,7 +2450,8 @@
       "Text": "بخود بربسته‌اند شرع نبی را",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "هوش مصنوعی: عده‌ای به اصول و قواعد دین پیامبر چنگ زده‌اند، اما از وجود امام حق و جانشین او بی‌خبرند."
     },
     {
       "VOrder": 116,
@@ -2409,7 +2467,8 @@
       "Text": "شریعت را گرفته‌اند به ظاهر",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد که برخی افراد به سمت ظواهر دین و شریعت روی آورده‌اند، اما در عمل، به حقیقت و عمق آن اعتقادی ندارند و شخصیت‌های بزرگی همچون مرتضی را نمی‌شناسند یا نادیده می‌گیرند."
     },
     {
       "VOrder": 118,
@@ -2425,7 +2484,8 @@
       "Text": "دگر پرسد ز اهل احتسابم",
       "CoupletIndex": 59,
       "SectionIndex1": 0,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "هوش مصنوعی: دیگری از اهل حساب و کتاب از من می‌پرسد که چرا اجازه نمی‌دهند در نوشیدن شرابم آزاد باشم."
     },
     {
       "VOrder": 120,
@@ -2441,7 +2501,8 @@
       "Text": "جواب این سؤال از من نیاید",
       "CoupletIndex": 60,
       "SectionIndex1": 0,
-      "SectionIndex2": 62
+      "SectionIndex2": 62,
+      "CoupletSummary": "هوش مصنوعی: من نمی‌توانم به این سؤال پاسخ دهم، زیرا این راز را نمی‌توانم برملا کنم."
     },
     {
       "VOrder": 122,
@@ -2457,7 +2518,8 @@
       "Text": "همه عالم ازین آزار دارند",
       "CoupletIndex": 61,
       "SectionIndex1": 0,
-      "SectionIndex2": 63
+      "SectionIndex2": 63,
+      "CoupletSummary": "هوش مصنوعی: همه انسان‌ها از این درد و رنج رنج می‌برند و در پیشگاه خداوند به خاطر این سخن و این وضعیت شکایت دارند."
     },
     {
       "VOrder": 124,
@@ -2473,7 +2535,8 @@
       "Text": "دگر پرسد عوام الناس چونند",
       "CoupletIndex": 62,
       "SectionIndex1": 0,
-      "SectionIndex2": 64
+      "SectionIndex2": 64,
+      "CoupletSummary": "هوش مصنوعی: مردم عادی می‌پرسند که چرا در زمینه‌ی علم باطن و درون‌نگری ناتوانند."
     },
     {
       "VOrder": 126,
@@ -2489,7 +2552,8 @@
       "Text": "عوام الناس را احوال مشکل",
       "CoupletIndex": 63,
       "SectionIndex1": 0,
-      "SectionIndex2": 65
+      "SectionIndex2": 65,
+      "CoupletSummary": "هوش مصنوعی: وضعیت مردم عادی پیچیده و دشوار است و آنان در مشکلات خود گرفتار مانده‌اند."
     },
     {
       "VOrder": 128,
@@ -2505,7 +2569,8 @@
       "Text": "عوام الناس این معنی ندانند",
       "CoupletIndex": 64,
       "SectionIndex1": 0,
-      "SectionIndex2": 66
+      "SectionIndex2": 66,
+      "CoupletSummary": "هوش مصنوعی: عموم مردم این مفهوم را درک نمی‌کنند و در این مورد فقط در حرف‌ها و ادعاهای خود باقی می‌مانند."
     },
     {
       "VOrder": 130,
@@ -2521,7 +2586,8 @@
       "Text": "عوام الناس خود خود را زبون کرد",
       "CoupletIndex": 65,
       "SectionIndex1": 0,
-      "SectionIndex2": 67
+      "SectionIndex2": 67,
+      "CoupletSummary": "هوش مصنوعی: مردم عادی خود را در وضعیت ناتوانی قرار دادند و به دریا و عمق جهل و نادانی سقوط کردند."
     },
     {
       "VOrder": 132,
@@ -2537,7 +2603,8 @@
       "Text": "دگر پرسد که حال اولیا چیست",
       "CoupletIndex": 66,
       "SectionIndex1": 0,
-      "SectionIndex2": 68
+      "SectionIndex2": 68,
+      "CoupletSummary": "هوش مصنوعی: سؤال دیگری مطرح می‌شود که حال و وضعیت اولیای خدا چگونه است و بعد از پیامبر اسلام، امام دین کیست؟"
     },
     {
       "VOrder": 134,
@@ -2553,7 +2620,8 @@
       "Text": "نباشد حد این گفتار کس را",
       "CoupletIndex": 67,
       "SectionIndex1": 0,
-      "SectionIndex2": 69
+      "SectionIndex2": 69,
+      "CoupletSummary": "هوش مصنوعی: هیچ کس نمی‌تواند حد و مرزی برای این سخن تعیین کند و من نمی‌توانم در دل خود این آرزو را کنار بگذارم."
     },
     {
       "VOrder": 136,
@@ -2569,7 +2637,8 @@
       "Text": "دگر پرسد کی آدم از جهان رفت",
       "CoupletIndex": 68,
       "SectionIndex1": 0,
-      "SectionIndex2": 70
+      "SectionIndex2": 70,
+      "CoupletSummary": "هوش مصنوعی: سوالی نیست که آیا انسان از این دنیا رفته است، او به مقام و افتخاری در جهان ابدی دست یافته است."
     },
     {
       "VOrder": 138,
@@ -2585,7 +2654,8 @@
       "Text": "بگو آن آدم و گندم کدام است",
       "CoupletIndex": 69,
       "SectionIndex1": 0,
-      "SectionIndex2": 71
+      "SectionIndex2": 71,
+      "CoupletSummary": "هوش مصنوعی: بگو آن شخص و گندم چه ارتباطی با هم دارند و چرا در مسیر آن دانه، دام و فریبی وجود دارد؟"
     },
     {
       "VOrder": 140,
@@ -2601,7 +2671,8 @@
       "Text": "بگویم زین سخن ای یار محرم",
       "CoupletIndex": 70,
       "SectionIndex1": 0,
-      "SectionIndex2": 72
+      "SectionIndex2": 72,
+      "CoupletSummary": "هوش مصنوعی: بگویم از این موضوع، ای دوست که به این رازها آگاه هستی، بسیار کم هستند کسانی که همراه و همدل من باشند."
     },
     {
       "VOrder": 142,
@@ -2617,7 +2688,8 @@
       "Text": "دگر پرسد ز عشق یار سرمست",
       "CoupletIndex": 71,
       "SectionIndex1": 0,
-      "SectionIndex2": 73
+      "SectionIndex2": 73,
+      "CoupletSummary": "هوش مصنوعی: دیگری از سر خوشی و شوقِ عشق معشوق می‌پرسد که رازهای او را بگو، همان‌طور که خود اوست."
     },
     {
       "VOrder": 144,
@@ -2633,7 +2705,8 @@
       "Text": "بده جامی از آن آب حیاتم",
       "CoupletIndex": 72,
       "SectionIndex1": 0,
-      "SectionIndex2": 74
+      "SectionIndex2": 74,
+      "CoupletSummary": "هوش مصنوعی: به من جامی از آب زندگی بده تا از درد و رنج مرگ رهایی یابم."
     },
     {
       "VOrder": 146,
@@ -2649,7 +2722,8 @@
       "Text": "ز مرگ جهل تا من زنده گردم",
       "CoupletIndex": 73,
       "SectionIndex1": 0,
-      "SectionIndex2": 75
+      "SectionIndex2": 75,
+      "CoupletSummary": "هوش مصنوعی: به این معناست که تا زمانی که جهل و نادانی از بین نرود و من زنده بمانم، در میان عاشقان با خوشحالی و شادی زندگی می‌کنم."
     },
     {
       "VOrder": 148,
@@ -2665,7 +2739,8 @@
       "Text": "ندارم این سئوالت را جوابی",
       "CoupletIndex": 74,
       "SectionIndex1": 0,
-      "SectionIndex2": 76
+      "SectionIndex2": 76,
+      "CoupletSummary": "هوش مصنوعی: من پاسخی برای پرسشت ندارم، زیرا از این منبع هیچ آبی نخورده‌ام."
     },
     {
       "VOrder": 150,
@@ -2681,7 +2756,8 @@
       "Text": "بگوید این به فضل خود خداوند",
       "CoupletIndex": 75,
       "SectionIndex1": 0,
-      "SectionIndex2": 77
+      "SectionIndex2": 77,
+      "CoupletSummary": "هوش مصنوعی: بگوید که خداوند با رحمت و لطف خود، قفل این غم و نگرانی را از دل من باز کند."
     },
     {
       "VOrder": 152,
@@ -2697,7 +2773,8 @@
       "Text": "دگر گوید ز سر کار برگو",
       "CoupletIndex": 76,
       "SectionIndex1": 0,
-      "SectionIndex2": 78
+      "SectionIndex2": 78,
+      "CoupletSummary": "هوش مصنوعی: او می‌گوید که دیگر از کارهای گذشته صحبت نکن و به دل بیدار خود توجه کن."
     },
     {
       "VOrder": 154,
@@ -2713,7 +2790,8 @@
       "Text": "مرا آگاه کن از سر این راه",
       "CoupletIndex": 77,
       "SectionIndex1": 0,
-      "SectionIndex2": 79
+      "SectionIndex2": 79,
+      "CoupletSummary": "هوش مصنوعی: مرا از اسرار این مسیر آگاه کن که کسی به درستی از رازهای خداوند مطلع باشد."
     },
     {
       "VOrder": 156,
@@ -2729,7 +2807,8 @@
       "Text": "هر آن کو واقف سر اله ست",
       "CoupletIndex": 78,
       "SectionIndex1": 0,
-      "SectionIndex2": 80
+      "SectionIndex2": 80,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که به حقیقت و شناخت عمیق الهی آگاه باشد، می‌تواند به بزرگان و علمای صوفی همچون جنید، شبلی و کرخی گواهی دهد."
     },
     {
       "VOrder": 158,
@@ -2745,7 +2824,8 @@
       "Text": "جنید و بایزید آگاه بودند",
       "CoupletIndex": 79,
       "SectionIndex1": 0,
-      "SectionIndex2": 81
+      "SectionIndex2": 81,
+      "CoupletSummary": "هوش مصنوعی: جنید و بایزید به قوانین و احکام اسلام آگاهی داشتند و در مسیر خود به این اصول پایبند بودند."
     },
     {
       "VOrder": 160,
@@ -2761,7 +2841,8 @@
       "Text": "طریق مرتضا را راه بردند",
       "CoupletIndex": 80,
       "SectionIndex1": 0,
-      "SectionIndex2": 82
+      "SectionIndex2": 82,
+      "CoupletSummary": "هوش مصنوعی: به طریقی که امام علی (ع) شناخته شده است، او را از این جهان دور کردند و دل‌های آگاه و بیدار را به سمت او هدایت کردند."
     },
     {
       "VOrder": 162,
@@ -2777,7 +2858,8 @@
       "Text": "برو ای یار این سر را نگهدار",
       "CoupletIndex": 81,
       "SectionIndex1": 0,
-      "SectionIndex2": 83
+      "SectionIndex2": 83,
+      "CoupletSummary": "هوش مصنوعی: به دوست بگو که این رازها را حفظ کند و به دیگران نگوید."
     },
     {
       "VOrder": 164,
@@ -2793,7 +2875,8 @@
       "Text": "به اول پرسی از اسرار آن یار",
       "CoupletIndex": 82,
       "SectionIndex1": 0,
-      "SectionIndex2": 84
+      "SectionIndex2": 84,
+      "CoupletSummary": "هوش مصنوعی: در ابتدا از رازهای آن عزیز سوال می‌کنم که او را پنهانی می‌بینم و دیگران از وجود او بی‌خبرند."
     },
     {
       "VOrder": 166,
@@ -2809,7 +2892,8 @@
       "Text": "جواب این سخن سر نهانست",
       "CoupletIndex": 83,
       "SectionIndex1": 0,
-      "SectionIndex2": 85
+      "SectionIndex2": 85,
+      "CoupletSummary": "هوش مصنوعی: پاسخ این حرف در درون خود نهفته است، اما آن معشوق به وضوح در دنیا جلوه‌گر است."
     },
     {
       "VOrder": 168,
@@ -2825,7 +2909,8 @@
       "Text": "بود روشن‌تر از خورشید تابان",
       "CoupletIndex": 84,
       "SectionIndex1": 0,
-      "SectionIndex2": 86
+      "SectionIndex2": 86,
+      "CoupletSummary": "هوش مصنوعی: روشن‌تر از خورشید است، اما نادانی به‌دلیل جهلش آن را انکار می‌کند."
     },
     {
       "VOrder": 170,
@@ -2841,7 +2926,8 @@
       "Text": "به سان آفتابست در جهان فاش",
       "CoupletIndex": 85,
       "SectionIndex1": 0,
-      "SectionIndex2": 87
+      "SectionIndex2": 87,
+      "CoupletSummary": "هوش مصنوعی: مثل آفتاب است که در جهان، روشنایی خود را آشکار کرده و نمی‌تواند به خاطر دیدن چشم خفاش، تاب و توانایی خود را پنهان کند."
     },
     {
       "VOrder": 172,
@@ -2857,7 +2943,8 @@
       "Text": "نمی‌دانند همچون ظلمت از نور",
       "CoupletIndex": 86,
       "SectionIndex1": 0,
-      "SectionIndex2": 88
+      "SectionIndex2": 88,
+      "CoupletSummary": "هوش مصنوعی: آنان نمی‌دانند که مانند تاریکی از روشنی، چه‌قدر ممکن است چیزهایی از چشم پنهان باشند."
     },
     {
       "VOrder": 174,
@@ -2873,7 +2960,8 @@
       "Text": "حقیقت منزل او لا مکانست",
       "CoupletIndex": 87,
       "SectionIndex1": 0,
-      "SectionIndex2": 89
+      "SectionIndex2": 89,
+      "CoupletSummary": "هوش مصنوعی: حقیقت، جایی ندارد و فراتر از محدودیت‌های زمین و آسمان است."
     },
     {
       "VOrder": 176,
@@ -2889,7 +2977,8 @@
       "Text": "مقام او بود اندر همه جا",
       "CoupletIndex": 88,
       "SectionIndex1": 0,
-      "SectionIndex2": 90
+      "SectionIndex2": 90,
+      "CoupletSummary": "هوش مصنوعی: مقام و جایگاه او در همه جا وجود دارد و هیچ مکانی خالی از حضور او نیست."
     },
     {
       "VOrder": 178,
@@ -2905,7 +2994,8 @@
       "Text": "همه شیئ بذات اوست هستی",
       "CoupletIndex": 89,
       "SectionIndex1": 0,
-      "SectionIndex2": 91
+      "SectionIndex2": 91,
+      "CoupletSummary": "هوش مصنوعی: تمام موجودات از وجود او سرچشمه می‌گیرند، چه آنهایی که در مقام بالا قرار دارند و چه آنهایی که در مقام پایین."
     },
     {
       "VOrder": 180,
@@ -2921,7 +3011,8 @@
       "Text": "اگر خالی شود از وی مقامی",
       "CoupletIndex": 90,
       "SectionIndex1": 0,
-      "SectionIndex2": 92
+      "SectionIndex2": 92,
+      "CoupletSummary": "هوش مصنوعی: اگر از وجود او جایی خالی باشد، نه حالتی از شگفتی خواهی داشت و نه نام و نشانی می‌توانی پیدا کنی."
     },
     {
       "VOrder": 182,
@@ -2937,7 +3028,8 @@
       "Text": "دو عالم از وجود اوست موجود",
       "CoupletIndex": 91,
       "SectionIndex1": 0,
-      "SectionIndex2": 93
+      "SectionIndex2": 93,
+      "CoupletSummary": "هوش مصنوعی: دو جهان به وجود او پا برجا هستند و هر چیزی که می‌بینی، از اوست و وجود دارد."
     },
     {
       "VOrder": 184,
@@ -2953,7 +3045,8 @@
       "Text": "به باطن این چنین میدان که گفتم",
       "CoupletIndex": 92,
       "SectionIndex1": 0,
-      "SectionIndex2": 94
+      "SectionIndex2": 94,
+      "CoupletSummary": "هوش مصنوعی: به عمق موضوعی که به آن اشاره کردم آگاه باش، در حالی که در ظاهر موضوع را از دید پنهان می‌کنم."
     },
     {
       "VOrder": 186,
@@ -2969,7 +3062,8 @@
       "Text": "کنون با تو بگویم گر بدانی",
       "CoupletIndex": 93,
       "SectionIndex1": 0,
-      "SectionIndex2": 95
+      "SectionIndex2": 95,
+      "CoupletSummary": "هوش مصنوعی: حالا می‌خواهم با تو صحبت کنم، اگر از نادانی‌ها مطلع باشی، این مفاهیم را از من پنهان کن."
     },
     {
       "VOrder": 188,
@@ -2985,7 +3079,8 @@
       "Text": "ازو باشد حقیقت هستی ما",
       "CoupletIndex": 94,
       "SectionIndex1": 0,
-      "SectionIndex2": 96
+      "SectionIndex2": 96,
+      "CoupletSummary": "هوش مصنوعی: وجود ما به حقیقتی بستگی دارد که از او نشأت می‌گیرد و او در وجود ما جای دارد."
     },
     {
       "VOrder": 190,
@@ -3001,7 +3096,8 @@
       "Text": "بما نزدیک‌تر از ماست آن یار",
       "CoupletIndex": 95,
       "SectionIndex1": 0,
-      "SectionIndex2": 97
+      "SectionIndex2": 97,
+      "CoupletSummary": "هوش مصنوعی: یار ما به ما نزدیک‌تر است، اما فقط کسی می‌تواند این را درک کند که از خود و درونش خبر داشته باشد."
     },
     {
       "VOrder": 192,
@@ -3017,7 +3113,8 @@
       "Text": "تو گر خواهی که بینی روی دلدار",
       "CoupletIndex": 96,
       "SectionIndex1": 0,
-      "SectionIndex2": 98
+      "SectionIndex2": 98,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی چهره محبوبت را ببینی، باید به دنبال چیزی باشی که نماد و نماینده معانی پنهان است."
     },
     {
       "VOrder": 194,
@@ -3033,7 +3130,8 @@
       "Text": "به مظهر چونکه ره بردی امینی",
       "CoupletIndex": 97,
       "SectionIndex1": 0,
-      "SectionIndex2": 99
+      "SectionIndex2": 99,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که وقتی در زندگی به حقیقت و واقعیات نزدیک می‌شوی، آن وقت است که می‌توانی به عشق و معشوق خود واقعی‌تر نگاه کنی و او را بهتر بشناسی."
     },
     {
       "VOrder": 196,
@@ -3049,7 +3147,8 @@
       "Text": "به چشم جان بباید دید نورش",
       "CoupletIndex": 98,
       "SectionIndex1": 0,
-      "SectionIndex2": 100
+      "SectionIndex2": 100,
+      "CoupletSummary": "هوش مصنوعی: برای درک واقعی نور و وجود او، باید با چشم دل به او بنگری، تا همیشه در حضوری معنوی و روحانی احساس کنی که او در هر جا با توست."
     },
     {
       "VOrder": 198,
@@ -3065,7 +3164,8 @@
       "Text": "چه دانستی به معنی مظهر نور",
       "CoupletIndex": 99,
       "SectionIndex1": 0,
-      "SectionIndex2": 101
+      "SectionIndex2": 101,
+      "CoupletSummary": "هوش مصنوعی: چه می‌دانی که در حقیقت، نمایاننده نور باشی مثل منصور؟"
     },
     {
       "VOrder": 200,
@@ -3081,7 +3181,8 @@
       "Text": "شوی اندر معانی همچو انوار",
       "CoupletIndex": 100,
       "SectionIndex1": 0,
-      "SectionIndex2": 102
+      "SectionIndex2": 102,
+      "CoupletSummary": "هوش مصنوعی: به گونه‌ای در معناها غرق شو که همچون نورها درخشانی و توانایی بیان حقیقت را داشته باشی، حتی اگر این حقیقت را بر سر دار حقیقت بگویی."
     },
     {
       "VOrder": 202,
@@ -3097,7 +3198,8 @@
       "Text": "نموده در همه جا مظهر نور",
       "CoupletIndex": 101,
       "SectionIndex1": 0,
-      "SectionIndex2": 103
+      "SectionIndex2": 103,
+      "CoupletSummary": "هوش مصنوعی: او در همه جا جلوه‌ای از نور را به نمایش گذاشته است، اما نادانی باعث شده که او از این نور دور بماند و نتواند آن را درک کند."
     },
     {
       "VOrder": 204,
@@ -3113,7 +3215,8 @@
       "Text": "به چشم جان ببین آن نور مظهر",
       "CoupletIndex": 102,
       "SectionIndex1": 0,
-      "SectionIndex2": 104
+      "SectionIndex2": 104,
+      "CoupletSummary": "هوش مصنوعی: به باطن خود نگاه کن و آن نور را ببین که نشان‌دهنده‌ی حقیقت است، تا آن را در چهره‌ی حیدر (علی) مشاهده کنی."
     },
     {
       "VOrder": 206,
@@ -3129,7 +3232,8 @@
       "Text": "به چشم جان نگه کن روی جانان",
       "CoupletIndex": 103,
       "SectionIndex1": 0,
-      "SectionIndex2": 105
+      "SectionIndex2": 105,
+      "CoupletSummary": "هوش مصنوعی: به عمق وجودت نگاه کن و زیبایی معشوق را ببین تا بتوانی حقیقت و عطر او را درک کنی."
     },
     {
       "VOrder": 208,
@@ -3145,7 +3249,8 @@
       "Text": "به چشم جان بباید دید رویش",
       "CoupletIndex": 104,
       "SectionIndex1": 0,
-      "SectionIndex2": 106
+      "SectionIndex2": 106,
+      "CoupletSummary": "هوش مصنوعی: برای درک معنای واقعی او باید با چشم دل به او نگاه کرد، تا بتوانی به عمق و حقیقت وجودش برسید."
     },
     {
       "VOrder": 210,
@@ -3161,7 +3266,8 @@
       "Text": "بود حیدر حقیقت مظهر نور",
       "CoupletIndex": 105,
       "SectionIndex1": 0,
-      "SectionIndex2": 107
+      "SectionIndex2": 107,
+      "CoupletSummary": "هوش مصنوعی: حیدر در حقیقت نماد روشنی و نور در جهان است و مانند خورشید به شهرت رسیده است."
     },
     {
       "VOrder": 212,
@@ -3177,7 +3283,8 @@
       "Text": "حقیقت بین شو و در وی نظر کن",
       "CoupletIndex": 106,
       "SectionIndex1": 0,
-      "SectionIndex2": 108
+      "SectionIndex2": 108,
+      "CoupletSummary": "هوش مصنوعی: به واقعیت توجه کن و به آن نگاه کن. از وجود خودت چشم پوشی کن و تنها به او توجه داشته باش."
     },
     {
       "VOrder": 214,
@@ -3193,7 +3300,8 @@
       "Text": "به معنی گر تو بردی ره بدان نور",
       "CoupletIndex": 107,
       "SectionIndex1": 0,
-      "SectionIndex2": 109
+      "SectionIndex2": 109,
+      "CoupletSummary": "هوش مصنوعی: اگر تو به معنای حقیقی و روشنایی راه بیابی، هرچقدر هم که از آن نور دور باشی، در صورتی که نزدیک او باشی، راه را بهتر می‌شناسی."
     },
     {
       "VOrder": 216,
@@ -3209,7 +3317,8 @@
       "Text": "اگر ره بردی و از وی تو دوری",
       "CoupletIndex": 108,
       "SectionIndex1": 0,
-      "SectionIndex2": 110
+      "SectionIndex2": 110,
+      "CoupletSummary": "هوش مصنوعی: اگر از کسی که به او وابسته هستی دور شوی، در حقیقت و واقعیت، از وجود او فاصله گرفته‌ای."
     },
     {
       "VOrder": 218,
@@ -3225,7 +3334,8 @@
       "Text": "مرا در جان و دل آن یار باشد",
       "CoupletIndex": 109,
       "SectionIndex1": 0,
-      "SectionIndex2": 111
+      "SectionIndex2": 111,
+      "CoupletSummary": "هوش مصنوعی: آن یار در جان و دل من است و به جز او از هیچ‌کس خوشنود نیستم."
     },
     {
       "VOrder": 220,
@@ -3241,7 +3351,8 @@
       "Text": "حقیقت در زبانم اوست گویا",
       "CoupletIndex": 110,
       "SectionIndex1": 0,
-      "SectionIndex2": 112
+      "SectionIndex2": 112,
+      "CoupletSummary": "هوش مصنوعی: حقیقت در سخنان من مانند نوری است که در چشمانم وجود دارد و همه چیز را به روشنی می‌بیند."
     },
     {
       "VOrder": 222,
@@ -3257,7 +3368,8 @@
       "Text": "تو او را گر شناسی راه یابی",
       "CoupletIndex": 111,
       "SectionIndex1": 0,
-      "SectionIndex2": 113
+      "SectionIndex2": 113,
+      "CoupletSummary": "هوش مصنوعی: اگر او را بشناسی، به حقیقت پی می‌بری و می‌توانی مظهر خداوند را بیابی."
     },
     {
       "VOrder": 224,
@@ -3273,7 +3385,8 @@
       "Text": "تو بشناس آنکه او از نور ذاتست",
       "CoupletIndex": 112,
       "SectionIndex1": 0,
-      "SectionIndex2": 114
+      "SectionIndex2": 114,
+      "CoupletSummary": "هوش مصنوعی: شخصی را بشناس که وجودش از نور و روشنایی سرچشمه می‌گیرد و در ویژگی‌ها و صفاتش به وضوح در دنیا نمایان است."
     },
     {
       "VOrder": 226,
@@ -3289,7 +3402,8 @@
       "Text": "تو بشناس آنکه مقصود جهان است",
       "CoupletIndex": 113,
       "SectionIndex1": 0,
-      "SectionIndex2": 115
+      "SectionIndex2": 115,
+      "CoupletSummary": "هوش مصنوعی: شخصی را بشناس که هدف اصلی زندگی و جهان به شمار می‌رود و در واقع رهبری آن گروه را برعهده دارد."
     },
     {
       "VOrder": 228,
@@ -3305,7 +3419,8 @@
       "Text": "تو بشناس آنکه حق او را ولی خواند",
       "CoupletIndex": 114,
       "SectionIndex1": 0,
-      "SectionIndex2": 116
+      "SectionIndex2": 116,
+      "CoupletSummary": "هوش مصنوعی: تو کسی را بشناس که او را ولی می‌نامند و پیامبر بعد از او، او را جانشین خود معرفی کرده است."
     },
     {
       "VOrder": 230,
@@ -3321,7 +3436,8 @@
       "Text": "تو بشناس آنکه او در عین دیده است",
       "CoupletIndex": 115,
       "SectionIndex1": 0,
-      "SectionIndex2": 117
+      "SectionIndex2": 117,
+      "CoupletSummary": "هوش مصنوعی: شخصی را بشناس که در حالی که همه چیز را مشاهده می‌کند، کلیدهای فهم و معنای عمیق را در دست دارد."
     },
     {
       "VOrder": 232,
@@ -3337,7 +3453,8 @@
       "Text": "تو بشناس آنکه او باب النجاتست",
       "CoupletIndex": 116,
       "SectionIndex1": 0,
-      "SectionIndex2": 118
+      "SectionIndex2": 118,
+      "CoupletSummary": "هوش مصنوعی: باید کسی را بشناسی که او دروازه نجات است، زیرا به فرمان او زندگی و مرگ وجود دارد."
     },
     {
       "VOrder": 234,
@@ -3353,7 +3470,8 @@
       "Text": "تو بشناس آنکه او را جمله جود است",
       "CoupletIndex": 117,
       "SectionIndex1": 0,
-      "SectionIndex2": 119
+      "SectionIndex2": 119,
+      "CoupletSummary": "هوش مصنوعی: شخصی را بشناس که تمام نیکی‌ها و سخاوت‌ها در وجود او متجلی است و او هم در روح و جان خود سخاوت دارد و هم در ظاهری که به دنیا نشان می‌دهد."
     },
     {
       "VOrder": 236,
@@ -3369,7 +3487,8 @@
       "Text": "تو بشناس آنکه او هادی دین است",
       "CoupletIndex": 118,
       "SectionIndex1": 0,
-      "SectionIndex2": 120
+      "SectionIndex2": 120,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که او کسی را بشناس که هدایت‌گر دین است و به درستی بدان که او بهترین و برترین پیامبران است."
     },
     {
       "VOrder": 238,
@@ -3385,7 +3504,8 @@
       "Text": "تو بشناس آنکه او پیر مغانست",
       "CoupletIndex": 119,
       "SectionIndex1": 0,
-      "SectionIndex2": 121
+      "SectionIndex2": 121,
+      "CoupletSummary": "هوش مصنوعی: تو باید آن کسی را بشناسی که از عارفان و زاهدان بزرگ است و سخنان او بدون کلام و زبان، معانی عمیق را منتقل می‌کند."
     },
     {
       "VOrder": 240,
@@ -3401,7 +3521,8 @@
       "Text": "تو بشناس آنکه بس اسرار او گفت",
       "CoupletIndex": 120,
       "SectionIndex1": 0,
-      "SectionIndex2": 122
+      "SectionIndex2": 122,
+      "CoupletSummary": "هوش مصنوعی: شخصی را بشناس که رازهای بسیار او را فاش کرده و درباره لباس و نورهای او سخن گفته است."
     },
     {
       "VOrder": 242,
@@ -3417,7 +3538,8 @@
       "Text": "بود آن کو محمد بود جانش",
       "CoupletIndex": 121,
       "SectionIndex1": 0,
-      "SectionIndex2": 123
+      "SectionIndex2": 123,
+      "CoupletSummary": "هوش مصنوعی: آن کس که جانش مانند محمد (ص) است، در مکان جدا شدن روح از بدنش، دهانش بوسیده شده است."
     },
     {
       "VOrder": 244,
@@ -3433,7 +3555,8 @@
       "Text": "بدان بوسه به او اسرارها گفت",
       "CoupletIndex": 122,
       "SectionIndex1": 0,
-      "SectionIndex2": 124
+      "SectionIndex2": 124,
+      "CoupletSummary": "هوش مصنوعی: بوسه‌ای که به او دادم، افشا کننده بسیاری از رازها بود و او به عنوان سرور اسرار، به من گفت."
     },
     {
       "VOrder": 246,
@@ -3449,7 +3572,8 @@
       "Text": "هم او سردار باشد انبیا را",
       "CoupletIndex": 123,
       "SectionIndex1": 0,
-      "SectionIndex2": 125
+      "SectionIndex2": 125,
+      "CoupletSummary": "هوش مصنوعی: او هم فرمانده پیامبران است و هم پیشوای اولیا."
     },
     {
       "VOrder": 248,
@@ -3465,7 +3589,8 @@
       "Text": "امیرالمؤمنین اسم وی آمد",
       "CoupletIndex": 124,
       "SectionIndex1": 0,
-      "SectionIndex2": 126
+      "SectionIndex2": 126,
+      "CoupletSummary": "هوش مصنوعی: امیرالمؤمنین نام اوست و داستان او از دل نی برخاسته است."
     },
     {
       "VOrder": 250,
@@ -3481,7 +3606,8 @@
       "Text": "امیرالمؤمنین آمد امامم",
       "CoupletIndex": 125,
       "SectionIndex1": 0,
-      "SectionIndex2": 127
+      "SectionIndex2": 127,
+      "CoupletSummary": "هوش مصنوعی: امیرالمؤمنین به عنوان پیشوای من آمده است و محبت او در قلبم همچون جانم جا دارد."
     },
     {
       "VOrder": 252,
@@ -3497,7 +3623,8 @@
       "Text": "امیرالمؤمنین است نور یزدان",
       "CoupletIndex": 126,
       "SectionIndex1": 0,
-      "SectionIndex2": 128
+      "SectionIndex2": 128,
+      "CoupletSummary": "هوش مصنوعی: امیرالمؤمنین وجودی الهی و نورانی است که از جانب خداوند می‌درخشد و سخنان و نفس او به پیامبر مصطفی نسبت داده شده است."
     },
     {
       "VOrder": 254,
@@ -3513,7 +3640,8 @@
       "Text": "امیرالمؤمنین است نور یزدان",
       "CoupletIndex": 127,
       "SectionIndex1": 0,
-      "SectionIndex2": 129
+      "SectionIndex2": 129,
+      "CoupletSummary": "هوش مصنوعی: امیرالمؤمنین تجلی نور خداوند است و او از جمله افراد دانا و آگاه به حقیقت‌ها است."
     },
     {
       "VOrder": 256,
@@ -3529,7 +3657,8 @@
       "Text": "امیرالمؤمنین است اصل آدم",
       "CoupletIndex": 128,
       "SectionIndex1": 0,
-      "SectionIndex2": 130
+      "SectionIndex2": 130,
+      "CoupletSummary": "هوش مصنوعی: امیرالمؤمنین، یعنی پیشوای مؤمنان، پایه‌گذار و ریشه آدم است و اوست که مایه افتخار و فضیلت آدم به شمار می‌رود."
     },
     {
       "VOrder": 258,
@@ -3545,7 +3674,8 @@
       "Text": "امیرالمؤمنین روح روانم",
       "CoupletIndex": 129,
       "SectionIndex1": 0,
-      "SectionIndex2": 131
+      "SectionIndex2": 131,
+      "CoupletSummary": "هوش مصنوعی: این جمله بیان می‌کند که وجود امیرالمؤمنین در دل و جان گوینده به قدری پررنگ و عمیق است که او را به کلام و سخن وادار می‌کند. به عبارت دیگر، عشق و ارادت به ایشان چنان در وجود او نفوذ کرده که ایشان را در سخنانش مشهود می‌سازد."
     },
     {
       "VOrder": 260,
@@ -3561,7 +3691,8 @@
       "Text": "امیرالمؤمنین دانای سرها",
       "CoupletIndex": 130,
       "SectionIndex1": 0,
-      "SectionIndex2": 132
+      "SectionIndex2": 132,
+      "CoupletSummary": "هوش مصنوعی: امیرالمؤمنین کسی است که بسیار آگاه و دلسوز است و نیکویی‌های او در وجود انسان‌ها نمایان است."
     },
     {
       "VOrder": 262,
@@ -3577,7 +3708,8 @@
       "Text": "امیرالمؤمنین را دان که شاهست",
       "CoupletIndex": 131,
       "SectionIndex1": 0,
-      "SectionIndex2": 133
+      "SectionIndex2": 133,
+      "CoupletSummary": "هوش مصنوعی: امیرالمؤمنین را بشناس که برای من مانند پادشاه است و در تمام مشکلات، پناهم می‌دهد."
     },
     {
       "VOrder": 264,
@@ -3593,7 +3725,8 @@
       "Text": "امیرالمؤمنین است اسم اعظم",
       "CoupletIndex": 132,
       "SectionIndex1": 0,
-      "SectionIndex2": 134
+      "SectionIndex2": 134,
+      "CoupletSummary": "هوش مصنوعی: امیرالمؤمنین به عنوان بزرگترین عنوان در میان مؤمنان شناخته می‌شود و همچنین نام او بر روی انگشتری نقش بسته است."
     },
     {
       "VOrder": 266,
@@ -3609,7 +3742,8 @@
       "Text": "امیرالمؤمنین راه طریقت",
       "CoupletIndex": 133,
       "SectionIndex1": 0,
-      "SectionIndex2": 135
+      "SectionIndex2": 135,
+      "CoupletSummary": "هوش مصنوعی: رئیس مؤمنان، راهی برای رسیدن به طریقت و سیر و سلوک است و همچنین به عنوان منبعی عمیق از حقیقت‌ها شناخته می‌شود."
     },
     {
       "VOrder": 268,
@@ -3625,7 +3759,8 @@
       "Text": "امیرالمؤمنین است اصل ایمان",
       "CoupletIndex": 134,
       "SectionIndex1": 0,
-      "SectionIndex2": 136
+      "SectionIndex2": 136,
+      "CoupletSummary": "هوش مصنوعی: امیرالمؤمنین، ریشه و بنیاد ایمان است و همچنین مانند ماهی درخشان و تابان در آسمان است."
     },
     {
       "VOrder": 270,
@@ -3641,7 +3776,8 @@
       "Text": "امیرالمؤمنین قهار آمد",
       "CoupletIndex": 135,
       "SectionIndex1": 0,
-      "SectionIndex2": 137
+      "SectionIndex2": 137,
+      "CoupletSummary": "هوش مصنوعی: ولایت و رهبری پرقدرت و سرسخت به عرصه آمده است و فرمانروایی است که توانایی و اقتدار زیادی دارد."
     },
     {
       "VOrder": 272,
@@ -3657,7 +3793,8 @@
       "Text": "امیرالمؤمنین در حکم محکم",
       "CoupletIndex": 136,
       "SectionIndex1": 0,
-      "SectionIndex2": 138
+      "SectionIndex2": 138,
+      "CoupletSummary": "هوش مصنوعی: امیرالمؤمنین در مقام خود بسیار محکم و استوار است و روح او همیشه در کنار او قرار دارد."
     },
     {
       "VOrder": 274,
@@ -3673,7 +3810,8 @@
       "Text": "امیرالمؤمنین را تو چه دانی",
       "CoupletIndex": 137,
       "SectionIndex1": 0,
-      "SectionIndex2": 139
+      "SectionIndex2": 139,
+      "CoupletSummary": "هوش مصنوعی: تو نمی‌دانی که چقدر در دل و جان امیرالمؤمنین از دشمنی‌ها و کینه‌ها رنجیده است."
     },
     {
       "VOrder": 276,
@@ -3689,7 +3827,8 @@
       "Text": "ز بغضش راه دوزخ پیش گیری",
       "CoupletIndex": 138,
       "SectionIndex1": 0,
-      "SectionIndex2": 140
+      "SectionIndex2": 140,
+      "CoupletSummary": "هوش مصنوعی: اگر او را از کینه‌اش دور کنی، راه جهنم را گرفته‌ای؛ اما اگر در ولایت و حسن او قرار بگیری، جانت را فدای او خواهی کرد."
     },
     {
       "VOrder": 278,
@@ -3705,7 +3844,8 @@
       "Text": "تو را ایمان و دین از وی تمام است",
       "CoupletIndex": 139,
       "SectionIndex1": 0,
-      "SectionIndex2": 141
+      "SectionIndex2": 141,
+      "CoupletSummary": "هوش مصنوعی: ایمان و دین تو از او کامل است، زیرا او در هر دو جهان پیشوای راستین است."
     },
     {
       "VOrder": 280,
@@ -3721,7 +3861,8 @@
       "Text": "درین عالم بسی من راه دیدم",
       "CoupletIndex": 140,
       "SectionIndex1": 0,
-      "SectionIndex2": 142
+      "SectionIndex2": 142,
+      "CoupletSummary": "هوش مصنوعی: در این دنیا راه‌های زیادی را دیده‌ام، اما در واقعیت، همه این مسیرها را با دیده‌ای از جایگاه و مقام خودم بررسی کرده‌ام."
     },
     {
       "VOrder": 282,
@@ -3737,7 +3878,8 @@
       "Text": "بغیر از راه او کان راه حق است",
       "CoupletIndex": 141,
       "SectionIndex1": 0,
-      "SectionIndex2": 143
+      "SectionIndex2": 143,
+      "CoupletSummary": "هوش مصنوعی: غیر از راه او، هیچ راهی به حقیقت نمی‌رسد و تمامی راه‌های دیگر فقط فریب و مکر هستند."
     },
     {
       "VOrder": 284,
@@ -3753,7 +3895,8 @@
       "Text": "به معنی اهل دین را راه وحدت",
       "CoupletIndex": 142,
       "SectionIndex1": 0,
-      "SectionIndex2": 144
+      "SectionIndex2": 144,
+      "CoupletSummary": "هوش مصنوعی: اهل دیانت برای رسیدن به وحدت دو مسیر دارند: یکی مسیر طریقت که به سیر و سلوک معنوی اشاره دارد و دیگری مسیر شریعت که به قوانین و اصول دین مربوط می‌شود."
     },
     {
       "VOrder": 286,
@@ -3769,7 +3912,8 @@
       "Text": "ترا از سر حق آگاه کردم",
       "CoupletIndex": 143,
       "SectionIndex1": 0,
-      "SectionIndex2": 145
+      "SectionIndex2": 145,
+      "CoupletSummary": "هوش مصنوعی: من تو را از حقیقت باخبر کردم و در این موضوع سخن را خلاصه کردم."
     },
     {
       "VOrder": 288,
@@ -3785,7 +3929,8 @@
       "Text": "دگر پرسی حدیث عاشقان را",
       "CoupletIndex": 144,
       "SectionIndex1": 0,
-      "SectionIndex2": 146
+      "SectionIndex2": 146,
+      "CoupletSummary": "هوش مصنوعی: از تو می‌خواهم تا درباره عاشقان و شیوه‌های آنان بپرسی، زیرا شیوه عاشقان، فدای جانشان است."
     },
     {
       "VOrder": 290,

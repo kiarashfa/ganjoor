@@ -811,7 +811,8 @@
       "Text": "جهان را گوهر و آیین چنین است",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: دنیا دارای ارزش‌ها و قواعدی است که بر اساس آن، موجودات هم‌جنس و مشابه به یکدیگر، به دلایل مختلف ممکن است با هم دچار کینه و دشمنی شوند."
     },
     {
       "VOrder": 2,
@@ -827,7 +828,8 @@
       "Text": "هر آن کس را که او خواند براند",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که خداوند او را دعوت کند، از او دور می‌شود و هر چیزی که خداوند به او بدهد، دریافت می‌کند."
     },
     {
       "VOrder": 4,
@@ -843,7 +845,8 @@
       "Text": "بود تلخش همیشه جفت شیرین",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: زندگی انسان همیشه همراه با تلخی و شیرینی است، همان‌طور که آفرینش و نفرین در کنار یکدیگر وجود دارند."
     },
     {
       "VOrder": 6,
@@ -859,7 +862,8 @@
       "Text": "شبش با روز باشد ناز با رنج",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: شب و روز با هم ناز و رنج را تجربه می‌کنند؛ در حالی که خوشی و بدخواهی در کنار ثروت قرار می‌گیرد."
     },
     {
       "VOrder": 8,
@@ -875,7 +879,8 @@
       "Text": "نباسد شادمانی بی نژندی",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: شادمانی واقعی بدون احساس عمیق درست نیست و پیروزی نیز بدون داشتن شفافیت و هدف معنایی ندارد."
     },
     {
       "VOrder": 10,
@@ -891,7 +896,8 @@
       "Text": "بخوان این داستان ویس و رامین",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: این داستان ویس و رامین را بخوان و در دنیای خود به طور متنوع به اوضاع و احوال جهان نگاه کن."
     },
     {
       "VOrder": 12,
@@ -907,7 +913,8 @@
       "Text": "گهی اندوه و گه شادی ننوده",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: گاهی انسان با اندوه مواجه می‌شود و گاهی شادی را تجربه می‌کند. او یک زمان با بدخواهی روبروست و زمان دیگر دوستی را در کنار دارد."
     },
     {
       "VOrder": 14,
@@ -923,7 +930,8 @@
       "Text": "چو شاهنشاه دل خوش کرد با ویس",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: وقتی پادشاه دل را شاد کرد، با ویس دیگر، شیطان در میان راه ظهور کرد."
     },
     {
       "VOrder": 16,
@@ -939,7 +947,8 @@
       "Text": "فُروکُشت آن چراغ مهربانی",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: چراغ مهربانی خاموش شده و از ریشه درخت شادی زیر و زبر شده است."
     },
     {
       "VOrder": 18,
@@ -955,7 +964,8 @@
       "Text": "شهنشه موبد از قیصر خبر یافت",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: شاه موبد از قیصر مطلع شد که قیصر دیگر به محبت و دوستی علاقه‌ای ندارد."
     },
     {
       "VOrder": 20,
@@ -971,7 +981,8 @@
       "Text": "ز بدراهی نهادی دیگر آورد",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: به خاطر انحرافی که پیش آمد، شخصی دیگر به خودخواهی و طمع خود غلبه کرد و از مشکلات و محدودیت‌ها خارج شد."
     },
     {
       "VOrder": 22,
@@ -987,7 +998,8 @@
       "Text": "همه پیمانهای کرده بشکست",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: بسیاری از عهد و پیمان‌هایی که بسته شده بود، شکسته شد و این موضوع باعث شد که کسانی که قدرت و مقام داشتند، به ستوه بیایند و نتوانند از پس آن برآیند."
     },
     {
       "VOrder": 24,
@@ -1003,7 +1015,8 @@
       "Text": "ز روم آمد سپاهی سوی ایران",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: سربازانی از روم به سوی ایران آمدند و سرزمین‌های پر آباد را ویران کردند."
     },
     {
       "VOrder": 26,
@@ -1019,7 +1032,8 @@
       "Text": "نفیر آمد به درگاه شهنشاه",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: صدای ناله‌ای از درگاه پادشاه به گوش می‌رسد، در حالی که برف‌نشینان بر روی خاک درگاه ایستاده‌اند."
     },
     {
       "VOrder": 28,
@@ -1035,7 +1049,8 @@
       "Text": "خروشان سربه‌سر فریاد خواهان",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: همه‌ی بیدادکشیدگان به طور سرشار و با صدای بلند از ظلم و ستم زمانه شکوه و فریاد می‌کنند."
     },
     {
       "VOrder": 30,
@@ -1051,7 +1066,8 @@
       "Text": "شهنشه رای زد رفتن به پیگار",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: شاه تصمیم به جنگ گرفت و از باغ پادشاهی، تمام خاشاک‌ها و زواید را پاک کرد."
     },
     {
       "VOrder": 32,
@@ -1067,7 +1083,8 @@
       "Text": "به شاهان و بزرگان نامه‌ها کرد",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: نامه‌هایی به شاهان و بزرگان فرستاد که از هر شهری یک گروه به کمک بیاید."
     },
     {
       "VOrder": 34,
@@ -1083,7 +1100,8 @@
       "Text": "سپه گرد آمد اندر مرو چندان",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: سپاه در مرو جمع شده‌اند به قدری که دشت مرو برای آن‌ها کوچک شده است."
     },
     {
       "VOrder": 36,
@@ -1099,7 +1117,8 @@
       "Text": "ز درگاهش بر آمد نالهٔ نای",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: از درگاه او صدای نالهٔ نی بلند شد و شاه لشکر به حرکت درآمد."
     },
     {
       "VOrder": 38,
@@ -1115,7 +1134,8 @@
       "Text": "سفر باد خزان شد مرو گلزار",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: فصل سفر به پایان رسید و به محضی که باد وزید، دیگر نه گل‌ها باقی ماندند و نه میوه‌ها."
     },
     {
       "VOrder": 40,
@@ -1131,7 +1151,8 @@
       "Text": "چو بیرون برد شاهنشاه لشکر",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: زمانی که شاهنشاه لشکر را بیرون برد، به یادش آمد که کار ویس و دلبر او چه بوده است."
     },
     {
       "VOrder": 42,
@@ -1147,7 +1168,8 @@
       "Text": "که رامین را چگونه دوستدارست",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: دل رامین چگونه و با چه احساسی دوستش دارد و چطور با او سازگار است؟"
     },
     {
       "VOrder": 44,
@@ -1163,7 +1185,8 @@
       "Text": "به نادانی ز من بگریخت یک بار",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: نادانی از من فرار کرد و باعث شد که یک بار بی‌صبر و بی‌دل شوم و یار نداشته باشم."
     },
     {
       "VOrder": 46,
@@ -1179,7 +1202,8 @@
       "Text": "اگر یک ره دگر چونان گریزد",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: اگر بار دیگر مانند گذشته از من دور شود، با تیغ جدایی خون من را روی زمین بریزد."
     },
     {
       "VOrder": 48,
@@ -1195,7 +1219,8 @@
       "Text": "پس آن به کش نگه دارم بدین بار",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: من این بار را به دوش می‌کشم و قید و بند آن را نگه می‌دارم، چون از تلاش برای به دست آوردنش بسیار غم و اندوه کشیده‌ام."
     },
     {
       "VOrder": 50,
@@ -1211,7 +1236,8 @@
       "Text": "جدایی را نیارم دید ازین پس",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: من نمی‌خواهم دیگر جدایی را ببینم؛ همین یک بار که آن را مشاهده کردم برایم کافی است."
     },
     {
       "VOrder": 52,
@@ -1227,7 +1253,8 @@
       "Text": "هر آنگاهی که باشد مرد هشیار",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: هر چه شرایط و اوضاع برای فردی پیش بیاید، اگر او با احتیاط و هوشیاری رفتار کند، هرگز اجازه نخواهد داد که دوباره طعمه‌ی خطر شود."
     },
     {
       "VOrder": 54,
@@ -1243,7 +1270,8 @@
       "Text": "شتر را بی گمان زانو ببستن",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: بستن زانو به شتر کار آسان‌تری است نسبت به پیدا کردن چیزی که گم شده باشد."
     },
     {
       "VOrder": 56,
@@ -1259,7 +1287,8 @@
       "Text": "چو زین اندیشها با دل همی راند",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: وقتی که دل به تفکرات و اندیشه‌ها مشغول باشد، در همان لحظه زرد فرخ زاده را صدا زد."
     },
     {
       "VOrder": 58,
@@ -1275,7 +1304,8 @@
       "Text": "بدو گفت ای گرانمایه برادر",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: به او گفت: ای برادر گرانقدر، برای من مانند جان و چشمم ارزشمندی."
     },
     {
       "VOrder": 60,
@@ -1291,7 +1321,8 @@
       "Text": "نگر تا تو چنین کردار دیدی",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: اگر تو چنین رفتاری را دیدی یا از هیچ فرد با دانشی شنیدی، توجه کن."
     },
     {
       "VOrder": 62,
@@ -1307,7 +1338,8 @@
       "Text": "که چندین بار با من کرد رامین",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: رامین بارها به من محبت کرده و دلم را از عشقش سیراب کرده است. این عشق برای من شیرین و دلپذیر است."
     },
     {
       "VOrder": 64,
@@ -1323,7 +1355,8 @@
       "Text": "همه ساله همی سوزد بر آذر",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: هر ساله آتش شعله می‌کشد بر آذر به خاطر دایه، ویس و برادر."
     },
     {
       "VOrder": 66,
@@ -1339,7 +1372,8 @@
       "Text": "بمانده‌ستم به دست این سه جادو",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: من گرفتار این سه جادو هستم و هیچ دارویی نمی‌تواند به من کمک کند."
     },
     {
       "VOrder": 68,
@@ -1355,7 +1389,8 @@
       "Text": "نه از بند و نه از زندان بترسند",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: آنها نه از اسارت و نه از زندان ترسی دارند، نه از جهنم و نه از خداوند هراسی به دل راه می‌دهند."
     },
     {
       "VOrder": 70,
@@ -1371,7 +1406,8 @@
       "Text": "چه شاید کرد با سه دیو دژحیم",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: چه کار می‌توان کرد با سه دیوانی که از شرم آگاهی دارند و از ترس چیزهایی نمی‌کنند؟"
     },
     {
       "VOrder": 72,
@@ -1387,7 +1423,8 @@
       "Text": "کند بی شرم هر کاری که خواهد",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: هر کسی بدون خجالت هر کاری که می‌خواهد انجام می‌دهد و از عواقب آن نمی‌ترسد، زیرا تأثیر چندانی بر او نخواهد داشت."
     },
     {
       "VOrder": 74,
@@ -1403,7 +1440,8 @@
       "Text": "اگرچه شاه شاهان جهانم",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: با وجود اینکه من در میان پادشاهان برتر هستم، اما کسی را بیچاره‌تر از خود نمی‌شناسم."
     },
     {
       "VOrder": 76,
@@ -1419,7 +1457,8 @@
       "Text": "چه سودست این خداوندی و شاهی",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: چه فایده‌ای دارد اینکه من مقام خداوندی یا سلطنت دارم، اگر روزگار من به‌طور کامل از تاریکی و غم پر باشد؟"
     },
     {
       "VOrder": 78,
@@ -1435,7 +1474,8 @@
       "Text": "همه کس را به گیتی من دهم داد",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: من به هر کس در دنیا چیزی می‌دهم، اما از سرنوشت خودم با صد نوع درد و فریاد رنج می‌برم."
     },
     {
       "VOrder": 80,
@@ -1451,7 +1491,8 @@
       "Text": "ستم دیده ز من مردان صف در",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: مردانی که تحت ستم من قرار گرفته‌اند، اکنون به خاطر ظلم من به زنی تبدیل شده‌اند."
     },
     {
       "VOrder": 82,
@@ -1467,7 +1508,8 @@
       "Text": "همه بیداد من هست از دل من",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: دل من به خاطر عشق، به دشمنی علیه خودم تبدیل شده و این همه سختی‌ها و بیدادهایی که می‌کشم، از دل خودم ناشی می‌شود."
     },
     {
       "VOrder": 84,
@@ -1483,7 +1525,8 @@
       "Text": "جهان از بهر آن بد نام خواهد",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: دنیا به خاطر نام بدی که دارد، خواهد بر آن که خون من نیز در جام قرار گیرد."
     },
     {
       "VOrder": 86,
@@ -1499,7 +1542,8 @@
       "Text": "سیه شد روی نام من به یک ننگ",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: روی من به خاطر یک ننگ، سیاه شده است و هیچ آب و پاکی، حتی آب صد دریا، نمی‌تواند این آلودگی را از بین ببرد."
     },
     {
       "VOrder": 88,
@@ -1515,7 +1559,8 @@
       "Text": "ز یک سو زن مرا دشمن گرفته",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: از یک طرف، زنی به عنوان دشمن من شناخته شده است و از سوی دیگر، نام من به نام خورشید تغییر یافته و مشهور شده است."
     },
     {
       "VOrder": 90,
@@ -1531,7 +1576,8 @@
       "Text": "ز دیگر سو کمین کرده برادر",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: از طرف دیگر، برادرم برای انتقام بر جان من آماده شده و خنجر را در دست دارد."
     },
     {
       "VOrder": 92,
@@ -1547,7 +1593,8 @@
       "Text": "نهاده چشم تا کی دست یابد",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: نگاه کرده‌ام که تا چه زمانی می‌توانم صبر کنم، زیرا همچون دشمنی که به کشتن من بی‌تاب است، در کارم urgency وجود دارد."
     },
     {
       "VOrder": 94,
@@ -1563,7 +1610,8 @@
       "Text": "ندانم چون بود فرجام کارم",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: نمی‌دانم سرانجام کارم چه خواهد شد و روزگارم با من چه رفتاری خواهد داشت."
     },
     {
       "VOrder": 96,
@@ -1579,7 +1627,8 @@
       "Text": "درین اندیشه روز و شب چنانم",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: در این خیال روز و شب به سر می‌برم که گویی روح من در کنارم نیست."
     },
     {
       "VOrder": 98,
@@ -1595,7 +1644,8 @@
       "Text": "جرا جویم به صد فرسنگ دشمن",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: چرا باید برای دشمنی که در خانه‌ام است، به دنبال آن در دور دست‌ها بروم؟"
     },
     {
       "VOrder": 100,
@@ -1611,7 +1661,8 @@
       "Text": "به در بستن چرا جویم بهانه",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: چرا به دنبال دلیلی برای بستن در می‌گردم، در حالی که مشکل من از خود خانه آغاز شده و به اینجا رسیده است؟"
     },
     {
       "VOrder": 102,
@@ -1627,7 +1678,8 @@
       "Text": "به پیری در بلایی اوفتادم",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: در پیری به وضعیتی سخت و مشکل دچار شدم که آنقدر غمگین و ناامید بودم که تمام دنیا از یادم رفته بود."
     },
     {
       "VOrder": 104,
@@ -1643,7 +1695,8 @@
       "Text": "کنون باید همی رفتن به پیگار",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "هوش مصنوعی: اکنون باید به سفر رفتن و درگیر ماجرا شدن، زیرا ویس ناچار در اینجا بماند."
     },
     {
       "VOrder": 106,
@@ -1659,7 +1712,8 @@
       "Text": "حصار آهین و بند رویین",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "هوش مصنوعی: دیواری از آهن و زنجیر می‌سازند تا چهره رامین را تماشا کنند."
     },
     {
       "VOrder": 108,
@@ -1675,7 +1729,8 @@
       "Text": "ندانم هیچ چاره جز یکی کار",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "هوش مصنوعی: من هیچ چاره‌ای نمی‌دانم جز اینکه رامین را با خود به جنگ ببرم."
     },
     {
       "VOrder": 110,
@@ -1691,7 +1746,8 @@
       "Text": "بمانم ویس را ایدر غریوان",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "هوش مصنوعی: من در اینجا منتظر هستم تا ویس را ملاقات کنم، او در دز اشکفت، در شرایطی دشوار و دور از من، به سر می‌برد."
     },
     {
       "VOrder": 112,
@@ -1707,7 +1763,8 @@
       "Text": "چو باشد رام در ره ویس در بند",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "هوش مصنوعی: وقتی که آدمی در مسیر عشقِ کسی گرفتار شده باشد، هیچ‌گونه پیوندی نمی‌تواند او را آزاد کند."
     },
     {
       "VOrder": 114,
@@ -1723,7 +1780,8 @@
       "Text": "ولیکن دز به تو خواهم سپردن",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "هوش مصنوعی: اما باید به تو اعتماد کنم؛ باید با آرامش و توجه از تو مراقبت کنم."
     },
     {
       "VOrder": 116,
@@ -1739,7 +1797,8 @@
       "Text": "دل من بر تو دارد استواری",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "هوش مصنوعی: دل من به تو اعتماد دارد، چرا که در هر کاری به دقت و هوشیاری عمل می‌کنی."
     },
     {
       "VOrder": 118,
@@ -1755,7 +1814,8 @@
       "Text": "نباید مر ترا گفتن که چون کن",
       "CoupletIndex": 59,
       "SectionIndex1": 0,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "هوش مصنوعی: نباید به تو بگویم که چطور باید رفتار کنی، اما هر کاری که انجام می‌دهی، باید با هوشیاری و آگاهی بیشتری باشد."
     },
     {
       "VOrder": 120,
@@ -1771,7 +1831,8 @@
       "Text": "نگه دار این دو جادو را در آن دز",
       "CoupletIndex": 60,
       "SectionIndex1": 0,
-      "SectionIndex2": 62
+      "SectionIndex2": 62,
+      "CoupletSummary": "هوش مصنوعی: این دو جادو را حفظ کن و در آن مکان نامناسبی که پر از رنگ و مشکلات است، قرار مده."
     },
     {
       "VOrder": 122,
@@ -1787,7 +1848,8 @@
       "Text": "دو صد منزل زمین پیمود خواهم",
       "CoupletIndex": 61,
       "SectionIndex1": 0,
-      "SectionIndex2": 63
+      "SectionIndex2": 63,
+      "CoupletSummary": "هوش مصنوعی: من قصد دارم با نیکوکاری، راهی طولانی را طی کنم تا نام نیک خود را بیشتر کنم."
     },
     {
       "VOrder": 124,
@@ -1803,7 +1865,8 @@
       "Text": "چو رامین نزد ویس آید به نیزنگ",
       "CoupletIndex": 62,
       "SectionIndex1": 0,
-      "SectionIndex2": 64
+      "SectionIndex2": 64,
+      "CoupletSummary": "هوش مصنوعی: وقتی رامین به نزد ویس می‌رسد، نامی که به دنبالش هستم، تبدیل به ننگی می‌شود که باید از آن پرهیز کنم."
     },
     {
       "VOrder": 126,
@@ -1819,7 +1882,8 @@
       "Text": "اگرچه خانه‌کن باشد دوصد کس",
       "CoupletIndex": 63,
       "SectionIndex1": 0,
-      "SectionIndex2": 65
+      "SectionIndex2": 65,
+      "CoupletSummary": "هوش مصنوعی: اگرچه ممکن است بسیاری بخواهند مسیر زندگی کسی را تغییر دهند، اما فقط یک نفر می‌تواند واقعاً تأثیرگذار باشد و تغییرات عمیق‌تری را ایجاد کند."
     },
     {
       "VOrder": 128,
@@ -1835,7 +1899,8 @@
       "Text": "مرا سه جادو اندر خانگاهند",
       "CoupletIndex": 64,
       "SectionIndex1": 0,
-      "SectionIndex2": 66
+      "SectionIndex2": 66,
+      "CoupletSummary": "هوش مصنوعی: من را در جایی به دام انداخته‌اند که سه جادو و فریب وجود دارد و آن‌ها در تلاشند تا مرا به دروغ و نیرنگ بکشند."
     },
     {
       "VOrder": 130,
@@ -1851,7 +1916,8 @@
       "Text": "ز دیوان گر هزاران لشکر آیند",
       "CoupletIndex": 65,
       "SectionIndex1": 0,
-      "SectionIndex2": 67
+      "SectionIndex2": 67,
+      "CoupletSummary": "هوش مصنوعی: اگر هزاران سپاه از دیوان بیایند، این سه جادو به مراتب بالاتر و قوی‌تر خواهند بود."
     },
     {
       "VOrder": 132,
@@ -1867,7 +1933,8 @@
       "Text": "مرا چونان که تو دیدی ببستند",
       "CoupletIndex": 66,
       "SectionIndex1": 0,
-      "SectionIndex2": 68
+      "SectionIndex2": 68,
+      "CoupletSummary": "هوش مصنوعی: مرا به گونه‌ای که تو دیدی، محبوس کردند و امید شادی‌ام را در دل شکستند."
     },
     {
       "VOrder": 134,
@@ -1883,7 +1950,8 @@
       "Text": "به تنبل جامهٔ صبرم بریدند",
       "CoupletIndex": 67,
       "SectionIndex1": 0,
-      "SectionIndex2": 69
+      "SectionIndex2": 69,
+      "CoupletSummary": "هوش مصنوعی: آنها با بی‌حوصلگی و بی‌اعتنایی، صبر و آرامش من را از من گرفتند و به شکلی زشت و ناپسند، نام و شهرت من را مخدوش کردند."
     },
     {
       "VOrder": 136,
@@ -1899,7 +1967,8 @@
       "Text": "نبیند غرقه از دریای جوشان",
       "CoupletIndex": 68,
       "SectionIndex1": 0,
-      "SectionIndex2": 70
+      "SectionIndex2": 70,
+      "CoupletSummary": "هوش مصنوعی: بشر نمی‌تواند به درستی عمق و شدت احساسات و تجربیات من بپردازد و آنچه را که من از این مسائل درک کرده‌ام، نمی‌تواند بفهمد."
     },
     {
       "VOrder": 138,
@@ -1915,7 +1984,8 @@
       "Text": "چو بشنید این سخن زرد از شهنشاه",
       "CoupletIndex": 69,
       "SectionIndex1": 0,
-      "SectionIndex2": 71
+      "SectionIndex2": 71,
+      "CoupletSummary": "هوش مصنوعی: وقتی زرد speech این سخن را از پادشاه شنید، به او گفت: ای کسی که در دانش از ماه هم برتری!"
     },
     {
       "VOrder": 140,
@@ -1931,7 +2001,8 @@
       "Text": "منه بر دل تو چندین بار تیمار",
       "CoupletIndex": 70,
       "SectionIndex1": 0,
-      "SectionIndex2": 72
+      "SectionIndex2": 72,
+      "CoupletSummary": "هوش مصنوعی: دلخوشی‌های زیادی را بر دل خود نبار، زیرا بیمار، با این همه دل‌نگرانی به افسردگی دچار می‌شود."
     },
     {
       "VOrder": 142,
@@ -1947,7 +2018,8 @@
       "Text": "زنی باری که باشد تا تو چندین",
       "CoupletIndex": 71,
       "SectionIndex1": 0,
-      "SectionIndex2": 73
+      "SectionIndex2": 73,
+      "CoupletSummary": "هوش مصنوعی: زن بهانه‌ای است که تو چرا این‌قدر درباره‌اش ناله و گله می‌کنی و اشک می‌ریزی؟"
     },
     {
       "VOrder": 144,
@@ -1963,7 +2035,8 @@
       "Text": "گر او در جادوی جز اهرمن نیست",
       "CoupletIndex": 72,
       "SectionIndex1": 0,
-      "SectionIndex2": 74
+      "SectionIndex2": 74,
+      "CoupletSummary": "هوش مصنوعی: اگر او در جادوگری جز شیطان نیست، کسی در زیر دست من ذلیل‌تر از او وجود ندارد."
     },
     {
       "VOrder": 146,
@@ -1979,7 +2052,8 @@
       "Text": "نیابد هیچ بادی نزد او راه",
       "CoupletIndex": 73,
       "SectionIndex1": 0,
-      "SectionIndex2": 75
+      "SectionIndex2": 75,
+      "CoupletSummary": "هوش مصنوعی: هیچ بادی نمی‌تواند به او نزدیک شود و زیبایی‌هایش، مانند خورشید و ماه، را تحت تأثیر قرار دهد."
     },
     {
       "VOrder": 148,
@@ -1995,7 +2069,8 @@
       "Text": "نبیند تا تو باز آیی ز پیگار",
       "CoupletIndex": 74,
       "SectionIndex1": 0,
-      "SectionIndex2": 76
+      "SectionIndex2": 76,
+      "CoupletSummary": "هوش مصنوعی: تا تو برنگردی، در آن دژ هیچ‌کس و هیچ سرزمینی وجود ندارد."
     },
     {
       "VOrder": 150,
@@ -2011,7 +2086,8 @@
       "Text": "نگه دارم من آن جادو صنم را",
       "CoupletIndex": 75,
       "SectionIndex1": 0,
-      "SectionIndex2": 77
+      "SectionIndex2": 77,
+      "CoupletSummary": "هوش مصنوعی: من آن معشوق جادوگر را حفظ می‌کنم، چون مردم بی‌ارزش، مال من را دارند."
     },
     {
       "VOrder": 152,
@@ -2027,7 +2103,8 @@
       "Text": "گرامی دارمش همواره چونان",
       "CoupletIndex": 76,
       "SectionIndex1": 0,
-      "SectionIndex2": 78
+      "SectionIndex2": 78,
+      "CoupletSummary": "هوش مصنوعی: همواره او را گرامی بدار، همان‌طور که افراد آزاد و بااحترام از مهمان خود پذیرایی می‌کنند."
     },
     {
       "VOrder": 154,
@@ -2043,7 +2120,8 @@
       "Text": "شهنشه در زمان با هفتصد گرد",
       "CoupletIndex": 77,
       "SectionIndex1": 0,
-      "SectionIndex2": 79
+      "SectionIndex2": 79,
+      "CoupletSummary": "هوش مصنوعی: شخصی بزرگ و مشهور در زمان خود به سفر طولانی و خطرناکی رفت و دختر زیبایی را به دزدید."
     },
     {
       "VOrder": 156,

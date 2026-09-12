@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "این ماه که جا به بام دارد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این ماهی که بر بام است، چهره‌ای دارد که مانند ماه کامل زیباست."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "من نام ندانمش بگوئید",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بفرمایید بگویید این ماهی که در ملاقات قدردان او هستم، چه نامی دارد."
     },
     {
       "VOrder": 4,
@@ -54,7 +56,8 @@
       "Position": "Right",
       "Text": "از منظر دیده گرچه دور است",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچند از نظر دیدن دور به نظر می‌رسد، اما در دل و درون انسان جایگاه والایی دارد."
     },
     {
       "VOrder": 6,
@@ -68,7 +71,8 @@
       "Position": "Right",
       "Text": "چون قامت او کجا بود سرو",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چون قامت او را می‌بینم، درخت سرو به نظر نمی‌رسد؛ نه زیبایی خاصی دارد و نه به نرمی و دلربایی حرکت می‌کند."
     },
     {
       "VOrder": 8,
@@ -82,7 +86,8 @@
       "Position": "Right",
       "Text": "سودای وصال می پزد دل",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل بیچاره در آرزوی وصال محبوب است و در این آرزو در حال رنج و درد می‌گذرد. اما این خیال و آرزو به واقعیت نمی‌پیوندد و به نوعی تنها یک خیال خام و دور از دسترس باقی می‌ماند."
     },
     {
       "VOrder": 10,
@@ -96,7 +101,8 @@
       "Position": "Right",
       "Text": "گر بنده سگ توام چرا غیر",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر من بنده‌ی تو هستم، پس چرا غیر از اینجا در هیچ‌جا دیگر جایگاهی ندارم؟"
     },
     {
       "VOrder": 12,
@@ -110,7 +116,8 @@
       "Position": "Right",
       "Text": "احوال رفیق می توان یافت",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌توان از درد و سوزی که در سخنان دوست وجود دارد، به وضعیت او پی برد."
     },
     {
       "VOrder": 14,

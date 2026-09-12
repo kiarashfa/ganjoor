@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "امروز تو را دسترس فردا نیست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امروز به تو دسترسی دارم اما فردا ممکن نیست، و فکرهای فردای تو بیشتر از خیالات و آرزوها نیست."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "ضایع مکن این دم اَر دلت بیدار است",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این لحظه را از دست نده، اگر قلبت آگاه و بیدار است، چرا که باقی عمر و زمان همیشه دوام نخواهد داشت!"
     },
     {
       "VOrder": 4,

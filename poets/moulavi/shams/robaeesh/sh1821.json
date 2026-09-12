@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "تو دوش چه خواب دیده‌ای می‌دانی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو دیشب چه خیالی در خواب داشتی، می‌دانی که دانستن این موضوع به این سادگی‌ها نیست."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "در دست و تن تو کاله پنهان کرده است",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای نگهبان، چرا به خاطر چیز گرانبهایی که در وجود و حرکات تو پنهان شده، تو را ناراحت نمی‌کنم؟"
     },
     {
       "VOrder": 4,

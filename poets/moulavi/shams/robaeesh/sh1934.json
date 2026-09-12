@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گفتم به طبیب دارویی فرمایی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به طبیب گفتم که دارویی برایم تجویز کند، اما او به خاطر دانش و آگاهی‌اش نبض مرا گرفت و بررسی کرد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گفتا که چه درد می‌کند بنمایی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفت که چه دردی داری، نشان بده. دستم را به سمت قلب آشفته‌ات می‌برم."
     },
     {
       "VOrder": 4,

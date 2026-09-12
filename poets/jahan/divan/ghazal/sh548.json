@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "مرا جز شور تو در سر چه باشد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جز شور و شوق تو، هیچ چیز دیگری در ذهن من نیست و هیچ چیز دیگری برای من ارزش ندارد جز پیوند و وصل با تو."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "شبی از روی لطف و مهربانی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر یک شب به خاطر لطف و محبتت نزد من بیایی، ای معشوق، چه اتفاقی خواهد افتاد؟"
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "غریبی بی نوایی گر نوازی",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به یک غریب بی‌کس محبت کنی، در حقیقت کار نیکو و پاداش بزرگی انجام داده‌ای. آیا کاری بهتر از این وجود دارد؟"
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "گر آیی پیشم ای سرو سمن‌بوی",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو به نزد من بیایی، ای سرو سمن، بویی که به پای تو نثار شده جز سر چه چیزی می‌تواند باشد؟"
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "وگر بی انتظار از در درآیی",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بدون اینکه منتظر باشم به سراغم بیایی، چه چیز از این زیباتر و دلپذیرتر خواهد بود."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "رخم چون زر شد از هجران نگارا",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صورت من به خاطر دوری تو چون طلا شده است، پس بگو که طلا چیست اگر به تو اشاره نکنم."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "سر و افسر نهادم در ره عشق",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در مسیر عشق، من سر و تاج خود را گذاشتم و وقتی به عشق رسیدم، دیگر غم و ناراحتی برایم چه معنا دارد؟"
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "مرا افسون عشقت کرد بیهوش",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق تو مرا به قدری مجذوب و بی‌خود کرده که نمی‌توانم به حالتی که به من دست داده، فکر کنم. جذابیت و چشمه‌های عشق تو چنان قوی است که نمی‌دانم چگونه می‌توانم از این حالت رهایی یابم."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "به ظلمات شب هجرت فتادم",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دل تاریکی‌های شب هجرت، جز نور چهره‌ات، هیچ راهنمایی برای من وجود ندارد."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "نگارا با منت این جور و خواری",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عزیزم، نمی‌دانم با این حال و احوال چه نظری درباره من داری."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "بیا کاندر شب تاریک هجران",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیا تا در شب تیره و ناامیدی دوری، به من بگو بدون تو داشتن ماه و خورشید چه ارزشی دارد؟"
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "برت ناخورده‌ام ای سرو آزاد",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای سرو آزاد، من هنوز از تو بی‌نصیب‌ام. اگر با من شب نشینی کنی، چه خواهد شد؟"
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "به من گفتی جفاکار وفاجوی",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به من گفتی که تو بی‌وفا هستی و جهان را جز این دل دچار چه چیزی می‌تواند کرد؟"
     },
     {
       "VOrder": 26,

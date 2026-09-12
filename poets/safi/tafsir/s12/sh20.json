@@ -225,13 +225,15 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "قٰالَ اِجْعَلْنِی عَلیٰ خَزٰائِنِ اَلْأَرْضِ إِنِّی حَفِیظٌ عَلِیمٌ (۵۵)",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: او گفت: مرا سرپرست خزانه‌های زمین قرار بده، زیرا من نگهبان و منقاد خبره‌ای هستم."
     },
     {
       "VOrder": 2,
       "Position": "Paragraph",
       "Text": "گفت بگردان مرا بر خزانهای زمین که من نگاه‌دارندۀ دانایانم (۵۵)",
-      "CoupletIndex": 1
+      "CoupletIndex": 1,
+      "CoupletSummary": "هوش مصنوعی: گفت مرا به نقاط مختلف زمین ببر، زیرا من نگهبان دانشمندان هستم."
     },
     {
       "VOrder": 3,
@@ -239,7 +241,8 @@
       "Text": "گفت، گَردان بر خزائن والی ام",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: گفت، ای گردان! بر دارایی‌های من نگاه کن، اگر مرا بشناسی ارزش امانتداری من را درک خواهی کرد."
     },
     {
       "VOrder": 4,
@@ -255,7 +258,8 @@
       "Text": "تا که آن صرف زراعت ها کنم",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: من تا زمانی که از محصولات زراعی استفاده کنم، باید مراقب باشم که آنچه را که به دست می‌آورم، به درستی نگهداری و حفظ کنم."
     },
     {
       "VOrder": 6,
@@ -271,7 +275,8 @@
       "Text": "آگهم، ضایع نگردانم همی",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: من آگاه هستم و نمی‌گذارم که از آنچه به من سپرده‌اید، چیزی نابود شود."
     },
     {
       "VOrder": 8,
@@ -287,7 +292,8 @@
       "Text": "یا که دانم حکمها را در مقام",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: یا اینکه من می‌دانم احکام مختلف را در جایگاه خاص خود، یا اینکه قادر هستم هر زبانی را بفهمم و هر سخنی را بشنوم."
     },
     {
       "VOrder": 10,
@@ -303,7 +309,8 @@
       "Text": "در تفاسیر است مذکور اینکه شاه",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: در تفسیرها آمده است که پادشاه او را با تاجی زیبا و درخشان adorned کرده است."
     },
     {
       "VOrder": 12,
@@ -319,7 +326,8 @@
       "Text": "بر سپرد او را کلید مخزنش",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: او را به کسی سپرد که کلید گنجینه‌اش را در دست داشت و مختار و صاحب اختیار او در ملک و محل زندگی‌اش بود."
     },
     {
       "VOrder": 14,
@@ -335,7 +343,8 @@
       "Text": "وآن عزیز از کار شه معزول گشت",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: آن شخص عزیز که از مسئولیت‌های پادشاهی کنار گذاشته شده بود، پس از مدتی، خود نیز از دنیا رفت."
     },
     {
       "VOrder": 16,
@@ -351,7 +360,8 @@
       "Text": "یوسف اندر مصر از فضل و هنر",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: یوسف در مصر به خاطر استعداد و توانایی‌هایش پس از مدتی به مقام و عزت رسید."
     },
     {
       "VOrder": 18,
@@ -367,7 +377,8 @@
       "Text": "مر ملک هر دم به قدرش میفزود",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: این متن به این معنی است که هر روز مقام و قدرت شخصی به اندازه‌ای افزایش می‌یابد که هیچکس از او نزدیک‌تر به پادشاه نیست."
     },
     {
       "VOrder": 20,
@@ -383,7 +394,8 @@
       "Text": "عقل و فضل افزون چو دید از چهر او",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: وقتی عقل و دانش به چهره او نگاه کردند، هر لحظه بر عشق او افزوده شد."
     },
     {
       "VOrder": 22,
@@ -399,7 +411,8 @@
       "Text": "چون ز دنیا شد عزیز مهرزاد",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: زمانی که مهرزاد، عزیز دنیا به پایان رسید، زلیخا یوسف را به حضور خواند و به او مقام و منصب داد."
     },
     {
       "VOrder": 24,
@@ -415,7 +428,8 @@
       "Text": "چونکه خلوت کرد و او را برگرفت",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: زمانی که او در تنهایی به سر می‌برد و به کسی نزدیک شد، بکر او را دید و از او درباره‌ی شگفتی‌ها پرسید."
     },
     {
       "VOrder": 26,
@@ -431,7 +445,8 @@
       "Text": "گفت عنّین بود و بی مردی عزیز",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: او گفت که من ناتوان و بدون مرد پایداری هستم، به خاطر همین از آن مانده‌ام که هم‌چنان باکره و پاکیزه باقی بمانم."
     },
     {
       "VOrder": 28,
@@ -447,7 +462,8 @@
       "Text": "شد زلیخا را ز یوسف دو پسر",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: زلیخا دو پسر از یوسف داشت که یکی را افرائیم و دیگری را بوشا نامیدند."
     },
     {
       "VOrder": 30,
@@ -463,7 +479,8 @@
       "Text": "گفت یوسف بهتر است این یا خود آن",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: یوسف گفت: آیا این بهتر است یا آنچه تو بر آن می‌خواندی که برایم زیان آور است؟"
     },
     {
       "VOrder": 32,
@@ -479,7 +496,8 @@
       "Text": "گفت ای یوسف ملامت خود تو باز",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: ای یوسف، بار دیگر چهره‌ات را به ملامت بر من نیفزا، زیرا تو خود به رازها آگاهی."
     },
     {
       "VOrder": 34,
@@ -495,7 +513,8 @@
       "Text": "من جوان بودم به نیکویی قرین",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: من در جوانی هیچ دوستی را که به خوبی و زیبایی تو باشد، ندیدم."
     },
     {
       "VOrder": 36,
@@ -511,7 +530,8 @@
       "Text": "عشق تو بگرفت جا بر جان من",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: عشق تو در وجود من جا گرفت و تمام افکار و اصولم را به هم ریخت."
     },
     {
       "VOrder": 38,
@@ -527,7 +547,8 @@
       "Text": "مبتلاء گشتم به دردی کآن چنان",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: من به دردی گرفتار شدم که هیچ کس دیگری در دنیا نتوانسته است آن را تجربه کند."
     },
     {
       "VOrder": 40,
@@ -543,7 +564,8 @@
       "Text": "حاصل آنکه گشت یوسف کامکار",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: به این معناست که یوسف با تلاش و هوش خود به مقام بالایی در سرزمین مصر رسید و بر آنجا حکمرانی و فرمانروایی کرد."
     },
     {
       "VOrder": 42,

@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "چو در دنیا نخواهد ماند چیزی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این دنیا هیچ چیزی از کارهای خوب یا بد انسان‌ها باقی نخواهد ماند؛ تنها نام و یاد آنهاست که باقی می‌ماند."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "بکسب نیکنامی کوش و نیکی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در تلاش باش تا نام نیکو کسب کنی، زیرا انجام کارهای نیک، سرانجامی نیک برای تو به ارمغان می‌آورد."
     },
     {
       "VOrder": 4,

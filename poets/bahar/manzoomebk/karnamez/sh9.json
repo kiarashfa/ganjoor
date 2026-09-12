@@ -221,7 +221,8 @@
       "Text": "گشت مردی شریک پرخواری",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: مردی در کار نوشیدن و خوشگذرانی شریک شد و مسئولیت تقسیم بار و توشه را بر عهده گرفت."
     },
     {
       "VOrder": 2,
@@ -237,7 +238,8 @@
       "Text": "گفت یک چیز ازین دوگانه بخواه",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: از تو می‌خواهم که یکی از این دو گزینه را انتخاب کنی: یا خربزه را بخواه، یا هندوانه را بخواه."
     },
     {
       "VOrder": 4,
@@ -253,7 +255,8 @@
       "Text": "گفت من هر دوانه می‌خواهم",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: او گفت من هر نوع میوه‌ای که بخواهم، به دنبال خربزه و هندوانه هستم."
     },
     {
       "VOrder": 6,
@@ -269,7 +272,8 @@
       "Text": "برد مشروطه داغ و چوب و فلک",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: پس از پیروزی مشروطه، به جای آزادی و حقوق انسانی، مردم با درد و رنج و مجازات‌های سخت مواجه شدند و فضای خفقان و سرکوب حاکم شد. در واقع، انتظارها به ناامیدی تبدیل شد و اوضاع به سوی زندان و محدودیت رفت."
     },
     {
       "VOrder": 8,
@@ -285,7 +289,8 @@
       "Text": "شحنهٔ شهر هر دو وانه گرفت",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: شهر، خود را به نمایش گذاشت و با وجود اینکه خربزه داشت، از هندوانه هم بهره‌مند شد."
     },
     {
       "VOrder": 10,
@@ -301,7 +306,8 @@
       "Text": "کرد من‌باب دبه و لنجه",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: در نیکی و کارهای خوب، مانند دو ظرف که در تنگنا هستند، زمان دشواری می‌گذرانم."
     },
     {
       "VOrder": 12,
@@ -317,7 +323,8 @@
       "Text": "دست‌بند و شکنجه‌های دگر",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: دست‌بند و دیگر شکنجه‌ها، تازه‌ترین و بدترین عذاب‌ها هستند."
     },
     {
       "VOrder": 14,
@@ -333,7 +340,8 @@
       "Text": "گاهگاهی هم از پی تحقیق",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: گاهی اوقات برای بررسی و تحقیق، آب به جوش می‌آید و به درون تزریق می‌شود."
     },
     {
       "VOrder": 16,
@@ -349,7 +357,8 @@
       "Text": "آن شنیدم که «‌هایم‌» بدبخت ",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: شنیدم که «هایم» بدبخت به این عذاب سنگین گرفتار شد."
     },
     {
       "VOrder": 18,
@@ -365,7 +374,8 @@
       "Text": "تا گروهی ز عارف و عامی",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: وقتی عده‌ای از عارفان و مردم عامی، به یکدیگر نزدیک شوند و دوستان یکدیگر شوند، این امر باعث می‌شود که شهرت و اعتبارشان آسیب ببیند."
     },
     {
       "VOrder": 20,
@@ -381,7 +391,8 @@
       "Text": "و آن یهودی ز تهمت دگران",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: یهودی به خاطر تهمت‌های دیگران، سکوت اختیار کرده و زیر بار عذاب و رنج سنگینی رفته است."
     },
     {
       "VOrder": 22,
@@ -397,7 +408,8 @@
       "Text": "وان که او را شکنجه می‌فرمود",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: شخصی که او را شکنجه می‌کرد، مسلمان بود و از یهودی‌ها بدتر و بدذات‌تر به نظر می‌رسید."
     },
     {
       "VOrder": 24,
@@ -413,7 +425,8 @@
       "Text": "بود تشنه‌، به خون ایرانی",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: شخصی که به خاطر ادعای مسلمانی، به خون ایرانیان تشنه است."
     },
     {
       "VOrder": 26,
@@ -429,7 +442,8 @@
       "Text": "بود «‌هایم‌» بدان دلآگاهی",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: وجود آگاهی و شناختی که من دارم، از صد هزار درگاه و راه‌های دیگر بهتر است."
     },
     {
       "VOrder": 28,
@@ -445,7 +459,8 @@
       "Text": "کاو به‌ ناحق نبرد نام کسی",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: کسی که به ناحق نام فردی را می‌برد، باعث می‌شود که به مردم اتهام‌های زیادی بسته شود."
     },
     {
       "VOrder": 30,
@@ -461,7 +476,8 @@
       "Text": "برد از آغاز آن جهول ظلوم",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: از ابتدا برمی‌خیزد آن نادانی ستمگر، که دستش در خون عشق بی‌گناهی فرو رفته است."
     },
     {
       "VOrder": 32,
@@ -477,7 +493,8 @@
       "Text": "بعد از آن تا زند مؤسس را",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: پس از آن، مؤسس را به تیر بلای سخت هدف قرار دادند و «مدرس» را نیز گرفتار مشکلات کردند."
     },
     {
       "VOrder": 34,
@@ -493,7 +510,8 @@
       "Text": "شحنهٔ شهر چون که شد فتاک",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: وقتی نگهبان شهر به خطر افتاد، دیگران از قتل و کشتار چه نگرانی دارند؟"
     },
     {
       "VOrder": 36,
@@ -509,7 +527,8 @@
       "Text": "دارم افسانه‌ای ز «‌درگاهی‌»",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: داستانی دارم درباره «درگاهی»، که اثر شگفت‌آوری است. اگرمایل هستی، گوش کن."
     },
     {
       "VOrder": 38,

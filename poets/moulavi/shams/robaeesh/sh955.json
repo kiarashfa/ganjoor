@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "شب گشت و خبر نیست مرا از شب و روز",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شب گذشته و من هنوز از روز و شب خبری ندارم. روز برای من مانند شب است، زیرا به خاطر آن روزی که روشنایی بخش است، در ظلمت فرورفته‌ام."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "ای شب شب از آنی که از او بیخبری",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای شب، تو از وجود او غافلی، و ای روز، برو و از چهره او روز را یاد بگیر."
     },
     {
       "VOrder": 4,

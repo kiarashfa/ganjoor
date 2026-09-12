@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ما صحبت همدگر گزینیم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما با هم صحبت می‌کنیم و در کنار یکدیگر می‌نشینیم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "یاران همه پیشتر نشینید",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوستان، شما جلوتر بنشینید تا بتوانیم چهره یکدیگر را ببینیم."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "ما را ز درون موافقت‌هاست",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما از درون همدلی‌ها و توافق‌ها شکل گرفته‌ایم، بنابراین گول نخور که فکر کنی ما فقط به همین صورت که هستیم، هستیم."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "این دم که نشسته‌ایم با هم",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این لحظه که در کنار هم هستیم، با شادی و زیبایی در دل و دستانمان، لحظات خوشی را سپری می‌کنیم."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "از عین به غیب راه داریم",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما از عین به غیب راه داریم چون که با پیام‌آور دین همراه هستیم."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "از خانه به باغ راه داریم",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما به باغی دسترسی داریم که همسایه‌های ما در آن سرو و یاسمن هستند."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "هر روز به باغ اندرآییم",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر روز به باغ می‌رویم و گل‌های شکفته زیادی را تماشا می‌کنیم."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "وز بهر نثار عاشقان را",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای عشق‌ورزی و تحسین عاشقان، گل‌ها را یکی یکی بچینیم و در دامن بگذاریم."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "از باغ هر آنچ جمع کردیم",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از باغ هر چه که جمع آوری کردیم، در برابر خود قرار می‌دهیم و از میان آن‌ها بهترین‌ها را انتخاب می‌کنیم."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "از ما دل خویش درمدزدید",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل ما را از ما ربودید، در حالی که ما دزد نیستیم، بلکه امانت‌دار هستیم."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "اینک دم ما نسیم آن گل",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حال ما مانند نسیم آن گل است و ما در باغ گلشن یقین قرار داریم."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "عالم پر شد نسیم آن گل",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نسیم آن گل در سرتاسر عالم پراکنده شده است و این نشان می‌دهد که بیایید و ببینید ما چقدر شبیه به آن گل هستیم و چه حال و هوایی داریم."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "بومان ببرد چو بوی بردیم",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در زمانه‌ای که بوی خوش زندگی به مشام می‌رسد، ما نیز با این حال که ممکن است قدیمی و کهنه به نظر برسیم، تاثیرات آن را احساس می‌کنیم."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "هر چند کمین غلام عشقیم",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچند که ما در ظاهر مانند خدمتگزاران عشق هستیم، اما حقیقتاً خود عشق نیز در انتظار ما نشسته است."
     },
     {
       "VOrder": 28,

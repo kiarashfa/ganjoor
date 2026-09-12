@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "او نیز از شعرای بخاراست و این مطلع بر صفای ذهنش گواست:",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: او هم از شاعران بخارا است و این بیت نشان‌دهنده‌ی پاکی و زیبایی تفکر اوست."
     },
     {
       "VOrder": 3,
       "Position": "Right",
       "Text": "آن گرد باد نیست بگرد سرای تو",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن گردباد نیست که دور خانه‌ات بگردد، بلکه دلی سرگشته است که در هوای تو رقصان و شاداب است."
     },
     {
       "VOrder": 4,

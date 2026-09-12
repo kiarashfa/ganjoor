@@ -30,7 +30,8 @@
       "Position": "Right",
       "Text": "هیچ شادی نیست اندر این جهان",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این دنیا هیچ خوشحالی‌ای بالاتر از ملاقات دوستان و دیدن چهره‌شان وجود ندارد."
     },
     {
       "VOrder": 2,
@@ -44,7 +45,8 @@
       "Position": "Right",
       "Text": "هیچ تلخی نیست بر دل تلخ تر",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ چیزی برای دل غمگین، تلخ‌تر از جدایی از دوستان بااستعداد نیست."
     },
     {
       "VOrder": 4,

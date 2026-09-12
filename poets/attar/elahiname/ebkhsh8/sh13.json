@@ -191,7 +191,8 @@
       "Text": "بزرگانی که سر در چرخ سودند",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: بزرگان و افراد مهمی که در جمع و چرخه جامعه قرار داشتند، همگی در خدمت محمود بودند."
     },
     {
       "VOrder": 2,
@@ -207,7 +208,8 @@
       "Text": "شه عالم بایشان کرد روئی",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: سلطان با دانایان رفتاری کرد که هر یک از آنها به آرزوهای خود برسند."
     },
     {
       "VOrder": 4,
@@ -223,7 +225,8 @@
       "Text": "ز شهر و مال و ملک ومنصب و جاه",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در آن روز، بسیاری از افراد از شاه خواسته‌هایی دربارهٔ شهر، اموال، ملک، مقام و اعتبار خود داشتند."
     },
     {
       "VOrder": 6,
@@ -239,7 +242,8 @@
       "Text": "چو نوبت با ایاز آمد کسی گفت",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: وقتی نوبت به ایاز رسید، کسی گفت که تو در زیبایی همچون طاق و در هنر مانند جفتی هستی."
     },
     {
       "VOrder": 8,
@@ -255,7 +259,8 @@
       "Text": "چه خواهی آرزو گفتا که یک چیز",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: هر چه آرزو داری بگو، اما من هیچ چیز دیگری بیش از آنچه که در دل دارم، نمی‌خواهم."
     },
     {
       "VOrder": 10,
@@ -271,7 +276,8 @@
       "Text": "من آن خواهم همیشه در زمانه",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: من همیشه خواهان این هستم که در هر زمان، نشانه‌ای از تیر پادشاه باشم."
     },
     {
       "VOrder": 12,
@@ -287,7 +293,8 @@
       "Text": "اگر این آرزو دستم دهد هیچ",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: اگر این آرزو به من داده شود، هیچ چیزی برایم نمی‌ماند که حتی ذره‌ای از شوق و تلاش در من باقی بماند."
     },
     {
       "VOrder": 14,
@@ -303,7 +310,8 @@
       "Text": "بدو گفتند کای محروم مانده",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: به او گفتند: ای کسی که به دلیل جهل و نادانی از فهم حقیقت و درک عقل دور مانده‌ای."
     },
     {
       "VOrder": 16,
@@ -319,7 +327,8 @@
       "Text": "تو پشت پای خواهی زد خرد را",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: تو با هر اقدامی که انجام می‌دهی، در حقیقت به خرد و اندیشه خود آسیب می‌زنی، چرا که در تلاش برای رسیدن به هدفی هستی که در ذهن داری، همانند نشانه‌ای که به علامت سلطنت خود نیاز داری."
     },
     {
       "VOrder": 18,
@@ -335,7 +344,8 @@
       "Text": "تن خود را چرا خواهی نشانه",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: چرا می‌خواهی که بدن خود را به هدفی تبدیل کنی که به دردسر در بیفتی و درد و رنجی جاودانه را تجربه کنی؟"
     },
     {
       "VOrder": 20,
@@ -351,7 +361,8 @@
       "Text": "زبان بگشاد ایاز و گفت آنگاه",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: ایاز زبانش را باز کرد و گفت: شما ای مردم، از این راز خبر ندارید."
     },
     {
       "VOrder": 22,
@@ -367,7 +378,8 @@
       "Text": "مرا چون عالمی پُر احترامست",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: مرا به عنوان یک فرد محترم و با دانش می‌شناسند، و نشانه‌ای بر این که در مقام سلطنت و رهبری قرار دارم، کاملاً نمایان است."
     },
     {
       "VOrder": 24,
@@ -383,7 +395,8 @@
       "Text": "که اوّل بر نشانه چند ره شاه",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: در ابتدا، شاه به نشانه‌ها توجه می‌کند و پس از آن تیر را رها می‌کند."
     },
     {
       "VOrder": 26,
@@ -399,7 +412,8 @@
       "Text": "چو اوّل آن نظر در کار آید",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: وقتی که از ابتدا به چیزی نگاه می‌کنیم و آن را بررسی می‌کنیم، در انتها متوجه می‌شویم که زخم‌ها و مشکلات چقدر آسان‌تر می‌شوند."
     },
     {
       "VOrder": 28,
@@ -415,7 +429,8 @@
       "Text": "شما آن زخم می‌بینید در راه",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: شما به زخم‌ها و دردها توجه می‌کنید ولی من به زیبایی و اشرافیتی که از سوی شاه وجود دارد می‌اندیشم."
     },
     {
       "VOrder": 30,
@@ -431,7 +446,8 @@
       "Text": "چو باشد ده نظر از پیش رفته",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: وقتی که ده نظر و دیدگاه از قبل پیشرفته باشد، چگونه می‌توانم از خودم که در گذشته رفته‌ام فاصله بگیرم؟"
     },
     {
       "VOrder": 32,

@@ -36,14 +36,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "وقتی قوّال در پیش شیخ ما این بیت می‌گفت:",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی قوال این شعر را در حضور شیخ ما می‌خواند:"
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "سمر گشتم نگاری را که دیدار پری دارد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به خاطر دیدار با دختری که چهره‌ای همانند پری داشت، دل‌باخته شدم. او به نوعی یک مقام بالا و ویژه‌ای را به من ارزانی می‌دارد و به هیچ وجه مسائل سطحی و بی‌اهمیت را بررسی نمی‌کند."
     },
     {
       "VOrder": 3,
@@ -56,26 +58,30 @@
       "VOrder": 4,
       "Position": "Paragraph",
       "Text": "شیخ گفت چنین نباید گفت معاذ اللّه چنین باید گفت شعر:",
-      "CoupletIndex": 2
+      "CoupletIndex": 2,
+      "CoupletSummary": "هوش مصنوعی: شیخ فرمود نباید چنین چیزی گفت، به هیچ‌وجه. آنچه باید گفت این است که شعر:"
     },
     {
       "VOrder": 5,
       "Position": "Paragraph",
       "Text": "نبودت را همی سازد نه کار سرسری دارد",
-      "CoupletIndex": 3
+      "CoupletIndex": 3,
+      "CoupletSummary": "هوش مصنوعی: غیبت تو باعث می‌شود که دیگران به تو فکر کنند و به یاد تو باشند، و این نشان‌دهنده اهمیت تو در زندگی آنهاست."
     },
     {
       "VOrder": 6,
       "Position": "Paragraph",
       "Text": "یک روز دیگر قوّال پیش شیخ این بیت می‌خواند:",
-      "CoupletIndex": 4
+      "CoupletIndex": 4,
+      "CoupletSummary": "هوش مصنوعی: یک روز دیگر، قوال شعری را برای شیخ می‌خواند."
     },
     {
       "VOrder": 7,
       "Position": "Right",
       "Text": "نه همرهی تو مرا راه خویش گیرو برو",
       "CoupletIndex": 5,
-      "SectionIndex1": 1
+      "SectionIndex1": 1,
+      "CoupletSummary": "هوش مصنوعی: به من ملحق نشو و مسیر خودت را دنبال کن، برای تو آرزوی سلامت می‌کنم و برای من، تنهایی و افول است."
     },
     {
       "VOrder": 8,
@@ -94,7 +100,8 @@
       "VOrder": 10,
       "Position": "Paragraph",
       "Text": "ترا سلامت باد و مرا سبکباری",
-      "CoupletIndex": 7
+      "CoupletIndex": 7,
+      "CoupletSummary": "هوش مصنوعی: برای تو آرزوی سلامتی دارم و برای خودم آرامش و سبکی می‌خواهم."
     }
   ]
 }

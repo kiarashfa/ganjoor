@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گر چاشنی غمش بیابی یک دم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر لحظه‌ای به غم او پی ببری، هرگز به دنبال شادی نخواهی رفت."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "شادی غم اوست خود ولیکن چه کنم ؟",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: غم او همان شادی من است، اما چه کنم؟ چون تو نمی‌دانی و فرق بین غم و شادی را نمی‌فهمی."
     },
     {
       "VOrder": 4,

@@ -501,7 +501,8 @@
       "Text": "شنیدم که از گردش آسمان",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: شنیدم که از چرخش آسمان به سرزمین یمن همچون ستاره سهیل (ستاره درخشان) رسیده است."
     },
     {
       "VOrder": 2,
@@ -517,7 +518,8 @@
       "Text": "همایون درختی به باغ کرم",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: درختی باشکوه در باغی پر از کرم به شکوفه نشسته است و میوه‌اش ارزش زیادی دارد."
     },
     {
       "VOrder": 4,
@@ -533,7 +535,8 @@
       "Text": "ندیدی کسی چین در ابروی او",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: شما کسی را ندیده‌اید که چهره‌اش به زیبایی او باشد و ابروهایش بیشتر از خود چهره‌اش جلوه و زیبایی داشته باشد."
     },
     {
       "VOrder": 6,
@@ -549,7 +552,8 @@
       "Text": "دل از هر چه جز جود وارسته داشت",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: دل از هر چیزی غیر از بخشندگی آزاد بود و به مهمان‌نوازی وابسته بود."
     },
     {
       "VOrder": 8,
@@ -565,7 +569,8 @@
       "Text": "به فرمان او حاجبان در کمین",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: به دستور او، نگهبانان منتظرند تا مهمانانش را از هر گوشه‌ای بیاورند."
     },
     {
       "VOrder": 10,
@@ -581,7 +586,8 @@
       "Text": "نپرسیدی از میهمان نام او",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: تو از مهمان نپرسیدی که نامش چیست، اما خودت در دل با آرامش او آشنا هستی و لطف او را درک می‌کنی."
     },
     {
       "VOrder": 12,
@@ -597,7 +603,8 @@
       "Text": "ندانستی از شاه درویش را",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: نمی‌دانستی که از شاهی، درویش چه خبر دارد و نمی‌توانستی از دیگران، خودت را بشناسی."
     },
     {
       "VOrder": 14,
@@ -613,7 +620,8 @@
       "Text": "ز مهمان شدی هر نفس عذر‌خواه",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در هر لحظه از میهمانی، عذرخواهی کن، چه آن که مهمان تو شخصی عادی باشد یا از طبقاتی بالاتر و چه درویش باشد یا شاه."
     },
     {
       "VOrder": 16,
@@ -629,7 +637,8 @@
       "Text": "نرفتی غمین کس از آن خانه باز",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: وقتی کسی از آن خانه می‌رود، دیگر هیچ‌کس به دلیل دل‌تنگی و جدایی نمی‌تواند با روحیه‌ خوبی به آن برگردد، مگر اینکه مهمان نوازی در آن خانه وجود داشته باشد."
     },
     {
       "VOrder": 18,
@@ -645,7 +654,8 @@
       "Text": "یکی عقده روزی به کارش فتاد",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: روزی فردی با مشکلی مواجه شد و ناخواسته به قبیله‌ای دیگر برخورد کرد."
     },
     {
       "VOrder": 20,
@@ -661,7 +671,8 @@
       "Text": "چو خاصان نبودند دنبال او",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: وقتی افرادی خاص و نزدیک او در کنار نبودند، هیچ‌کس در آنجا از حال او پرس‌وجو نکرد."
     },
     {
       "VOrder": 22,
@@ -677,7 +688,8 @@
       "Text": "نگفت او هم احوال خود با کسان",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: او وضعیت خود را با دیگران در میان نگذاشت، چون بر او عیب بود که با افرادی بی‌اهمیت سخن بگوید."
     },
     {
       "VOrder": 24,
@@ -693,7 +705,8 @@
       "Text": "دو روزی به‌سر برد با درد و داغ",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: برای مدت کوتاهی با درد و غم سپری کرد، مانند شاهینی که پرهایش را از دست داده و در میان گروهی از کلاغ‌ها قرار گرفته است."
     },
     {
       "VOrder": 26,
@@ -709,7 +722,8 @@
       "Text": "بر او چون دو روزی به خواری گذشت",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: وقتی که او برای مدت دو روز تحت فشار و سختی بود، مانند ابر بهاری که پس از مدتی می‌گذرد، از آن وضعیت رنج‌آور عبور کرد."
     },
     {
       "VOrder": 28,
@@ -725,7 +739,8 @@
       "Text": "ز غوغای زاغانش آشفت حال",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: از سر و صدای زاغ‌ها حالش آشفته شده و به سوی آشیانه‌اش بال‌هایش را بلند کرده است."
     },
     {
       "VOrder": 30,
@@ -741,7 +756,8 @@
       "Text": "چو آن محتشم رفت از آنجا غمین",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: وقتی آن فرد محترم از آنجا رفت، دل مردم آن منطقه غمگین شد و خداوند آن سرزمین از این موضوع خبر داشت."
     },
     {
       "VOrder": 32,
@@ -757,7 +773,8 @@
       "Text": "چنان گشت از غفلت خود خجل",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: از غفلت و بی‌مراقبتی‌اش به شدت شرمسار شد، طوری که از خوی ناپسندش در گل ماند و نتوانست از آن رهایی یابد."
     },
     {
       "VOrder": 34,
@@ -773,7 +790,8 @@
       "Text": "فرستاد سویش پیام آوری",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: پیام‌رسانی به او فرستاد و نوشت که اگر معروف شوی، از آنچه در دل داری بگو."
     },
     {
       "VOrder": 36,
@@ -789,7 +807,8 @@
       "Text": "ببخشای بر غفلت بندگان",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: ببخشایید بر ناتوانی و غفلت بندگان که از خودشان شرمنده‌اند و می‌خواهند بهتر شوند."
     },
     {
       "VOrder": 38,
@@ -805,7 +824,8 @@
       "Text": "شنیدم شدی شمع ایوان مرا",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: شنیدم که تو مانند شمعی در ایوان من درخشیده‌ای و این خبر از جهتی بلند و والا به من رسیده است."
     },
     {
       "VOrder": 40,
@@ -821,7 +841,8 @@
       "Text": "ولی مهره در شش‌در انداختم",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: من در بازی شش‌در، تاس را انداختم و نقش من به خوبی افتاد، اما در نهایت دچار اشتباه شدم و باختم."
     },
     {
       "VOrder": 42,
@@ -837,7 +858,8 @@
       "Text": "دریغا شدم وقتی آگاه من",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: باز هم دریغ و حسرت بر من فرود آمد وقتی متوجه شدم که زیبایی چهره‌ات از باغ رخت بربسته و رفته است."
     },
     {
       "VOrder": 44,
@@ -853,7 +875,8 @@
       "Text": "کنون کز کرم شهرهٔ\u00A0کشوری",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: اکنون که به خاطر مهربانی‌ات در جاهای مختلف شناخته‌شده‌ای، اگر از گناهان من بگذری!"
     },
     {
       "VOrder": 46,
@@ -869,7 +892,8 @@
       "Text": "چو بشنفت آن نیک‌مرد این پیام",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: وقتی آن مرد خوب این پیام را شنید، خندید و گفت: از طرف من سلامی برسونید."
     },
     {
       "VOrder": 48,
@@ -885,7 +909,8 @@
       "Text": "که آری بود عفو جرم از کرم",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: عفو کردن جرم و اشتباهات از روی بزرگواری و کرم امری طبیعی است. بنابراین اگر از این کار بگذرم، شگفتی‌ای ندارد."
     },
     {
       "VOrder": 50,
@@ -901,7 +926,8 @@
       "Text": "ولی عذر نشناختن عذر نیست",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: اگرچه عذر ناآگاهی قابل قبول نیست، اما در این شرایط غمگین باید به خاطر این معذرت‌خواهی گریه کرد."
     },
     {
       "VOrder": 52,
@@ -917,7 +943,8 @@
       "Text": "اگر داشتی پاس مهمان نگاه",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: اگر به مهمان احترامی نمی‌گذاری، نیازی نیست از من عذرخواهی کنی."
     },
     {
       "VOrder": 54,
@@ -933,7 +960,8 @@
       "Text": "چو آمد کسی در سرای کسی",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: وقتی کسی به خانه دیگری می‌آید، فرقی نمی‌کند که آشنا باشد یا غریبه، او مهمان آن خانه محسوب می‌شود."
     },
     {
       "VOrder": 56,
@@ -949,7 +977,8 @@
       "Text": "بباید دم از مهربانی زدن",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: باید همیشه از محبت و دوستی سخن بگوییم و نگران نباشیم که مبادا ورود عشق و محبت باعث شرمندگی‌مان شود."
     },
     {
       "VOrder": 58,
@@ -965,7 +994,8 @@
       "Text": "نه آغاز از حرمتش کاستن",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: نه نباید به حرمت او کم کنید و در نهایت از او عذرخواهی کنید."
     },
     {
       "VOrder": 60,
@@ -981,7 +1011,8 @@
       "Text": "گذشتیم ما ز آنچه آنجا گذشت",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: ما از آنچه در آنجا رخ داد عبور کردیم، حالا به فکر خودت باش که ما چه چیزی را پشت سر گذاشتیم."
     },
     {
       "VOrder": 62,
@@ -997,7 +1028,8 @@
       "Text": "شنیدم که از بازی آسمان",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: شنیدم که در بازی آسمان، دو نفر از یک روستای ترکمن، گرفتار شدند."
     },
     {
       "VOrder": 64,
@@ -1013,7 +1045,8 @@
       "Text": "ز مژگان روان هر دو را خون ناب",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: از چشمانشان اشک‌های پاکی جاری است و هر دو در زیر نور آفتاب به آرامی قدم می‌زنند."
     },
     {
       "VOrder": 66,
@@ -1029,7 +1062,8 @@
       "Text": "یکی ز آن دو کس بود دانش قرین",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: یکی از دو نفر، در کنار دانش، شکرگذار خداوند جهان آفرین بود."
     },
     {
       "VOrder": 68,
@@ -1045,7 +1079,8 @@
       "Text": "یکی ز آن دو کاو را سه فرزند بود",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: یکی از آن دو کسی بود که سه فرزند داشت و این سه فرزند او نیز در بند و گرفتار بودند."
     },
     {
       "VOrder": 70,
@@ -1061,7 +1096,8 @@
       "Text": "به او گفت کز شکر بگذشت کار",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: به او گفتند که کارش از شکر هم شیرین‌تر شده و او در حالی که دستش به زنجیر و پاهایش خار دارد، به این حال رسیده است."
     },
     {
       "VOrder": 72,
@@ -1077,7 +1113,8 @@
       "Text": "به پاسخ چنین گفت که‌ای بسته‌دست",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: او در جواب گفت که تو نمی‌دانی که در این دنیا بدتر از بد هم وجود دارد."
     },
     {
       "VOrder": 74,
@@ -1093,7 +1130,8 @@
       "Text": "ازین پاسخ آن مرد غافل گریست",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: آن مرد غافل از جواب این جمله گریه کرد، زیرا فهمید که از امروز بدتر هیچ روزی نخواهد بود."
     },
     {
       "VOrder": 76,
@@ -1109,7 +1147,8 @@
       "Text": "شمرد از غضب بس سخن‌های زشت",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: او از روی خشم، سخنانی زشت را برمی‌شمارد و می‌گوید ببین چه عواقبی برای آن عمل ناپسند که انجام داده است، به بار خواهد آورد."
     },
     {
       "VOrder": 78,
@@ -1125,7 +1164,8 @@
       "Text": "چو از جوع گشتند ترکان ستوه",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: وقتی که ترک‌ها از گرسنگی خسته شدند، در دشتی فرود آمدند."
     },
     {
       "VOrder": 80,
@@ -1141,7 +1181,8 @@
       "Text": "که سنگی در آنجا نه‌، جز مشت ریگ",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: در آنجا نه سنگی موجود است و نه چیزی دیگر، فقط با دستان خود تکه‌های ریز ماسه را جمع‌آوری کردند تا برای دیگ مورد استفاده قرار دهند."
     },
     {
       "VOrder": 82,
@@ -1157,7 +1198,8 @@
       "Text": "یکی دیگ تا بر سر پا کنند",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: یک نفر دیگر را هم آماده کنند تا بلکه بتوانند وضعیتی را ایجاد کنند که همه در آن مشارکت کنند."
     },
     {
       "VOrder": 84,
@@ -1173,7 +1215,8 @@
       "Text": "سه سر از اسیران بریدند زود",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: سه نفر از اسیران را به سرعت سر بریدند تا بخار از دیگی که روی آتش بود، بلند شود."
     },
     {
       "VOrder": 86,
@@ -1189,7 +1232,8 @@
       "Text": "نهادند در زیر دیگ آن سه سر",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: در زیر دیگ، سه سر قرار داشت و آن دو نفر به آن‌سوی دیگ نگاه کردند."
     },
     {
       "VOrder": 88,
@@ -1205,7 +1249,8 @@
       "Text": "سه سر دیده از آن سه سرکش جوان",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: سه چشم از آن سه جوان بی‌تاب به چهره مانند گل و لاله و گل ارغوان."
     },
     {
       "VOrder": 90,
@@ -1221,7 +1266,8 @@
       "Text": "که افتاده در زیر دیگ سیاه",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: کسی که در زیر دیگ سیاه افتاده، با اندوه و غم گریه می‌کند و آه می‌کشد."
     },
     {
       "VOrder": 92,
@@ -1237,7 +1283,8 @@
       "Text": "بدر یافت کز بد بتر در جهان",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: در جهان، بدی بدتر از آن وجود دارد که بدر (ماه) از آن باخبر شد، اما این واقعیت از دید مردم پنهان است."
     },
     {
       "VOrder": 94,

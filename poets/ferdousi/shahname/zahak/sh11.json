@@ -561,7 +561,8 @@
       "Text": "چو کشور ز ضحاک بودی تهی",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "همان زمان که ضحاک از کشور خارج شده بود ثروتمندی مانند من بود که ..."
     },
     {
       "VOrder": 2,
@@ -577,7 +578,8 @@
       "Text": "که او داشتی گنج و تخت و سرای",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "... گنج و تخت و کاخ داشت و دلسوز پادشاه بود ..."
     },
     {
       "VOrder": 4,
@@ -593,7 +595,8 @@
       "Text": "ورا کندرو خواندندی بنام",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "نام کندرو بود و همیشه به آهستگی در کنار ضحاک قدم بر می داشت به گونه ای که از ضحاک گامی عقب تر بود"
     },
     {
       "VOrder": 6,
@@ -609,7 +612,8 @@
       "Text": "به کاخ اندر آمد دوان کندرو",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "روزی کندرو باعجله به کاخ آمد و در ایوان کاخ پادشاه جدیدی دید."
     },
     {
       "VOrder": 8,
@@ -625,7 +629,8 @@
       "Text": "نشسته به آرام در پیشگاه",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "در حالی که با آرامش در کنارش زیبارویان سروقامت نشسته بودند ..."
     },
     {
       "VOrder": 10,
@@ -641,7 +646,8 @@
       "Text": "ز یک دست سرو سهی شهرناز",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "یک سمتش شهرناز بلندقامت و سمت دیگرش ارنواز ماهرو"
     },
     {
       "VOrder": 12,
@@ -657,7 +663,8 @@
       "Text": "همه شهر یک‌سر پر از لشکرش",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "تمام شهر را پر از سپاهیانش دید که کمربسته و گوش به فرمان آن پادشاه جدید هستند."
     },
     {
       "VOrder": 14,
@@ -673,7 +680,8 @@
       "Text": "نه آسیمه گشت و نه پرسید راز",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "کندرو آرامشش را حفظ کرد و چیزی نگفت و در برابر پادشاه جدید تعظیم کرد."
     },
     {
       "VOrder": 16,
@@ -689,7 +697,8 @@
       "Text": "بر او آفرین کرد کای شهریار",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "به او درود فرستاد و گفت که ای شاه! عمرت زیاد باشد!"
     },
     {
       "VOrder": 18,
@@ -705,7 +714,8 @@
       "Text": "خجسته نشست تو با فرهی",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "به تو بابت نشستن به تخت پادشاهی تبریک عرض می‌کنم چون سزاوار آن هستی."
     },
     {
       "VOrder": 20,
@@ -721,7 +731,8 @@
       "Text": "جهان هفت کشور تو را بنده باد",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هفت کشور تحت فرمان تو و بختت بلندتر از آسمان باد!"
     },
     {
       "VOrder": 22,
@@ -737,7 +748,8 @@
       "Text": "فریدونش فرمود تا رفت پیش",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "فریدون به او گفت که جلو بیاید. آمد و خودش را معرفی کرد و دربارهٔ شغل و پیشه و زندگیش همه‌چیز را توضیح داد."
     },
     {
       "VOrder": 24,
@@ -753,7 +765,8 @@
       "Text": "بفرمود شاه دلاور بدوی",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "شاه به او دستور داد که بساط بزم پادشاهی را فراهم کند."
     },
     {
       "VOrder": 26,
@@ -769,7 +782,8 @@
       "Text": "نبیذ آر و رامشگران را بخوان",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: مشروب تهیه کن و نوازندگان را دعوت کن، پیاله را پر کن و سفره را بیارای."
     },
     {
       "VOrder": 28,
@@ -785,7 +799,8 @@
       "Text": "کسی کاو به رامش سزای من است",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "نوازندگانی را بیاور که استادی و شایستگی حضور در بزم من را داشته باشند و بتوانند من را سرگرم کند."
     },
     {
       "VOrder": 30,
@@ -801,7 +816,8 @@
       "Text": "بیار انجمن کن بر تخت من",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "آنها را دور تخت من جمع کن آنچنان که شایستهٔ اقبال بلند من است."
     },
     {
       "VOrder": 32,
@@ -817,7 +833,8 @@
       "Text": "چو بشنید از او این سخن کدخدای",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "کندرو وقتی فرمان فریدون را شنید آن را همانطور که او خواسته بود اجرا کرد."
     },
     {
       "VOrder": 34,
@@ -833,7 +850,8 @@
       "Text": "می روشن آورد و رامشگران",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "شراب ناب و نوازندگان چیره‌دست را مطابق خواستهٔ فریدون فراهم کرد."
     },
     {
       "VOrder": 36,
@@ -849,7 +867,8 @@
       "Text": "فریدون غم افکند و رامش گزید",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "فریدون غصه و غم را کنار گذاشت و به بزم مشغول شد و آن شب جشنی سزاوار برگزار کرد."
     },
     {
       "VOrder": 38,
@@ -865,7 +884,8 @@
       "Text": "چو شد رام گیتی دوان کندرو",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "وقتی جشن تمام شد کندرو با عجله از پیش فریدون رفت."
     },
     {
       "VOrder": 40,
@@ -881,7 +901,8 @@
       "Text": "نشست از بر بارهٔ راه‌جوی",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "سوار اسب شد و به سوی ضحاک رفت."
     },
     {
       "VOrder": 42,
@@ -897,7 +918,8 @@
       "Text": "بیآمد چو پیش سپهبد رسید",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "رفت تا پیش ضحاک رسید و همهٔ چیزهایی را که دیده و شنیده بود، به طور کامل بیان کرد."
     },
     {
       "VOrder": 44,
@@ -913,7 +935,8 @@
       "Text": "بدو گفت کای شاه گردنکشان",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "به ضحاک گفت که شاه شاهان! نشانه‌های سقوطت ظاهر شده است!"
     },
     {
       "VOrder": 46,
@@ -929,7 +952,8 @@
       "Text": "سه مرد سرافراز با لشکری",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: سه مرد بزرگ و پرافتخار با سربازانی از کشوری دیگر به اینجا آمدند."
     },
     {
       "VOrder": 48,
@@ -945,7 +969,8 @@
       "Text": "از آن سه یکی کهتر اندر میان",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "یکی از آن سه نفر از لحاظ سنی کوچکتر از آنهاست و او قد بلند و چهرهٔ پادشاهان را دارد."
     },
     {
       "VOrder": 50,
@@ -961,7 +986,8 @@
       "Text": "به سال است کهتر فزونیش بیش",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "اگر چه سن او کمتر است از بقیه برتر است و جلوتر از بقیه قدم برمی‌دارد."
     },
     {
       "VOrder": 52,
@@ -977,7 +1003,8 @@
       "Text": "یکی گُرز دارد چو یک لخت کوه",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "گرزی دارد که به بزرگی یک صخره است و در میان جمع درخشان است."
     },
     {
       "VOrder": 54,
@@ -993,7 +1020,8 @@
       "Text": "به اسپ اندر آمد به ایوان شاه",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "دو شخص پرابهت دیگر نیز با اسب به ایوان شاه آمدند."
     },
     {
       "VOrder": 56,
@@ -1009,7 +1037,8 @@
       "Text": "بیآمد به تخت کئی بر نشست",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "آن شخص آمد و به تخت تو نشست و طلسم‌های تو را شکست."
     },
     {
       "VOrder": 58,
@@ -1025,7 +1054,8 @@
       "Text": "هر آن کس که بود اندر ایوان تو",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هر کسی که در ایوان تو بود اعم از انسانها و دیوان ..."
     },
     {
       "VOrder": 60,
@@ -1041,7 +1071,8 @@
       "Text": "سر از پای یک‌سر فرو ریختشان",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "... همه را شکست داد و خونین و مالین کرد."
     },
     {
       "VOrder": 62,
@@ -1057,7 +1088,8 @@
       "Text": "بدو گفت ضحاک شاید بدن",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "ضحاک به او گفت که باید همینطور هم باشد! او مهمان من است و من خواسته‌ام او خوش باشد و شادی کند!"
     },
     {
       "VOrder": 64,
@@ -1073,7 +1105,8 @@
       "Text": "چنین داد پاسخ ورا پیشکار",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "کندرو گفت این چه مهمانی است که گرز گاوسار دارد؟ و ..."
     },
     {
       "VOrder": 66,
@@ -1089,7 +1122,8 @@
       "Text": "به مردی نشیند به آرام تو",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "...\u00A0 و در خوابگاه تو می‌خوابد و از تاج و کمربند نشان تو را پاک می‌کند؟"
     },
     {
       "VOrder": 68,
@@ -1105,7 +1139,8 @@
       "Text": "به آیین خویش آورد ناسپاس",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "... و همه را به آیین خودش در می‌آورد؟ آیا تو به این مهمان می‌گویی؟"
     },
     {
       "VOrder": 70,
@@ -1121,7 +1156,8 @@
       "Text": "بدو گفت ضحاک چندین منال",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "ضحاک به او گفت: چرا اینقدر ناراحت هستی؟ مهمان هر چه گستاخ‌تر باشد من بیشتر خوشم می‌آید!"
     },
     {
       "VOrder": 72,
@@ -1137,7 +1173,8 @@
       "Text": "چنین داد پاسخ بدو کندرو",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "کندرو گفت باشد! اما این را هم بگو ..."
     },
     {
       "VOrder": 74,
@@ -1153,7 +1190,8 @@
       "Text": "گر این نامور هست مهمان تو",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "که اگر این پادشاه مهمان توست در حرمسرای تو چه کار دارد؟"
     },
     {
       "VOrder": 76,
@@ -1169,7 +1207,8 @@
       "Text": "که با دختران جهاندار جم",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "که با دختران جمشید می‌نشیند و گفتگو می‌کند و ..."
     },
     {
       "VOrder": 78,
@@ -1185,7 +1224,8 @@
       "Text": "به یک دست گیرد رخ شهرناز",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: او با یک دست چهره زیبای شهرناز را می‌گیرد و با دست دیگر لب عقیق مانند ارنواز را."
     },
     {
       "VOrder": 80,
@@ -1201,7 +1241,8 @@
       "Text": "شب تیره‌گون خود بتر زین کند",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "... تازه شب که می‌شود از این هم بدتر می‌کند و آن خوشبویان را چون بالش به زیر سر می‌گذارد!"
     },
     {
       "VOrder": 82,
@@ -1217,7 +1258,8 @@
       "Text": "چو مشک آن دو گیسوی دو ماه تو",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "آن دو زن خوشبویی که همواره دلخواه تو بوده‌اند ..."
     },
     {
       "VOrder": 84,
@@ -1233,7 +1275,8 @@
       "Text": "بگیرد به برشان چو شد نیم مست",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "... آنها را وقتی نیمه‌مست می‌شود در آغوش می‌کشد. این چنین مهمانی مهمان خوبی نیست!"
     },
     {
       "VOrder": 86,
@@ -1249,7 +1292,8 @@
       "Text": "برآشفت ضحاک برسان کرگ",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "ضحاک ناراحت و خشمگین شد و وقتی این سخن را شنید، آرزوی مرگ کرد."
     },
     {
       "VOrder": 88,
@@ -1265,7 +1309,8 @@
       "Text": "به دشنام زشت و به آواز سخت",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "شروع به دشنامهای زشت دادن با صدای بلند کرد و شروع به شکایت از بخت و اقبال بد خودش کرد."
     },
     {
       "VOrder": 90,
@@ -1281,7 +1326,8 @@
       "Text": "بدو گفت هرگز تو در خان من",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "به کندرو گفت که تو دیگر از این پس پیشکار من نیستی!"
     },
     {
       "VOrder": 92,
@@ -1297,7 +1343,8 @@
       "Text": "چنین داد پاسخ ورا پیشکار",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "\u00A0پیشکار گفت که ای شاه! من هم همینطور فکر می‌کنم!"
     },
     {
       "VOrder": 94,
@@ -1313,7 +1360,8 @@
       "Text": "کز آن بخت هرگز نباشدت بهر",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "وقتی در جایگاه پادشاهی نباشی چطور می‌توانی به من حکم پیشکاری بدهی؟!"
     },
     {
       "VOrder": 96,
@@ -1329,7 +1377,8 @@
       "Text": "چو بی‌بهره باشی ز گاه مهی",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "وقتی جایگاه لازمه را نداشته باشی چطور می‌توانی به من مقام خاصی بدهی؟!"
     },
     {
       "VOrder": 98,
@@ -1345,7 +1394,8 @@
       "Text": "چرا تو نسازی همی کار خویش",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "چرا این مشکل مهم را که مهمتر از آن وجود ندارد حل نمی‌کنی؟"
     },
     {
       "VOrder": 100,
@@ -1361,7 +1411,8 @@
       "Text": "ز تاج بزرگی چو موی از خمیر",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "تو از خیل بزرگان داری بیرون می‌افتی کاری بکن و چاره‌ای بیندیش."
     },
     {
       "VOrder": 102,
@@ -1377,7 +1428,8 @@
       "Text": "تو را دشمن آمد به گه برنشست",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "دشمن تو آمده و جای تو را گرفته در حالی که گرزی گاوسار در دست دارد."
     },
     {
       "VOrder": 104,
@@ -1393,7 +1445,8 @@
       "Text": "همه بند و نیرنگت از رنگ برد",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "طلسم‌هایت را شکست و معشوقه‌هایت را دزدید و پادشاهیت را پایان داد."
     },
     {
       "VOrder": 106,

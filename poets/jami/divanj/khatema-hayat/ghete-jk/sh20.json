@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "هرکه آرد خبر به مجلس تو",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که خبر به مجلس تو بیاورد و بگوید که فلانی تو را به نیکی یاد کرده، در واقع به نیکی نام تو را بر زبان آورده است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "قول آن ناکس استماع مکن",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به سخن آن شخص بی‌خبری گوش نده، زیرا او دروغگو یا غیبت‌کننده است."
     },
     {
       "VOrder": 4,

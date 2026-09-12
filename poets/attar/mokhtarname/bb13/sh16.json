@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "چون حوصله نیست تا خبر خواهد شد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر کمبود حوصله، هر خبر کوچکی که برسد، می‌تواند به اندازه‌ی یک قطره از دریاهای بزرگ ارزشمند باشد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "از دریایی که وصف آن نتوان کرد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از دریا که نمی‌توان توصیفش کرد، روزی آب آن به طور دائمی خارج خواهد شد."
     },
     {
       "VOrder": 4,

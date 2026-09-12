@@ -661,7 +661,8 @@
       "Text": "چو خورشید روشن بیاراست گاه",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: زمانی که خورشید با نور و روشنی خود، مکان را زیبا و درخشان کرد، پیشوای فخرآور از نزد سلطان نمایان شد."
     },
     {
       "VOrder": 2,
@@ -677,7 +678,8 @@
       "Text": "به پرده سرای اندرون کس ندید",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در درون پرده خانه، کسی همانند آن خیمه را ندید و بر کسی مانند آن پا نهاد."
     },
     {
       "VOrder": 4,
@@ -693,7 +695,8 @@
       "Text": "طلایه بیامد بگفت این به شاه",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: طلایه‌دار (پیشرو) آمد و گفت: این خبر به شاه رسید و دل شاه به خاطر آن جنگجو دلتنگ شد."
     },
     {
       "VOrder": 6,
@@ -709,7 +712,8 @@
       "Text": "گزین کرد زان جنگیان سه هزار",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: از میان جنگجویان، سه هزار تن را که زره پوش و سوار بودند، انتخاب کرد."
     },
     {
       "VOrder": 8,
@@ -725,7 +729,8 @@
       "Text": "به نستود فرمود تا برنشست",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: به نیکی فرمان داد تا بر قله کوه بنشیند؛ در میان هیکل بزرگ جنگجویی، توانایی تاخت و تاز را محدود کرد."
     },
     {
       "VOrder": 10,
@@ -741,7 +746,8 @@
       "Text": "همی‌راند نستود دل پر ز درد",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: دل پر از درد نمی‌تواند تحمل کند و نمی‌تواند مبارزه کند، پس با شجاعت و قوت به میدان نمی‌رود."
     },
     {
       "VOrder": 12,
@@ -757,7 +763,8 @@
       "Text": "همان نیز بهرام با لشکرش",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: بهرام که با لشکرش به میدان آمده بود، حتی او هم از حمله و خطر در امان نبود و نمی‌توانست به کشورش اطمینان کند."
     },
     {
       "VOrder": 14,
@@ -773,7 +780,8 @@
       "Text": "همی‌راند بی‌راه دل پر ز بیم",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: دل پر از ترس و ناامیدی به راهی نامعلوم رفته و نگران است. با خود گنج‌های باارزشی چون طلا و نقره را نیز حمل می‌کند."
     },
     {
       "VOrder": 16,
@@ -789,7 +797,8 @@
       "Text": "یلان سینه و گرد ایزد گشسپ",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: شجاعان میدان نبرد مانند یلان هستند و همچون ایزد گشسپ که از یک طرف لشکر را تحت فرمان خود قرار داده و اسب می‌رانَد."
     },
     {
       "VOrder": 18,
@@ -805,7 +814,8 @@
       "Text": "به بی‌راه لشکر همی‌راندند",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: در دل بی‌راهه، سربازان به راه خود می‌رفتند و همزمان داستان‌های پادشاهان را نقل می‌کردند."
     },
     {
       "VOrder": 20,
@@ -821,7 +831,8 @@
       "Text": "پدید آمد از دور یک پاره ده",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: از دور سر و شکل یک دهی پیدا شد، اما آن ده به خاطر دوری از نظرها، از حضور مردی با عظمت خالی بود."
     },
     {
       "VOrder": 22,
@@ -837,7 +848,8 @@
       "Text": "همی‌راند بهرام پیش اندرون",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: بهرام در حال حرکت است و در دلش احساس پشیمانی و درد و رنج زیادی دارد."
     },
     {
       "VOrder": 24,
@@ -853,7 +865,8 @@
       "Text": "چو از تشنگی خشک شدشان دهن",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: وقتی که آن‌ها از تشنگی لب‌هایشان خشک شد، به خانه یک پیرزن رفتند."
     },
     {
       "VOrder": 26,
@@ -869,7 +882,8 @@
       "Text": "زبان را به چربی بیاراستند",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: زبان را با چربی آراسته و زیبا کردند و از آن پیرزن خواستند که به آنها آب و نان بدهد."
     },
     {
       "VOrder": 28,
@@ -885,7 +899,8 @@
       "Text": "زن پیر گفتار ایشان شنید",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: زن سالخورده سخنان آن‌ها را شنید و گفت یکی از غربیل‌های قدیمی را بیاورید."
     },
     {
       "VOrder": 30,
@@ -901,7 +916,8 @@
       "Text": "برو بر به گسترده یک پاره مشک",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: به جایی برو که تکه‌ای از مشک روی غربال گذاشته شده است و آنجا نان و کشک دریافت کن."
     },
     {
       "VOrder": 32,
@@ -917,7 +933,8 @@
       "Text": "یلان سینه برسم به بهرام داد",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: جوانان دلیر، وقتی به میدان نبرد می‌رسند، مشتاقانه به یاد بهرام، قهرمان ایرانی، رفتار می‌کنند و این یادآوری، غم و اندوهی برایشان به دنبال ندارد."
     },
     {
       "VOrder": 34,
@@ -933,7 +950,8 @@
       "Text": "گرفتند واژ و بخوردند نان",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: زنان نام‌آوری که در نظر بودند، نان را گرفتند و خوردند."
     },
     {
       "VOrder": 36,
@@ -949,7 +967,8 @@
       "Text": "چو کشکین بخوردند می خواستند",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: وقتی که کشکینی خورده شد، میل داشتند زبان‌ها را با زمزمه‌ای شیرین و دلنشین بیارایند."
     },
     {
       "VOrder": 38,
@@ -965,7 +984,8 @@
       "Text": "زن پیر گفت ار میت آرزوست",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: زن سالخورده گفت: اگر آرزوی مرگ داری، بهتر است که از می نوشی و همچنین دوستی قدیمی هم باید داشته باشی."
     },
     {
       "VOrder": 40,
@@ -981,7 +1001,8 @@
       "Text": "بریدم کدو را که نوبد سرش",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: من کدو را از هم جدا کردم تا برش یک دست شود و سپس آن را در یک ظرف گذاشتم."
     },
     {
       "VOrder": 42,
@@ -997,7 +1018,8 @@
       "Text": "بدو گفت بهرام چون می بود",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: بهرام به او گفت: وقتی که می در دست است، از آن بهتر چه چیزی می‌تواند وجود داشته باشد؟"
     },
     {
       "VOrder": 44,
@@ -1013,7 +1035,8 @@
       "Text": "زن پیر رفت و بیاورد جام",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: زن سالخورده رفت و جامی از شراب بهرام را آورد و او را شاد و خوشحال کرد."
     },
     {
       "VOrder": 46,
@@ -1029,7 +1052,8 @@
       "Text": "یکی جام پر بر کفش برنهاد",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: کسی یک جام پر از نوشیدنی را به دست پیرزنی داد تا او هم خوشحال شود."
     },
     {
       "VOrder": 48,
@@ -1045,7 +1069,8 @@
       "Text": "بدو گفت کای مام با فرهی",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: او به مادرش گفت: ای مادر، با دانش و آگاهی خود به من بگو که واقعاً در این دنیای پر از مسائل چه چیزی را میدانید و از چه چیزهایی مطلع هستید."
     },
     {
       "VOrder": 50,
@@ -1061,7 +1086,8 @@
       "Text": "بدو پیرزن گفت چندان سخن",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: پیرزن به او گفت: من آن‌قدر صحبت کردم که مغزم از این همه حرف کهنه شد."
     },
     {
       "VOrder": 52,
@@ -1077,7 +1103,8 @@
       "Text": "ز شهر آمد امروز بسیار کس",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: امروز در شهر افرادی زیادی آمده‌اند و فقط از جنگ چوبین صحبت می‌کنند."
     },
     {
       "VOrder": 54,
@@ -1093,7 +1120,8 @@
       "Text": "که شد لشکر او به نزدیک شاه",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: لشکر او به سمت شاه به شدت فرار کرد و بدون هیچ نیروی کمکی، سپهبد به شدت نگران و مضطرب شد."
     },
     {
       "VOrder": 56,
@@ -1109,7 +1137,8 @@
       "Text": "بدو گفت بهرام کای پاک زن",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: بهرام به زن پاکش گفت: در این ماجرا یک داستان زیبا برای من بگو."
     },
     {
       "VOrder": 58,
@@ -1125,7 +1154,8 @@
       "Text": "که این از خرد بود بهرام را",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: این از دانش و خرد بهرام بوده است، و اگر به خواسته‌های نفسانی خود توجه می‌کرد، انتخاب دیگری می‌کرد."
     },
     {
       "VOrder": 60,
@@ -1141,7 +1171,8 @@
       "Text": "بدو پیرزن گفت کای شهره مرد",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: پیرزن به او گفت: ای شهرت در شهر، چرا شیطانی چشمان تو را تاریک کرده است؟"
     },
     {
       "VOrder": 62,
@@ -1157,7 +1188,8 @@
       "Text": "ندانی که بهرام پور گشسپ",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: نمی‌دانی که بهرام، پسر گشسپ، از خانواده هرمز چطور اسب را تحریک می‌کند."
     },
     {
       "VOrder": 64,
@@ -1173,7 +1205,8 @@
       "Text": "بخندد برو هرک دارد خرد",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: هرکسی که دانا و با فهم است، باید به دیگران لبخند بزند و آنانی که مغرور و گردنکش هستند، او را حساب نکنند."
     },
     {
       "VOrder": 66,
@@ -1189,7 +1222,8 @@
       "Text": "بدو گفت بهرام گر آرزوی",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: بهرام به او گفت: اگر چنین خواسته‌ای داری، خوب است که نوشیدنی بخوری و از آن لذت ببری."
     },
     {
       "VOrder": 68,
@@ -1205,7 +1239,8 @@
       "Text": "برین گونه غربیل بر نان جو",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: بر این اساس، نان جودار را در مقابل خود قرار بده تا دانه‌های جو از آن عبور کنند."
     },
     {
       "VOrder": 70,
@@ -1221,7 +1256,8 @@
       "Text": "بران هم خورش یک شب آرام یافت",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: در یک شب آرام، بران، خوشی و لذت را تجربه کرد، اما در نهایت نتوانست به تمام خواسته‌های دلش برسد."
     },
     {
       "VOrder": 72,
@@ -1237,7 +1273,8 @@
       "Text": "چو خورشید برچرخ بگشاد راز",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: وقتی خورشید به آسمان تابید و راز فرمانده جنگ را فاش کرد، او نیز طبل جنگ را به صدا درآورد."
     },
     {
       "VOrder": 74,
@@ -1253,7 +1290,8 @@
       "Text": "بیاورد چندانک بودش سپاه",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: او با لشکری بزرگ و قدرتمند به میدان آمد و راه را بر ما بستند."
     },
     {
       "VOrder": 76,
@@ -1269,7 +1307,8 @@
       "Text": "بره بر یکی نیستان بود نو",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: بره‌ای در کنار نیستانی تازه به دنیا آمده است و در آنجا مردم زیادی وجود دارند که در نی‌ها و درختان زندگی می‌کنند."
     },
     {
       "VOrder": 78,
@@ -1285,7 +1324,8 @@
       "Text": "چو از دور دیدند بهرام را",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: وقتی لشکر بهرام را از دور دیدند که همچون یک فرمانروای قدرتمند و سرکش است."
     },
     {
       "VOrder": 80,
@@ -1301,7 +1341,8 @@
       "Text": "به بهرام گفتند انوشه بدی",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: به بهرام گفتند: چرا انوشه‌بدی به دشت نیستان آمده است؟"
     },
     {
       "VOrder": 82,
@@ -1317,7 +1358,8 @@
       "Text": "که بی‌مر سپاهست پیش اندرون",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: در اینجا به جنگی اشاره شده است که درون آن، مبارزانی بدون نگرانی و ترس از نتیجه، خود را آماده می‌کنند. آنها تمام تلاش و همت خود را معطوف کرده و در این نبرد، با شجاعت و قدرت پیش می‌روند. خون و عواقب این جنگ برایشان اهمیتی ندارد و صرفاً به هدف خود می‌اندیشند."
     },
     {
       "VOrder": 84,
@@ -1333,7 +1375,8 @@
       "Text": "چنین گفت بهرام کایدر سوار",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: بهرام گفت که هیچ‌کس جز از سپاه شاه نمی‌تواند سواری کند."
     },
     {
       "VOrder": 86,
@@ -1349,7 +1392,8 @@
       "Text": "فرود آمدند اندران نیستان",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: در آن باغ نی، همه به هم جنگیدند و فضا را پر از تنش و درگیری کردند."
     },
     {
       "VOrder": 88,
@@ -1365,7 +1409,8 @@
       "Text": "شنیدم که چون ما ز پرده سرای",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: من شنیده‌ام که وقتی ما از پرده‌نشینی بیرون آمدیم و راهی به جلو اختیار کردیم."
     },
     {
       "VOrder": 90,
@@ -1381,7 +1426,8 @@
       "Text": "جهاندار بگزید نستود را",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: جهاندار کسی را که در نظرش شایسته و نستود به شمار بیاید، انتخاب کرد؛ جهانی که نه تار و پودی دارد و بی‌اساس است."
     },
     {
       "VOrder": 92,
@@ -1397,7 +1443,8 @@
       "Text": "ابا سه هزار از سواران مرد",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: با سه هزار سوار مرد، چگونه می‌توانند در روز جنگ پای در میدان بگذارند؟"
     },
     {
       "VOrder": 94,
@@ -1413,7 +1460,8 @@
       "Text": "بدان تا بیاید پس ما دمان",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: بدان که وقتی او بیاید، من زمان را متوقف می‌کنم تا او را ببینم."
     },
     {
       "VOrder": 96,
@@ -1429,7 +1477,8 @@
       "Text": "همه اسپ را تنگها برکشید",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: همه سواران بر پشت اسب‌هایشان اقبال کردند و دور این جنگل جمع شدند."
     },
     {
       "VOrder": 98,
@@ -1445,7 +1494,8 @@
       "Text": "سواران سبک برکشیدند تنگ",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: سواران سریع و چابک آماده شدند و شمشیرهای هندی را در دست گرفتند."
     },
     {
       "VOrder": 100,
@@ -1461,7 +1511,8 @@
       "Text": "همه نیستان آتش اندر زدند",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: همه نی‌ها را آتش سوزاندند و سپاه را یکی‌یکی بهم زدند."
     },
     {
       "VOrder": 102,
@@ -1477,7 +1528,8 @@
       "Text": "نیستان سراسر شد افروخته",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: در نیستان، همه جا آتش افروخته شده است. یکی در آتش کشته شده و دیگری سوخته است."
     },
     {
       "VOrder": 104,
@@ -1493,7 +1545,8 @@
       "Text": "چونستود را دید بهرام گرد",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "هوش مصنوعی: وقتی بهرام آن شخص را دید، افسار اسب تندرو را به او سپرد."
     },
     {
       "VOrder": 106,
@@ -1509,7 +1562,8 @@
       "Text": "ز زین برگرفتش به خم کمند",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "هوش مصنوعی: او از زین سوار را به دقت گرفت و او را به چنگ آورد و سپس به دقت بسته‌اش کرد."
     },
     {
       "VOrder": 108,
@@ -1525,7 +1579,8 @@
       "Text": "همی‌خواست نستود زو زینهار",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "هوش مصنوعی: او می‌خواست که او را نکو ندانند و به‌عنوان هشدار می‌گفت: ای پادشاه معروف."
     },
     {
       "VOrder": 110,
@@ -1541,7 +1596,8 @@
       "Text": "چرا ریخت خواهی همی خون من",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "هوش مصنوعی: چرا می‌خواهی خون من را بریزی؟ لطفاً بر قسمت بدبخت من رحم کن."
     },
     {
       "VOrder": 112,
@@ -1557,7 +1613,8 @@
       "Text": "مکش مر مرا تا دوان پیش تو",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "هوش مصنوعی: مرا از جلو خودت دور نکن تا بتوانم به سوی تو بیایم، مانند یک درویش که در حسرت توست."
     },
     {
       "VOrder": 114,
@@ -1573,7 +1630,8 @@
       "Text": "بدو گفت بهرام من چون تو مرد",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "هوش مصنوعی: بهرام به او گفت: من مانند تو، مردی نیستم که در میدان جنگ بمانم."
     },
     {
       "VOrder": 116,
@@ -1589,7 +1647,8 @@
       "Text": "نبرم سرت را که ننگ آیدم",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "هوش مصنوعی: نمی‌خواهم سرت را ببرم چون این کار باعث می‌شود که خودم شرمنده شوم، در حالی که من هم به جنگ آمده‌ام مثل تو."
     },
     {
       "VOrder": 118,
@@ -1605,7 +1664,8 @@
       "Text": "چو یابی رهایی ز دستم بپوی",
       "CoupletIndex": 59,
       "SectionIndex1": 0,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "هوش مصنوعی: وقتی که به آزادی دست پیدا کردی، هر چیزی که از من دیدی را به خسرو بگو."
     },
     {
       "VOrder": 120,
@@ -1621,7 +1681,8 @@
       "Text": "چو بشنید نستود روی زمین",
       "CoupletIndex": 60,
       "SectionIndex1": 0,
-      "SectionIndex2": 62
+      "SectionIndex2": 62,
+      "CoupletSummary": "هوش مصنوعی: به محض اینکه او صدای سخن را شنید، بر زمین افتاد و آنجا را بوسید و بسیار او را ستایش کرد."
     },
     {
       "VOrder": 122,
@@ -1637,7 +1698,8 @@
       "Text": "وزان بیشه بهرام شد تابری",
       "CoupletIndex": 61,
       "SectionIndex1": 0,
-      "SectionIndex2": 63
+      "SectionIndex2": 63,
+      "CoupletSummary": "هوش مصنوعی: در اینجا اشاره شده است که از جنگل بهرام، تابری (یعنی تبر یا اسلحه) به دست می‌آید که دلیران شاد و خوشبخت از آن استفاده می‌کنند. در واقع، این عبارت نشان‌دهنده‌ی شجاعت و پیروزی دلیران است که با ابزار جنگی خود بر مشکلات غلبه می‌کنند و به موفقیت می‌رسند."
     },
     {
       "VOrder": 124,
@@ -1653,7 +1715,8 @@
       "Text": "ببود و برآسود و ز آنجا برفت",
       "CoupletIndex": 62,
       "SectionIndex1": 0,
-      "SectionIndex2": 64
+      "SectionIndex2": 64,
+      "CoupletSummary": "هوش مصنوعی: او در آرامش و خوشی به سر می‌برد و پس از مدتی از آنجا رفت و به نزد خاقان با شکوه و محکم وارد شد."
     },
     {
       "VOrder": 126,

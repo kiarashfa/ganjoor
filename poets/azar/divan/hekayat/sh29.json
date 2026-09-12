@@ -651,7 +651,8 @@
       "Text": "یکی چنگ زن مطرب نغمه ساز",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: یک نوازنده چنگ در حال نواختن آوازهایی است که هیچ‌کس او را نمی‌شناسد و این نواختن به خاطر مهارتش در کارش و عشقش به موسیقی است."
     },
     {
       "VOrder": 2,
@@ -667,7 +668,8 @@
       "Text": "بهشتی ز سرو و گل آراسته",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: باغی زیبا و پر از درختان سرو و گل‌های تازه و شاداب است."
     },
     {
       "VOrder": 4,
@@ -683,7 +685,8 @@
       "Text": "مه زهره آهنگ خورشید خد",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: ماه همچون زهره به سوی خورشید می‌رود و گل، بلبل را به آواز خواندن فرا می‌خواند تا شمشاد قد بلند خود را به نمایش بگذارد."
     },
     {
       "VOrder": 6,
@@ -699,7 +702,8 @@
       "Text": "به پیراهن حلقش از نغمه خاک",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: به خاطر پیراهنی که به گردن حلقه‌ای آویخته شده، هر کسی از درد دلش زخمی شده و نغمه‌ای از آن بر زمین باقی مانده است."
     },
     {
       "VOrder": 8,
@@ -715,7 +719,8 @@
       "Text": "ازو دست افشان عروسان نجد",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: دست افشان به شادی عروس‌های نجد و رقص و شور و حال شیخ و صوفی از او ناشی می‌شود."
     },
     {
       "VOrder": 10,
@@ -731,7 +736,8 @@
       "Text": "بجان کسان بودیش گر هوس",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی به جان دیگران آسیب برساند، از کسی که از این کار دل‌سرد می‌شود و صدمه می‌بیند، هیچ نام و نشانی نخواهد بود."
     },
     {
       "VOrder": 12,
@@ -747,7 +753,8 @@
       "Text": "گدایش نمد داد و شاهش حریر",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: یک گدا برای خود نمدی گرفت و شاه بر روی تخت خود پارچه‌ای نرم و نفیس قرار داد."
     },
     {
       "VOrder": 14,
@@ -763,7 +770,8 @@
       "Text": "بباغش چو باد خزانی دمید",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: وقتی باد پاییزی به باغ نفوذ کرد، به خاطر پیری، قامتش مانند چنگ خم شد."
     },
     {
       "VOrder": 16,
@@ -779,7 +787,8 @@
       "Text": "بیکدیگر آمیخت کافور ومشک",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: وقتی کافور و مشکی به هم آمیخته شوند، گوهر لعل به وجود می‌آید که بدون آب و خشک است."
     },
     {
       "VOrder": 18,
@@ -795,7 +804,8 @@
       "Text": "گرفتش طپیدن دل و رعشه دست",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: دلش از شدت هیجان به تپش افتاده و دستش می‌لرزد. نفسش به شماره افتاده و صدایش به آرامی درآمده است."
     },
     {
       "VOrder": 20,
@@ -811,7 +821,8 @@
       "Text": "شدش نغمه چون نوحه ی بوم شوم",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: نغمه‌اش به اندازه‌ای حزین و شبیه نوحه بود که اهل آن سرزمین از او دور شدند و فرار کردند."
     },
     {
       "VOrder": 22,
@@ -827,7 +838,8 @@
       "Text": "روان بر در خلق میشد بسی",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: روح انسان به قدری در میان مردم مشغول و در حال رفت و آمد است که هیچ‌گاه به مجالس دیگران راه پیدا نمی‌کند."
     },
     {
       "VOrder": 24,
@@ -843,7 +855,8 @@
       "Text": "قدم در راه بینوایی گذاشت",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: او پا در راه فقر و ناداری گذاشت و در روزی دو زانو از هر آنچه که داشت، رها شد."
     },
     {
       "VOrder": 26,
@@ -859,7 +872,8 @@
       "Text": "یکی روز، کش پای آمد بسنگ",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: روزی شخصی به سمت سنگی آمد و در دستش عصا و چنگی داشت."
     },
     {
       "VOrder": 28,
@@ -875,7 +889,8 @@
       "Text": "شد از شهر بیرون، چو ابر بهار",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: او از شهر خارج شد و مانند ابر بهار بر روی سنگی در کنار قبر نشسته و اشک می‌ریزد."
     },
     {
       "VOrder": 30,
@@ -891,7 +906,8 @@
       "Text": "سر ناخنی بر رگ چنگ زد",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: وقتی سر ناخن بر رگ چنگ می‌کشد، صدای دلنشینی ایجاد می‌شود و این صدا مانند ناله‌ای است که بر روی نغمه‌ای به گوش می‌رسد."
     },
     {
       "VOrder": 32,
@@ -907,7 +923,8 @@
       "Text": "که ای بینوا من، نوازنده تو؛",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: ای دلسوخته من، نوازنده تو هستم؛ همه چیز را ایجاد کرده‌ام جز خودت، که تو سازنده‌ام هستی!"
     },
     {
       "VOrder": 34,
@@ -923,7 +940,8 @@
       "Text": "بود در دلم گفتنیها بسی",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: در دل من حرف‌های زیادی وجود دارد که نمی‌توانم آنها را به راحتی با هر کسی در میان بگذارم."
     },
     {
       "VOrder": 36,
@@ -939,7 +957,8 @@
       "Text": "کنون کآمدم خانه پرداخته",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: حالا که به خانه برگشتم، از بیگانگان دوری کرده‌ام و خلوتی برای خودم فراهم کرده‌ام."
     },
     {
       "VOrder": 38,
@@ -955,7 +974,8 @@
       "Text": "ببخشای اگر عجز نالی کنم",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: اگر نتوانم درد و ناتوانی‌ام را پنهان کنم، مرا ببخشید و از دل نداشته‌ام پوزش می‌طلبم."
     },
     {
       "VOrder": 40,
@@ -971,7 +991,8 @@
       "Text": "چگویم؟ نه من نه کسی را شکی است",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: چگونه بگویم که نه من و نه هیچ کس دیگری شکی ندارد که سخن نگفته و گفته شده، در حضور تو یکسان است؟"
     },
     {
       "VOrder": 42,
@@ -987,7 +1008,8 @@
       "Text": "ولی عرض حالم از آن خوش فتاد",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: حال من به گونه‌ای است که خوشحالی تو از حال بندگان خدا، آن را خوب نشان می‌دهد."
     },
     {
       "VOrder": 44,
@@ -1003,7 +1025,8 @@
       "Text": "از این پیش روزی که بودم جوان",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: در گذشته که جوان بودم، قدم‌هایم مانند درخت نارون و صورتم همچون گل ارغوانی بود."
     },
     {
       "VOrder": 46,
@@ -1019,7 +1042,8 @@
       "Text": "هم از رنگ من، ماه در نقص بود",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: چهره من به قدری زیبا و روشن است که حتی ماه هم در برابرش نقصانی دارد و زیبایی من باعث شده زهره (سیاره زهره) نیز با شادی و رقص به نمایش درآید."
     },
     {
       "VOrder": 48,
@@ -1035,7 +1059,8 @@
       "Text": "گدا و شه از ذوق آوای من",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: فقر و ثروت، هر دو از زیبایی صدای من شگفت‌زده شده‌اند، چنان‌که سروها به خاطر آواز من در پایم سرخم کرده‌اند."
     },
     {
       "VOrder": 50,
@@ -1051,7 +1076,8 @@
       "Text": "مرا کیسه و کاسه پر زر و می",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: من کیسه و کاسه‌ای پر از طلا و شراب دارم، اما در دل سرد و تیرگی زندگی‌ام، شراب گرم دیروز را می‌نوشم."
     },
     {
       "VOrder": 52,
@@ -1067,7 +1093,8 @@
       "Text": "ز آرایش افزود آلایشم",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: از زیبایی‌های تو، عیب‌ها و ناپاکی‌هایم بیشتر شده و آسایشم را به فراموشی سپرده‌ای."
     },
     {
       "VOrder": 54,
@@ -1083,7 +1110,8 @@
       "Text": "پذیرفت چون رنگ زردی گلم",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: زمانی که گل زرد رنگی را پذیرفتم، صدای بلبل هم‌نوای زغن شد."
     },
     {
       "VOrder": 56,
@@ -1099,7 +1127,8 @@
       "Text": "رمیدند خلقم ز همخانگی",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: مردم از همسایگی و زندگی مشترک با من فرار کردند و آشنایی با من به دوری و بیگانگی انجامید."
     },
     {
       "VOrder": 58,
@@ -1115,7 +1144,8 @@
       "Text": "خروشیدم از بیکسیها بسی",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: من از تنهایی و بی‌کسیم فریاد می‌زنم، اما هیچ‌کس از دوستانم به یاری‌ام نمی‌آید."
     },
     {
       "VOrder": 60,
@@ -1131,7 +1161,8 @@
       "Text": "کنون کآمدم بر درت شرمسار",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: اکنون که به درگاه تو آمده‌ام، شرمنده و خجالت‌زده‌ام. پس می‌خواهم که دستم را به این ساز تیره و غم‌انگیز بسپارم."
     },
     {
       "VOrder": 62,
@@ -1147,7 +1178,8 @@
       "Text": "نوازم تو را ساز ای کار ساز",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: من به تو محبت می‌کنم، ای خالق عالم، چون تو پناهی برای من هستی و من ناتوانم."
     },
     {
       "VOrder": 64,
@@ -1163,7 +1195,8 @@
       "Text": "ز نور کرم، جانفروزیم بخش",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: از عشق و رحمت تو، زندگی‌ام را روشن کن، و گناهانم را ببخش و روزی‌ام را فراوان کن."
     },
     {
       "VOrder": 66,
@@ -1179,7 +1212,8 @@
       "Text": "مگر سالکی، شحنه ی شهر بود",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: آیا ممکن است کسی که در دستگیری و حمایت از دیگران باشد، از دانش و درک خوبی برخوردار باشد؟"
     },
     {
       "VOrder": 68,
@@ -1195,7 +1229,8 @@
       "Text": "ز بیدار بختی در آن روز خفت",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: در آن روز، به دلیل خوش شانسی، شخصی خوابیده بود و در خواب، پیام‌آور غیب به او گفت."
     },
     {
       "VOrder": 70,
@@ -1211,7 +1246,8 @@
       "Text": "که: ما را یکی بنده ی سالخورد",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: در دل ما یک بنده سالخورده از باده‌ای که در جام باقی مانده، دغدغه و غم ایجاد کرده است."
     },
     {
       "VOrder": 72,
@@ -1227,7 +1263,8 @@
       "Text": "گران کرده پیری بهر محفلش",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: پیری به خاطر نیش و کنایه‌های جوانان، بار خود را سنگین کرده و از مجامع دوری می‌کند. دلش از سخنان آنان به تنگ آمده است."
     },
     {
       "VOrder": 74,
@@ -1243,7 +1280,8 @@
       "Text": "کنون در فلان جا، دل از غصه تنگ",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: حال در فلان جا، دلم به خاطر غم‌هایش فشار می‌آورد و هر بار با صدای چنگ آن را می‌خواند و می‌نوازد."
     },
     {
       "VOrder": 76,
@@ -1259,7 +1297,8 @@
       "Text": "ندید از رفیقان چو دلسوزی او",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: دوستان وقتی نیازی به دلسوزی و کمک من دارند، من برایشان آمرزش و روزی طلب نمی‌کنم."
     },
     {
       "VOrder": 78,
@@ -1275,7 +1314,8 @@
       "Text": "همان بدره سیمی که دوش از فلان",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: بدره‌ی نقره‌ای که دیشب از فلانی گرفتی، در واقع از آن دسته افرادی بود که از حقیقت غافل بودند."
     },
     {
       "VOrder": 80,
@@ -1291,7 +1331,8 @@
       "Text": "بآن بینوا ده، بگو : شادباش",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: به آن کسی که در مشکلاتی به سر می‌برد، بگو: خوشحال باش که بخشش و گذشت وجود دارد و تو می‌توانی از آن استفاده کنی."
     },
     {
       "VOrder": 82,
@@ -1307,7 +1348,8 @@
       "Text": "فگندند از چشم چون مردمت",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: چشم‌های تو وقتی به خشم می‌آید، مانند آتش می‌شود و جمعیت به خاطر تو به هیجان می‌آید."
     },
     {
       "VOrder": 84,
@@ -1323,7 +1365,8 @@
       "Text": "شدند از تو گر دوستداران نفور",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: چون تو نزد دوستانت مورد نفرت قرار گرفتی، بدان که در این میان، خدایی که بخشنده است، تو را دوست دارد."
     },
     {
       "VOrder": 86,
@@ -1339,7 +1382,8 @@
       "Text": "می از جام «لاتقنطوا» نوش کن",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: از جام «لاتقنطوا» نوش کن و غم‌های این دو جهان را فراموش کن."
     },
     {
       "VOrder": 88,
@@ -1355,7 +1399,8 @@
       "Text": "چو بیدار شد شحنه، برداشت سیم",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: وقتی شحنه بیدار شد، شروع به حرکت کرد و با ناز و آرامی مانند نسیم، دامن خود را به آرامی بالا کشید."
     },
     {
       "VOrder": 90,
@@ -1371,7 +1416,8 @@
       "Text": "بمیعاد گه پیری آشفته دید",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: در وقت قرار ملاقات، پیرمردی آشفته حال را دید که سرنوشت تیره‌اش را در خواب می‌بیند."
     },
     {
       "VOrder": 92,
@@ -1387,7 +1433,8 @@
       "Text": "بگوش و بدامن ز لطف و کرم",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: به گوش و دامانش پیام محبت و بخشش را رساند و به او چیزهایی ارزانی داشت."
     },
     {
       "VOrder": 94,
@@ -1403,7 +1450,8 @@
       "Text": "برآورد چون چنگ چنگی خروش",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: زمانی که چنگ، صدای خود را به گوش دیگران می‌رساند و با شور و شوق به نواختن می‌پردازد، این صدا به خاطر لطف و محبت چیزی به او به گوش رسیده است."
     },
     {
       "VOrder": 96,
@@ -1419,7 +1467,8 @@
       "Text": "زر افشاند بر بینوا چنگ چنگ",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: طلا بر زمین فقیران پاشیده شد، آنچنان که او در حسرت و درد ناله کرد و به مقابله با مشکلاتش پرداخت."
     },
     {
       "VOrder": 98,
@@ -1435,7 +1484,8 @@
       "Text": "ز جا جست، از شحنه شد عذر خواه",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: از مکان خود فرار کرد و عذرخواهی کرد، نه پاهایش کفش دارند و نه بر سرش کلاه."
     },
     {
       "VOrder": 100,
@@ -1451,7 +1501,8 @@
       "Text": "گذشت اول از هر چه باید گذشت",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: از هر چیزی که باید کنار گذاشته شود، گذشت و سپس از همان مکان به راه خود ادامه داد."
     },
     {
       "VOrder": 102,
@@ -1467,7 +1518,8 @@
       "Text": "ز مژگان خونین بخار و بسنگ",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: از چشم‌های اشک‌آلود مانند بخار و بر سنگ، هم آب می‌چکد و هم رنگی را به نمایش می‌گذارد."
     },
     {
       "VOrder": 104,
@@ -1483,7 +1535,8 @@
       "Text": "همی کرد فریاد دیوانه وار",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "هوش مصنوعی: او با فریادی دیوانه‌وار در حال ناله بود و می‌گفت: ای خداوندی پاک و بی‌نظیر."
     },
     {
       "VOrder": 106,
@@ -1499,7 +1552,8 @@
       "Text": "به بیگانه کاین لطف شایان کنی",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "هوش مصنوعی: تو نسبت به بیگانگان این‌قدر محبت و لطف داری، نمی‌دانم با دوستان و آشنایان خود چه رفتاری می‌کنی؟!"
     },
     {
       "VOrder": 108,
@@ -1515,7 +1569,8 @@
       "Text": "همی سوخت جانم ز شرم گناه",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "هوش مصنوعی: جانم به خاطر شرم از گناه می‌سوزد، اما تو با بخشش خود به آن شرم افزوده‌ای و آهی بر دل می‌نشانی."
     },
     {
       "VOrder": 110,
@@ -1531,7 +1586,8 @@
       "Text": "نسوزد چسان از دو آتش خسی",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "هوش مصنوعی: دل من نترسد از دو آتش، اما مبادا کسی که فقیر است بسوزد."
     },
     {
       "VOrder": 112,
@@ -1547,7 +1603,8 @@
       "Text": "اگر دوزخ آمد فروزنده تر",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "هوش مصنوعی: اگر جهنم هم بیفتد، آتش آن چنان سوزناک خواهد بود که شرم انسان را بیشتر خواهد آزرد."
     },
     {
       "VOrder": 114,
@@ -1563,7 +1620,8 @@
       "Text": "بیا آذر، از جام من نوش کن",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "هوش مصنوعی: بیا آذر، بیا و از جام من بنوش. من یک نصیحتی دارم که می‌خواهم بگویم، فقط به حرفم خوب گوش کن."
     },
     {
       "VOrder": 116,
@@ -1579,7 +1637,8 @@
       "Text": "چو بینی خموشمند کارآگهان",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "هوش مصنوعی: وقتی ببینی که انسان‌های با تجربه و دانا ساکت هستند، به روی تو عیب‌ها و مشکلات پنهانی را نمی‌گویند."
     },
     {
       "VOrder": 118,
@@ -1595,7 +1654,8 @@
       "Text": "نگویی که از عیب آگه نیند",
       "CoupletIndex": 59,
       "SectionIndex1": 0,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "هوش مصنوعی: نگو که از عیوب تو خبر ندارم، چرا که در تنهایی‌هایت هیچ‌کس جز من همراه تو نیست."
     },
     {
       "VOrder": 120,
@@ -1611,7 +1671,8 @@
       "Text": "بود از جهان آفرین شرمشان",
       "CoupletIndex": 60,
       "SectionIndex1": 0,
-      "SectionIndex2": 62
+      "SectionIndex2": 62,
+      "CoupletSummary": "هوش مصنوعی: از خداوند عالمیان شرم و حیا داشتند و به خاطر بزرگی و عظمت او خجالت می‌کشیدند."
     },
     {
       "VOrder": 122,
@@ -1627,7 +1688,8 @@
       "Text": "ز بیدانشی پرده بر خود مدر",
       "CoupletIndex": 61,
       "SectionIndex1": 0,
-      "SectionIndex2": 63
+      "SectionIndex2": 63,
+      "CoupletSummary": "هوش مصنوعی: از نادانی و بی‌خبری، حجاب و پرده بر خود نگذار؛ وگرنه زندگی‌ات را بی‌ارزش و نابود می‌کنند."
     },
     {
       "VOrder": 124,

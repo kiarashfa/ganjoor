@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "ای که داری خرد بدان که ترا",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که خرد و دانایی داری، بدان که برای تو سخت است با دو نفر در ارتباط باشی."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "اول آن کس که نیست طالب تو",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که به دنبال تو نیست، از تو و دیدنت متنفر است."
     },
     {
       "VOrder": 4,
@@ -55,7 +57,8 @@
       "Position": "Right",
       "Text": "دوم آن کس که دیدن او نیست",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آنقدرها که دیدن او برای دل تو خوشایند نیست، اما بی‌چاره‌وار باید او را ببینی."
     },
     {
       "VOrder": 6,

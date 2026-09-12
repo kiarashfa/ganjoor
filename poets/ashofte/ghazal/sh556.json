@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای چشم بدان زدیدنت دور",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای چشم، دوری تو ظلمی است که از جدایی میان تاریکی و روشنی حاصل می‌شود."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "ما چشم بدیگران نداریم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما به دیگران حسد نداریم و نگاه‌مان فقط به سوی هدف خودمان معطوف است."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "در حشر که نوبت نشور است",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در روز قیامت که زمان برخاستن و ظهور دستور الهی است."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "عاشق برضای دوست طالب",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عاشق برای رضایت معشوق خود به دنبال زهد و زندگی ساده است و به بهشت و زیبایی‌های آن توجهی ندارد."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "هر کس که بخاک کوی تو خفت",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که در آغوش عشق تو قرار بگیرد و در کنار تو آرام بگیرد، هرگز از آنجا حرکت نخواهد کرد و از آن حالت خارج نخواهد شد."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "مستسقی عشق کی شکیبد",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: محبت و عشق مانند آبی هستند که نمی‌توان از سرچشمه‌های آن، یعنی کوثر و سلسبیل و کافور، به مقدار کافی سیراب شد. فردی که در جستجوی عشق است، هرگز از این منابع سیراب نمی‌شود و همواره تشنه باقی می‌ماند."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "هر کس که اسیر زلف یار است",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که به زلف محبوبش گرفتار است، طبیعتاً از درد و رنج شب‌های سخت باخبر است."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "کاو شد بهلاک خویش ناچار",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او که به ناچار به سرنوشت خراب خود رسید، هنگامی که به زخم و آسیب خود دچار شد، مانند پرنده‌ای که در چنگال شکارچی گرفتار می‌شود."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "عشقت نتوان نهفت در دل",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق تو را نمی‌توان در دل پنهان کرد؛ زیرا اگر در دل باشد، مانند آتش شعله‌ور می‌شود و نمی‌تواند در پرده و پوشش باقی بماند."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "ایمان نه به روزه و نماز است",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ایمان به رعایت ظواهر دین مانند روزه و نماز نیست، اگر به خودت مغرور شوی، زاهد واقعی نخواهی بود."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "ای آب حیات رحمتی کن",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای آب حیات، تو را قسم می‌دهم که رحمتی به من کن، زیرا که از دوری تو جانم به شدت رنج می‌برد و در آتش عشق تو سوخته‌ام."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "هر چند زدیده دور رفتی",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چند که از جلو چشمانم دور شده‌ای، اما هرگز از دل من دور نخواهی شد."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "آشفته که بود آنکه آورد",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که به هم ریخته و بی‌قرار بود، آن کسی است که شکر را از زنبور عسل آورد."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "تا مهر علی بسینه جا کرد",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هنگامی که عشق علی در دل نشسته، دل مانند کعبه‌ای پر از زائر و امید می‌شود."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "تا پای سگ درش ببوسم",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من تمام تلاش خود را می‌کنم تا به هدفم برسم، حتی اگر مجبور شوم به پایین‌ترین مرتبه‌ها تن بده‌م."
     },
     {
       "VOrder": 30,

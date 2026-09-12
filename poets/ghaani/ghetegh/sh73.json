@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "نفس امارهٔ تو دشمن توست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نفس تو که به بدی‌ها و誘惑‌ها را دعوت می‌کند، دشمن واقعی‌ات است. پس بر خلاف خواسته‌های این نفس نباید به دشمنی با خودت بپردازی و به دنبال آن نباشی."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "خصم چون شد‌ گرسنه گیرد خشم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی دشمن از گرسنگی به تنگ آید، خشمگین می‌شود و مانند شیری حمله می‌کند."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "دشمن خویش را گرسنه مدار",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دشمن خود را گرسنه نگه‌دار و به او خوراکی نده که تا حد سیر شدن برسد."
     },
     {
       "VOrder": 6,

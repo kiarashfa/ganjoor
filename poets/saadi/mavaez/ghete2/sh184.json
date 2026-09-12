@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "هر بد که به خود نمی‌پسندی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که خودت دوست نداری، با دیگران هم نکن، ای برادر من."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گر مادر خویش دوست داری",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به مادر خود علاقه‌مندی، به مادر من توهین نکن."
     },
     {
       "VOrder": 4,

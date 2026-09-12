@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "دلا چون واقف اسرار گشتی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دل، چون به رازهای زندگی آگاه شدی، دیگر از تمام کارها بی‌نیاز گشتی."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "همان سودایی و دیوانه می‌باش",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو همان شخص دیوانه و شیفته هستی، پس چرا به خودت می‌گویی که عاقل شده‌ای و هشیار گشته‌ای؟"
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "تفکر از برای برد باشد",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر با فکر و تدبیر عمل کنی، در واقع به نفع خودت خواهد بود و تمام وجودت را وقف خدمت به دیگران کرده‌ای."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "همان ترتیب مجنون را نگه دار",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همانطور که مجنون رفتار می‌کرد، تو هم همان را ادامه بده، چون از نظم و ترتیب‌های معمولی کلافه شده‌ای."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "چو تو مستور و عاقل خواستی شد",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که تو خواستی هم عاقل و هم پنهان باشی، چرا در کجای شوق و شادی به بازار رفتی و به خُود باختی؟"
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "نشستن گوشه ای سودت ندارد",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نشستن در کنار و بی‌تحرکی فایده‌ای ندارد، زمانی که با رفقای خود در این مسیر دوست شدی."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "به صحرا رو بدان صحرا که بودی",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به دشت برو، به همان دشت که در این ویرانه‌ها خیلی گشتی و تجربه‌هایی به دست آوردی."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "خراباتی است در همسایه تو",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در همسایگی تو شخصی وجود دارد که به خاطر عطرهای مست‌کننده‌اش، تو نیز تحت تأثیر قرار گرفتی و حالت دگرگون شده است."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "بگیر این بو و می‌رو تا خرابات",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برو و این رایحه را بپذیر و به مکانی برو که در آن آزادی و خوشی وجود دارد، زیرا تو نیز مانند این بو، سبک و رها شده‌ای."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "به کوه قاف رو مانند سیمرغ",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به مانند سیمرغ که به قله‌ی کوه قاف می‌رود، تو نیز در پی یار خود، خود را با پرندگانی همچون جغد و بوتیمار محاصره کرده‌ای."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "برو در بیشه معنی چو شیران",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به جنگل معنی برو و مانند شیرها قوی و شجاع باش، نه اینکه مانند یک کفتار ضعیف و ترسو باشی."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "مرو بر بوی پیراهان یوسف",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به پیراهن یوسف نزدیک نشو، چون یعقوب که به خاطر او غمگین و ماتم‌دار شده است."
     },
     {
       "VOrder": 24,

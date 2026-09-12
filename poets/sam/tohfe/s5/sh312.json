@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "از شعرای بسیار گوی شهر قزوین است این مطلع از اوست :",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: این مطلع از شاعری معروف و مورد توجه در شهر قزوین است."
     },
     {
       "VOrder": 3,
       "Position": "Right",
       "Text": "بهر جا که آن جامه گلگون نشسته",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کجا که آن لباس قرمز نشسته، من نیز مانند یک مقتول بسیاری از خون‌ها را دیده‌ام."
     },
     {
       "VOrder": 4,

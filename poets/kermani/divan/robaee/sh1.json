@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "درملک تو راستی نیامد از ما",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در سرزمین تو، حقیقتی از ما به جز نادرستی و نقص نیامد."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "هر چیز که خواستیم ما، آن کردیم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر آنچه ما خواستیم، آن را به دست آوردیم، ولی چیزی که تو خواستی از ما نیامد."
     },
     {
       "VOrder": 4,

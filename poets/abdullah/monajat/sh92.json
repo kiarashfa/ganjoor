@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "الهی روی بنما تا در روی کسی ننگریم و دری بگشی تا بر در کس نگُذریم.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: ای خدا، چهره‌ات را به ما نشان بده تا دیگر به چهره هیچ‌کس نگاه نکنیم و در دلت را بگشا تا ما هم بر در کسی نرویم."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "پیوسته دلم دم ار رضای تو زند",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من همیشه به یاد توست و وجودم زنده است به خاطر تو."
     },
     {
       "VOrder": 3,
@@ -46,7 +48,8 @@
       "Position": "Right",
       "Text": "گر بر سر خاک من گیاهی روید",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بر روی خاک من گیاهی بروید، از هر برگ آن بوی وفای تو به مشام خواهد رسید."
     },
     {
       "VOrder": 5,

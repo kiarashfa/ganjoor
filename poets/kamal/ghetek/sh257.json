@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "من که در خانه منزوی شده ام",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من که در زندگی‌ام گوشه‌نشین شده‌ام، به خاطر اشتباهاتم از خودم عذرخواهی می‌کنم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "دست از خواستن بداشته ام",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از خواسته‌هایم دست کشیده‌ام، زیرا دیگر چیزی مانند مال و مقام برایم مهم نیست."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "نه اگر زین شکسته تر باشم",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچقدر هم که وضعم بدتر شود، به کمک دیگران نیازی ندارم."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "نه گر از تشنگی بخواهم مرد",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر از شدت تشنگی بمیرم، فقط یک جرعه آب از چاه می‌خواهم."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "نه اگر صد هزار ظلم کشم",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من اگرچه صد هزار ظلم را تحمل کنم، اما خواسته‌ام این است که از پادشاه کمک بگیرم."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "نه اگر می کنند صد دعوی",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه افراد زیادی ممکن است ادعای خود را ثابت کنند یا شاهدی بیاورند، اما من به این چیزها نیازی ندارم."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "نه همی داو خواهم اندر نرد",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من نه در بازی حظ می‌برم و نه به دنبال کسب مقام و قدرت هستم؛ به دنبال چیز دیگری هستم."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "نه گر اینجا مقام خواهم ساخت",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهم در اینجا ماندگار شوم، به افراد بزرگ و با ارزش پناه می‌برم."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "نه اگر عزم رفتنم باشد",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تصمیم به رفتن داشته باشم، از کسی هیچ کمکی در مورد راه نمی‌خواهم."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "لیک یک حاجتم بنزد تو هست",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اما یک خواسته دارم که نزد توست. اگر بگویی بخواه، من خواهم خواست."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "اسب بیچاره سخت درمانده ست",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اسب بیچاره در وضعیت سختی قرار دارد و من به خاطر او از تو خواهان کاه هستم."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "امر معروف شرط اسلامست",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امر به معروف یکی از واجبات دین اسلام است و بهانه‌ای برای ترک آن نمی‌پذیرم."
     },
     {
       "VOrder": 24,

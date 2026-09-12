@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "هر کرا قربت تو بیشترست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که بیش از دیگران به تو نزدیک باشد، در واقع او از همه افراد دیگر فقیرتر است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "وانک او دورترست از برتو",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او از تو دورتر است، اما با محبتش از همه چیز و همه کس نزدیک‌تر است."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "دست چپ گرچه بدل نزدیکست",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه دست چپ به ما نزدیک‌تر است، اما قدرت دست راست از آن بیشتر است."
     },
     {
       "VOrder": 6,

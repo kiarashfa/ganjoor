@@ -281,7 +281,8 @@
       "Text": "سر بادبان چون شد اندر هوا",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: وقتی که بادبان در هوا به آرامی حرکت کرد، کشتی به سمت مسیر خود روانه شد."
     },
     {
       "VOrder": 2,
@@ -297,7 +298,8 @@
       "Text": "درین گفتگوها شب اندر رسید",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در این گفت و گوها شب فرا رسید و دو سپاه در همان مکان فرود آمدند."
     },
     {
       "VOrder": 4,
@@ -313,7 +315,8 @@
       "Text": "ز کشتی همه لنگر انداختند",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: همه از کشتی پیاده شدند و هر کسی داستانی را تعریف می‌کرد."
     },
     {
       "VOrder": 6,
@@ -329,7 +332,8 @@
       "Text": "نهادند اصل سخن را بر آن",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: در شب، کسانی که به دنبال فرار هستند، اصل موضوع را پایه‌گذاری کردند."
     },
     {
       "VOrder": 8,
@@ -345,7 +349,8 @@
       "Text": "بگفتند تدبیر این است و بس",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: گفتند تنها راه حل این است که اگر کسی نیاید، شما باید خودتان اقدام کنید و به جلو بروید."
     },
     {
       "VOrder": 10,
@@ -361,7 +366,8 @@
       "Text": "بگفتند اندر دل شب رویم",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: گفتند که در دل شب می‌رویم، چون ما دیوانه‌ایم، تمام شب را به سمت تاریکی پیش می‌رویم."
     },
     {
       "VOrder": 12,
@@ -377,7 +383,8 @@
       "Text": "چو یک پاس از تیره شب درگذشت",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: وقتی یک بخش از شب تاریک سپری شد، شب دوباره به دور چرخ گردان رفت و ادامه یافت."
     },
     {
       "VOrder": 14,
@@ -393,7 +400,8 @@
       "Text": "از آن لشکر دیو ببد ده‌هزار",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: نیروهای شوم و پلید، در دل شب هیچ آرامش و قراری نداشتند و ده‌هزار بار نگران و مضطرب بودند."
     },
     {
       "VOrder": 16,
@@ -409,7 +417,8 @@
       "Text": "چو پنجاه کشتی بد از آمدن",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: وقتی که پنجاه کشتی به سفر آمده‌اند، دیگر کجا دلیلی برای باقی ماندن در آن جمع وجود دارد؟"
     },
     {
       "VOrder": 18,
@@ -425,7 +434,8 @@
       "Text": "براندند کشتی چو باد بهار",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: کشتی به مانند باد بهاری از میان آن‌ها عبور کرد و هیچ‌کدام از آن‌ها خبر نداشتند که چه اتفاقی در حال رخ دادن است."
     },
     {
       "VOrder": 20,
@@ -441,7 +451,8 @@
       "Text": "چو از شرفه بام نیلی حصار",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: وقتی که از بالای بام، دیوار نیلی رنگ نمایان شد، خشت‌های زرین و زیبا دیده شدند."
     },
     {
       "VOrder": 22,
@@ -457,7 +468,8 @@
       "Text": "چو قلوش چو قلواد دو پهلوان",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: در آن لحظه که دو پهلوان به هم رسیدند، همانند دو قلو و دو همزاد به هم پیوسته بودند."
     },
     {
       "VOrder": 24,
@@ -473,7 +485,8 @@
       "Text": "که از لشکر دیو یک تن نماند",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: در اینجا به تصویرسازی از نابودی دشمنان اشاره شده است. بیان می‌شود که هیچ‌کس از سپاه شیطان باقی نخواهد ماند و بدبختی بر سر این افراد نازل خواهد شد. به عبارت دیگر، به سرنوشت شوم و شکست حتمی آنها اشاره می‌شود."
     },
     {
       "VOrder": 26,
@@ -489,7 +502,8 @@
       "Text": "هزیمت گرفتند دیوان نر",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که در این دنیای پرآشوب و بی‌نظمی، افرادی که قدرت دارند (مانند دیوان یا دیوانگان) پیروز شده‌اند و کسی وجود ندارد که بتواند در این دریای وسیع و بی‌رحم مقابله کند یا راه حلی ارائه دهد."
     },
     {
       "VOrder": 28,
@@ -505,7 +519,8 @@
       "Text": "چو بشنید سام نریمان‌نژاد",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: هنگامی که سام نریمان‌نژاد این خبر را شنید، به اندازه‌ای شکرگزار شد که مانند باد به زمین افتاد و سجده کرد."
     },
     {
       "VOrder": 30,
@@ -521,7 +536,8 @@
       "Text": "ستایش بسی کرد بر کردگار",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: بسیاری از مردم به ستایش خداوند پرداخته‌اند و او را به عنوان آفریدگار موجودات کوچک و بزرگ، از جمله مور و مار، مورد ستایش قرار داده‌اند."
     },
     {
       "VOrder": 32,
@@ -537,7 +553,8 @@
       "Text": "بجز تو کسی‌ام خداوند نیست",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: غیر از تو، هیچ‌کس را نمی‌شناسم که لایق باشد؛ کسی که این موضوع را درک نکند، در واقع آدم باهوشی نیست."
     },
     {
       "VOrder": 34,
@@ -553,7 +570,8 @@
       "Text": "مرا ده توانائی و فرهی",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: به من قدرت و دانش ده که تو خودت خالق و اساسی. من مانند یک رهرو در این مسیر هستم."
     },
     {
       "VOrder": 36,
@@ -569,7 +587,8 @@
       "Text": "سر از سجده شکر برداشت باز",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: او پس از پایان سجده شکر، دوباره فریاد زد و سر خود را بلند کرد."
     },
     {
       "VOrder": 38,
@@ -585,7 +604,8 @@
       "Text": "که ای پهلوانان جنگ آوران",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: ای جنگجویان و پهلوانان، بدانید که هر یک از پیر و جوان تحت تاثیر شما قرار دارند."
     },
     {
       "VOrder": 40,
@@ -601,7 +621,8 @@
       "Text": "همین دم نهنکال در می‌رسد",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: در این لحظه نهنگ بزرگی با گرز (چماق) و گروهی از دیوان (مخلوقات خیال‌انگیز) از راه می‌رسند."
     },
     {
       "VOrder": 42,
@@ -617,7 +638,8 @@
       "Text": "ببینیم تا گردش روزگار",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: ببینیم چه پیشامدی در روزگار برای ما رقم می‌زند و چه بر ما می‌آورد در این شرایط سخت و نامطلوب."
     },
     {
       "VOrder": 44,
@@ -633,7 +655,8 @@
       "Text": "دل اندر خداوند بندید و بس",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: دل خود را به خدا سپردیم و جز او کسی را برای مدد و یاری نداریم."
     },
     {
       "VOrder": 46,
@@ -649,7 +672,8 @@
       "Text": "بگفت و توکل به دادار کرد",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: او سخنی گفت و به خداوند توکل کرد و از دلش آه سردی برآورد."
     },
     {
       "VOrder": 48,
@@ -665,7 +689,8 @@
       "Text": "که آیا پری‌دخت ماهم کجاست",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: من نمی‌دانم که پری‌دخت ما، که نماد زیبایی و لطافت است، کجاست و در این دریا که غرق در آن هستم، مسیرم به کجا می‌رسد."
     },
     {
       "VOrder": 50,

@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "ننویسی جواب نامه من",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به نامه من پاسخ ندی، اصلاً نامه من ارزشش رو نداره که جواب بدی."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "ای عجب فضل تو روا دارد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عجب است که زحمت تو باعث می‌شود حتی کسی که تشنه‌است، از لب تشنه‌اش آب بگیرد."
     },
     {
       "VOrder": 4,

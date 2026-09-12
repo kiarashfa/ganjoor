@@ -267,7 +267,8 @@
       "Text": "خدایا جنایت ز حد برده‌ایم",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: خدایا، ما به حدی از ظلم و جنایت پیش رفته‌ایم که حتی شرم و حیا را هم از دست داده‌ایم و دیگر عقل و دانش‌مان را نادیده گرفته‌ایم."
     },
     {
       "VOrder": 2,
@@ -283,7 +284,8 @@
       "Text": "نه ما را ز اخلاص بوئی خبر",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: ما نه از صداقت و خلوص بویی برده‌ایم، و نه نشانه‌ای از تحقیق و حقیقت را در خود می‌بینیم."
     },
     {
       "VOrder": 4,
@@ -299,7 +301,8 @@
       "Text": "اگر بر جناب تو سر می‌نهیم",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: اگر به شما احترام می‌گذاریم، ممکن است برایتان مشکلاتی به وجود بیاوریم."
     },
     {
       "VOrder": 6,
@@ -315,7 +318,8 @@
       "Text": "ز من نفس بد گر بیابد مراد",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: اگر نفس بد من به هدف خود برسد، فرشته غمگین و دیو شاد خواهد شد."
     },
     {
       "VOrder": 8,
@@ -331,7 +335,8 @@
       "Text": "مرا نفس من غول رهزن شده‌ست",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: نفس من مانند یک غول خطرناک شده که راه درست را از من پنهان کرده است."
     },
     {
       "VOrder": 10,
@@ -347,7 +352,8 @@
       "Text": "اگر ره به کعبه نیابم رواست",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: اگر نتوانم به کعبه برسم، اشکالی ندارد؛ زیرا این مسیری که من می‌روم، اشتباه است."
     },
     {
       "VOrder": 12,
@@ -363,7 +369,8 @@
       "Text": "به مقصود ما بی‌خبر می‌رویم",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: ما بدون اینکه خبر داشته باشیم به سوی هدفمان در حرکتیم و هر لحظه از آن دورتر می‌شویم."
     },
     {
       "VOrder": 14,
@@ -379,7 +386,8 @@
       "Text": "فغان من از نفس و تلقین او",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: ناله من از نفس و یادآوری اوست که ابلیس را از او بازیگوشی آموخت."
     },
     {
       "VOrder": 16,
@@ -395,7 +403,8 @@
       "Text": "به وقتی که او مایل طاعت است",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: زمانی که او آماده است تا از دستورات پیروی کند، در واقع در آن لحظه بیشتر از هر وقت دیگری به شرک نزدیک است."
     },
     {
       "VOrder": 18,
@@ -411,7 +420,8 @@
       "Text": "نه هر طاعتی خاص رحمانی است",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: هر عملی که انجام می‌دهیم، لزوماً مورد پسند خدا نیست و برخی از کارها ممکن است به ظاهر خوب به نظر برسند، اما در حقیقت نشان‌دهنده وسواس و کج‌روی شیطانی هستند."
     },
     {
       "VOrder": 20,
@@ -427,7 +437,8 @@
       "Text": "ز پرهیز بی صدق تابد فلاح",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: از پرهیز کردن همراه با صداقت، موفقیت به وجود می‌آید، زیرا فساد در واقع نشان‌دهنده‌ی نقص و عدم درستی است، در حالی که ظاهر خود را به شکل درستی و صلاح نشان می‌دهد."
     },
     {
       "VOrder": 22,
@@ -443,7 +454,8 @@
       "Text": "نه در علم اهلیم و نه در عمل",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: نه در دانش اهل علم و نه در عمل ما، بنیاد دین با اشکالات زیادی روبرو شده است."
     },
     {
       "VOrder": 24,
@@ -459,7 +471,8 @@
       "Text": "اگر باز پرسی ز تقصیر ما",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: اگر از ما درباره اشتباهات‌مان بپرسی، سوال تو برای ما بسیار دشوار و ناراحت‌کننده خواهد بود."
     },
     {
       "VOrder": 26,
@@ -475,7 +488,8 @@
       "Text": "همان به که گیریم پیشت گلو",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: بهتر است که قبل از تو با احترام تمام کلامی را آغاز کنیم و خواسته‌امان را به تو بنمایانیم."
     },
     {
       "VOrder": 28,
@@ -491,7 +505,8 @@
       "Text": "بیاریم از دیده اشک نیاز",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: بیایید از چشمان‌مان اشک درخواست بریزیم و با زاری بگوییم: ای کسی که مشکلات را حل می‌کنی."
     },
     {
       "VOrder": 30,
@@ -507,7 +522,8 @@
       "Text": "همه لطف در کار ما کرده‌ای",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: تو تمام محبت و مهربانی‌ات را در کار ما انجام داده‌ای و همه خواسته‌هایمان را برآورده کرده‌ای."
     },
     {
       "VOrder": 32,
@@ -523,7 +539,8 @@
       "Text": "اگر چه شب و روز بد می‌کنیم",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: ما هرچند که در شب و روز کارهای نادرستی انجام می‌دهیم، اما این کارها تنها به تو مربوط نیست، بلکه در حقیقت به خودمان آسیب می‌زنیم."
     },
     {
       "VOrder": 34,
@@ -539,7 +556,8 @@
       "Text": "تو داناتری حال ما را ز ما",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: تو از ما به حال و روز ما آگاه‌تری، پس چنان کن که از ما اشتباهی سر نزند."
     },
     {
       "VOrder": 36,
@@ -555,7 +573,8 @@
       "Text": "تو تدبیر ما کن که ما بیخودیم",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: از تو می‌خواهیم که برای ما برنامه‌ریزی کنی، چون ما خودمان در کارهایمان بی‌فکر و نادان هستیم. این حالت نادانی کافی است، زیرا ما با خودمان درگیر هستیم."
     },
     {
       "VOrder": 38,
@@ -571,7 +590,8 @@
       "Text": "به تو می‌گریزم، به تو ای صمد",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: از تو فرار می‌کنم، ای بی‌نظیر، زیرا از خودم درخواست کمک دارم."
     },
     {
       "VOrder": 40,
@@ -587,7 +607,8 @@
       "Text": "مرا از جفای من آزاد کن",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: مرا از ظلم و ستمی که به خودم می‌کنم آزاد کن و دل مرا با مهربانی‌هایت شاد کن."
     },
     {
       "VOrder": 42,
@@ -603,7 +624,8 @@
       "Text": "اگر من نی‌ام مستحق کرم",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: اگر من لایق رحمت و بخشش تو نیستم، چرا تو سفره‌ی کرمت را به روی همه گشوده‌ای؟"
     },
     {
       "VOrder": 44,
@@ -619,7 +641,8 @@
       "Text": "نه با خار آن را بها می‌کند",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: خرگوش برای گل با خارهایش کار نمی‌کند، چرا که این هم به طبیعی بودن آن بستگی دارد."
     },
     {
       "VOrder": 46,
@@ -635,7 +658,8 @@
       "Text": "اگر هست ناصر فروتر ز خار",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: اگر ناصر به اندازه‌ای پایین‌تر و ناچیزتر از خار باشد، اما در ثواب و پاداش، از بهار بالاتر است."
     },
     {
       "VOrder": 48,

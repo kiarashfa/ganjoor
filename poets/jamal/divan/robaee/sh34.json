@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "خط تو گرش کسی بخط میخواند",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی خط تو را بخواند، در واقع خودش نمی‌تواند آن را به درستى بخواند و در حقیقت دچار اشتباه می‌شود."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "در آینه روی تو زلفت پیداست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در آینه، چهره‌ی تو و زلف‌هایت مشخص است و آن تصویر زلف‌ها با خط زیبا و دلنشینی تو را وصف می‌کند."
     },
     {
       "VOrder": 4,

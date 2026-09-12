@@ -407,7 +407,8 @@
       "Text": "بود یکی روز جوانی مگر",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: روزی جوانی بود که حافظ، از حال و روز او و دلش آگاه بود."
     },
     {
       "VOrder": 2,
@@ -423,7 +424,8 @@
       "Text": "قطع تعلق ز همه نیک و بد",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: حافظ به ما توصیه می‌کند که از وابستگی به خوبی‌ها و بدی‌های دنیا، چه در روز و چه در شب، فاصله بگیریم و زمان خود را به بهترین شکل مدیریت کنیم."
     },
     {
       "VOrder": 4,
@@ -439,7 +441,8 @@
       "Text": "از همه خلق جهان برکران",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: او در گوشه‌ای از عالم، دور از همه مردم، به تنهایی نشسته و سکوت و آرامش را انتخاب کرده است."
     },
     {
       "VOrder": 6,
@@ -455,7 +458,8 @@
       "Text": "گوشه تنهایی و رخسار زرد",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: در تنهایی، چهره‌اش زرد و گرفته است و از همه جا دلش سرد و بی‌حس شده است."
     },
     {
       "VOrder": 8,
@@ -471,7 +475,8 @@
       "Text": "بی کس و بی مونس و بی یار هم",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: درد و تنهایی باعث شده که شب‌ها بی‌خواب بمانم و هیچ همراهی نداشته باشم."
     },
     {
       "VOrder": 10,
@@ -487,7 +492,8 @@
       "Text": "عافیتی داشت به عالم تمام",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: عافیت و خوشبختی او در زندگی باعث شد که همه، اعم از خاص و عام، به حسرت او نگاه کنند و به حال او غبطه بخورند."
     },
     {
       "VOrder": 12,
@@ -503,7 +509,8 @@
       "Text": "طعن زدی بر همه عاشقان",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: تو به همه عاشقان طعن زدی و به آنها کنایه زدی، اما نمی‌دانی که قلب‌ها چه سختی‌ها و قربانی‌هایی را تحمل کرده‌اند."
     },
     {
       "VOrder": 14,
@@ -519,7 +526,8 @@
       "Text": "حسن که باشد که رباید دلی",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: زیبایی چه کسی است که دل‌ها را به تسخیر درآورد و به واسطه زیبایی‌اش، حقیقتی از دل‌نشینی و لطافت را نمایان کند؟"
     },
     {
       "VOrder": 16,
@@ -535,7 +543,8 @@
       "Text": "کرد بسی دعوی پاکی مگر",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: بسیاری ادعا می‌کنند که پاک و بی‌گناه هستند، ولی از وضعیت تقدیر و سرنوشت خود غافلند."
     },
     {
       "VOrder": 18,
@@ -551,7 +560,8 @@
       "Text": "بود به همسایه یکی آن جوان",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: یک جوان زیبا با قد بلند و چهره‌ای چون لاله، در نزدیکی همسایه زندگی می‌کرد."
     },
     {
       "VOrder": 20,
@@ -567,7 +577,8 @@
       "Text": "دلبر بالا قلم جان گداز",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: عشقم را که با زیبایی و جذابیت خود جان مرا به وجد می‌آورد، دیدن او سبب طول عمر و زندگی من است."
     },
     {
       "VOrder": 22,
@@ -583,7 +594,8 @@
       "Text": "ز ابروی او گشته خجل ماه نو",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: ابروهای او به قدری زیباست که ماه نو از خجلت در برابرش سر به زیر برده و خورشید هم از تابش چهره‌اش شرم می‌کند."
     },
     {
       "VOrder": 24,
@@ -599,7 +611,8 @@
       "Text": "گیسوی او حلقه زده چون کمند",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: موهای او به شکلی حلقه‌دار است که مانند کمند دل‌های غمگین را به اسارت گرفته است."
     },
     {
       "VOrder": 26,
@@ -615,7 +628,8 @@
       "Text": "نرگس او چون دو بلای سیاه",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: چشم‌های نرگس او مانند دو بلا و یا مصیبت سیاه باعث نابودی و بدبختی تمام مردم دنیا شده است."
     },
     {
       "VOrder": 28,
@@ -631,7 +645,8 @@
       "Text": "لعل لبش باده میخانه ها",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: لبان سرخ او مانند لعل هستند و شراب میخانه‌ها را به یاد می‌آورند، در حالی که چهره‌اش راه‌حلی برای تمام بی‌چاره‌ها است."
     },
     {
       "VOrder": 30,
@@ -647,7 +662,8 @@
       "Text": "حقه پر در و گهر آن لبان",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: لبان زیبا و پرمهر او مانند گوهری درخشان هستند که جان عاشقان را زنده می‌کنند."
     },
     {
       "VOrder": 32,
@@ -663,7 +679,8 @@
       "Text": "از قد او سرو به بستان خجل",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: قد او به قد سرو در باغ می‌ماند و این زیبایی به حدی است که همه را خجالت‌زده می‌کند. روی او هم مانند گلی زیباست که حتی جوانان را جذب خود می‌کند."
     },
     {
       "VOrder": 34,
@@ -679,7 +696,8 @@
       "Text": "آن که گل از طلعت او کرده دق",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: آن که زیبایی‌اش باعث می‌شود گل‌ها به او حسادت کنند و از شرم چهره‌اش عرق بریزند."
     },
     {
       "VOrder": 36,
@@ -695,7 +713,8 @@
       "Text": "ساعد او هست چو جان در تنم",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: وجود او برای من مانند جان در بدنم است؛ اگر این حقیقت بر دوش من باشد، جانم را در خطر می‌اندازد."
     },
     {
       "VOrder": 38,
@@ -711,7 +730,8 @@
       "Text": "آب حیات از لب او شبنمی",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: آب زندگی از لبان او جاری است و هیچ دلی نیست که از غم خالی باشد."
     },
     {
       "VOrder": 40,
@@ -727,7 +747,8 @@
       "Text": "خنده او لذت شهد و شکر",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: خنده او مانند لذت بخش‌ترین شیرینی‌هاست و چهره‌اش نوری است که چشمان آدمی را روشن می‌کند."
     },
     {
       "VOrder": 42,
@@ -743,7 +764,8 @@
       "Text": "گر صفت او بکنم در جهان",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهم ویژگی‌های او را در این دنیا بیان کنم، قلم این زمان قادر به توصیف آن نخواهد بود."
     },
     {
       "VOrder": 44,
@@ -759,7 +781,8 @@
       "Text": "دید چو رخساره زیبای او",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: وقتی چهره زیبا و دلنشین او را دیدم، جوانی‌ام به شگفتی و حیرت افتاد."
     },
     {
       "VOrder": 46,
@@ -775,7 +798,8 @@
       "Text": "قلب جوان واله جانانه شد",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: قلب جوان به شدت شیفته و مشتاق عشق شده است، همان‌طور که پرنده‌ای برای پیدا کردن دانه‌ها به پرواز درمی‌آید."
     },
     {
       "VOrder": 48,
@@ -791,7 +815,8 @@
       "Text": "گشت جوان بی خور و خواب و قرار",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: جوان با حالتی restless و بی‌قرار، نه خواب راحتی دارد و نه خوراکی می‌تواند بخورد. دلش پر از درد و جراحت است و احساس ناخوشایندی دارد."
     },
     {
       "VOrder": 50,
@@ -807,7 +832,8 @@
       "Text": "داشت دلی، آن دلش از دست رفت",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: شخصی دلی داشت که آن دل او از دست رفته بود، مانند پرنده‌ای که قفسش شکسته و پرواز کرده است."
     },
     {
       "VOrder": 52,
@@ -823,7 +849,8 @@
       "Text": "ماند لب خشک و دو رخسار زرد",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: زبانم خشک مانده و صورت‌هایم زرد است، چشمانم پر از اشک و دلم پر از درد و رنج است."
     },
     {
       "VOrder": 54,
@@ -839,7 +866,8 @@
       "Text": "محرمیی نی که کند عرض حال",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس نیست که بخواهد حال من را بپرسد و غم من باعث شده که زیر فشار و رنج قرار بگیرم."
     },
     {
       "VOrder": 56,
@@ -855,7 +883,8 @@
       "Text": "شب همه شب تا به سحر می گریست",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: او در طول شب تا سحر اشک می‌ریخت و با لب‌های خشک، چشمانش پر از اشک بود."
     },
     {
       "VOrder": 58,
@@ -871,7 +900,8 @@
       "Text": "سوخت جهان ز آه دل این فقیر",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: جهان به خاطر درد و آه دل این فقیر در حال سوختن است و کسی نیست که به او کمک کند."
     },
     {
       "VOrder": 60,
@@ -887,7 +917,8 @@
       "Text": "مضطرب و بی سر و سامان شده",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: بی‌تاب و آشفته شده و در پی این رخداد گیج و سردرگم است."
     },
     {
       "VOrder": 62,
@@ -903,7 +934,8 @@
       "Text": "جان و دل او چو به غم یار شد",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: وقتی که جان و دلش به خاطر غم عشق معشوق آزار دید، در نهایت دلش بیمار و رنجور شد."
     },
     {
       "VOrder": 64,
@@ -919,7 +951,8 @@
       "Text": "داشت یکی خادمه ای آن نگار",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: یک کنیز، آن نگار زیبا را دید که جوانی را می‌نگرد و متوجه شد که او به شدت بی‌تاب و مضطرب شده است."
     },
     {
       "VOrder": 66,
@@ -935,7 +968,8 @@
       "Text": "بر سر بالین جوان چون نشست",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: وقتی که بر بالین جوان نشستم، دیدم جوان در حال رفتن است و زندگی‌اش از دست می‌رود."
     },
     {
       "VOrder": 68,
@@ -951,7 +985,8 @@
       "Text": "برده بد آن خادمه چیزی گمان",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: این جمله به معنای این است که خدمتکار تحت فشار و سخت‌گیری قرار دارد و از جوان سؤال می‌کند که حال او چگونه است. به نوعی، او از جوان می‌خواهد تا احوالاتش را بیان کند و از چالش‌های زندگی خود سخن بگوید."
     },
     {
       "VOrder": 70,
@@ -967,7 +1002,8 @@
       "Text": "گفت جوان، حال دل زار خویش",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: جوان به من گفت که حال دلش بسیار بد است و او می‌خواهد این را فقط با کسی که به او اعتماد دارد در میان بگذارد."
     },
     {
       "VOrder": 72,
@@ -983,7 +1019,8 @@
       "Text": "گفت برو بهر خدای جهان",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: برو و به خاطر خدا حال دلم را در آنجا که روشن است، اصلاح کن."
     },
     {
       "VOrder": 74,
@@ -999,7 +1036,8 @@
       "Text": "گاه بود رحم کند آن نگار",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: گاهی اوقات آن معشوق بر دل عارف رحم می‌کند، در حالی که او به شدت دور از آرامش و بی‌قرار است."
     },
     {
       "VOrder": 76,

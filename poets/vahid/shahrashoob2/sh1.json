@@ -247,7 +247,8 @@
       "Text": "بنمود سوادِ شهری از دور",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: انسانی که از دور به نظر می‌رسد، ظاهری روشن و جذاب دارد، همان‌طور که سواد و دانش یک فرد بر زندگی‌اش تأثیر می‌گذارد و به او روشنایی و آگاهی می‌بخشد."
     },
     {
       "VOrder": 2,
@@ -263,7 +264,8 @@
       "Text": "شهری همه خانه هاش پر زر",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: شهر، تمام خانه‌هایش پر از طلاست، مانند قصر خیال یک کیمیاگر."
     },
     {
       "VOrder": 4,
@@ -279,7 +281,8 @@
       "Text": "چون دل همه خانه ها شمالی",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: دل همه خانه‌ها به سمت شمال است و هر یک مانند بنای یک چرخ بزرگ می‌باشد."
     },
     {
       "VOrder": 6,
@@ -295,7 +298,8 @@
       "Text": "مانند نهال گل، خیابان",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: خیابان مانند گلی است که در خانه‌ها شکفته و شادی به ارمغان می‌آورد."
     },
     {
       "VOrder": 8,
@@ -311,7 +315,8 @@
       "Text": "بیرون ز شمار مخزن گنج",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: این بیت بیان می‌کند که وقتی چیزی از مخزن گنج بیرون می‌آید، مانند چیدمان و تجزیه و تحلیل بازی شطرنج است. در واقع، اشاره به این دارد که هر چیز باید به دقت و با تأمل مورد بررسی قرار گیرد."
     },
     {
       "VOrder": 10,
@@ -327,7 +332,8 @@
       "Text": "سیّار ز خانه ها به صد سال",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: اگر فکر یک شخص به مسائل بیهوده و شایعات مشغول باشد، مانند آن است که مانند یک سیّار که سال‌ها از خانه‌اش دور مانده، نتواند از مکان خود خارج شود یا به جلو برود."
     },
     {
       "VOrder": 12,
@@ -343,7 +349,8 @@
       "Text": "از سبزی کشور و بلادش",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: درختان سرسبز و خرم کشورش به قدری زیبا و خوش وضعیت هستند که مانند سرو در برابر باد ایستاده‌اند."
     },
     {
       "VOrder": 14,
@@ -359,7 +366,8 @@
       "Text": "بر شاخ درخت، مرغ رنگین",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: بر شاخه درخت، پرنده‌ای زیبا مانند شمعی روشن، بال‌های طلایی‌اش را باز کرده است."
     },
     {
       "VOrder": 16,
@@ -375,7 +383,8 @@
       "Text": "بگرفته ز سبزه در جنابش",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: در کنار او، آینه‌ای از سبزه و گل‌ها به رنگ سبز و مانند موم، آب را منعکس کرده است."
     },
     {
       "VOrder": 18,
@@ -391,7 +400,8 @@
       "Text": "بنموده ز روشنایی آب",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: هر قطره آب به اندازه‌ای روشن است که در شب، مانند کرم شب‌تاب نور می‌افشاند."
     },
     {
       "VOrder": 20,
@@ -407,7 +417,8 @@
       "Text": "آسان گردد، به طرف گلشن",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: شمع به راحتی به سمت باغ گل می‌رود، همان‌طور که لاله با آتش می‌درخشد."
     },
     {
       "VOrder": 22,
@@ -423,7 +434,8 @@
       "Text": "آبش به صفایِ روح، غلطان",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: آب خوش و زلالی که روح را نوازش می‌دهد و جان را با رنگ و لطافت خود زنده می‌کند."
     },
     {
       "VOrder": 24,
@@ -439,7 +451,8 @@
       "Text": "گندم چو دواند ریشه زان نم",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: گندم وقتی که ریشه‌هایش در خاک می‌دوند، از آب زندگی‌ام می‌گیرد، مانند عنکبوت که در تار خود نفس می‌کشد."
     },
     {
       "VOrder": 26,
@@ -455,7 +468,8 @@
       "Text": "اجساد ز زندگی، بریده",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: اجساد مرده مانند ریشه‌هایی که از زندگی جدا شده‌اند، در خاک فرو رفته و قد کشیده‌اند."
     },
     {
       "VOrder": 28,
@@ -471,7 +485,8 @@
       "Text": "گر واله ی لاله ی بهاری",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: اگر در دیوانگی و شیدایی از زیبایی لاله‌های بهاری مشغول گل شمردن شده‌ای،"
     },
     {
       "VOrder": 30,
@@ -487,7 +502,8 @@
       "Text": "کشتیش آن حنا نهاده زان بام",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: تو زحمتی کشیده‌ای و حنای خود را بر روی کشت و کار خود گذاشته‌ای، مانند مغز بادام که در دل آن قرار دارد و با دقت و توجه در انتظار برداشت می‌ماند."
     },
     {
       "VOrder": 32,
@@ -503,7 +519,8 @@
       "Text": "بنموده مناره های پُر فر",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: مناره‌های بلند و زیبا به شکل پر، مانند پرچم‌هایی در وسط یک لشکر به نظر می‌رسند."
     },
     {
       "VOrder": 34,
@@ -519,7 +536,8 @@
       "Text": "خورشید و مه از فراز آنها",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: خورشید و ماه از بلندی‌های آسمان مانند سر پرچم از خود پرچم نمایان هستند."
     },
     {
       "VOrder": 36,
@@ -535,7 +553,8 @@
       "Text": "هر برجی را نموده از سر",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: هر بنایی را که از آسمان آبی ساخته‌اند، به مانند کبوتر به نظر می‌آید."
     },
     {
       "VOrder": 38,
@@ -551,7 +570,8 @@
       "Text": "در چار حدش بیوت مردم",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: در چهارچوب زندگی مردم، زیبایی او باعث می‌شود که بیننده mesmerized شود و از دیدن او غافل بماند."
     },
     {
       "VOrder": 40,
@@ -567,7 +587,8 @@
       "Text": "بنموده به چشم اهل انصاف",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد که به چشم افراد منصف و عادل، مانند جوجه‌های مرغ، در اطراف پرسه می‌زنیم و در واقعیت خود را ظاهر می‌کنیم."
     },
     {
       "VOrder": 42,
@@ -583,7 +604,8 @@
       "Text": "بازار و دکانش از عدد بیش",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: بازار و مغازه‌اش پر از اعداد و شمار است، اما مهم‌تر از آن، عشق و محبت در میان هر صنفی وجود دارد."
     },
     {
       "VOrder": 44,

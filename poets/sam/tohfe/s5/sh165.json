@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "از شعرای شهر لاهیجانست این مطلع از اوست :",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: این مطلع متعلق به یکی از شعرای شهر لاهیجان است."
     },
     {
       "VOrder": 3,
       "Position": "Right",
       "Text": "پیشه ام عشق است و روز و شب در این اندیشه ام",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در عشق زندگی می‌کنم و شب و روز به این فکر مشغولم. هرگز از این فکر و احساس خود برنمی‌گردم، زیرا عاشق پیشه‌ام."
     },
     {
       "VOrder": 4,

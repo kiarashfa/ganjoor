@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "چون رای بلند تو نباشد رایی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی نظر و اندیشه‌ی تو به بلندی و والایی نرسد، هیچ رأی و نظری به زیبایی چهره‌ی تو نمی‌تواند جهان را آراسته کند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "جز درگه تو نیست مرا ملجایی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جز پناهگاه تو هیچ جا برایم نیست، زیرا بندگانت را در هر جا یافته‌ام."
     },
     {
       "VOrder": 4,

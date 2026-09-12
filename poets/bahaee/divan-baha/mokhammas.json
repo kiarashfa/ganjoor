@@ -112,7 +112,8 @@
       "Text": "تا کی به تمنای وصال تو یگانه",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "تا چه وقت به تمنای وصال تو منتظر بمانم و اشک از چشمانم جاری شود"
     },
     {
       "VOrder": 2,
@@ -128,7 +129,8 @@
       "Text": "خواهد به سر آید، شب هجران تو یا نه؟",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "آیا شب جدایی‌ات به پایان می‌رسد یا نه، ای آن‌کس که تیر غمت به دل عاشقان نشانه رفته است."
     },
     {
       "VOrder": 4,
@@ -144,7 +146,8 @@
       "Text": "جمعی به تو مشغول و تو غایب ز میانه",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: گروهی به تو مشغولند و در این حال، تو از میان آنها غایب هستی."
     },
     {
       "VOrder": 6,
@@ -152,7 +155,8 @@
       "Text": "رفتم به در صومعهٔ عابد و زاهد",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: به خانه‌ی عبادت عابدان و زاهدان رفتم و دیدم که همه در برابر تو خم شده و سجده می‌کنند."
     },
     {
       "VOrder": 7,
@@ -168,7 +172,8 @@
       "Text": "در میکده رهبانم و در صومعه عابد",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: من گاهی در میکده مثل یک رهبان زندگی می‌کنم و گاهی در صومعه مانند عابدان. گاهی در مکان‌های مذهبی و در حال عبادت هستم و گاهی در مسجد ساکن می‌شوم."
     },
     {
       "VOrder": 9,
@@ -184,7 +189,8 @@
       "Text": "یعنی که تو را می‌طلبم خانه به خانه",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: من به دنبال تو هستم، قدم به قدم و در هر جای ممکن."
     },
     {
       "VOrder": 11,
@@ -192,7 +198,8 @@
       "Text": "روزی که برفتند حریفان پی هر کار",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: روزی که دوستانم به دنبال کارهای مختلف بودند، زاهد به سمت مسجد رفت و من به سمت میخانه رفتم."
     },
     {
       "VOrder": 12,
@@ -208,7 +215,8 @@
       "Text": "من یار طلب کردم و او جلوه‌گه یار",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: من به دنبال یاری بودم و او در مکانی با زیبایی‌های خاص خود، در مسیر کعبه حضور داشت، در حالی که من مشتاق دیدار او بودم."
     },
     {
       "VOrder": 14,
@@ -224,7 +232,8 @@
       "Text": "او خانه همی‌جوید و من صاحب خانه",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: او در جستجوی منزل است، در حالی که من صاحب خانه هستم."
     },
     {
       "VOrder": 16,
@@ -232,7 +241,8 @@
       "Text": "هر در که زنم صاحب آن خانه تویی تو",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: هرجا که بروم تو را با خود می‌بینم و هر در که بکوبم، تو صاحب آنجا هستی."
     },
     {
       "VOrder": 17,
@@ -248,7 +258,8 @@
       "Text": "در میکده و دیر که جانانه تویی تو",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در میکده و دیر، که محبوب و معشوق من تو هستی، تو هدف و مقصود من هستی، نه کعبه و بتخانه."
     },
     {
       "VOrder": 19,
@@ -264,7 +275,8 @@
       "Text": "مقصود تویی کعبه و بتخانه بهانه",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: ای عشق، تو هدف نهایی من هستی و مکان‌هایی مانند کعبه و بتخانه بهانه‌هایی هستند برای نزدیک‌تر شدن به تو."
     },
     {
       "VOrder": 21,
@@ -272,7 +284,8 @@
       "Text": "بلبل به چمن زان گل رخسار نشان دید",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "بلبل در باغ، نشانی از چهره‌ی گل‌گونِ معشوق دید؛\nپروانه خود را به آتش زد و حقیقتِ رازها را آشکارا دید."
     },
     {
       "VOrder": 22,
@@ -288,7 +301,8 @@
       "Text": "عارف صفت روی تو در پیر و جوان دید",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: عاشقان و عارفان ویژگی‌های زیبای تو را در هر سنی و در هر جا می‌بینند، به طوری که حتی در چهره‌های پیر و جوان، تصویر تو را پیدا می‌کنند."
     },
     {
       "VOrder": 24,
@@ -304,7 +318,8 @@
       "Text": "دیوانه نیم من که روم خانه به خانه",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: من دیوانه نیستم که بخواهم از خانه‌ای به خانه‌ای دیگر بروم و سرگردان باشم."
     },
     {
       "VOrder": 26,
@@ -312,7 +327,8 @@
       "Text": "عاقل به قوانین خرد راه تو پوید",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: انسان خردمند با پیروی از قوانین عقل و منطق پیش می‌رود، در حالی که فرد دیوانه از هر نوع قواعد و آداب پیروی نمی‌کند و به دنبال چیزهایی فراتر از آن‌هاست."
     },
     {
       "VOrder": 27,
@@ -328,7 +344,8 @@
       "Text": "تا غنچهٔ بشکفتهٔ این باغ که بوید",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: به محض باز شدن گل‌های این باغ، هر کسی به نحوی و با زبانی متفاوت، زیبایی‌ها و ویژگی‌های تو را وصف خواهد کرد."
     },
     {
       "VOrder": 29,
@@ -344,7 +361,8 @@
       "Text": "بلبل به غزلخوانی و قمری به ترانه",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: بلبل به خواندن شعر و قمری به نغمه‌سرایی مشغول است."
     },
     {
       "VOrder": 31,
@@ -352,7 +370,8 @@
       "Text": "بیچاره بهائی که دلش زار غم توست",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: دل شاد و خوشی ندارم چون غم تو بر من سنگینی می‌کند، هرچند که در ظاهر از بندگی و خدمت به تو دور شده‌ام."
     },
     {
       "VOrder": 32,
@@ -368,7 +387,8 @@
       "Text": "امید وی از عاطفت دم به دم توست",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: امید او به محبت و توجه مداوم توست و تقصیر خیال او به خاطر انتظار شفقت و رحمت توست."
     },
     {
       "VOrder": 34,
@@ -384,7 +404,8 @@
       "Text": "یعنی که گنه را به از این نیست بهانه",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: به این معناست که هیچ دلیلی برای گناه کردن بهتر از این نیست که بهانه‌ای بیاوریم."
     }
   ]
 }

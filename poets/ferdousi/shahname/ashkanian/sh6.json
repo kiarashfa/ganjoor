@@ -431,7 +431,8 @@
       "Text": "یکی کاخ بود اردوان را بلند",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: اردوان، صاحب کاخی بلند بود و در درون آن، شخصی ارزشمند و مهم وجود داشت."
     },
     {
       "VOrder": 2,
@@ -447,7 +448,8 @@
       "Text": "که گلنار بد نام آن ماه‌روی",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: گلنار به عنوان یک شخص معروف و زیبا، آن دختر دلربا را توصیف می‌کند که سرشار از زیبایی، رنگ‌های دلنشین و عطر خوش است."
     },
     {
       "VOrder": 4,
@@ -463,7 +465,8 @@
       "Text": "بر اردوان همچو دستور بود",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: اردوان همچون یک فرمانده عمل کرد و به خواسته‌های او نیز توجه داشت و در انجام آن‌ها موفق بود."
     },
     {
       "VOrder": 6,
@@ -479,7 +482,8 @@
       "Text": "بروبر گرامی‌تر از جان بدی",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: به سراغ کسی برو که برایت خیلی ارزشمندتر از جانت است و برای دیدار او با خوشحالی و لبخند برو."
     },
     {
       "VOrder": 8,
@@ -495,7 +499,8 @@
       "Text": "چنان بد که روزی برآمد به بام",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: به قدری حالش بد بود که روزی وقتی آفتاب درخشان بر بام دلش تابید، از آن شادی و نشاط خوشحال شد."
     },
     {
       "VOrder": 10,
@@ -511,7 +516,8 @@
       "Text": "نگه کرد خندان لب اردشیر",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: اردشیر جوان با لبخندی که بر چهره داشت، به ماه نگاه کرد و به نظر می‌رسد که آن لبخند در دل ماه جایی پیدا کرد."
     },
     {
       "VOrder": 12,
@@ -527,7 +533,8 @@
       "Text": "همی بود تا روز تاریک شد",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که روز به پایان می‌رسد و شب فرامی‌رسد، باید بدانیم که شب به روز نزدیک می‌شود."
     },
     {
       "VOrder": 14,
@@ -543,7 +550,8 @@
       "Text": "کمندی بران کنگره بر ببست",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در این بیت می‌گوید که فردی کمندی را به دور کنگره‌ای می‌اندازد و با گره‌ زدن آن، تلاش می‌کند که به موفقیتی دست یابد. این تصویر نشان‌دهنده تلاش و کوشش برای به دست آوردن هدفی است."
     },
     {
       "VOrder": 16,
@@ -559,7 +567,8 @@
       "Text": "به گستاخی از باره آمد فرود",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: با جسارت از بلندی پایین آمد و اعمال خوب را مورد ستایش قرار داد."
     },
     {
       "VOrder": 18,
@@ -575,7 +584,8 @@
       "Text": "بیامد خرامان بر اردشیر",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: دختری زیبا و جذاب با ظاهری پر از جواهر و عطر خوش به سمت اردشیر آمد."
     },
     {
       "VOrder": 20,
@@ -591,7 +601,8 @@
       "Text": "ز بالین دیبا سرش برگرفت",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: وقتی بیدار شد، پارچه نرم و زیبایی که زیر سرش بود را برداشت و سپس به آرامی خود را در آغوش گرفت."
     },
     {
       "VOrder": 22,
@@ -607,7 +618,8 @@
       "Text": "نگه کرد برنا بران خوب‌روی",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: دختر جوانی را دیدم که چهره‌اش زیبا و دل‌فریب بود. موی او و رنگ و بویش نیز خیلی دلنشین بود."
     },
     {
       "VOrder": 24,
@@ -623,7 +635,8 @@
       "Text": "بدان ماه گفت از کجا خاستی",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: به ماه گفتم از کجا آمده‌ای که دل غمگین مرا آرام کردی؟"
     },
     {
       "VOrder": 26,
@@ -639,7 +652,8 @@
       "Text": "چنین داد پاسخ که من بنده‌ام",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: او در پاسخ گفت که من بنده‌ام و تنها به خاطر دیدار تو در این دنیای فانی زنده‌ام."
     },
     {
       "VOrder": 28,
@@ -655,7 +669,8 @@
       "Text": "دلارام گنجور شاه اردوان",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: دلارام، گنجینهٔ شاه اردوان، که باعث خوشحالی و روانی دل من بود."
     },
     {
       "VOrder": 30,
@@ -671,7 +686,8 @@
       "Text": "کنون گر پذیری ترا بنده‌ام",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: حال اگر تو مرا بپذیری، من با تمام وجودم و با عشق و محبت به تو وابسته‌ام."
     },
     {
       "VOrder": 32,
@@ -687,7 +703,8 @@
       "Text": "بیایم چو خواهی به نزدیک تو",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهی، نزد تو می‌آیم و تاریکی روزت را با نور خویش روشن می‌کنم."
     },
     {
       "VOrder": 34,
@@ -703,7 +720,8 @@
       "Text": "چو لختی برآمد برین روزگار",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: زمانی که این روزگار برای لحظه‌ای به پایان می‌رسد، شکست به سراغ معلم می‌آید."
     },
     {
       "VOrder": 36,
@@ -719,7 +737,8 @@
       "Text": "جهاندیده بیدار بابک بمرد",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: بابک، که تجربه‌های بسیاری را در زندگی خود کسب کرده بود، از دنیا رفت و خانه‌ای جدید را برای خود برگزید."
     },
     {
       "VOrder": 38,
@@ -735,7 +754,8 @@
       "Text": "چو آگاهی آمد سوی اردوان",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: زمانی که آگاهی به اردوان رسید، او از ناراحتی و اندوه بسیار دچار غم و شفقت شد و روانش تاریک و غمگین گردید."
     },
     {
       "VOrder": 40,
@@ -751,7 +771,8 @@
       "Text": "گرفتند هر مهتری یاد پارس",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: در این بیت اشاره شده که هر فرمانده‌ای به یاد پارس، پسر فرمانده‌ای دیگر را به عنوان جایگزین یا جانشین خود انتخاب کرده است. این نشان‌دهنده انتقال قدرت و اهمیت نسل‌های بعدی در فرماندهی و رهبری است."
     },
     {
       "VOrder": 42,
@@ -767,7 +788,8 @@
       "Text": "بفرمود تا کوس بیرون برند",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: فرمان داد تا صدای طبل را بیرون ببرند و آن را به سمت دشت هامون بفرستند."
     },
     {
       "VOrder": 44,
@@ -783,7 +805,8 @@
       "Text": "جهان تیره شد بر دل اردشیر",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: دل اردشیر از دست آن پیر روشن‌دل و یاری‌دهنده به شدت تیره و ناراحت شد."
     },
     {
       "VOrder": 46,
@@ -799,7 +822,8 @@
       "Text": "دل از لشکر اردوان برگرفت",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: دل از سپاه اردوان جدا شد و از آن واقعه نظر جدیدی پیدا کرد."
     },
     {
       "VOrder": 48,
@@ -815,7 +839,8 @@
       "Text": "که از درد او بد دلش پرستیز",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: از شدت درد او و ناراحتی‌اش، دلش از جستجوی راه فرار در هر سمت و سو پر است."
     },
     {
       "VOrder": 50,
@@ -831,7 +856,8 @@
       "Text": "ازان پس چنان بد که شاه اردوان",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: پس از آن روزگار، چنان شد که شاه اردوان به پیشگوها و اخترشناسان با فهم و دانا اعتماد کرد و از آن‌ها راهنمایی گرفت."
     },
     {
       "VOrder": 52,
@@ -847,7 +873,8 @@
       "Text": "بیاورد چندی به درگاه خویش",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: مدتی را به نزد خود ببر، تا ستاره و مسیر خود را بررسی کند."
     },
     {
       "VOrder": 54,
@@ -863,7 +890,8 @@
       "Text": "همان نیز تا گردش روزگار",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که روزگار به گردش خود ادامه می‌دهد، کسی دیگر نخواهد بود که به او درس بیاموزد."
     },
     {
       "VOrder": 56,
@@ -879,7 +907,8 @@
       "Text": "فرستادشان نزد گلنار شاه",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: آن‌ها را به پیش گلنار شاه فرستادند تا ستاره‌ها را تماشا کنند."
     },
     {
       "VOrder": 58,
@@ -895,7 +924,8 @@
       "Text": "سه روز اندر آن کار شد روزگار",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: سه روز در آن کار گذشت و زمان سپری شد و بخت شاه به تماشای آن کار نشسته است."
     },
     {
       "VOrder": 60,
@@ -911,7 +941,8 @@
       "Text": "چو گنجور بشنید آوازشان",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: زمانی که گنجور صدای آن‌ها را شنید، درباره سرنوشت و رازهایشان صحبت کرد."
     },
     {
       "VOrder": 62,
@@ -927,7 +958,8 @@
       "Text": "سیم روز تا شب گذشته سه پاس",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: در طول روز تا شب، سه بار کنیزک به ستاره‌شناسی پرداخت و وقت خود را صرف این کار کرد."
     },
     {
       "VOrder": 64,
@@ -943,7 +975,8 @@
       "Text": "پر از آرزو دل لبان پر ز باد",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: دل پر از آرزو و لبان پر از باد داشت، سخنان آن‌ها را به خاطر می‌آورد."
     },
     {
       "VOrder": 66,
@@ -959,7 +992,8 @@
       "Text": "چهارم بشد مرد روشن‌روان",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: مردی با روشن‌روانی و دانایی به وجود آمد که راز بزرگی را برای اردوان فاش خواهد کرد."
     },
     {
       "VOrder": 68,
@@ -975,7 +1009,8 @@
       "Text": "برفتند با زیجها برکنار",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: آن‌ها با جدول‌های ستاره‌شناسی رفتند، در کنار کاخ، کنیزک بر شاه مشاهده شد."
     },
     {
       "VOrder": 70,
@@ -991,7 +1026,8 @@
       "Text": "بگفتند راز سپهر بلند",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: آنها گفتند که راز آسمان بلند به همان اندازه است که فرمان او درباره چیست و چگونه و چه قدر است."
     },
     {
       "VOrder": 72,
@@ -1007,7 +1043,8 @@
       "Text": "کزین پس کنون تانه بس روزگار",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: از این پس دیگر دل نامدار من از هیچ چیزی به تنگ نمی‌آید و دلتنگ نمی‌شود."
     },
     {
       "VOrder": 74,
@@ -1023,7 +1060,8 @@
       "Text": "که بگریزد از مهتری کهتری",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: که از فردی با مقام و قدرت بالا بگریزد، در حالی که خود از نیاکان و خانواده‌ای اشرافی و قوی برخوردار است."
     },
     {
       "VOrder": 76,
@@ -1039,7 +1077,8 @@
       "Text": "وزان پس شود شهریاری بلند",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: بعد از آن، سلطنتی برپا خواهد شد که هم بزرگ و باشکوه است و هم دارای صفات خوب و مفید برای مردم."
     },
     {
       "VOrder": 78,
@@ -1055,7 +1094,8 @@
       "Text": "دل نامور مهتر نیک‌بخت",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: دل باقرار و خوشبخت یکی از بزرگان به شدت تحت تاثیر سخنان آنان قرار گرفت و بسیار ناراحت شد."
     },
     {
       "VOrder": 80,

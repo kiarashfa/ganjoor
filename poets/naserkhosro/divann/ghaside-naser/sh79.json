@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "تا مرد خر و کور کر نباشد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که انسان‌ها درک و آگاهی لازم را نداشته باشند، نه می‌توانند از وقایع جهان آگاه شوند و نه می‌توانند به درستی از آن‌ها بهره‌برداری کنند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "داند که هر آن چیز کو بجنبد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که حرکت کند و تغییر کند، در نهایت از بین می‌رود و هیچ‌گونه حد و اندازه‌ای ندارد."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "وان چیز که با حد و مر باشد",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آنچه که دارای حد و مرز است، گاهی وجود دارد و گاهی هم وجود ندارد."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "من راز فلک را به دل شنودم",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من اسرار آسمان را با دل آگاهی درک کردم؛ اما برای کسی که دلش کور و کر است، فهم این رازها ممکن نیست."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "چون دل شنوا شد تو را، از آن پس",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که دل انسان به صدای تو گوش فرا دهد، ممکن است از آن پس حتی اگر گوشش هم نشنود، باز هم تأثیر کلام تو در او باقی بماند."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "بهتر ز کدوئی نباشد آن سر",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بهتر است که هیچ کس در جایگاهی که فضیلت و دانایی را نمی‌شناسد، نباشد."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "در خورد تنوره و تنور باشد",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که در زندگی داریم باید به خوبی پرورش یابد و اگر نتوانیم به آن رسیدگی کنیم، نتیجه‌ای نخواهیم گرفت. مانند درختی که اگر به آن رسیدگی نشود، هیچ میوه‌ای نخواهد داشت."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "چاهی است جهان ژرف و سر نهفته",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دنیا همچون چاهی عمیق و پنهان است، و از چاه پنهان تر چیزی وجود ندارد."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "در دام جهان جهان همیشه",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دام دنیا، همواره تنها زرق و برق و ثروت وجود دارد و هیچ چیز دیگری نمی‌توان یافت."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "بتواند از این دام زود رستن",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر مردی بخواهد از این تله به‌سرعت رهایی یابد، باید در آن شرایط ضعیف و ناتوان نباشد."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "در دام نیاویزد آنکه زی او",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که از گذشته خود بیاموزد و تجربه‌هایش را در نظر بگیرد، نمی‌تواند به راحتی در تله مشکلات بیفتد. هنگامی که کسی زیر نظر و مراقبت رشد کند، احتمال آسیب و خطر برای او کمتر خواهد بود."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "زین سفله جهان نفع خود بگیرد",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از این انسان‌های پست و پایین، سود خود را به دست بیاورد، سودی که در آن هیچ زیان و ضرری نباشد."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "وان نفع نباشد مگر که دانش",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله می‌گوید که اگر دانش و علم فقط به ظاهر و ظواهر چیزها محدود شود و انسان تنها به ظاهرسازی و تظاهر بپردازد، هیچ فایده‌ای نخواهد داشت. به عبارت دیگر، دانش باید عمیق و واقعی باشد و به دنبال حقیقت و معنا برود، نه اینکه فقط به آراستگی‌های ظاهری و زرق و برق توجه کند."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "بپذیر ز من پندی، ای برادر،",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای برادر، از من نصیحتی بپذیر که هیچ نصیحتی بهتر از آن نیست."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "نیکی و بدی را بکوش دایم",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همواره تلاش کن تا کارهای خوب و بد را به درستی انجام دهی، تا شخصیت و وجودت از بین نرود."
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "آن کس که ازو نیک و بد نیاید",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که از او خیر و شر نرسد، مانند ابری است که باران نبارد."
     },
     {
       "VOrder": 32,
@@ -255,7 +271,8 @@
       "Position": "Right",
       "Text": "با نیک به نیکی بکوش ازیرا",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خوبی تلاش کن و به خوبی رفتار کن، زیرا بدی فقط برای کسانی است که شایسته‌ی آن هستند."
     },
     {
       "VOrder": 34,
@@ -269,7 +286,8 @@
       "Position": "Right",
       "Text": "فرزند هنرهای خویشتن شو",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فرزند هنرهای خود باش تا هیچ‌کس مانند تو فرزندی نداشته باشد."
     },
     {
       "VOrder": 36,
@@ -283,7 +301,8 @@
       "Position": "Right",
       "Text": "وانگه که هنر یافتی، بشاید",
       "CoupletIndex": 18,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که به هنری دست یافتی، شایسته است که اگر تنها هنرت باشد، به کسی جز پدرت وابسته نباشی."
     },
     {
       "VOrder": 38,
@@ -297,7 +316,8 @@
       "Position": "Right",
       "Text": "چون داد کنی خود عمر تو باشی",
       "CoupletIndex": 19,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کارهای خوب و نیکی انجام دهی، به واقع عمر واقعی تو همین کارهاست، حتی اگر نام تو عمر نباشد."
     },
     {
       "VOrder": 40,
@@ -311,7 +331,8 @@
       "Position": "Right",
       "Text": "وانجا که تو باشی امیر باشی",
       "CoupletIndex": 20,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر جا که تو حضور داشته باشی، همچون یک فرمانروا و بزرگوار خواهی بود، حتی اگر دیگران و جمعیتی دور و برت نباشند."
     },
     {
       "VOrder": 42,
@@ -325,7 +346,8 @@
       "Position": "Right",
       "Text": "گنجور هنرهای خویش گردی",
       "CoupletIndex": 21,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی در هنرها پیشرفت کنی و به موفقیت برسی، باید آنها را به دست بیاوری و ارزش قائل شوی، چه ثروتمند باشی و چه نباشی."
     },
     {
       "VOrder": 44,
@@ -339,7 +361,8 @@
       "Position": "Right",
       "Text": "و ایمن بروی هر کجا که خواهی",
       "CoupletIndex": 22,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به هر کجا که می‌خواهی برو و در آرامش باش؛ تنها کافیست که به دنبال راه خودت باشی و نترسی."
     },
     {
       "VOrder": 46,
@@ -353,7 +376,8 @@
       "Position": "Right",
       "Text": "نزدیک تو گیهان مختصر شد",
       "CoupletIndex": 23,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: قرب وجود تو باعث شده که همه چیز به نظر ساده و کوچک بیاید، هرچند که واقعاً جهان هرگز به این سادگی نیست."
     },
     {
       "VOrder": 48,
@@ -367,7 +391,8 @@
       "Position": "Right",
       "Text": "تو بار خدای جهان خویشی",
       "CoupletIndex": 24,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو در حقیقت و ذات خود، همانند بار و مسئولیت عظیم خداوندی هستی، و هیچ چیز به ارزش و اهمیت وجودی تو نمی‌رسد."
     },
     {
       "VOrder": 50,
@@ -381,7 +406,8 @@
       "Position": "Right",
       "Text": "در مملکت خویشتن نظر کن",
       "CoupletIndex": 25,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به اطراف خود دقت کن و به جایگاه و شرایطی که در آن هستی توجه داشته باش، زیرا هر سرزمینی بدون توجه و اندیشه نمی‌تواند prosper کند."
     },
     {
       "VOrder": 52,
@@ -395,7 +421,8 @@
       "Position": "Right",
       "Text": "بر ملک تو گوش و دو چشم روشن",
       "CoupletIndex": 26,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در سرزمین تو، گوش و چشمان روشنی برای دروازه‌ها وجود دارد، که بدون آن دروازه‌ها نمی‌توانند وجود داشته باشند."
     },
     {
       "VOrder": 54,
@@ -409,7 +436,8 @@
       "Position": "Right",
       "Text": "امروز بدین ملک در طلب کن",
       "CoupletIndex": 27,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امروز از این زندگی به دنبال چیزهایی باش که ممکن است فردا دیگر نتوانی آنها را پیدا کنی."
     },
     {
       "VOrder": 56,
@@ -423,7 +451,8 @@
       "Position": "Right",
       "Text": "بنگر که چه باید همیت کردن",
       "CoupletIndex": 28,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نگاه کن چه کارهایی باید انجام دهی تا ستاره‌ها نتوانند بر تو پیروز شوند."
     },
     {
       "VOrder": 58,
@@ -437,7 +466,8 @@
       "Position": "Right",
       "Text": "از علم سپر کن که بر حوادث",
       "CoupletIndex": 29,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از دانایی خود به عنوان حفاظی استفاده کن، زیرا هیچ چیز قوی‌تر از دانایی در برابر مشکلات وجود ندارد."
     },
     {
       "VOrder": 60,
@@ -451,7 +481,8 @@
       "Position": "Right",
       "Text": "هر کو سپر علم پیش گیرد",
       "CoupletIndex": 30,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که علم و دانش را به عنوان سپر خود انتخاب کند، از آسیب‌ها و مشکلات جهان در امان خواهد بود."
     },
     {
       "VOrder": 62,
@@ -465,7 +496,8 @@
       "Position": "Right",
       "Text": "باقی شود اندر نعیم دایم",
       "CoupletIndex": 31,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در خوشی و نعمت همیشگی باقی می‌ماند، هرچند در این مسیر موقتی نباشد."
     },
     {
       "VOrder": 64,
@@ -479,7 +511,8 @@
       "Position": "Right",
       "Text": "این ره گذری بی فر و درشت است",
       "CoupletIndex": 32,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این مسیر، راهی است که نه زیبایی خاصی دارد و نه جذابیت، بنابراین نمی‌توان در آنجا به اقامت و زندگی دلخوش کرد."
     },
     {
       "VOrder": 66,
@@ -493,7 +526,8 @@
       "Position": "Right",
       "Text": "بشنو سخنی چون شکر به خوبی",
       "CoupletIndex": 33,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به حرفی گوش کن که مانند شکر خوشمزه و دلپذیر است، هرچند ممکن است آن سخن به اندازه شکر شیرین نباشد."
     },
     {
       "VOrder": 68,
@@ -507,7 +541,8 @@
       "Position": "Right",
       "Text": "مردم شجر است و جهانش بستان",
       "CoupletIndex": 34,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مردم مانند درختان هستند و دنیا مثل باغی برای آن‌هاست. اگر درختی وجود نداشته باشد، آن باغ نیز معنایی نخواهد داشت."
     },
     {
       "VOrder": 70,
@@ -521,7 +556,8 @@
       "Position": "Right",
       "Text": "ای شهره درختی، بکوش تا بر",
       "CoupletIndex": 35,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای درخت معروف، سعی کن که جز هنر در تو چیزی دیگر وجود نداشته باشد."
     },
     {
       "VOrder": 72,
@@ -535,7 +571,8 @@
       "Position": "Right",
       "Text": "وان چیز که عالم به دوست باقی",
       "CoupletIndex": 36,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که در دل با عشق و دوستی به دیگری تعلق دارد، هرگز بی‌فایده و بی‌اثر نخواهد بود."
     },
     {
       "VOrder": 74,
@@ -549,7 +586,8 @@
       "Position": "Right",
       "Text": "زیرا که شود خوار سوی دهقان",
       "CoupletIndex": 37,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زیرا که درختی که میوه ندهد، در نظر دهقان بی‌اهمیت و بی‌ارزش می‌شود."
     },
     {
       "VOrder": 76,
@@ -563,7 +601,8 @@
       "Position": "Right",
       "Text": "وان کس که بود بی‌هنر چو هیزم",
       "CoupletIndex": 38,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن کس که بی‌استعداد و بی‌مهارت است، مانند هیزم می‌ماند که جز برای آتش جهنم مناسب نیست."
     },
     {
       "VOrder": 78,
@@ -577,7 +616,8 @@
       "Position": "Right",
       "Text": "غافل نبود در سرای طاعت",
       "CoupletIndex": 39,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرگز غافل نباش که در خانه‌ی عبادت، تا مردی وجود ندارد که به یک مسیر درست نرود، هیچ پیشرفتی حاصل نخواهد شد."
     },
     {
       "VOrder": 80,
@@ -591,7 +631,8 @@
       "Position": "Right",
       "Text": "هر کس که نیلفنجد او بصیرت",
       "CoupletIndex": 40,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کس که درک واقعی نداشته باشد، در روز رستاخیز نیز قادر به دیدن حقیقت نخواهد بود."
     },
     {
       "VOrder": 82,
@@ -605,7 +646,8 @@
       "Position": "Right",
       "Text": "بپسیچ هلا زاد و، کم نباید",
       "CoupletIndex": 41,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بگذار شادی و خوشی برپا شود، زیرا نباید از یک فرد بیشتر به انتظار بمانیم."
     },
     {
       "VOrder": 84,
@@ -619,7 +661,8 @@
       "Position": "Right",
       "Text": "زیرا که بترسد ز ره مسافر",
       "CoupletIndex": 42,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چون در هر لحظه ممکن است مسافری که وارد سفر شده به خطری برخورد کند، پس باید از خطرات و موانع در طول سفر بترسد."
     },
     {
       "VOrder": 86,
@@ -633,7 +676,8 @@
       "Position": "Right",
       "Text": "ایمن ننشیند ز بیم رفتن",
       "CoupletIndex": 43,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که از ترس رفتن و ترک کردن جایی در امان نیست، تا وقتی که سفره‌اش پر از نعمت و خوراک نباشد."
     },
     {
       "VOrder": 88,
@@ -647,7 +691,8 @@
       "Position": "Right",
       "Text": "بپذیر ز حجت سخن که شعرش",
       "CoupletIndex": 44,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به حرف‌های حجت گوش کن، زیرا شعرش بی‌معنا و بی‌محتوا نیست."
     },
     {
       "VOrder": 90,
@@ -661,7 +706,8 @@
       "Position": "Right",
       "Text": "همچون سخن او به سوی دانا",
       "CoupletIndex": 45,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سخن او مانند عطر گل و نسیم صبح به سوی خردمندان نمی‌رسد."
     },
     {
       "VOrder": 92,

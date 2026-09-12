@@ -36,14 +36,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "از میرداماد به شیخ بهایی:",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: از میرداماد به شیخ بهایی:"
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "ای پیر ره حقیقت ای کان سخا",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای استاد راه راست و منبع فراوانی، در این روزهای سخت و پرچالش، پاسخ این سخن را برایم بیان کن."
     },
     {
       "VOrder": 3,
@@ -57,7 +59,8 @@
       "Position": "Right",
       "Text": "گویند خدا بود و دگر هیچ نبود",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌گویند که در ابتدا فقط خدا بود و هیچ چیز دیگری وجود نداشت. حالا اگر هیچ چیز نبوده، پس خدا کجا بوده است؟"
     },
     {
       "VOrder": 5,
@@ -77,7 +80,8 @@
       "Position": "Right",
       "Text": "ای صاحب این مسئله بشنو از ما",
       "CoupletIndex": 4,
-      "SectionIndex1": 1
+      "SectionIndex1": 1,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که به دنبال حقیقت هستی، از ما بشنو که خداوند موجودی است که فراتر از هر مکان و زمانی قرار دارد."
     },
     {
       "VOrder": 8,
@@ -91,7 +95,8 @@
       "Position": "Right",
       "Text": "خواهی که تو را کشف شود این معنا",
       "CoupletIndex": 5,
-      "SectionIndex1": 1
+      "SectionIndex1": 1,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی این حقیقت برایت روشن شود، در وجودت بگو که این جان در کجا قرار دارد."
     },
     {
       "VOrder": 10,

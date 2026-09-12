@@ -45,9 +45,9 @@
       "Number": 3,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ازپیرفعنزاعوماجرا",
-      "PlainText": "آمدند آن هر دو نزد مصطفیص\r\nاز پی رفع نزاع و ماجرا",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمدند آن هر دو نزد مصطفی(ص)\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز پی رفع نزاع و ماجرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "دین",
+      "PlainText": "دور قایم دایم است از رب دین\r\nتا قیامت ز اولیاء و راشدین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدور قائم، دائم است از رب دین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا قیامت ز اولیاء و راشدین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -55,19 +55,9 @@
       "Number": 3,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "دین",
-      "PlainText": "دور قایم دایم است از رب دین\r\nتا قیامت ز اولیاء و راشدین",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدور قائم، دائم است از رب دین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا قیامت ز اولیاء و راشدین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
-    },
-    {
-      "Index": 4,
-      "Number": 4,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ماست",
-      "PlainText": "هر زمانی را و لی ای لازم است\r\nوین ولایت در مدار قایم است",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر زمانی را و لی ای لازم است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین ولایت در مدار قائم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ازپیرفعنزاعوماجرا",
+      "PlainText": "آمدند آن هر دو نزد مصطفیص\r\nاز پی رفع نزاع و ماجرا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمدند آن هر دو نزد مصطفی(ص)\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز پی رفع نزاع و ماجرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -81,13 +71,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 5,
-      "Number": 5,
+      "Index": 4,
+      "Number": 4,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "رف",
-      "PlainText": "آن صحابی را نبد بهر از شرف\r\nگفت بگرفتی به حکم از وی طرف",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن صحابی را نبد بهر از شرف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفت، بگرفتی به حکم از وی طرف\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ماست",
+      "PlainText": "هر زمانی را و لی ای لازم است\r\nوین ولایت در مدار قایم است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر زمانی را و لی ای لازم است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین ولایت در مدار قائم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -101,13 +91,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 6,
-      "Number": 6,
+      "Index": 5,
+      "Number": 5,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ود",
-      "PlainText": "پادشاهانند در ملک وجود\r\nقایم از مرآت هر یک در نمود",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپادشاهانند در ملک وجود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقائم از مرآت هر یک در نمود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "رف",
+      "PlainText": "آن صحابی را نبد بهر از شرف\r\nگفت بگرفتی به حکم از وی طرف",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن صحابی را نبد بهر از شرف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفت، بگرفتی به حکم از وی طرف\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -121,13 +111,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 7,
-      "Number": 7,
+      "Index": 6,
+      "Number": 6,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ول",
-      "PlainText": "شد برون از نزد پیغمبر ملول\r\nگفت با مردم  گذشت از حق رسول",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشد برون از نزد پیغمبر ملول\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفت با مردم ، گذشت از حق رسول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ود",
+      "PlainText": "پادشاهانند در ملک وجود\r\nقایم از مرآت هر یک در نمود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپادشاهانند در ملک وجود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقائم از مرآت هر یک در نمود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -141,13 +131,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 8,
-      "Number": 8,
+      "Index": 7,
+      "Number": 7,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "نند",
-      "PlainText": "صد چراغ از شمع واحد روشنند\r\nجمله یک نورند گرچه صد تنند",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد چراغ از شمع واحد روشنند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجمله یک نورند گرچه صد تنند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ول",
+      "PlainText": "شد برون از نزد پیغمبر ملول\r\nگفت با مردم  گذشت از حق رسول",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشد برون از نزد پیغمبر ملول\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفت با مردم ، گذشت از حق رسول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -161,13 +151,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 9,
-      "Number": 9,
+      "Index": 8,
+      "Number": 8,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ار",
-      "PlainText": "نیست ما را شرح این گفتن به کار\r\nکرد این آیت نزول از کردگار",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیست ما را شرح این گفتن به کار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکرد این آیت نزول از کردگار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "نند",
+      "PlainText": "صد چراغ از شمع واحد روشنند\r\nجمله یک نورند گرچه صد تنند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد چراغ از شمع واحد روشنند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجمله یک نورند گرچه صد تنند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -181,13 +171,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 10,
-      "Number": 10,
+      "Index": 9,
+      "Number": 9,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ال",
-      "PlainText": "شرط نقلش لیک باشد اشتعال\r\nبی ز شعله نیست ممکن انتقال",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرط نقلش لیک باشد اشتعال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی ز شعله نیست ممکن انتقال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ار",
+      "PlainText": "نیست ما را شرح این گفتن به کار\r\nکرد این آیت نزول از کردگار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیست ما را شرح این گفتن به کار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکرد این آیت نزول از کردگار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -201,13 +191,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 11,
-      "Number": 11,
+      "Index": 10,
+      "Number": 10,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ین",
-      "PlainText": "بر خدا ناورده اند ایمان یقین\r\nهم به احکام و کتاب و یوم دین",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر خدا ناورده اند ایمان یقین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم به احکام و کتاب و یوم دین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ال",
+      "PlainText": "شرط نقلش لیک باشد اشتعال\r\nبی ز شعله نیست ممکن انتقال",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرط نقلش لیک باشد اشتعال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی ز شعله نیست ممکن انتقال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -221,13 +211,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 12,
-      "Number": 12,
+      "Index": 11,
+      "Number": 11,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ال",
-      "PlainText": "دور مهدی این بود بر اتصال\r\nگر شناسی دور او را در مجال",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدور مهدی این بود بر اتصال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر شناسی دور او را در مجال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ین",
+      "PlainText": "بر خدا ناورده اند ایمان یقین\r\nهم به احکام و کتاب و یوم دین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر خدا ناورده اند ایمان یقین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم به احکام و کتاب و یوم دین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -241,13 +231,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 13,
-      "Number": 13,
+      "Index": 12,
+      "Number": 12,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ان",
-      "PlainText": "گرچه باشد بر خلاف میلشان\r\nکس نگردد تنگدل زآن در نهان",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرچه باشد بر خلاف میلشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکس نگردد تنگدل زآن در نهان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ال",
+      "PlainText": "دور مهدی این بود بر اتصال\r\nگر شناسی دور او را در مجال",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدور مهدی این بود بر اتصال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر شناسی دور او را در مجال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -261,13 +251,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 14,
-      "Number": 14,
+      "Index": 13,
+      "Number": 13,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ارشان",
-      "PlainText": "این است فضلی از خدا در کارشان\r\nکه شود منعم علیهم یارشان",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین است فضلی از خدا در کارشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه شود منْعم علَیهِم یارشان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ان",
+      "PlainText": "گرچه باشد بر خلاف میلشان\r\nکس نگردد تنگدل زآن در نهان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرچه باشد بر خلاف میلشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکس نگردد تنگدل زآن در نهان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -281,13 +271,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 15,
-      "Number": 15,
+      "Index": 14,
+      "Number": 14,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ان",
-      "PlainText": "می نوشتیم ار بر ایشان ز امت حان\r\nقتل و بیرون رفتن از شهر و مکان",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی نوشتیم ار بر ایشان ز امت حان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقتل و بیرون رفتن از شهر و مکان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ارشان",
+      "PlainText": "این است فضلی از خدا در کارشان\r\nکه شود منعم علیهم یارشان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین است فضلی از خدا در کارشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه شود منْعم علَیهِم یارشان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -301,13 +291,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 16,
-      "Number": 16,
+      "Index": 15,
+      "Number": 15,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "یم",
-      "PlainText": "پس بود بی شک خداوند علیم\r\nدر جزای اهل ایمان بر نعیم",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس بود بی شک خداوند علیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر جزای اهل ایمان بر نعیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ان",
+      "PlainText": "می نوشتیم ار بر ایشان ز امت حان\r\nقتل و بیرون رفتن از شهر و مکان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی نوشتیم ار بر ایشان ز امت حان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقتل و بیرون رفتن از شهر و مکان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -318,6 +308,16 @@
       "RhymeLetters": "ر",
       "PlainText": "همچو اسراییلیان کز یکدگر\r\nألفها کشتند تا شام از سحر",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمچو اسرائیلیان کز یکدگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eألفها کُشتند تا شام از سحر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 16,
+      "Number": 16,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یم",
+      "PlainText": "پس بود بی شک خداوند علیم\r\nدر جزای اهل ایمان بر نعیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس بود بی شک خداوند علیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر جزای اهل ایمان بر نعیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -596,13 +596,15 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "وَ لَوْ أَنّٰا کَتَبْنٰا عَلَیْهِمْ أَنِ اُقْتُلُوا أَنْفُسَکُمْ أَوِ اُخْرُجُوا مِنْ دِیٰارِکُمْ مٰا فَعَلُوهُ إِلاّٰ قَلِیلٌ مِنْهُمْ وَ لَوْ أَنَّهُمْ فَعَلُوا مٰا یُوعَظُونَ بِهِ لَکٰانَ خَیْراً لَهُمْ وَ أَشَدَّ تَثْبِیتاً (۶۶) وَ إِذاً لَآتَیْنٰاهُمْ مِنْ لَدُنّٰا أَجْراً عَظِیماً (۶۷) وَ لَهَدَیْنٰاهُمْ صِرٰاطاً مُسْتَقِیماً (۶۸) وَ مَنْ یُطِعِ اَللّٰهَ وَ اَلرَّسُولَ فَأُولٰئِکَ مَعَ اَلَّذِینَ أَنْعَمَ اَللّٰهُ عَلَیْهِمْ مِنَ اَلنَّبِیِّینَ وَ اَلصِّدِّیقِینَ وَ اَلشُّهَدٰاءِ وَ اَلصّٰالِحِینَ وَ حَسُنَ أُولٰئِکَ رَفِیقاً (۶۹) ذٰلِکَ اَلْفَضْلُ مِنَ اَللّٰهِ وَ کَفیٰ بِاللّٰهِ عَلِیماً (۷۰)",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر ما به آن‌ها دستور می‌دادیم که خود را بکشند یا از خانه‌های خود خارج شوند، جز تعداد کمی از آن‌ها این کار را انجام نمی‌دادند. اما اگر آن‌ها به توصیه‌هایی که به آن‌ها می‌شد عمل می‌کردند، این برایشان بهتر و باعث استقامت بیشتری می‌شد. در این صورت، ما از سوی خود پاداش بزرگی به آن‌ها می‌دادیم و آن‌ها را به راه مستقیم هدایت می‌کردیم. و هر کس از خدا و پیامبر او اطاعت کند، همراه کسانی خواهد بود که خدا بر آن‌ها نعمت داده است، از جمله پیامبران، صدق‌گویان، شهیدان و نیکان، و آن‌ها رفیق‌های خوبی هستند. این فضل از جانب خداست و خداوند برای علمش بس است."
     },
     {
       "VOrder": 2,
       "Position": "Paragraph",
       "Text": "اگر آنکه ما نوشته بودیم بر ایشان که بکشید خودهاتان را یا بیرون روید از دیارتان نمی‌گروند آن را مگر اندکی از ایشان و اگر آنکه ایشان کرده بودند آنچه پند داده می‌شدند بآن هر آینه بود بهتر برای ایشان و سخت‌تر در ثابت گردانیدن (۶۶) و در آن هنگام می‌دادیمشان از نزد خود مزدی بزرگ (۶۷) و هر آینه هدایت کرده بودیمشان براه راست (۶۸) و هر که فرمانبرد خدا و رسول را پس آنها باشند با آنان که احسان کرد خدا بریشان از پیغمبران و راستگویان و شهداء و نیک مردان و خوبند آنها از جهة رفاقت (۶۹) آن فضل است از خدا و کافیست خدا دانا (۷۰)",
-      "CoupletIndex": 1
+      "CoupletIndex": 1,
+      "CoupletSummary": "هوش مصنوعی: اگر افرادی که به آنها گفته می‌شود خود را بکشید یا از دیار خود خارج شوند، به این دستور عمل کنند، تنها تعداد کمی از آنها این کار را انجام می‌دهند. اگر آنها به پیشنهادات درست گوش می‌دادند، حتماً برایشان بهتر بود و پایبندی به آن دشوارتر. در این صورت ما به آنها پاداش بزرگی از طرف خود می‌دادیم و آنها را به راه راست هدایت می‌کردیم. هر کس از خدا و پیامبرش اطاعت کند، در زمره کسانی خواهد بود که خدا آنها را با پیغمبران، راستگویان، شهیدان و نیکان همراه می‌سازد. این هدیه از طرف خداوند است و خداوند دانا و بسنده است."
     },
     {
       "VOrder": 3,
@@ -610,7 +612,8 @@
       "Text": "داشت از انصار مردی خُرد خیر",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: مردی از قبیله انصار به طور محبت‌آمیز در کنار یک رود با زبیر گفت‌وگو می‌کرد."
     },
     {
       "VOrder": 4,
@@ -626,7 +629,8 @@
       "Text": "آمدند آن هر دو نزد مصطفی(ص)",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: دو نفر به نزد پیامبر آمدند تا مشکل و اختلافشان را حل کنند."
     },
     {
       "VOrder": 6,
@@ -642,7 +646,8 @@
       "Text": "با زبیر او گفت خیر از آب بِه",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: با زبیر گفت: از آب بهتر نیست، چون که سیراب شدی، حق همسایه را ادا کن."
     },
     {
       "VOrder": 8,
@@ -658,7 +663,8 @@
       "Text": "آن صحابی را نبد بهر از شرف",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: آن صحابی به خاطر شرافتش چیزی نگفت و به‌خاطر حکمی که داشت از او طرفداری کردند."
     },
     {
       "VOrder": 10,
@@ -674,7 +680,8 @@
       "Text": "زآنکه او بد عمه زاده و خویش تو",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: به خاطر اینکه او هم عمه‌زاده و هم خویش تو بود، این حکومت از راه و دین تو دور شده است."
     },
     {
       "VOrder": 12,
@@ -690,7 +697,8 @@
       "Text": "شد برون از نزد پیغمبر ملول",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: دوست از نزد پیامبر خارج شد و با مردم صحبت کرد و از حقوق پیامبر غافل شد."
     },
     {
       "VOrder": 14,
@@ -706,7 +714,8 @@
       "Text": "بر مسلمانان در این باب از یهود",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: بر مسلمانان در این مورد از یهودیان به خاطر گفت و شنودها و بحث‌ها انتقادها و کنایه‌های زیادی شده است."
     },
     {
       "VOrder": 16,
@@ -722,7 +731,8 @@
       "Text": "نیست ما را شرح این گفتن به کار",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: ما نمی‌توانیم این سخن را به درستی توضیح دهیم، زیرا این آیه‌ای که نازل شده است، از جانب خداوند است."
     },
     {
       "VOrder": 18,
@@ -738,7 +748,8 @@
       "Text": "که به حکمت تا رضاء ندهند خلق",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که مردم به حکمت نرسند، از نفاق و کفر رهایی نخواهند یافت."
     },
     {
       "VOrder": 20,
@@ -754,7 +765,8 @@
       "Text": "بر خدا ناورده اند ایمان یقین",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: ایمان و یقین به احکام و کتاب و روز جزا به راحتی بر خدا نمی‌آید."
     },
     {
       "VOrder": 22,
@@ -770,7 +782,8 @@
       "Text": "پس نمی یابند اندر خود حرج",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: پس در وجود خود هیچ عیبی نمی‌بینند، به خاطر حکم‌هایی که درباره پیروزی و گشایش داده‌ای."
     },
     {
       "VOrder": 24,
@@ -786,7 +799,8 @@
       "Text": "گرچه باشد بر خلاف میلشان",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: هرچند ممکن است چیزی برخلاف خواست و تمایل آن‌ها باشد، اما هیچ‌کس به خاطر این موضوع در دل خود ناراحت نخواهد شد."
     },
     {
       "VOrder": 26,
@@ -802,7 +816,8 @@
       "Text": "گردن از طاعت نهند و انقیاد",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: سرها را به خاطر عشق و محبت در برابر طاعت و فرمان‌پذیری خم می‌کنند و به این تسلیم، وابستگی عمیق و استواری دارند."
     },
     {
       "VOrder": 28,
@@ -818,7 +833,8 @@
       "Text": "می نوشتیم ار بر ایشان ز امت حان",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: ما اگر از رفتارها و شروط اهل امت شکایت کنیم، به قتل و بیرون شدن از شهر و دیار تهدید می‌شویم."
     },
     {
       "VOrder": 30,
@@ -834,7 +850,8 @@
       "Text": "همچو اسرائیلیان کز یکدگر",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: مانند اسرائیلیان که به خاطر اختلافاتشان یکدیگر را کشتند، تا اینکه سرانجام به سرزمین شام رسیدند."
     },
     {
       "VOrder": 32,
@@ -850,7 +867,8 @@
       "Text": "وز بلد شد حکم تا بیرون روند",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: از دیارشان فرمان صادر شد تا خارج شوند و از وطن خود فراری در بیابان‌ها بگردند."
     },
     {
       "VOrder": 34,
@@ -866,7 +884,8 @@
       "Text": "این نکردی جز قلیلی زین گروه",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که شما فقط تعداد کمی از افرادی را می‌شناسید که در ایمان و اعتقاداتشان به اندازه کوه استوار و محکم هستند."
     },
     {
       "VOrder": 36,
@@ -882,7 +901,8 @@
       "Text": "ور که می کردند ایشان از پسند",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که از روی خواسته و تمایل خود، به انجام کارهایی بپردازد که از سوی خداوند برای او دستور و اندرز داده شده است."
     },
     {
       "VOrder": 38,
@@ -898,7 +918,8 @@
       "Text": "می نمودندی اطاعت از رسول",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: آنها از روی فرمانبرداری و احترام به پیامبر، دستورات او را می‌پذیرفتند و با دل و جان اجرا می‌کردند."
     },
     {
       "VOrder": 40,
@@ -914,7 +935,8 @@
       "Text": "بهر ایشان بود بهتر از جهات",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: برای آن‌ها بهتر از چیزهای دشوار، عقل و ایمان و استقامت است."
     },
     {
       "VOrder": 42,
@@ -930,7 +952,8 @@
       "Text": "وز تثبت اندر ایمانشان دهیم",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: و به خاطر استقامت و استحکام در ایمان آن‌ها، پاداش بزرگی از سوی خود به آن‌ها عطا خواهیم کرد."
     },
     {
       "VOrder": 44,
@@ -946,7 +969,8 @@
       "Text": "هم نماییم آن کسان را راه راست",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: ما به آن دسته از افراد نشان خواهیم داد که راه درست کجاست و مسیر و هدفی که رهروان باید دنبال کنند، چیست."
     },
     {
       "VOrder": 46,
@@ -962,7 +986,8 @@
       "Text": "وآنکه فرمان برد از حق ، وز رسول",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: کسی که از خدا و پیامبر او اطاعت کند، در روز قیامت به آن گروه خواهد پیوست و به مقام والایی دست خواهد یافت."
     },
     {
       "VOrder": 48,
@@ -978,7 +1003,8 @@
       "Text": "با کسانی ز اهل حق باشند یار",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: با افرادی که از اهل حق هستند و به خوبی و نیکی در کنار هم قرار دارند، خداوند به آن‌ها نعمت و برکت می‌دهد."
     },
     {
       "VOrder": 50,
@@ -994,7 +1020,8 @@
       "Text": "ز انبیاء و صادقان و صالحان",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: از پیامبران و راستگویان و نیکوکاران و آن شهیدانی که جان خود را فدای هدفشان کردند."
     },
     {
       "VOrder": 52,
@@ -1010,7 +1037,8 @@
       "Text": "وآنکه باشد در رفاقت نیک پی",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: کسی که در دوستی و رفاقت با دیگران نیکو رفتار کند، همیشه با دوستانش هم‌قدم و همراه خواهد بود."
     },
     {
       "VOrder": 54,
@@ -1026,7 +1054,8 @@
       "Text": "یا تواند بود کاین نیکو رفیق",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: شاید این همراه خوب کسی جز آن چهار نفر که در مسیر هستند، نباشد."
     },
     {
       "VOrder": 56,
@@ -1042,7 +1071,8 @@
       "Text": "یعنی ایشان در رفاقت اکملند",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: یعنی در دوستی و رفاقت، آنها کامل‌تر از همه‌ی موجودات هستند و از همه‌ی افراد بهترند."
     },
     {
       "VOrder": 58,
@@ -1058,7 +1088,8 @@
       "Text": "کرده حق بر چار قسم اخیار را",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: خداوند چهار گروه از بندگانش را انتخاب کرده است و بر آنها توجه ویژه‌ای دارد."
     },
     {
       "VOrder": 60,
@@ -1074,7 +1105,8 @@
       "Text": "انبیاء که محرم راز وی اند",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: پیامبرانی که درک عمیقی از اسرار الهی دارند، در نزدیکی و محرمیت با خداوند قرار دارند."
     },
     {
       "VOrder": 62,
@@ -1090,7 +1122,8 @@
       "Text": "صادقان اهل عیانند و شهود",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: راستگویان افرادی هستند که حقیقت را به روشنی می‌بینند و از طریق مشاهده، رازهای هستی و وجود را درک می‌کنند."
     },
     {
       "VOrder": 64,
@@ -1106,7 +1139,8 @@
       "Text": "وآن شهیدان رسته از آمال خویش",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: شهیدانی که از آرزوهای خود گذشتند، در راه او جان و مال خود را فدای او کردند."
     },
     {
       "VOrder": 66,
@@ -1122,7 +1156,8 @@
       "Text": "صالحان بر پاس امر حضرتش",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: نیازمندی‌های پروردگار را مجاز برای خود دانسته و در انجام وظایف خود به صورت یکپارچه و با همدلی کوشش می‌کنند."
     },
     {
       "VOrder": 68,
@@ -1138,7 +1173,8 @@
       "Text": "هر که شد با این جماعت همنشین",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که با این جمع دوستانه نشست و برخاست کند، دلش روشن و ایمانش خالص خواهد شد."
     },
     {
       "VOrder": 70,
@@ -1154,7 +1190,8 @@
       "Text": "از نَّبِیِّین قصد یا پیغمبر است",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: در این بیت اشاره شده که منظور از نبی، پیغمبر است و همچنین از صدیقین، شخصیت حیدر (علی) مورد نظر است. یعنی این دو واژه به شخصیت‌های مهم و مقدسی اشاره دارند که در ادبیات دینی و فرهنگی ارزش ویژه‌ای دارند."
     },
     {
       "VOrder": 72,
@@ -1170,7 +1207,8 @@
       "Text": "گر به لفظ جمعشان بستوده حق",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: اگر به خاطر جمع بودن اسم‌شان ستایش شوند، در واقع این دو در صفات با یکدیگر تفاوت دارند."
     },
     {
       "VOrder": 74,
@@ -1186,7 +1224,8 @@
       "Text": "بحر گویی کافی است از ذکر در",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: می‌توان گفت که دریا تنها با یادآوری خاصیت‌هایش، که مملو از گوهرها و ثروت‌هاست، به خوبی توصیف می‌شود."
     },
     {
       "VOrder": 76,
@@ -1202,7 +1241,8 @@
       "Text": "یک علی گو کار خود یکباره کن",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: ای علی، کار خود را به‌سرعت انجام بده و پرده‌ی دید دوگانه را کنار بزن."
     },
     {
       "VOrder": 78,
@@ -1218,7 +1258,8 @@
       "Text": "از شهیدان شد اشارت بر حسین(ع)",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: هر پیامبر و ولیّ در مورد حسین(ع) به نوعی اشاره کرده و او را به عنوان نماد پاکی و نور معرفی کرده‌اند. حسین(ع) به عنوان پیشوایی بزرگ در دل همه‌ی مؤمنان جایگاه ویژه‌ای دارد."
     },
     {
       "VOrder": 80,
@@ -1234,7 +1275,8 @@
       "Text": "صالحان اولاد او تا قائمند",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: فرزندان صالح او تا زمانی که به وجود خود ادامه می‌دهند، همواره تحت رحمت و لطف خاص خداوند هستند."
     },
     {
       "VOrder": 82,
@@ -1248,7 +1290,8 @@
       "VOrder": 83,
       "Position": "Paragraph",
       "Text": "« در بیان و تحقیق مهدویت »",
-      "CoupletIndex": 42
+      "CoupletIndex": 42,
+      "CoupletSummary": "هوش مصنوعی: در این متن به موضوع مهدویت پرداخته می‌شود و به بیان و بررسی ابعاد مختلف آن توجه شده است. در مهدویت به موضوع ظهور امام زمان (عج) و ویژگی‌ها و نشانه‌های مربوط به آن پرداخته می‌شود. همچنین اهمیت این موضوع در اعتقادات دینی و تأثیرات آن بر زندگی انسان‌ها نیز مورد بررسی قرار می‌گیرد."
     },
     {
       "VOrder": 84,
@@ -1256,7 +1299,8 @@
       "Text": "دور قائم، دائم است از رب دین",
       "CoupletIndex": 43,
       "SectionIndex1": 1,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: زندگی و حکومت راستین از اولیای خدا و هدایت‌گران تا پایان دنیا برقرار خواهد ماند."
     },
     {
       "VOrder": 85,
@@ -1272,7 +1316,8 @@
       "Text": "هر زمانی را و لی ای لازم است",
       "CoupletIndex": 44,
       "SectionIndex1": 1,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: هر زمان و لی (پیشوای بزرگی) لازم است و این رهبری همواره در مسیر درست و ثابت قرار دارد."
     },
     {
       "VOrder": 87,
@@ -1288,7 +1333,8 @@
       "Text": "مهدی هادی است قائم در طریق",
       "CoupletIndex": 45,
       "SectionIndex1": 1,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: مهدی هادی، راهنمایی است که در مسیر راه‌روها قرار دارد و در رفتار نیکو دوست هم‌راهان خود است."
     },
     {
       "VOrder": 89,
@@ -1304,7 +1350,8 @@
       "Text": "پادشاهانند در ملک وجود",
       "CoupletIndex": 46,
       "SectionIndex1": 1,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: زبانزد است که هر یک از پادشاهان در سرزمین وجود، به نوعی بازتابی از حقیقت خود را نشان می‌دهند و هر کدام به نوبه خود، نماینده و قائم‌مقام این حقیقت در جهان هستند."
     },
     {
       "VOrder": 91,
@@ -1320,7 +1367,8 @@
       "Text": "فانی از آثار خود بر دائمند",
       "CoupletIndex": 47,
       "SectionIndex1": 1,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: هرچه ز آثار و نشانه‌های ماست، زودگذر و نابود می‌شود، اما تنها حقیقت و ذات الهی همیشه پایدار و ثابت است."
     },
     {
       "VOrder": 93,
@@ -1336,7 +1384,8 @@
       "Text": "صد چراغ از شمع واحد روشنند",
       "CoupletIndex": 48,
       "SectionIndex1": 1,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: صد چراغ از یک شمع روشن شده‌اند و همه آنها در اصل یک نور هستند، هرچند که به تعداد زیاد دیده می‌شوند."
     },
     {
       "VOrder": 95,
@@ -1352,7 +1401,8 @@
       "Text": "میتوانی کز چراغی صد چراغ",
       "CoupletIndex": 49,
       "SectionIndex1": 1,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: تو می‌توانی با یک چراغ، نورانی مانند صد چراغ در خانه و در دشت و باغ پخش کنی."
     },
     {
       "VOrder": 97,
@@ -1368,7 +1418,8 @@
       "Text": "شرط نقلش لیک باشد اشتعال",
       "CoupletIndex": 50,
       "SectionIndex1": 1,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: نقل یک احساس یا تجربه نیاز به وجود یک جرقه درونی دارد، زیرا بدون وجود این جرقه، انتقال احساسی ممکن نیست."
     },
     {
       "VOrder": 99,
@@ -1384,7 +1435,8 @@
       "Text": "اشتعال آن اتصال است از ولی",
       "CoupletIndex": 51,
       "SectionIndex1": 1,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: آتشِ شعله‌ور ناشی از پیوندی است که به ولی (بنده‌ای خاص) مربوط می‌شود و این پیوند به ذات و اصل علی (خداوند متعال) هم مربوط می‌گردد."
     },
     {
       "VOrder": 101,
@@ -1400,7 +1452,8 @@
       "Text": "دور مهدی این بود بر اتصال",
       "CoupletIndex": 52,
       "SectionIndex1": 1,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: اگر با اعتقاد و شناخت به دنبال مهدی باشی، این ارتباط و نزدیکی به او می‌تواند تو را در فضای خودش قرار دهد."
     },
     {
       "VOrder": 103,
@@ -1416,7 +1469,8 @@
       "Text": "دور یک دور است نزد اهل دل",
       "CoupletIndex": 53,
       "SectionIndex1": 1,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: افراد عارف و اهل دل بر این باورند که زندگی و زمان همیشه در حال چرخش و تدبیر است و این چرخه به وجود مقدس مهدی (عج) پیوند می‌خورد."
     },
     {
       "VOrder": 105,
@@ -1432,7 +1486,8 @@
       "Text": "این است فضلی از خدا در کارشان",
       "CoupletIndex": 54,
       "SectionIndex1": 1,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: این نشان از لطف و فضل خداوند در فعالیت‌های آنهاست که باعث می‌شود یارانشان بر آنها نعمت بگسترانند."
     },
     {
       "VOrder": 107,
@@ -1448,7 +1503,8 @@
       "Text": "بلکه خود که مؤمن از جان و دلند",
       "CoupletIndex": 55,
       "SectionIndex1": 1,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: این افراد مؤمن به خاطر ایمان و اعتقاد عمیقشان، همگی در زمره کسانی هستند که از نعمت‌ها و رحمت‌های خاص الهی برخوردارند."
     },
     {
       "VOrder": 109,
@@ -1464,7 +1520,8 @@
       "Text": "پس بود بی شک خداوند علیم",
       "CoupletIndex": 56,
       "SectionIndex1": 1,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: بی‌تردید خداوند دانا به پاداش مؤمنان بر نعمت‌ها آگاه است."
     },
     {
       "VOrder": 111,
@@ -1480,7 +1537,8 @@
       "Text": "که صلاحیت مر ایشان راست تام",
       "CoupletIndex": 57,
       "SectionIndex1": 1,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: صلاحیت آنها در هماهنگی با ویژگی‌ها و کرامت‌های خاصشان به طور کامل وجود دارد."
     },
     {
       "VOrder": 113,
@@ -1496,7 +1554,8 @@
       "Text": "بعد ذکر اهل ایمان و سداد",
       "CoupletIndex": 58,
       "SectionIndex1": 1,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: پس از یادآوری مؤمنان، خداوند فرمان می‌دهد تا به جهاد و جنگ بپردازند."
     },
     {
       "VOrder": 115,

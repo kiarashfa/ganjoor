@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "هر که او نقص دیگری گوید",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی در مورد نقص‌های دیگران صحبت کند، قطعا دلیلی دارد که خودش هم نقص‌هایی دارد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "نقص مردم مگو که نیکو نیست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بنگر به دیگران، عیب‌های آنها را بیان نکن که این کار زیبا نیست. اگر عیبی در آدم‌ها وجود داشته باشد، آیا می‌توان آن را زیبا دانست؟"
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "گر سراپای او فرو باشی",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تمام وجودت را در خدمت او قرار دهی، نعمت و لطف او بر سر تو نازل خواهد شد."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "ور محب لقای او باشی",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو عاشق ملاقات او باشی، او نیز عاشق ملاقات تو خواهد بود."
     },
     {
       "VOrder": 8,

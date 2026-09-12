@@ -161,7 +161,8 @@
       "Text": "روی در بغداد کرد اعرابیی",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: یک اعرابی در بغداد به دنبال بدست آوردن غنیمت و ثروت است."
     },
     {
       "VOrder": 2,
@@ -177,7 +178,8 @@
       "Text": "بعد چندین روز بار انتظار",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: پس از چندین روز انتظار، به بالاخره بر سر سفره خلیفه، نعمت و برکت رسید."
     },
     {
       "VOrder": 4,
@@ -193,7 +195,8 @@
       "Text": "پیش او افتاد خالی از گزند",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در حضور او، همچون ظرفی پر از شیرینی و خوشی، بدون هیچ آسیبی و نگرانی از آسیب‌های دیگر افتاده است."
     },
     {
       "VOrder": 6,
@@ -209,7 +212,8 @@
       "Text": "چرب و شیرین چون زبان اهل دل",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: زبان افرادی که دل‌های حساس دارند، نرم و لطیف است و مانند کلامی شیرین و دلنشین می‌باشد؛ به گونه‌ای که می‌تواند به راحتی دل‌ها را تسخیر کند."
     },
     {
       "VOrder": 8,
@@ -225,7 +229,8 @@
       "Text": "ایمن از آزار مشتی ژاژخای",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: افرادی که با حرف‌های بی‌پایه و اساس خود قصد دارند به دیگران آسیب بزنند، نمی‌توانند به کسی که از خود محافظت می‌کند، صدمه‌ای بزنند."
     },
     {
       "VOrder": 10,
@@ -241,7 +246,8 @@
       "Text": "چون دهان از خوردن آن ساخت پاک",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: زمانی که دهان از خوردن آن چیز پاک شد، با خلیفه صحبت کرد و بدون ترس و نگرانی گفتگو کرد."
     },
     {
       "VOrder": 12,
@@ -257,7 +263,8 @@
       "Text": "کای تو را بر ذروه افلاک مهد",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که من برایت در اوج آسمان‌ها مهدی ساخته‌ام، اکنون با خداوند خود پیمانی بسته‌ام."
     },
     {
       "VOrder": 14,
@@ -273,7 +280,8 @@
       "Text": "کاندرین مهمانسرای سبز فام",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در این مکان زیبا و دلنشین، جایی برای استراحت و تناول غذا وجود دارد؛ به امید اینکه در اینجا هم وعده صبحانه بخوریم و هم وعده شام."
     },
     {
       "VOrder": 16,
@@ -289,7 +297,8 @@
       "Text": "جز سوی خوان تو ننهم گام خویش",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: جز به سمت سفره تو قدم نمی‌زنم تا از این غذا لذت ببرم."
     },
     {
       "VOrder": 18,
@@ -305,7 +314,8 @@
       "Text": "شد خلیفه زان سخن خندان و گفت",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: خلیفه از آن سخنان خوشحال شد و گفت: ای کسی که رازهای پنهانی از تو مشخص است."
     },
     {
       "VOrder": 20,
@@ -321,7 +331,8 @@
       "Text": "شاید اینجا بار ندهندت دگر",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: شاید اینجا دیگر به تو اجازه ندهند که زحمت بکشی، بنابراین نیازی نیست که مدام به اینجا بیایی."
     },
     {
       "VOrder": 22,
@@ -337,7 +348,8 @@
       "Text": "گفت تقصیر از تو باشد آن زمان",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: اگر زمانی در کار یا رفتار تو نقصی باشد، باید بپذیری که تقصیر از من نیست، ای منبع امنیت و آرامش."
     },
     {
       "VOrder": 24,
@@ -353,7 +365,8 @@
       "Text": "می کنم من صرف وسع خویشتن",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: من تلاش می‌کنم از توانایی‌ها و امکانات خود بهره ببرم، اما اگر تو اجازه ندهی، چه گناهی به گردن من خواهد بود؟"
     },
     {
       "VOrder": 26,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "هنر از بی هنر چه می پرسی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از کسی که هنر ندارد نمی‌توان انتظار هنر داشت، همان‌طور که از یک الاغ نمی‌توان توقع ذوق و احساس داشت."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "نور خورشید را به او می بین",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به او نور خورشید را نشان بده، چرا از ماه می‌پرسی؟"
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "لیس فی الدار غیره دیار",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این دنیا جز او کسی نیست، ای پسر، پس چرا سوال می‌کنی؟"
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "لب او بوسه ده شکر آن است",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: لب او که بوسه‌ای شیرین دارد، در واقع خود شکر است. پس از او و شکر چه چیزی می‌خواهی بپرسی؟"
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "عشق مست است و عقل مخمور است",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق حالتی شگفت‌انگیز و بی‌نظیر دارد و عقل در این حالت نمی‌تواند به درستی درک کند. پس از کسی که از این حالت بی‌خبر است، چه انتظاری داری؟"
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "خیر وشر را به این و آن بگذار",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نیکی و بدی را به دیگران واگذار کن، چرا که داستان نیکی و بدی چه اهمیتی دارد که سوال بپرسی؟"
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "نعمت الله بگو چه می گوئی",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای نعمتی از سوی خدا، بگو چه می‌گویی؟ حال این دیگر را چرا می‌پرسی؟"
     },
     {
       "VOrder": 14,

@@ -161,7 +161,8 @@
       "Text": "شب که از هر کار دل پرداختی",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: در شب که دل را از همه کارها رها کردی و به خوشی و بازی با دوستان پرداختی، در واقع، خود را در عشق شکست داده‌ای."
     },
     {
       "VOrder": 2,
@@ -177,7 +178,8 @@
       "Text": "بزمگاهی چون بهشت آراستی",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: جایی را مانند بهشت تزئین کرده‌ای و آرزو داری که نوازندگان زیبا و دلربا در آنجا باشند."
     },
     {
       "VOrder": 4,
@@ -193,7 +195,8 @@
       "Text": "چون دماغ او شدی از باده گرم",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: وقتی که از شراب گرم شاداب شدی، شرم را از خودت دور کردی و به آزادی رسیدی."
     },
     {
       "VOrder": 6,
@@ -209,7 +212,8 @@
       "Text": "گاه با قوال دمساز آمدی",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: گاهی با خواننده‌ای که هم صدای توست، وارد محفل می‌شوی و گاهی با نوازنده‌ای که نغمه‌ای زیبا خلق می‌کند، همراه می‌شوی."
     },
     {
       "VOrder": 8,
@@ -225,7 +229,8 @@
       "Text": "تن تنش را از لب شکر شکن",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: تو با لب شکرین و شیرین خود، جان تازه‌ای به تنم بخشیدی، مثل مسیح که جان تازه‌ای به مردگان می‌دهد."
     },
     {
       "VOrder": 10,
@@ -241,7 +246,8 @@
       "Text": "گه شدی همراه نایی رهسپر",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: هرگاه با نغمه‌ای همراه شدی، زهر را به شیرینی تبدیل کن."
     },
     {
       "VOrder": 12,
@@ -257,7 +263,8 @@
       "Text": "بانگ نی را با شکر آمیختی",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: صدای نی را با شکر ترکیب کردی و گوش‌هایت را با شیرینی پر کردی."
     },
     {
       "VOrder": 14,
@@ -273,7 +280,8 @@
       "Text": "گاهی از چنگی گرفتی چنگ را",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: گاهی با انقباض و فشار، چنگ را به حرکت درآوردی و آهنگ را با شدتی دل‌نواز و غمناک به صدا درآوردی."
     },
     {
       "VOrder": 16,
@@ -289,7 +297,8 @@
       "Text": "فندق تر ریختی بر خشک تار",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: شما فندق‌های تازه را بر روی تار خشک ریختید و در طرف دیگر، آتش شعله‌ای را بر روی قطره‌های تر و خشک انداختید."
     },
     {
       "VOrder": 18,
@@ -305,7 +314,8 @@
       "Text": "گاهی از بربط چو طفل خردسال",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: گاهی اوقات، مانند یک کودک کوچک که به آرامی در کنار خود جایی نشسته، صدای بربط (instrument) را می‌شنوم و از این آهنگ احساس لذت می‌کنم."
     },
     {
       "VOrder": 20,
@@ -321,7 +331,8 @@
       "Text": "ناله های دردناک انگیختی",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: تو با ناله‌های دردناک خود، در دل بزرگ‌ترها احساسات عمیق و غم انگیزی به وجود آوردی و اشک‌ها از چشمشان مانند خون روان شد."
     },
     {
       "VOrder": 22,
@@ -337,7 +348,8 @@
       "Text": "گاه می شد بلبل آوا در غزل",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: گاهی می‌شد که بلبل در شعر نغمه‌ای می‌خواند و گاهی نیز دست به عمل می‌زد و وعده‌هایی را انجام می‌داد."
     },
     {
       "VOrder": 24,
@@ -353,7 +365,8 @@
       "Text": "هر شب اینش کار بودی تا سحر",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: هر شب به همین منوال بودی که تا صبح با دوستان به این شکل سرگرم بودی و گذراندی."
     },
     {
       "VOrder": 26,

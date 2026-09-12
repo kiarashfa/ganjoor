@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "یک شب چو ستاره گر نخسبی تا روز",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر شب را به مانند ستاره‌ای روشن و بی‌خواب بگذرانی، روز به تو نوری می‌بخشد که جان‌ات را زنده و شاداب می‌کند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "در تاریکیست آب حیوان تو مخسب",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در تاریکی، آب حیوان تو حرکت نکند، شاید روزی شب، در آب صورتش را بشوی."
     },
     {
       "VOrder": 4,

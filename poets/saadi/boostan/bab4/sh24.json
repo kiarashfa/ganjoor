@@ -231,7 +231,8 @@
       "Text": "شنیدم که در خاکِ وَخش از مهان",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "شنیده‌ام که در ولایت «وخش» از مهان، شخصی بود که خلوت گزیده‌بود."
     },
     {
       "VOrder": 2,
@@ -247,7 +248,8 @@
       "Text": "مجرّد به معنی نه عارف به دلق",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "عارف و فقیر به‌معنای کلمه نه فقط یک عارف به‌لباس و ظاهر که به مردم دست‌ حاجت دراز کند."
     },
     {
       "VOrder": 4,
@@ -263,7 +265,8 @@
       "Text": "سعادت گشاده دری سویِ او",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "نیکبختی به‌او دری گشوده بود و او در خلوت و به‌دور از دیگران بود."
     },
     {
       "VOrder": 6,
@@ -279,7 +282,8 @@
       "Text": "زبان‌آوری بی‌خرد سعی کرد",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "شاعری نادان با بی‌شرمی از او بد گفت."
     },
     {
       "VOrder": 8,
@@ -295,7 +299,8 @@
       "Text": "که زنهار از این مکر و دستان و ریو",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "که وای از این حیله و ریا که او دارد و همچون دیو‌، خود را بجای سلیمان جا می‌زند."
     },
     {
       "VOrder": 10,
@@ -311,7 +316,8 @@
       "Text": "دمادم بشویند چون گربه روی",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "این‌ها خود را پاک نشان می‌دهند (یا مدام وضو می‌گیرند) اما هدف‌شان چیز دیگری است. (یعنی مثل گربه زاهد هستند که قصد جلب اعتماد موش‌ها را دارد)"
     },
     {
       "VOrder": 12,
@@ -327,7 +333,8 @@
       "Text": "ریاضت‌کِش از بهرِ نام و غرور",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "برای خودنمایی و نام‌، ریاضت‌کشی می‌کنند و نام‌شان همچون بانگ طبل تهی تا دوردست می‌رود."
     },
     {
       "VOrder": 14,
@@ -343,7 +350,8 @@
       "Text": "همی‌گفت و خلقی بر او انجمن",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "اینها را می‌گفت و جمعی مرد و زن دور او جمع شده‌بودند و تفریح می‌کردند."
     },
     {
       "VOrder": 16,
@@ -359,7 +367,8 @@
       "Text": "شنیدم که بگریست دانایِ وخش",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "شنیده‌ام آن پیر دانای اهل وخش، بگریست و گفت خدایا این بنده گناهکار را نعمت توبه ببخش."
     },
     {
       "VOrder": 18,
@@ -375,7 +384,8 @@
       "Text": "وگر راست گفت ای خداوندِ پاک",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "و اگر راست گفت مرا نعمت توبه ببخش، ای خداوند پاک! تا هلاک و گمراه نشوم."
     },
     {
       "VOrder": 20,
@@ -391,7 +401,8 @@
       "Text": "پسند آمد از عیب‌جویِ خودم",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "کار عیب‌جوی خود را پسندیدم زیرا خوی بد مرا به‌من نمود و نشان داد."
     },
     {
       "VOrder": 22,
@@ -407,7 +418,8 @@
       "Text": "گر آنی که دشمنت گوید، مرنج",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "اگر آن هستی که دشمنت می‌گوید رنجیده مشو و اگر آن نیستی که او می‌گوید پس به‌او بگو «برو و هرچقدر می‌خواهی اندیشه باطل کن»"
     },
     {
       "VOrder": 24,
@@ -423,7 +435,8 @@
       "Text": "اگر ابلهی مشک را گَنده گفت",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "اگر یک نادان، مِشک را بدبو خواند‌، تو شاد باش که او بی‌خود و پراکنده گفت."
     },
     {
       "VOrder": 26,
@@ -439,7 +452,8 @@
       "Text": "وگر می‌رود در پیاز این سخُن",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "وگر درباره پیاز این حرف را گفت، پس راست می‌گوید و به‌او بگو هرزه مگو."
     },
     {
       "VOrder": 28,
@@ -455,7 +469,8 @@
       "Text": "نگیرد خردمندِ روشن‌ضمیر",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "نگیرد آدم روشن‌دل و پاک‌ضمیر،\u00A0زبان‌بندِ دشمن ز هنگامه‌گیر"
     },
     {
       "VOrder": 30,
@@ -471,7 +486,8 @@
       "Text": "نه آیینِ عقل است و رای و خرد",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "عاقلانه و خردمندانه نیست که آدم دانا، گول یک حیله‌گر را بخورد."
     },
     {
       "VOrder": 32,
@@ -487,7 +503,8 @@
       "Text": "پسِ کارِ خویش آنکه عاقل نِشَست",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "آن‌که داناست زبان بداندیش و بدخواه را بر خود می‌بندد."
     },
     {
       "VOrder": 34,
@@ -503,7 +520,8 @@
       "Text": "تو نیکو‌رَوِش باش تا بدسگال",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "تو درست‌کار و نیکورفتار باش تا آدم بداندیش فرصت عیب‌جویی از تو را پیدا نکند."
     },
     {
       "VOrder": 36,
@@ -519,7 +537,8 @@
       "Text": "چو دشوارت آمد ز دشمن سخُن",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "اگر حرف‌های دشمن تو را آزار می‌دهد ببین چه عیبی بر تو می‌گیرد پس آن‌را انجام مده."
     },
     {
       "VOrder": 38,
@@ -535,7 +554,8 @@
       "Text": "جز آن کس ندانم نکو‌گویِ من",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "جز کسی را که عیب‌های مرا بر من آشکار می‌کند، نکوگوی‌ِ خود نمی‌دانم."
     },
     {
       "VOrder": 40,

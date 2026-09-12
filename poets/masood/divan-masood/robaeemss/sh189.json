@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای فقر بخاست روز بازار تو خیز",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای فقر! روز بازار تو فرا رسیده است، پس در دولت و بزرگی فرمانده، سر بلند کن."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "ای نصرت دین بخیر بگشای نخیز",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای نصرت دین، به خوبی، بر ما گشوده شو و ای کفر، از ما دور شو."
     },
     {
       "VOrder": 4,

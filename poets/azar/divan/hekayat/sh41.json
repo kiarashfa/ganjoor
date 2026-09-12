@@ -171,7 +171,8 @@
       "Text": "بمن دوستی گفت از دوستان",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: دوستی به من گفت که کسی از دوستانش در حال گردش در باغ با او بود."
     },
     {
       "VOrder": 2,
@@ -187,7 +188,8 @@
       "Text": "که: از روزگارم غمی در دل است",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در دل من غمی از روزگار وجود دارد که نه می‌توانم از آن سخن بگویم و نه می‌توانم آن را از خودم دور کنم."
     },
     {
       "VOrder": 4,
@@ -203,7 +205,8 @@
       "Text": "مرا هست رازی نهان در جهان",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: من یک راز نهفته دارم که در این دنیا وجود دارد و اکنون می‌خواهم آن راز را به زبان آورم، اما همچنان مخفی نگه می‌دارم."
     },
     {
       "VOrder": 6,
@@ -219,7 +222,8 @@
       "Text": "بفخر زمان خان گیلان زمین",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: در زمانه‌ای که خان گیلان بر زمین حکمرانی می‌کند، با افتخار از عدالت پادشاه، شکایت‌ها و مشکلات مردم را حل می‌کند و به مانند گرگِ مورد اعتماد، از حقوق آنها دفاع می‌کند."
     },
     {
       "VOrder": 8,
@@ -235,7 +239,8 @@
       "Text": "بزرگ است و دانا و آزاده مرد",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: مردان بزرگ، دانا و آزاد نمی‌توانند درد و رنج خود را پنهان کنند."
     },
     {
       "VOrder": 10,
@@ -251,7 +256,8 @@
       "Text": "ندانم، ولی کی توان جست راه",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: نمی‌دانم، اما آیا کسی می‌تواند در آن محفل پنهانی راهی را پیدا کند که از رقبایش مخفی باشد؟"
     },
     {
       "VOrder": 12,
@@ -267,7 +273,8 @@
       "Text": "چو خضر ار کنی رهنمایی مرا",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: اگر مانند خضر، مرا راهنمایی کنی، از این بند و محدودیت رهایم کن."
     },
     {
       "VOrder": 14,
@@ -283,7 +290,8 @@
       "Text": "منم خشک لب، اوست بارنده میغ؛",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: من خودم در خشکی و بی‌آبی به سر می‌برم و او مثل ابر، باران می‌بارد؛ پس چرا آب را از کسی که تشنه است، دریغ می‌کنی؟!"
     },
     {
       "VOrder": 16,
@@ -299,7 +307,8 @@
       "Text": "از این بیش مپسند ای آموزگار",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: از این بیشتر نپسند، ای معلم، ظلم بر ستمدیده‌ای که در این دوران زندگی می‌کند."
     },
     {
       "VOrder": 18,
@@ -315,7 +324,8 @@
       "Text": "منش گفتم: ای سالک ره نورد",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: من به تو می‌گویم: ای مسافر، سفر کن؛ از درد و رنج خود، دل را به زنجیر دردها درآورده‌ایم."
     },
     {
       "VOrder": 20,
@@ -331,7 +341,8 @@
       "Text": "بناید دریغم ز مقصود تو",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: حسرت نمی‌خورم که به هدف تو نرسیدم، زیرا از نفع تو برای من ضرری نیست."
     },
     {
       "VOrder": 22,
@@ -347,7 +358,8 @@
       "Text": "در خانه یی کاو بدولت گشاد",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: در خانه‌ای که فردی با خوشبختی زندگی می‌کند، هیچ‌کس تنهایش نمی‌گذارد و برکت و محبت در آن جاری است."
     },
     {
       "VOrder": 24,
@@ -363,7 +375,8 @@
       "Text": "کند مجلس آن دم تهی از کرم",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: مجلس آن زمان از مهربانی خالی می‌شود که کسی درِ کیسه‌اش را برای کمک به درویش باز نکند."
     },
     {
       "VOrder": 26,
@@ -379,7 +392,8 @@
       "Text": "ز شرم کسان بسکه شرم آیدش",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: به دلیل شرمی که از دیگران دارد، در زمان بخشش نیاز به تنهایی دارد تا بتواند بدون دغدغه و راحت عمل کند."
     },
     {
       "VOrder": 28,

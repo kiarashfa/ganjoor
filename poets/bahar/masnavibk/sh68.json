@@ -221,7 +221,8 @@
       "Text": "شنیدم که شاهنشهی نقش بست",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: شنیده‌ام که پادشاهی بزرگ و باعظمت، نماد خود را بر ابرهایی نقش کرده و گفته است: «کاملاً درست است.»"
     },
     {
       "VOrder": 2,
@@ -237,7 +238,8 @@
       "Text": "درین باغ تا راستی‌، رسته‌ای",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در این باغ تا زمانی که صداقت و راستی وجود دارد، تو رشد می‌کنی، اما اگر به فساد و نادرستی روی بیاوری، خسته و ناامید خواهی شد."
     },
     {
       "VOrder": 4,
@@ -253,7 +255,8 @@
       "Text": "بگو راست‌، ور بیم جان داردت",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: اگر به راستی سخن بگویی، حتی اگر برایت خطرناک باشد، بدان که خود راستگویی تو را از خطرها محافظت می‌کند."
     },
     {
       "VOrder": 6,
@@ -269,7 +272,8 @@
       "Text": "یکی روز در مکه غوغا بخاست",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: روزی در مکه هیاهویی به پا شد به خاطر کینه‌ای که از محمد داشتند، زیرا او حق را می‌گفت."
     },
     {
       "VOrder": 8,
@@ -285,7 +289,8 @@
       "Text": "به یاری رسیدش یکی رادمرد",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: یک مرد شجاع و نیکوکار به کمک او آمد و او را به دوش گرفت."
     },
     {
       "VOrder": 10,
@@ -301,7 +306,8 @@
       "Text": "به ره در رسیدند غوغاییان",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: گروهی پر سر و صدا به راه رسیدند و آن مرد را در وسط محاصره کردند."
     },
     {
       "VOrder": 12,
@@ -317,7 +323,8 @@
       "Text": "بگفنند کاین‌ چیست‌؟ گفت‌ این‌ نبی‌ است",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: کسانی پرسیدند: این چیز چیست؟ او پاسخ داد: این پیامبر است و در این مکان هیچ چیز دیگری وجود ندارد."
     },
     {
       "VOrder": 14,
@@ -333,7 +340,8 @@
       "Text": "گزندآوران بی گزندان شدند",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: آسیب‌رسانان بدون آنکه آسیب بزنند، به شوخی و خنده مشغول شدند."
     },
     {
       "VOrder": 16,
@@ -349,7 +357,8 @@
       "Text": "ز راهش گذشتند و بگذشت پیر",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: از مسیر او عبور کردند و او هم از آن گذشت. و از صداقت او، آن فرمانروا به دست آورد."
     },
     {
       "VOrder": 18,
@@ -365,7 +374,8 @@
       "Text": "نگر تا پیمبر چه گفت از خرد:",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: به دقت به سخنان پیامبر نگاه کن که درباره خرد چه فرموده است: «هرچه حقیقت است را بگو، حتی اگر نتیجه‌اش مرگ باشد.»"
     },
     {
       "VOrder": 20,
@@ -381,7 +391,8 @@
       "Text": "شنو تا بدانی که این راز چیست",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: به دقت گوش کن تا بفهمی این چه رازی است؛ زیرا اگر نشنوی، باید بر حال خودت افسوس بخوری."
     },
     {
       "VOrder": 22,
@@ -397,7 +408,8 @@
       "Text": "مگوی‌ آنچه داری‌ به‌ دل راست‌ راست",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: نیا آنچه را که در دل داری، به‌روشنی و صراحت نگو؛ زیرا بیان هر چیزی که درست و واقعی است، ممکن است اشتباه باشد."
     },
     {
       "VOrder": 24,
@@ -413,7 +425,8 @@
       "Text": "بسا راست کآشوب‌ها راست کرد",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: بسیاری از اوقات، حقایق در بحران‌ها و آشوب‌ها روشن می‌شود و در این میان، دشمن نیز به آنچه که می‌خواست، دست پیدا می‌کند."
     },
     {
       "VOrder": 26,
@@ -429,7 +442,8 @@
       "Text": "نه هر راست را بایدت گفت تیز",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: هر حقیقتی را نباید به هر کس گفت، باید با دقت و احتیاط صحبت کرد تا چیزی جز حقیقت را بیان نکنی."
     },
     {
       "VOrder": 28,
@@ -445,7 +459,8 @@
       "Text": "کجا فتنه خیزد زگفتار راست",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: در جایی که سخن حق موجب بروز فتنه و آشوب می‌شود، سکوت کردن بهتر و مناسب‌تر است."
     },
     {
       "VOrder": 30,
@@ -461,7 +476,8 @@
       "Text": "گروهی دروغی روا داشتند",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: گروهی در جایی دروغی را مطرح کردند و آن را کار نیک و خوبی تصور کردند."
     },
     {
       "VOrder": 32,
@@ -477,7 +493,8 @@
       "Text": "دروغی کجا سود آید از آن",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: دروغ هیچ فایده‌ای ندارد، چون تنها موجب نگرانی و آشفتگی می‌شود، بهتر است همیشه راست بگوییم."
     },
     {
       "VOrder": 34,
@@ -493,7 +510,8 @@
       "Text": "منت راست گویم که چونین دروغ",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: به راستی می‌گویم که چنین دروغی اگرچه ممکن است نفعی داشته باشد، اما هیچ‌گاه درخشش و اعتبار نخواهد داشت."
     },
     {
       "VOrder": 36,
@@ -509,7 +527,8 @@
       "Text": "ز خوبی زبان خاستن بودنی است",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: زیبایی و خوبی باعث می‌شود که انسان‌ها به بیان احساسات و افکار خود بپردازند، اما در برابر بدی و زشت‌کاری، هیچ فایده‌ای وجود ندارد."
     },
     {
       "VOrder": 38,

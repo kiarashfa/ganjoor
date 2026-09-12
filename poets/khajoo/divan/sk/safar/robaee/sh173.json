@@ -57,7 +57,8 @@
       "Text": "چون بی می پخته خام می‌باشد کار",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: وقتی که انسان بدون تجربه و آگاهی باشد، نوشیدن شراب برایش بی‌فایده و خام‌دستانه است."
     },
     {
       "VOrder": 2,
@@ -73,7 +74,8 @@
       "Text": "از خامی نیست",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: از نادانی و بی‌تجربگی نیست."
     },
     {
       "VOrder": 4,
@@ -81,7 +83,8 @@
       "Text": "ای ساقی سیم ساق سوقی برخیز",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: ای ساقی با پای‌های نازک، بلند شو و آن دهقان مردمی را که در شهر است، بیاور."
     },
     {
       "VOrder": 5,
@@ -97,7 +100,8 @@
       "Text": "گر عامی نیست",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی عادی نیست،"
     }
   ]
 }

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "هان ای سفری عزم کجایست کجا",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای مسافر، مقصدت کجاست؟ هر جا که بروی، در دل ما جا داری."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "چندان غم دریاست ترا چون ماهی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: غم تو مانند دریا عمیق و وسیع است، همچون ماهی که اگر از آب دور بماند، لب‌هایش خشک می‌شود."
     },
     {
       "VOrder": 4,

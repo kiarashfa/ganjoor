@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گفتن دگر است و آزمودن دگر است",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صحبت کردن با امتحان کردن متفاوت است و برای حل کردن مشکلی از راه خود، نیاز به مهارت‌های خاصی است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گفتی که فلان گفت و فلانی بشنید",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو گفتی که فلانی چیزی گفت و دیگری آن را شنید، این فقط یک روایت است و واقعیت چیز دیگری است."
     },
     {
       "VOrder": 4,

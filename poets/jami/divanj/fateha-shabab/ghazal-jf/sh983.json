@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گفتی بگوی عاشق و بیمار کیستی!",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "از من پرسیدی که عاشق و بیمار چه کسی هستم؟ من عاشق توام، تو بگو یار چه کسی هستی؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "بستی میان به فتنه کشیدی ز غمزه تیغ",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "کمر به فتنه‌گری بسته‌ای و با غمزه‌ات شمشیر می‌زنی؛ ای همه‌ی جان‌ها به قربان تو، قصد آزار چه کسی را داری؟"
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "دارم دلی ز هجر تو هر دم فگارتر",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "دلی دارم که از دوری تو هر لحظه زخمی‌تر از قبل است. به من بگو که بر روی زخم دل چه کسی مرهم می‌گذاری؟"
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "هر شب من و خیال تو و کنج محنتی",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هر شب من با خیال تو و کنجی پر از درد تنها هستم. تو یار و همراه که هستی و به درد دل چه کسی گوش می‌کنی؟\u00A0"
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "تا چند گرد کوی تو گردم گهی بپرس",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "چقدر اطراف منزل تو پرسه بزنم؟ حداقل یک بار از من بپرس که چه می‌کنم و از چه کسی طلب و خواسته‌ای دارم."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "جامی مدار چشم خلاصی ز قید عشق",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "ای جامی، انتظار رهایی از بند عشق را نداشته باش. تنها کاری که باید بکنی، این است که فکر کنی و قدر این بند و زندان را بدانی."
     },
     {
       "VOrder": 12,

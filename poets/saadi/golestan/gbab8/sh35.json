@@ -117,7 +117,8 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "نادان را به از خاموشی نیست وگر این مصلحت بدانستی نادان نبودی.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هیچ چیزی برای انسانِ نادان بهتر از سکوت نیست، و البته اگر این را می‌دانست و عمل می‌کرد اصلا نادان محسوب نمی‌شد.\u00A0"
     },
     {
       "VOrder": 2,
@@ -125,7 +126,8 @@
       "Text": "چون نداری کمالِ فضل آن به",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "وقتی که از کمال و فضیلتی برخوردار نیستی یا در مورد موضوعی سواد کافی نداری، بهتر است که زبانت را در دهان نگه‌داری و چیزی نگویی."
     },
     {
       "VOrder": 3,
@@ -141,7 +143,8 @@
       "Text": "آدمی را زبان فضیحه کند",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "انسان را حرف‌زدن رسوا می‌کند (توخالی بودن و بی‌هنربودن انسان را زبانش آشکار می‌کند) و توخالی‌بودن گردو را سبک‌بودنش آشکار می‌کند."
     },
     {
       "VOrder": 5,
@@ -157,7 +160,8 @@
       "Text": "خری را ابلهی تعلیم می‌داد",
       "CoupletIndex": 3,
       "SectionIndex1": 10,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: ابلهی در حال آموزش یک خر است و تلاش می‌کند که همیشه بر روی آن کار کند."
     },
     {
       "VOrder": 7,
@@ -173,7 +177,8 @@
       "Text": "حکیمی گفتش ای نادان چه کوشی؟",
       "CoupletIndex": 4,
       "SectionIndex1": 10,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: حکیمی به فرد نادانی می‌گوید: چه تلاشی بیهوده می‌کنی؟ در این کار خطر سرزنش و ندامت وجود دارد."
     },
     {
       "VOrder": 9,
@@ -189,7 +194,8 @@
       "Text": "نیاموزد بهایم از تو گفتار",
       "CoupletIndex": 5,
       "SectionIndex1": 10,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "\u00A0از من سخن گفتن را یاد نگیر؛\nبلکه از من خاموشی را بیاموز."
     },
     {
       "VOrder": 11,
@@ -205,7 +211,8 @@
       "Text": "هر که تأمل نکند در جواب",
       "CoupletIndex": 6,
       "SectionIndex1": 9,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "کسی که قبل از حرف زدن فکر نکند، اشتباه در سخنانش بیشتر می‌شود."
     },
     {
       "VOrder": 13,
@@ -221,7 +228,8 @@
       "Text": "یا سخن آرای چو مردم به هوش",
       "CoupletIndex": 7,
       "SectionIndex1": 9,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "یا مثل یک انسان، با تأمل و آگاهانه و فکرشده سخن بگو، یا اگر نمی‌توانی، مثل حیوانات ساکت باش."
     },
     {
       "VOrder": 15,

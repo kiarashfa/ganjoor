@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "هر که شد مبتلا به پُرگویی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که به صحبت کردن زیاد مبتلا شود، به نوعی گرفتاری عجیب دچار می‌شود."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "هر بلایی که می رسد به کسان",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر مشکلی که برای افراد پیش می‌آید، بیشتر از آنچه که از حرف و سخن ناشی می‌شود، به آنها آسیب می‌زند."
     },
     {
       "VOrder": 4,

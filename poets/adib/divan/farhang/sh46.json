@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "سمن، که، هفته بود روزهایش با ترتیب",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "روزهای هفته\u00A0semaine، به ترتیب از یکشنبه تا شنبه عبارتند از:"
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "دیمانش، لوندی، ماردی، دوپاره، مرکردی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "یکشنبه dimanche، دوشنبه lundi، سه‌شنبه mardi، چهارشنبه mercredi، پنجشنبه jeudi، آدینه vendredi، شنبه samedi"
     },
     {
       "VOrder": 4,

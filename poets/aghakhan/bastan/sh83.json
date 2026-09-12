@@ -641,7 +641,8 @@
       "Text": "چو بهرام را بخت برگشت سخت",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: زمانی که بخت بهرام به او رو کرد و به شادی و کامیابی رسید، در نتیجه، دنیای پادشاهی خسرو بر تخت سلطنت بازگشت."
     },
     {
       "VOrder": 2,
@@ -657,7 +658,8 @@
       "Text": "همه خیمه ی او به تاراج برد",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: تمام کاروان او را زنان به غارت بردند و برای هدف خود به سوی خویش کشاندند."
     },
     {
       "VOrder": 4,
@@ -673,7 +675,8 @@
       "Text": "سپه را نداد او به جان زینهار",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: او سپاه را به جان خود واگذار نکرد و با تمام قدرت از جان آنان انتقام گرفت."
     },
     {
       "VOrder": 6,
@@ -689,7 +692,8 @@
       "Text": "به رومی سپه داد بسیار زر",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: سپه را به رومیان بسیار طلا و نقره و گنج و جواهر سپردند."
     },
     {
       "VOrder": 8,
@@ -705,7 +709,8 @@
       "Text": "زگفتار او را دهش بود به",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: او با سخنانش به جایگاه باارزش و آباد می‌رسد."
     },
     {
       "VOrder": 10,
@@ -721,7 +726,8 @@
       "Text": "چو ایشان سوی روم رفتند باز",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: وقتی آن‌ها به سمت روم رفتند، به طور مخفیانه در حال جنگ و آماده‌سازی بودند."
     },
     {
       "VOrder": 12,
@@ -737,7 +743,8 @@
       "Text": "تبه کرد گستهم و بند وی را",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: گستهم را نابود کرد و بند و زنجیر او را بالا برد و برزین و کردوی را نیز به همین سرنوشت دچارش کرد."
     },
     {
       "VOrder": 14,
@@ -753,7 +760,8 @@
       "Text": "خبر آمد او را که قیصر بمرد",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: خبر به او رسید که قیصر از دنیا رفته و جهان و همه چیز به دست فرد دیگری سپرده شده است."
     },
     {
       "VOrder": 16,
@@ -769,7 +777,8 @@
       "Text": "بکشتند موریس را رومیان",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: رومیان موریس را کشتند و این واقعه باعث شد که شهنشاه نوکا به قدرت برسد."
     },
     {
       "VOrder": 18,
@@ -785,7 +794,8 @@
       "Text": "فرستاد نزدیک خسرو نثار",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: به خسرو هدایا و جواهرات ارزشمندی ارسال کردند."
     },
     {
       "VOrder": 20,
@@ -801,7 +811,8 @@
       "Text": "نپذرفت و آرندگان را نخواند",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: او دعوت را نپذیرفت و پرندگان را نخواند و پس از آن به سوی روم لشکرکشی کرد."
     },
     {
       "VOrder": 22,
@@ -817,7 +828,8 @@
       "Text": "سوی الجزیره بیامد نخست",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: به سمت الجزیره آمد و لشکر روم از او ناامید و ضعیف شد."
     },
     {
       "VOrder": 24,
@@ -833,7 +845,8 @@
       "Text": "سپهدار شد کشته در جنگ باز",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: در میدان نبرد، فرمانده‌ای به نام ژرمن به شدت زخمی شد و جان خود را از دست داد، اما با این حال، نام و یاد او همچنان در خاطرها باقی خواهد ماند و به عنوان افتخار یاد خواهد شد."
     },
     {
       "VOrder": 26,
@@ -849,7 +862,8 @@
       "Text": "سپس بر درازای شط فرات",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: سپس در کنار رود فرات بناهایی مستحکم ساخت."
     },
     {
       "VOrder": 28,
@@ -865,7 +879,8 @@
       "Text": "به نزدیک دارا که بد دور دست",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: به نزد فرد دارای ثروت و قدرت، که آنجا دور دست است، بار دیگر رومی‌ها سپاه را شکستند."
     },
     {
       "VOrder": 30,
@@ -881,7 +896,8 @@
       "Text": "همه لشکر روم را کرد اسیر",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: همه سپاه روم را به بند کشید و تمامی زمین و دیار را تحت تسلط خود درآورد."
     },
     {
       "VOrder": 32,
@@ -897,7 +913,8 @@
       "Text": "زبغداد تا پیش دریای روم",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: از بغداد تا دریای روم، این سرزمین آباد و مرزهای آن را ویران کرد."
     },
     {
       "VOrder": 34,
@@ -913,7 +930,8 @@
       "Text": "سراسر همه خاک لیدی و شام",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: کل خاک لیدی و شام به رنگ خون رومیان تبدیل شد و همه جا را رنگ سرخ فرا گرفت."
     },
     {
       "VOrder": 36,
@@ -929,7 +947,8 @@
       "Text": "زبیتینیه تا به اسکندرون",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: آتش جنگ و ویرانی به جایی رسید که حتی شهر اسکندرون را هم در بر گرفت و خونریزی های فراوانی به بار آورد."
     },
     {
       "VOrder": 38,
@@ -945,7 +964,8 @@
       "Text": "به شهر آدس کشته شد سرژیوس",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: در شهر آدس، سرژیوس جان خود را از دست داد و تمام گنجینه‌ها و ثروت‌های کاپادوس به غارت رفت."
     },
     {
       "VOrder": 40,
@@ -961,7 +981,8 @@
       "Text": "دگر سال سربار در اورشلیم",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: سال دیگر در اورشلیم، کلیساییان را از وسط دو نیم خواهد کرد."
     },
     {
       "VOrder": 42,
@@ -977,7 +998,8 @@
       "Text": "صلیب مسیحا به تاراج برد",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: مسیحی که بر صلیب رفته بود، به همراه عده‌ای از جاثلیق‌ها، دستاوردهایی را به دست آورد و از آنان امتیازاتی گرفت."
     },
     {
       "VOrder": 44,
@@ -993,7 +1015,8 @@
       "Text": "چو خسرو به رومی جهان تنگ کرد",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: وقتی خسرو با رومیان دچار مشکل شد و بر اوضاع سخت گشت، تصمیم گرفت به سمت مصر سفر کند."
     },
     {
       "VOrder": 46,
@@ -1009,7 +1032,8 @@
       "Text": "زسودان بچاپید تا شهرتب",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: از سودان به سوی اسکندریه حرکت کن و در این راه، دنیای جدیدی بساز. شب را فراموش نکن؛ در دل تاریکی، فرصت‌های تازه‌ای وجود دارد."
     },
     {
       "VOrder": 48,
@@ -1025,7 +1049,8 @@
       "Text": "دگر سال کرد او سپاهی روان",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: سال دیگر او سپاهی را به حرکت درآورد، تا شاید بتواند به شهر شالسدوان برسد."
     },
     {
       "VOrder": 50,
@@ -1041,7 +1066,8 @@
       "Text": "سپهدار ساآس گرد دلیر",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: سردار شجاعی که در میدان جنگ مانند شیر نر عمل می‌کند و با دلیری و شجاعت به مبارزه می‌پردازد."
     },
     {
       "VOrder": 52,
@@ -1057,7 +1083,8 @@
       "Text": "مگر نام ساآس شاهو بدی",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: آیا می‌توانی تصور کنی که نام ساآس شاهو چه قدر بی‌رحم و خشمگین بوده است؟"
     },
     {
       "VOrder": 54,
@@ -1073,7 +1100,8 @@
       "Text": "به شهنامه خواند است او را گراز",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: در شهنامه به او به عنوان یک گراز اشاره شده است و یا او خود دستورات را با لذت و آرامش اجرا می‌کند."
     },
     {
       "VOrder": 56,
@@ -1089,7 +1117,8 @@
       "Text": "چو ساآس آمد به شالسدوان",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: وقتی سیاوش به شالسدوان رسید، روح رومیان از وجودشان جدا شد."
     },
     {
       "VOrder": 58,
@@ -1105,7 +1134,8 @@
       "Text": "که آن شهر نزدیک پاتخت بود",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: شهر مورد نظر به پایتخت نزدیک بود و در آنجا همه امور دشوار و پیچیده بود."
     },
     {
       "VOrder": 60,
@@ -1121,7 +1151,8 @@
       "Text": "به زورق زدریا گذر می نمود",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: در قایق دریا در حال حرکت بود و به یاد یلی که در کنار او بود، سلام و احوالپرسی می‌کرد."
     },
     {
       "VOrder": 62,
@@ -1137,7 +1168,8 @@
       "Text": "به لابه از او آشتی خواستی",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: تو با لحن زیبا و دلنشین از او آشتی خواستی و سخنانت را به خوبی تنظیم کردی."
     },
     {
       "VOrder": 64,
@@ -1153,7 +1185,8 @@
       "Text": "چنین تا که آن نامور نرم شد",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که آن فرد مشهور نرم‌خو و دوستانه شد، دوستی او با هرقل نیز گرم و صمیمی گردید."
     },
     {
       "VOrder": 66,
@@ -1169,7 +1202,8 @@
       "Text": "روان کرد ساآس را نزد شاه",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: ساآس به نزد شاه رفت و چند نفر از سرداران سپاه را همراه خود آورد."
     },
     {
       "VOrder": 68,
@@ -1185,7 +1219,8 @@
       "Text": "چو ساآس آمد بر شهریار",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: وقتی که سعی و تلاش به پیشرفت وارد زندگی یک فرد مهم و برجسته شود، او را در میان دیگران بی‌قدر و حقیر می‌کند."
     },
     {
       "VOrder": 70,
@@ -1201,7 +1236,8 @@
       "Text": "بفرمود تا زنده کندندش پوست",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: فرمان داد تا پوست او را زنده کنند، زیرا که با قیصر روم دوستی برقرار کرده بود."
     },
     {
       "VOrder": 72,
@@ -1217,7 +1253,8 @@
       "Text": "فرستاد سربار را جای او",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: او کسی را به جای خود فرستاد که کسی او را همتای کسری ندانست."
     },
     {
       "VOrder": 74,
@@ -1233,7 +1270,8 @@
       "Text": "بدو گفت رو آتشی برفروز",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: به او گفت که آتش را برافروز و همه شهر قسطنطنیه را بسوزان."
     },
     {
       "VOrder": 76,
@@ -1249,7 +1287,8 @@
       "Text": "گراز اندر آمد به شالسدوان",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: گراز به طور ناگهانی به سرزمین شالسدوان وارد شد و از آنجا به سمت استنبل روانه گردید."
     },
     {
       "VOrder": 78,
@@ -1265,7 +1304,8 @@
       "Text": "برآشفته هرقل ازین داستان",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: هرقل از این ماجرا به شدت ناراحت شد؛ زیرا مشاهده کرد که تمام کارها به نفع خسرو انجام می‌شود."
     },
     {
       "VOrder": 80,
@@ -1281,7 +1321,8 @@
       "Text": "یکی لشکر آراست از بهر جنگ",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: شخصی برای جنگ، سپاهی مجهز و آماده را سازماندهی کرد که نامشان به بزرگی و شجاعت در روم و فرنگ مشهور بود."
     },
     {
       "VOrder": 82,
@@ -1297,7 +1338,8 @@
       "Text": "بسیجید بر جنگ ایران زمین",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: به مبارزات و جنگ بر سر سرزمین ایران بپردازید، چرا که جنگ بر سر این سرزمین، فضا را برای سواران خشم و انتقام تنگ کرده است."
     },
     {
       "VOrder": 84,
@@ -1313,7 +1355,8 @@
       "Text": "دوان رفت تا سوی ارمینیه",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: او با شتاب به سمت ارمنستان رفت و از آنجا به سوی آلبانیه حرکت کرد."
     },
     {
       "VOrder": 86,
@@ -1329,7 +1372,8 @@
       "Text": "همان شهر گانزاک را برگشود",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: در اینجا به شهری به نام گانزاک اشاره می‌شود که با آتش وارد آن شده و دود به هوا برمی‌خیزد. این توصیف نشان‌دهنده‌ی یک رویداد یا موقعیتی است که در آن شهر مورد توجه قرار می‌گیرد و آتش، علامتی از تغییر یا تحول در آنجا به وجود می‌آورد."
     },
     {
       "VOrder": 88,
@@ -1345,7 +1389,8 @@
       "Text": "خودآگاه بی خسرو از این گزند",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: به طور ناخودآگاه، بدون حضور خسرو، در این مکان با ارزش و محترم نشسته‌ام و از آسیب‌ها و مشکلات دورم."
     },
     {
       "VOrder": 90,
@@ -1361,7 +1406,8 @@
       "Text": "بت دل نواز و می خوش گوار",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: دل من به خاطر زیبایی‌های معشوقه و لذت‌های نوشیدنی خوشگوار مجذوب شده بود، اما از ماجراهای اطراف و واقعیات بی‌خبر بودم."
     },
     {
       "VOrder": 92,
@@ -1377,7 +1423,8 @@
       "Text": "چو از کار هرقل خبر یافت شاه",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: زمانی که شاه از وضعیت هرقل آگاه شد که سپاه او به تنگنا افتاده و در فشار قرار دارد، احساس نگرانی و توجه بیشتری به اوضاع سپاه خود پیدا کرد."
     },
     {
       "VOrder": 94,
@@ -1393,7 +1440,8 @@
       "Text": "فرستاد سویش سپاهی دلیر",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: فرستاد گروهی از جنگجویان شجاع به سوی او تا شاید رومی‌ها از جنگ خسته شوند و به میدان نروند."
     },
     {
       "VOrder": 96,
@@ -1409,7 +1457,8 @@
       "Text": "ولی نامور هرقل جنگجوی",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: اما هرقل، جنگجوی معروف، به هر سوی میدان رفت و خونریزی به راه انداخت."
     },
     {
       "VOrder": 98,
@@ -1425,7 +1474,8 @@
       "Text": "رازاتس درآورد او کشته شد",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: او رازهای تو را فاش کرد و به همین خاطر سپاه به قتل رسید و هر روز این ماجرا دوباره تکرار می‌شود."
     },
     {
       "VOrder": 100,
@@ -1441,7 +1491,8 @@
       "Text": "بکشتند خودنیز سارا بلاک",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: در شرایط سخت و بحرانی، سارا بی هیچ ترس و واهمه‌ای، جان خود را نیز فدای دیگران کرد."
     },
     {
       "VOrder": 102,
@@ -1457,7 +1508,8 @@
       "Text": "و از آن جا همی رفت تا تیسفون",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: او از آنجا به سمت تیسفون حرکت کرد و تمام دشت را به دریای خون تبدیل کرد."
     },
     {
       "VOrder": 104,
@@ -1473,7 +1525,8 @@
       "Text": "چو خسرو چنان دید برکاشت روی",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "هوش مصنوعی: وقتی خسرو این منظره را دید، سرش را به سمت شهر سلوسی برگرداند و در کنار جوی آرامی احساس آرامش کرد."
     },
     {
       "VOrder": 106,
@@ -1489,7 +1542,8 @@
       "Text": "همی آشتی جست قیصر ز شاه",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "هوش مصنوعی: قیصر به دنبال آشتی و سازش با شاه است، اما شاه راهی برای صلح نمی‌جوید."
     },
     {
       "VOrder": 108,
@@ -1505,7 +1559,8 @@
       "Text": "از این روی سربار بودی به روم",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "هوش مصنوعی: به همین دلیل، تو در روم، روی دوش من هستی، در حالی که دلیران آنجا بر سر مرز و سرزمین ایستاده‌اند."
     },
     {
       "VOrder": 110,
@@ -1521,7 +1576,8 @@
       "Text": "وز آن روی هرقل در ایران دیار",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "هوش مصنوعی: از آن سو، هرقل بر ایران سلطنت خود را به شدت برقرار کرد."
     },
     {
       "VOrder": 112,
@@ -1537,7 +1593,8 @@
       "Text": "بر این گونه افزود هر روز کین",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که هر روز بر شدت کینه‌ها و دشمنی‌ها افزوده می‌شود و آرامشی از سختی‌ها و جنگ‌های موجود بر روی زمین حاصل نمی‌شود."
     },
     {
       "VOrder": 114,
@@ -1553,7 +1610,8 @@
       "Text": "به گنج شهی خود دگر زر نماند",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "هوش مصنوعی: در گنجینه پادشاه چیزی بیشتر از طلا و نقره باقی نمانده است و در میدان جنگ نیز هیچ نیرویی باقی نمانده است."
     },
     {
       "VOrder": 116,
@@ -1569,7 +1627,8 @@
       "Text": "بزرگان یکی انجمن ساختند",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "هوش مصنوعی: بزرگان جمع شدند و تصمیمی گرفتند، سپس او را از مقام پادشاهی کنار گذاشتند."
     },
     {
       "VOrder": 118,
@@ -1585,7 +1644,8 @@
       "Text": "نشاندند شیرویه را جای او",
       "CoupletIndex": 59,
       "SectionIndex1": 0,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "هوش مصنوعی: شیرویه را به جای پدرش نشاندند، زیرا او فرزند بزرگ و شایسته‌ی او بود."
     },
     {
       "VOrder": 120,
@@ -1601,7 +1661,8 @@
       "Text": "مگر نام بودیش فرخ غباد",
       "CoupletIndex": 60,
       "SectionIndex1": 0,
-      "SectionIndex2": 62
+      "SectionIndex2": 62,
+      "CoupletSummary": "هوش مصنوعی: آیا نام خوش و نیکو و شاداب او باعث شد که سرزمین ایران همه نابود شود؟"
     },
     {
       "VOrder": 122,

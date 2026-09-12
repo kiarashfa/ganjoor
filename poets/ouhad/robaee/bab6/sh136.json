@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "هرچه آن نبود راست نباید گفتن",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که حقیقت ندارد نباید گفت، زیرا برای بیان واقعیت باید به درستی سخن گفت."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "هرچند که عشق میل باشد لیکن",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق گرچه نوعی تمایل است، اما هر تمایلی نمی‌تواند عشق نامیده شود."
     },
     {
       "VOrder": 4,

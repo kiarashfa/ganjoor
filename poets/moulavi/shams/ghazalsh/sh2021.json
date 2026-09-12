@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "صبحدم شد زود برخیز ای جوان",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صبح زود شده است، جوان! سریع بلند شو، بار و بندیل خود را جمع کن و برو به سمت کاروان."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "کاروان رفت و تو غافل خفته‌ای",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کاروان به راه خود ادامه داد و تو در خواب غفلت به سر می‌بری، و هر لحظه در حال از دست دادن فرصتها هستی."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "عمر را ضایع مکن در معصیت",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زندگی‌ات را در گناه و معصیت تلف نکن تا همیشه شاداب و پایدار باقی بمانی."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "نفس شومت را بکش کان دیو توست",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نفس بد و زشت خود را کناری بگذار تا زیبایی‌ها و نعمت‌های بهشتی در وجودت به ظهور برسند."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "چون بکشتی نفس شومت را یقین",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که نفس تو را از دست بدهی، مطمئناً دیگر نمی‌توانی به بلندای آسمان هفتم دستیابی داشته باشی."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "چون نماز و روزه‌ات مقبول شد",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هنگامی که نماز و روزه‌ات پذیرفته شود، به اوج قدرت و شجاعت دست پیدا می‌کنی."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "پاک باش و خاک این درگاه باش",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خود را خالص و پاک نگه‌دار و humble باش، و در کنار عاشقان با تواضع رفتار کن."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "گر سماع عاشقان را منکری",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو گردهمایی عاشقان را انکار کنی، در روز قیامت با سگ‌ها محشور خواهی شد."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "گر غلام شمس تبریزی شدی",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر پیرو شمس تبریزی شده‌ای، با صدای بلند بگو: سپاس خدا را، ای یاور من."
     },
     {
       "VOrder": 18,

@@ -211,7 +211,8 @@
       "Text": "چون بشد شبلی ازین جای خراب",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: شبی، شخصی از مکانی ویرانه و نامناسب خارج شد و بعد از آن در خواب جوانمردی را مشاهده کرد."
     },
     {
       "VOrder": 2,
@@ -227,7 +228,8 @@
       "Text": "گفت حق با تو چه کرد ای نیک‌بخت‌؟",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: گفتند حق به تو چه نیکی کرد ای خوشبخت؟ او پاسخ داد: وقتی حساب و کتاب من دشوار شد، حق به کمکم آمد."
     },
     {
       "VOrder": 4,
@@ -243,7 +245,8 @@
       "Text": "چون مرا بس خویشتن دشمن بدید",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: چون دیدم که من را دشمنان بسیار می‌بینند و به ضعف و ناتوانی و ناامیدی‌ام پی بردند."
     },
     {
       "VOrder": 6,
@@ -259,7 +262,8 @@
       "Text": "رحمتش آمد بدان بیچارگیم",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: رحمت خداوند بر بیچارگی من نازل شد و او از روی لطف و کرم خود یک بار دیگر به من بخشید."
     },
     {
       "VOrder": 8,
@@ -275,7 +279,8 @@
       "Text": "خالقا بیچارهٔ راهم تو را",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: ای خالق، من در راهم به شدت درمانده و ناتوانم، تو همچون یک مور که در چاه گرفتار شده، در مسیر من حضور داری."
     },
     {
       "VOrder": 10,
@@ -291,7 +296,8 @@
       "Text": "من نمی‌دانم که من اهل چه‌ام",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: من نمی‌دانم من چه کسی هستم، از کجا آمده‌ام و به کجا متعلق‌ام."
     },
     {
       "VOrder": 12,
@@ -307,7 +313,8 @@
       "Text": "بی‌تنی بی‌دولتی بی‌حاصلی",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: بی‌بدن و بی‌حالی و بی‌خود بودن، بی‌فایده و بی‌پولی و بی‌آرامش و بی‌دل و دل‌گرفته."
     },
     {
       "VOrder": 14,
@@ -323,7 +330,8 @@
       "Text": "عمر در خون جگر بگداخته",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: زندگی در حالی پر از رنج و درد می‌گذرد که هیچ بهره‌ای از آن نمی‌برد."
     },
     {
       "VOrder": 16,
@@ -339,7 +347,8 @@
       "Text": "هر‌چه کرده جمله تاوان آمده",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: هر کاری که انجام داده‌ام، حالا باید بهایش را بپردازم و جانم به تنگ آمده و عمرم به سر رسیده است."
     },
     {
       "VOrder": 18,
@@ -355,7 +364,8 @@
       "Text": "دل ز دستم رفته و دین گم شده",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: دل من از دست رفته و اصول اعتقادی‌ام را گم کرده‌ام. بر چهره‌ام اثری نیست و معنای وجودم را نیز گم کرده‌ام."
     },
     {
       "VOrder": 20,
@@ -371,7 +381,8 @@
       "Text": "من نه کافر نه مسلمان مانده",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: من نه به دین کافران هستم و نه به ایمان مسلمانان، بلکه در حالت بلاتکلیفی و سردرگمی میان این دو گروه مانده‌ام."
     },
     {
       "VOrder": 22,
@@ -387,7 +398,8 @@
       "Text": "نه مسلمانم نه کافر‌، چون کنم‌؟",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: نه به گروه مسلمانان تعلق دارم و نه به کافران. در این بلاتکلیفی و سردرگمی مانده‌ام، نمی‌دانم چه کار باید بکنم."
     },
     {
       "VOrder": 24,
@@ -403,7 +415,8 @@
       "Text": "در دری تنگم گرفتار آمده",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: در یک فضای محدود و تنگ، احساس اسارت می‌کنم و فکر و خیال‌هایم به مانند دیواری در اطرافم قرار دارند."
     },
     {
       "VOrder": 26,
@@ -419,7 +432,8 @@
       "Text": "بر من بیچاره این در برگشای",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: بر من بیچاره در را باز کن و به این راه‌رفته که از راه مانده است، راهی نشان بده."
     },
     {
       "VOrder": 28,
@@ -435,7 +449,8 @@
       "Text": "بنده را گر نیست زاد راه هیچ",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: اگر من چیزهایی برای سفر نداشته باشم، هیچ‌کس از اشک و آه من ناراحت نمی‌شود."
     },
     {
       "VOrder": 30,
@@ -451,7 +466,8 @@
       "Text": "هم توانی سوخت از آهش گناه",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: شما از درد و تاسف او می‌سوزید و گناهتان را در این آتش حس می‌کنید و اشک‌هایش مانند بارانی بر دل تاریکتان، آن را شست‌وشو می‌دهد."
     },
     {
       "VOrder": 32,
@@ -467,7 +483,8 @@
       "Text": "هر که دریاهای اشکش حاصل است",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که قلبش پر از غم و اندوه است، بیاید، زیرا او شایسته‌ی اینجا و این منزل است."
     },
     {
       "VOrder": 34,
@@ -483,7 +500,8 @@
       "Text": "وانک او را دیدهٔ خون‌بار نیست",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: اگر او را چشمی پر از اشک نیست، برو، زیرا کار او به ما مربوط نیست."
     },
     {
       "VOrder": 36,

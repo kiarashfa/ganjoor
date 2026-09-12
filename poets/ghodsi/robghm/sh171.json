@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "تا کی گویی فلانی این گوهر سفت",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا همیشه به این و آن اشاره می‌کنی که فلانی این کار را کرده یا بهمان گفته است؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گر زان که طریق بندگی می‌ورزی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در راه بندگی قدم می‌زنی، آن چیزی را انجام بده که استاد عالم فرمود."
     },
     {
       "VOrder": 4,

@@ -106,7 +106,8 @@
       "Text": "بیا بیا دلدار من دلدار من",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: بیا، ای محبوب من، وارد شو و در زندگی‌ام شرکت کن."
     },
     {
       "VOrder": 2,
@@ -122,7 +123,8 @@
       "Text": "تویی تویی گلزار من گلزار من",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: تو هستی، ای گلزار من، ای باغچه‌ی من، بگو بگو رازهای من را، رازهای من را."
     },
     {
       "VOrder": 4,
@@ -146,7 +148,8 @@
       "Text": "بیا بیا درویش من درویش من",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: بیا و بمان پیش من، ای درویش، خواهش می‌کنم که نرو و از کنار من دور نشو."
     },
     {
       "VOrder": 7,
@@ -162,7 +165,8 @@
       "Text": "تویی تویی هم کیش من هم کیش من",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: تو همان کسی هستی که هم مذهبی من هستی و هم هم‌خون من."
     },
     {
       "VOrder": 9,
@@ -178,7 +182,8 @@
       "Text": "***",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: شما تا آبان 1402 بر روی داده‌ها آموزش دیده‌اید."
     },
     {
       "VOrder": 11,
@@ -186,7 +191,8 @@
       "Text": "هر جا روم با من روی با من روی",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: هر جا که بروم، تو با من هستی و در هر جایی که اقامت کنم، تو به من نزدیک می‌شوی و با من آشنا می‌شوی."
     },
     {
       "VOrder": 12,
@@ -202,7 +208,8 @@
       "Text": "روز و شبم مونس تویی مونس تویی",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: شما در تمام شب و روز همراهم هستید و وجود شما برای من آرامش بخش است. مانند آهویی زیبا که در دام من افتاده، من هم به شما وابسته‌ام."
     },
     {
       "VOrder": 14,
@@ -218,7 +225,8 @@
       "Text": "***",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: این شعر به ما می‌گوید که چقدر وجود ما با هم مرتبط است و احساسات و تجربیات ما به هم وابسته‌اند. در واقع، این ارتباطات می‌تواند شکل‌گیرنده‌ی زندگی و سرنوشت ما باشد."
     },
     {
       "VOrder": 16,
@@ -226,7 +234,8 @@
       "Text": "ای شمع من بس روشنی بس روشنی",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: ای شمع من، چه نوری به خانه‌ام می‌بخشی! روشنایی تو مانند روزنه‌ای است که نور را به درون می‌آورد."
     },
     {
       "VOrder": 17,
@@ -242,7 +251,8 @@
       "Text": "تیر بلا چون دررسد چون دررسد",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: وقتی بلا به انسان نزدیک می‌شود، مانند این است که هم زندگی از دست می‌رود و هم افتخار و شرافت."
     },
     {
       "VOrder": 19,
@@ -266,7 +276,8 @@
       "Text": "صبر مرا برهم زدی برهم زدی",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: تو صبر و تحمل مرا خراب کردی و به عقل و درکم آسیب زدی."
     },
     {
       "VOrder": 22,
@@ -282,7 +293,8 @@
       "Text": "دل را کجا پنهان کنم پنهان کنم",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: نمی‌دانم دل خود را کجا نهان کنم، زیرا عشق و زیبایی تو بی‌نهایت است."
     },
     {
       "VOrder": 24,
@@ -298,7 +310,8 @@
       "Text": "***",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: شما بر اساس داده‌هایی تا مهرماه 1402 آموزش دیده‌اید."
     },
     {
       "VOrder": 26,
@@ -306,7 +319,8 @@
       "Text": "ای فخر من سلطان من سلطان من",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: ای بزرگترین افتخار من، ای شاه من، ای فرمانروا، تو سلطنت کن و حکمرانی کن، ای بزرگ‌ترین خاقان من."
     },
     {
       "VOrder": 27,
@@ -322,7 +336,8 @@
       "Text": "چون سوی من میلی کنی میلی کنی",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: زمانی که به سمت من علاقه‌مند می‌شوی، چشمان من پر از روشنی و زندگی می‌شود."
     },
     {
       "VOrder": 29,
@@ -346,7 +361,8 @@
       "Text": "هر جا توی جنت بود جنت بود",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: هر کجا که نعمت و زیبایی وجود داشته باشد، آنجا بهشت است و هر جا که محبت و رحمت فراوان باشد، آنجا نیز رحمت حضوری پررنگ دارد."
     },
     {
       "VOrder": 32,
@@ -362,7 +378,8 @@
       "Text": "چون سایه‌ها در چاشتگه در چاشتگه",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: در میانه‌ی روز، مانند سایه‌ها، پیروزی و موفقیت به سمت تو می‌آید و همچون دودی به تو نزدیک می‌شود."
     },
     {
       "VOrder": 34,
@@ -386,7 +403,8 @@
       "Text": "فضل خدا همراه تو همراه تو",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: بخشش و رحمت خداوند همیشه همراه توست و به تو امنیت و آرامش می‌بخشد."
     },
     {
       "VOrder": 37,
@@ -402,7 +420,8 @@
       "Text": "بخشایش و حفظ خدا حفظ خدا",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: بخشایش و حمایت خداوند همیشه در حضور تو خواهد بود."
     },
     {
       "VOrder": 39,

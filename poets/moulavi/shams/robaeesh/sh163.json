@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "امروز در این خانه کسی رقصانست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امروز در این خانه فردی حضور دارد که تمام فضایل و کمالات در برابر او کم و ناقص به نظر می‌رسند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "ور در تو ز انکار رگی جنبانست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در وجود تو نشانه‌ای از انکار باشد، آن ماه که در وجود توست نیز به خاطر انکار تو درخشش و تابش خواهد داشت."
     },
     {
       "VOrder": 4,

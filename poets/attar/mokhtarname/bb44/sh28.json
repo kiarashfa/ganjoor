@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "تا کی گوئی ز چار و هفت ای ساقی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا کی می‌خواهی درباره‌ی عددهای چهار و هفت صحبت کنی، ای ساقی؟ چقدر دیگر باید درباره‌ی این عددها سخن بگویی؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "هین قول بگو که وقت شد ای مطرب",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بشنو! بگو که زمان آن رسیده است، ای نوازنده، باده بیاور که عمر ما گذشت، ای ساقی."
     },
     {
       "VOrder": 4,

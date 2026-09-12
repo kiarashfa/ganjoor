@@ -106,7 +106,8 @@
       "Text": "بی طلب در نظر ‌نیاید یار",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: هرگاه کسی به عشق و خواسته‌اش نپردازد، محبوبش به چشمش نمی‌آید و همچون خار در نظر می‌رسد، در حالی که با عشق و شوق، مثل گل زیبا جلوه می‌کند."
     },
     {
       "VOrder": 2,
@@ -122,7 +123,8 @@
       "Text": "هست مقصود ما ازین گفتار",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: مقصود ما از این سخنان، جستجوی محبت و عشق است، ای دوستداران با سلوک نیکو."
     },
     {
       "VOrder": 4,
@@ -138,7 +140,8 @@
       "Text": "طرب ای نیکوان شیرین کار",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: ای خوش‌روانان با هنر و شیرین‌زبان، شادی و نشاط بیاورید."
     },
     {
       "VOrder": 6,
@@ -146,7 +149,8 @@
       "Text": "بینوائیم و از نوا فارغ",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ما در رنج و درد هستیم و هیچ دارویی برای بهبود حالمان نداریم، در حالی که از نوا و موسیقی هم بی‌خبر و دور هستیم."
     },
     {
       "VOrder": 7,
@@ -162,7 +166,8 @@
       "Text": "تا به کی خسته و ز شفا فارغ",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: چقدر باید در این دنیا خسته و بی‌حوصله بمانم، در حالی که تو به عنوان شاهدی در کنار هستی و ما از بهبودی و آرامش بی‌بهره‌ایم."
     },
     {
       "VOrder": 9,
@@ -178,7 +183,8 @@
       "Text": "در قدح جرعه ئی و ما هشیار",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در جامی نوشیدنی هست و ما بیدار و آگاهیم."
     },
     {
       "VOrder": 11,
@@ -186,7 +192,8 @@
       "Text": "یار ما دوست روی دشمن خوست",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: دوست ما چهره‌ای زیبا و دلربا دارد که مانند یک دشمن می‌نماید. قد بلند ما مانند گل زیبایی است که در میان لاله‌ها می‌درخشد."
     },
     {
       "VOrder": 12,
@@ -202,7 +209,8 @@
       "Text": "چون مراد دل از جهان همه اوست",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که دل ما را از دنیا راضی می‌کند، فقط اوست. بنابراین، ما فقط می‌توانیم به او تکیه کنیم و از او کمک بخواهیم."
     },
     {
       "VOrder": 14,
@@ -218,7 +226,8 @@
       "Text": "بعد ازین گوش ما و حلقه ی یار",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: پس از این، گوش ما به صدای یار و دلنشینی‌اش خواهد بود."
     },
     {
       "VOrder": 16,
@@ -226,7 +235,8 @@
       "Text": "ما که در کیش یار قربانیم",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: ما که به عشق و محبت یارمان وابسته‌ایم، از قید و بند جسم رها هستیم و از دنیای مادی فاصله گرفته‌ایم."
     },
     {
       "VOrder": 17,
@@ -242,7 +252,8 @@
       "Text": "چون درین خاکدان به زندانیم",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: ما در این دنیای خاکی به زندان افتاده‌ایم، بیاید تا از اشک‌هایمان این زندان را پرواز دهیم."
     },
     {
       "VOrder": 19,
@@ -258,7 +269,8 @@
       "Text": "گرد این خاک توده ی غدّار",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: این زمین پر از فریب و ناراستی است."
     },
     {
       "VOrder": 21,
@@ -266,7 +278,8 @@
       "Text": "یکنفس گر خلاف نفس کنیم",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: اگر یک بار با نفس خود، به مخالفت برخواسته و به مسیر دیگری برویم، مثل اینکه شور و هیجان در آسمان به راه بیندازیم."
     },
     {
       "VOrder": 22,
@@ -282,7 +295,8 @@
       "Text": "از عدم دم زنیم و دم نزنیم",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: ما از موجودیت نبود سخن می‌گوییم و بی‌پروا به جلو می‌رویم و هر مانعی را از سر راه برمی‌داریم."
     },
     {
       "VOrder": 24,
@@ -298,7 +312,8 @@
       "Text": "نفس زنگی مزاج را بازار",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: جان زنگی به بازار می‌رود."
     },
     {
       "VOrder": 26,
@@ -306,7 +321,8 @@
       "Text": "بلبلان مطربان بستانند",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: پرندگان به زیبایی و هنر آواز می‌خوانند، در حالی که درختان و باغ‌ها پر از سرور و شادی هستند."
     },
     {
       "VOrder": 27,
@@ -322,7 +338,8 @@
       "Text": "بمی آنها که می پرستانند",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که اگر کسانی که به می و شراب علاقه‌مندند، تو را از خودت دور کنند و از حالات خوب و پاکت بگیرند، برای آن‌ها باید افسوس خورد."
     },
     {
       "VOrder": 29,
@@ -338,7 +355,8 @@
       "Text": "دولت آن دولتست و کار آن کار",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: خوشبختی واقعی و موفقیت در عمل و کارهای درست به دست می‌آید."
     },
     {
       "VOrder": 31,
@@ -346,7 +364,8 @@
       "Text": "خیز خواجو بعزم عالم جان",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: برخیز خواجو، با اراده و هدف، جان خویش را به کار ببند و همت کن تا از محدودیت‌های جهان فراتر بروی."
     },
     {
       "VOrder": 32,
@@ -362,7 +381,8 @@
       "Text": "چون نهادی قدم درین میدان",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: وقتی وارد این میدان می‌شوی، استوار و محکم قدم بزن و حواست را جمع کن."
     },
     {
       "VOrder": 34,
@@ -378,7 +398,8 @@
       "Text": "چون سکون و تحرّک پرگار",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: همچون ثبات و حرکت پرگار، زندگی ما نیز ترکیبی از آرامش و تلاش است."
     }
   ]
 }

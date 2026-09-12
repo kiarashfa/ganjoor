@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گر زر گردیم می نجویی ما را",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر طلا شویم، ما را از دور نمی‌بینی و اگر به گوهری کمیاب تبدیل شویم، باز هم حضور ما را حس نمی‌کنی."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "هر چند به لای می بشویی ما را",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچند که در دل جمع، ما را دوست داری، اما هیچ کس کلام تو را درباره ما نمی‌شنود."
     },
     {
       "VOrder": 4,

@@ -81,7 +81,8 @@
       "Text": "شنیدم، مگر زاهدی زرق‌کوش",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "شنیده‌ام که روزی یک زاهد ریاکار و یک آدم می‌خواره."
     },
     {
       "VOrder": 2,
@@ -97,7 +98,8 @@
       "Text": "برفتند با هم رهی بی‌خلاف",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "با هم کار کردند و آب انگور در خم ریختند."
     },
     {
       "VOrder": 4,
@@ -113,7 +115,8 @@
       "Text": "یکی سرکه می‌خواست، آن یک شراب",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "یکی می‌خواست سرکه بسازد و دیگری شراب؛ ببین تا تقدیر چه کرد!"
     },
     {
       "VOrder": 6,
@@ -129,7 +132,8 @@
       "Text": "خم سرکه شد باده‌ای نغز و خوش",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "آن خمی که قرار بود سرکه شود، شراب ناب شد و آن خم که قرار بود شراب شود، سرکه قوی شد."
     },
     {
       "VOrder": 8,
@@ -145,7 +149,8 @@
       "Text": "چو بودند در کار خود ناتمام",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "چون هر دو ناشی بودند\u00A0یکی سوخت پاک و یکی ماند خام‌."
     },
     {
       "VOrder": 10,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ما غم کس نخورده‌ایم مگر",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما به خاطر غم کسی ناراحت نشده‌ایم، مگر اینکه کسی به خاطر غم ما ناراحت نشود."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "ما غم دیگران بسی خوردیم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما برای غم و نگرانی دیگران زیاد ناراحت شدیم، حالا این دیگران هم باید برای غم ما احساس تاسف کنند."
     },
     {
       "VOrder": 4,

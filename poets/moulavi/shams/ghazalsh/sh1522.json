@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ورا خواهم دگر یاری نخواهم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من دیگر یار نمی‌خواهم؛ چون که به زیبایی گل دست یافتم، دیگر خاری نمی‌خواهم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "تو را گر غیر او یار دگر هست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر غیر از او کسی دیگر را دوست داری، برو به جایی که من دیگر نیازی به تو ندارم."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "بجز دیدار او بختی نجویم",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: غیر از دیدن او، خوشبختی دیگری نمی‌خواهم و هیچ کاری به جز کار برای او نمی‌کنم."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "چو بازان ساعد سلطان گزیدم",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی به مقام و قدرت دست یافتم، مانند بازهایی که بازوهای پادشاه را می‌زنند، دیگر به بوی نامطلوب و بی‌ارزش نمی‌رسم."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "میان اهل دل جز دل نگنجد",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در میان افرادی که دلشان صاف و پاک است، فقط دل خود جا می‌شود و جز این معشوقه، دلداری دیگری نمی‌خواهم."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "ز من جزوی ستاند کل ببخشد",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از من جزئی می‌گیرد و کل را عطا می‌کند. تا به روزی دیگر در بازار زندگی، چیزی نخواهم."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "نه آن جزوم که غیر کل بود آن",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من جزئی از کل نیستم و چیزی غیر از حقیقت را نمی‌خواهم، نه، من هیچ چیز غیر از آن را نمی‌خواهم."
     },
     {
       "VOrder": 14,

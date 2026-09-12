@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "شب است این زلف، یا روز جدایی؟",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این زلف شباهتی به تاریکی شب دارد، یا ممکن است نشانه‌ای از روز جدایی باشد؟ آیا این لب‌های زیبا مثل لعل هستند، یا حکایت از وجود جان و وفاداری دارند؟"
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "بتا! نامهربان یارا! نگارا!",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای معشوقه‌ی بی‌وفا و نامهربان! چرا این‌گونه بی‌رحمانه با من رفتار می‌کنی؟"
     },
     {
       "VOrder": 4,
@@ -54,7 +56,8 @@
       "Position": "Right",
       "Text": "چه باشد گر به رحمت عاشقان را",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چه اشکالی دارد اگر به خاطر عشق، یکی از رازهای دل را برای عاشقان فاش کنی؟"
     },
     {
       "VOrder": 6,
@@ -68,7 +71,8 @@
       "Position": "Right",
       "Text": "نه شرط دوستی باشد که هر روز",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوستی نیاز به ثبات دارد و نباید هر روز به بهانه‌های جدید، رابطه را تحت‌الشعاع قرار دهی و آن را تغییر دهی."
     },
     {
       "VOrder": 8,
@@ -82,7 +86,8 @@
       "Position": "Right",
       "Text": "نمی خواهم نشان سلطنت را",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من نیازی به نشانه‌های قدرت و عظمت ندارم، زیرا نشستن در برابر در خانه‌ات و گدایی کردن برایم شیرین‌تر و پسندیده‌تر است."
     },
     {
       "VOrder": 10,
@@ -96,7 +101,8 @@
       "Position": "Right",
       "Text": "جگر خونم ز داغ آشنایان",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: درد و رنج عمیق من از احساسات عاشقانه و وابستگی به عزیزانم ناشی است، اما اگر آن عزیزان نبودند، این درد چه معنایی داشت؟"
     },
     {
       "VOrder": 12,
@@ -110,7 +116,8 @@
       "Position": "Right",
       "Text": "خدارا، مهر و مه را سرنگون کن",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای خدا، عشق و زیبایی را کنار بزن تا پرده از روی حقیقت برداشته شود و حقیقت را ببینم."
     },
     {
       "VOrder": 14,
@@ -124,7 +131,8 @@
       "Position": "Right",
       "Text": "دلی داریم در عشقت پریشان",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما دلی داریم که در عشق تو آشفتگی دارد و سرتی داریم که بر خاک تو آرامش یافته است."
     },
     {
       "VOrder": 16,
@@ -138,7 +146,8 @@
       "Position": "Right",
       "Text": "تو ای سرو ریاض جان عالم",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای سرو گلزار، جان و زندگی همه موجودات، تویی که در عرش و مقام خود، مانند پادشاهی در تخت سلطنت نشسته‌ای."
     },
     {
       "VOrder": 18,
@@ -152,7 +161,8 @@
       "Position": "Right",
       "Text": "تو ای چشم و چراغ جان آدم",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای تو نور و روشنی بخش جان انسان، همانند گل و شمشاد در باغ انتخاب شده."
     },
     {
       "VOrder": 20,
@@ -166,7 +176,8 @@
       "Position": "Right",
       "Text": "به ستاری که از عالم گزیدت",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به ستاره‌ای که تو را از میان تمام موجودات انتخاب کرده و به بزرگمردی که تو را به مقام نبوت رسانده است، اشاره می‌کند."
     },
     {
       "VOrder": 22,
@@ -180,7 +191,8 @@
       "Position": "Right",
       "Text": "به آب پاک ینبوع شفاعت",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای نجات از سرزنش و شرم، به آب خالص و پاک شفاعت مراجعه کن."
     },
     {
       "VOrder": 24,
@@ -194,7 +206,8 @@
       "Position": "Right",
       "Text": "مران از خود چو آوردم به تو رو",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که خود را به تو نزدیک کردم و تو را دیدم، متوجه شدم که ابروی تو در واقع کعبه دعا و عبادت من است."
     },
     {
       "VOrder": 26,
@@ -208,7 +221,8 @@
       "Position": "Right",
       "Text": "خداوندا به حق پاکی خود",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای خدا، به حرمت پاکی خود، به خاطر آن مروارید زیبای سلطنتی."
     },
     {
       "VOrder": 28,
@@ -222,7 +236,8 @@
       "Position": "Right",
       "Text": "بهر لطفی که داری با عزیزان",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر محبتی که به عزیزانت داری، باید همه اشتباهات وفاداری را ببخشی."
     },
     {
       "VOrder": 30,
@@ -236,7 +251,8 @@
       "Position": "Right",
       "Text": "مرا این دل ز آب و گل سرشتند",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من از خاک و آب ساخته شده، اما دلبر تو از نور و عظمت الهی خلق شده است."
     },
     {
       "VOrder": 32,
@@ -250,7 +266,8 @@
       "Position": "Right",
       "Text": "دل من در ازل دلبر گرفته",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من از ابتدا عاشق محبوبی شده است، و گرنه مگر ممکن است که دل بی‌عشق باشد؟"
     },
     {
       "VOrder": 34,
@@ -264,7 +281,8 @@
       "Position": "Right",
       "Text": "«وفایی» چون ننالد خون نگرید",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر عشق وفادار باشد، چطور می‌تواند کسی به خاطر از دست دادن آن دلربا اشک بریزد و خون در دلش بجوشد؟ "
     },
     {
       "VOrder": 36,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای شاه چو بیند آسمان رای تو را",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای پادشاه، وقتی که آسمان نظر تو را ببیند و لطافت و زیبایی طبیعی تو را بشناسد، می‌فهمد که تو چقدر به شادی و خوشنودی دیگران اهمیت می‌دهی."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "احسنت زند طلعت زیبای تو را",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به نیکی تو را ستایش خواهد کرد، چون خاک زیر پاهای زیبایت می‌شود."
     },
     {
       "VOrder": 4,

@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "هر شب که دو سنبل تو آشفته شود",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر شب که موهای زیبای تو به هم بریزد، دو چشم مست و نازک تو به خواب می‌رود."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "آن مطلب ناگفته ما گفته شود",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچه ما ناگفته مانده است، باید بازگو شود و آن ارزش گرانبهایی که به آن توجه نکرده‌ای، باید به دست بیاید."
     },
     {
       "VOrder": 4,

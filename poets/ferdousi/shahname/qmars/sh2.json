@@ -241,7 +241,8 @@
       "Text": "خجسته سیامک یکی پور داشت",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "سیامک پسری داشت که نزد پدربزرگش کیومرث صاحب مقامی در حد یک وزیر بود."
     },
     {
       "VOrder": 2,
@@ -257,7 +258,8 @@
       "Text": "گرانمایه را نام هوشنگ بود",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "نام این پسر هوشنگ بود و گویی سرتاپا هوش و کمالات بود."
     },
     {
       "VOrder": 4,
@@ -273,7 +275,8 @@
       "Text": "به نزد نیا یادگار پدر",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "در نزد پدربزرگش یادگار پدر محسوب می‌شد و پدربزرگش او را در آغوش خود پرورده بود."
     },
     {
       "VOrder": 6,
@@ -289,7 +292,8 @@
       "Text": "نیایش به جای پسر داشتی",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "پدربزرگش او را مثل پسر خودش دوست داشت و جز او به کسی علاقه و چشم نداشت."
     },
     {
       "VOrder": 8,
@@ -305,7 +309,8 @@
       "Text": "چو بنهاد دل کینه و جنگ را",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "وقتی کیومرث تصمیم به انتقام و جنگ گرفت نوه‌اش هوشنگ را فراخواند."
     },
     {
       "VOrder": 10,
@@ -321,7 +326,8 @@
       "Text": "همه گفتنی‌ها بدو بازگفت",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "همهٔ آن چیزهایی که باید به او می‌گفت گفت."
     },
     {
       "VOrder": 12,
@@ -337,7 +343,8 @@
       "Text": "که من لشکری کرد خواهم همی",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "از جمله این که من لشکری درست خواهم کرد و غوغایی به پا می‌کنم."
     },
     {
       "VOrder": 14,
@@ -353,7 +360,8 @@
       "Text": "تو را بود باید همی پیشرو",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "تو یعنی هوشنگ نوهٔ من باید فرماندهٔ این لشکر باشی چرا که من عمرم را کرده‌ام و رفتنیم و تو فرماندهٔ جدید خواهی بود."
     },
     {
       "VOrder": 16,
@@ -369,7 +377,8 @@
       "Text": "پری و پلنگ انجمن کرد و شیر",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "با پریان و جانوران درندهٔ وحشی مانند شیر و پلنگ و ببر و گرگ متحد شد."
     },
     {
       "VOrder": 18,
@@ -385,7 +394,8 @@
       "Text": "سپاهی دد و دام و مرغ و پری",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "سپاهی از حیوانات وحشی و اهلی و پرندگان و پریان به فرماندهی [هوشنگ] کینه‌جو و دلاور گردآورد."
     },
     {
       "VOrder": 20,
@@ -401,7 +411,8 @@
       "Text": "پس پشت لشکر کیومرث شاه",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوشنگ نوهٔ کیومرث در جلوی سپاه و کیومرث خودش در پشت سپاه راه افتادند."
     },
     {
       "VOrder": 22,
@@ -417,7 +428,8 @@
       "Text": "بیامد سیه دیو با ترس و باک",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "دیو سیاه با ترس و لرز آمد و گرد و خاک کرد."
     },
     {
       "VOrder": 24,
@@ -433,7 +445,8 @@
       "Text": "ز هرّای درّندگان چنگ دیو",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "دیو از ترس سر و صدای درندگان سپاه کیومرث و خشم او اعتماد به نفسش را از دست داده بود."
     },
     {
       "VOrder": 26,
@@ -449,7 +462,8 @@
       "Text": "به هم برشکستند هر دو گروه",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "سپاهیان دو طرف به جنگ هم رفتند و دیوان از حملهٔ درندگان و دیگر جانوران به ستو ه آمدند."
     },
     {
       "VOrder": 28,
@@ -465,7 +479,8 @@
       "Text": "بیازید هوشنگ چون شیر چنگ",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوشنگ مانند شیر به دیو چنگ زد و کار آن دیو را دشوار کرد."
     },
     {
       "VOrder": 30,
@@ -481,7 +496,8 @@
       "Text": "کشیدش سراپای یک‌سر دوال",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوشنگ آن دیو را به بند کشید و سرش را برید."
     },
     {
       "VOrder": 32,
@@ -497,7 +513,8 @@
       "Text": "به پای اندر افگند و بسپرد خوار",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "سر او را بر روی زمین زد و او را خوار کرد."
     },
     {
       "VOrder": 34,
@@ -513,7 +530,8 @@
       "Text": "چو آمد مر آن کینه را خواستار",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "وقتی کیومرث انتقامش را گرفت روزگارش هم سرآمد."
     },
     {
       "VOrder": 36,
@@ -529,7 +547,8 @@
       "Text": "برفت و جهان مردری ماند ازوی",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "کیومرث مرد و پادشاهی جهان را برای هوشنگ به میراث گذاشت."
     },
     {
       "VOrder": 38,
@@ -545,7 +564,8 @@
       "Text": "جهان فریبنده را گرد کرد",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "کیومرث همهٔ جهان را به دست آورد اما در نهایت راه پرمنفعت کسب آبرو را پی گرفت و استفاده کرد."
     },
     {
       "VOrder": 40,
@@ -561,7 +581,8 @@
       "Text": "جهان سر به سر چو فسانست و بس",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "کل دنیا شبیه یک افسانه است و بد و خوبش برای هیچکس نمی‌ماند."
     },
     {
       "VOrder": 42,

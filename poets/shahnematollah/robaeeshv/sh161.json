@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "سازنده اگرچه ساز نیکو سازد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه هنرمند به خوبی ساز می‌سازد، اما بدون نوازندگی مناسب، آن ساز نمی‌تواند به خوبی شنیده شود."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "من آینه ام که می نمایم او را",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من همان آینه‌ای هستم که او را به نمایش می‌گذارم، او خالق من است که مرا شکل می‌دهد."
     },
     {
       "VOrder": 4,

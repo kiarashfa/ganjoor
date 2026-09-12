@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "خبری که دانی که دلی بیازارد، تو خاموش تا دیگری بیارد.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "اگر می‌دانی که حرفی یا خبری ممکن است دل کسی را بشکند، بهتر است تو سکوت کنی تا کسی دیگر آن خبر را بگوید."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "بلبلا! مژدهٔ بهار بیار",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "ای بلبل خوش‌خوان و زیبا تو خبرهای خوش بیاور و خبر رسیدن بهار و شادی را بیاور و خبرهای بد را بگذار که بوم برساند."
     },
     {
       "VOrder": 3,

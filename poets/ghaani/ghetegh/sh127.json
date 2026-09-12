@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گر نشدی ابر تیره پردهٔ خورشید",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نتوانستی مانند ابر تیره جلوی تابش خورشید را بگیری یا در شب آفتاب را پنهان کنی، عدم توانایی‌ات را بپذیر."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "می‌نشدی آشکار آیت ظلمت",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به وضوح در دل ظلمت ننشینی، بی‌فایده است که در ستایش خورشید سخن بگویی."
     },
     {
       "VOrder": 4,

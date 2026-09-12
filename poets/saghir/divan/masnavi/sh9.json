@@ -317,7 +317,8 @@
       "Text": "بود بسی در طمع کیمیا",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: در دلم آرزوهای زیادی برای به دست آوردن گنج و ثروت بوده است، به طوری که چهره‌ام به زردی طلا درآمده است."
     },
     {
       "VOrder": 2,
@@ -333,7 +334,8 @@
       "Text": "بوتهٔ دل بود در آتش مرا",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: دل من مانند بته‌ای است که در آتش می‌سوزد و حال من در این وضعیت آشفته و نگران است."
     },
     {
       "VOrder": 4,
@@ -349,7 +351,8 @@
       "Text": "در عمل شمس و قمر از خیال",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در واقع، با جوهرهٔ شمس و ماه، به زندگی و وجودی تازه و پر از نشاط وارد شدم، در حالی که قبل از آن، احساس ضعیف و ناکامل بودن داشتم، مثل هلال که هنوز کامل نشده است."
     },
     {
       "VOrder": 6,
@@ -365,7 +368,8 @@
       "Text": "عمر گرامی که بد اکسیر نقد",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: زمان باارزش خود را که با دقت و تلاش صرف کردم، همه در کارهای پیچیده و دشوار گذشته است."
     },
     {
       "VOrder": 8,
@@ -381,7 +385,8 @@
       "Text": "تن به مثل کاه و غمم کود بود",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: تن من مانند کاه است و غم‌های من مانند کود، وجودم پر از اندوه و افسردگی است."
     },
     {
       "VOrder": 10,
@@ -397,7 +402,8 @@
       "Text": "بود ز انبیق عیونم مدام",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: چشم‌هایم همواره مانند تقطیر مایعی از اشک هستند و صورت زردرنگم را تحت تأثیر قرار داده‌اند."
     },
     {
       "VOrder": 12,
@@ -413,7 +419,8 @@
       "Text": "کفش و کله جبه و دستار و دلق",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: تمامی چیزهایی که به آن‌ها اهمیت داده می‌شد، از جمله کفش و پوشش‌های دیگر، به خاطر پول و وابستگی به مال و اموال از دست رفته‌اند."
     },
     {
       "VOrder": 14,
@@ -429,7 +436,8 @@
       "Text": "از عملیات نحاس و حدید",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: از کار و تلاش سخت، که به دست آوردن مس و آهن بوده، بهره‌مند شدم."
     },
     {
       "VOrder": 16,
@@ -445,7 +453,8 @@
       "Text": "شد جگر از آتش حسرت کباب",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: آتش حسرت قلبم را سوزانده است، اما هیچ درسی از آن آتش نگرفته‌ام و درهای جدید به رویم باز نشده است."
     },
     {
       "VOrder": 18,
@@ -461,7 +470,8 @@
       "Text": "زان همه تخم هوس اندر دلم",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: تمام آرزوها و خواسته‌های من در دل، جز درد و رنج چیزی برایم به ارمغان نیاورده است."
     },
     {
       "VOrder": 20,
@@ -477,7 +487,8 @@
       "Text": "لیک از آنجا که چو کوبی دری",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: اما از آنجا که وقتی در بُکَنی، در جدیدی باز می‌شود و در نهایت به سرنوشت‌ات پی می‌بری."
     },
     {
       "VOrder": 22,
@@ -493,7 +504,8 @@
       "Text": "چون فلکم کار چنین سخت کرد",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: وقتی که سرنوشت به من این‌گونه سختی و چالش داد، همراهی با آدمی باتجربه و خردمند، بخت مرا دگرگون کرد."
     },
     {
       "VOrder": 24,
@@ -509,7 +521,8 @@
       "Text": "وه که چه پیری دل و جانش منیر",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: وای که چه پیر و با تجربه‌ای است، دل و جانش روشن و پر از نور است و نیکوکار و آگاه به جوانب زندگی."
     },
     {
       "VOrder": 26,
@@ -525,7 +538,8 @@
       "Text": "دهر کهن یافته از او نوی",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: زمانهٔ کهن به خاطر او، بندهٔ درویش، به نوینی رسیده است که شرف و بزرگی دارد."
     },
     {
       "VOrder": 28,
@@ -541,7 +555,8 @@
       "Text": "داد یکی نسخه بمن از وفا",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: یک نفر نسخه‌ای از وفا به من داد و گفت که باید به آن عمل کنی. این نسخه همچون کیمیا است."
     },
     {
       "VOrder": 30,
@@ -557,7 +572,8 @@
       "Text": "درج در آن نسخه کلامی کز آن",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: در آن نوشته‌ای وجود دارد که از کلامی نشات گرفته که این جهان از عدم به وجود آمده است."
     },
     {
       "VOrder": 32,
@@ -573,7 +589,8 @@
       "Text": "قلب شود ماهیت خاک از آن",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: قلب انسان از طبیعت خاکی خود فاصله می‌گیرد و به دنیای بالاتر و ستارگان توجه می‌کند."
     },
     {
       "VOrder": 34,
@@ -589,7 +606,8 @@
       "Text": "شرح دهم گر صفت آن کلام",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهم درباره آن کلام توضیح دهم، تا روز رستاخیز هم نتوانم به پایان برسانم."
     },
     {
       "VOrder": 36,
@@ -605,7 +623,8 @@
       "Text": "طرفه کلامی که بود چون شجر",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: نکته جالب این است که مانند درخت، وجود او در جهان امکان دارای برگ و ثمر است."
     },
     {
       "VOrder": 38,
@@ -621,7 +640,8 @@
       "Text": "باید اگر آگهیت زان کلام",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: اگر از سخنانم آگاهی داری که در آنها محبت وجود دارد، پس صحبت را به پایان می‌رسانم."
     },
     {
       "VOrder": 40,
@@ -637,7 +657,8 @@
       "Text": "ای که روی در طلب کیمیا",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که در پی یافتن چیز گرانبهایی همچون کیمیا هستی، دست خود را برای دریافت آن به سوی من دراز کن و به این سمت بیا."
     },
     {
       "VOrder": 42,
@@ -653,7 +674,8 @@
       "Text": "کن بمحبت عمل و صد فتوح",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: با محبت عمل کن و نتایج و دستاوردهای زیادی را از آن در جسم، نفس و روح خود مشاهده کن."
     },
     {
       "VOrder": 44,
@@ -669,7 +691,8 @@
       "Text": "زود عمل کن که عمل کردنیست",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: سریع اقدام کن چون فرصت عمل کردن محدود است. هر کس که عمل کند، در دو جهان بی‌نیاز خواهد بود."
     },
     {
       "VOrder": 46,
@@ -685,7 +708,8 @@
       "Text": "ای که چهل سال تو با نوع خویش",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که چهل سال با هم نوع خودتان دشمنی کرده‌اید و با او درگیر بوده‌اید."
     },
     {
       "VOrder": 48,
@@ -701,7 +725,8 @@
       "Text": "جز غم و اندوه چه دیدی بگو",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: غیر از غم و اندوه چه چیزی را تجربه کرده‌ای؟ آیا غیر از عیب جویی و نکوهش از دیگران چیز دیگری شنیده‌ای؟"
     },
     {
       "VOrder": 50,
@@ -717,7 +742,8 @@
       "Text": "هم بمحبت گذران روز چند",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: اگر چند روزی را با عشق و محبت سپری کنم، چه اهمیت دارد اگر روزی تو بر من لبخند نزنی؟"
     },
     {
       "VOrder": 52,
@@ -733,7 +759,8 @@
       "Text": "این صفت نیک چو عادت شود",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: وقتی که یک ویژگی خوب به عادت تبدیل شود، باعث به دست آوردن هر نوع خوشبختی و موفقیتی می‌شود."
     },
     {
       "VOrder": 54,
@@ -749,7 +776,8 @@
       "Text": "این عمل نیک کند ز اعتبار",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: کار خوب، اعتبار و ارزش قلب تیره را به اندازه طلا افزایش می‌دهد."
     },
     {
       "VOrder": 56,
@@ -765,7 +793,8 @@
       "Text": "دم ز محبت زن و همچون صغیر",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: از عشق و محبت سخن بگو و مانند یک کودک، این نام را در دل خود ثبت کن."
     },
     {
       "VOrder": 58,

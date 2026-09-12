@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "راستگوی مرد، پیامبرکن‌.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: مردی که راستگو است، می‌تواند به عنوان پیامبر شناخته شود."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "بجو راستگو مرد، پیغامبر",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به دنبال مرد راستگو بگرد، زیرا پیامبران راستین هرگز دروغ نمی‌گویند و پیامشان همیشه درست و معتبر است."
     },
     {
       "VOrder": 3,

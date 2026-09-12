@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "از شعرای همدان بود این مطلع از اوست :",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: این مطلع از یکی از شعرای همدان است."
     },
     {
       "VOrder": 3,
       "Position": "Right",
       "Text": "خاکپایت که در این چشم است ما را گه در آن",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خاک پایت که در چشم من است، گاهی مانند شیشه‌های ساعت و سنگریزه‌های روان است."
     },
     {
       "VOrder": 4,

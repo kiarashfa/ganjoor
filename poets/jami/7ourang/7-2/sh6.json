@@ -151,7 +151,8 @@
       "Text": "شاعری شد پیش شاه نامور",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: شاعری به نزد پادشاه مشهور رفت، کسی که به خاطر بلندی مقامش، در آسمان‌ها جایگاه یافته است."
     },
     {
       "VOrder": 2,
@@ -167,7 +168,8 @@
       "Text": "در مدیحت تازه شعری گفته ام",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در ستایش تو شعری جدید سروده‌ام، همچون جواهری درخشان که به خوبی حقیقت را بیان می‌کند."
     },
     {
       "VOrder": 4,
@@ -183,7 +185,8 @@
       "Text": "گرچه خلقی در مدحت سفته اند",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: هرچند که برخی افراد در ستایش تو می‌کوشند، اما باید گفت که این نوع ستایش‌ها به واقع حق تو را منتقل نمی‌کند و به اندازه کافی نیست."
     },
     {
       "VOrder": 6,
@@ -199,7 +202,8 @@
       "Text": "نامه ای آنگه به دست شاه داد",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: نامه‌ای به شاه داده شد که فقط نام شاه در آن نوشته شده بود."
     },
     {
       "VOrder": 8,
@@ -215,7 +219,8 @@
       "Text": "شاه گفتش کای تهی از عقل و هوش",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: شاه به او گفت: ای کسی که از عقل و درک عاری هستی، بهتر است که از چنین ستایش‌هایی سکوت کنی."
     },
     {
       "VOrder": 10,
@@ -231,7 +236,8 @@
       "Text": "نیست نقش نامه ات جز نام و بس",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: هیچ چیزی که برای تو نوشته شده جز نام تو نیست؛ و اگر کسی را یاد نکنید، در واقع هیچ ستایشی وجود نخواهد داشت."
     },
     {
       "VOrder": 12,
@@ -247,7 +253,8 @@
       "Text": "نی به ملک و عدل وصفم کرده ای",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: تو مرا با ملک و عدالت توصیف کرده‌ای و از داستان‌های تخت و تاج سخن نمی‌گویی."
     },
     {
       "VOrder": 14,
@@ -263,7 +270,8 @@
       "Text": "دور ازین اوصاف چون نامم بری",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: اگر از این ویژگی‌ها دور باشم و نامم تغییر کند، دیگر راهی برای ستایش من وجود نخواهد داشت."
     },
     {
       "VOrder": 16,
@@ -279,7 +287,8 @@
       "Text": "گفت شاها تو بدین فرخنده نام",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: ای شاه، تو به خاطر نام نیک و خوشایند خود به مقام و شهرتی نیکو دست یافته‌ای که به اوصاف و ویژگی‌های برجسته تو مربوط می‌شود."
     },
     {
       "VOrder": 18,
@@ -295,7 +304,8 @@
       "Text": "هر که خواند نام تو یا بشنود",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: هر کس که نام تو را بشنود یا بخواند، جز با این صفات و ویژگی‌ها، اندیشه‌اش به کجا خواهد رفت؟"
     },
     {
       "VOrder": 20,
@@ -311,7 +321,8 @@
       "Text": "چون بود نامت بر این اوصاف دال",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: هرگاه نام تو بر این ویژگی‌ها باشد، همانند دفتر ثبت صفات کمال خواهد بود."
     },
     {
       "VOrder": 22,
@@ -327,7 +338,8 @@
       "Text": "گرچه حرفی غیر ازین مذکور نیست",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: اگرچه هیچ سخنی جز این در مورد تو بیان نشده است، اما اگر من تو را وصف کنم، دور از واقعیت نیست."
     },
     {
       "VOrder": 24,

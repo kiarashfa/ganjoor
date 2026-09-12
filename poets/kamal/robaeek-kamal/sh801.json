@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "هر لحظه به دیگر نظرم می نگری",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر لحظه که به من نگاه می‌کنی، من را راست‌تر می‌بینی و خودت را کج‌تر."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گفتی که دورویی، این غلط از من نیست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفتی که من دو رو هستم، اما این به من تعلق ندارد؛ بلکه تو با نگاهی متفاوت به من می‌نگری."
     },
     {
       "VOrder": 4,

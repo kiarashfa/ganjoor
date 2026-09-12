@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "دردمندانه طبیبی می طلب",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که در درد و رنج است، به دنبال درمانگر می‌گردد تا شاید از این بیماری نجات یابد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "دُرد دردش نوش می کن همچو ما",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دردش را نوش جان می‌کند، مثل ما که به دنبال دارویی از پزشک هستیم."
     },
     {
       "VOrder": 4,

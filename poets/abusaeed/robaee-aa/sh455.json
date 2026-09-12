@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "یک روز بیوفتی تو در میدانم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر روزی در میدانم به زمین بیفتی، هنوز هم در بازی چوگان به یاد تو خواهم بود."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گفتی سخنی و کوفتی بر جانم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو سخنی گفتی که به دل و جانم اثر گذاشت و همان کلام به من آسیب رساند و من اکنون در خدمت آن هستم."
     },
     {
       "VOrder": 4,

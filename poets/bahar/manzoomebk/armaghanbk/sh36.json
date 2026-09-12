@@ -29,14 +29,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "کسی که او را شرم نیست ازش خواسته مگیر.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که از کارهایش شرم ندارد، نباید از او چیزی بخواهی."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "اگر وام خواهی ز یاران بخواه",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به پول نیاز داری، بهتر است از دوستانت بخواهی. درخواست کردن از افرادی که شرم و حیا ندارند، نتیجه‌ای نخواهد داشت."
     },
     {
       "VOrder": 3,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "هر که گوید که چرخ بی‌کار است",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کس که بگوید که دنیا و چرخ زمان بی‌حرکت و بی‌فعالیت است، در واقع به خاطر نادانی و ناآگاهی خود، مانع و دیواری در برابر درک حقیقت دارد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "کس ندید، ای پسر، نه نیز شنید",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس، ای پسر، نه دیده و نه شنیده است که کسی بی‌دلیل و بی‌هدف در حال حرکت باشد."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "چون نکو ننگری که چرخ به روز",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی خوب نگاه کنی، می‌بینی که روز مانند نیل است و شب مانند باغ گل است."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "بود و باشد چه چیز و هست چه چیز؟",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چه چیزی وجود دارد و چه چیزی هست؟ اگر بخواهیم این موضوع را بررسی کنیم، لازم است دقت بیشتری به خرج دهیم."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "اصل بسیار اگر یکی است به عقل",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه همه چیز در اساس یکی‌ست و به عقل نزدیک می‌شود، پس چرا ما در ظاهر شاهد تنوع و کثرت هستیم؟"
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "وان کزو روشنی پدید آید",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن کسی که باعث پیدایش روشنی می‌شود، مانند روشنایی و دایره و نوار است."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "چونکه برهان همی نگوید راست",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که دلیل و برهان به درستی بیان نمی‌شود، علم مانند دقت و درستی خطی است که با پرگار رسم می‌شود."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "جنبش ما چرا که مختلف است؟",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا حرکت ما متفاوت و ناهموار است؟ در حالی که حرکت چرخ به خاطر صافی و یکنواختی‌اش همواره است؟"
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "اصل جنبش چرا نگوئی چیست؟",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اصل حرکت چیست و چرا درباره‌اش صحبت نمی‌کنی؟ چرا جستجو نمی‌کنی که این چه راز و رمزی است؟"
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "خاک خوار است رستنی، زان است",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: رستنی که از خاک تغذیه می‌کند، به همین دلیل است که وقتی ایستاده می‌شود، به حالت پژمرده و ضعیف در می‌آید."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "جانور نیست به آن نگونساری",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ جانوری به اندازه این موجود غمگین و بی‌قرار نیست، پس به ناچار او زنده و گیاه‌خوار است."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "وین که سر سوی آسمان دارد",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که همیشه نگاهش به آسمان است، در واقع بر تمامی امور و مسائل تسلط دارد و سرنوشت را در دست خود می‌سازد."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "مر تو را بر چهارمین درجه",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو را بر بالاترین مقام نشانده‌اند، اما این وضعیت چه معنایی دارد و چرا به این شکل است؟"
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "زیر دستانت چونکه بی‌خرد اند؟",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا کسانی که زیر دست تو هستند، بی‌خود و بی‌خرد به نظر می‌رسند؟ در حالی که خود تو دارای عقل، دانش و توانایی سخن گفتن هستی؟"
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "با همه آلتی که حیوان راست",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با تمام وسایل و ابزاری که حیوان دارد، تو با گفتار خرد و هوش خود، یاری دهنده‌ای."
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "مر تو را نزد آن که‌ت اینها داد",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا تو نزد کسی که این همه نعمت به تو داده است، بی‌احترامی می‌کنی؟ آیا این رفتار تو نشانه‌ای از ناپسندیدن او نیست؟"
     },
     {
       "VOrder": 32,
@@ -255,7 +271,8 @@
       "Position": "Right",
       "Text": "کار کردی و خورد، چون خر خویش",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به زحمت و کار خود مشغول هستی و نتیجه‌اش را دیگران می‌برند، پس عقل و هوش تو چه فایده‌ای دارد؟"
     },
     {
       "VOrder": 34,
@@ -269,7 +286,8 @@
       "Position": "Right",
       "Text": "ای پسر، ننگری که عقل و سخن",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای پسر، به این فکر نکن که عقل و سخن چقدر بر دوش انسان‌ها سنگینی می‌کند؟"
     },
     {
       "VOrder": 36,
@@ -283,7 +301,8 @@
       "Position": "Right",
       "Text": "عقل بار است بر کسی که به عقل",
       "CoupletIndex": 18,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عقل مانند سنگینی است که بر دوش کسی قرار دارد که به آن توجه کند، اما اگر به درستی از آن استفاده نشود، می‌تواند به انسان آسیب برساند و او را در دام‌های مختلفی مانند کلاهبرداری و فریبکاری بیندازد."
     },
     {
       "VOrder": 38,
@@ -297,7 +316,8 @@
       "Position": "Right",
       "Text": "رش و سنگ کم و ترازوی کژ",
       "CoupletIndex": 19,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تزویر و فریب و نیرنگ‌های بزرگ، نشانه‌ی تدبیر و زیرکی یک فرد دغلباز است."
     },
     {
       "VOrder": 40,
@@ -311,7 +331,8 @@
       "Position": "Right",
       "Text": "عقل در دست این نفایه گروه",
       "CoupletIndex": 20,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عقل در دستان این طایفه‌ی نادان به نظر خوب می‌آید، ولی اگر به دقت نگاه کنی، می‌بینی که در دام افتاده‌اند."
     },
     {
       "VOrder": 42,
@@ -325,7 +346,8 @@
       "Position": "Right",
       "Text": "گاو خاموش نزد مرد خرد",
       "CoupletIndex": 21,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاو بی‌صدا و ساکت، نزد یک فرد با خرد و دانا، از صد بار صحبت‌های بی‌فایده بهتر است."
     },
     {
       "VOrder": 44,
@@ -339,7 +361,8 @@
       "Position": "Right",
       "Text": "گرگ درنده گرچه کشتنی است",
       "CoupletIndex": 22,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بهتر است با موجودی وحشی و خطرناک مثل گرگ برخورد کرد تا با انسانی که ظلم و ستم می‌کند، چراکه گرگ هرچند درنده است، اما آسیبش به نسبت ظلم انسان کمتر است."
     },
     {
       "VOrder": 46,
@@ -353,7 +376,8 @@
       "Position": "Right",
       "Text": "از بد گرگ رستن آسان است",
       "CoupletIndex": 23,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فرار از خطر یک گرگ کار ساده‌ای است، اما رهایی از ظلم و ستمی که حکومتی ظالم بر انسان تحمیل می‌کند، بسیار دشوارتر است."
     },
     {
       "VOrder": 48,
@@ -367,7 +391,8 @@
       "Position": "Right",
       "Text": "گرگ مال و ضیاع تو نخورد",
       "CoupletIndex": 24,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر گرگ به اموال و دارایی تو آسیب نرساند، پس گرگ واقعی و خطرناک تو خودت هستی که بر زمین و زندگی‌ات تسلط داری."
     },
     {
       "VOrder": 50,
@@ -381,7 +406,8 @@
       "Position": "Right",
       "Text": "نزد هر کس به قدر و قیمت اوی",
       "CoupletIndex": 25,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر شخصی به اندازه ارزش و مقام خود، جایگاهی برای خرد و فهم دارد."
     },
     {
       "VOrder": 52,
@@ -395,7 +421,8 @@
       "Position": "Right",
       "Text": "هم بر آن سان که بار بر دو درخت",
       "CoupletIndex": 26,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در زندگی، مانند درختانی که یکی میوه می‌دهد و دیگری خاری دارد، هر کسی در مسیرش با نعمت‌ها و مشکلات متفاوتی روبه‌رو می‌شود."
     },
     {
       "VOrder": 54,
@@ -409,7 +436,8 @@
       "Position": "Right",
       "Text": "همچنان کز نم هوا به بهار",
       "CoupletIndex": 27,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همان‌طور که در بهار، بوی رطوبت هوا باعث شکفتن گل‌ها و سرسبزی باغ‌ها می‌شود، زندگی و شادابی در طبیعت به وضوح مشاهده می‌شود."
     },
     {
       "VOrder": 56,
@@ -423,7 +451,8 @@
       "Position": "Right",
       "Text": "دزد اگر عقل را به دزدی برد",
       "CoupletIndex": 28,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دزد به عقل انسان خیانت کند، سرانجام همانند عقابی که بر دار آویخته شده است، به سختی گرفتار خواهد شد."
     },
     {
       "VOrder": 58,
@@ -437,7 +466,8 @@
       "Position": "Right",
       "Text": "تو به پیش خرد ازان خواری",
       "CoupletIndex": 29,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو در برابر خرد و دانش خود را کوچک بشماری، باید بدان که در نظر خرد، تو نیز در مرتبه پایین‌تری قرار داری."
     },
     {
       "VOrder": 60,
@@ -451,7 +481,8 @@
       "Position": "Right",
       "Text": "مر خرد را به علم یاری ده",
       "CoupletIndex": 30,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عقل را با علم تقویت کن، زیرا عقل به دنبال علم و دانش است."
     },
     {
       "VOrder": 62,
@@ -465,7 +496,8 @@
       "Position": "Right",
       "Text": "نیک و بد زان برو پدید آید",
       "CoupletIndex": 31,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خیر و شر از طریق تفکر و عقل آشکار می‌شوند، مانند یک طومار سفید که همه چیز در آن نوشته شده است."
     },
     {
       "VOrder": 64,
@@ -479,7 +511,8 @@
       "Position": "Right",
       "Text": "از بدان بد شود ز نیکان نیک",
       "CoupletIndex": 32,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که بیدار و آگاه باشد، می‌فهمد که از بدی‌های دیگران، نیکی‌های خوبان آسیب می‌بیند."
     },
     {
       "VOrder": 66,
@@ -493,7 +526,8 @@
       "Position": "Right",
       "Text": "عقل نیکی پذیر اگر در تو",
       "CoupletIndex": 33,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر عقل تو نیکی را بپذیرد و درونت بدی ایجاد شود، این به تو نسبت به این گفته عیب و ننگ است."
     },
     {
       "VOrder": 68,
@@ -507,7 +541,8 @@
       "Position": "Right",
       "Text": "مخورانش مگر که علم و هنر",
       "CoupletIndex": 34,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تنها افرادی که علم و هنر دارند، می‌توانند از این امر بهره‌مند شوند، در غیر این صورت به صرف زار و نزار به هیچ جا نمی‌رسند."
     },
     {
       "VOrder": 70,
@@ -521,7 +556,8 @@
       "Position": "Right",
       "Text": "اندرو پود علم و نیکی باف",
       "CoupletIndex": 35,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دل علم و خوبی، رشته‌ای بافنده است که هر دو رشته را به هم پیوند می‌زند."
     },
     {
       "VOrder": 72,
@@ -535,7 +571,8 @@
       "Position": "Right",
       "Text": "طاعت و علم راه جنت اوست",
       "CoupletIndex": 36,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اطاعت از خدا و دانش، راهی به بهشت را می‌سازند، در حالی که جهل و نافرمانی، رهبری به دوزخ را به همراه دارند."
     },
     {
       "VOrder": 74,
@@ -549,7 +586,8 @@
       "Position": "Right",
       "Text": "خوی نیکو و داد را بلفنج",
       "CoupletIndex": 37,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خصلت خوب و عدالت را باید در وجود خود پرورش داد، زیرا این دو ویژگی از صفات نیک انسان‌های آزاده است."
     },
     {
       "VOrder": 76,
@@ -563,7 +601,8 @@
       "Position": "Right",
       "Text": "خوی نیکو و داد در امت",
       "CoupletIndex": 38,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خوی نیک و ویژگی‌های اخلاقی خوب در جامعه ناشی از رفتارهای پیامبراست."
     },
     {
       "VOrder": 78,
@@ -577,7 +616,8 @@
       "Position": "Right",
       "Text": "بر ره راستان و نیکان رو",
       "CoupletIndex": 39,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به راه درست و افراد نیک برو، زیرا دنیا پر از بدکاران و اشرار است."
     },
     {
       "VOrder": 80,
@@ -591,7 +631,8 @@
       "Position": "Right",
       "Text": "داد کن کز ستم به رنج رسی",
       "CoupletIndex": 40,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله بیانگر این است که اگر به دیگران ظلم کنی و باعث رنج آن‌ها شو، روزی در زندگی خود با عواقب آن روبرو خواهی شد. یعنی ظلم و ستم نتیجه‌ای دارد و در نهایت به عذاب و درد منجر می‌شود."
     },
     {
       "VOrder": 82,
@@ -605,7 +646,8 @@
       "Position": "Right",
       "Text": "جز ز بیداد طبع بر طبعی",
       "CoupletIndex": 41,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دنیا هیچ چیزی جز ظلم و بی‌رحمی نمی‌تواند باعث رنج و درد باشد و هر کسی که بیمار است، از همین بی‌رحمی رنج می‌برد."
     },
     {
       "VOrder": 84,
@@ -619,7 +661,8 @@
       "Position": "Right",
       "Text": "هر که نازاردت میازارش",
       "CoupletIndex": 42,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که تو را از خود رنجیده کند، او را ناراحت نکن؛ زیرا بهترین بهانه‌ها برای کم‌رنجی است."
     },
     {
       "VOrder": 86,
@@ -633,7 +676,8 @@
       "Position": "Right",
       "Text": "بد کنش بد بجای خویش کند",
       "CoupletIndex": 43,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که بد رفتاری کند، به جای خود بد عمل می‌کند و کارهای ناپسند او مانند سمی خطرناک است."
     },
     {
       "VOrder": 88,
@@ -647,7 +691,8 @@
       "Position": "Right",
       "Text": "کار فردا به عدل خواهد بود",
       "CoupletIndex": 44,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فردا کارها بر اساس انصاف و عدالت انجام خواهد شد، هرچند امروز ممکن است اوضاع به گونه‌ای دیگر باشد."
     },
     {
       "VOrder": 90,
@@ -661,7 +706,8 @@
       "Position": "Right",
       "Text": "صاحب الغار خویش دین را دان",
       "CoupletIndex": 45,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که در مسند خود نشسته‌ای، بدان که وجود تو مانند غاری است که روح و جانت در آن محبوس است."
     },
     {
       "VOrder": 92,
@@ -675,7 +721,8 @@
       "Position": "Right",
       "Text": "بفگن از جان و تن به طاعت و علم",
       "CoupletIndex": 46,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از جان و بدن خود برای اطاعت و علم استفاده کن؛ چرا که بار گناه و نافرمانی بر دوشت سنگینی می‌کند."
     },
     {
       "VOrder": 94,
@@ -689,7 +736,8 @@
       "Position": "Right",
       "Text": "خیره خروار زیر بار مخسپ",
       "CoupletIndex": 47,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شخصی که در زیر بار سنگین مشغول به کار است، مانند باری است که بر دوش اوست. این بار نشان‌دهنده‌ی گناهانی است که بر تن انسان سنگینی می‌کند."
     },
     {
       "VOrder": 96,
@@ -703,7 +751,8 @@
       "Position": "Right",
       "Text": "چند غره شوی به فرداها",
       "CoupletIndex": 48,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا بیشتر به فرداها امیدوار باشی وقتی که هنوز با خودت درگیر هستی؟"
     },
     {
       "VOrder": 98,
@@ -717,7 +766,8 @@
       "Position": "Right",
       "Text": "زود دی گشته گیر فردا را",
       "CoupletIndex": 49,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به زودی برای فردا آماده باش، زیرا چرخ زمان هرگز به عقب برنمی‌گردد."
     },
     {
       "VOrder": 100,
@@ -731,7 +781,8 @@
       "Position": "Right",
       "Text": "خویشتن را به طاعت اندر یاب",
       "CoupletIndex": 50,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در زندگی‌ات از خودت مراقبت و توجه می‌کنی، باید خود را به انجام فرایض و کارهای نیک متعهد کنی."
     },
     {
       "VOrder": 102,
@@ -745,7 +796,8 @@
       "Position": "Right",
       "Text": "پند بپذیر و بفگن از تن بار",
       "CoupletIndex": 51,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نصیحت را بپذیر و از جسم خود بار را کنار بگذار، زیرا اگر نصیحت به روح تو برسد، وزن آن بر دوش جسم تو نخواهد بود."
     },
     {
       "VOrder": 104,
@@ -759,7 +811,8 @@
       "Position": "Right",
       "Text": "به دل پاک برنویس این شعر",
       "CoupletIndex": 52,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این شعر را در دل پاکت بنویس، زیرا مانند پاکی است که در دل شهوار وجود دارد."
     },
     {
       "VOrder": 106,

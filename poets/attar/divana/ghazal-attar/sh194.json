@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "درد من از عشق تو درمان نبرد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: درد من به خاطر عشق تو هیچ درمانی پیدا نکرد، زیرا دلم به شدت از این عشق آسیب دیده و تسلیم نشده است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "دل که به جان آمدهٔ درد توست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل که به خاطر درد تو به تنگ آمده، بسیار رنج را تحمل کرده که هیچ درمانی برای آن وجود ندارد."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "جان نبرم از تو من خسته‌دل",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من جانم را از تو نمی‌برم، ای دل‌شکسته، زیرا آن کسی که دلش را به تو داد، هرگز جانش را از تو نمی‌گیرد."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "هر که پریشان نشد از زلف تو",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که از زلف تو دچار آشفته‌گی نشده باشد، هیچ‌گاه بویی از آن زلف آشفته نخواهد برد."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "تا به ابد گمره جاوید ماند",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که راهی به تو پیدا نکند، برای همیشه در گمراهی خواهد ماند."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "پاک‌بری تا دو جهان در نباخت",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فردی نیکوکار و پاک‌دامن، هرچه از دو جهان می‌خواست را در مبارزه نباخت، بلکه آنچه را که در جستجوی تو بود، در این نبرد یافت."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "پاک توان باخت درین ره که کس",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شایستگی و توانایی واقعی در این مسیر تنها زمانی نشان داده می‌شود که کسی در این مسیر تلاش کند و به دستاوردهایی برسد."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "گرچه به سر گشت فلک قرن‌ها",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با وجود اینکه زمان زیادی از گردش زمین گذشته و سختی‌های زیادی بر این راه وجود داشته، اما هنوز هم این مسیر به پایان نرسیده و ادامه دارد."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "چرخ چو از خویش نیامد به سر",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرخ (فلک) وقتی به سرنوشت خود نرسید، در مورد عشق تو به جنگ برنیامد."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "کی ببرم وصل تو دست تهی",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کی توانم به وصال تو برسم در حالی که هیچ چیزی از خود ندارم؟ هیچ ملخی نمی‌تواند ملک سلیمان را با دستان خالی ببرد."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "آه که اندر ظلمات جهان",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آه، در تاریکی‌های این جهان، دل مرده‌ای نمی‌تواند جوشش زندگی را حس کند."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "تا که نشد مات فرید از دو کون",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که فرید به خاطر عشق تو به شکست نیفتد و از دو جهان غم عشق تو را به سادگی تحمل نکند، شکست نخواهد خورد."
     },
     {
       "VOrder": 24,

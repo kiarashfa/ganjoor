@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "گر پرسدت کسی که بر آتش چه افکنند",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی از تو بپرسد برای جلوگیری از چشم زخم چه چیزهایی باید بر آتش بریزند، بگو که باید اسپند بریزند."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "ور پرسدت کسیکه چه خوشتر که بشنوند",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی از تو بپرسد، چه چیزی خوش‌تر است، بگو که از زبان دوستان بشنوند و سه نکتهٔ مهم بیندیشند."
     },
     {
       "VOrder": 4,
@@ -55,7 +57,8 @@
       "Position": "Right",
       "Text": "گر پرسدت کسیکه چه بهتر که بر نهند",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر از تو بپرسند که چه چیزی بهتر است، بهتر است بگویی که سه بند را بر دست و پای دشمنان ببندند."
     },
     {
       "VOrder": 6,
@@ -69,7 +72,8 @@
       "Position": "Right",
       "Text": "ور پرسدت کسیکه چه به کدخدایرا",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی از تو بپرسد که چه چیزی به کدخدا بدهیم، بگو گندم سفید، شراب قرمز و گوسفند."
     },
     {
       "VOrder": 8,

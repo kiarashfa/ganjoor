@@ -1381,7 +1381,8 @@
       "Text": "ساقی به کجا که می‌ پرستم",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "ساقی کجاست تا من می‌پرست را دریابد؟ تا ساغر می را به‌من برساند."
     },
     {
       "VOrder": 2,
@@ -1397,7 +1398,8 @@
       "Text": "آن می که چو اشک من زلال است",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "می‌یی که همچون اشک من صاف و زلال است؛ و در آیین عاشقان پاک و حلال است."
     },
     {
       "VOrder": 4,
@@ -1413,7 +1415,8 @@
       "Text": "در می به امید آن زنم چنگ",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "از آن‌روی باده می‌نوشم تا دل تنگ مرا از غم رها کند."
     },
     {
       "VOrder": 6,
@@ -1429,7 +1432,8 @@
       "Text": "شیری است نشسته بر گذرگاه",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "شیری قوی‌پنجه راه مرا سد کرده و می‌خواهم از راهی دیگر بروم."
     },
     {
       "VOrder": 8,
@@ -1445,7 +1449,8 @@
       "Text": "زین پیش نشاطی آزمودم",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "در روزگاری پیش از این، نشاط و نیرویی داشتم؛ اما امروز آن آدم پیشین نیستم."
     },
     {
       "VOrder": 10,
@@ -1461,7 +1466,8 @@
       "Text": "این نیز چو بگذرد ز دستم",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "این روزها نیز وقتی بگذرد از این نیز ناتوان‌تر خواهم شد."
     },
     {
       "VOrder": 12,
@@ -1477,7 +1483,8 @@
       "Text": "ساقی به من آور آن میِ لعل",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "ای ساقی، باده سرخ یاقوت‌رنگ را بیاور؛ زیرا شعر و سخن مرا بی‌قرار کرده‌است."
     },
     {
       "VOrder": 14,
@@ -1493,7 +1500,8 @@
       "Text": "آن می که گره‌گشای کار است",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "از آن باده بده که گره‌گشای کار است و از جنس جان است و با روح و جان، سازگار است."
     },
     {
       "VOrder": 16,
@@ -1509,7 +1517,8 @@
       "Text": "گر شد پدرم به سنّتِ جد",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "اگر پدرم به سنّت جد؛ یوسف پسر زکی (پسر) مؤید گشت."
     },
     {
       "VOrder": 18,
@@ -1525,7 +1534,8 @@
       "Text": "با دور به داوری چه کوشم؟",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "با قضا و قدر چه‌می‌توانم کرد؟ دست تقدیر است و ستم نیست، شکایتی نیست."
     },
     {
       "VOrder": 20,
@@ -1541,7 +1551,8 @@
       "Text": "چون در پدران رفته دیدم",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "وقتی که در پدران و اجداد درگذشته نگاه کردم؛ تعصب‌های پدری را از خود دور کردم."
     },
     {
       "VOrder": 22,
@@ -1557,7 +1568,8 @@
       "Text": "تا هرچه رسد ز نیش آن نوش",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "تا که هرچه از زخم و نیش آن عسل گوارا بر من می‌رسد به فریضه تن فراموش کنم."
     },
     {
       "VOrder": 24,
@@ -1573,7 +1585,8 @@
       "Text": "ساقی منشین به من ده آن می",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "ساقی، استراحت مکن و باده بیشتر بیاور؛ از آن باده بیاور که از خون سرد و افسرده، آتش برآورد."
     },
     {
       "VOrder": 26,
@@ -1589,7 +1602,8 @@
       "Text": "آن می که چو گنگ از آن بنوشد",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "از باده‌ای بیاور که اگر لال از آن بنوشد؛ سخنانی همچون دُر و مروارید بر زبان بیاورد."
     },
     {
       "VOrder": 28,
@@ -1605,7 +1619,8 @@
       "Text": "گر مادر من رئیسهٔ کُرد",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "اگر وقتی که یاد کنم از مادرم، رئیسه کُرد که مادرصفتانه و با مهر پیش من جان‌داد."
     },
     {
       "VOrder": 30,
@@ -1621,7 +1636,8 @@
       "Text": "از لابه‌گری که را کنم یاد؟",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "از غم و آه و حسرت از که بخواهم که او را به‌داد من بازگرداند؟"
     },
     {
       "VOrder": 32,
@@ -1637,7 +1653,8 @@
       "Text": "غم بیشتر از قیاسِ خورد است",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "غم بیش از آن است که بتوان تحمل کرد؛ و این گرداب از قد آدمی فزون‌تر و بیشتر است."
     },
     {
       "VOrder": 34,
@@ -1653,7 +1670,8 @@
       "Text": "زان بیشتر است کاس این درد",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "کاسه این غم و درد بزرگ‌تر و بیشتر از آن است که بتوان با هزار جرعه سر‌کشید."
     },
     {
       "VOrder": 36,
@@ -1669,7 +1687,8 @@
       "Text": "با این غم و درد بی‌کناره",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "چاره این غم و درد بی‌پایان، باده و می است."
     },
     {
       "VOrder": 38,
@@ -1685,7 +1704,8 @@
       "Text": "ساقی پی بارگیم ریش است",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "ساقی، پای اسب من مجروح و زخمی‌است؛ خسته‌ام و از سفر باز‌مانده‌ام؛ باده بده که هنگام کوچ است."
     },
     {
       "VOrder": 40,
@@ -1701,7 +1721,8 @@
       "Text": "آن می‌ که چو شور در سر‌آرد",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "از باده‌ای بده که چنان آدمی را شاد کند که از پای آدمی هزار پر و بال دربیاورد و او را چابک و چالاک کند."
     },
     {
       "VOrder": 42,
@@ -1717,7 +1738,8 @@
       "Text": "گر خواجه عُمَر که خال من بود",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "اگر از خواجه عُمر که خالوی من بود یاد کنم؛ آنکه رفتن او غم بزرگی بود."
     },
     {
       "VOrder": 44,
@@ -1733,7 +1755,8 @@
       "Text": "از تلخ گواری نواله‌ام",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "از تلخی این بغض که گلوی مرا می‌فشارد صدای گریه در نای من می‌شکند."
     },
     {
       "VOrder": 46,
@@ -1749,7 +1772,8 @@
       "Text": "می‌ترسم از این کبود زنجیر",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "می‌ترسم که از این کبود زنجیر، چنان افغان و شکایت کنم که او گلوگیر شود."
     },
     {
       "VOrder": 48,
@@ -1765,7 +1789,8 @@
       "Text": "ساقی ز خُم شراب‌خانه",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "ساقی از خم‌های شراب‌خانه خود می‌یی بیاور سرخ و زلال همچون دانهٔ\u00A0انار."
     },
     {
       "VOrder": 50,
@@ -1781,7 +1806,8 @@
       "Text": "آن می که محیط‌‌بخشِ کشت است",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "از آن می که باغ و کشت جان آدمی را رونق دهد؛ از آن می که همشیره و هم‌چشمه عسل بهشت است."
     },
     {
       "VOrder": 52,
@@ -1797,7 +1823,8 @@
       "Text": "تا کی دم اهل، اهل دم کو؟",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "تا کی صحبت از یاران؟ یاران و اهل صحبت کجا رفتند؟ همراهان کجا و همسفران کجا هستند؟"
     },
     {
       "VOrder": 54,
@@ -1813,7 +1840,8 @@
       "Text": "نحلی که به شهد خرمی کرد",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "مگس عسل و زنبور انگبین که به شهد و عسل شادی کرد؛ آن‌را از هم‌نشین و یاری ساخت."
     },
     {
       "VOrder": 56,
@@ -1829,7 +1857,8 @@
       "Text": "پیله که بریشمین کلاه است",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "کرم‌ابریشم که کلاهی ابریشمین بر سر می‌نهد آن‌را از یاری همسفران و دوستان دارد."
     },
     {
       "VOrder": 58,
@@ -1845,7 +1874,8 @@
       "Text": "از شادیِ همدمان کِشد مور",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "مورچه از همراهی و شادی یاران است که بارهای بیش از زور خود را می‌کشد."
     },
     {
       "VOrder": 60,
@@ -1861,7 +1891,8 @@
       "Text": "با هر که دراین رهی هم آواز",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "با هرکسی که یار و همراه هستی نوا و نغمه‌ات را با او هماهنگ کن."
     },
     {
       "VOrder": 62,
@@ -1877,7 +1908,8 @@
       "Text": "در پردهٔ این ترانه تنگ",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "این گوشه سخت موسیقی و این ترانه دشوار، را نمی‌توانی همراهی کنی اگر آهنگ و نغمه آن را ندانی."
     },
     {
       "VOrder": 64,
@@ -1893,7 +1925,8 @@
       "Text": "در چین نه همه حریر بافند",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "در چین همگی حریرباف نیستند و حریربافی کار هرکسی نیست بعضی حله و حریر می‌بافند و بعضی دیگر حصیر."
     },
     {
       "VOrder": 66,
@@ -1909,7 +1942,8 @@
       "Text": "در هر چه از اعتدال یاری است",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "در هرچیزی که اعتدال و تناسب رعایت شود، عاقبت خوبی دارد."
     },
     {
       "VOrder": 68,
@@ -1925,7 +1959,8 @@
       "Text": "هر رود که با غنا نسازد",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "آن سازی که با غنا و آهنگ، هماهنگ نباشد (بد کوک شود) سیم‌هایش پاره خواهد شد وقتی که نوازنده آن را بنوازد."
     },
     {
       "VOrder": 70,
@@ -1941,7 +1976,8 @@
       "Text": "ساقی می مشک‌بوی بردار",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "ای ساقی، برایم از باده خوش‌عطر بیاور و بند و زنجیر را از دست و پای من بردار."
     },
     {
       "VOrder": 72,
@@ -1957,7 +1993,8 @@
       "Text": "آن می که عصارهٔ حیات است",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "آن می که اصل زندگی است؛ از آنکه نوبر و سرگُل کوزه نبات است."
     },
     {
       "VOrder": 74,
@@ -1973,7 +2010,8 @@
       "Text": "زاین خانهٔ خاک پوش تا کی؟",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "تا کی از این دنیای خاک‌پوش گفتن؟ تا کی زهر و نوش او را به‌یاد آوردن؟"
     },
     {
       "VOrder": 76,
@@ -1989,7 +2027,8 @@
       "Text": "آن خانهٔ عنکبوت باشد",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "آنچه که سست است خانه عنکبوت است که گاهی زخم کند و گاهی مرهم می‌شود.\u00A0"
     },
     {
       "VOrder": 78,
@@ -2005,7 +2044,8 @@
       "Text": "گه بر مگسی کند شبیخون",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "گاهی به مگسی حمله می‌برد و گاهی زخم دست کسی را مداوا می‌کند. (منظور گذاشتن تار عنکبوت بر زخم برای بهبود آن است که در قدیم به‌کار می‌رفته است و در اینجا کارهای دنیا به عمل عنکبوت تشبیه شده است)"
     },
     {
       "VOrder": 80,
@@ -2021,7 +2061,8 @@
       "Text": "چون پیله ببند خانه را در",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "همچون کرم پیله درب خانه را ببند تا در شب خواب بتوانی آسوده و راحت بخوابی."
     },
     {
       "VOrder": 82,
@@ -2037,7 +2078,8 @@
       "Text": "این خانه که خانهٔ وبال است",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "این خانه که خانه زحمت و غم است، خود پیداست که چه‌اندازه موقتی است."
     },
     {
       "VOrder": 84,
@@ -2053,7 +2095,8 @@
       "Text": "ساقی ز می‌ و نشاط منشین",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "ساقی‌، از باده‌دادن و شاد کردن دل ما باز مایست؛ پیاپی باده تلخ بریز و نشاط دلپذیر بیفزا."
     },
     {
       "VOrder": 86,
@@ -2069,7 +2112,8 @@
       "Text": "آن می که چنان که حال مرد است",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "از آن می که احساسات آدمی را ظاهر کند و آنچه‌را که در دل آدمی است آشکار کند."
     },
     {
       "VOrder": 88,
@@ -2085,7 +2129,8 @@
       "Text": "چون مار مکن به سرکشی میل",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "سرکش و نافرمان مشو که (در این دنیا) سیلاب (حوادث) ناگهان و از پشت‌سر می‌رسد. (مارها که در سربالایی و سرکشی سریع هستند، در برابر سیلاب ضعیف هستند)"
     },
     {
       "VOrder": 90,
@@ -2101,7 +2146,8 @@
       "Text": "گر هفت سرت چو اژدها هست",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "اگر خود همچون اژدهای هفت‌سر هستی در آخر هر هفت سر تو را می‌برند و قطع می‌کنند."
     },
     {
       "VOrder": 92,
@@ -2117,7 +2163,8 @@
       "Text": "به گر خطری چنان نسنجی",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "پس بهتر همان است که چنان‌ خطرهایی نسازی که اگر خود دچارش شوی صدمه ببینی."
     },
     {
       "VOrder": 94,
@@ -2133,7 +2180,8 @@
       "Text": "در وقت فرو فتادن از بام",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "سقوط و فرو افتادن از بام چنان سریع است که صد گزِ آن مثل یک گام است!"
     },
     {
       "VOrder": 96,
@@ -2149,7 +2197,8 @@
       "Text": "خاکی شو و از خطر میندیش",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "مانند خاک متواضع باش و در آرامش زندگی کن؛ خاک در آرامش و ساکنی از سه عنصر دیگر (آب، باد، آتش) پیشی گرفته است."
     },
     {
       "VOrder": 98,
@@ -2165,7 +2214,8 @@
       "Text": "هر گوهری ارچه تابناک است",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "اساس همه‌ی گوهرهای باارزش خاک است."
     },
     {
       "VOrder": 100,
@@ -2181,7 +2231,8 @@
       "Text": "او هست پدید در سه هم کار",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "او (خاک) با سه عنصر دیگر می‌تواند همکاری و سازگاری کند اما آن سه‌عنصر دیگر در او پایدار نیستند (و نمی‌توانند مانند او آرام و ساکن باشند)"
     },
     {
       "VOrder": 102,
@@ -2197,7 +2248,8 @@
       "Text": "ساقی می لاله رنگ برگیر",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "ای ساقی، از باده و شراب سرخ بریز، و پیمانه نصفی را با آهنگ و صدای چنگ همراه کن. (نصفی نام نوعی پیاله شراب بوده‌است که احتمالا به‌سبب شکل آن به‌این نام خوانده‌می‌شده است و نیز گفته شده نام نوعی ساز؛ در اینجا منظور اولی است)"
     },
     {
       "VOrder": 104,
@@ -2213,7 +2265,8 @@
       "Text": "آن می که منادی صبوح است",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "از آن می بریز که صبوح را ندا می‌دهد؛ از آن می که جان را آباد کند."
     },
     {
       "VOrder": 106,
@@ -2229,7 +2282,8 @@
       "Text": "تا کی غم نارسیده خوردن‌؟",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "تا کی غم آینده را خوردن؟ دانستن و ناشنیده کردن؟"
     },
     {
       "VOrder": 108,
@@ -2245,7 +2299,8 @@
       "Text": "به گر سخنم به یاد داری",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "این پند را هیچگاه فراموش مکن؛ غصه گذشته را مخور!"
     },
     {
       "VOrder": 110,
@@ -2261,7 +2316,8 @@
       "Text": "آن عمر شده که پیش خورد است",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "آن عمر شده که پیش خورد است‌، تصور کن\u00A0هنوز در نورد است. (نورد یعنی طومار و نوشته‌شده)"
     },
     {
       "VOrder": 112,
@@ -2277,7 +2333,8 @@
       "Text": "هم بر ورق گذشته گیرش",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "(آینده را بر) این فرض کن که اتفاق افتاده و داستان آن نوشته شده و تمام شده است."
     },
     {
       "VOrder": 114,
@@ -2293,7 +2350,8 @@
       "Text": "انگار که هفت سبع خواندی",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "انگار و فرض کن که همه علوم را دانستی؛ یا هفت هزار سال هم زندگی کردی."
     },
     {
       "VOrder": 116,
@@ -2309,7 +2367,8 @@
       "Text": "آخر نه چو مدت اِسپری گشت",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "آخر این نیست که آن مدت نیز پایان می‌یابد و هفت‌هزار سال هم تمام می‌شود؟"
     },
     {
       "VOrder": 118,
@@ -2325,7 +2384,8 @@
       "Text": "چون قامت ما برای غرق است",
       "CoupletIndex": 59,
       "SectionIndex1": 0,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "وقتی که رفتنی هستیم و قامت ما برای غرق شدن است؛ عمر دراز و کوتاه چه‌فرقی دارند؟"
     },
     {
       "VOrder": 120,
@@ -2341,7 +2401,8 @@
       "Text": "ساقی به صبوح بامدادم",
       "CoupletIndex": 60,
       "SectionIndex1": 0,
-      "SectionIndex2": 62
+      "SectionIndex2": 62,
+      "CoupletSummary": "ساقی از صبوح بامدادی بریز، باده‌ای بده که نخورده گوارای من باشد!"
     },
     {
       "VOrder": 122,
@@ -2357,7 +2418,8 @@
       "Text": "آن می که چو آفتاب گیرد",
       "CoupletIndex": 61,
       "SectionIndex1": 0,
-      "SectionIndex2": 63
+      "SectionIndex2": 63,
+      "CoupletSummary": "از آن می بریز که وقتی که آفتاب بر آن بتابد همچون آب بدرخشد و دهان خشک را تازه کند."
     },
     {
       "VOrder": 124,
@@ -2373,7 +2435,8 @@
       "Text": "تا چند چو یخ فسرده بودن",
       "CoupletIndex": 62,
       "SectionIndex1": 0,
-      "SectionIndex2": 64
+      "SectionIndex2": 64,
+      "CoupletSummary": "تا کی مانند یخ سرد بودن و افسرده بودن؟ و خود را به‌موش‌مردگی زدن؟"
     },
     {
       "VOrder": 126,
@@ -2389,7 +2452,8 @@
       "Text": "چون گل بگذار نرم‌خویی",
       "CoupletIndex": 63,
       "SectionIndex1": 0,
-      "SectionIndex2": 65
+      "SectionIndex2": 65,
+      "CoupletSummary": "مثل گُل مباش که نرم‌خو و ملایم است؛ مثل بنفشه مباش که دورنگ و دوروست."
     },
     {
       "VOrder": 128,
@@ -2405,7 +2469,8 @@
       "Text": "جایی باشد که خار باید",
       "CoupletIndex": 64,
       "SectionIndex1": 0,
-      "SectionIndex2": 66
+      "SectionIndex2": 66,
+      "CoupletSummary": "زمانهایی هست که باید مانند خار باشی و دیوانگی به کارت می‌آید"
     },
     {
       "VOrder": 130,
@@ -2421,7 +2486,8 @@
       "Text": "کُردی خرکی به کعبه گم کرد",
       "CoupletIndex": 65,
       "SectionIndex1": 0,
-      "SectionIndex2": 67
+      "SectionIndex2": 67,
+      "CoupletSummary": "کرُدی خر خود را در زیارت گم کرد نزد کعبه رفت و (بجای زاری کردن) تُندی کرد (که)"
     },
     {
       "VOrder": 132,
@@ -2437,7 +2503,8 @@
       "Text": "کاین بادیه را رهی دراز است",
       "CoupletIndex": 66,
       "SectionIndex1": 0,
-      "SectionIndex2": 68
+      "SectionIndex2": 68,
+      "CoupletSummary": "راه بیابان که در پیش دارم دراز است چرا خرم را گم کرده‌ام؟"
     },
     {
       "VOrder": 134,
@@ -2453,7 +2520,8 @@
       "Text": "این گفت و چو گفت باز پس دید",
       "CoupletIndex": 67,
       "SectionIndex1": 0,
-      "SectionIndex2": 69
+      "SectionIndex2": 69,
+      "CoupletSummary": "تا این را گفت و روی برگرداند خر خود را پیدا کرد؛ خوشحال شد"
     },
     {
       "VOrder": 136,
@@ -2469,7 +2537,8 @@
       "Text": "گفتا خرم از میانه گم بود",
       "CoupletIndex": 68,
       "SectionIndex1": 0,
-      "SectionIndex2": 70
+      "SectionIndex2": 70,
+      "CoupletSummary": "گفت که پیدا شدن خرم نتیجه آن تندی (و جربزه) بود! (اشتلم کردن یعنی به زور چیزی را گرفتن و اعمال زور کردن)"
     },
     {
       "VOrder": 138,
@@ -2485,7 +2554,8 @@
       "Text": "گر اشتلمی نمی‌زد آن کُرد",
       "CoupletIndex": 69,
       "SectionIndex1": 0,
-      "SectionIndex2": 71
+      "SectionIndex2": 71,
+      "CoupletSummary": "اگر آن کُرد تندی نمی‌کرد و به زور نمی‌گرفت خرش گم می‌شد و بار را هم با خود می‌برد!"
     },
     {
       "VOrder": 140,
@@ -2501,7 +2571,8 @@
       "Text": "این دِه که حصارِ بیهُشان است",
       "CoupletIndex": 70,
       "SectionIndex1": 0,
-      "SectionIndex2": 72
+      "SectionIndex2": 72,
+      "CoupletSummary": "این ده (زندگی و دنیا) که جای مدهوشی‌ست (از ضعیفان می‌گیرد و) به ضعیف‌کُشان می‌دهد."
     },
     {
       "VOrder": 142,
@@ -2517,7 +2588,8 @@
       "Text": "بی‌شیر‌دلی بسر نیاید",
       "CoupletIndex": 71,
       "SectionIndex1": 0,
-      "SectionIndex2": 73
+      "SectionIndex2": 73,
+      "CoupletSummary": "بدون شجاعت درست نمی‌شود زیرا که از ترسوها هنری برنیاید"
     },
     {
       "VOrder": 144,
@@ -2533,7 +2605,8 @@
       "Text": "ساقی می‌ِ ناب در قدح ریز",
       "CoupletIndex": 72,
       "SectionIndex1": 0,
-      "SectionIndex2": 74
+      "SectionIndex2": 74,
+      "CoupletSummary": "ساقی! می ناب در قدح بریز، از آن می که آتش برانگیزد"
     },
     {
       "VOrder": 146,
@@ -2549,7 +2622,8 @@
       "Text": "آن می که چو رویِ سنگ شوید",
       "CoupletIndex": 73,
       "SectionIndex1": 0,
-      "SectionIndex2": 75
+      "SectionIndex2": 75,
+      "CoupletSummary": "(ساقی از) آن می (بریز) که اگر بر سنگ بریزی آن را به یاقوت تبدیل کند"
     },
     {
       "VOrder": 148,
@@ -2565,7 +2639,8 @@
       "Text": "پایین‌طلب ِخسان چه باشی؟",
       "CoupletIndex": 74,
       "SectionIndex1": 0,
-      "SectionIndex2": 76
+      "SectionIndex2": 76,
+      "CoupletSummary": "چرا زیردست خسان و بازیچه‌ی ناکسان می‌شوی؟\u00A0"
     },
     {
       "VOrder": 150,
@@ -2581,7 +2656,8 @@
       "Text": "گردن چه نهی به هر قفایی؟",
       "CoupletIndex": 75,
       "SectionIndex1": 0,
-      "SectionIndex2": 77
+      "SectionIndex2": 77,
+      "CoupletSummary": "چرا به هرکس اجازه می‌دهی که به تو پس‌گردنی بزند؟ و به هر ستمی راضی هستی؟"
     },
     {
       "VOrder": 152,
@@ -2597,7 +2673,8 @@
       "Text": "چون کوه بلندپشتی‌ای کن",
       "CoupletIndex": 76,
       "SectionIndex1": 0,
-      "SectionIndex2": 78
+      "SectionIndex2": 78,
+      "CoupletSummary": "مانند کوه کمر راست کن و خودی نشان بده"
     },
     {
       "VOrder": 154,
@@ -2613,7 +2690,8 @@
       "Text": "چون سوسن اگر حریر بافی",
       "CoupletIndex": 77,
       "SectionIndex1": 0,
-      "SectionIndex2": 79
+      "SectionIndex2": 79,
+      "CoupletSummary": "اگر مانند گل سوسن نرم باشی حتی زمین صاف بر تو ظلم (و تلخی) می‌کند"
     },
     {
       "VOrder": 156,
@@ -2629,7 +2707,8 @@
       "Text": "خواری خللِ درونی آرد",
       "CoupletIndex": 78,
       "SectionIndex1": 0,
-      "SectionIndex2": 80
+      "SectionIndex2": 80,
+      "CoupletSummary": "خوار شدن، درون آدمی را فاسد می‌کند و قبول ظلم و ستم، حقارت و ناتوانی در پی دارد."
     },
     {
       "VOrder": 158,
@@ -2645,7 +2724,8 @@
       "Text": "می‌باش چو خار حربه بر دوش",
       "CoupletIndex": 79,
       "SectionIndex1": 0,
-      "SectionIndex2": 81
+      "SectionIndex2": 81,
+      "CoupletSummary": "مانند خار همیشه آماده‌ی مبارزه و نبرد باش تا نصیب آغوشت خرمن گل باشد."
     },
     {
       "VOrder": 160,
@@ -2661,7 +2741,8 @@
       "Text": "نیرو شکن است حیف و بیداد",
       "CoupletIndex": 80,
       "SectionIndex1": 0,
-      "SectionIndex2": 82
+      "SectionIndex2": 82,
+      "CoupletSummary": "افسوس خوردن، نیرو (ی تو) را از بین می‌برد و از ناامید شدن و افسوس خوردن آدمی می‌میرد"
     },
     {
       "VOrder": 162,
@@ -2677,7 +2758,8 @@
       "Text": "ساقی منشین که روز دیر است",
       "CoupletIndex": 81,
       "SectionIndex1": 0,
-      "SectionIndex2": 83
+      "SectionIndex2": 83,
+      "CoupletSummary": "ساقی استراحت مکن که روز تمام شد، می بریز که کارهای فراوان در سر دارم."
     },
     {
       "VOrder": 164,
@@ -2693,7 +2775,8 @@
       "Text": "آن می که چراغ رهروان شد",
       "CoupletIndex": 82,
       "SectionIndex1": 0,
-      "SectionIndex2": 84
+      "SectionIndex2": 84,
+      "CoupletSummary": "از آن می بریز که بدرخشد و چراغ راهروان و مسافران شود؛ از آن می که اگر پیر بنوشد جوان گردد."
     },
     {
       "VOrder": 166,
@@ -2709,7 +2792,8 @@
       "Text": "با یک دو سه رند لاابالی",
       "CoupletIndex": 83,
       "SectionIndex1": 0,
-      "SectionIndex2": 85
+      "SectionIndex2": 85,
+      "CoupletSummary": "با یکی دو سه یار رند‌ و بی‌پروا راهی را در پیش بگیر به‌دور از غرور و جاه."
     },
     {
       "VOrder": 168,
@@ -2725,7 +2809,8 @@
       "Text": "با ذره‌ نشین چو نور خورشید",
       "CoupletIndex": 84,
       "SectionIndex1": 0,
-      "SectionIndex2": 86
+      "SectionIndex2": 86,
+      "CoupletSummary": "همچون نور خورشید که هم‌نشین ذره غبار است تو نیز متواضع و فروتن باش (آنگاه خواهی دید که) کی و شاه هستی و بزم‌گاه جمشید را دارا هستی."
     },
     {
       "VOrder": 170,
@@ -2741,7 +2826,8 @@
       "Text": "بگذار معاش پادشاهی",
       "CoupletIndex": 85,
       "SectionIndex1": 0,
-      "SectionIndex2": 87
+      "SectionIndex2": 87,
+      "CoupletSummary": "جاه و معاش و شغل پادشاهی را رها کن؛ که عاقبت جنگاور، آوارگی است."
     },
     {
       "VOrder": 172,
@@ -2757,7 +2843,8 @@
       "Text": "از صحبت پادشه بپرهیز",
       "CoupletIndex": 86,
       "SectionIndex1": 0,
-      "SectionIndex2": 88
+      "SectionIndex2": 88,
+      "CoupletSummary": "از دوستی با پادشاه دوری کن؛ به‌سان پنبهٔ خشک از آتش تند."
     },
     {
       "VOrder": 174,
@@ -2773,7 +2860,8 @@
       "Text": "زان آتش اگرچه پر ز نور است",
       "CoupletIndex": 87,
       "SectionIndex1": 0,
-      "SectionIndex2": 89
+      "SectionIndex2": 89,
+      "CoupletSummary": "از آن آتش، اگرچه نور زیادی دارد، کسی ایمن است که دور است."
     },
     {
       "VOrder": 176,
@@ -2789,7 +2877,8 @@
       "Text": "پروانه که نور شمعش افروخت",
       "CoupletIndex": 88,
       "SectionIndex1": 0,
-      "SectionIndex2": 90
+      "SectionIndex2": 90,
+      "CoupletSummary": "پروانه که نور شمع او را روشن کرد، وقتی که با شمع، بزم‌نشین و یار شد، سوخت."
     },
     {
       "VOrder": 178,
@@ -2805,7 +2894,8 @@
       "Text": "ساقی نفسم ز غم فروبست",
       "CoupletIndex": 89,
       "SectionIndex1": 0,
-      "SectionIndex2": 91
+      "SectionIndex2": 91,
+      "CoupletSummary": "ساقی می بریز که غم، نفس مرا به‌تنگ آورد، می بریز که فقط با می می‌توان از غم رها شد."
     },
     {
       "VOrder": 180,
@@ -2821,7 +2911,8 @@
       "Text": "آن می که صفای سیم دارد",
       "CoupletIndex": 90,
       "SectionIndex1": 0,
-      "SectionIndex2": 92
+      "SectionIndex2": 92,
+      "CoupletSummary": "از آن می و باده که همچون نقره، صاف و درخشان است و در دل آدمی اثری عظیم می‌گذارد."
     },
     {
       "VOrder": 182,
@@ -2837,7 +2928,8 @@
       "Text": "دل نِه به نصیبِ خاصهٔ خویش",
       "CoupletIndex": 91,
       "SectionIndex1": 0,
-      "SectionIndex2": 93
+      "SectionIndex2": 93,
+      "CoupletSummary": "به دارایی و روزی خود شاد باش و خود را از حرص و طمع به رزق دیگران دور بدار."
     },
     {
       "VOrder": 184,
@@ -2853,7 +2945,8 @@
       "Text": "بر گردد بخت از آن سبک‌رای",
       "CoupletIndex": 92,
       "SectionIndex1": 0,
-      "SectionIndex2": 94
+      "SectionIndex2": 94,
+      "CoupletSummary": "بخت و اقبال از آن آدم نادان که پای خود را از گلیم خود افزون‌تر کشد (و بیش از رزق خود بخواهد)، برمی‌گردد."
     },
     {
       "VOrder": 186,
@@ -2869,7 +2962,8 @@
       "Text": "مرغی که نه اوج خویش گیرد",
       "CoupletIndex": 93,
       "SectionIndex1": 0,
-      "SectionIndex2": 95
+      "SectionIndex2": 95,
+      "CoupletSummary": "پرنده‌ای که بیش از حد و توان خود اوج بگیرد، تصمیم به هلاک خود گرفته‌است."
     },
     {
       "VOrder": 188,
@@ -2885,7 +2979,8 @@
       "Text": "ماری که نه راه خود بسیچد",
       "CoupletIndex": 94,
       "SectionIndex1": 0,
-      "SectionIndex2": 96
+      "SectionIndex2": 96,
+      "CoupletSummary": "ماری که از محدوده خود خارج شود، در رنجش و صدمه به‌خود خواهد پیچید."
     },
     {
       "VOrder": 190,
@@ -2901,7 +2996,8 @@
       "Text": "زاهد که کند سلاح‌پوشی",
       "CoupletIndex": 95,
       "SectionIndex1": 0,
-      "SectionIndex2": 97
+      "SectionIndex2": 97,
+      "CoupletSummary": "آدم زاهد و پارسا اگر لباس جنگاوری بپوشد (و زیاده‌طلبی کند) از آن زیاده‌کوشی سیلی خواهد خورد."
     },
     {
       "VOrder": 192,
@@ -2917,7 +3013,8 @@
       "Text": "روبه که زند تپانچه با شیر",
       "CoupletIndex": 96,
       "SectionIndex1": 0,
-      "SectionIndex2": 98
+      "SectionIndex2": 98,
+      "CoupletSummary": "روباهی که به شیر سیلی بزند؛ واضح است که شمشیر در دست کیست!"
     },
     {
       "VOrder": 194,
@@ -2933,7 +3030,8 @@
       "Text": "ساقی می مغزجوش درده",
       "CoupletIndex": 97,
       "SectionIndex1": 0,
-      "SectionIndex2": 99
+      "SectionIndex2": 99,
+      "CoupletSummary": "ای ساقی از آن می بریز که مغز را داغ کند؛ جامی با بانگ «نوشت باد» به من بده!"
     },
     {
       "VOrder": 196,
@@ -2949,7 +3047,8 @@
       "Text": "آن می که کلید گنج شادی است",
       "CoupletIndex": 98,
       "SectionIndex1": 0,
-      "SectionIndex2": 100
+      "SectionIndex2": 100,
+      "CoupletSummary": "از آن می که کلید گنج شادی است و جان‌داروی گنج عظیم کیقبادی است."
     },
     {
       "VOrder": 198,
@@ -2965,7 +3064,8 @@
       "Text": "خرسندی را به طبع در بند",
       "CoupletIndex": 99,
       "SectionIndex1": 0,
-      "SectionIndex2": 101
+      "SectionIndex2": 101,
+      "CoupletSummary": "خرسندی و شادی را به تن بیاور؛ و به آن‌چه که هست خرسند و قانع باش."
     },
     {
       "VOrder": 200,
@@ -2981,7 +3081,8 @@
       "Text": "جز آدمیان هرآنچه هستند",
       "CoupletIndex": 100,
       "SectionIndex1": 0,
-      "SectionIndex2": 102
+      "SectionIndex2": 102,
+      "CoupletSummary": "به‌جز آدمیان که حریص و افزون‌طلب هستند بقیه موجودات بر شقه قانعی می‌نشینند. (شِقه‌: پاره‌ای از هرچیز از قبیل کاغذ، پارچه‌، نمد و غیره است در اینجا برای معنی قناعت به حداقل بکار رفته‌است)\u00A0\u00A0"
     },
     {
       "VOrder": 202,
@@ -2997,7 +3098,8 @@
       "Text": "در جستن رزق خود شتابند",
       "CoupletIndex": 101,
       "SectionIndex1": 0,
-      "SectionIndex2": 103
+      "SectionIndex2": 103,
+      "CoupletSummary": "(موجودات دیگر) برای یافتن روزی خود تلاش می‌کنند و با هر چه که بیابند، می‌سازند."
     },
     {
       "VOrder": 204,
@@ -3013,7 +3115,8 @@
       "Text": "چون وجه کفایتی ندارند",
       "CoupletIndex": 102,
       "SectionIndex1": 0,
-      "SectionIndex2": 104
+      "SectionIndex2": 104,
+      "CoupletSummary": "وقتی که روزی به‌اندازه کافی نیابند، گستاخی نکرده و شکایت نمی‌کنند."
     },
     {
       "VOrder": 206,
@@ -3029,7 +3132,8 @@
       "Text": "آن آدمی است کز دلیری",
       "CoupletIndex": 103,
       "SectionIndex1": 0,
-      "SectionIndex2": 105
+      "SectionIndex2": 105,
+      "CoupletSummary": "آن که از روی گستاخی و بی‌باکی حتی در وقت نیم‌سیری، ناسپاسی و کفر می‌آورد، آدمی است."
     },
     {
       "VOrder": 208,
@@ -3045,7 +3149,8 @@
       "Text": "گر فوت شود یکی نواله‌ش",
       "CoupletIndex": 104,
       "SectionIndex1": 0,
-      "SectionIndex2": 106
+      "SectionIndex2": 106,
+      "CoupletSummary": "یک لقمه از دستش برود آه و ناله‌اش تا فلک می‌رود."
     },
     {
       "VOrder": 210,
@@ -3061,7 +3166,8 @@
       "Text": "گر تر شودش به قطره‌ای بام",
       "CoupletIndex": 105,
       "SectionIndex1": 0,
-      "SectionIndex2": 107
+      "SectionIndex2": 107,
+      "CoupletSummary": "اگر باران برای سقف خانه‌اش کمترین خللی ایجاد کند به ابر دشنام می‌دهد."
     },
     {
       "VOrder": 212,
@@ -3077,7 +3183,8 @@
       "Text": "ور یک جو سنگ تاب گیرد",
       "CoupletIndex": 106,
       "SectionIndex1": 0,
-      "SectionIndex2": 108
+      "SectionIndex2": 108,
+      "CoupletSummary": "اگر یک ذره و به‌اندازه یک‌جو‌‌ِ سنگ از آفتاب داغی و حرارت ببیند بطرف آفتاب خرسنگ پرت می‌کند و با آفتاب دشمنی می‌کند. (خرسنگ‌: سنگ درشت)"
     },
     {
       "VOrder": 214,
@@ -3093,7 +3200,8 @@
       "Text": "شرط روش آن بود که چون نور",
       "CoupletIndex": 107,
       "SectionIndex1": 0,
-      "SectionIndex2": 109
+      "SectionIndex2": 109,
+      "CoupletSummary": "هوش مصنوعی: شرط این است که وقتی نور زالایش را ببینید، خوب و بد آن را از یکدیگر تفکیک کنید و از هر دو دور باشید."
     },
     {
       "VOrder": 216,
@@ -3109,7 +3217,8 @@
       "Text": "چون آب ز روی جان‌نوازی",
       "CoupletIndex": 108,
       "SectionIndex1": 0,
-      "SectionIndex2": 110
+      "SectionIndex2": 110,
+      "CoupletSummary": "هوش مصنوعی: وقتی با مهربانی و توجه به دیگران برخورد می‌کنی، می‌توانی با همه رنگ‌ها و احساسات زندگی هماهنگ شوی و زیبایی آن‌ها را درک کنی."
     },
     {
       "VOrder": 218,
@@ -3125,7 +3234,8 @@
       "Text": "ساقی ز ره بهانه برخیز",
       "CoupletIndex": 109,
       "SectionIndex1": 0,
-      "SectionIndex2": 111
+      "SectionIndex2": 111,
+      "CoupletSummary": "هوش مصنوعی: ای ساقی، از سر بهانه‌ها دست بردار و بیا جلو، شراب مغانه را بیاور."
     },
     {
       "VOrder": 220,
@@ -3141,7 +3251,8 @@
       "Text": "آن می‌ که به بزم ناز بخشد",
       "CoupletIndex": 110,
       "SectionIndex1": 0,
-      "SectionIndex2": 112
+      "SectionIndex2": 112,
+      "CoupletSummary": "هوش مصنوعی: آن کسی که در مهمانی‌های زیبایی و لذت، به دیگران محبت و شادی می‌دهد، در شرایط دشوار و جنگیدن نیز ابزار ایستادگی و مقاومت به دیگران می‌دهد."
     },
     {
       "VOrder": 222,
@@ -3157,7 +3268,8 @@
       "Text": "افسرده مباش اگر نه سنگی",
       "CoupletIndex": 111,
       "SectionIndex1": 0,
-      "SectionIndex2": 113
+      "SectionIndex2": 113,
+      "CoupletSummary": "هوش مصنوعی: غمگین نباش، اگر نمی‌توانی همچون پرنده‌ای آزاد پرواز کنی، دست‌کم مانند سنگی ساکن و بی‌حرکت نیز نباش. اگر نمی‌توانی به جلو بروی، حداقل درنگ نکن."
     },
     {
       "VOrder": 224,
@@ -3173,7 +3285,8 @@
       "Text": "گَرد از سر این نمد فرو روب",
       "CoupletIndex": 112,
       "SectionIndex1": 0,
-      "SectionIndex2": 114
+      "SectionIndex2": 114,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی از روی نمدی که گرد و غبارش را از سرش می‌زدایی، خود را پایین بکش و با پا بر روی نمد بکوب."
     },
     {
       "VOrder": 226,
@@ -3189,7 +3302,8 @@
       "Text": "در رقص رونده چون فلک باش",
       "CoupletIndex": 113,
       "SectionIndex1": 0,
-      "SectionIndex2": 115
+      "SectionIndex2": 115,
+      "CoupletSummary": "در این رقص همچون فلک، رونده و چابک باش؛ حتی اگر راه تو پر از خار و تیغ است."
     },
     {
       "VOrder": 228,
@@ -3205,7 +3319,8 @@
       "Text": "مرکب بده و پیادگی کن",
       "CoupletIndex": 114,
       "SectionIndex1": 0,
-      "SectionIndex2": 116
+      "SectionIndex2": 116,
+      "CoupletSummary": "هوش مصنوعی: به تو پیشنهاد می‌کنم که با شجاعت و قاطعیت پیش بروی و حتی اگر در موقعیتی سخت قرار گرفتی، به خوبی واکنش نشان دهی و از آن موقعیت درس بگیری."
     },
     {
       "VOrder": 230,
@@ -3221,7 +3336,8 @@
       "Text": "بار همه می‌کش ار توانی",
       "CoupletIndex": 115,
       "SectionIndex1": 0,
-      "SectionIndex2": 117
+      "SectionIndex2": 117,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌توانی، بار سنگینی را که به دوش می‌کشی، بهتر بکش و اگر نمی‌توانی، از زیر بار آن خارج نشو."
     },
     {
       "VOrder": 232,
@@ -3237,7 +3353,8 @@
       "Text": "تا چون تو بیفتی از سر کار",
       "CoupletIndex": 116,
       "SectionIndex1": 0,
-      "SectionIndex2": 118
+      "SectionIndex2": 118,
+      "CoupletSummary": "هوش مصنوعی: وقتی که تو از موقعیت خود نزول کنی و دیگران از توانایی و قدرتت بهره‌مند نشوند، همه به راحتی تو را به دوش خواهند کشید و از تو حمایت نخواهند کرد."
     },
     {
       "VOrder": 234,
@@ -3253,7 +3370,8 @@
       "Text": "ساقی می ارغوانی‌ام ده",
       "CoupletIndex": 117,
       "SectionIndex1": 0,
-      "SectionIndex2": 119
+      "SectionIndex2": 119,
+      "CoupletSummary": "هوش مصنوعی: ای ساقی، برای من شراب ارغوانی بیاور و در زندگی‌ام یاری کن."
     },
     {
       "VOrder": 236,
@@ -3269,7 +3387,8 @@
       "Text": "آن می‌که چو با مزاج سازد",
       "CoupletIndex": 118,
       "SectionIndex1": 0,
-      "SectionIndex2": 120
+      "SectionIndex2": 120,
+      "CoupletSummary": "هوش مصنوعی: کسی که با خلق و خوی دیگران سازگاری داشته باشد، جانش را از نو جوان می‌کند و دل دیگران را شاد می‌سازد."
     },
     {
       "VOrder": 238,
@@ -3285,7 +3404,8 @@
       "Text": "زین دامگه اعتکاف بگشای",
       "CoupletIndex": 119,
       "SectionIndex1": 0,
-      "SectionIndex2": 121
+      "SectionIndex2": 121,
+      "CoupletSummary": "هوش مصنوعی: از این لحظه که در این مکان فرود آمده‌ای، داوطلبانه ضعف و ناتوانی خود را بپذیر و به آن اعتراف کن."
     },
     {
       "VOrder": 240,
@@ -3301,7 +3421,8 @@
       "Text": "در راه تلی بدین بلندی",
       "CoupletIndex": 120,
       "SectionIndex1": 0,
-      "SectionIndex2": 122
+      "SectionIndex2": 122,
+      "CoupletSummary": "هوش مصنوعی: روی این تپه‌ی بلند نباید بی‌پروا و مغرور باشی، زیرا دیگران هم توانایی و قدرت دارند."
     },
     {
       "VOrder": 242,
@@ -3317,7 +3438,8 @@
       "Text": "با یک سپرِ دریده چون گل",
       "CoupletIndex": 121,
       "SectionIndex1": 0,
-      "SectionIndex2": 123
+      "SectionIndex2": 123,
+      "CoupletSummary": "هوش مصنوعی: با یک سپر پاره مانند گل، تا کی می‌خواهی شلوغ‌کاری کنی مثل بلبل؟"
     },
     {
       "VOrder": 244,
@@ -3333,7 +3455,8 @@
       "Text": "ره پر شکن است پر بیفکن",
       "CoupletIndex": 122,
       "SectionIndex1": 0,
-      "SectionIndex2": 124
+      "SectionIndex2": 124,
+      "CoupletSummary": "هوش مصنوعی: راه دشوار و پر خطر است، لذا اگر می‌خواهی بر موانع غلبه کنی، باید با تمام قدرت و بدون ترس به جلو حرکت کنی و از هیچ چیزی ممانعت نکنی."
     },
     {
       "VOrder": 246,
@@ -3349,7 +3472,8 @@
       "Text": "تا بارگیِ تو پیش تازد",
       "CoupletIndex": 123,
       "SectionIndex1": 0,
-      "SectionIndex2": 125
+      "SectionIndex2": 125,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که زیبایی تو در دلها درخشش دارد، آسمان به خاطر تو به تماشای تو خواهد نشست."
     },
     {
       "VOrder": 248,
@@ -3365,7 +3489,8 @@
       "Text": "یکباره بیفت ازین سواری",
       "CoupletIndex": 124,
       "SectionIndex1": 0,
-      "SectionIndex2": 126
+      "SectionIndex2": 126,
+      "CoupletSummary": "هوش مصنوعی: یک‌دفعه از این سوار رها شو تا راه نجات را پیدا کنی."
     },
     {
       "VOrder": 250,
@@ -3381,7 +3506,8 @@
       "Text": "بینی که چو مه شکسته گردد",
       "CoupletIndex": 125,
       "SectionIndex1": 0,
-      "SectionIndex2": 127
+      "SectionIndex2": 127,
+      "CoupletSummary": "آیا نمی‌بینی وقتی که ماه شکسته (و فروتن) می‌شود، از عقده رخم خلاص می‌شود؟"
     },
     {
       "VOrder": 252,
@@ -3397,7 +3523,8 @@
       "Text": "ساقی به نفس رسید جانم",
       "CoupletIndex": 126,
       "SectionIndex1": 0,
-      "SectionIndex2": 128
+      "SectionIndex2": 128,
+      "CoupletSummary": "هوش مصنوعی: ای ساقی، با نفس خود جانم را زنده کن و دهانم را با مای زلال پر کن."
     },
     {
       "VOrder": 254,
@@ -3413,7 +3540,8 @@
       "Text": "آن می که نخورده جای جان است",
       "CoupletIndex": 127,
       "SectionIndex1": 0,
-      "SectionIndex2": 129
+      "SectionIndex2": 129,
+      "CoupletSummary": "هوش مصنوعی: آن شرابی که نخورده، باعث زندگی و روح آدمی است، و هنگامی که نوشیده شود، بهبود دهنده روح و جان خواهد بود."
     },
     {
       "VOrder": 256,
@@ -3429,7 +3557,8 @@
       "Text": "فارغ منشین که وقت کوچ است",
       "CoupletIndex": 128,
       "SectionIndex1": 0,
-      "SectionIndex2": 130
+      "SectionIndex2": 130,
+      "CoupletSummary": "هوش مصنوعی: غمگین نباش و خود را در یاورهای دیگران غرق نکن، چون زمان رهایی از این شرایط نزدیک است و نادانی و کاستی‌ها نمی‌توانند تو را متوقف کنند."
     },
     {
       "VOrder": 258,
@@ -3445,7 +3574,8 @@
       "Text": "تو آبله‌پای و راه دشوار",
       "CoupletIndex": 129,
       "SectionIndex1": 0,
-      "SectionIndex2": 131
+      "SectionIndex2": 131,
+      "CoupletSummary": "هوش مصنوعی: تو با مشکلات و دردسرها مواجه هستی، پس چطور می‌توانی به هدف‌هایت برسی؟"
     },
     {
       "VOrder": 260,
@@ -3461,7 +3591,8 @@
       "Text": "یا رخت خود از میانه بربند",
       "CoupletIndex": 130,
       "SectionIndex1": 0,
-      "SectionIndex2": 132
+      "SectionIndex2": 132,
+      "CoupletSummary": "هوش مصنوعی: یا اینکه از میان برداری حجاب خود را، یا اینکه خودت را در معرض قضا و قدر روزگار قرار دهی و در شرایطش گیر کنی."
     },
     {
       "VOrder": 262,
@@ -3477,7 +3608,8 @@
       "Text": "صحبت چو غله نمی‌دهد باز",
       "CoupletIndex": 131,
       "SectionIndex1": 0,
-      "SectionIndex2": 133
+      "SectionIndex2": 133,
+      "CoupletSummary": "هوش مصنوعی: وقتی صحبت‌ها مانند دانه‌های غله نیست که بتوانند روح را سیراب کنند، بهتر است در مکانی خلوت و دور از شلوغی قرار بگیریم تا آرامش پیدا کنیم."
     },
     {
       "VOrder": 264,
@@ -3493,7 +3625,8 @@
       "Text": "بی‌نقش صحیفه چند خوانی؟",
       "CoupletIndex": 132,
       "SectionIndex1": 0,
-      "SectionIndex2": 134
+      "SectionIndex2": 134,
+      "CoupletSummary": "هوش مصنوعی: بدون وجود نقش و تصویر، خواندن صفحه‌ای چه فایده‌ای دارد؟ و بدون آب، کشیدن کشتی در دریا چه معنایی دارد؟"
     },
     {
       "VOrder": 266,
@@ -3509,7 +3642,8 @@
       "Text": "آن به که نظامیا در این راه",
       "CoupletIndex": 133,
       "SectionIndex1": 0,
-      "SectionIndex2": 135
+      "SectionIndex2": 135,
+      "CoupletSummary": "هوش مصنوعی: بهتر است که مانند خضر، در این مسیر به چشمه‌ای بیفتی و آرامش و روزنه‌های نوین را پیدا کنی."
     },
     {
       "VOrder": 268,
@@ -3525,7 +3659,8 @@
       "Text": "سیراب شوی چو دُر مکنون",
       "CoupletIndex": 134,
       "SectionIndex1": 0,
-      "SectionIndex2": 136
+      "SectionIndex2": 136,
+      "CoupletSummary": "هوش مصنوعی: اگر از عشق پاک و زلال بهره‌مند شوی، همانند دُری ارزشمند و پنهان سیراب و غنی خواهی شد."
     },
     {
       "VOrder": 270,

@@ -431,7 +431,8 @@
       "Text": "شبگیر که چرخ لاجوردی",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "در هنگام شبگیر که آسمان، کبودی را با زردی طلایی آراسته کرد."
     },
     {
       "VOrder": 2,
@@ -447,7 +448,8 @@
       "Text": "خندیدن قرص آن گل زرد",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "و خورشید طلایی لبخند زد و آفاق را همچون گل سرخ‌، شاد و سرحال کرد."
     },
     {
       "VOrder": 4,
@@ -463,7 +465,8 @@
       "Text": "مجنون چو گل خزان رسیده",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "مجنون همچون برگ خزان در جوی اشک خویش می‌رفت و سرگردان بود"
     },
     {
       "VOrder": 6,
@@ -479,7 +482,8 @@
       "Text": "زان آب که بر وی آتش افشاند",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "اشکی می‌ریخت که او را هر دم می‌سوخت و همچون باد بسوی بیابان می‌رفت."
     },
     {
       "VOrder": 8,
@@ -495,7 +499,8 @@
       "Text": "از گرمی آفتاب سوزان",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "وقتی که نیمروز و از داغی خورشید سوزان، سوخت و تشنه گشت."
     },
     {
       "VOrder": 10,
@@ -511,7 +516,8 @@
       "Text": "چون سایه نداشت هیچ رختی",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "او که همچون دیو، (برهنه) بود و لباسی نداشت در سایه درختی نشست."
     },
     {
       "VOrder": 12,
@@ -527,7 +533,8 @@
       "Text": "در سایهٔ آن درخت عالی",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "در سایه آن درخت خوش و بلند، و از آبهای اطراف، برکه‌ای درست شده بود."
     },
     {
       "VOrder": 14,
@@ -543,7 +550,8 @@
       "Text": "حوضی شده چون فلک مدور",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "حوضی خوش‌ریخت و گرد درست شده بود و آبی خوش و پاک داشت همچون آب چشمه بهشت."
     },
     {
       "VOrder": 16,
@@ -559,7 +567,8 @@
       "Text": "پیرامن آب سبزه رسته",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "در اطراف آن آب‌، سبزه روییده بود؛ هم سبزه‌‌، خوش‌رنگ و تمیز بود و هم آب تمیز و پاک. (روی‌شسته یعنی پاک و تمیز)"
     },
     {
       "VOrder": 18,
@@ -575,7 +584,8 @@
       "Text": "آن تشنه ز گرمی جگر تاب",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "وقتی که مجنون تشنه و جگرتافته از آن آب نوشید و همچون سبزه، تازه شد."
     },
     {
       "VOrder": 20,
@@ -591,7 +601,8 @@
       "Text": "آسود زمانی از دویدن",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "از راه رفتن طولانی و دویدن زیاد، استراحتی کرد و از آنکه زیاد گفته بود و هیچ همدمی نیافته بود."
     },
     {
       "VOrder": 22,
@@ -607,7 +618,8 @@
       "Text": "زان مفرش همچو سبز دیبا",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "نگاهش را از سبزه‌های حریرمانند به سوی آن درخت زیبا دوخت و به درخت نگاه کرد."
     },
     {
       "VOrder": 24,
@@ -623,7 +635,8 @@
       "Text": "بر شاخ نشسته دید زاغی",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "بر شاخه آن درخت زاغی نشسته بود‌؛‌ زاغی زیباچشم با چشم‌هایی درخشان."
     },
     {
       "VOrder": 26,
@@ -639,7 +652,8 @@
       "Text": "چون زلف بتان سیاه و دلبند",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "سیاه بود همچون زلف بتان زیباروی دلبر، که زلفشان دل را می‌رباید."
     },
     {
       "VOrder": 28,
@@ -655,7 +669,8 @@
       "Text": "صالح مرغی چو ناقه خاموش",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "مرغی آرام بود و همچون ناقه ساکت نشسته بود و همچون قوم صالح سیاه‌پوش."
     },
     {
       "VOrder": 30,
@@ -671,7 +686,8 @@
       "Text": "بر شاخ نشسته چست و بینا",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "بر آن شاخه‌، هوشیار و بینا نشسته بود و همچون سنگ شبه‌ی بود که در میان سنگ‌های زمرد افتاده باشد. (سنگ شَبَه سنگی است بسیار سیاه و براق، مینا در اینجا یعنی سنگ زمرد و منظور سبزی آن درخت است)"
     },
     {
       "VOrder": 32,
@@ -687,7 +703,8 @@
       "Text": "مجنون چو مسافری چنان دید",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "مجنون وقتی مسافر و راهگذر را در آنجا نشسته دید و با او احساس همدلی کرد."
     },
     {
       "VOrder": 34,
@@ -703,7 +720,8 @@
       "Text": "گفت «ای سیه سپید نامه!",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "به زاغ گفت‌: ای سیاه درست‌کار و پاک! از دست چه‌کسی غمگین و عزادار هستی؟"
     },
     {
       "VOrder": 36,
@@ -719,7 +737,8 @@
       "Text": "شبرنگ چرایی؟ ای شب افروز",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "چرا همچون شب سیاه پوشیده‌ای ای چراغ و نوربخش شب! و روزگار و بخت تو چرا چنین سیاه شده است؟"
     },
     {
       "VOrder": 38,
@@ -735,7 +754,8 @@
       "Text": "بر آتش غم منم تو جوشی؟",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "من بر آتش غم نشسته‌ام تو چرا در جوشی؟ ..."
     },
     {
       "VOrder": 40,
@@ -751,7 +771,8 @@
       "Text": "گر سوخته‌دل نه خام‌رایی",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "اگر سوخته‌دل و غمگین نیستی و نادان هستی، پس چرا همچون عاشقان سوخته‌ای؟"
     },
     {
       "VOrder": 42,
@@ -767,7 +788,8 @@
       "Text": "ور سوخته‌وار گرم‌خیزی",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "و اگر عاشق هستی و از عشق سوخته‌ای، چرا از سوختگان عشق کناره می‌گیری؟"
     },
     {
       "VOrder": 44,
@@ -783,7 +805,8 @@
       "Text": "شاید که خطیب خطبه‌خوانی",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "شاید هم لباس تو از سوختن در عشق نیست و فقط یک خطبه‌خوان هستی که (به‌سبب ضرورت) لباس سیاه پوشیده‌ای."
     },
     {
       "VOrder": 46,
@@ -799,7 +822,8 @@
       "Text": "زنگی بچهٔ کدام سازی؟",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "غلام و عاشق کدام آواز خوش و نوا و ساز گشته‌ای؟ و بنده کدام زیباروی ترک‌تاز گشته‌ای؟"
     },
     {
       "VOrder": 48,
@@ -815,7 +839,8 @@
       "Text": "من شاه مگر تو چتر شاهی؟",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "یا اینکه من شاه هستم و تو همچون چتری سیاه بر سر من ایستاده‌ای؟ اگر اینطور نیست به من بگو چرا سیاه هستی؟"
     },
     {
       "VOrder": 50,
@@ -831,7 +856,8 @@
       "Text": "روزی که رسی به نزد یارم",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "روزی که یار مرا دیدی به او پیام مرا برسان و بگو بی‌تو بی‌خانمان شدم و از دست رفتم."
     },
     {
       "VOrder": 52,
@@ -847,7 +873,8 @@
       "Text": "دریاب که گر تو در نیابی",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "مرا دریاب که اگر تو در نیابی‌، در این خرابی و ویرانی نابود می‌شوم."
     },
     {
       "VOrder": 54,
@@ -863,7 +890,8 @@
       "Text": "گفتی که\u00A0 «مترس دستگیرم»",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "(مجنون در این پیغام به لیلی می‌گوید که) « به من گفتی که دستگیرت هستم » و (خود ادامه می‌دهد که) « ترسم در حسرت آن‌روز بمیرم»"
     },
     {
       "VOrder": 56,
@@ -879,7 +907,8 @@
       "Text": "روزی آیی که مرده باشم",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "روزی به سراغ من خواهی آمد که من مرده‌ام و عشق و محبت تو را با خود به خاک برده‌ام."
     },
     {
       "VOrder": 58,
@@ -895,7 +924,8 @@
       "Text": "بینایی دیده چون بریزد",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "وقتی که دیده نابینا شود آنوقت توتیا چه سود دارد؟"
     },
     {
       "VOrder": 60,
@@ -911,7 +941,8 @@
       "Text": "چون گرگ بره ز میش بربود",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "وقتی که گرگ، بره را از میش برباید، فریاد و هیاهوی چوپان چه سود دارد؟"
     },
     {
       "VOrder": 62,
@@ -927,7 +958,8 @@
       "Text": "چون سیل خراب کرد بنیاد",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "وقتی که سیل، خانه را از بنیاد ویران کند، دیوار پولادی یا دیوار کاهگلی چه فرقی دارند؟"
     },
     {
       "VOrder": 64,
@@ -943,7 +975,8 @@
       "Text": "چون کِشتهٔ خشک ماند بی‌بر",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "وقتی که درخت و مزرعه، خشک‌ و بی‌ثمر شوند، در آن روز باریدن یا نباریدن ابر چه تفاوت می‌کند؟"
     },
     {
       "VOrder": 66,
@@ -959,7 +992,8 @@
       "Text": "این تیرِ زبان گشاده گستاخ",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "این یعنی مجنون (این در اینجا ضمیر است) مجنون به‌سوی زاغ تیر سخن می‌زد و زاغ از این شاخه به شاخه دیگر می‌رفت."
     },
     {
       "VOrder": 68,
@@ -975,7 +1009,8 @@
       "Text": "او پرّ سخن دراز کرده",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "مجنون سخن را طولانی کرده بود و زاغ قصد رفتن."
     },
     {
       "VOrder": 70,
@@ -991,7 +1026,8 @@
       "Text": "چون گفت بسی فسانه با زاغ",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "وقتی که بسیار با آن زاغ سخن گفت، زاغ او را ترک کرد و بر دل مجنون غم و داغی نهاد."
     },
     {
       "VOrder": 72,
@@ -1007,7 +1043,8 @@
       "Text": "شب چون پر زاغ بر سر آورد",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "وقتی که شب رسید و همچون زاغ سیاه روی نمود و شب‌پره‌ها به پرواز درآمدند. (شب‌پره یعنی خفاش که با آغاز شب به پرواز در‌می‌آیند)"
     },
     {
       "VOrder": 74,
@@ -1023,7 +1060,8 @@
       "Text": "گفتی که ستارگان چراغند",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "تو گویی که ستارگان همچون چراغ و شمع بودند از بس که آسمان را روشن کرده بودند و یا همچون چشم زاغ می‌درخشیدند بر سیاهی پرهای زاغ."
     },
     {
       "VOrder": 76,
@@ -1039,7 +1077,8 @@
       "Text": "مجنون چو شب چراغ مرده",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "مجنون همچون شب غمگین و بی‌شمع، ناامید افتاده بود و چشمانش خیره شده بود. (یا مجنون همچون شب‌چراغی خاموش ....)"
     },
     {
       "VOrder": 78,
@@ -1055,7 +1094,8 @@
       "Text": "می‌ریخت سرشک دیده تا روز",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "آن‌شب تا صبحدم همچون شمع سوخت و اشک ریخت."
     },
     {
       "VOrder": 80,

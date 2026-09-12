@@ -211,7 +211,8 @@
       "Text": "گفتن از بهر کار در کار است",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: در اینجا سخن گفتن فقط برای انجام کار و عمل مهم است و در غیر این صورت، صحبت کردن معنی ندارد."
     },
     {
       "VOrder": 2,
@@ -227,7 +228,8 @@
       "Text": "مهر مجنون و گرمی فرهاد",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: عشق مجنون و دلسوزی فرهاد تا ابد در خاطر مردم باقی خواهد ماند."
     },
     {
       "VOrder": 4,
@@ -243,7 +245,8 @@
       "Text": "ذکر لیلی و قصه شیرین",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: یادآوری داستان لیلی و قصه شیرین به خاطر لذت و شادابی آن است، مانند شیرینی شکر که دل را شاد می‌کند."
     },
     {
       "VOrder": 6,
@@ -259,7 +262,8 @@
       "Text": "که به شهوت نظر نیالودند",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: افراد خوب و پاک‌منش که تحت تأثیر شهوت و تمایلات نفسانی قرار نگرفته‌اند، همواره در نظرات و رفتارهایشان از پاکی و شفافیت برخوردارند."
     },
     {
       "VOrder": 8,
@@ -275,7 +279,8 @@
       "Text": "غرض از مهرشان نبد خامی",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: هدف از محبتشان خامی نبود، بلکه هر دو از خوبی‌ها بهره‌ور شدند."
     },
     {
       "VOrder": 10,
@@ -291,7 +296,8 @@
       "Text": "مهر محمود با جمال ایاز",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: دوستی و محبت محمود و زیبایی ایاز در طول تاریخ زبانزد مردم شده است."
     },
     {
       "VOrder": 12,
@@ -307,7 +313,8 @@
       "Text": "دید بسیار دیدهٔ ایام",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: در این دنیا، با گذشت زمان و تحت تاثیر قدرت و سلطنت، تفاوت‌های ظاهری و جذابیت‌های دنیوی نظیر رنگ و عطر، بر روی انسان‌ها و زندگی‌ها تأثیرگذار است."
     },
     {
       "VOrder": 14,
@@ -323,7 +330,8 @@
       "Text": "حال ایشان کسی نیارد یاد",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس حال آن‌ها را در یاد ندارد، یادآور باد و هوا، و دنیا و وابستگی‌های جسمی نیست."
     },
     {
       "VOrder": 16,
@@ -339,7 +347,8 @@
       "Text": "فوق محمود بود روحانی",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: روحانی و الهی فراتر از محمود است؛ چرا که وقتی جسم فانی می‌شود، آن روحانی باقی می‌ماند."
     },
     {
       "VOrder": 18,
@@ -355,7 +364,8 @@
       "Text": "نیک نامی و ذکر باقی خواه",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: برای اینکه نام نیکی از شما به یادگار بماند، باید با دل آگاهی زندگی کنید و از کافرین دوری کنید."
     },
     {
       "VOrder": 20,
@@ -371,7 +381,8 @@
       "Text": "بشنو از پیر کار دیده سخن",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: به حرف‌های فرد با تجربه‌ای گوش بده که می‌تواند مشکلاتت را حل کند و تو را از درد و غم رها سازد."
     },
     {
       "VOrder": 22,
@@ -387,7 +398,8 @@
       "Text": "مدد از صحبت لطیفی جوی",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: از گفتگوی دلنشین و زیبا مدد بگیر، مانند آبی که حیات را به ارمغان می‌آورد و راه را در جوی پیدا می‌کند."
     },
     {
       "VOrder": 24,
@@ -403,7 +415,8 @@
       "Text": "نرم خویی و گرم گفتاری",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: نرمی در رفتار و کلام گرم باعث می‌شود که انسان دانشی پاک و بدون تردید داشته باشد."
     },
     {
       "VOrder": 26,
@@ -419,7 +432,8 @@
       "Text": "قدمش بند بسته بگشاده",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: حرکت او به گونه‌ای است که درها به رویش باز شده و مهر و محبتش آرزویی برای زندگی به دیگران می‌بخشد."
     },
     {
       "VOrder": 28,
@@ -435,7 +449,8 @@
       "Text": "همچو خورشید ذات او روشن",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: او همچون خورشید است که روشنایی‌اش فراگیر است و برعکس، نه مثل ابرهای سیاهی که سایه‌اش را می‌افکنند."
     },
     {
       "VOrder": 30,
@@ -451,7 +466,8 @@
       "Text": "جانش ایمان و علم پرورده",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: دلش مملو از ایمان و دانشی است که عشق او را به زندگی رسانده و از وجودش سرشار کرده است."
     },
     {
       "VOrder": 32,
@@ -467,7 +483,8 @@
       "Text": "این هنرها اگر نیاید جمع",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: اگر این هنرها به دست نیاید، نباید از جستجوی دل و علاقه‌ات دست بکشی."
     },
     {
       "VOrder": 34,
@@ -483,7 +500,8 @@
       "Text": "پیش هر کس که این هنریابی",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: اگر در توانایی و هنر کسی شک داری، به او نزدیک نشو و به جستجوی توانایی‌هایش نرو، مگر این که یقین پیدا کنی که او شایستگی دارد."
     },
     {
       "VOrder": 36,

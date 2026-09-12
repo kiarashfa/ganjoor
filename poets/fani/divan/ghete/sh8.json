@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "ای فلان سوختی خلایق را",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای فلان، تو با شدت و خشونت خود به مردم آسیب رساندی و پادشاهی را ویران کردی."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "آتشی را که چون تو سوزنده است",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آتش سوزانی که تو به وجود می‌آوری، جز با از بین بردنت قابل درمان نیست."
     },
     {
       "VOrder": 4,

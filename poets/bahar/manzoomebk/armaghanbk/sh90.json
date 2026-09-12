@@ -65,7 +65,8 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "آسان پای (‌ضد گرانجان‌) باش تا روشن چشم باشی.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: آسان و راحت باش تا بتوانی به درستی ببینی و درک کنی."
     },
     {
       "VOrder": 2,
@@ -73,7 +74,8 @@
       "Text": "گرانی مکن در بر مهتران",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: اگر به بزرگان و افراد با توانایی‌های کمتر بی‌احترامی کنی، بهتر است که بی‌وزن و بی‌ارزش باشی تا اینکه با افراد مهم و با ارزش به تاخت و تاز بپردازی."
     },
     {
       "VOrder": 3,
@@ -89,7 +91,8 @@
       "Text": "چو اندک‌روی زود خیزی ز جای",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: اگر کمی از بستر خود برخواسته و زودتر از دیگران بیدار شوی، سعادتی می‌بینی که به روشنایی می‌انجامد."
     },
     {
       "VOrder": 5,
@@ -105,7 +108,8 @@
       "Text": "به دیدار تو شادمانی کند",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: با دیدن تو، شاداب و خوشحال می‌شود و با دل خوش از میزبانی تو لذت می‌برد."
     },
     {
       "VOrder": 7,
@@ -121,7 +125,8 @@
       "Text": "چو اندر نشستن گرانی کنی",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: اگر بر روی صندلی نشسته و به میزبان فشار بیاوری، او را به زحمت و درد می‌اندازی."
     },
     {
       "VOrder": 9,

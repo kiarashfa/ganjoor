@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "با دادهٔ حق اگر تو راضی باشی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر از داده‌های حقی که به تو رسیده راضی باشی، دیگر از خودخواسته‌ها و خواسته‌های خود چه نیازی داری؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "راضی شو و خوش باش که یک هفته دگر",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خودت را راضی کن و شاد باش، چون هفته‌ای دیگر خواهد آمد که تو در حال حاضر فقط یاد آن را خواهی داشت."
     },
     {
       "VOrder": 4,

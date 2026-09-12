@@ -157,7 +157,8 @@
       "Text": "ما را چه که باغ لاله دارد",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ما چه اتفاقی باید بیفتد که باغ لاله‌ای وجود داشته باشد یا اینکه دیگران در حال ناله و گله‌گذاری باشند؟ این‌ها برای ما اهمیتی ندارد."
     },
     {
       "VOrder": 2,
@@ -173,7 +174,8 @@
       "Text": "ما را چه که گربه می کند تخم",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: ما چه ارتباطی به کارهای دیگران داریم؟ کارهای دیگران به ما مربوط نیست و نباید نگران آنها باشیم."
     },
     {
       "VOrder": 4,
@@ -189,7 +191,8 @@
       "Text": "ما را چه که گوش خر دراز است",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: ما چه کار داریم که گوش خر دراز است یا چشم گرگ باز است؟ یعنی به چیزهایی که به ما ربطی ندارند، اهمیت نمی‌دهیم."
     },
     {
       "VOrder": 6,
@@ -205,7 +208,8 @@
       "Text": "ما را چه که حمله می کند ببر",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: ما را به حمله‌ی ببر چه کار، یا اینکه باران از ابر می‌بارد چه اهمیتی دارد برای ما؟"
     },
     {
       "VOrder": 8,
@@ -221,7 +225,8 @@
       "Text": "ما را چه که شاخ گاو تیز است",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: ما چه نیازی به نگرانی درباره‌ی مشکلات دیگران داریم؟ مشکلات و دردسرهای آنها به ما ارتباطی ندارد."
     },
     {
       "VOrder": 10,
@@ -237,7 +242,8 @@
       "Text": "ما را چه که جنده چشم دارد",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: ما چه کار داریم با اینکه او چشمان زیبا دارد یا موهایش زیباست؟ این مسائل برای ما مهم نیست."
     },
     {
       "VOrder": 12,
@@ -253,7 +259,8 @@
       "Text": "ما را چه که میش بره دارد",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: ما چه کار به این داریم که دیگران چه دارند یا چه نمی دارند. فرقی به حال ما نمی‌کند."
     },
     {
       "VOrder": 14,
@@ -269,7 +276,8 @@
       "Text": "ما را چه به جنگ روس و ژاپن",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: ما چه کاری به درگیری بین روسیه و ژاپن داریم یا حمله‌ی بالن و اژدها؟"
     },
     {
       "VOrder": 16,
@@ -285,7 +293,8 @@
       "Text": "ما در غم خویش ناله داریم",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: ما از درد و غم خود با ناراحتی و ناله سخن می‌گوییم، چونکه اندوه ما به اندازه‌ای عمیق و طولانی است که گویا هزار سال بر ما گذشته است."
     },
     {
       "VOrder": 18,
@@ -301,7 +310,8 @@
       "Text": "هستیم چو مرغ پر شکسته",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: ما مانند پرنده‌ای هستیم که به خاطر تیر تقدیر زخمی و پژمرده شده است."
     },
     {
       "VOrder": 20,
@@ -317,7 +327,8 @@
       "Text": "نه جفت و نه آب و دانه داریم",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: در حال حاضر نه همدمی داریم و نه چیزی برای زندگی، نه خانه‌ای داریم و نه مکانی برای آرامش."
     },
     {
       "VOrder": 22,
@@ -333,7 +344,8 @@
       "Text": "ما شکوه زبخت خویش داریم",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: ما به سرنوشت خود شکایت داریم و در دل، درد و غم را حس می‌کنیم."
     },
     {
       "VOrder": 24,
@@ -349,7 +361,8 @@
       "Text": "ما پشه دام عنکبوتیم",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: ما مانند پشه‌ای هستیم که در دام عنکبوت گرفتار شده‌ایم و در بیابان فقط باد بر چهره‌ام می‌وزد."
     },
     {
       "VOrder": 26,
@@ -365,7 +378,8 @@
       "Text": "بی توشه علم و مایه فن",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: بی‌کسی و بدون دانش و تجربه، در کوچه و خیابان سرگردان و بی‌هدف مانده‌ام."
     },
     {
       "VOrder": 28,
@@ -381,7 +395,8 @@
       "Text": "بی خاصیت کمال و تقوی",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: بی فایده است اگر فقط به ظاهر کمال و تقوا بپردازیم و بدون داشتن فضائل واقعی و هنر، خود را در آن زمینه‌ها بزرگ جلوه دهیم."
     },
     {
       "VOrder": 30,
@@ -396,7 +411,8 @@
       "Position": "Right",
       "Text": "انواع هنر به خویش بندیم",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: انواع هنرها را به خود جذب می‌کنیم، اما در نهایت بی‌فایده است که به وضعیت خود بخندیم."
     },
     {
       "VOrder": 32,

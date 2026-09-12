@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ما از غم تو شدیم سودایی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما به خاطر غم تو دچار پریشانی و بی‌قراری شده‌ایم، ای دوست، پس چرا هیچ وقت نمی‌آیی حتی برای یک لحظه؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "بر ما گذری نمیکنی گه گه",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو هر از گاهی از کنار ما عبور می‌کنی، اما هیچ‌گاه توقف نمی‌کنی و لحظه‌ای در کنار ما نمی‌مانی."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "تا تو نظری به ما و من کردی",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی تو به ما توجه کردی، وجود واقعی ما از حالت عادی خارج شد و به نوعی تغییر کرد."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "جایی که منیِّ عشق بنشیند",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جایی که احساس عشق وجود دارد، از آنجا تمام منیت‌ها و خودخواهی‌ها کنار می‌رود و به جای آن، احساس همدلی و جمع بودن شکل می‌گیرد."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "تا امر نشد ز ابتدا فایض",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای این که به درک و دانایی برسیم، باید ابتدا فهم و عقل را به دست آوریم. بدون این درک اولیه، هیچ‌گونه پیشرفتی در دانش و آگاهی حاصل نخواهد شد."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "بیزار ز ما و من شدیم آخر",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما از خودخواهی و نفاق دوری گزیدیم و به نوعی به رهایی رسیدیم."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "شاید که به طعنه دشمنان گویند",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شاید دشمنان به طعنه بگویند که ای دوست، تو به دوستان خود وفا نمی‌کنی."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "منظورِ تو یار با تو بنماید",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی دوستت تو را بهتر بشناسد، باید ناخالصی‌ها و زوایای پنهان وجودت را کنار بگذاری و خود واقعی‌ات را به او نشان دهی."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "ارواح جنود شد جنود ارواح",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روح‌ها مانند سربازانی هستند که تحت فرمان تو در کارهای خودت قرار دارند."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "خم‌خانه ی می به خانقه گیری",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی در دل میخانه خوش بگذرانی، ابتدا باید دل خانه‌ی معرفت را زینت ببخشی."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "پالونه بیار و می به راوق کن",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پالونه بیار و می ریخته را به راه بینداز تا مدت کوتاهی، اشک‌هایت را پاک کنی."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "پیرامنِ مصلحت نگردی بیش",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بیش از حد به فکر مصلحت خود باشی، ممکن است به گناه و معصیت دامن بزنی."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "زنّارِ مغان اگر نمی‌بندم",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه به کمربند مغان نمی‌بندم، اما بدون آن‌ها از زیبایی‌های محبوبان محرومم."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "آن قصّه‌ شنیده‌ام که بعد از حج",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: داستانی را که شنیده‌ام این است که پس از انجام مناسک حج، شیخ صنعایی به بت صلیب اعتقاد پیدا کرده است."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "بر شیوه ی او نزاریا کردی",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به روش او، زنی نزارا، با موی سپید و سالخورده، به جوانی اقتدا کردی."
     },
     {
       "VOrder": 30,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "جام می گر به دست ما برسد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر این جام می به دست ما برسد، حتی یک گدا هم به مقام پادشاهی خواهد رسید."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "لب جام شراب اگر بوسم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر لب جام شراب را ببوسم، صدای خوشی به دل بی‌نوا می‌رسد."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "دُردی درد دل اگر نوشم",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر من از درد و دل خود بگویم، ممکن است درمانی برای دردهایم پیدا کنم."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "گر جفا و وفا رسد ما را",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به ما بی‌مهری کنند یا محبت، برایمان مهم نیست؛ هر چه از طرف خدا به ما بیاید، خوشحال خواهیم بود."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "هر که فانی شود از این خانه",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که از این دنیا بگذرد و به فنا دست یابد، به سرای جاودان و بقا خواهد رسید."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "بحر عشق است و ما در او غرقیم",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دریای عشق وجود دارد و ما در آن غوطه‌وریم. هر کسی که بیاید، به آشنایی خواهد رسید."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "نعمت الله را به دست آرد",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر غریبی که به ما نزدیک شود، می‌تواند نعمت‌های خداوند را به دست آورد."
     },
     {
       "VOrder": 14,

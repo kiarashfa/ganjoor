@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "با دبیر مرد همال (‌خصم‌) مباش‌.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: با دشمن خود دوست نباش."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "سخنگوی داننده را دوست گیر",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوست داشتن کسی که سخنان حکیمانه و دانایی دارد، ارزشمند است. از خشم و عصبانیت فرد عالم و با تجربه اجتناب کن."
     },
     {
       "VOrder": 3,
@@ -46,7 +48,8 @@
       "Position": "Right",
       "Text": "مزن پنجه با مرد دانش‌پژوه",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با افرادی که علم و دانش دارند به تندی و خشونت برخورد نکن، ممکن است آن‌ها در آینده به دشمنانی برای تو تبدیل شوند."
     },
     {
       "VOrder": 5,

@@ -291,7 +291,8 @@
       "Text": "کرد حاتم را سؤال آن مرد خام",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: مردی از حاتم سؤال کرد که تو از کجا هر روز غذا به دست می‌آوری."
     },
     {
       "VOrder": 2,
@@ -307,7 +308,8 @@
       "Text": "گفت حاتم تا که جان دارم بجای",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: حاتم می‌گوید که تا زمانی که زنده هستم، باید در زندگی‌ام قوت و نیرویم را از خزانه الهی بگیرم."
     },
     {
       "VOrder": 4,
@@ -323,7 +325,8 @@
       "Text": "مرد گفتش تو بسالوس و برنگ",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: مرد به او گفت: تو واقعا به دنبال سلطنت و قدرت هستی و به خاطر آن اموال مسلمانان را به چنگ می‌آوری."
     },
     {
       "VOrder": 6,
@@ -339,7 +342,8 @@
       "Text": "روز و شب مال مسلمانان بری",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: روز و شب متعلق به مسلمانان است، بنابراین اگر آن را در نادرستی خرج کنی، در نهایت عواقب بدش را خواهی دید."
     },
     {
       "VOrder": 8,
@@ -355,7 +359,8 @@
       "Text": "حاتمش گفتا که ای مرد عزیز",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: حاتم طایی به شخصی که در برابرش قرار دارد می‌گوید: ای مرد بزرگ و محترم، من هرگز از تو چیزی نخورده‌ام."
     },
     {
       "VOrder": 10,
@@ -371,7 +376,8 @@
       "Text": "گفت نه گفتا مسلمان پس نهٔ",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی ادعای مسلمان بودن دارد، نباید به بدن خود آسیب برساند؛ چون کسی این حرف را به زبان نمی‌آورد."
     },
     {
       "VOrder": 12,
@@ -387,7 +393,8 @@
       "Text": "سایلش گفتا که حجت می میار",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: سائل به او گفت که دلیل و حجتی برای طلبت نیاور. او در پاسخ گفت که خداوند خود از ما دلیل و حجت خواهد خواست."
     },
     {
       "VOrder": 14,
@@ -403,7 +410,8 @@
       "Text": "گفت میخواهی که چون کارت خطاست",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی که وقتی کارهایت نادرست است، این اشتباهات را به درستی بیان کنی، باید به دنبال اصلاح و بهبود خودت باشی."
     },
     {
       "VOrder": 16,
@@ -419,7 +427,8 @@
       "Text": "گفت از هفت آسمان آمد سخن",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: از هفت آسمان پیام آمد و سخن از خدا نیز در میان آمد."
     },
     {
       "VOrder": 18,
@@ -435,7 +444,8 @@
       "Text": "مادرت چون شوهری کرد اختیار",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: مادرت زمانی که شوهر کرد، زندگی‌اش دگرگون شد و از یک کلام همه چیز آغاز شد."
     },
     {
       "VOrder": 20,
@@ -451,7 +461,8 @@
       "Text": "سایلش گفتا تو کرده خوش نشست",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: سائل به او گفت: تو که با آرامش نشسته‌ای، بدان که روزی بد به دست نمی‌آید و از آسمان برایت نخواهد آمد."
     },
     {
       "VOrder": 22,
@@ -467,7 +478,8 @@
       "Text": "گفت روزی همه خلق جهان",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: روزی خواهد آمد که تمام مردم دنیا مثل امروز من، از آسمان بر زمین خواهند آمد."
     },
     {
       "VOrder": 24,
@@ -483,7 +495,8 @@
       "Text": "کانکه او دارندهٔ جان و جهانست",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: کسی که صاحب زندگی و کل جهان است، روزی گفت که همه چیز در آسمان قرار دارد."
     },
     {
       "VOrder": 26,
@@ -499,7 +512,8 @@
       "Text": "گفت دایم پای در دامن ترا",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: او گفت: همیشه در دامن تو پای گذاشته‌ام و از پنجره تو به دنیای خارج نگاه می‌کنم."
     },
     {
       "VOrder": 28,
@@ -515,7 +529,8 @@
       "Text": "گفت بودم درشکم نه ماه من",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: گفتم که در دل من نه ماه است، از روزنه‌ای به دنیا خواهیم آمد."
     },
     {
       "VOrder": 30,
@@ -531,7 +546,8 @@
       "Text": "سائلش گفتا بخسب اکنون ستان",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: سائل از او خواسته است که فعلاً استراحت کند و آرام باشد تا روزی بهتر برای او فرا برسد و بر مشکلاتش غلبه کند."
     },
     {
       "VOrder": 32,
@@ -547,7 +563,8 @@
       "Text": "گفت من قرب دو سال ای کوربین",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: او گفت: من به مدت دو سال در کنار تو بوده‌ام و مانند یک بچه در گهواره، ناتوان و بی‌خبر."
     },
     {
       "VOrder": 34,
@@ -563,7 +580,8 @@
       "Text": "من ستان خفته در آن مهد بزر",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: من در گهواره‌ای که بزرگ و وسیع است، خوابیده‌ام و شیر از دهانم به آرامی ریخته می‌شود."
     },
     {
       "VOrder": 36,
@@ -579,7 +597,8 @@
       "Text": "سایلش گفتا که باید کشت زود",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: سائل به او گفت: باید زود اینکار را انجام دهی، چرا که هیچکس هرگز با درود و سلام به مقصد نرسیده است."
     },
     {
       "VOrder": 38,
@@ -595,7 +614,8 @@
       "Text": "حاتمش گفتا که ای سرگشته من",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: حاتم گفت: ای گم‌شده در عشق، من در حال از دست دادن موهای سرم هستم، اما هنوز کشته نشده‌ام."
     },
     {
       "VOrder": 40,
@@ -611,7 +631,8 @@
       "Text": "گفت ناپخته بخور تا بنگرم",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: گفت: تا زمانی که نپخته بخوری، می‌توانم نظاره‌ات کنم. پاسخ داد: من هم مانند پرندگان نپخته می‌خورم."
     },
     {
       "VOrder": 42,
@@ -627,7 +648,8 @@
       "Text": "گفت زیر آب شو روزی طلب",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: روزی به کسی گفتند که برای به دست آوردن روزی باید مانند ماهی زیر آب بروی، او گفت که وقتی به زیر آب می‌روم، دیگر نمی‌توانم ماهی باشم و این امر برایم عجیب است."
     },
     {
       "VOrder": 44,
@@ -643,7 +665,8 @@
       "Text": "مرد عاجز گشت ازو حیران بماند",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: مردی از گفتار او به شدت متعجب شد و به حدی گیج و محجوب گردید که انگشت در دهانش گذاشت و ماند."
     },
     {
       "VOrder": 46,
@@ -659,7 +682,8 @@
       "Text": "عاقبت بر دست حاتم بازگشت",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: سرانجام، حاتم با دست خود به جایی رسید که توبه کرد و دوست و هم‌راز شد."
     },
     {
       "VOrder": 48,
@@ -675,7 +699,8 @@
       "Text": "لطف و رزق حق درین منزل طلب",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: اندوه و مشکلات درون دل را با طلب بخشش و روزی از جانب خداوند برطرف کن."
     },
     {
       "VOrder": 50,
@@ -691,7 +716,8 @@
       "Text": "چون همه زآنجایگه بینی مدام",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: زمانی که دائماً به جایی که در آن هستی نگاه کنی، کارهای تو از همان جا به سرانجام خواهد رسید."
     },
     {
       "VOrder": 52,

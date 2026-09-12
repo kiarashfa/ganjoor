@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "این خانه دگر چو نی نوایی دارد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این خانه دیگر مانند گذشته صدا و نوا ندارد و از اسرار درونش حال و هوای تازه‌ای پیدا کرده است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "یکسان نبود وضع سیاست دایم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وضعیت سیاست هر روز متفاوت است و هر روز نیاز به رویکرد خاص خود دارد."
     },
     {
       "VOrder": 4,

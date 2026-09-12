@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گفتی که کی آمد و کجا بود و کجاست؟",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو از من پرسیدی که کی آمد، کجا بود و الان کجاست؟ چرا اینقدر در مسیر تو، ای دوست، حیرت و سردرگمی وجود دارد؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "آن همچو من و تو استحالت نکند",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این شخص مثل من و تو تغییر نمی‌کند؛ اگر به آن نادرست نگاه کنی، نمی‌توانی حقیقت را ببینی."
     },
     {
       "VOrder": 4,

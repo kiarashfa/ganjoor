@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای صبح! اگر طلوع خواهی کردن",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای صبح! اگر می‌خواهی طلوع کنی، باید با کشته شدن من آغاز کنی."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "حقا که اگر رنجه شوی ز آه دلم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به راستی اگر دلم به خاطر زحمتی که کشیده‌ای غمگین شود، حتماً در نیمه راه تصمیم به بازگشت خواهی گرفت."
     },
     {
       "VOrder": 4,

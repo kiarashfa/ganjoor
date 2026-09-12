@@ -391,7 +391,8 @@
       "Text": "یکی نامه‌ای بر حریر سپید",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: کسی نامه‌ای بر پارچه سفید نوشت که در آن چندین نگرانی و آرزو وجود داشت."
     },
     {
       "VOrder": 2,
@@ -407,7 +408,8 @@
       "Text": "دبیری خردمند بنوشت خوب",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: نویسنده‌ای عاقل و دانا به خوبی بیان کرده است که در این دنیا، خوب و زشت در کنار هم وجود دارند و هر چیز زیبا ممکن است زشتی‌هایی هم داشته باشد."
     },
     {
       "VOrder": 4,
@@ -423,7 +425,8 @@
       "Text": "نخست آفرین کرد بر دادگر",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: ابتدا بر نیکوکاری که از او در دنیا هنر و فضیلت پیدا است، درود می‌فرستم."
     },
     {
       "VOrder": 6,
@@ -439,7 +442,8 @@
       "Text": "خرد داد و گردان سپهر آفرید",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: خرد به انسان آگاهی و دانایی می‌دهد و آسمان را به وجود می‌آورد. او سختی و تلخی را به همراه عشق و محبت خلق می‌کند."
     },
     {
       "VOrder": 8,
@@ -455,7 +459,8 @@
       "Text": "به نیک و به بد دادمان دستگاه",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: خداوند، نیک و بد را به ما داده و دایم جهان را با چرخش خورشید و ماه به پیش می‌برد."
     },
     {
       "VOrder": 10,
@@ -471,7 +476,8 @@
       "Text": "اگر دادگر باشی و پاک دین",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: اگر انسان خوبی باشی و دیانت پاکی داشته باشی، جز از خداوند، از هیچ کس دیگر چیز بدی نخواهی دید و تنها به خوبی و ستایش برخواهی خورد."
     },
     {
       "VOrder": 12,
@@ -487,7 +493,8 @@
       "Text": "وگر بدنشان باشی و بدکنش",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: اگر در جمع آنها باشی و رفتار ناپسندی از خود نشان بدهی، از آسمان بلند به تو سرزنش می‌شود."
     },
     {
       "VOrder": 14,
@@ -503,7 +510,8 @@
       "Text": "جهاندار اگر دادگر باشدی",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: اگر فرمانروای دنیا دادگر باشد، هیچ کس نمی‌تواند از دستورات او فرار کند."
     },
     {
       "VOrder": 16,
@@ -519,7 +527,8 @@
       "Text": "سزای تو دیدی که یزدان چه کرد",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: نتیجه کار تو را ببین که خداوند چگونه دیو و جادو را از تو دور کرد و تو را از آن‌ها نجات داد."
     },
     {
       "VOrder": 18,
@@ -535,7 +544,8 @@
       "Text": "کنون گر شوی آگه از روزگار",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اگر اکنون از وضعیت زندگی و نتایج آن آگاه شوی، عقل و فکرت می‌تواند بهترین راهنما برای تو باشد."
     },
     {
       "VOrder": 20,
@@ -551,7 +561,8 @@
       "Text": "همانجا بمان تاج مازندران",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: در اینجا به شخصی دستور داده می‌شود که در همان مکان بماند و در کنار این بارگاه، مانند فرزندان کوچک و مطیع رفتار کند."
     },
     {
       "VOrder": 22,
@@ -567,7 +578,8 @@
       "Text": "که با چنگ رستم ندارید تاو",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: در اینجا به کسی اشاره شده که اگرچه در قدرت و مهارت با رستم قابل مقایسه نیست، اما درخواست می‌شود که زودتر به آنها خدمت کند و آنچه را که نیاز دارند فراهم کند. این بیان نشان‌دهنده‌ی انتظار و نیاز به کمک است."
     },
     {
       "VOrder": 24,
@@ -583,7 +595,8 @@
       "Text": "وگر گاه مازندران بایدت",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: اگر زمانی به مازندران راهی پیدا کنی، تنها با این نشانه‌ها و نشانه‌گذاری‌ها می‌توانی مسیر خود را پیدا کنی."
     },
     {
       "VOrder": 26,
@@ -599,7 +612,8 @@
       "Text": "وگرنه چو ارژنگ و دیو سپید",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: اگر دل تو به دست موجودی شرور و خطرناک افتاد، باید از جان خود ناامید شوی."
     },
     {
       "VOrder": 28,
@@ -615,7 +629,8 @@
       "Text": "بخواند آن زمان شاه فرهاد را",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: در آن لحظه، شاه فرمان می‌دهد تا فرهاد را بخوانند، کسی که با اراده‌ای قوی و آهنین همچون تیغ پولاد به پیش می‌رود."
     },
     {
       "VOrder": 30,
@@ -631,7 +646,8 @@
       "Text": "گزین بزرگان آن شهر بود",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: بزرگان آن شهر از روی بیکاری انتخاب شدند و از رنج و سختی به حالتی ناخوشایند دچار بودند."
     },
     {
       "VOrder": 32,
@@ -647,7 +663,8 @@
       "Text": "بدو گفت کاین نامهٔ پندمند",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: او به او گفت: این نامهٔ پر از نصایح را ببر به سوی آن دیو که از بند رسته است."
     },
     {
       "VOrder": 34,
@@ -663,7 +680,8 @@
       "Text": "چو از شاه بشنید فرهاد گرد",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: زمانی که فرهاد خبر را از شاه شنید، به احترام آن خبر زمین را بوسید و نامه‌ای را به مقصد رساند."
     },
     {
       "VOrder": 36,
@@ -679,7 +697,8 @@
       "Text": "به شهری کجا سست پایان بدند",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: به شهری که سربازان سرسخت و بی‌باک به آنجا بی‌توجهی کردند و باعث ویرانی آن شدند."
     },
     {
       "VOrder": 38,
@@ -695,7 +714,8 @@
       "Text": "هم آنکس که بودند پا از دوال",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: همان فردی که در دوران گذشته حرمت و مقامش به دلیل ویژگی‌هایش بسیار مورد احترام بود، اکنون همانی است که با وجود سال‌ها، همچنان بر جایگاه خود ایستاده است."
     },
     {
       "VOrder": 40,
@@ -711,7 +731,8 @@
       "Text": "بدان شهر بد شاه مازندران",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: در آن شهر که شاه مازندران در آنجا حاکم است، دلیران و مبارزان نیز وجود دارند."
     },
     {
       "VOrder": 42,
@@ -727,7 +748,8 @@
       "Text": "چو بشنید کز نزد کاووس شاه",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: زمانی که او شنید که از سوی کاووس شاه، پیامبری به نزد او آمده است، با اشتیاق و شوق به استقبال او شتافت."
     },
     {
       "VOrder": 44,
@@ -743,7 +765,8 @@
       "Text": "پذیره شدن را سپاه گران",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: قهرمانان شجاع و دلیر مازندران آماده نبرد شدند."
     },
     {
       "VOrder": 46,
@@ -759,7 +782,8 @@
       "Text": "ز لشکر یکایک همه برگزید",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: از میان تمام افراد لشکر، هر یک را انتخاب کرد و از آنان خواست که هنر خود را نشان دهند."
     },
     {
       "VOrder": 48,
@@ -775,7 +799,8 @@
       "Text": "چنین گفت کامروز فرزانگی",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: امروز فرزانگی می‌گوید که نمی‌توان به‌طور کامل از دیوانگی جدا شد."
     },
     {
       "VOrder": 50,
@@ -791,7 +816,8 @@
       "Text": "همه راه و رسم پلنگ آورید",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: همه خصوصیات و ویژگی‌های حیواناتی مانند پلنگ را به دست آورید و تدبیر و خرد افراد دانا را در اختیار داشته باشید."
     },
     {
       "VOrder": 52,
@@ -807,7 +833,8 @@
       "Text": "پذیره شدندش پر از چین به روی",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: آنها با چهره‌ای پر از ناز و زیبایی به او نزدیک شدند، اما در کلام‌شان هیچ‌گونه اشاره‌ای به آرزوهایشان نکردند."
     },
     {
       "VOrder": 54,
@@ -823,7 +850,8 @@
       "Text": "یکی دست بگرفت و بفشاردش",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: یک نفر دست دیگری را گرفت و به شدت فشار داد، طوری که به استخوان‌ها و بافت‌ها آسیب رساند."
     },
     {
       "VOrder": 56,
@@ -839,7 +867,8 @@
       "Text": "نگشت ایچ فرهاد را روی زرد",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: فرهاد هرگز چهره‌ی زردی نداشت و بر او رنج و درد زیادی نرسید."
     },
     {
       "VOrder": 58,
@@ -855,7 +884,8 @@
       "Text": "ببردند فرهاد را نزد شاه",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: فرهاد را نزد شاه بردند و او از کاووس درباره‌ی سختی‌هایی که در راه کشیده بود، سوال کرد."
     },
     {
       "VOrder": 60,
@@ -871,7 +901,8 @@
       "Text": "پس آن نامه بنهاد پیش دبیر",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: پس آن نامه را به دبیر سپرد و مشک را که پر از حریر بود، بر زمین انداخت."
     },
     {
       "VOrder": 62,
@@ -887,7 +918,8 @@
       "Text": "چو آگه شد از رستم و کار دیو",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: وقتی او از وجود رستم و اقدامات دیو باخبر شد، چشمانش از خشم و ناراحتی پر شد."
     },
     {
       "VOrder": 64,
@@ -903,7 +935,8 @@
       "Text": "به دل گفت پنهان شود آفتاب",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: دل را گفتم که باید پنهان شوی؛ چون شب فرا می‌رسد و زمان آرامش و خواب اوست."
     },
     {
       "VOrder": 66,
@@ -919,7 +952,8 @@
       "Text": "ز رستم نخواهد جهان آرمید",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: دنیا از نام رستم آرام نخواهد گرفت و نام او هرگز فراموش نخواهد شد."
     },
     {
       "VOrder": 68,
@@ -935,7 +969,8 @@
       "Text": "غمی گشت از ارژنگ و دیو سپید",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: غم و اندوهی پدید آمد از ارژنگ و دیو سپید، زیرا که پولاد غندی و بید کشته شدند."
     },
     {
       "VOrder": 70,
@@ -951,7 +986,8 @@
       "Text": "چو آن نامهٔ شاه یکسر بخواند",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: وقتی آن نامهٔ شاه را تمام و کمال خواند، دو چشمش از حسرت و درد پر از اشک شد."
     },
     {
       "VOrder": 72,

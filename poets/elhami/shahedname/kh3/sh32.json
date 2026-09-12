@@ -471,7 +471,8 @@
       "Text": "یکی نقطه شد میمنه و میسره",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: یک نقطه در میدان جنگ مشخص شد که به دلایل مختلف به دور آن دایره، نیروهای میمنه (چپ) و میسره (راست) دور هم جمع شدند و تحت فرمان شاه بودند."
     },
     {
       "VOrder": 2,
@@ -487,7 +488,8 @@
       "Text": "سواری که آن تیغ بر وی رسید",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: سوار که آن شمشیر به او رسید، دیگر هیچ‌گاه چهره‌ی زندگی را ندید."
     },
     {
       "VOrder": 4,
@@ -503,7 +505,8 @@
       "Text": "شد از باد گردان رزم آزمای",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: به خاطر وزش باد، یاد نبرد و جنگ‌های شیر خدا از خاطرها فراموش شده است."
     },
     {
       "VOrder": 6,
@@ -519,7 +522,8 @@
       "Text": "ز شوق شهادت چنان گشته مست",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: به خاطر عشق به شهادت، به حالتی شگفت‌انگیز درآمده که ناگهان سلاح خود را رها کرده است."
     },
     {
       "VOrder": 8,
@@ -535,7 +539,8 @@
       "Text": "بر نیزه و ناوک چار پر",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: تو در میدان جنگ، به جای سپر از نیزه و تیر استفاده کردی و جان خود را به خطر انداختی، به طوری که سر و سینه‌ات در معرض آسیب قرار گرفت."
     },
     {
       "VOrder": 10,
@@ -551,7 +556,8 @@
       "Text": "ز شمشیر و تیر سپاه پلید",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: از شمشیرها و تیرهای دشمن، زخم‌های سخت و جدی بر تن او وارد شد."
     },
     {
       "VOrder": 12,
@@ -567,7 +573,8 @@
       "Text": "کس از خلق زخم تن شهریار",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس از مردم نمی‌داند که شهریار چند بار زخم و درد را به خود دیده و این زخم‌ها چه تعداد است."
     },
     {
       "VOrder": 14,
@@ -583,7 +590,8 @@
       "Text": "ولیکن گروهی ز اهل سخن",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: اما عده‌ای از اهل ادب و هنر در نوشته‌های خود به این موضوع پرداخته‌اند."
     },
     {
       "VOrder": 16,
@@ -599,7 +607,8 @@
       "Text": "که زخم تن آن امام امم",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: زخمی که به بدن آن امام بزرگوار وارد شده، به هزارتا می‌رسد و در واقع این زخم‌ها پنجاه عدد هستند، یعنی کمتر از هزار تا نیستند."
     },
     {
       "VOrder": 18,
@@ -615,7 +624,8 @@
       "Text": "زپیشانی شه بدی تا به ناف",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: این جمله به تصویر کشیدن حالتی از جنگ یا نبرد است که در آن شخصی، به شدت و با زخم‌های فراوان، از سر تا ناف دچار آسیب شده است. اشاره به شدت و وخامت اوضاع و زخم‌های عمیق و تلخی دارد که به بدن او وارد شده‌اند."
     },
     {
       "VOrder": 20,
@@ -631,7 +641,8 @@
       "Text": "برو سینه اش داشتی زخم، بس",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: برو، او در جنگ زخم‌های زیادی بر سینه دارد، چون هیچ‌کس را در پشت سرش نمی‌دید و تنها بود."
     },
     {
       "VOrder": 22,
@@ -647,7 +658,8 @@
       "Text": "پس از حمله فرزند شیر خدای",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: پس از حمله فرزند شیر خدا، لحظه‌ای خواست که در آرامش بماند و خود را تنها بگذارد."
     },
     {
       "VOrder": 24,
@@ -663,7 +675,8 @@
       "Text": "یکی سنگدل خصم سنگی زدست",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: یک دشمن بی‌رحم با سنگی به سوی شاه حمله کرد و باعث شد که پیشانی او بشکند."
     },
     {
       "VOrder": 26,
@@ -679,7 +692,8 @@
       "Text": "روان گشت خون بر رخ پاک او",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: خون بر چهره‌ی نازنین او جاری شد و پرده‌ی اشک بر چشمانش افتاد."
     },
     {
       "VOrder": 28,
@@ -695,7 +709,8 @@
       "Text": "برآورد دامان پیراهنش",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: او دامان پیراهنش را بالا می‌زند و می‌بیند که خون بر چهره روشن او ریخته است."
     },
     {
       "VOrder": 30,
@@ -711,7 +726,8 @@
       "Text": "سپیدی زنافش پدیدار گشت",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: سفیدی موهای او نمایان شد و نور آن در آن دشت بزرگ تابید."
     },
     {
       "VOrder": 32,
@@ -727,7 +743,8 @@
       "Text": "به ناگه شد از شست شومی برون",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: به طور ناگهانی، از تیرکی بدشگون، تیری سه جوانب و زهرآگین بیرون آمد."
     },
     {
       "VOrder": 34,
@@ -743,7 +760,8 @@
       "Text": "بیامد دمان تیر آن روسپی",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: در زمان خاصی، تیر (یا نمادی از محبت یا جذابیت) نزد آن زن عاشق آمد و بر جاهایی که بوسه‌ای رد و بدل شده بود، بوسه‌ای زد."
     },
     {
       "VOrder": 36,
@@ -759,7 +777,8 @@
       "Text": "چو بنشست آن تیر شه را به ناف",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: وقتی تیر شاه به نشانه اصابت کرد، به جای اینکه فقط به هدف برسد، در آن نقطه جایی باز شد که نشانه‌ای از اراده الهی بود."
     },
     {
       "VOrder": 38,
@@ -775,7 +794,8 @@
       "Text": "گذشت از بر قلب و از پشت سر",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: او با تیری که چهار پر دارد، از دل من عبور کرد و از پشت سر به سمت من بازگشت."
     },
     {
       "VOrder": 40,
@@ -791,7 +811,8 @@
       "Text": "شهنشه رخ از اشک درخون کشید",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: سلطان با اشک‌هایی که از چشمانش جاری شده، چهره‌اش را در خون آغشته کرد و از پشت خود آن تیر را بیرون کشید."
     },
     {
       "VOrder": 42,
@@ -807,7 +828,8 @@
       "Text": "بگفتا: به نام خدای جهان",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: او گفت: به نام خداوند جهانیان و به پیروی از روش پیامبر مهربان."
     },
     {
       "VOrder": 44,
@@ -823,7 +845,8 @@
       "Text": "شدم کشته در راه یزدن خویش",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: من در مسیر عشق و رسیدن به محبوب خود، جانم را فدای این راه کرده‌ام و اکنون برای نزدیک شدن به او تلاش می‌کنم."
     },
     {
       "VOrder": 46,
@@ -839,7 +862,8 @@
       "Text": "چو دانستی آن خون پاک اربه خاک",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: وقتی که بفهمی آن خون پاک بر خاک بریزد، باعث ویرانی و نابودی مردم می‌شود."
     },
     {
       "VOrder": 48,
@@ -855,7 +879,8 @@
       "Text": "همی پرنمودی از آن خون دو دست",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: تو از آن خون به دست‌های خود، جنسی تولید کردی که به سوی بالا فشرده و بر پست‌ها نمایان است."
     },
     {
       "VOrder": 50,
@@ -871,7 +896,8 @@
       "Text": "یکی قطره از آن نیامد فرود",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: هیچ قطره‌ای از آن پایین نیامد، فقط سرخی غروب از آن به دست آمده است."
     },
     {
       "VOrder": 52,
@@ -887,7 +913,8 @@
       "Text": "پس آنگاه یک لخت از آن خون پاک",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: سپس مقدار زیادی از آن خون پاک بر چهره درخشان او جاری می‌شود."
     },
     {
       "VOrder": 54,
@@ -903,7 +930,8 @@
       "Text": "همی گفت: خواهم چنین سرخ روی",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: او می‌گفت: می‌خواهم در برابر خداوند، با رویی سرخ و خجسته، رازهایم را بیان کنم."
     },
     {
       "VOrder": 56,
@@ -919,7 +947,8 @@
       "Text": "از آن زخم کاری تن شهریار",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: زخم سختی که به تن پادشاه وارد آمده، او را در تلاش برای نبرد تضعیف کرده است."
     },
     {
       "VOrder": 58,
@@ -935,7 +964,8 @@
       "Text": "چو آگاه شد دشمن تیره بخت",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: زمانی که دشمن بدبخت و نادان از وضعیتی که دارد آگاه شد، از هر طرف به او حمله کرد."
     },
     {
       "VOrder": 60,
@@ -951,7 +981,8 @@
       "Text": "زدندش به پیکر همی تیغ و تیر",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: به او حمله کردند و با شمشیر و تیر به او ضربه زدند، و در آسمان صدای غوغا و خروش بلند شد."
     },
     {
       "VOrder": 62,
@@ -967,7 +998,8 @@
       "Text": "شهنشه بدان ناتوانی ز زین",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: پادشاه به دلیل ناتوانی از زین اسبش به زمین افتاد و این موضوع جنگجو را به شدت تحت تاثیر قرار داد."
     },
     {
       "VOrder": 64,
@@ -983,7 +1015,8 @@
       "Text": "به ناگه بجست از کمین همچو تیر",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: ناگهان از کمین بیرون آمد، مانند تیر پرتاب شده. نام او مالک ابن یسیر است."
     },
     {
       "VOrder": 66,
@@ -999,7 +1032,8 @@
       "Text": "یکی تیغ زد بر سر شهریار",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: یک نفر بر سر پادشاه ضربه‌ای زد که باعث شد چهره‌اش مانند شکافتن ماه در آسمان نمایان شود."
     },
     {
       "VOrder": 68,
@@ -1015,7 +1049,8 @@
       "Text": "فرو ریخت خون بر برو جوشنش",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: خون بر روی زره‌اش ریخت و مانند شب، جسدش به خاطر اندوه روشن شد."
     },
     {
       "VOrder": 70,
@@ -1031,7 +1066,8 @@
       "Text": "شهنشه بدو گفت: ای نابکار",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: شاه به او گفت: ای شرور، تو چه کسی هستی که این شمشیر بدبختی را به کار می‌گیری؟"
     },
     {
       "VOrder": 72,
@@ -1047,7 +1083,8 @@
       "Text": "بدین دست از آب و نان جهان",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که اگر کسی خوشبختی و موفقیت را به دست نیاورد، حتی با وجود دسترسی به منابع و نیازهای اساسی مانند آب و نان، زندگی‌اش چندان ارزشمند نخواهد بود. به عبارتی، داشتن امکانات مادی بدون دستیابی به خوشبختی و رضایت در زندگی خیلی کم‌اهمیت است."
     },
     {
       "VOrder": 74,
@@ -1063,7 +1100,8 @@
       "Text": "شنیدم ز نفرین آن شهریار",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: من شنیده‌ام که نفرین آن پادشاه باعث شد که دست بدخواهن از کار بیفتد."
     },
     {
       "VOrder": 76,
@@ -1079,7 +1117,8 @@
       "Text": "بخشکیدی اندر سموم تموز",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: در گرمای شدید تابستان، تو دیگر هیچ حرکتی ندیدی و احساس کردی که همه چیز خشک و بی‌تحرک شده است."
     },
     {
       "VOrder": 78,
@@ -1095,7 +1134,8 @@
       "Text": "به کانون و تشرین همی ریخت خون",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: در اینجا اشاره به فصلی از سال است که خون (احساس، زندگی یا انرژی) به سوی مرگ و درد می‌رود و در نهایت به عذاب و سختی خواهد انجامید. در واقع، این فرآیند نشان‌دهنده تغییراتی است که به ورطه سختی و عذاب می‌انجامند."
     },
     {
       "VOrder": 80,
@@ -1111,7 +1151,8 @@
       "Text": "از آن پس شهنشه ز رزم سپاه",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: بعد از آن، شاه فرمانده سپاه، فرماندهی را از خیمه‌گاه به عهده گرفت و جهت حرکت را تغییر داد."
     },
     {
       "VOrder": 82,
@@ -1127,7 +1168,8 @@
       "Text": "که زخم سرش را ببندد همی",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: کسی که زخم سرش را پ Bandد کند، لحظه‌ای می‌تواند چهره‌ای یکسان و بدون تغییر را ببیند."
     },
     {
       "VOrder": 84,
@@ -1143,7 +1185,8 @@
       "Text": "چو آمد به نزدیک پرده سرای",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: وقتی به نزدیکی پرده‌خانه رسید، آوای دل‌انگیزی از نای خشکی بلند شد."
     },
     {
       "VOrder": 86,
@@ -1159,7 +1202,8 @@
       "Text": "زنان را همه بر زبان برد نام",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: زنان همه درباره من صحبت کردند و گفتند که باد سلام شما را برساند."
     },
     {
       "VOrder": 88,

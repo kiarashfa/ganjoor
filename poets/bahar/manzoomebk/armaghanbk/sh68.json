@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "یگانه باش که واپریکان (‌آبرومند) باشی.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: خاص و منحصر به فرد باش تا در میان دیگران از احترام و اعتبار برخوردار شوی."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "به هر کار یکرنگ و یکروی باش",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در هر فعالیتی صاف و صادق باش، قلبی نیکو و رفتاری شایسته داشته باش."
     },
     {
       "VOrder": 3,
@@ -46,7 +48,8 @@
       "Position": "Right",
       "Text": "یگانه شو و پاک و پاکیزه دین",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تنها و خالص و پاک و دین‌دار باش، زیرا مرد واقعی کسی است که یکتا و نمونه است."
     },
     {
       "VOrder": 5,

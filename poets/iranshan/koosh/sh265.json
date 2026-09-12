@@ -411,7 +411,8 @@
       "Text": "چو آگاه شد زو قراطوس گفت",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: وقتی قراطوس متوجه شد، گفت که این مرد اگر با عقل و خرد نیست، در واقع هم شکل و جفت مناسبی ندارد."
     },
     {
       "VOrder": 2,
@@ -427,7 +428,8 @@
       "Text": "اگر هست گردنکش و ریمن است",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی گردن‌کش و مغرور باشد، باز هم به خاطر مردانگی و قدرت خود احساس امنیت می‌کند."
     },
     {
       "VOrder": 4,
@@ -443,7 +445,8 @@
       "Text": "گر از لشکرم آگهی داشتی",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: اگر از قدرت و نیروهای من خبر داشتی، هرگز جرأت نمی‌کردی چنین با گستاخی رفتار کنی."
     },
     {
       "VOrder": 6,
@@ -459,7 +462,8 @@
       "Text": "بفرمود تا کوس بیرون برند",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: فرمان داد تا طبل را بیرون بbrand و به بیابان ببرند."
     },
     {
       "VOrder": 8,
@@ -475,7 +479,8 @@
       "Text": "فرستاد و لشکر همه بازخواند",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: فرستاده و لشکر همگی به کار آماده شدند و نشان دادند که برای افزایش ثروت و مال، حاضرند تلاش کنند."
     },
     {
       "VOrder": 10,
@@ -491,7 +496,8 @@
       "Text": "گزین کرد از آن لشکر نامدار",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: او از آن لشکر مشهور، سه بار به انتخاب خود، صد و سی هزار سوار را برگزيد."
     },
     {
       "VOrder": 12,
@@ -507,7 +513,8 @@
       "Text": "دل هر کس از رنج خود شاد کرد",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: انسانی که از درد و رنج خود بیرون بیاید و شاد شود، با استفاده از قدرت و امکاناتش زندگی را برای خود و دیگران بهتر می‌سازد."
     },
     {
       "VOrder": 14,
@@ -523,7 +530,8 @@
       "Text": "فرستاد کارآگهی را نخست",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: نخستین کار این است که افرادی را برای بررسی و کسب اطلاعات درباره دشمن فرستند تا از اوضاع و وضعیت او به درستی آگاه شوند."
     },
     {
       "VOrder": 16,
@@ -539,7 +547,8 @@
       "Text": "برفت و به دانش بدانست مرد",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: شخصی رفت و به دانش آموخت، مردی آمد و نام قراطوس را به یاد آورد."
     },
     {
       "VOrder": 18,
@@ -555,7 +564,8 @@
       "Text": "که دشمن فزون نیست پنجه هزار",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: در اینجا به این نکته اشاره می‌شود که تعداد دشمنان زیاد نیست و آنها در برابر جنگجویان و مردان توانمند هیچ برتری ندارند. در واقع، تعداد دشمنان تأثیری در قدرت و شجاعت افراد ندارد."
     },
     {
       "VOrder": 20,
@@ -571,7 +581,8 @@
       "Text": "بخندید و گفتا، چنین است راست",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: او با لبخند گفت: این حقیقت دارد و اگر غیر از این بود، چرا باید در کنار دریا بنشینیم؟"
     },
     {
       "VOrder": 22,
@@ -587,7 +598,8 @@
       "Text": "پشیمان شده‌ست از گذشتن به آب",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: شخصی که از گذشته خود نادم و پشیمان است، آگاه نیست که اگر به جلوی خود نگاه نکند و به آب قدم بگذارد، ممکن است دیگر هرگز ایران را در خواب هم نبیند."
     },
     {
       "VOrder": 24,
@@ -603,7 +615,8 @@
       "Text": "وزآن کرده بود او به دریا درنگ",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: او به دریا رفته بود و منتظر بود که قراطوس (هیولا) به پیشش بیاید و با او بجنگد."
     },
     {
       "VOrder": 26,
@@ -619,7 +632,8 @@
       "Text": "که شهری بزرگ است سخت استوار",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: شهر بزرگی که محکم و استوار است، نباید حصاری به دور خود بکشد."
     },
     {
       "VOrder": 28,
@@ -635,7 +649,8 @@
       "Text": "چو سستی نماید درنگ آورد",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: وقتی که در جنگ کسی بی‌علاقه و سست‌عنصر شود، سپاهیان نیز با تردید و تأمل پیش می‌آیند."
     },
     {
       "VOrder": 30,
@@ -651,7 +666,8 @@
       "Text": "چنان آمد آن کار کز پیش دید",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: چنان پیش آمد که قراطوس، لشکری را به سمت خود کشاند."
     },
     {
       "VOrder": 32,
@@ -667,7 +683,8 @@
       "Text": "فرود آمد او بر دو فرسنگ کوش",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: او به دو فرسنگی پایین آمد و سپاهی که همگی برای جنگ و آماده بودند، تشنه و پرشور به او پیوستند."
     },
     {
       "VOrder": 34,
@@ -683,7 +700,8 @@
       "Text": "طلایه بیامد بداد آگهی",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: پیشرو آمد و خبر داد که از خیمه، جایی باقی نمانده است که خالی باشد."
     },
     {
       "VOrder": 36,
@@ -699,7 +717,8 @@
       "Text": "از آن شادمان گشت و گفتا رواست",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: او شادمان شد و گفت که هر کس باید بر اساس تمایلات و آرزوهای خود عمل کند."
     },
     {
       "VOrder": 38,
@@ -715,7 +734,8 @@
       "Text": "تو رو بازگرد و به لشکر مپای",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: تو برگرد و به جنگ نرو، چون پیشقراولان بیایند، تو سست و ضعیف نشو."
     },
     {
       "VOrder": 40,
@@ -731,7 +751,8 @@
       "Text": "گذشت آن شب و روز دیگر به جنگ",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: شبانگیز گذشته و روز جدیدی آغاز شد، اما جنگی در کار نبود که باعث شود تا کسی توقف کند و درنگی کند."
     },
     {
       "VOrder": 42,
@@ -747,7 +768,8 @@
       "Text": "طلایه فرستاد و فرمود کوش",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: فرستاد تا پیشاپیش برود و گفت که تلاش کن تا از آنجا نشانه‌ای ببینی، اما تلاش نکن."
     },
     {
       "VOrder": 44,
@@ -763,7 +785,8 @@
       "Text": "چو آرند حمله میاویز دیر",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: وقتی که دشمنان به تو حمله می‌کنند، نباید به سرعت و بدون فکر عقب‌نشینی کنی. بهتر است که صبر کنی و برای مواجهه با آن‌ها آماده باشی تا بتوانی به خوبی با آن‌ها مقابله کنی."
     },
     {
       "VOrder": 46,
@@ -779,7 +802,8 @@
       "Text": "وزآن پس گریزان سوی لشکر آی",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: پس از آن، به سوی لشکر برو و به آنها بپیوند. اما در این پیوستگی، سستی و ضعف نشان نده."
     },
     {
       "VOrder": 48,
@@ -795,7 +819,8 @@
       "Text": "طلایه بیامد به نزدیک شاه",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: کسی که پیشرو است، به نزد شاه آمد و نظرش را به شاه نزدیک کرد و در مورد موضوعی حساس و مهم به او توصیه کرد."
     },
     {
       "VOrder": 50,
@@ -811,7 +836,8 @@
       "Text": "طلایه‌یْ قراطوس نزدیک بود",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: پیشوای قراطوس به زودی تصمیم گرفت که خود را به آن‌ها نشان دهد."
     },
     {
       "VOrder": 52,
@@ -827,7 +853,8 @@
       "Text": "بدیدندش از دور، جوشان شدند",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: آنها او را از دور دیدند و هر کدام به شدت هیجان‌زده شدند، انگار که ناگهان رعد خروشان به صدا درآمده است."
     },
     {
       "VOrder": 54,
@@ -843,7 +870,8 @@
       "Text": "چو دیدند زخم درشت یلان",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: وقتی دیدند که قهرمانان در حال زخم‌خوردن هستند، مانند افرادی که دل‌شان ناامید است، فرار کردند."
     },
     {
       "VOrder": 56,
@@ -859,7 +887,8 @@
       "Text": "دلیران که از پس همی تاختند",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: شجاعانی که به استقامت و تلاش ادامه دادند، تمامی زره و سلاح خود را به زمین انداختند."
     },
     {
       "VOrder": 58,
@@ -875,7 +904,8 @@
       "Text": "گریزان به نزدیک شاه آمدند",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: به نزد شاه آمدند که در حالی برهنه و بدون کلاه بودند و از خطر فراری بودند."
     },
     {
       "VOrder": 60,
@@ -891,7 +921,8 @@
       "Text": "طلایه چو نزدیک لشکر کشید",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: طلایه لشکر نزدیک شد و نگاهی به آن مایه لشکر انداخت."
     },
     {
       "VOrder": 62,
@@ -907,7 +938,8 @@
       "Text": "بیامد قراطوس را گفت باز",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: قراطوس آمد و گفت که درباره کار طلایه دوباره صحبت کن، که چه شد و چگونه به پایان رسید."
     },
     {
       "VOrder": 64,
@@ -923,7 +955,8 @@
       "Text": "که مغز فریدون همانا خرد",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: اگر فریدون، که به بزرگ‌منشی و حکمت معروف است، از خرد و اندیشه خالی باشد، پس چگونه انتظار می‌رود که کسی که در این‌گونه تربیت شده، دارای خرد و بصیرت باشد؟"
     },
     {
       "VOrder": 66,
@@ -939,7 +972,8 @@
       "Text": "بدین مایه لشکر سرافرازد او",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: به این اندازه، لشکری را به پیروزی می‌رساند و سپاهی را با چنین ترس و ناامیدی می‌سازد."
     },
     {
       "VOrder": 68,
@@ -955,7 +989,8 @@
       "Text": "که با ما زمانی نیاویختند",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: آن‌ها زمانی با ما ارتباط نداشتند و به یک‌باره از ما دور شدند."
     },
     {
       "VOrder": 70,
@@ -971,7 +1006,8 @@
       "Text": "خود از بهر این مایه بدخواه را",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: شخص نباید به خاطر این موضوع نگران باشد و خود را ناراحت کند، زیرا نیازی به تحمیل درد و رنج بر شاه وجود ندارد."
     },
     {
       "VOrder": 72,
@@ -987,7 +1023,8 @@
       "Text": "که ایشان ز ما همچو آهو ز یوز",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: آن‌ها از ما مانند آهو که از روباه می‌گریزد، فراری شدند، ای پادشاه نیوسوز."
     },
     {
       "VOrder": 74,
@@ -1003,7 +1040,8 @@
       "Text": "قراطوس از آن گفته شد شادمان",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: قراطوس با خوشحالی گفت که تو از مشکلاتت رهایی یافته‌ای و دیگر غمی بر دل نداری."
     },
     {
       "VOrder": 76,

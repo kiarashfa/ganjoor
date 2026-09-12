@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "قصه عشق سرودیم بسی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما داستان عشق را بارها سرودیم، اما هیچ‌کس به ما توجه نکرد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "ناله بیهده تا چند توان",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چقدر می‌توان بیهوده ناله کرد، وقتی در این بیابان کسی برای کمک وجود ندارد؟"
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "کو کسی تا که بپرسد ز غمی",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی را پیدا کن که از او درباره غم و اندوهت بپرسی یا به صدای کسی گوش دهد که در حال فریاد زدن است."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "کس بفریاد دل کس نرسد",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ کس به دردی که بر دل کسی می‌آید رسیدگی نمی‌کند و هیچ فردی از شکایت کسی باخبر نمی‌شود."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "نکند کس نظری جانب کس",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که ممکن است هیچ‌کس به کسی توجه نکند و یا گوش کسی به حرف‌های دیگری شنوا نباشد. در واقع، بیان می‌کند که افراد ممکن است در دنیای خود غرق شوند و به دیگران توجهی نداشته باشند."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "نیست در روی زمین اهل دلی",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در روی زمین کسی نیست که دل داشته باشد و در زیر آسمان نیز فردی مشابه نباشد."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "نیست در باغ جهان جز خاری",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در باغ بزرگ زندگی تنها خاری وجود ندارد و در مسیر زمان فقط احساس نیست."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "بسرا پای جهان گردیدیم",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در سرزمین‌های مختلف سفر کردیم، اما هیچ‌کسی نیست که دل ما را بشناسد."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "رفته رفته زبر ما رفتند",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به آرامی دوستان و نزدیکان از کنار ما رفتند و اکنون جز صدای ناله‌ی تنهایی و افسردگی چیزی برایمان باقی نمانده است."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "بس درُ سر که بمنطق سفتند",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بسیاری از افراد در بحث‌ها و گفتگوها به شدت حرف می‌زنند و به خاطر قدرت استدلال‌شان به خود می‌بالند، اما در واقع هیچ‌کس ارزش واقعی آنها را نمی‌داند."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "جانشان بود ز صحرای دگر",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جان آن‌ها از دنیای دیگر است، اما بدنشان در اینجا مانند قفسی محبوس شده است."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "نیست اکنون اثری از تنشان",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اکنون هیچ نشانی از بدن آنها باقی نمانده و تنها روحشان باقی است."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "نیست از شعلهٔ تنشان شرری",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شعلهٔ وجود آن‌ها، از تنشان، خبری نیست و آتش وجودشان، فروغی ندارد."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "تنشان خاک شد و رفت به باد",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بدنشان به خاک تبدیل شد و در باد ناپدید شد، حالا هم جانشان به سمت کسی در حرکت است."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "نه از آن قافله گردی پیدا",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ نشانه‌ای از کاروانی نیست، نه کسی را می‌بینم و نه صدای زنگی به گوش می‌رسد."
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "تنشان داشت حیات از بادی",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بدنشان از تندی بادی زنده بود، اما اکنون دم و نفسی رفت و دیگر برنگشت."
     },
     {
       "VOrder": 32,
@@ -255,7 +271,8 @@
       "Position": "Right",
       "Text": "ای خوش آندم که نهم دیده بهم",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که بتوانم چشمم را به دنیای اطراف باز کنم و روح و جانم را از قفس محدودیت‌ها آزاد کنم، لحظه‌ای بسیار خوشحال‌کننده خواهد بود."
     },
     {
       "VOrder": 34,
@@ -269,7 +286,8 @@
       "Position": "Right",
       "Text": "حیف و صدحیف کس از ما نخرید",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: متأسفانه هیچ‌کس از ما نمی‌خواست که گنجینه‌های نهفته‌مان را به فروش برسانیم؛ زیرا ما خود را پر از ارزش‌های گران‌بها می‌دانیم."
     },
     {
       "VOrder": 36,
@@ -283,7 +301,8 @@
       "Position": "Right",
       "Text": "کو کسی تا که بفهمد سخنی",
       "CoupletIndex": 18,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی بیابید که سخنان شما را درک کند و بتواند از آن‌ها بهره‌برداری کند."
     },
     {
       "VOrder": 38,
@@ -297,7 +316,8 @@
       "Position": "Right",
       "Text": "چه سرایم سخن پیش گران",
       "CoupletIndex": 19,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چه چیزی می‌توانم بگویم برای کسی که ارزشش مانند گوهر است، در حالی که برای آدم‌های بی‌ارزش هیچ اهمیت و ارزشی ندارد؟"
     },
     {
       "VOrder": 40,
@@ -311,7 +331,8 @@
       "Position": "Right",
       "Text": "چه نمایم بکوران خوبی",
       "CoupletIndex": 20,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من چه کاری می‌توانم انجام دهم که مردم نادان ارزش خوبی را درک کنند؟ مانند این است که از یک خر انتظار داشته باشی به مگس احترام بگذارد."
     },
     {
       "VOrder": 42,
@@ -325,7 +346,8 @@
       "Position": "Right",
       "Text": "سر این شهد بپوشان ای فیض",
       "CoupletIndex": 21,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای فیض، بر روی این شهد را بپوشان، زیرا در این دنیا هیچ‌کس نیست که به آن توجهی کند."
     },
     {
       "VOrder": 44,

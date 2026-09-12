@@ -47,20 +47,23 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "کاروانی در زمین یونان بزدند و نعمتِ بی‌قیاس ببردند.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "کاروانی را در سرزمین یونان دستبرد زدند و کالاهای فراوان و بی‌نظیر آن را با خود بردند."
     },
     {
       "VOrder": 2,
       "Position": "Paragraph",
       "Text": "بازرگانان گریه و زاری کردند و خدا و پیمبر شَفیع آوردند و فایده نبود.",
-      "CoupletIndex": 1
+      "CoupletIndex": 1,
+      "CoupletSummary": "هوش مصنوعی: تاجران به شدت گریه و زاری کردند و از خدا و پیامبر استمداد کردند، اما این درخواست‌ها اثری نداشت."
     },
     {
       "VOrder": 3,
       "Position": "Right",
       "Text": "چو پیروز شد دزدِ تیره‌روان",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی دزد ظالم پیروز می‌شود، برایش اهمیتی ندارد که کاروان به خاطر این شکستش گریه می‌کند."
     },
     {
       "VOrder": 4,
@@ -73,26 +76,30 @@
       "VOrder": 5,
       "Position": "Paragraph",
       "Text": "لقمان حکیم اندر آن کاروان بود.",
-      "CoupletIndex": 3
+      "CoupletIndex": 3,
+      "CoupletSummary": "هوش مصنوعی: لقمان حکیم در آن کاروان بود."
     },
     {
       "VOrder": 6,
       "Position": "Paragraph",
       "Text": "یکی گفتش از کاروانیان: مگر اینان را نصیحتی کنی و موعظه‌ای گویی تا طرفی از مالِ ما دست بدارند که دریغ باشد چندین نعمت که ضایع شود.",
-      "CoupletIndex": 4
+      "CoupletIndex": 4,
+      "CoupletSummary": "هوش مصنوعی: یکی از مسافران گفت: آیا نمی‌توانی به این افراد نصیحتی کنی یا پیامی بدهی تا بخشی از مال ما را رها کنند؟ چون واقعا نادرست است که چنین نعمت‌هایی ضایع شوند."
     },
     {
       "VOrder": 7,
       "Position": "Paragraph",
       "Text": "گفت: دریغ کلمهٔ حکمت با ایشان گفتن.",
-      "CoupletIndex": 5
+      "CoupletIndex": 5,
+      "CoupletSummary": "هوش مصنوعی: گفت: کاش می‌توانستم با آن‌ها دربارهٔ حکمت صحبت کنم."
     },
     {
       "VOrder": 8,
       "Position": "Right",
       "Text": "آهنی را که موریانه بخورد",
       "CoupletIndex": 6,
-      "SectionIndex1": 1
+      "SectionIndex1": 1,
+      "CoupletSummary": "چون زنگار همهٔ آهن را تباه کرد دیگر با هیچ زداینده‌ای نمی‌توان زنگ از آهن سترد؛"
     },
     {
       "VOrder": 9,
@@ -106,7 +113,8 @@
       "Position": "Right",
       "Text": "با سیه‌دل چه سود گفتن وعظ؟",
       "CoupletIndex": 7,
-      "SectionIndex1": 1
+      "SectionIndex1": 1,
+      "CoupletSummary": "به تیره‌درون هم پند گفتن سود ندارد، همچنانکه میخ آهنین در دلِ سنگ فرو نتواند رفت."
     },
     {
       "VOrder": 11,
@@ -119,14 +127,16 @@
       "VOrder": 12,
       "Position": "Paragraph",
       "Text": "همانا که جرم از طرف ماست.",
-      "CoupletIndex": 8
+      "CoupletIndex": 8,
+      "CoupletSummary": "هوش مصنوعی: همانطور که می‌دانیم، تقصیر بر عهده‌ی ماست."
     },
     {
       "VOrder": 13,
       "Position": "Right",
       "Text": "به روزگارِ سلامت، شکستگان دریاب",
       "CoupletIndex": 9,
-      "SectionIndex1": 2
+      "SectionIndex1": 2,
+      "CoupletSummary": "در روزهای خوشی و تندرستی به دستیاری ضعیفان بپرداز، که دلجوییِ درماندگان بلاها و آزمون‌های سختِ روزگار را از تو دور می‌کند."
     },
     {
       "VOrder": 14,
@@ -140,7 +150,8 @@
       "Position": "Right",
       "Text": "چو سائل از تو به زاری طلب کند چیزی",
       "CoupletIndex": 10,
-      "SectionIndex1": 2
+      "SectionIndex1": 2,
+      "CoupletSummary": "چون گدای حاجتمند چیزی خواهد به وی بده و اگر ندهی ظالم از تو به جبر و ستم خواهد گرفت."
     },
     {
       "VOrder": 16,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "در حقیقت یکی عدد نبود",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در واقع، عدد واحدی وجود ندارد. اگر حساب کنیم، یک تنها نیست، بلکه هزاران هزار است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "باطنش را نگر که جمله یکی است ",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به عمق وجودش نگاه کن که همه چیز در آن واحد است، هرچند که در ظاهر به نظر می‌رسد تکرار می‌شود."
     },
     {
       "VOrder": 4,

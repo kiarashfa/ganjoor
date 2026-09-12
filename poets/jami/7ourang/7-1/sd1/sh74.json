@@ -161,7 +161,8 @@
       "Text": "آدمی را همیشه معتقد است",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: انسان همواره بر این باور است که آیا او تنها برای خود خلق شده است."
     },
     {
       "VOrder": 2,
@@ -177,7 +178,8 @@
       "Text": "هر چه او را فتد مناسب حال",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که او برای خودش مناسب بداند، آن را از نوع خوبی و کمال می‌پندارد."
     },
     {
       "VOrder": 4,
@@ -193,7 +195,8 @@
       "Text": "وانچه پنداردش منافی آن",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که انسان آن را مخالف با خود تصور کند، در واقع نشان‌دهندهٔ نقص و کمبود اوست."
     },
     {
       "VOrder": 6,
@@ -209,7 +212,8 @@
       "Text": "لیکن این اعتقاد عین خطاست",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: اما این باور کاملاً نادرست است، زیرا او برای خداوند خلق شده است."
     },
     {
       "VOrder": 8,
@@ -225,7 +229,8 @@
       "Text": "حق پی هر چه آفرید او را",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که خداوند آفریده، به حق خود دسترسی ندارد و نمی‌تواند چیزی بر آن اضافه کند."
     },
     {
       "VOrder": 10,
@@ -241,7 +246,8 @@
       "Text": "در حقیقت کمال او آنست",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: در واقع، برتری و کمال او به این است که وجودش نشان‌دهنده خواسته و اراده خداوند است."
     },
     {
       "VOrder": 12,
@@ -257,7 +263,8 @@
       "Text": "حق نخواهد ز هستی اشیا",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: حق از موجودات هیچ چیزی را نمی‌طلبد جز تجلی ویژگی‌ها یا نام‌های خود."
     },
     {
       "VOrder": 14,
@@ -273,7 +280,8 @@
       "Text": "هر چه در عرصه جهان پیداست",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که در جهان وجود دارد، هدف و مقصود آن همان نام‌ها و صفات الهی است که نمایانگر آن‌ها هستند."
     },
     {
       "VOrder": 16,
@@ -289,7 +297,8 @@
       "Text": "گر نباشد وجود او بالفرض",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: اگر وجود خداوند نباشد، چگونه آن نام می‌تواند به چیزی تعلق بگیرد یا بر آن عرضه شود؟"
     },
     {
       "VOrder": 18,
@@ -305,7 +314,8 @@
       "Text": "ولهذا رسول کرد خطاب",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: به همین دلیل، پیامبر پیش از این با جمعی از یاران خود سخن گفت."
     },
     {
       "VOrder": 20,
@@ -321,7 +331,8 @@
       "Text": "گفت اگر ناید از شما عملی",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: اگر از شما کاری سر نزند که در آن گناهی وجود داشته باشد، پس باید به آن عمل کنید."
     },
     {
       "VOrder": 22,
@@ -337,7 +348,8 @@
       "Text": "آفریند خدا خطاکیشان",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: خداوند خطاها و گناهان مردم را به‌گونه‌ای آفریده که امکان خطا برای آنها وجود داشته باشد."
     },
     {
       "VOrder": 24,
@@ -353,7 +365,8 @@
       "Text": "تا کنند از گناه استغفار",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: برای جبران گناه، باید از پروردگار مغفرت بخواهیم و در برابر او اظهار ندامت کنیم."
     },
     {
       "VOrder": 26,

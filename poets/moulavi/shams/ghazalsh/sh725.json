@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "کس با چو تو یار راز گوید",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس نمی‌تواند مانند تو با دلش در میان بگذارد یا داستان زندگی‌اش را بگوید."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "عاقل کردست با تو کوتاه",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عاقل به خاطر درایت و هوش خود با تو کم صحبت می‌کند، ولی عاشق به خاطر احساس و عشقش حرف‌های زیادی دارد و به سخن گفتن ادامه می‌دهد."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "از عشق تو در سجود افتد",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از عشق تو، آدمی چنان محو و متأثر می‌شود که حتی در حال عبادت و نماز نیز فقط به یاد تو و آرزوی وصالت می‌افتد."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "از ناز همه دروغ گویی",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از زیبایی‌های دلربا و فریبنده، همه چیز بر این واقعیت پنهان است که دل من از نیاز به حقیقت می‌گوید."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "من همچو ایازم و تو محمود",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من مانند ایاز هستم و تو مثل محمود، پس به حرفی که ایاز می‌گوید گوش کن."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "پیش تو کسی حدیث من گفت",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی کسی از حال من برای تو صحبت کرد، تو پاسخ دادی که او دروغ می‌گوید."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "چون زر سخنان من شنیدی",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی سخنان من را چون طلا شنیدی، گفتی که او مانند یک کفتار صحبت می‌کند."
     },
     {
       "VOrder": 14,

@@ -861,7 +861,8 @@
       "Text": "یکی پهلوان بود گسترده‌کام",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "پهلوانی جاه‌طلب و قدرتمند به نام «بیژن» وجود داشت که نژادش به خاندانِ بزرگِ طَرخان (اشرافِ تورانی) می‌رسید."
     },
     {
       "VOrder": 2,
@@ -877,7 +878,8 @@
       "Text": "نشستش به شهر سمرقند بود",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "حکومت و اقامتِ او در شهر سمرقند بود و در آن مناطقِ مرزی متحدانِ بسیاری داشت."
     },
     {
       "VOrder": 4,
@@ -893,7 +895,8 @@
       "Text": "چو ماهوی بدبخت خودکامه شد",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هنگامی که ماهویِ تیره‌بخت اسیرِ طمع و جاه‌طلبی شد، نامه‌ای به بیژن فرستاد."
     },
     {
       "VOrder": 6,
@@ -909,7 +912,8 @@
       "Text": "که ای پهلوان زادهٔ بی‌گزند",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "(در نامه نوشت:) «ای پهلوان‌زاده‌ی تندرست! جنگی بسیار پرسود و منفعت برایت پیش آمده است."
     },
     {
       "VOrder": 8,
@@ -925,7 +929,8 @@
       "Text": "که شاه جهان با سپاه ایدرست",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "پادشاهِ جهان (یزدگرد) با سپاهش اینجا در چنگِ من است؛ او تاج، تخت و تاج پادشاهی را به همراه دارد."
     },
     {
       "VOrder": 10,
@@ -941,7 +946,8 @@
       "Text": "گر آیی سر و تاج و گاهش تو راست",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "اگر با سپاهت به اینجا بیایی، سرِ او، تاج و تختش، و همچنین خزانه‌ی عظیم و چترِ سیاهِ پادشاهی‌اش، همه از آنِ تو خواهد بود.»"
     },
     {
       "VOrder": 12,
@@ -957,7 +963,8 @@
       "Text": "چو بیژن نگه کرد و آن نامه دید",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "وقتی بیژن نامه را خواند و به اوضاع نگریست، فهمید که ماهویِ جاه‌طلب برای رسیدن به قدرت، دنیا را به بازی گرفته است."
     },
     {
       "VOrder": 14,
@@ -973,7 +980,8 @@
       "Text": "به دستور گفت ای سر راستان",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "بیژن به وزیر و مشاورش گفت: «ای پیشوایِ راستان! نظر و دوراندیشیِ تو درباره‌ی این ماجرا چیست؟"
     },
     {
       "VOrder": 16,
@@ -989,7 +997,8 @@
       "Text": "به یاری ماهوی گر من سپاه",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "اگر من شخصاً لشکرم را برای کمک به ماهوی حرکت دهم، آبرو و جایگاهم در اینجا تباه خواهد شد."
     },
     {
       "VOrder": 18,
@@ -1005,7 +1014,8 @@
       "Text": "به من برکند شاه چینی فسوس",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "(چرا که) امپراتور چین مرا مسخره خواهد کرد و مرا انسانی بی‌شخصیت، حقیر و چاپلوسِ یک خائن خواهد نامید."
     },
     {
       "VOrder": 20,
@@ -1021,7 +1031,8 @@
       "Text": "وگرنه کنم گوید از بیم کرد",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "اما از طرف دیگر، اگر نروم، خواهند گفت از روی ترس نرفته است و از ننگِ شکست و روزِ جنگ وحشت دارد.»"
     },
     {
       "VOrder": 22,
@@ -1037,7 +1048,8 @@
       "Text": "چنین داد دستور پاسخ بدوی",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "وزیرِ خردمند به او چنین پاسخ داد: «ای مردِ شیردل و جنگاور!"
     },
     {
       "VOrder": 24,
@@ -1053,7 +1065,8 @@
       "Text": "از ایدر تو را ننگ باشد شدن",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "رفتنِ تو از اینجا برای کمک به شخصِ پستی چون ماهوی و سپس بازگشتنت، برای تو ننگ و کسرِ شأن است."
     },
     {
       "VOrder": 26,
@@ -1069,7 +1082,8 @@
       "Text": "به برسام فرمای تا با سپاه",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "به جای رفتنِ خودت، به فرمانده‌ات \u0022بَرسام\u0022 دستور بده تا با لشکری برای یاری رساندن، به آن میدانِ جنگ برود."
     },
     {
       "VOrder": 28,
@@ -1085,7 +1099,8 @@
       "Text": "به گفتار سوری شوی سوی جنگ",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "اگر تو با حرفِ ماهویِ سوری شخصاً وارد جنگ شوی، مردانِ خردمند و باوقار، تو را انسانی سبک‌مغز و بی‌ارزش خواهند خواند.»"
     },
     {
       "VOrder": 30,
@@ -1101,7 +1116,8 @@
       "Text": "چنین گفت بیژن که اینست رای",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "بیژن گفت: «تصمیمِ درست همین است؛ من شخصاً نباید از جای خود تکان بخورم.»"
     },
     {
       "VOrder": 32,
@@ -1117,7 +1133,8 @@
       "Text": "به برسام فرمود تا ده هزار",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "پس به برسام فرمان داد تا ده هزار سوارکارِ جنگاور و شمشیرزنِ ماهر را بردارد..."
     },
     {
       "VOrder": 34,
@@ -1133,7 +1150,8 @@
       "Text": "به مرو اندرون ساز جنگ آورد",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "...و در شهر مرو آماده‌ی نبرد شود، تا شاید بتواند خزانه‌ی عظیم پادشاهی ایران را به چنگ بیاورد."
     },
     {
       "VOrder": 36,
@@ -1149,7 +1167,8 @@
       "Text": "سپاه از بخارا چو پرّان تذرو",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "سپاهِ توران از بخارا همچون قرقاولی تیزپرواز حرکت کرد و در عرضِ یک هفته به شهر مرو رسید."
     },
     {
       "VOrder": 38,
@@ -1165,7 +1184,8 @@
       "Text": "شب تیره هنگام بانگ خروس",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "در تاریکیِ شب، هنگامِ سحر و بانگِ خروس، صدای طبل‌های جنگی از مرزِ مرو به هوا برخاست."
     },
     {
       "VOrder": 40,
@@ -1181,7 +1201,8 @@
       "Text": "جهاندار زین خود نه آگاه بود",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "پادشاهِ ایران از هیچ‌چیز خبر نداشت و اصلاً نمی‌دانست که ماهویِ سوری در خفا دشمن و بدخواهِ اوست."
     },
     {
       "VOrder": 42,
@@ -1197,7 +1218,8 @@
       "Text": "به شبگیر گاه سپیده‌دمان",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "در تاریکیِ سحرگاه و هنگام سپیده‌دم، سواری با شتاب و دوان‌دوان به نزد پادشاه آمد."
     },
     {
       "VOrder": 44,
@@ -1213,7 +1235,8 @@
       "Text": "که ماهوی گوید که آمد سپاه",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "و گفت: «ماهوی پیغام فرستاده که سپاهی از ترکان سر رسیده است؛ اکنون فرمانِ پادشاه چیست؟"
     },
     {
       "VOrder": 46,
@@ -1229,7 +1252,8 @@
       "Text": "سپهدارِ خانست و فغفور چین",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "آن‌ها فرماندهانِ خاقانِ ترک و امپراتور چین هستند و لشکرشان آن‌قدر عظیم است که زمین تابِ تحملشان را ندارد!»"
     },
     {
       "VOrder": 48,
@@ -1245,7 +1269,8 @@
       "Text": "بر‌آشفت و جوشن بپوشید شاه",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "شاه برآشفت، زرهِ جنگی بر تن کرد و با حرکتِ سپاهش، جهان از گرد و غبار سراسر تیره و تار شد."
     },
     {
       "VOrder": 50,
@@ -1261,7 +1286,8 @@
       "Text": "چو نیروی پرخاش ترکان بدید",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هنگامی که پادشاه قدرتِ جنگیِ ترکان را دید، دست برد و شمشیر از غلاف کشید."
     },
     {
       "VOrder": 52,
@@ -1277,7 +1303,8 @@
       "Text": "به پیش سپاه اندر آمد چو پیل",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "مانند فیلی خشمگین به خطِ مقدمِ سپاه آمد و زمین از شدتِ نبرد مانند رودِ خروشانِ نیل به جوشش درآمد."
     },
     {
       "VOrder": 54,
@@ -1293,7 +1320,8 @@
       "Text": "چو بر لشکر ترک بر حمله برد",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "اما همین‌که یزدگرد به لشکرِ ترکان حمله کرد، هیچ پهلوان و جنگاوری پشت‌سرِ او باقی نماند تا حمایتش کند."
     },
     {
       "VOrder": 56,
@@ -1309,7 +1337,8 @@
       "Text": "همه پشت بر تاجور گاشتند",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "همگیِ آن‌ها به پادشاهِ تاج‌دار پشت کردند و او را در میانِ سوارانِ دشمن تنها گذاشتند و گریختند."
     },
     {
       "VOrder": 58,
@@ -1325,7 +1354,8 @@
       "Text": "چو برگشت ماهوی شاه جهان",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "وقتی ماهوی پشت کرد و رفت، پادشاهِ جهان تازه متوجهِ خیانت و نیرنگِ پنهانیِ او شد."
     },
     {
       "VOrder": 60,
@@ -1341,7 +1371,8 @@
       "Text": "چنین بود ماهوی را رای و راه",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "نقشه و تدبیرِ شومِ ماهوی این بود که یزدگرد در محاصره‌ی سپاهِ دشمن تنها بماند (و کشته شود)."
     },
     {
       "VOrder": 62,
@@ -1357,7 +1388,8 @@
       "Text": "شهنشاه در جنگ شد ناشکیب",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "شاهنشاه در جنگ بی‌قرار و بی‌رحم شد و به پیاده و سواره، بی‌امان شمشیر می‌زد."
     },
     {
       "VOrder": 64,
@@ -1373,7 +1405,8 @@
       "Text": "فراوان از آن نامداران بکشت",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "بسیاری از جنگاورانِ نامدار را کشت، اما وقتی کاملاً درمانده و محاصره شد، مجبور به فرار شد."
     },
     {
       "VOrder": 66,
@@ -1389,7 +1422,8 @@
       "Text": "ز ترکان بسی بود در پشت اوی",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "سوارانِ بسیاری از ترکان در تعقیبِ او بودند، در حالی که او فقط شمشیری کابلی در دست داشت."
     },
     {
       "VOrder": 68,
@@ -1405,7 +1439,8 @@
       "Text": "همی‌تاخت جوشان چو از ابر برق",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "یزدگرد خروشان و پرشتاب همچون رعدوبرق می‌تاخت، تا اینکه به آسیابی بر روی رودخانه‌ی زَرق رسید."
     },
     {
       "VOrder": 70,
@@ -1421,7 +1456,8 @@
       "Text": "فرود آمد از باره شاه جهان",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "پادشاهِ جهان از اسب پیاده شد و برای فرار از دستِ دشمنان، در آن آسیاب مخفی شد."
     },
     {
       "VOrder": 72,
@@ -1437,7 +1473,8 @@
       "Text": "سواران بجستن نهادند روی",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "سوارانِ دشمن همه‌جا را به دنبالِ او گشتند و تمامِ منطقه‌ی زرق پر از همهمه و جستجو برای یافتنِ او شد."
     },
     {
       "VOrder": 74,
@@ -1453,7 +1490,8 @@
       "Text": "ازو بازماند اسپ زرین ستام",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "اسبش با افسارِ طلایی، و گرز و شمشیرِ زرین‌غلافش بیرون جا مانده بود."
     },
     {
       "VOrder": 76,
@@ -1469,7 +1507,8 @@
       "Text": "بجستنش ترکان خروشان شدند",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "ترکان با فریاد و خروش همه‌جا را می‌گشتند، و با دیدنِ آن اسب و تجهیزاتِ طلایی، حریص‌تر و پرجوش‌تر شدند."
     },
     {
       "VOrder": 78,
@@ -1485,7 +1524,8 @@
       "Text": "نهان گشته در خانهٔ آسیا",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "پادشاه که در خانه‌ی آسیاب مخفی شده بود، (با آن‌همه شکوه) بر روی مقداری علفِ خشک نشست."
     },
     {
       "VOrder": 80,
@@ -1501,7 +1541,8 @@
       "Text": "چنین است رسم سرای فریب",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "رسمِ این دنیای فریبکار همین است؛ فرازش بسیار بلند و نشیبش بسیار عمیق است."
     },
     {
       "VOrder": 82,
@@ -1517,7 +1558,8 @@
       "Text": "بدانگه که بیدار بُد بخت اوی",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "آن زمانی که بخت و اقبالِ او بیدار بود، چرخِ روزگار تختِ پادشاهی‌اش را تا آسمان‌ها بالا می‌برد؛"
     },
     {
       "VOrder": 84,
@@ -1533,7 +1575,8 @@
       "Text": "کنون آسیابی بیامدش بهر",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "اما اکنون از تمامِ جهان، سهمش فقط یک آسیابِ مخروبه شد و زهرِ این سقوط، بسیار بیشتر از شهدِ آن پادشاهی بود."
     },
     {
       "VOrder": 86,
@@ -1549,7 +1592,8 @@
       "Text": "چه بندی دل اندر سرای فسوس",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "چرا به این دنیای پر از حسرت و تمسخر دل می‌بندی؟ در حالی که هر لحظه ممکن است صدای طبلِ رفتن (مرگ) به گوش برسد."
     },
     {
       "VOrder": 88,
@@ -1565,7 +1609,8 @@
       "Text": "خروشی برآید که بربند رخت",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "ناگهان فریادی برمی‌خیزد که بارِ سفرت را ببند، به جای تختِ پادشاهی، تختی جز دخمه‌ی تاریکِ گور نخواهی دید."
     },
     {
       "VOrder": 90,
@@ -1581,7 +1626,8 @@
       "Text": "دهان ناچریده دو دیده پرآب",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "پادشاه با دهانی گرسنه و چشمانی پر از اشک، در آن آسیاب ماند تا اینکه خورشید طلوع کرد."
     },
     {
       "VOrder": 92,
@@ -1597,7 +1643,8 @@
       "Text": "گشاد آسیابان در آسیا",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "آسیابان درِ آسیاب را باز کرد، در حالی که باری سنگین و مقداری علف بر پشت خود داشت."
     },
     {
       "VOrder": 94,
@@ -1613,7 +1660,8 @@
       "Text": "فرومایه‌ای بود خسرو به نام",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "مردِ فقیری بود که از قضا نامش «خسرو» بود! خسرویی که نه تختی داشت، نه گنجی، نه تاجی و نه از زندگی لذتی برده بود."
     },
     {
       "VOrder": 96,
@@ -1629,7 +1677,8 @@
       "Text": "خور خویش زان آسیا ساختی",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "او هزینه‌ی خوراک و زندگی‌اش را از همان آسیاب تأمین می‌کرد و به هیچ کارِ دیگری مشغول نبود."
     },
     {
       "VOrder": 98,
@@ -1645,7 +1694,8 @@
       "Text": "گوی دید بر سانِ سرو بلند",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "ناگهان پهلوانی را دید که به بلندیِ درخت سرو است، که مانند فقیری بینوا روی سنگِ آسیاب نشسته است."
     },
     {
       "VOrder": 100,
@@ -1661,7 +1711,8 @@
       "Text": "یکی افسری خسروی بر سرش",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "افسر خسروانی بر سر داشت و سینه‌اش از لباسِ حریرِ زربافتِ چینی می‌درخشید."
     },
     {
       "VOrder": 102,
@@ -1677,7 +1728,8 @@
       "Text": "به پیکر یکی کفش زرین بپای",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "کفش‌هایی طلایی و طرح‌دار به پا داشت و آستینِ لباسش پر از مرواریدهای درخشان و طلا بود."
     },
     {
       "VOrder": 104,
@@ -1693,7 +1745,8 @@
       "Text": "نگه کرد خسرو بدو خیره ماند",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "خسرو (آسیابان) به او نگاه کرد و از آن‌همه شکوه خیره ماند؛ و در اوجِ حیرت، نامِ خدا را بر زبان آورد."
     },
     {
       "VOrder": 106,
@@ -1709,7 +1762,8 @@
       "Text": "بدو گفت کای شاه خورشید‌روی",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "به او گفت: «ای پادشاهِ خورشیدچهره! به من بگو چگونه گذرت به این آسیاب افتاده است؟"
     },
     {
       "VOrder": 108,
@@ -1725,7 +1779,8 @@
       "Text": "چه جای نشستت بود آسیا",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "آیا آسیابی که پر از گندم، خاک، گرد و غبار و علف است، جای نشستنِ توست؟"
     },
     {
       "VOrder": 110,
@@ -1741,7 +1796,8 @@
       "Text": "چه مردی بدین فرّ و این برز و چهر",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "تو با این شکوهِ ایزدی، این قامتِ برافراشته و این چهره، کی هستی که قطعاً آسمان تاکنون مانندِ تو را ندیده است؟»"
     },
     {
       "VOrder": 112,
@@ -1757,7 +1813,8 @@
       "Text": "از ایرانیانم بدو گفت شاه",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "پادشاه به او گفت: «من از ایرانیانم و از دستِ سپاه توران شکست خورده و فرار کرده‌ام.»"
     },
     {
       "VOrder": 114,
@@ -1773,7 +1830,8 @@
       "Text": "بدو آسیابان به تشویر گفت",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "آسیابان با شرمندگی و خجالت به او گفت: «من همدمی جز فقر و تنگدستی ندارم."
     },
     {
       "VOrder": 116,
@@ -1789,7 +1847,8 @@
       "Text": "اگر نان کشکینت آید به کار",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "اما اگر نانِ خشکِ جو به دردت می‌خورد، و این سبزی‌های بی‌ارزشی که از کنارِ جویبار چیده‌ام،"
     },
     {
       "VOrder": 118,
@@ -1805,7 +1864,8 @@
       "Text": "بیارم جزین نیز چیزی که هست",
       "CoupletIndex": 59,
       "SectionIndex1": 0,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "همین‌ها که دارم را برایت می‌آورم؛ آدمِ فقیر همیشه در ناله و حسرت است (چون چیزی برای پذیراییِ شایسته ندارد).»"
     },
     {
       "VOrder": 120,
@@ -1821,7 +1881,8 @@
       "Text": "به سه روز شاه جهان را ز رزم",
       "CoupletIndex": 60,
       "SectionIndex1": 0,
-      "SectionIndex2": 62
+      "SectionIndex2": 62,
+      "CoupletSummary": "پادشاهِ جهان به خاطرِ سه روز جنگِ پیاپی، اصلاً فرصتِ غذا خوردن و استراحت پیدا نکرده بود."
     },
     {
       "VOrder": 122,
@@ -1837,7 +1898,8 @@
       "Text": "بدو گفت شاه آنچ داری بیار",
       "CoupletIndex": 61,
       "SectionIndex1": 0,
-      "SectionIndex2": 63
+      "SectionIndex2": 63,
+      "CoupletSummary": "شاه به او گفت: «هرچه داری بیاور؛ اما من برای غذا خوردن به «برسم» (شاخه‌های مقدس زرتشتی برای دعای سفره) نیاز دارم.»"
     },
     {
       "VOrder": 124,
@@ -1853,7 +1915,8 @@
       "Text": "سبک مرد بی‌مایه چُبّین نهاد",
       "CoupletIndex": 62,
       "SectionIndex1": 0,
-      "SectionIndex2": 64
+      "SectionIndex2": 64,
+      "CoupletSummary": "مردِ فقیر به‌سرعت سینیِ چوبیِ کهنه‌ای را گذاشت و روی آن سبزی صحرایی و نانِ جو قرار داد."
     },
     {
       "VOrder": 126,
@@ -1869,7 +1932,8 @@
       "Text": "ببرسم شتابید و آمد به راه",
       "CoupletIndex": 63,
       "SectionIndex1": 0,
-      "SectionIndex2": 65
+      "SectionIndex2": 65,
+      "CoupletSummary": "سپس برای پیدا کردنِ «برسم» با شتاب به راه افتاد و به سوی جایی رفت که در آن دعای مقدس (واژ) می‌خواندند."
     },
     {
       "VOrder": 128,
@@ -1885,7 +1949,8 @@
       "Text": "برِ مهتر زرق شد بی‌گذار",
       "CoupletIndex": 64,
       "SectionIndex1": 0,
-      "SectionIndex2": 66
+      "SectionIndex2": 66,
+      "CoupletSummary": "او مستقیماً و بی‌واسطه پیشِ رئیسِ منطقه‌ی زَرق رفت تا از او کمی برسم طلب کند."
     },
     {
       "VOrder": 130,
@@ -1901,7 +1966,8 @@
       "Text": "بهر سو فرستاد ماهوی کس",
       "CoupletIndex": 65,
       "SectionIndex1": 0,
-      "SectionIndex2": 67
+      "SectionIndex2": 67,
+      "CoupletSummary": "از آن‌طرف، ماهوی همه‌جا آدم فرستاده بود و در تمامِ دنیا فقط به دنبالِ پیدا کردنِ پادشاه می‌گشت."
     },
     {
       "VOrder": 132,
@@ -1917,7 +1983,8 @@
       "Text": "از آن آسیابان بپرسید مه",
       "CoupletIndex": 66,
       "SectionIndex1": 0,
-      "SectionIndex2": 68
+      "SectionIndex2": 68,
+      "CoupletSummary": "رئیس از آسیابان پرسید: «ای مردِ خوش‌بخت! این برسمِ مقدس را برای چه کسی می‌خواهی؟»"
     },
     {
       "VOrder": 134,
@@ -1933,7 +2000,8 @@
       "Text": "بدو گفت خسرو که در آسیا",
       "CoupletIndex": 67,
       "SectionIndex1": 0,
-      "SectionIndex2": 69
+      "SectionIndex2": 69,
+      "CoupletSummary": "خسرو به او گفت: «در آسیابِ من، دلاور و جنگاوری روی علف‌های خشک نشسته است."
     },
     {
       "VOrder": 136,
@@ -1949,7 +2017,8 @@
       "Text": "به بالا به کردار سرو سهی",
       "CoupletIndex": 68,
       "SectionIndex1": 0,
-      "SectionIndex2": 70
+      "SectionIndex2": 70,
+      "CoupletSummary": "قامتِ او مانندِ سروِ راست و بلند است، و چهره‌اش همچون خورشیدی است که شکوهِ ایزدی دارد."
     },
     {
       "VOrder": 138,
@@ -1965,7 +2034,8 @@
       "Text": "دو ابرو کمان و دو نرگس دژم",
       "CoupletIndex": 69,
       "SectionIndex1": 0,
-      "SectionIndex2": 71
+      "SectionIndex2": 71,
+      "CoupletSummary": "دو ابروی کمان دارد و چشمانی خمار و آشفته؛ با خشم و غرور نفس می‌کشد و ابروانش را سخت در هم گره کرده است."
     },
     {
       "VOrder": 140,
@@ -1981,7 +2051,8 @@
       "Text": "ببرسم همی واژ خواهد گرفت",
       "CoupletIndex": 70,
       "SectionIndex1": 0,
-      "SectionIndex2": 72
+      "SectionIndex2": 72,
+      "CoupletSummary": "می‌خواهد با شاخه‌های برسم، دعا (واژ) بخواند؛ اگر تو هم او را ببینی، سزاوار است که از شکوهش حیرت‌زده بمانی."
     },
     {
       "VOrder": 142,
@@ -1997,7 +2068,8 @@
       "Text": "یکی کهنه چُبّین نهادم به پیش",
       "CoupletIndex": 71,
       "SectionIndex1": 0,
-      "SectionIndex2": 73
+      "SectionIndex2": 73,
+      "CoupletSummary": "من در برابرِ چنین مردی، سینیِ چوبیِ کهنه‌ای گذاشتم و نانِ جویی که فقط لایقِ فقیرانی چون خودم است، روی آن قرار دادم!»"
     },
     {
       "VOrder": 144,
@@ -2013,7 +2085,8 @@
       "Text": "بدو گفت مهتر کز ایدر بپوی",
       "CoupletIndex": 72,
       "SectionIndex1": 0,
-      "SectionIndex2": 74
+      "SectionIndex2": 74,
+      "CoupletSummary": "رئیس به او گفت: «سریع از اینجا برو و تمامِ این حرف‌ها را دقیقاً به ماهوی سوری بگو!"
     },
     {
       "VOrder": 146,
@@ -2029,7 +2102,8 @@
       "Text": "نباید که آن بدنژاد پلید",
       "CoupletIndex": 73,
       "SectionIndex1": 0,
-      "SectionIndex2": 75
+      "SectionIndex2": 75,
+      "CoupletSummary": "مبادا آن بدذاتِ پلید، وقتی خودش این خبر را بشنود، ذاتِ خرابش را نشان دهد (و ما را به جرمِ پنهان کردنِ شاه مجازات کند).»"
     },
     {
       "VOrder": 148,
@@ -2045,7 +2119,8 @@
       "Text": "سبک مهتر او را بمردی سپرد",
       "CoupletIndex": 74,
       "SectionIndex1": 0,
-      "SectionIndex2": 76
+      "SectionIndex2": 76,
+      "CoupletSummary": "بی‌درنگ آسیابان را به نگهبانی سپرد، و آن مردِ دنیادیده (آسیابان) را به حضورِ ماهوی برد."
     },
     {
       "VOrder": 150,
@@ -2061,7 +2136,8 @@
       "Text": "بپرسید ماهوی زین چاره‌جوی",
       "CoupletIndex": 75,
       "SectionIndex1": 0,
-      "SectionIndex2": 77
+      "SectionIndex2": 77,
+      "CoupletSummary": "ماهوی از آن مردِ بیچاره پرسید: «راستش را بگو! آن شاخه‌های برسم را برای چه کسی می‌خواستی؟»"
     },
     {
       "VOrder": 152,
@@ -2077,7 +2153,8 @@
       "Text": "چنین داد پاسخ ورا ترسکار",
       "CoupletIndex": 76,
       "SectionIndex1": 0,
-      "SectionIndex2": 78
+      "SectionIndex2": 78,
+      "CoupletSummary": "آن مردِ وحشت‌زده پاسخ داد: «من بارِ گندمم را برداشته بودم و به دنبالِ رزق و روزی‌ام بودم."
     },
     {
       "VOrder": 154,
@@ -2093,7 +2170,8 @@
       "Text": "در آسیا را گشادم به خشم",
       "CoupletIndex": 77,
       "SectionIndex1": 0,
-      "SectionIndex2": 79
+      "SectionIndex2": 79,
+      "CoupletSummary": "درِ آسیاب را با قدرت باز کردم، و ناگهان دیدم که انگار خورشید را با چشمانم می‌بینم!"
     },
     {
       "VOrder": 156,
@@ -2109,7 +2187,8 @@
       "Text": "دو نرگس چو نر آهو اندر هراس",
       "CoupletIndex": 78,
       "SectionIndex1": 0,
-      "SectionIndex2": 80
+      "SectionIndex2": 80,
+      "CoupletSummary": "چشمانش مانند آهوی نری‌ست در هراس؛ چشمانی به سیاهی و عمق تاریکی بعد از نیمه شب."
     },
     {
       "VOrder": 158,
@@ -2125,7 +2204,8 @@
       "Text": "چو خورشید گشتست زو آسیا",
       "CoupletIndex": 79,
       "SectionIndex1": 0,
-      "SectionIndex2": 81
+      "SectionIndex2": 81,
+      "CoupletSummary": "آسیابِ تاریکِ از نورِ چهره‌ی او مانند خورشید روشن شده است، در حالی که غذایش نانِ خشک و جای نشستنش علف است."
     },
     {
       "VOrder": 160,
@@ -2141,7 +2221,8 @@
       "Text": "هر آنکس که او فر یزدان ندید",
       "CoupletIndex": 80,
       "SectionIndex1": 0,
-      "SectionIndex2": 82
+      "SectionIndex2": 82,
+      "CoupletSummary": "هرکس که تا به حال فرّه ایزدی را ندیده است، باید وصفِ آن را از منِ آسیابان بشنود!"
     },
     {
       "VOrder": 162,
@@ -2157,7 +2238,8 @@
       "Text": "پر از گوهر نابسود افسرش",
       "CoupletIndex": 81,
       "SectionIndex1": 0,
-      "SectionIndex2": 83
+      "SectionIndex2": 83,
+      "CoupletSummary": "تاجِ او پر از جواهراتِ دست‌نخورده و ناب است، و سینه‌اش از لباسِ حریرِ چینی می‌درخشد."
     },
     {
       "VOrder": 164,
@@ -2173,7 +2255,8 @@
       "Text": "بهاریست گویی در اردیبهشت",
       "CoupletIndex": 82,
       "SectionIndex1": 0,
-      "SectionIndex2": 84
+      "SectionIndex2": 84,
+      "CoupletSummary": "طراوتِ یک روزِ بهاری در ماهِ اردیبهشت را دارد؛ و هیچ دهقانی تا به حال، سروی به بلندیِ قامتِ او نکاشته است!»"
     },
     {
       "VOrder": 166,

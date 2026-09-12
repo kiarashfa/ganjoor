@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "آن کیست که غیر توست آن کیست بگو",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کیست که غیر از تو وجود دارد؟ بگو او چه کسی است و از کجا آمده است یا اصلاً خودش چیست؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "چون غیر ترا نیست حیاتی به یقین",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی حیاتی غیر از تو وجود ندارد، به طور قطع بگو آن کسی که جز تو زندگی کرد، چگونه می‌توانست زندگی کند؟"
     },
     {
       "VOrder": 4,

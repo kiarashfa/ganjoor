@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "این خانه که سقف باشد از افلاکش",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این منزل که سقف آن به آسمان مرتبط است، نمی‌توان با تغییر ارتفاع آن به خوبی و بدی آن آسیب رساند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "یک خشت درین بنا نیابی هموار",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این بنا هیچ سنگ یا آجر همواری پیدا نمی‌کنی، زیرا همه چیز به خاک و گل تبدیل شده است."
     },
     {
       "VOrder": 4,

@@ -191,7 +191,8 @@
       "Text": "داد خواهانش گرفته راهها",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: کسانی که برای حق خود درخواست می‌کنند، به درهایی دسترسی ندارند. خواب آن‌ها در شب‌ها تحت تاثیر ناامیدی و حسرت قرار گرفته است."
     },
     {
       "VOrder": 2,
@@ -207,7 +208,8 @@
       "Text": "وان دگر در فکر جاه و منصب است",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: دیگری در روز و شب به فکر مقام و موقعیت خود است و مدام در نگرانی و پریشانی به سر می‌برد."
     },
     {
       "VOrder": 4,
@@ -223,7 +225,8 @@
       "Text": "دل به زیر بار غم دارد مدام",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: دل همیشه در زیر بار غم به سر می‌برد و هرگز آرامش ندارد؛ حتی جرعه‌ای آب هم نمی‌تواند او را تسکین دهد."
     },
     {
       "VOrder": 6,
@@ -239,7 +242,8 @@
       "Text": "نی گوارا لقمه‌ای در کام او",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: نی در کام او خوشمزگی ندارد و هیچ شادی‌ای در جام او نیست."
     },
     {
       "VOrder": 8,
@@ -255,7 +259,8 @@
       "Text": "خسبد اما خواب راحت نیستش",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: دل خوابیده است، اما خوابش راحت نیست و لحظه‌ای از فکر تو خالی نمی‌شود."
     },
     {
       "VOrder": 10,
@@ -271,7 +276,8 @@
       "Text": "خوابها بیند ولی آشفته‌تر",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: خواب‌هایی می‌بینند، اما این خواب‌ها ناراحتی و درهم‌ریختگی بیشتری دارند از پیچیدگی و زیبایی موهای معشوقان زیبا."
     },
     {
       "VOrder": 12,
@@ -287,7 +293,8 @@
       "Text": "دل ز بیم عزلش اندر اضطراب",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: دل به خاطر ترس از طرد شدن در تلاطم و اضطراب است، در حالی که ظاهری آرام و سرشار از آبادانی دارد، اما باطنش بسیار خراب و ویران است."
     },
     {
       "VOrder": 14,
@@ -303,7 +310,8 @@
       "Text": "چشم او بر گرد ره تا کیست این",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: چشم او به دورنگری می‌نگرد تا ببیند این کیست و گوشش به صداهای در می‌شنود تا بفهمد این چیست."
     },
     {
       "VOrder": 16,
@@ -319,7 +327,8 @@
       "Text": "گه گراید جانب اختر شمار",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: گاهی به جانب ستاره‌ها برو و ای دوست، با خود یک ظرف آب خوش بیاور."
     },
     {
       "VOrder": 18,
@@ -335,7 +344,8 @@
       "Text": "یک نظر در حال سال و ماه کن",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: نگاه کوتاهی به سال و ماه داشته باش و باطل درآمدن قدر من را به من نشان بده."
     },
     {
       "VOrder": 20,
@@ -351,7 +361,8 @@
       "Text": "گه ز فالَک‌زن زِ نان جوید خبر",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "گاهی از فالگیر خبر نان می‌گیرد؛ گاهی تعبیر کننده [خواب] را فرامی‌خواند و گاه رمال را."
     },
     {
       "VOrder": 22,
@@ -367,7 +378,8 @@
       "Text": "خود بپرس از حال او در گاه عزل",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: از حال او بپرس که در درگاه طرد شده است و به مضحکه اربابان مبتلا شده است."
     },
     {
       "VOrder": 24,
@@ -383,7 +395,8 @@
       "Text": "آن یکی پرسد ز اخوال درون",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: یکی از آن‌ها احوال درونی را می‌پرسد و دیگری به حالت رکوع به زمین می‌افتد."
     },
     {
       "VOrder": 26,
@@ -399,7 +412,8 @@
       "Text": "بیندش اینک کند شکر خدای",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: او حالا می‌بیند و شکر خدا را به جا می‌آورد، یعنی از ظلم و ستم تو به شدت ناراحت و گریه‌کنان است."
     },
     {
       "VOrder": 28,
@@ -415,7 +429,8 @@
       "Text": "وای اگر بیچاره در منصب بمرد",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: آه، اگر کسی که در مقام و موقعیتی است، بمیرد، او نمی‌داند چه کسی اموالش را می‌رباید."
     },
     {
       "VOrder": 30,
@@ -431,7 +446,8 @@
       "Text": "وارثش دیوانیان دیوسار",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: وارثان او، دیوانی‌هایی هستند که از عزیزانش به شدت آسیب می‌زنند و آنها را به وضعیت بدی می‌کشانند."
     },
     {
       "VOrder": 32,

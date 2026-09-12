@@ -351,7 +351,8 @@
       "Text": "ای خدای بلندی و پستی",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای خداوند بزرگ و کوچک، تو ناظر و گواهی بر بیداری و بی‌خودی انسان‌ها هستی."
     },
     {
       "VOrder": 2,
@@ -367,7 +368,8 @@
       "Text": "مطرب ناله های سیر آهنگ",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: خواننده، دلتنگی‌ها و اشکال زندگی را با آهنگ سینه‌ی چنگ به تصویر می‌کشد؛ بی‌صدا و بی‌حرکت، گویا در دلش فریادی خاموش است."
     },
     {
       "VOrder": 4,
@@ -383,7 +385,8 @@
       "Text": "زخمهٔ تار آه دردآلود",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: صدای غم‌انگیز ساز، شبیه به نفس‌های داغ و پر از درد افرادی است که در دلشان ناراحتی و رنج دارند."
     },
     {
       "VOrder": 6,
@@ -399,7 +402,8 @@
       "Text": "بادهٔ ساغر تهی دستان",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: من از دستان خالی خودم، به صدای تو شراب می‌نوشم و شادی می‌کنم."
     },
     {
       "VOrder": 8,
@@ -415,7 +419,8 @@
       "Text": "پرده ها پردهٔ ترانهٔ توست",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: پرده‌ها نمایانگر آهنگ و شعر تو هستند و نوشیدنی‌ها از میخانه و محل آرامش تو به دست می‌آیند."
     },
     {
       "VOrder": 10,
@@ -431,7 +436,8 @@
       "Text": "بیخودیها کدام و هستی کو؟",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: بی‌خودی‌ها کجا هستند و وجود کجا؟ آگاهی کجا است و بی‌خود بودن کجا؟"
     },
     {
       "VOrder": 12,
@@ -447,7 +453,8 @@
       "Text": "خبر از کاسه و سبویم نیست",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: من در مورد کاسه و سبو اطلاعاتی ندارم، بلکه در حال لذت بردن از می‌گریم و به دنبال آن هستم."
     },
     {
       "VOrder": 14,
@@ -463,7 +470,8 @@
       "Text": "می خراشم درون سینه به داغ",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: دل من ز درد عشق می‌سوزد و به خاطر خاطرات تلخ، غم و اندوهی را تحمل می‌کنم. در این حال، همواره در جستجوی تسلی و آرامش هستم ولی همچنان درگیر رنج و نگرانی می‌باشم."
     },
     {
       "VOrder": 16,
@@ -479,7 +487,8 @@
       "Text": "می زنم نشتری به تار نفس",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: به خودم آسیب می‌زنم و از درد و رنجی که در دل دارم، بهره می‌برم تا به خواسته‌هایم برسم."
     },
     {
       "VOrder": 18,
@@ -495,7 +504,8 @@
       "Text": "نقش هستی تراشیم فرسود",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: ما در تلاشیم تا وجود را شکل بدهیم، اما دل را آزردیم و سودی ندیدیم."
     },
     {
       "VOrder": 20,
@@ -511,7 +521,8 @@
       "Text": "برق ریزم ز آه و سوزم سنگ",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: اشک و ناله‌ام مانند برقی می‌درخشد و با عذاب و درد، کوه بیستون را به چنگ و انگشتانم تبدیل می‌کنم."
     },
     {
       "VOrder": 22,
@@ -527,7 +538,8 @@
       "Text": "مژه از گرمی نگاهم سوخت",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: نگاه پرحرارت من باعث سوختن مژه‌ام شد و زیبایی چهره‌ام مانند گلی در آتش نابود شد."
     },
     {
       "VOrder": 24,
@@ -543,7 +555,8 @@
       "Text": "سحر پیریم به شام کشید",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: صبح، پیری من با نوشیدنی پاک و صاف، لبم را لبریز کرد."
     },
     {
       "VOrder": 26,
@@ -559,7 +572,8 @@
       "Text": "گل افسردگی بهار من است",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: غم و اندوه من به رنگ گل‌های پژمرده است و زمان شکوفایی و زیبایی‌ام به فصل بهار مربوط می‌شود."
     },
     {
       "VOrder": 28,
@@ -575,7 +589,8 @@
       "Text": "وحشی پهن دشت امکانم",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: من در دشت وسیع امکان به دنیا آمده‌ام و ریشه‌ام به این بیابان برمی‌گردد."
     },
     {
       "VOrder": 30,
@@ -591,7 +606,8 @@
       "Text": "هرکجا پا نهم به نیش آید",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: هر جا که قدم بگذارم، خطر و سختی به دنبالم می‌آید، اما به راه خود ادامه می‌دهم تا ببینم چه اتفاقاتی خواهد افتاد."
     },
     {
       "VOrder": 32,
@@ -607,7 +623,8 @@
       "Text": "کاری از ره سپاریم نگشود",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: ما در راهی که پیش رو داریم، به نتیجه‌ای نرسیدیم و مانند قلم، همه وجودمان فرسوده و خسته شده است."
     },
     {
       "VOrder": 34,
@@ -623,7 +640,8 @@
       "Text": "رَهروی، گشت عمر کاه مرا",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: زندگی من در مسیری که می‌روم، به مرور زمان همچون کاهی پیشرفته است و در این راه، زمان به من یک قدم بیشتر نداده است."
     },
     {
       "VOrder": 36,
@@ -639,7 +657,8 @@
       "Text": "ره سپر پای مصلحت بین است",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: تلاش در مسیر درست نیاز به دقت و مصلحت‌سنجی دارد؛ راهی که در پیش دارم، پر از چالش و دشواری است و من باید مراقب باشم که به سادگی در آن قدم نگذارم."
     },
     {
       "VOrder": 38,
@@ -655,7 +674,8 @@
       "Text": "نه به شادی خوشم نه با اندوه",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: نه به شادی خوشم و نه از اندوه ناراحت هستم. من در وضعیتی قرار دارم که نمی‌توانم حس خود را به درستی بیان کنم."
     },
     {
       "VOrder": 40,
@@ -671,7 +691,8 @@
       "Text": "نه به شب گل دهم، نه سایه به روز",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: من نه در شب به گل محبت می‌کنم، و نه در روزهای گرم تابستان به بید خشک سایه می‌زنم."
     },
     {
       "VOrder": 42,
@@ -687,7 +708,8 @@
       "Text": "پیش ازین داغ دل بهاری داشت",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: قبل از این، دل من بهاری بود و خاکسترم شعله‌ای داشت."
     },
     {
       "VOrder": 44,
@@ -703,7 +725,8 @@
       "Text": "شرر افسرده شد، نشاطم نیست",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: آتش دل خاموش شده و حال و هوای شادی ندارم. هیچ چیز در زندگیم نیست که بتوانم به آن تکیه کنم."
     },
     {
       "VOrder": 46,
@@ -719,7 +742,8 @@
       "Text": "شمع پایان رسیده را مانم",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: من همانند شمعی هستم که عمرش به پایان رسیده، در شبی که دوری را احساس می‌کنم."
     },
     {
       "VOrder": 48,
@@ -735,7 +759,8 @@
       "Text": "برق این وادیم ز خیره سری",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: برق چشم‌هایم از شدت خیره‌سری، مرا به راهی می‌برد که با دل‌نگرانی و درد به جلو می‌روم."
     },
     {
       "VOrder": 50,
@@ -751,7 +776,8 @@
       "Text": "راهیم، مهرهٔ گشاد توام",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: من به تو وابسته‌ام و به‌گونه‌ای طراحی شده‌ام که خواسته‌ها و منافع تو را تامین کنم. نقش من این است که به آنچه تو می‌خواهی برسم و در خدمت تو باشم."
     },
     {
       "VOrder": 52,
@@ -767,7 +793,8 @@
       "Text": "نامرادی چو بر مراد تو بود",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: زمانی که ناامیدی و بدبختی به سراغم می‌آید، وقتی تو به خواسته‌ات می‌رسی، در دلم درهای فراوانی از امید و آرزو به سمت خواسته‌هایم باز می‌شود."
     },
     {
       "VOrder": 54,
@@ -783,7 +810,8 @@
       "Text": "شاخ خشکی، نه برگ و نه سازی",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: بدون تو که در زندگی نشاط و شوری به وجود بیاوری، همه چیز خشک و بی‌روح به نظر می‌رسد، مانند درختی که نه برگ دارد و نه صدایی."
     },
     {
       "VOrder": 56,
@@ -799,7 +827,8 @@
       "Text": "دم گرمت در آتشم دارد",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: حضور گرم تو در زندگی‌ام مانند آتش است که با شعله‌اش مرا به وجد می‌آورد و من از این حس لذت می‌برم."
     },
     {
       "VOrder": 58,
@@ -815,7 +844,8 @@
       "Text": "در ثنایت ز خوش سریرانم",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: در ستایش تو از دل خوشحال و سرشار از محبت هستم و از شعله‌های عشق به تو می‌سوزم."
     },
     {
       "VOrder": 60,
@@ -831,7 +861,8 @@
       "Text": "نارسا ناله را، رسایی ده",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: صدای ناله‌ام را کامل کن و صبح مرا با گشایش جبینت روشنایی بخش."
     },
     {
       "VOrder": 62,
@@ -847,7 +878,8 @@
       "Text": "قید آب و گلم ز پا بگشای",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: بند و موانع زندگی را رها کن و از این ترس و تردید آزاد شو."
     },
     {
       "VOrder": 64,

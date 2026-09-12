@@ -181,7 +181,8 @@
       "Text": "چو بر خواند نامه بدو ترجمان",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: زمانی که نامه‌ای را می‌خوانند، ترجمان به او می‌گوید که آتبین نیز در همان زمان حاضر است."
     },
     {
       "VOrder": 2,
@@ -197,7 +198,8 @@
       "Text": "از آن نامه و رازش آگاه کرد",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: دلش را از راز و نامه‌ای آگاه کرد و به خاطر کینه‌ورزی، مسیر جدیدی را انتخاب کرد."
     },
     {
       "VOrder": 4,
@@ -213,7 +215,8 @@
       "Text": "بدو گفت کاندیشهٔ کار کن",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: به او گفت که برای کار، به اندیشه و خرد نیاز داری و باید از این یار و راهنمایی بهره‌مند شوی."
     },
     {
       "VOrder": 6,
@@ -229,7 +232,8 @@
       "Text": "مگر کینهٔ خویش باز آوری",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: آیا می‌توانی با یادآوری کینه‌های خود، دلی نیاندیشی را به آتش بیفکنی و آن را به خشم بیاندازی؟"
     },
     {
       "VOrder": 8,
@@ -245,7 +249,8 @@
       "Text": "بدو آتبین گفت کای سرفراز",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: به او که همیشه با افتخار و قدرت، سخن گفت: «ای مرد جنگی، برای نبرد آماده شو و خود را به مردان توانمند بساز.»"
     },
     {
       "VOrder": 10,
@@ -261,7 +266,8 @@
       "Text": "مرا گر تو نیرو دهی نیست باک",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: اگر تو به من قدرت و انرژی بدهی، نگران نیستم که در مقابل چه چیزهایی قرار می‌گیرم، چه ساز و کارهایی یا حتی یک مشت خاک."
     },
     {
       "VOrder": 12,
@@ -277,7 +283,8 @@
       "Text": "گر آن بدگهر نیست اندر سپاه",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: اگر فرد بدی در میان سپاه باشد، آن سپاه هرگز راهی به خانه نخواهد یافت."
     },
     {
       "VOrder": 14,
@@ -293,7 +300,8 @@
       "Text": "اگر سی هزارند و گر صد هزار",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: اگر آنها سی هزار نفر باشند یا حتی صد هزار نفر، من با شمشیر خود به جنگشان می‌روم و آنها را از پا در می‌آورم."
     },
     {
       "VOrder": 16,
@@ -309,7 +317,8 @@
       "Text": "بدو گفت گنج و سپه پیش توست",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: به او گفتند که ثروت و نیروی نظامی در اختیار توست، چرا که این ثروت و قدرت، درمانی برای مشکلات توست."
     },
     {
       "VOrder": 18,
@@ -325,7 +334,8 @@
       "Text": "به دستور فرمود تا هرچه خواست",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: به دستور او هر چیزی که خواست از گنجینه و ابزارها به درستی فراهم شد."
     },
     {
       "VOrder": 20,
@@ -341,7 +351,8 @@
       "Text": "جهانجوی هشتاد کشتی بخواست",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: جهان‌جوی هشتاد کشتی در خواست کرد و نیرومندانی را که به او انتخاب شده بودند، به خدمت گرفت."
     },
     {
       "VOrder": 22,
@@ -357,7 +368,8 @@
       "Text": "ز گردان کوهی دو ره ده هزار",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: از کوه‌های گردان، دو مسیر به سمت هزار راه وجود دارد که همه آن‌ها با سلاح آماده نبرد هستند."
     },
     {
       "VOrder": 24,
@@ -373,7 +385,8 @@
       "Text": "زن و بچه و گنجش آن جا بماند",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: زن و فرزند و دارایی‌ام را آنجا می‌گذارم تا در روزی مبارک و شکوهمند، سپاه را رهبری کنم."
     },
     {
       "VOrder": 26,
@@ -389,7 +402,8 @@
       "Text": "به دستور ماچین بسی چیز داد",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: به فرمان ماچین، چیزهای زیادی از جمله دینار و اسب‌های اصیل را به ما دادند."
     },
     {
       "VOrder": 28,
@@ -405,7 +419,8 @@
       "Text": "فرستادش از پیش تا پیش شاه",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: او را فرستادند تا پیش شاه برود و خبر آورد که اینک سپاه آمده است."
     },
     {
       "VOrder": 30,

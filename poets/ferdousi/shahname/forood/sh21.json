@@ -371,7 +371,8 @@
       "Text": "فریبرز بنهاد بر سر کلاه",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: فریبرز کلاهی بر سر نهاد، زیرا هم پهلوان بزرگی بود و هم فرزند شاه."
     },
     {
       "VOrder": 2,
@@ -387,7 +388,8 @@
       "Text": "ازان پس بفرمود رهام را",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: پس از آن، رهام را دستور داد که نامی را که با گوهر و ارزش باشد، پیدا کند."
     },
     {
       "VOrder": 4,
@@ -403,7 +405,8 @@
       "Text": "بدو گفت رو پیش پیران خرام",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: به او گفت برو و با احتیاط و آرام نزدیک بزرگ‌ترها برو و از من بر پیام خود به آن پهلوان برسان."
     },
     {
       "VOrder": 6,
@@ -419,7 +422,8 @@
       "Text": "بگویش که کردار گردان سپهر",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: به او بگو که رفتار و سرنوشت سرنوشت‌ساز همیشه پر از درد و محبت بوده است."
     },
     {
       "VOrder": 8,
@@ -435,7 +439,8 @@
       "Text": "یکی را برآرد بچرخ بلند",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: یک نفر را به اوج می‌رساند و موفق می‌کند، در حالی که شخص دیگری را به شدّت پایین می‌آورد و در وضعیت بدی قرار می‌دهد."
     },
     {
       "VOrder": 10,
@@ -451,7 +456,8 @@
       "Text": "کسی کو بلاجست گرد آن بود",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: کسی که بدون دلیل به دیگران حمله‌ور می‌شود، نباید آن را به حساب رفتارهای مردانه گذاشت."
     },
     {
       "VOrder": 12,
@@ -467,7 +473,8 @@
       "Text": "شبیخون نسازند کنداوران",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: کسانی که در انتظار حمله‌اند، اجازه نمی‌دهند که کسی به سمت دشمن برود و از او حمایت کند."
     },
     {
       "VOrder": 14,
@@ -483,7 +490,8 @@
       "Text": "تو گر با درنگی درنگ آوریم",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: اگر تو کمی تأمل کنی، ما هم تأمل خواهیم کرد؛ اگر تصمیم به جنگ بگیری، ما هم آماده‌ی جنگ خواهیم بود."
     },
     {
       "VOrder": 16,
@@ -499,7 +507,8 @@
       "Text": "ز پیش فریبرز رهام گرد",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: رهام با آوای فریبرز از میان برآمد و پیام و نامه‌ای را حمل کرد."
     },
     {
       "VOrder": 18,
@@ -515,7 +524,8 @@
       "Text": "بیامد طلایه بدیدش براه",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: او به دروغ و نیرنگ به سراغ او آمد و از نام و مکانش سوال کرد."
     },
     {
       "VOrder": 20,
@@ -531,7 +541,8 @@
       "Text": "بدو گفت رهام جنگی منم",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: به او گفتم من جنگی هستم، هنرمند، هوشیار و محکم مثل سنگ."
     },
     {
       "VOrder": 22,
@@ -547,7 +558,8 @@
       "Text": "پیام فریبرز کاوس شاه",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: من پیام فریبرز، پسر کاوس شاه، را به پیران می‌رسانم در این میدان جنگ."
     },
     {
       "VOrder": 24,
@@ -563,7 +575,8 @@
       "Text": "ز پیش طلایه سواری چو گرد",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: از جلوی سواری که شبیه گرد و غبار آمد، همه از یاد سخن‌ها گفتند."
     },
     {
       "VOrder": 26,
@@ -579,7 +592,8 @@
       "Text": "که رهام گودرز زان رزمگاه",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: که رستم، گودرز، از میدان جنگ به سوی پهلوان سپاه آمد."
     },
     {
       "VOrder": 28,
@@ -595,7 +609,8 @@
       "Text": "بفرمود تا پیش اوی آورند",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: فرمان دادند که افراد خوش‌دل و شاداب را به نزد او بیاورند."
     },
     {
       "VOrder": 30,
@@ -611,7 +626,8 @@
       "Text": "سراینده رهام شد پیش اوی",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: شاعر می‌گوید که به پیش فردی می‌روم که به او نزدیک شده‌ام، اما باید از افکار پنهان و بدخواه او بترسم."
     },
     {
       "VOrder": 32,
@@ -627,7 +643,8 @@
       "Text": "چو پیران ورا دید بنواختش",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: وقتی پیران او را دیدند، او را مورد محبت قرار دادند و از او پرسش کردند و سپس او را بر تخت نشاندند."
     },
     {
       "VOrder": 34,
@@ -643,7 +660,8 @@
       "Text": "برآورد رهام راز از نهفت",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: رهام از پنهان راز را کشف کرد و پیام فریبرز را با او در میان گذاشت."
     },
     {
       "VOrder": 36,
@@ -659,7 +677,8 @@
       "Text": "چنین گفت پیران برهام گرد",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: پیران برهام گرد بیان می‌کند که نمی‌توان به راحتی جنگ را به عقل و خرد نسبت داد و آن را ارزیابی کرد."
     },
     {
       "VOrder": 38,
@@ -675,7 +694,8 @@
       "Text": "شما را بد این پیش دستی بجنگ",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: ما از شما توقع چنین رفتاری را نداشتیم و در نبرد با طوس، نه رای و فکر درست و با دقتی از شما دیدیم."
     },
     {
       "VOrder": 40,
@@ -691,7 +711,8 @@
       "Text": "بمرز اندر آمد چو گرگ سترگ",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: وقتی که گرگ بزرگ به مرز وارد شد، هم بی‌پروا کوچک و هم بزرگ را می‌کشت."
     },
     {
       "VOrder": 42,
@@ -707,7 +728,8 @@
       "Text": "چه مایه بکشت و چه مایه ببرد",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: نیک و بد در زندگی انسان‌ها به یک اندازه و به شکل مشابهی ارزیابی می‌شود. در واقع، هر شخصی باید در نظر داشته باشد که رفتارهایش چه تاثیراتی دارند و در نهایت، آنچه که می‌کشت یا از آن بهره‌مند می‌شود، بر زندگی‌اش تأثیر خواهد گذاشت."
     },
     {
       "VOrder": 44,
@@ -723,7 +745,8 @@
       "Text": "مکافات این بد کنون یافتند",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: اگرچه آن‌ها با کینه و دشمنی پیش رفتند، اما همین کارهای بدی که کردند، حالا به کسر و شکست بر گردانده شده است."
     },
     {
       "VOrder": 46,
@@ -739,7 +762,8 @@
       "Text": "کنون گر تویی پهلوان سپاه",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: حالا که تو قهرمان سپاه هستی، آنچه را که نیاز داری از من بخواه."
     },
     {
       "VOrder": 48,
@@ -755,7 +779,8 @@
       "Text": "گر ایدونک یک ماه خواهی درنگ",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی یک ماه درنگ کنی، بدان که از لشکر سواری برای جنگ نخواهد آمد."
     },
     {
       "VOrder": 50,
@@ -771,7 +796,8 @@
       "Text": "وگر جنگ جویی منم برکنار",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: اگر جنگجو هستی، پس خود را آماده کن و به میدان مبارزه بیفراز."
     },
     {
       "VOrder": 52,
@@ -787,7 +813,8 @@
       "Text": "چو یک مه بدین آرزو بشمرید",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: وقتی که یک ماه را با این آرزو اندازه‌گیری کردید که از مرز سرزمین توران عبور کنید."
     },
     {
       "VOrder": 54,
@@ -803,7 +830,8 @@
       "Text": "برانید لشکر سوی مرز خویش",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: لشکر خود را به سوی مرزها بفرستید تا تمام ثروت و دارایی خود را یکجا ببینید."
     },
     {
       "VOrder": 56,
@@ -819,7 +847,8 @@
       "Text": "وگرنه بجنگ اندر آرید چنگ",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: اگر نمی‌خواهید که در جنگ و جدال قرار بگیرید، پس از این به بعد زمان و تأخیر نکنید."
     },
     {
       "VOrder": 58,
@@ -835,7 +864,8 @@
       "Text": "یکی خلعت آراست رهام را",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: یکی لباس زیبا به من بخشید که مناسب جایگاه و نام من بود."
     },
     {
       "VOrder": 60,
@@ -851,7 +881,8 @@
       "Text": "بنزد فریبرز رهام گرد",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: فریبرز نامه‌ای تهیه کرد و به سمت رهام آورد، همان‌طور که در گذشته به او می‌برد."
     },
     {
       "VOrder": 62,
@@ -867,7 +898,8 @@
       "Text": "فریبرز چون یافت روز درنگ",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: فریبرز پس از اینکه روز را بگذرانید، به هر طرفی به جستجو پرداخت و مانند شیری با توانایی و قدرت عمل کرد."
     },
     {
       "VOrder": 64,
@@ -883,7 +915,8 @@
       "Text": "سر بدره‌ها را گشادن گرفت",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: بعد از اینکه دهانه‌ی ظروف را باز کردند، همه به تلاش افتادند تا نظری بدهند."
     },
     {
       "VOrder": 66,
@@ -899,7 +932,8 @@
       "Text": "کشیدند و لشکر بیاراستند",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: بسیاری از یاران را به میدان آورده و لشکری را آماده کردند و سپس هر چیزی را کمی به بهترین شکل مرتب کردند."
     },
     {
       "VOrder": 68,

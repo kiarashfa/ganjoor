@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "هر لقمهٔ خوش که بر دهان میگردد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر قطعه غذایی که بر دهان می‌چرخد، به تدریج نرم می‌شود و با هر لقمه ای که می‌جویم، تمام وجودمان را درگیر می‌کند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "خورشید و مه و فلک از آن میگردد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خورشید و ماه و آسمان به دور خود می‌چرخند تا هر چیزی که پنهان است، آشکار شود."
     },
     {
       "VOrder": 4,

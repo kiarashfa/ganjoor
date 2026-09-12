@@ -241,7 +241,8 @@
       "Text": "کهن گشته این نامهٔ باستان",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: این نوشته کهن شده و به فعالیت‌ها و سخنان آن نیکان تعلق دارد."
     },
     {
       "VOrder": 2,
@@ -257,7 +258,8 @@
       "Text": "همی نوکنم گفته‌ها زین سخن",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: من همواره از این سخن جدیدترین گفته‌ها را می‌سازم، بر اساس کلام مرد خردمند و آگاه گذشته."
     },
     {
       "VOrder": 4,
@@ -273,7 +275,8 @@
       "Text": "بود بیت، شش بار بیور هزار",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: این شعر به این معناست که هزاران کلام شایسته و دلنشین در سی و شش مرتبه بیان شده است، و این نشان‌دهنده عظمت و تنوع اندیشه‌ها و احساسات در آثار بیان شده است."
     },
     {
       "VOrder": 6,
@@ -289,7 +292,8 @@
       "Text": "نبیند کسی نامهٔ پارسی",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس نمی‌تواند نامه‌ای را به زبان فارسی ببیند که به صد بیت شعر نوشته شده باشد."
     },
     {
       "VOrder": 8,
@@ -305,7 +309,8 @@
       "Text": "اگر بازجویی درو بیت بد",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: اگر در مورد شعر یا ادبیاتی بد سخن بگوییم، بدان معناست که تعداد آن‌ها بسیار کم است و به پنجصد هم نمی‌رسد."
     },
     {
       "VOrder": 10,
@@ -321,7 +326,8 @@
       "Text": "چنین شهریاری و بخشنده‌ای",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: این شخص با چنین مقام و بخشندگی، در میان شاهان دنیا درخشان و برجسته است."
     },
     {
       "VOrder": 12,
@@ -337,7 +343,8 @@
       "Text": "نکرد اندرین داستانها نگاه",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: در این داستان، توجهی به بدگویی‌ها و بدبختی‌هایی که پیش‌آمده نشده است، و این وضعیت به عنوان یک گناه به حساب می‌آید."
     },
     {
       "VOrder": 14,
@@ -353,7 +360,8 @@
       "Text": "حسد کرد بدگوی در کار من",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: بدگویان و حسودان در کار من تلاش کردند، ولی در نهایت خودشان به ضرر افتادند و در بازار من شکست خوردند."
     },
     {
       "VOrder": 16,
@@ -369,7 +377,8 @@
       "Text": "چو سالار شاه این سخنهای نغز",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: وقتی که سرور بزرگ این سخنان زیبا را می‌خواند، به زیبایی و خلوص آن‌ها پی خواهد برد."
     },
     {
       "VOrder": 18,
@@ -385,7 +394,8 @@
       "Text": "ز گنجش من ایدر شوم شادمان",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: من از آن خوشحالم که دوری از کسی باعث می‌شود از بدگمانی‌های او فاصله بگیرم."
     },
     {
       "VOrder": 20,
@@ -401,7 +411,8 @@
       "Text": "وزان پس کند یاد بر شهریار",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: و پس از آن، تنها به یاد پادشاه می‌افتم، مگر اینکه نتیجه زحماتم به بار بنشیند."
     },
     {
       "VOrder": 22,
@@ -417,7 +428,8 @@
       "Text": "که جاوید باد افسر و تخت اوی",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: تاج و تخت او هرگز از بین نرود و بخت او از خورشید درخشان‌تر باشد."
     },
     {
       "VOrder": 24,
@@ -433,7 +445,8 @@
       "Text": "چنین گفت داننده دهقان پیر",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: دهقان پیر که دانا بود گفت: دانش، کمک و نجات‌دهنده مردان است."
     },
     {
       "VOrder": 26,
@@ -449,7 +462,8 @@
       "Text": "غم و شادمانی بباید کشید",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: باید در زندگی هم غم و هم شادی را تجربه کرد و از تمام سختی‌ها و تلخی‌ها هم باید عبور کرد."
     },
     {
       "VOrder": 28,
@@ -465,7 +479,8 @@
       "Text": "جوانان داننده و باگهر",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: جوانان باهوش و باارزش نباید بدون آزمایش و بررسی به دنبال هنر بروند."
     },
     {
       "VOrder": 30,
@@ -481,7 +496,8 @@
       "Text": "چو پرویز ناباک بود و جوان",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: زمانی که پرویز جوان و سرزنده بود، پدرش زنده بود و او همچون یک قهرمان به نظر می‌رسید."
     },
     {
       "VOrder": 32,
@@ -497,7 +513,8 @@
       "Text": "ورا در زمین دوست شیرین بدی",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: او در زمین مانند دوستی شیرین است و در جهانی که روشنایی دارد، مانند کسی است که همه چیز را می‌بیند."
     },
     {
       "VOrder": 34,
@@ -513,7 +530,8 @@
       "Text": "پسندش نبودی جزو در جهان",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: تنها چیزهایی را که در جهان از خوبان و دختران بزرگوار می‌پسندید، جزو نبوده است."
     },
     {
       "VOrder": 36,
@@ -529,7 +547,8 @@
       "Text": "ز شیرین جدا بود یک روزگار",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: در یک زمان، شیرین از شهریار جدا بود، هنگامی که او در جهان بدی و ناپسندی را تجربه می‌کرد."
     },
     {
       "VOrder": 38,
@@ -545,7 +564,8 @@
       "Text": "بگرد جهان در بی‌آرام بود",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: به جستجوی دنیا برو، زیرا دنیا همیشه پر از ناامنی و بی‌ثباتی است و کار هر کسی در این دنیا مانند جنگ و جدال بهرام است."
     },
     {
       "VOrder": 40,
@@ -561,7 +581,8 @@
       "Text": "چو خسرو بپردخت چندی به مهر",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: چنانکه خسرو مدت زیادی به عشق و محبت شب و روز گریه می‌کرد، زن زیبای او نیز در این حالت بود."
     },
     {
       "VOrder": 42,

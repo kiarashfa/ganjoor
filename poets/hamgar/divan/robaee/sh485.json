@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای دوست در آن شکایتی یا نه هنوز",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دوست، آیا هنوز هم از آن موضوع شکایت داری یا اینکه آن داستان دیگر به پایان رسیده است؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "ما بر سر خدمتیم بنمای که تو",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما در خدمت تو هستیم، ولی نشان بده که آیا تو هم به ما توجهی داری یا هنوز خیر."
     },
     {
       "VOrder": 4,

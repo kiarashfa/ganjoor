@@ -67,7 +67,7 @@
       "Number": 3,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "انی",
+      "RhymeLetters": "روزیش",
       "PlainText": "بدین غور دور شبان روزی اش\r\nبه خورشید و مه عالم افروزی اش\r\nشیخ نادان برد ز نادانی\r\nظن که شد این کمال انسانی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدین غور دَور شبان‌روزی‌اش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه خورشید و مه عالم افروزی‌اش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشیخ نادان برد ز نادانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eظن که شد این کمال انسانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
@@ -77,10 +77,20 @@
       "Number": 3,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "روزیش",
+      "RhymeLetters": "انی",
       "PlainText": "بدین غور دور شبان روزی اش\r\nبه خورشید و مه عالم افروزی اش\r\nشیخ نادان برد ز نادانی\r\nظن که شد این کمال انسانی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدین غور دَور شبان‌روزی‌اش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه خورشید و مه عالم افروزی‌اش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشیخ نادان برد ز نادانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eظن که شد این کمال انسانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ای",
+      "PlainText": "نگویم قدیم است از آغاز کار\r\nکه باشد قدم خاصه ی کردگار\r\nکه کند خانقاه و صومعه جای\r\nواکشد پا ز باغ و راغ و سرای\r\nبا هرکه نشستی و نشد جمع دلت\r\nوز تو نرهید زحمت آب و گلت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنگویم قدیم است از آغاز کار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه باشد قدم خاصه‌ی کردگار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه کند خانقاه و صومعه جای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eواکشد پا ز باغ و راغ و سرای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا هرکه نشستی و نشد جمع دلت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز تو نرهید زحمت آب و گلت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
     },
     {
       "Index": 4,
@@ -108,19 +118,29 @@
       "Number": 4,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ای",
+      "RhymeLetters": "لت",
       "PlainText": "نگویم قدیم است از آغاز کار\r\nکه باشد قدم خاصه ی کردگار\r\nکه کند خانقاه و صومعه جای\r\nواکشد پا ز باغ و راغ و سرای\r\nبا هرکه نشستی و نشد جمع دلت\r\nوز تو نرهید زحمت آب و گلت",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنگویم قدیم است از آغاز کار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه باشد قدم خاصه‌ی کردگار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه کند خانقاه و صومعه جای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eواکشد پا ز باغ و راغ و سرای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا هرکه نشستی و نشد جمع دلت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز تو نرهید زحمت آب و گلت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
-      "Index": 4,
-      "Number": 4,
+      "Index": 5,
+      "Number": 5,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "لت",
-      "PlainText": "نگویم قدیم است از آغاز کار\r\nکه باشد قدم خاصه ی کردگار\r\nکه کند خانقاه و صومعه جای\r\nواکشد پا ز باغ و راغ و سرای\r\nبا هرکه نشستی و نشد جمع دلت\r\nوز تو نرهید زحمت آب و گلت",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنگویم قدیم است از آغاز کار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه باشد قدم خاصه‌ی کردگار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه کند خانقاه و صومعه جای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eواکشد پا ز باغ و راغ و سرای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا هرکه نشستی و نشد جمع دلت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز تو نرهید زحمت آب و گلت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "",
+      "PlainText": "حدوث ارچه شد سکه ی نام او\r\nنداند کس آغاز و انجام او\r\nابهلی چند گرد او گردند\r\nتابع ذکر و ورد او گردند\r\nزنهار ز صحبتش گریزان می باش\r\nورنه نکند روح عزیزان به حلت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحدوث ارچه شد سکه‌ی نام او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنداند کس آغاز و انجام او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eابهلی چند گرد او گردند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتابع ذکر و ورد او گردند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزنهار ز صحبتش گریزان می‌باش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eورنه نکند روح عزیزان به حلت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "امیداری",
+      "PlainText": "حدوث ارچه شد سکه ی نام او\r\nنداند کس آغاز و انجام او\r\nابهلی چند گرد او گردند\r\nتابع ذکر و ورد او گردند\r\nزنهار ز صحبتش گریزان می باش\r\nورنه نکند روح عزیزان به حلت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحدوث ارچه شد سکه‌ی نام او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنداند کس آغاز و انجام او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eابهلی چند گرد او گردند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتابع ذکر و ورد او گردند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزنهار ز صحبتش گریزان می‌باش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eورنه نکند روح عزیزان به حلت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -139,17 +159,7 @@
       "Number": 5,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "امیداری",
-      "PlainText": "حدوث ارچه شد سکه ی نام او\r\nنداند کس آغاز و انجام او\r\nابهلی چند گرد او گردند\r\nتابع ذکر و ورد او گردند\r\nزنهار ز صحبتش گریزان می باش\r\nورنه نکند روح عزیزان به حلت",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحدوث ارچه شد سکه‌ی نام او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنداند کس آغاز و انجام او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eابهلی چند گرد او گردند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتابع ذکر و ورد او گردند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزنهار ز صحبتش گریزان می‌باش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eورنه نکند روح عزیزان به حلت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
-    },
-    {
-      "Index": 5,
-      "Number": 5,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "",
+      "RhymeLetters": "اماو",
       "PlainText": "حدوث ارچه شد سکه ی نام او\r\nنداند کس آغاز و انجام او\r\nابهلی چند گرد او گردند\r\nتابع ذکر و ورد او گردند\r\nزنهار ز صحبتش گریزان می باش\r\nورنه نکند روح عزیزان به حلت",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحدوث ارچه شد سکه‌ی نام او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنداند کس آغاز و انجام او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eابهلی چند گرد او گردند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتابع ذکر و ورد او گردند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزنهار ز صحبتش گریزان می‌باش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eورنه نکند روح عزیزان به حلت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
@@ -163,36 +173,6 @@
       "PlainText": "حدوث ارچه شد سکه ی نام او\r\nنداند کس آغاز و انجام او\r\nابهلی چند گرد او گردند\r\nتابع ذکر و ورد او گردند\r\nزنهار ز صحبتش گریزان می باش\r\nورنه نکند روح عزیزان به حلت",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحدوث ارچه شد سکه‌ی نام او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنداند کس آغاز و انجام او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eابهلی چند گرد او گردند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتابع ذکر و ورد او گردند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزنهار ز صحبتش گریزان می‌باش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eورنه نکند روح عزیزان به حلت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
-    },
-    {
-      "Index": 5,
-      "Number": 5,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "اماو",
-      "PlainText": "حدوث ارچه شد سکه ی نام او\r\nنداند کس آغاز و انجام او\r\nابهلی چند گرد او گردند\r\nتابع ذکر و ورد او گردند\r\nزنهار ز صحبتش گریزان می باش\r\nورنه نکند روح عزیزان به حلت",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحدوث ارچه شد سکه‌ی نام او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنداند کس آغاز و انجام او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eابهلی چند گرد او گردند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتابع ذکر و ورد او گردند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزنهار ز صحبتش گریزان می‌باش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eورنه نکند روح عزیزان به حلت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
-    },
-    {
-      "Index": 6,
-      "Number": 6,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ماییاند",
-      "PlainText": "شب و روز او چون دو یغمایی اند\r\nدو پیمانه ی عمر پیمایی اند\r\nبر خلایق مقدمش دارند\r\nهر چه گوید مسلمش دارند",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشب و روز او چون دو یغمایی‌اند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدو پیمانه‌ی عمر پیمایی‌اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر خلایق مقدمش دارند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر چه گوید مسلمش دارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
-    },
-    {
-      "Index": 6,
-      "Number": 6,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ند",
-      "PlainText": "شب و روز او چون دو یغمایی اند\r\nدو پیمانه ی عمر پیمایی اند\r\nبر خلایق مقدمش دارند\r\nهر چه گوید مسلمش دارند",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشب و روز او چون دو یغمایی‌اند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدو پیمانه‌ی عمر پیمایی‌اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر خلایق مقدمش دارند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر چه گوید مسلمش دارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
     },
     {
       "Index": 6,
@@ -209,7 +189,7 @@
       "Number": 6,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ند",
+      "RhymeLetters": "ماییاند",
       "PlainText": "شب و روز او چون دو یغمایی اند\r\nدو پیمانه ی عمر پیمایی اند\r\nبر خلایق مقدمش دارند\r\nهر چه گوید مسلمش دارند",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشب و روز او چون دو یغمایی‌اند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدو پیمانه‌ی عمر پیمایی‌اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر خلایق مقدمش دارند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر چه گوید مسلمش دارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
@@ -236,13 +216,23 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 7,
-      "Number": 7,
+      "Index": 6,
+      "Number": 6,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ی",
-      "PlainText": "دو طرار هشیار و تو خفته مست\r\nپی کیسه ببریدنت تیزدست\r\nمقتدای زمانه خواجه فقیه\r\nبا درون خبیث و نفس سفیه",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدو طرّار هشیار و تو خفته مست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپی کیسه ببریدنت تیزدست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمقتدای زمانه خواجه فقیه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا درون خبیث و نفس سفیه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ند",
+      "PlainText": "شب و روز او چون دو یغمایی اند\r\nدو پیمانه ی عمر پیمایی اند\r\nبر خلایق مقدمش دارند\r\nهر چه گوید مسلمش دارند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشب و روز او چون دو یغمایی‌اند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدو پیمانه‌ی عمر پیمایی‌اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر خلایق مقدمش دارند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر چه گوید مسلمش دارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ند",
+      "PlainText": "شب و روز او چون دو یغمایی اند\r\nدو پیمانه ی عمر پیمایی اند\r\nبر خلایق مقدمش دارند\r\nهر چه گوید مسلمش دارند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشب و روز او چون دو یغمایی‌اند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدو پیمانه‌ی عمر پیمایی‌اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر خلایق مقدمش دارند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر چه گوید مسلمش دارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -260,7 +250,7 @@
       "Number": 7,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "یه",
+      "RhymeLetters": "ی",
       "PlainText": "دو طرار هشیار و تو خفته مست\r\nپی کیسه ببریدنت تیزدست\r\nمقتدای زمانه خواجه فقیه\r\nبا درون خبیث و نفس سفیه",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدو طرّار هشیار و تو خفته مست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپی کیسه ببریدنت تیزدست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمقتدای زمانه خواجه فقیه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا درون خبیث و نفس سفیه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
@@ -283,6 +273,26 @@
       "RhymeLetters": "ست",
       "PlainText": "دو طرار هشیار و تو خفته مست\r\nپی کیسه ببریدنت تیزدست\r\nمقتدای زمانه خواجه فقیه\r\nبا درون خبیث و نفس سفیه",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدو طرّار هشیار و تو خفته مست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپی کیسه ببریدنت تیزدست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمقتدای زمانه خواجه فقیه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا درون خبیث و نفس سفیه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یه",
+      "PlainText": "دو طرار هشیار و تو خفته مست\r\nپی کیسه ببریدنت تیزدست\r\nمقتدای زمانه خواجه فقیه\r\nبا درون خبیث و نفس سفیه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدو طرّار هشیار و تو خفته مست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپی کیسه ببریدنت تیزدست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمقتدای زمانه خواجه فقیه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا درون خبیث و نفس سفیه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 8,
+      "Number": 8,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "لهای",
+      "PlainText": "ز عقد امانی ترا کیسه پر\r\nبه جان دشمن کیسه پر کیسه بر\r\nحفظ کرده است چند مسأله ای\r\nدر پی افکنده از خران گله ای",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز عقد امانی ترا کیسه پر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه جان دشمن کیسه پر، کیسه‌بُر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحفظ کرده است چند مسأله‌ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر پی افکنده از خران گله‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -310,39 +320,19 @@
       "Number": 8,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "لهای",
-      "PlainText": "ز عقد امانی ترا کیسه پر\r\nبه جان دشمن کیسه پر کیسه بر\r\nحفظ کرده است چند مسأله ای\r\nدر پی افکنده از خران گله ای",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز عقد امانی ترا کیسه پر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه جان دشمن کیسه پر، کیسه‌بُر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحفظ کرده است چند مسأله‌ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر پی افکنده از خران گله‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
-    },
-    {
-      "Index": 8,
-      "Number": 8,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "",
-      "PlainText": "ز عقد امانی ترا کیسه پر\r\nبه جان دشمن کیسه پر کیسه بر\r\nحفظ کرده است چند مسأله ای\r\nدر پی افکنده از خران گله ای",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز عقد امانی ترا کیسه پر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه جان دشمن کیسه پر، کیسه‌بُر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحفظ کرده است چند مسأله‌ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر پی افکنده از خران گله‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
-    },
-    {
-      "Index": 8,
-      "Number": 8,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
       "RhymeLetters": "ی",
       "PlainText": "ز عقد امانی ترا کیسه پر\r\nبه جان دشمن کیسه پر کیسه بر\r\nحفظ کرده است چند مسأله ای\r\nدر پی افکنده از خران گله ای",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز عقد امانی ترا کیسه پر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه جان دشمن کیسه پر، کیسه‌بُر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحفظ کرده است چند مسأله‌ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر پی افکنده از خران گله‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
-      "Index": 9,
-      "Number": 9,
+      "Index": 8,
+      "Number": 8,
       "SectionType": "Couplet",
       "VerseType": "Second",
       "RhymeLetters": "",
-      "PlainText": "چو کیسه به سیم و زر آگنده است\r\nدل کیسه داران پراکنده است\r\nسینه پر کینه دل پر از وسواس\r\nکرد ضایع به گفتگوی انفاس",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو کیسه به سیم و زر آگنده‌است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل کیسه‌داران پراکنده است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسینه پر کینه دل پر از وسواس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکرد ضایع به گفتگوی انفاس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "ز عقد امانی ترا کیسه پر\r\nبه جان دشمن کیسه پر کیسه بر\r\nحفظ کرده است چند مسأله ای\r\nدر پی افکنده از خران گله ای",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز عقد امانی ترا کیسه پر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه جان دشمن کیسه پر، کیسه‌بُر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحفظ کرده است چند مسأله‌ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر پی افکنده از خران گله‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -350,7 +340,7 @@
       "Number": 9,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "اس",
+      "RhymeLetters": "",
       "PlainText": "چو کیسه به سیم و زر آگنده است\r\nدل کیسه داران پراکنده است\r\nسینه پر کینه دل پر از وسواس\r\nکرد ضایع به گفتگوی انفاس",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو کیسه به سیم و زر آگنده‌است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل کیسه‌داران پراکنده است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسینه پر کینه دل پر از وسواس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکرد ضایع به گفتگوی انفاس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
@@ -373,6 +363,26 @@
       "RhymeLetters": "ندهاست",
       "PlainText": "چو کیسه به سیم و زر آگنده است\r\nدل کیسه داران پراکنده است\r\nسینه پر کینه دل پر از وسواس\r\nکرد ضایع به گفتگوی انفاس",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو کیسه به سیم و زر آگنده‌است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل کیسه‌داران پراکنده است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسینه پر کینه دل پر از وسواس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکرد ضایع به گفتگوی انفاس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اس",
+      "PlainText": "چو کیسه به سیم و زر آگنده است\r\nدل کیسه داران پراکنده است\r\nسینه پر کینه دل پر از وسواس\r\nکرد ضایع به گفتگوی انفاس",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو کیسه به سیم و زر آگنده‌است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل کیسه‌داران پراکنده است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسینه پر کینه دل پر از وسواس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکرد ضایع به گفتگوی انفاس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "را",
+      "PlainText": "عمر خود کرد در خلاف و مرا\r\nصرف حیض و نفاس و بیع و شری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعمر خود کرد در خلاف و مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصرف حیض و نفاس و بیع و شری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -400,30 +410,10 @@
       "Number": 10,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "را",
-      "PlainText": "عمر خود کرد در خلاف و مرا\r\nصرف حیض و نفاس و بیع و شری",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعمر خود کرد در خلاف و مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصرف حیض و نفاس و بیع و شری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
-    },
-    {
-      "Index": 10,
-      "Number": 10,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
       "RhymeLetters": "ی",
       "PlainText": "یکی جمع شد زین پراکندگی\r\nتهی کن دل از کیسه آکندگی\r\nعمر خود کرد در خلاف و مرا\r\nصرف حیض و نفاس و بیع و شری",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی جمع شد زین پراکندگی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتهی کن دل از کیسه آکندگی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعمر خود کرد در خلاف و مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصرف حیض و نفاس و بیع و شری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
-    },
-    {
-      "Index": 11,
-      "Number": 11,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "جوز",
-      "PlainText": "پی عزت نفس خواری مکش\r\nز حرص و طمع خاکساری مکش\r\nگشته مشعوف لایجور و یجوز\r\nمانده عاجز به کار دین چو عجوز\r\nبی اثر مهر چه آب و چه گل\r\nبی نمک عشق چه سنگ و چه دل",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپی عزت نفس خواری مکش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز حرص و طمع خاکساری مکش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگشته مشعوف لایجور و یجوز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمانده عاجز به کار دین چو عجوز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی‌اثر مِهر چه آب و چه گل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی‌نمک عشق چه سنگ و چه دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
     },
     {
       "Index": 11,
@@ -443,6 +433,26 @@
       "RhymeLetters": "اریمکش",
       "PlainText": "پی عزت نفس خواری مکش\r\nز حرص و طمع خاکساری مکش\r\nگشته مشعوف لایجور و یجوز\r\nمانده عاجز به کار دین چو عجوز\r\nبی اثر مهر چه آب و چه گل\r\nبی نمک عشق چه سنگ و چه دل",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپی عزت نفس خواری مکش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز حرص و طمع خاکساری مکش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگشته مشعوف لایجور و یجوز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمانده عاجز به کار دین چو عجوز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی‌اثر مِهر چه آب و چه گل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی‌نمک عشق چه سنگ و چه دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 11,
+      "Number": 11,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "جوز",
+      "PlainText": "پی عزت نفس خواری مکش\r\nز حرص و طمع خاکساری مکش\r\nگشته مشعوف لایجور و یجوز\r\nمانده عاجز به کار دین چو عجوز\r\nبی اثر مهر چه آب و چه گل\r\nبی نمک عشق چه سنگ و چه دل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپی عزت نفس خواری مکش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز حرص و طمع خاکساری مکش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگشته مشعوف لایجور و یجوز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمانده عاجز به کار دین چو عجوز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی‌اثر مِهر چه آب و چه گل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی‌نمک عشق چه سنگ و چه دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 12,
+      "Number": 12,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اس",
+      "PlainText": "میامیز چون آب با هر کسی\r\nمیاویز چون باد با هر خسی\r\nبا چنین کار و بار کرده قیاس\r\nخویشتن را که هست اکمل ناس\r\nنازکی دل سبب قرب تو است\r\nگر شکند کار تو گردد درست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیامیز چون آب با هر کسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیاویز چون باد با هر خسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا چنین کار و بار کرده قیاس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخویشتن را که هست اکمل ناس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنازکی دل سبب قرب تو است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر شکند کار تو گردد درست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -466,26 +476,6 @@
       "CoupletsCount": 3
     },
     {
-      "Index": 12,
-      "Number": 12,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "اس",
-      "PlainText": "میامیز چون آب با هر کسی\r\nمیاویز چون باد با هر خسی\r\nبا چنین کار و بار کرده قیاس\r\nخویشتن را که هست اکمل ناس\r\nنازکی دل سبب قرب تو است\r\nگر شکند کار تو گردد درست",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیامیز چون آب با هر کسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیاویز چون باد با هر خسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا چنین کار و بار کرده قیاس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخویشتن را که هست اکمل ناس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنازکی دل سبب قرب تو است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر شکند کار تو گردد درست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
-    },
-    {
-      "Index": 13,
-      "Number": 13,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "امه",
-      "PlainText": "خلاصی تو از آبرو ریختن\r\nچو بخشد ز مردم نیامیختن\r\nحد ایشان به مذهب عامه\r\nحیوانی است مستوی القامه\r\nدل که ز عشق آتش سودا در اوست\r\nقطره ی خونی است که دریا در اوست",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخلاصی تو از آبرو ریختن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو بخشد ز مردم نیامیختن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحد ایشان به مذهب عامه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحیوانی است مستوی القامه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل که ز عشق آتش سودا در اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقطره‌ی خونی است که دریا در اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
-    },
-    {
       "Index": 13,
       "Number": 13,
       "SectionType": "Couplet",
@@ -503,6 +493,26 @@
       "RhymeLetters": "یختن",
       "PlainText": "خلاصی تو از آبرو ریختن\r\nچو بخشد ز مردم نیامیختن\r\nحد ایشان به مذهب عامه\r\nحیوانی است مستوی القامه\r\nدل که ز عشق آتش سودا در اوست\r\nقطره ی خونی است که دریا در اوست",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخلاصی تو از آبرو ریختن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو بخشد ز مردم نیامیختن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحد ایشان به مذهب عامه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحیوانی است مستوی القامه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل که ز عشق آتش سودا در اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقطره‌ی خونی است که دریا در اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 13,
+      "Number": 13,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "امه",
+      "PlainText": "خلاصی تو از آبرو ریختن\r\nچو بخشد ز مردم نیامیختن\r\nحد ایشان به مذهب عامه\r\nحیوانی است مستوی القامه\r\nدل که ز عشق آتش سودا در اوست\r\nقطره ی خونی است که دریا در اوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخلاصی تو از آبرو ریختن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو بخشد ز مردم نیامیختن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحد ایشان به مذهب عامه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحیوانی است مستوی القامه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل که ز عشق آتش سودا در اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقطره‌ی خونی است که دریا در اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 14,
+      "Number": 14,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وی",
+      "PlainText": "خوش آن کاو در این لاجوردی رواق\r\nز آمیزش جفت طاق است طاق\r\nپهن ناخن برهنه پوست ز موی\r\nبه دوپا رهسپر به خانه و کوی\r\nسبحه شماران ثریا گسل\r\nمهره ی گل را نشمارند دل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش آن کاو در این لاجوردی رواق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز آمیزش جفت طاق است، طاق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپهن ناخن، برهنه پوست ز موی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه دوپا رهسپر به خانه و کوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسبحه شماران ثریا گسل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمهره‌ی گل را نشمارند دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -526,26 +536,6 @@
       "CoupletsCount": 3
     },
     {
-      "Index": 14,
-      "Number": 14,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "وی",
-      "PlainText": "خوش آن کاو در این لاجوردی رواق\r\nز آمیزش جفت طاق است طاق\r\nپهن ناخن برهنه پوست ز موی\r\nبه دوپا رهسپر به خانه و کوی\r\nسبحه شماران ثریا گسل\r\nمهره ی گل را نشمارند دل",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش آن کاو در این لاجوردی رواق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز آمیزش جفت طاق است، طاق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپهن ناخن، برهنه پوست ز موی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه دوپا رهسپر به خانه و کوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسبحه شماران ثریا گسل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمهره‌ی گل را نشمارند دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
-    },
-    {
-      "Index": 15,
-      "Number": 15,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ینساناست",
-      "PlainText": "ای دل ار عشرت امروز به فردا افکنی\r\nمایه نقد بقا را که ضمان خواهد شد\r\nهرکه را بنگرند کاین سان است\r\nمی برندش گمان که انسان است\r\nناله ز بیداد نباشد پسند\r\nچند دل و دل چونیی دردمند",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دل ار عشرت امروز به فردا افکنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمایه نقد بقا را که ضمان خواهد شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرکه را بنگرند کاین سان است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی‌برندش گمان که انسان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eناله ز بیداد نباشد پسند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچند دل و دل چونئی دردمند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
-    },
-    {
       "Index": 15,
       "Number": 15,
       "SectionType": "Couplet",
@@ -561,6 +551,16 @@
       "SectionType": "Couplet",
       "VerseType": "Second",
       "RhymeLetters": "د",
+      "PlainText": "ای دل ار عشرت امروز به فردا افکنی\r\nمایه نقد بقا را که ضمان خواهد شد\r\nهرکه را بنگرند کاین سان است\r\nمی برندش گمان که انسان است\r\nناله ز بیداد نباشد پسند\r\nچند دل و دل چونیی دردمند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دل ار عشرت امروز به فردا افکنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمایه نقد بقا را که ضمان خواهد شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرکه را بنگرند کاین سان است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی‌برندش گمان که انسان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eناله ز بیداد نباشد پسند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچند دل و دل چونئی دردمند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 15,
+      "Number": 15,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ینساناست",
       "PlainText": "ای دل ار عشرت امروز به فردا افکنی\r\nمایه نقد بقا را که ضمان خواهد شد\r\nهرکه را بنگرند کاین سان است\r\nمی برندش گمان که انسان است\r\nناله ز بیداد نباشد پسند\r\nچند دل و دل چونیی دردمند",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دل ار عشرت امروز به فردا افکنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمایه نقد بقا را که ضمان خواهد شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرکه را بنگرند کاین سان است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی‌برندش گمان که انسان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eناله ز بیداد نباشد پسند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچند دل و دل چونئی دردمند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
@@ -1017,7 +1017,8 @@
       "Text": "دلا دیده‌ی دوربین برگشای",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای دل، چشمان تیزبینت را باز کن و به این مکان باستانی و دیرپای نگاه کن."
     },
     {
       "VOrder": 2,
@@ -1033,7 +1034,8 @@
       "Text": "بدین غور دَور شبان‌روزی‌اش",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در این جهان، شب و روز در حال چرخش و گذر است و همچون خورشید و ماه، روشنی و زندگی را به اطراف می‌بخشد."
     },
     {
       "VOrder": 4,
@@ -1049,7 +1051,8 @@
       "Text": "نگویم قدیم است از آغاز کار",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: نگو که این موضوع قدیمی است و به زمان‌های گذشته مربوط می‌شود، زیرا این مسأله از همان آغاز خلقت وجود داشته و مختص خداوند است."
     },
     {
       "VOrder": 6,
@@ -1065,7 +1068,8 @@
       "Text": "حدوث ارچه شد سکه‌ی نام او",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: هرچند که پدیده‌ها و وقایع جدیدی به وجود می‌آیند، اما هیچ‌کس نمی‌تواند به طور کامل از ابتدای وجود و پایان آن‌ها آگاه باشد."
     },
     {
       "VOrder": 8,
@@ -1081,7 +1085,8 @@
       "Text": "شب و روز او چون دو یغمایی‌اند",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: شب و روز او مانند دو دزد هستند که عمر را همچون دو پیمانه به اندازه می‌سنجند."
     },
     {
       "VOrder": 10,
@@ -1097,7 +1102,8 @@
       "Text": "دو طرّار هشیار و تو خفته مست",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: دو فرد زیرک و حیله‌گر وجود دارند و در حالی که تو در خواب و بی‌خبر هستی، آن‌ها به سرعت و با مهارت اموال تو را می‌دزدند."
     },
     {
       "VOrder": 12,
@@ -1113,7 +1119,8 @@
       "Text": "ز عقد امانی ترا کیسه پر",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: از پیمان و تضمین‌های بی‌فایده، کیسه‌ات را پر می‌کنی، در حالی که دشمنان کیسه‌ای پر از دارایی‌های خود دارند و تو در خطر دزدیده شدن هستی."
     },
     {
       "VOrder": 14,
@@ -1129,7 +1136,8 @@
       "Text": "چو کیسه به سیم و زر آگنده‌است",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: وقتی کیسه پر از نقره و طلا باشد، دل افرادی که به پول فکر می‌کنند، دچار آشفتگی و پراکندگی می‌شود."
     },
     {
       "VOrder": 16,
@@ -1145,7 +1153,8 @@
       "Text": "یکی جمع شد زین پراکندگی",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: یک نفر از این پراکندگی جمع شده و به ما یادآوری می‌کند که باید دل را از پر کردن کیسه‌ها و مال و منال دنیا خالی کنیم."
     },
     {
       "VOrder": 18,
@@ -1161,7 +1170,8 @@
       "Text": "پی عزت نفس خواری مکش",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: برای کسب عزت نفس به ذلت و خواری تن نده و به خاطر حرص و طمع خود، خود را پایین نیاور."
     },
     {
       "VOrder": 20,
@@ -1177,7 +1187,8 @@
       "Text": "میامیز چون آب با هر کسی",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: با هر کسی مثل آب درهم نرو و با هر آدم بی‌ارزشی مثل باد ارتباط برقرار نکن."
     },
     {
       "VOrder": 22,
@@ -1193,7 +1204,8 @@
       "Text": "خلاصی تو از آبرو ریختن",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: نجات تو از شر آبرو باختن، به این معناست که اگر از دیگران فاصله بگیری و در کنارشان نباشی، این مشکل برایت پیش نخواهد آمد."
     },
     {
       "VOrder": 24,
@@ -1209,7 +1221,8 @@
       "Text": "خوش آن کاو در این لاجوردی رواق",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: خوشا به حال کسی که در این آسمان آبی، در کنار زیبایی و هماهنگی دو نیمهٔ مختلف، به زندگی پرداخته است."
     },
     {
       "VOrder": 26,
@@ -1225,7 +1238,8 @@
       "Text": "ای دل ار عشرت امروز به فردا افکنی",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: اگر امروز را برای خوشی و لذت در نظر بگیری و به فردا فکر نکنی، در واقع ارزش زندگی را که آن را از دست می‌دهی، نمی‌فهمی و در نتیجه دیگر نمی‌توانی به آن امیدوار باشی."
     },
     {
       "VOrder": 28,
@@ -1241,7 +1255,8 @@
       "Text": "عشقبازی کار آسان نیست ای دل سر بباز",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: عشق ورزیدن کار ساده‌ای نیست، ای دل. اگر سر خود را به این کار ندهی، هرگز نمی‌توانی در میدان عشق به خوبی بازی کنی و آرزوهای خود را به دست آوری."
     },
     {
       "VOrder": 30,
@@ -1255,7 +1270,8 @@
       "VOrder": 31,
       "Position": "Paragraph",
       "Text": "از سید فاضل میرصدرالدین محمد نقل کرده‌اند که گفت: قناتمان را که حفر می‌کردیم، به جایی رسیدیم که گل بسیاری بود که به چشم نمی‌آمد اما سنگینی آن را حس می‌کردیم.",
-      "CoupletIndex": 15
+      "CoupletIndex": 15,
+      "CoupletSummary": "هوش مصنوعی: سید فاضل میرصدرالدین محمد نقل کرده است که هنگام حفر قنات، به نقطه‌ای رسیدند که خاک زیادی وجود داشت که قابل رؤیت نبود، اما احساس می‌کردند که وزن آن سنگین است."
     },
     {
       "VOrder": 32,
@@ -1263,7 +1279,8 @@
       "Text": "شیخ نادان برد ز نادانی",
       "CoupletIndex": 16,
       "SectionIndex1": 1,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: شیخ نادان به خاطر نادانی‌اش گمان می‌کند که به کمال انسانی دست یافته است."
     },
     {
       "VOrder": 33,
@@ -1279,7 +1296,8 @@
       "Text": "که کند خانقاه و صومعه جای",
       "CoupletIndex": 17,
       "SectionIndex1": 1,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: کسی که به خانقاه و صومعه می‌رود، باید از باغ‌ها، دشت‌ها و خانه‌ها فاصله بگیرد."
     },
     {
       "VOrder": 35,
@@ -1295,7 +1313,8 @@
       "Text": "ابهلی چند گرد او گردند",
       "CoupletIndex": 18,
       "SectionIndex1": 1,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: چند نفر از ابهت و شکوه او دور او جمع می‌شوند و به ذکر و دعاهای او توجه می‌کنند."
     },
     {
       "VOrder": 37,
@@ -1311,7 +1330,8 @@
       "Text": "بر خلایق مقدمش دارند",
       "CoupletIndex": 19,
       "SectionIndex1": 1,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: افراد، هر چه او بگوید را معتبر و درست می‌دانند و به او احترام می‌گذارند."
     },
     {
       "VOrder": 39,
@@ -1327,7 +1347,8 @@
       "Text": "مقتدای زمانه خواجه فقیه",
       "CoupletIndex": 20,
       "SectionIndex1": 1,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: رهبر و پیشوای این دوران، فردی است که وابسته به علم و دین است، اما در درونش نیت‌های ناپاک و نفس‌هایی پایین دارد."
     },
     {
       "VOrder": 41,
@@ -1343,7 +1364,8 @@
       "Text": "حفظ کرده است چند مسأله‌ای",
       "CoupletIndex": 21,
       "SectionIndex1": 1,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که فردی یا گروهی نکاتی را با دقت نگه داشته و از آنها استفاده کرده‌اند، اما در عین حال باعث ایجاد هرج و مرج و آشفتگی در برخی مسائل شده‌اند. به عبارتی می‌توان گفت که این فرد یا گروه به بخشی از کارهای خود توجه کرده‌اند، اما در نتیجه کارهایشان باعث به وجود آمدن مشکلات در جاهای دیگر شده است."
     },
     {
       "VOrder": 43,
@@ -1359,7 +1381,8 @@
       "Text": "سینه پر کینه دل پر از وسواس",
       "CoupletIndex": 22,
       "SectionIndex1": 1,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: دل پر از کینه و سینه پر وسواس می‌شود، وقتی که در گفت‌وگوهای بی‌ثمر و بی‌فایده وقت صرف می‌شود."
     },
     {
       "VOrder": 45,
@@ -1375,7 +1398,8 @@
       "Text": "عمر خود کرد در خلاف و مرا",
       "CoupletIndex": 23,
       "SectionIndex1": 1,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: زندگی‌ام را در راه نادرست گذراندم و وقت خود را صرف دوران‌های حیض و زایمان و خرید و فروش کرده‌ام."
     },
     {
       "VOrder": 47,
@@ -1391,7 +1415,8 @@
       "Text": "گشته مشعوف لایجور و یجوز",
       "CoupletIndex": 24,
       "SectionIndex1": 1,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: شخصی که به خوشحالی و شادابی رسیده و از بدی‌ها دوری می‌کند، دیگر از انجام کارهای دینی ناتوان و بی‌چاره مانده، همچون یک پیرزن که قادر به حرکت صحیح نیست."
     },
     {
       "VOrder": 49,
@@ -1407,7 +1432,8 @@
       "Text": "با چنین کار و بار کرده قیاس",
       "CoupletIndex": 25,
       "SectionIndex1": 1,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: انسان باید با دقت و آگاهی خود را با دیگران مقایسه کند و در این مقایسه به کمال و نقص‌های خود پی ببرد، زیرا او در زمره کامل‌ترین انسان‌ها قرار دارد."
     },
     {
       "VOrder": 51,
@@ -1423,7 +1449,8 @@
       "Text": "حد ایشان به مذهب عامه",
       "CoupletIndex": 26,
       "SectionIndex1": 1,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: حد و مرز آنها به مذهب عامه، مانند حیوانی است که قامتش راست و یکنواخت است."
     },
     {
       "VOrder": 53,
@@ -1439,7 +1466,8 @@
       "Text": "پهن ناخن، برهنه پوست ز موی",
       "CoupletIndex": 27,
       "SectionIndex1": 1,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: ناخن‌ها دراز و پوستی نمایان است، و او با پاهای برهنه به سمت خانه و محله می‌رود."
     },
     {
       "VOrder": 55,
@@ -1455,7 +1483,8 @@
       "Text": "هرکه را بنگرند کاین سان است",
       "CoupletIndex": 28,
       "SectionIndex1": 1,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: هر کسی را که ببینند و او را به این شکل تحسین کنند، فکر می‌کنند که او انسانیت را داراست."
     },
     {
       "VOrder": 57,
@@ -1469,13 +1498,15 @@
       "VOrder": 58,
       "Position": "Paragraph",
       "Text": "ابن مهلبی گفت: نزد منتصر بودم. جماز که پیر و فرتوت گشته بود، بیامد. منتصر مرا گفت: از او پرس که آیا خاصیتی بهر زنان در او مانده است؟",
-      "CoupletIndex": 29
+      "CoupletIndex": 29,
+      "CoupletSummary": "هوش مصنوعی: ابن مهلبی گفت: من نزد منتصر بودم که ناگهان جماز پیر و ناتوانی به آنجا آمد. منتصر به من گفت: از او بپرس آیا خاصیتی برای زنان هنوز در او باقی مانده است؟"
     },
     {
       "VOrder": 59,
       "Position": "Paragraph",
       "Text": "پرسیدمش، گفت:بلی. این خاصیت که بهرشان دلالی محبت کنم. منتصر از شنیدن پاسخ وی آنقدر بخندید که به پشت بیفتاد.",
-      "CoupletIndex": 30
+      "CoupletIndex": 30,
+      "CoupletSummary": "هوش مصنوعی: از او پرسیدم و او پاسخ داد: بله. این ویژگی من است که برایشان محبت و عشق ورزی کنم. منتصر از شنیدن این پاسخ آن‌قدر خندید که به زمین افتاد."
     },
     {
       "VOrder": 60,
@@ -1483,7 +1514,8 @@
       "Text": "با هرکه نشستی و نشد جمع دلت",
       "CoupletIndex": 31,
       "SectionIndex1": 2,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: هر کس که با او در جمع نشستی و نتوانستی احساس خوبی پیدا کنی، تلاش تو برای شاد کردن او به‌هدر خواهد رفت."
     },
     {
       "VOrder": 61,
@@ -1499,7 +1531,8 @@
       "Text": "زنهار ز صحبتش گریزان می‌باش",
       "CoupletIndex": 32,
       "SectionIndex1": 2,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: احتیاط کن از صحبت با او، زیرا ممکن است روح عزیزانت به خطر بیفتد."
     },
     {
       "VOrder": 63,
@@ -1515,7 +1548,8 @@
       "Text": "بلبل از فیض گل آموخت سخن ورنه نبود",
       "CoupletIndex": 33,
       "SectionIndex1": 52,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: بلبل به دلیل لطف و خوشبو بودن گل، به یادگیری سخن پرداخته است؛ وگرنه این همه شعر و نغمه در منقار او وجود نمی‌داشت."
     },
     {
       "VOrder": 65,
@@ -1531,7 +1565,8 @@
       "Text": "به مژگان سیه کردی هزاران رخنه در دینم",
       "CoupletIndex": 34,
       "SectionIndex1": 47,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: با مژگان سیاه خود، هزاران آسیب به اعتقادهام زدی، بیا تا از چشمان بیمار تو، هزاران درد را از دلم پاک کنم."
     },
     {
       "VOrder": 67,
@@ -1547,7 +1582,8 @@
       "Text": "شب رحلت هم از بستر روم تا قصر حورالعین",
       "CoupletIndex": 35,
       "SectionIndex1": 47,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: در شب جدایی، از جایی که دراز کشیده‌ام تا قصر حورالعین، اگر در لحظهٔ جان دادن تو باشی، من چراغ خواب تو خواهم بود."
     },
     {
       "VOrder": 69,
@@ -1561,31 +1597,36 @@
       "VOrder": 70,
       "Position": "Paragraph",
       "Text": "منصور خلیفه، زیادبن عبدالله را مالی داد که بین قواعد و کوران و یتیمان بخش کند. ابو زیاد تمیمی بنزدش آمد و گفت: خدا کارت اصلاح سازد، مرا نیز جزء قواعد بنویس.",
-      "CoupletIndex": 36
+      "CoupletIndex": 36,
+      "CoupletSummary": "هوش مصنوعی: منصور خلیفه مقداری پول به زیادبن عبدالله داد تا آن را بین فقرا، کوران و یتیمان توزیع کند. ابو زیاد تمیمی به نزد او رفت و گفت: خداوند کارهای شما را نیکو گرداند، مرا هم در زمره فقرا قرار دهید."
     },
     {
       "VOrder": 71,
       "Position": "Paragraph",
       "Text": "گفت: وای بر تو مگر ندانی که قواعد زنان بیوه‌اند؟ گفت: پس مرا جزء کوران بنویس. گفت: باشد چه خداوند فرموده است: «و آنها لاتعمی الابصار و لکن تعمی القلوب التی فی الصدور» وی را جزء کوران بنوشت.",
-      "CoupletIndex": 37
+      "CoupletIndex": 37,
+      "CoupletSummary": "هوش مصنوعی: او گفت: وای بر تو! آیا نمی‌دانی که قوانین مربوط به زنان بیوه چیست؟ او در پاسخ گفت: پس من را در زمره‌ی افرادی که نابینا هستند، بنویس. او هم گفت: باشد، زیرا خداوند فرموده است: «چشم‌ها کور نمی‌شوند، بلکه دل‌هایی که در سینه‌ها هستند، کور می‌شوند.» و او را به عنوان نابینا نوشت."
     },
     {
       "VOrder": 72,
       "Position": "Paragraph",
       "Text": "اما ابو زیاد گفت: فرزند مرا نیز جزء یتیمان بنویس، گفت: باشد، چه کسی که تو پدرش باشی، یتیم است.",
-      "CoupletIndex": 38
+      "CoupletIndex": 38,
+      "CoupletSummary": "هوش مصنوعی: ابو زیاد گفت: فرزند مرا هم به عنوان یتیم ثبت کن. پاسخ داد: بله، زیرا کسی که تو پدرش هستی، یتیم به حساب می‌آید."
     },
     {
       "VOrder": 73,
       "Position": "Paragraph",
       "Text": "مزید، در اوج تهیدستی سخت بیمار شد. یکی از یارانش به عیادتش آمد و بس تکرار کرد که باید پرهیز کند. مزید گفت: مرا توانایی دسترسی به خواسته‌هایم نیست تا لازم بود پرهیز کنم.",
-      "CoupletIndex": 39
+      "CoupletIndex": 39,
+      "CoupletSummary": "هوش مصنوعی: مزید در زمان بسیار سختی و در شرایطی که به شدت بیمار بود، یکی از دوستانش به ملاقاتش آمد و بارها به او گفت که باید از برخی چیزها پرهیز کند. اما مزید جواب داد که من قدرت دسترسی به خواسته‌هایم را ندارم و بنابراین ضرورتی برای پرهیز کردن نیست."
     },
     {
       "VOrder": 74,
       "Position": "Paragraph",
       "Text": "کمی بعد که وی برمی‌خاست پرسید: چیزی نمی‌خواهی؟ مزید گفت: بلی، این که دیگر به عیادتم نیایی.",
-      "CoupletIndex": 40
+      "CoupletIndex": 40,
+      "CoupletSummary": "هوش مصنوعی: مدتی بعد که او بلند شد، پرسید: چیزی نمی‌خواهی؟ مزید پاسخ داد: بله، این که دیگر به دیدن من نیایی."
     },
     {
       "VOrder": 75,
@@ -1593,7 +1634,8 @@
       "Text": "ای که مهجوری عشاق روا می‌داری",
       "CoupletIndex": 41,
       "SectionIndex1": 3,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که برای عاشقان حق مهجوری و دوری را می‌پذیری، بندگانت را از لطف و توجه خود دور می‌کنی."
     },
     {
       "VOrder": 76,
@@ -1609,7 +1651,8 @@
       "Text": "دل ربودی و به حِلّ کردمت ای جان لیکن",
       "CoupletIndex": 42,
       "SectionIndex1": 3,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: تو قلبم را دزدیدی و به آرامش رساندی، ای جان، اما مرا به این دوری نگاه کن، که تو همیشه در دل من هستی."
     },
     {
       "VOrder": 78,
@@ -1625,7 +1668,8 @@
       "Text": "ای مگس عرصه‌ی سیمرغ نه جولانگه توست",
       "CoupletIndex": 43,
       "SectionIndex1": 3,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: این شعر به فردی اشاره دارد که در مکانی نامناسب و غیرقابل حضور است و فقط خود را به نمایش می‌گذارد. شاعر به این فرد می‌گوید که تو جایگاهی در این عرصه نداری و تنها با خودنمایی خود، برای دیگران زحمت ایجاد می‌کنی. به نوعی، شاعر از او می‌خواهد که از این فضا دور بماند و به خود سروسامان دهد، چون در این مکان، جایی برای او نیست."
     },
     {
       "VOrder": 80,
@@ -1641,7 +1685,8 @@
       "Text": "حافظ خام طمع شرمی از این قصه بدار",
       "CoupletIndex": 44,
       "SectionIndex1": 3,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: حافظ، از آنجا که هنوز به خواسته‌ها و آرزوهایش نرسیده، از این داستان ناگوار عذاب می‌کشد. او از خود می‌پرسد که چرا باید به چیزهایی که هنوز به دست نیاورده امید داشته باشد؟"
     },
     {
       "VOrder": 82,
@@ -1657,7 +1702,8 @@
       "Text": "یکی است ترکی و تازی در این معامله حافظ",
       "CoupletIndex": 45,
       "SectionIndex1": 57,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "هوش مصنوعی: در اینجا گفته می‌شود که در عشق، تفاوتی میان ملیت‌ها و زبان‌ها وجود ندارد و همه افراد، چه ترک و چه عرب، در این موضوع یکسان هستند. حافظ از شنونده می‌خواهد که داستان عشق را با هر زبانی که می‌داند نقل کند و احساساتش را بیان کند."
     },
     {
       "VOrder": 84,
@@ -1673,7 +1719,8 @@
       "Text": "گذشت عمر تو در فکر نحو و صرف و معانی",
       "CoupletIndex": 46,
       "SectionIndex1": 54,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "هوش مصنوعی: زندگی‌ات را در یادگیری قواعد زبان و معانی آن گذرانده‌ای و این به تو ارزش و زیبایی خاصی بخشیده است."
     },
     {
       "VOrder": 86,
@@ -1687,25 +1734,29 @@
       "VOrder": 87,
       "Position": "Paragraph",
       "Text": "حَجّاج، مردی سلیمان نام را به یکی از بلاد پارس ولایت داد و هفتصد مرد ترک با وی گسیل داشت و وی را گفت: با تو هفتصد شیطان بفرستادم تا هر آن کس را که خیال طغیان بود، بدست ایشان خوار و زبون سازی.",
-      "CoupletIndex": 47
+      "CoupletIndex": 47,
+      "CoupletSummary": "هوش مصنوعی: حجاج، مردی به نام سلیمان را به یکی از مناطق پارس منصوب کرد و هفتصد مرد ترک را با او فرستاد. او به سلیمان گفت: من هفتصد شیطان را همراه تو فرستاده‌ام تا هرکسی که بخواهد طغیان کند، با کمک آن‌ها خوار و ذلیل کند."
     },
     {
       "VOrder": 88,
       "Position": "Paragraph",
       "Text": "اما آن مردان، در آن سرزمین به فساد پرداختند، کشت و زرع و نسل از میان بینداختند و به سرکشی بسیار کردند. مردمان به حَجّاج شِکوِه بردند و حجّاج به سلیمان نوشت ای سلیمان، نعمت را کفران کردی، پس به نزد ما برگرد. والسلام.",
-      "CoupletIndex": 48
+      "CoupletIndex": 48,
+      "CoupletSummary": "هوش مصنوعی: اما آن مردان در آن سرزمین به فساد مشغول شدند و کشاورزی و نسل‌ها را از بین بردند و بسیار سرکش شدند. مردم به حجاج شکایت کردند و حجاج به سلیمان نوشت: ای سلیمان، نعمت‌ها را نادیده گرفتی، پس به نزد ما بازگرد. والسلام."
     },
     {
       "VOrder": 89,
       "Position": "Paragraph",
       "Text": "سلیمان در پاسخ نوشت: «بسم الله الرحمن الرحیم ». سلیمان کفران نعمت نورزید. بل شیطان‌ها کفران کردند». حجّاج که پاسخ وی بخواند، آن را نیک دید و فرمان داد که وی بماند اما ترکان یاد شده را بازگرداند.",
-      "CoupletIndex": 49
+      "CoupletIndex": 49,
+      "CoupletSummary": "هوش مصنوعی: سلیمان در جواب نوشت: «به نام خداوند بخشنده مهربان». سلیمان قدردان نعمت‌ها بود، اما شیطان‌ها ناسپاسی کردند. زمانی که حجاج این پاسخ را خواند، آن را پسندید و دستور داد سلیمان به ماندن ادامه دهد، اما دستور داد آن ترکان که ذکر شده بودند، برگردند."
     },
     {
       "VOrder": 90,
       "Position": "Paragraph",
       "Text": "ریاشی گفت: خواهی که ترا به زبانی رهنمون شوم که در آستین تو است و بستانی که در دامن تو جاگیرد و لالی که هرگاه خواهی به تو آموزد و هرگاه به تعب شوی به حال خود گزاردت؟ گفتم: بلی آن چیست: کتابت  . . . هان برآن التزام کن.",
-      "CoupletIndex": 50
+      "CoupletIndex": 50,
+      "CoupletSummary": "هوش مصنوعی: ریاشی گفت: آیا می‌خواهی به زبانی راهنمایی‌ات کنم که در وجود توست و باغی که در دامن تو قرار دارد و موجودی بزرگ که هر وقت بخواهی به تو یاد می‌دهد و هر وقت به حال خود می‌گذاری‌ات؟ من پاسخ دادم: بله، آن چیست؟ او گفت: کتاب تو... حال به آن پایبند باش."
     },
     {
       "VOrder": 91,
@@ -1713,7 +1764,8 @@
       "Text": "مشو دلگرم اگر بخشد سپهرت",
       "CoupletIndex": 51,
       "SectionIndex1": 4,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: اگر آسمان به تو امید و دلگرمی بدهد، نباید شادمان شوی؛ زیرا او که چنین می‌کند، در عین حال می‌تواند خطراتی را نیز به همراه داشته باشد که به راحتی می‌تواند به تو آسیب برساند."
     },
     {
       "VOrder": 92,
@@ -1729,7 +1781,8 @@
       "Text": "عاشق جان خویش را بادیه سهمگین بود",
       "CoupletIndex": 52,
       "SectionIndex1": 4,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: عاشق وقتی به دنبال معشوق خود می‌رود، با چالش‌ها و خطرات زیادی روبرو می‌شود. اما من با تمام خطرات و سختی‌ها کنار آمده‌ام و به هر شکلی که باشد، به آنچه برایم پیش می‌آید راضی‌ام و از خودم هیچ نگرانی ندارم."
     },
     {
       "VOrder": 94,
@@ -1745,7 +1798,8 @@
       "Text": "خاک دل آن روز که می‌بیختند",
       "CoupletIndex": 53,
       "SectionIndex1": 4,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: روزی که دل خاکی من را شکستند، از عشق بر آن دانه‌های شبنم ریختند."
     },
     {
       "VOrder": 96,
@@ -1761,7 +1815,8 @@
       "Text": "دل که به آن رشحه غم‌اندود شد",
       "CoupletIndex": 54,
       "SectionIndex1": 4,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "هوش مصنوعی: وقتی دل پر از غم و اندوه می‌شود، حالتی شبیه به کبابی پیدا می‌کند که در نمک خوابانده شده و طعم تلخی به خود می‌گیرد."
     },
     {
       "VOrder": 98,
@@ -1777,7 +1832,8 @@
       "Text": "دیده‌ی عاشق که دهد خون ناب",
       "CoupletIndex": 55,
       "SectionIndex1": 4,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "هوش مصنوعی: چشمان عاشق که اشک‌های غم‌انگیز را می‌ریزند، همانند خونی است که از کباب چکه می‌کند."
     },
     {
       "VOrder": 100,
@@ -1793,7 +1849,8 @@
       "Text": "بی‌اثر مِهر چه آب و چه گل",
       "CoupletIndex": 56,
       "SectionIndex1": 4,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: بدون محبت، نه آب و گل تاثیری دارند و نه عشق، چه سنگ باشد و چه دل."
     },
     {
       "VOrder": 102,
@@ -1809,7 +1866,8 @@
       "Text": "نازکی دل سبب قرب تو است",
       "CoupletIndex": 57,
       "SectionIndex1": 4,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: حساسیت و نازکی دل باعث نزدیک‌تر شدن تو می‌شود، اما اگر این دل بشکند، همه چیز درست می‌شود."
     },
     {
       "VOrder": 104,
@@ -1825,7 +1883,8 @@
       "Text": "دل که ز عشق آتش سودا در اوست",
       "CoupletIndex": 58,
       "SectionIndex1": 4,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: دل عاشق مانند قطره‌ای خون است که در عمق دریا غوطه‌ور است. این دل سرشار از شور و شوق عشق است و در عین کوچکی، وسعتی بی‌پایان را در دل خود دارد."
     },
     {
       "VOrder": 106,
@@ -1841,7 +1900,8 @@
       "Text": "سبحه شماران ثریا گسل",
       "CoupletIndex": 59,
       "SectionIndex1": 4,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: برخی از افراد در زندگی خود به امور سطحی و کم اهمیت توجه می‌کنند و تمام تلاش خود را صرف آن می‌نمایند، در حالی که مسائل واقعی و ارزشمند را نادیده می‌گیرند. در این میان، دل انسان به زیبایی‌ها و احساسات عمیق اهمیت می‌دهد و می‌داند چه چیزهایی واقعا ارزشمند هستند."
     },
     {
       "VOrder": 108,
@@ -1857,7 +1917,8 @@
       "Text": "ناله ز بیداد نباشد پسند",
       "CoupletIndex": 60,
       "SectionIndex1": 4,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: تظاهرات و زاری درباره ظلم و ستم، چندان مطلوب نیست و وقتی دل انسانی این‌چنین پر درد و رنج است، ناله کردن فایده‌ای ندارد."
     },
     {
       "VOrder": 110,
@@ -1873,7 +1934,8 @@
       "Text": "به که نه مشغول به این دل شوی",
       "CoupletIndex": 61,
       "SectionIndex1": 4,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: بهتر است که دل خود را درگیر این امور نکنید، زیرا ممکن است گربه، هنگامی که شما غافل هستید، چیزی را برباید."
     },
     {
       "VOrder": 112,
@@ -1889,7 +1951,8 @@
       "Text": "نیست دل آن دل که در او داغ نیست",
       "CoupletIndex": 62,
       "SectionIndex1": 4,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: دل واقعی دلی است که در آن احساسات عمیق و زخم‌هایی وجود داشته باشد؛ مثل لاله‌ای که بدون داغ و نشانه‌ای از درد در این باغ وجود ندارد."
     },
     {
       "VOrder": 114,
@@ -1905,7 +1968,8 @@
       "Text": "آهن و سنگی که شراری در اوست",
       "CoupletIndex": 63,
       "SectionIndex1": 4,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: آهن و سنگی که درونش آتشی وجود دارد، ارزش بیشتری دارد از دلی که هیچ دوستی و یاری در آن نیست."
     },
     {
       "VOrder": 116,
@@ -1921,7 +1985,8 @@
       "Text": "ای که به نظاره شدی دیده باز",
       "CoupletIndex": 64,
       "SectionIndex1": 4,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که به تماشای زیبایی نشسته‌ای، توجه کن که در لبه‌های مژه‌های بلند، چیزی را به سادگی نبین."
     },
     {
       "VOrder": 118,
@@ -1937,7 +2002,8 @@
       "Text": "کان مژه در سینه چو کاوش کند",
       "CoupletIndex": 65,
       "SectionIndex1": 4,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: وقتی مژه مانند جستجوگری در سینه باشد، اشک‌های دل از چشمان آدمی سرازیر می‌شود."
     },
     {
       "VOrder": 120,
@@ -1953,7 +2019,8 @@
       "Text": "یا منگر سوی بتان تیز تیز",
       "CoupletIndex": 66,
       "SectionIndex1": 4,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: به طرف معشوقان نگاهی تند و سریع نکن یا اینکه از بحران‌ها و دردها فاصله بگیر."
     },
     {
       "VOrder": 122,
@@ -1969,7 +2036,8 @@
       "Text": "روی بتان گرچه سراسر خوش است",
       "CoupletIndex": 67,
       "SectionIndex1": 4,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: اگرچه زیبایی و جذابیت معشوقان بسیار فریبنده است، ما به خاطر عشق افرادی که دل‌ها را می‌شکنند و عاشقان را می‌کشند، تسلیم و گرفتار شده‌ایم."
     },
     {
       "VOrder": 124,
@@ -1985,7 +2053,8 @@
       "Text": "هر بت رعنا که جفا‌کیش‌تر",
       "CoupletIndex": 68,
       "SectionIndex1": 4,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: هر زیبای دل‌ربا که بی‌رحم‌تر باشد، دل ما بیشتر به سمت او کشیده می‌شود."
     },
     {
       "VOrder": 126,
@@ -2001,7 +2070,8 @@
       "Text": "یار، گرفتم که به خوبی بری(؟پری) است",
       "CoupletIndex": 69,
       "SectionIndex1": 4,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: عزیزم، فهمیدم که زیبایی‌ات چون پری است و سوختن به خاطر عشق و دلبری تو، برایم مانند نمک است که لذیذ و شیرین است."
     },
     {
       "VOrder": 128,
@@ -2017,7 +2087,8 @@
       "Text": "سوزش و تلخی است غرض از شراب",
       "CoupletIndex": 70,
       "SectionIndex1": 4,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: هدف از شراب، سوزش و تلخی آن است، وگرنه آب که شیرین‌تر است، از آن بهتر است."
     },
     {
       "VOrder": 130,
@@ -2033,7 +2104,8 @@
       "Text": "لاله رخان گرچه که داغِ دلند",
       "CoupletIndex": 71,
       "SectionIndex1": 4,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: چهره‌های زیبا، هرچند که برای دل درد ایجاد می‌کنند، اما در عین حال روشنی‌بخش چشم‌ها و زندگی دل هستند."
     },
     {
       "VOrder": 132,
@@ -2049,7 +2121,8 @@
       "Text": "مهر و جفا کاریشان دلفروز",
       "CoupletIndex": 72,
       "SectionIndex1": 4,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: عشق و سختی‌هایی که به دل انسان می‌آورد، دیدن و نادیدن آنها همچون آتشی در دل سوزان است."
     },
     {
       "VOrder": 134,
@@ -2065,7 +2138,8 @@
       "Text": "حسن، چه دل بود که دادش نداد؟",
       "CoupletIndex": 73,
       "SectionIndex1": 4,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: زیبایی چه دل‌انگیزی است که آن را فدای عشق نکرد؟ و عشق چه پاکی‌ای دارد که آن را نادیده گرفته و به فراموشی سپرده است؟"
     },
     {
       "VOrder": 136,
@@ -2081,7 +2155,8 @@
       "Text": "دامن از اندیشه‌ی باطل بکش",
       "CoupletIndex": 74,
       "SectionIndex1": 4,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: از افکار نادرست دوری کن و دل خود را از پلیدی‌ها پاک کن."
     },
     {
       "VOrder": 138,
@@ -2097,7 +2172,8 @@
       "Text": "قدر خود آن‌ها که قوی یافتند",
       "CoupletIndex": 75,
       "SectionIndex1": 4,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: افرادی که به اراده و کیفیت خود اهمیت می‌دهند، از قدم‌های درست و نیات پاک خود به شاهراه موفقیت و قدرت دست می‌یابند."
     },
     {
       "VOrder": 140,
@@ -2113,7 +2189,8 @@
       "Text": "کار چنان کن که در این تیره خاک",
       "CoupletIndex": 76,
       "SectionIndex1": 4,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: کاری انجام بده که در این دنیای پر از بدی و ناامیدی، آبرو و شرافتت را زیر سوال نبرم یا خدشه‌دار نکنم."
     },
     {
       "VOrder": 142,
@@ -2129,7 +2206,8 @@
       "Text": "عشق بلند آمد و دلبر غیور",
       "CoupletIndex": 77,
       "SectionIndex1": 4,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: عشق به وقار و بی‌نظمی دلبر غیور و با ادب، به تو این پیام را می‌دهد که باید از خودبینی و خودخواهی دست بکشی."
     },
     {
       "VOrder": 144,
@@ -2145,7 +2223,8 @@
       "Text": "چرخ در این سلسله پا در گل است",
       "CoupletIndex": 78,
       "SectionIndex1": 4,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: در این دنیای پر از پیچیدگی و مشکلات، عقل و درک ما به کندی پیش می‌رود و در این حالت از مسیری که باید، باز می‌ماند. زندگی مانند میخانه‌ای است که در آن خیلی‌ها به نادانی و گیجی گرفتار شده‌اند و از حقیقت دور هستند."
     },
     {
       "VOrder": 146,
@@ -2161,7 +2240,8 @@
       "Text": "جان و جسد خسته‌ی این مرهم‌اند",
       "CoupletIndex": 79,
       "SectionIndex1": 4,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: جان و بدن خسته نماد تسکین‌دهنده‌اند و ملک و سرزمین آسیب‌دیده نشانه‌ای از این درد و اندوه هستند."
     },
     {
       "VOrder": 148,
@@ -2177,7 +2257,8 @@
       "Text": "ای دو جهان ذره‌ای از راه تو",
       "CoupletIndex": 80,
       "SectionIndex1": 4,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: ای دو عالم، ما تنها ذره‌ای از وجود تو هستیم و در نزد تو، هیچ چیز با ارزش‌تر از هیچ چیز نیست."
     },
     {
       "VOrder": 150,
@@ -2193,7 +2274,8 @@
       "Text": "راز تو بر بی‌خبران بسته در",
       "CoupletIndex": 81,
       "SectionIndex1": 4,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: راز تو برای کسانی که نمی‌دانند، پنهان است و حتی کسانی که از آن باخبرند هم هنوز نسبت به تو ناآگاهند."
     },
     {
       "VOrder": 152,
@@ -2209,7 +2291,8 @@
       "Text": "وصف تو ز اندازه‌ی دانش فزون",
       "CoupletIndex": 82,
       "SectionIndex1": 4,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: توصیف و معرفی تو فراتر از حد درک و دانش مردم است و کارهای تو از قدرت تفکر دیگران فراتر می‌رود."
     },
     {
       "VOrder": 154,
@@ -2225,7 +2308,8 @@
       "Text": "فکرت ما را سوی تو راه نیست",
       "CoupletIndex": 83,
       "SectionIndex1": 4,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: فکر ما نمی‌تواند ما را به سوی تو راهنمایی کند، زیرا هیچ‌کس جز تو از اسرار و رازهای تو باخبر نیست."
     },
     {
       "VOrder": 156,
@@ -2241,7 +2325,8 @@
       "Text": "در تو زبان را که تواند گشاد",
       "CoupletIndex": 84,
       "SectionIndex1": 4,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس نمی‌تواند درباره‌ی حقیقت وجود تو سخن بگوید یا هویت واقعی‌ات را مشخص کند."
     },
     {
       "VOrder": 158,
@@ -2257,7 +2342,8 @@
       "Text": "حکم ترا در خم این نه زره",
       "CoupletIndex": 85,
       "SectionIndex1": 4,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: حکم تو مانند یک زنجیر طولانی است که در میان خم و پیچ و تاب‌های زندگی به هم گره خورده و بافت پیچیده‌ای دارد."
     },
     {
       "VOrder": 160,
@@ -2273,7 +2359,8 @@
       "Text": "گر همه عالم به هم آیند تنگ",
       "CoupletIndex": 86,
       "SectionIndex1": 4,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: اگر تمام دنیا جمع شوند، یک مورچه لنگ نمی‌تواند در تنگنا قرار گیرد."
     },
     {
       "VOrder": 162,
@@ -2289,7 +2376,8 @@
       "Text": "جمله جهان عاجز یک پای مور",
       "CoupletIndex": 87,
       "SectionIndex1": 4,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: تمام موجودات دنیا حتی کوچک‌ترین‌ها هم ناتوان هستند و این وضعیت به اندازه‌ای حیرت‌انگیز است که در برابر قدرت مطلق خداوند هیچ‌کس نمی‌تواند ادعای توانایی کند."
     },
     {
       "VOrder": 164,
@@ -2305,7 +2393,8 @@
       "Text": "به که ز بیچارگی جان خویش",
       "CoupletIndex": 88,
       "SectionIndex1": 4,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: بهتر است که از ناتوانی و بیچارگی‌ام صحبت کنم و به کمبودها و ضعف‌هایم اعتراف کنم."
     },
     {
       "VOrder": 166,
@@ -2321,7 +2410,8 @@
       "Text": "گمشدگانیم در این تنگنای",
       "CoupletIndex": 89,
       "SectionIndex1": 4,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: ما در این بن‌بست و تنگنا گم شده‌ایم، چه کسی می‌تواند ما را راهنمایی کند؟ تنها تویی که می‌توانی راه را نشان دهی."
     },
     {
       "VOrder": 168,
@@ -2337,7 +2427,8 @@
       "Text": "خسرو مسکین ز دل مستمند",
       "CoupletIndex": 90,
       "SectionIndex1": 4,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: خسرو بیچاره از دل نیازمند خود، تسلیم و راضی به وضعیتش شد."
     },
     {
       "VOrder": 170,
@@ -2353,7 +2444,8 @@
       "Text": "کار نگویم که چه سان کن بدو",
       "CoupletIndex": 91,
       "SectionIndex1": 4,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: کارهایی که باید انجام بدی رو نمی‌گم چطور انجام بدی، فقط آنچه که لایقشه و باید انجام بده، رو انجام بده."
     },
     {
       "VOrder": 172,
@@ -2367,20 +2459,23 @@
       "VOrder": 173,
       "Position": "Paragraph",
       "Text": "عارفی گفت: اگر الفت عارضی بین تن و جان نمی‌بود، جان در تن چشم به هم زدنی درنگ نیاوردی چه بین این دو را تفاوت بسیار است.",
-      "CoupletIndex": 92
+      "CoupletIndex": 92,
+      "CoupletSummary": "هوش مصنوعی: یک عارف بیان می‌کند که اگر حالت نزدیکی و دوستی میان جسم و روح وجود نداشت، روح هیچ‌گاه در بدن لحظه‌ای تأمل نمی‌کرد، چرا که تفاوت زیادی بین این دو وجود دارد."
     },
     {
       "VOrder": 174,
       "Position": "Paragraph",
       "Text": "با این همه امّا جان هر زمان که یاد سرمنزل جانان کند، نزدیک شود که از شوق بگدازد و هر دم آرزوی فراق تن کند. حافظ چه نیک سروده است:",
-      "CoupletIndex": 93
+      "CoupletIndex": 93,
+      "CoupletSummary": "هوش مصنوعی: با این حال، هر بار که به یاد معشوق می‌افتد، دلش به تنگ می‌آید و از شدت شوق، گویی می‌خواهد بسوزد و هر لحظه آرزوی جدایی از تن را در سر می‌پروراند. حافظ چه زیبا سروده است:"
     },
     {
       "VOrder": 175,
       "Position": "Right",
       "Text": "چاک خواهم زدن این دلق ریا را چه‌ کنم؟",
       "CoupletIndex": 94,
-      "SectionIndex1": 5
+      "SectionIndex1": 5,
+      "CoupletSummary": "هوش مصنوعی: می‌خواهم این لباس ریا را پاره کنم، اما چه کار می‌توانم بکنم؟ صحبت با روح، که خود ناپاک است، عذاب بزرگی است."
     },
     {
       "VOrder": 176,
@@ -2393,14 +2488,16 @@
       "VOrder": 177,
       "Position": "Paragraph",
       "Text": "گویی حافظ مضمون این شعر از آن سخن بگرفته است. عارف رومی نیز ره بر همین نمط رفته است، آنجا که گوید:",
-      "CoupletIndex": 95
+      "CoupletIndex": 95,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد حافظ از محتوای این شعر الهام گرفته است. عارف رومی نیز به همین روش عمل کرده و در جایی می‌گوید:"
     },
     {
       "VOrder": 178,
       "Position": "Right",
       "Text": "در بدن اندر عذابی ای پسر",
       "CoupletIndex": 96,
-      "SectionIndex1": 6
+      "SectionIndex1": 6,
+      "CoupletSummary": "هوش مصنوعی: در وجود تو رنج و عذابی وجود دارد، پسر، چراکه روح تو به چیزی غیر از خودت وابسته شده است."
     },
     {
       "VOrder": 179,
@@ -2414,7 +2511,8 @@
       "Position": "Right",
       "Text": "هرکه را با ضد وی بگذاشتند",
       "CoupletIndex": 97,
-      "SectionIndex1": 6
+      "SectionIndex1": 6,
+      "CoupletSummary": "هوش مصنوعی: هر کس که با دشمنش مواجه شود، این عذاب را همانند مرگ می‌داند."
     },
     {
       "VOrder": 181,

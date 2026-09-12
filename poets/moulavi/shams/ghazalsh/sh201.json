@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "شب رفت و هم تمام نشد ماجرای ما",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "شب به پایان رسید و قصه ما تمام نشد پس باید همه را در اینجا گفت."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "والله ز دور آدم تا روز رستخیز",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "والله که از زمان آدم تا روز قیامت اگر قصه آن را بگویند تمام نشود."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "اما چنین نماید کاینک تمام شد",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "اما به‌نظر می‌رسد که اینک تمام شود به مثل زمانیکه یک ترک کسی را که در حال حرکت است بانگ می‌زند و می‌گوید «اشپو» (اشپو گویا بانگ اشاره است که ترکان صحرا نشین با آن مهمان را فرا می‌خوانده‌اند)"
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "اشپوی ترک چیست که نزدیک منزلی",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "«اشپو»ی تُرک یعنی که منزل و مقصد بسیار نزدیک است تا در آنجا گرمی و نیرو بگیری."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "چون راه رفتنی‌ست توقف هلاکت‌ست",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "وقتی که از راه و سفر ناگزیری و باید بروی چرا توقف می‌کنی؟ وقتی مقصد نزدیک است و (صدایی) مهمان را دعوت می‌کند و می‌گوید به خرگه اندر آ."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "صاحب‌مروتی‌ست که جانش دریغ نیست",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "(آن میزبان) صاحب مروت و جوانمردی است که در پذیرایی از تو از جان دریغ نمی‌کند اما اگر در راه بمانی دچار بلا و سختی می‌شوی."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "بر ترک ظن بد مبر و متهم مکن",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "بر تُرک اندیشه بد مکن و بدگمانی مکن و همچون غلام هندو لجبازی مکن و بشتاب‌، ای همراه و یار!"
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "کان جا در آتش است سه نعل از برای تو",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "کانجا برای پذیرایی از تو بی‌قرارند (و برایت به افسون سه نعل در آتش گذاشته‌اند) و دل خویش و اقربا به گوش توست."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "نگذارد اشتیاق کریمان که آب خوش",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "اشتیاق میزبانان و کریمان‌ِ آنجا اجازه نمی‌دهد که در اینجا راحت بمانی."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "گر در عسل نشینی تلخت کنند زود",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "اگر در اینجا در عسل، فرو روی باز هم شیرینی را نمی‌چشی و اگر با خود‌ِ وفا و مهر، یار شوی بر تو جفا می‌شود."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "خاموش باش و راه رو و این یقین بدان",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "خموش شو و راه را بپیما و این را به‌یقین بدان که آب غریبی و غربت، همچون آسیا تو را سرگشته می‌کند."
     },
     {
       "VOrder": 22,

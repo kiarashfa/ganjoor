@@ -401,7 +401,8 @@
       "Text": "ای چو گلت جیب به چنگ خسان",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای گل زیبا، از دست افراد بی‌ارزش دوری کن و اجازه نده که چنگال آنها دامن تو را بگیرد."
     },
     {
       "VOrder": 2,
@@ -417,7 +418,8 @@
       "Text": "گرچه ز آغاز گشادت دهند",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: اگرچه در ابتدای کار به تو خوشامد می‌گویند، اما در پایان آن ممکن است به تو آسیب برسانند."
     },
     {
       "VOrder": 4,
@@ -433,7 +435,8 @@
       "Text": "غنچه وش از همنفسان لب ببند",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: دوست من، با کسانی که همتای تو هستند، سخن نگو و لب خود را ببند. مانند گل، به هیچ کس نخند و جلوی دیگران خود را کنترل کن."
     },
     {
       "VOrder": 6,
@@ -449,7 +452,8 @@
       "Text": "جلوه مده همچو خور انوار خویش",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: به خودنمایی نپرداز و همچون خورشید فقط نور خود را منتشر نکن، بلکه مثل سایه‌ای در کنار دیوارت باقی بمان."
     },
     {
       "VOrder": 8,
@@ -465,7 +469,8 @@
       "Text": "بر کس و ناکس به حریم خمول",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: در همه جا و برای هر کسی، دروازه‌های ورود و خروج را به روی دیگران ببند و دقت کن که هیچ‌کس به حریم تو نزدیک نشود."
     },
     {
       "VOrder": 10,
@@ -481,7 +486,8 @@
       "Text": "دیر نشین باش چو عیسی دمان",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: در زمان غیبت یا دوری، مانند عیسی (ع)، هرگز در مکانی نمان و از عده‌ای که برای تو ناامن هستند، دوری کن."
     },
     {
       "VOrder": 12,
@@ -497,7 +503,8 @@
       "Text": "گر بود اندر بن غاریت جای",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: اگر در دل غار تو جایی برای مار وجود داشته باشد، زنجیر پایت خواهد شد."
     },
     {
       "VOrder": 14,
@@ -513,7 +520,8 @@
       "Text": "به که به هر حلقه نهی پای خویش",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: بهتر است که در هر جمعی خودت را در حقیرترین مرتبه قرار ندهی و در محافل حقیران جا نگیری."
     },
     {
       "VOrder": 16,
@@ -529,7 +537,8 @@
       "Text": "ور شودت دور کمر کوه سنگ",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: اگر دور کمر کوه سنگی بیفتی، در وسط منطقه شبیه دم پلنگ قرار خواهی گرفت."
     },
     {
       "VOrder": 18,
@@ -545,7 +554,8 @@
       "Text": "به که دو رنگان منافق سیر",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: بهتر است که انسان‌ها که به دو رنگی و نفاق مشهورند، به خاطر خودخواهی و فریبکاری، برای تو خدمت کنند و به تو نزدیک شوند."
     },
     {
       "VOrder": 20,
@@ -561,7 +571,8 @@
       "Text": "گر کشدت شانه به سر پنجه شیر",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: اگر تو را به زمین بیندازند و در نبرد با شیر، او از جانت خسته و سیر شود، یعنی او از مبارزه با تو خالی می‌شود."
     },
     {
       "VOrder": 22,
@@ -577,7 +588,8 @@
       "Text": "به که حریفان کف راحت نهند",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: بهتر است که حریفان از درد و زخم‌هایشان به خاطر لطفت التیام بگیرند و آرامش یابند."
     },
     {
       "VOrder": 24,
@@ -593,7 +605,8 @@
       "Text": "گر کندت بحر پر آشوب غرق",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: اگر بحر پر آشوب تو را غرق کند یا موج خطرناک از سرت بگذرد،"
     },
     {
       "VOrder": 26,
@@ -609,7 +622,8 @@
       "Text": "به که به کشتی رفیقان خاص",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: بهتر است که در کشتی دوستان خود، بار و وسایل خود را قرار دهی و به امید نجات و رهایی بروی."
     },
     {
       "VOrder": 28,
@@ -625,7 +639,8 @@
       "Text": "در کنف پرتو خور کم نشین",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: در سایه نور خورشید قرار نگیر، تا این‌که سایه‌ات هم‌نشین نشود."
     },
     {
       "VOrder": 30,
@@ -641,7 +656,8 @@
       "Text": "راه ز گلگشت لب جو بتاب",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: به سمت کنار آب برو و از زیبایی‌های آن لذت ببر، اما مواظب باش که صورتت به آب نرسد."
     },
     {
       "VOrder": 32,
@@ -657,7 +673,8 @@
       "Text": "آینه را در نظر خود منه",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: به خودت نگاه نکن، چون ممکن است تصویر تو را انعکاس دهد."
     },
     {
       "VOrder": 34,
@@ -673,7 +690,8 @@
       "Text": "اول فطرت که پدید آمدی",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: در ابتدا، زمانی که به وجود آمدی، از همه‌ی دیگران جدا و منحصر به فرد بودی."
     },
     {
       "VOrder": 36,
@@ -689,7 +707,8 @@
       "Text": "عاقبت کار کز اینجا روی",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: در نهایت، آنچه مسلم است این است که در اینجا تنها یک مسیر وجود دارد."
     },
     {
       "VOrder": 38,
@@ -705,7 +724,8 @@
       "Text": "این همه اکنون گره و بند چیست",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: این همه گره‌ها و بندها که وجود دارد، چه معنی دارند و این همه ارتباط و پیوند بین افراد و چیزها برای چیست؟"
     },
     {
       "VOrder": 40,
@@ -721,7 +741,8 @@
       "Text": "بگسل ازینان که زیان تواند",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: از افرادی که می‌توانند به تو آسیب برسانند و دشمنی با دلت دارند، فاصله بگیر."
     },
     {
       "VOrder": 42,
@@ -737,7 +758,8 @@
       "Text": "قدر تو کاهند که افزون شوند",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: مقدار ارزش و اهمیت تو را کمتر می‌کنند تا عیب‌هایت را بسنجند و متناسب کنند."
     },
     {
       "VOrder": 44,
@@ -753,7 +775,8 @@
       "Text": "گر تو شوی پنبه همه آتشند",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: اگر تو مانند پنبه شوی، همه چیز آتش می‌گیرد و اگر سر خود را پایین نیاوری، همه به تو سر خواهند کشید."
     },
     {
       "VOrder": 46,
@@ -769,7 +792,8 @@
       "Text": "چون دلت از غصه پریشان شود",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: وقتی دل‌ات از اندوه و غم درهم برهم شود، باعث می‌شود که آن‌ها هم دور هم جمع شوند."
     },
     {
       "VOrder": 48,
@@ -785,7 +809,8 @@
       "Text": "ور شود اسباب حضور تو جمع",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: اگر اسباب ورود تو فراهم شود، حسد آنها مانند شمعی شعله‌ور می‌شود و عرق می‌ریزد."
     },
     {
       "VOrder": 50,
@@ -801,7 +826,8 @@
       "Text": "چند درین ششدره بی گشاد",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: به چند در این هفت دهن، عمر خود را به هدر می‌دهی و از نفسی که از این افراد می‌کشی، به باد می‌رود؟"
     },
     {
       "VOrder": 52,
@@ -817,7 +843,8 @@
       "Text": "باد خزان است دم سردشان",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: باد خزان می‌وزد و هوای سردی به همراه دارد؛ این سرما نشانه‌ای از مرگ و تغییر فصل است و به نوعی نشان‌دهنده‌ی حالتی از روح و جان انسان‌هاست."
     },
     {
       "VOrder": 54,
@@ -833,7 +860,8 @@
       "Text": "ترسم از آن روز که سردت کنند",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: می‌ترسم از روزی که به تو بی‌محلی کنند و با تیر محبت تو را آزرده خاطر سازند."
     },
     {
       "VOrder": 56,
@@ -849,7 +877,8 @@
       "Text": "هر که نه مشغولی دینش ره است",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: هر کس که به کار دنیا مشغول نیست و به دنبال راه دین است، بدانید که این غول (مشکلات و موانع) در راه او وجود دارد و خدا از همه چیز آگاه است."
     },
     {
       "VOrder": 58,
@@ -865,7 +894,8 @@
       "Text": "پای وفا بر پی غولان مدار",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: به دنبال وفاداری و صداقت باش و به جاهای ناشناخته و خالی از زندگی نرو."
     },
     {
       "VOrder": 60,
@@ -881,7 +911,8 @@
       "Text": "ور نبود از دل سوداییت",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: اگر در دل من آرزوهای تو نباشد، تحمل این تنهایی سخت خواهد بود."
     },
     {
       "VOrder": 62,
@@ -897,7 +928,8 @@
       "Text": "خیز و قدم نه به ره رفتگان",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: بلند شو و قدم بگذار در مسیرِ کسانی که رفته‌اند، به سوی جایی که آرامشِ آن‌هاست."
     },
     {
       "VOrder": 64,
@@ -913,7 +945,8 @@
       "Text": "یاد کن از عهد فراموششان",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: به یاد بیاور زمان هایی که فراموش کرده‌اند و از سخنان درشتی که در سکوت دارند، عبرت بگیر."
     },
     {
       "VOrder": 66,
@@ -929,7 +962,8 @@
       "Text": "پر شده شان بین ز غبار استخوان",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: چشمانت از غبار و کثیفی پر شده است، برای روشنایی بصیرت خود از آن سرمه‌ای که در ظرف دارد استفاده کن."
     },
     {
       "VOrder": 68,
@@ -945,7 +979,8 @@
       "Text": "منزلشان بین به ته سنگ تنگ",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: محل زندگی آن‌ها در جایی است که در انتهای یک کوه باریک قرار دارد و سر افعی غفلت بر روی سنگی است."
     },
     {
       "VOrder": 70,
@@ -961,7 +996,8 @@
       "Text": "با نفس تنگ برآر از درون",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: با نفس تنگ، از درون ذکر کن که ما با شما نیستیم و حق نداریم."
     },
     {
       "VOrder": 72,
@@ -977,7 +1013,8 @@
       "Text": "بو که دلت یابد از آن زندگی",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: اگر دلت از بویی شاد و خوشحال شود، زندگی‌ات در آن روز به طرز شگفت‌انگیزی رونق و انرژی پیدا می‌کند."
     },
     {
       "VOrder": 74,

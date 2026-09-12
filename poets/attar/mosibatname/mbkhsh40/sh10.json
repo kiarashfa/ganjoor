@@ -161,7 +161,8 @@
       "Text": "گفت اندر پیش افلاطون کسی",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: یک نفر در حضور افلاطون گفت: \u0022آیا تو در مورد فلانی که بسیار ستایش می‌کنی، چیزی گفته‌ای؟\u0022"
     },
     {
       "VOrder": 2,
@@ -177,7 +178,8 @@
       "Text": "در هنر بستود بسیاری ترا",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: بسیاری از مردم در هنر تو را ستوده‌اند تا اینکه آسمان به تو ارزشی بخشیده است."
     },
     {
       "VOrder": 4,
@@ -193,7 +195,8 @@
       "Text": "زان سخن بگریست افلاطون بدرد",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: افلاطون به خاطر آن سخن به گریه افتاد و از روی درد و رنجی که داشت جان سپرد."
     },
     {
       "VOrder": 6,
@@ -209,7 +212,8 @@
       "Text": "گفت میگریم که در دل مشکلیست",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: می‌گوید من می‌گریم چون در دلم مشکلی وجود دارد. می‌خواهم ببینم چه کاری می‌توانم انجام دهم، زیرا این مشکل برآمده از ذوق جاهلانه است."
     },
     {
       "VOrder": 8,
@@ -225,7 +229,8 @@
       "Text": "هرچه باشد مرد نادان را پسند",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که برای مرد نادان خوشایند باشد، برای مرد باهوش و دانا ارزش و اهمیت چندانی ندارد."
     },
     {
       "VOrder": 10,
@@ -241,7 +246,8 @@
       "Text": "می ندانم تا پسند او چه بود",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: نمی‌دانم که چه چیزی مورد پسند اوست تا بتوانم از آن توبه کنم و از حالا دست بکشم."
     },
     {
       "VOrder": 12,
@@ -257,7 +263,8 @@
       "Text": "یک ستایش کان ز جاهل آیدم",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: اگر ستایشی از جانب نادان باشد، بدان که نتیجه‌اش عذاب‌های زیادی خواهد داشت."
     },
     {
       "VOrder": 14,
@@ -273,7 +280,8 @@
       "Text": "گر مرا اهل دلی تحسین کند",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی که دلش به حال من می‌تپد، شعرهای من را ستایش کند، تمام دل او به من تعلق خواهد گرفت."
     },
     {
       "VOrder": 16,
@@ -289,7 +297,8 @@
       "Text": "گر ستایش گوی من صد کس بود",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: اگر به من صد نفر هم از زیبایی‌هایم بگویند، ولی دل یک نفر باشد که با احساس باشد، همین برای من کافیست."
     },
     {
       "VOrder": 18,
@@ -305,7 +314,8 @@
       "Text": "نی کیم من اهل دین را چند ازین",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: من چه مدت باید به خاطر این نفس سرکش خود را در بند و گرفتار کنم، در حالی که من اهل دین و دینداری هستم؟"
     },
     {
       "VOrder": 20,
@@ -321,7 +331,8 @@
       "Text": "ای دریغا هرچه گفتم هیچ بود",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: ای حسرت، هرچه که من بیان کردم، بی‌فایده بود، زیرا دل‌نگران و مسیر پر از پیچیدگی بود."
     },
     {
       "VOrder": 22,
@@ -337,7 +348,8 @@
       "Text": "گر دمی بودی سخن پذرفتنم",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: اگر لحظه‌ای دیگر با من سخن بگویی، زحمت حرف زدنم را نخواهی داشت."
     },
     {
       "VOrder": 24,
@@ -353,7 +365,8 @@
       "Text": "گر بحضرت ره گشادن دارمی",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: اگر بتوانم به درگاه تو راهی باز کنم، آیا می‌توانم دل خود را باز بگذارم؟"
     },
     {
       "VOrder": 26,

@@ -191,7 +191,8 @@
       "Text": "کنون خورد باید می خوش‌گُوار",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "در این فصل بهار که بوی طراوت و عطر گلها از جویبار می‌رسد باید می خوش‌گوار نوشید."
     },
     {
       "VOrder": 2,
@@ -207,7 +208,8 @@
       "Text": "هوا پر خروش و زمین پر ز جوش",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوا پر از خروش پرندگان شده و زمین پر از جنب و جوش آهوان، خوش به حال کسی که در این فصل دل را به شاد‌خواری خوش می‌دارد."
     },
     {
       "VOrder": 4,
@@ -223,7 +225,8 @@
       "Text": "دِرَم دارد و نُقل و جامِ نبید",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "آنکه دارا است و جام شراب و نقل و امکان تفریح دارد و در آن بزم از کباب گوسفندی لذت ببرد."
     },
     {
       "VOrder": 6,
@@ -239,7 +242,8 @@
       "Text": "مرا نیست، فرخ مر آن را که هست",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "مرا فرخ و بهروزی نیست از آنچه مراست، پس تو ببخشای بر مردم تنگدست."
     },
     {
       "VOrder": 8,
@@ -255,7 +259,8 @@
       "Text": "همه بوستان زیر برگ گلست",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "همه بوستان از برگ گل‌های تازه پوشیده شده و همه کوه از لاله و سنبل."
     },
     {
       "VOrder": 10,
@@ -271,7 +276,8 @@
       "Text": "به پالیز بلبل بنالد همی",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "در کشتزار بلبل به خواندن آواز پرداخته و گل از آواز او شاد گشته و قامت کشیده است."
     },
     {
       "VOrder": 12,
@@ -287,7 +293,8 @@
       "Text": "چو از ابر بینم همی باد و نم",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "در این میان که فصل نسیم و باران بهاری است نمی‌دانم چرا گل نرگس دژم و ناراحت است؟"
     },
     {
       "VOrder": 14,
@@ -303,7 +310,8 @@
       "Text": "شب تیره بلبل نخسپد همی",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "حتی شب‌ها نیز بلبل به آواز خواندن است و گل‌ها پیوسته از نسیم و باران در رقص و جنبش هستند."
     },
     {
       "VOrder": 16,
@@ -319,7 +327,8 @@
       "Text": "بخندد همی بلبل از هر دوان",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "و بلبل از هر دوان (هر دو) نسیم و باران شاد است و وقتی که بر گل می‌نشیند شعر می‌سراید."
     },
     {
       "VOrder": 18,
@@ -335,7 +344,8 @@
       "Text": "ندانم که عاشق گل آمد گر ابر",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "نمی‌دانم کدامیک بیشتر عاشق دیگری است! گل یا ابر، آن‌گاه که خروش تندر را می‌شنوم."
     },
     {
       "VOrder": 20,
@@ -351,7 +361,8 @@
       "Text": "بَدَرَّد همی باد، پیراهنش",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "باد پیراهن گل را چاک کرده و سرخی آتش تن او می‌درخشد. (دَرفشان: درخشنده)"
     },
     {
       "VOrder": 22,
@@ -367,7 +378,8 @@
       "Text": "به عشق هوا بر زمین شد گوا",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "خورشید فرمان‌روا برای عشق و هوس (و لذت بردن از این همه زیبایی) بر زمین آشکار شد و نزدیک آمد."
     },
     {
       "VOrder": 24,
@@ -383,7 +395,8 @@
       "Text": "که داند که بلبل چه گوید همی؟",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "چه کسی راز بلبل را می‌داند وقتی که در زیر بوته گل موید و به غم آواز سر می‌دهد."
     },
     {
       "VOrder": 26,
@@ -399,7 +412,8 @@
       "Text": "نگه کن سحرگاه تا بشنوی",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "سحرگاه بیدار شو تا بشنوی که بلبل به پهلوی آواز سر می‌دهد."
     },
     {
       "VOrder": 28,
@@ -415,7 +429,8 @@
       "Text": "همی نالد از مرگِ اسفندیار",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "از مرگ اسفندیار نالان است و از او جز ناله و غم چیزی نمی‌گوید."
     },
     {
       "VOrder": 30,
@@ -431,7 +446,8 @@
       "Text": "چو آوازِ رستم، شبِ تیره، ابر",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "و شب‌های تیره‌، ابر بهاری همچون رستم می‌خروشد و نعره شیر‌، دل و گوش آدمی را پاره می‌کند."
     },
     {
       "VOrder": 32,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "شالودهٔ کاخ جهان بر آبست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پایه‌های این دنیا بر روی آب بنا شده و به محض اینکه پلک بزنید، ممکن است ویران شود."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "ایمن چه نشینی درین سفینه",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ایمنی تو در این کشتی چه سودی دارد، در حالی که این دریا همیشه در حال تلاطم و تغییر است؟"
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "افسونگر چرخ کبود هر شب",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر شب چرخ آسمان با جادوگری خود، ذهن مرا به فکر افسونگری شیخ و جوانی می‌برد."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "ای تشنه مرو، کاندرین بیابان",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای thirsty، ادامه نده سفر را، چون در این بیابان اگر یک قطره آب هم باشد، در واقع صدها سراب وجود دارد."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "سیمرغ که هرگز بدام نیاد",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سیمرغ، پرنده‌ای افسانه‌ای و آزاد است که هیچ‌گاه در تله یا دام نمی‌افتد. اما در برابر سختی‌های زمان، وضعیت او کمی شبیه مگس به نظر می‌رسد، یعنی در مقابل مشکلات و ترفندهای زمانه همواره آسیب‌پذیر است."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "چشمت بخط و خال دلفریب است",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم‌هایت با خط و خال زیبایی که دارد، دل‌فریب است و گوش‌هایت از صدای دف و رباب لذت می‌برد."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "تو بیخود و ایام در تکاپو است",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو بیهوده نگران هستی و مشغول این روزها هستی، در حالی که تو خواب هستی و مسیر زندگی پر از پیچ و خم است."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "آبی بکش از چاه زندگانی",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از چاه زندگی، آب خوب و تازه‌ای بکش، زیرا این قیف فقط به طناب وابسته نیست و باید همواره تلاش کنی."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "بگذشت مه و سال وین عجب نیست",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمان به سرعت می‌گذرد و این جای تعجب نیست، زیرا زندگی همیشه در حال حرکت و شتاب است."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "بیدار شو، ای بخت خفته چوپان",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیدار شو، ای سرنوشت خفته‌ی چوپان، زیرا این بیابان، محلی امن برای تو نیست و پر از خطرات مختلفی است."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "بر گرد از آنره که دیو گوید",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به راهی که شیطان می‌گوید برگرد، ای مسافر! این مسیر درست نیست."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "ز انوار حق از اهرمن چه پرسی",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از نور و روشنی الهی، از اهریمن (شر) چه می‌پرسی؟ زیرا سوال تو بی‌پاسخ است."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "با چرخ، تو با حیله کی برآئی",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به هیچ وجه نمی‌توانی با نیرنگ و فریب از کسی که به قوی‌تر و بزرگ‌تر از توست جلو بزنی و در مقابل او موفق شوی."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "بر اسب فساد، از چه زین نهادی",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا بر این اسب ناپسند سوار شده‌ای و پایت را در این رکاب گذاشته‌ای؟"
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "دولت نه به افزونی حطام است",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ثروت به جمع‌آوری مال و اموال نیست و اعتبار و مقام به زیبایی پوشش‌ها مربوط نمی‌شود."
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "جز نور خرد، رهنمای مپسند",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تنها راهنمایی که می‌توان به آن اعتماد کرد، خرد است و نباید خود را به دست کسانی سپرد که خودخواه و مستبد هستند. فکر نکنید که تنها به خاطر دستیابی به موفقیت، می‌توان به آن‌ها تکیه کرد."
     },
     {
       "VOrder": 32,
@@ -255,7 +271,8 @@
       "Position": "Right",
       "Text": "خواندن نتوانیش چون، چه حاصل",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نتوانی کتابی را بخوانی، داشتن هزار کتاب در خانه چه فایده‌ای دارد؟"
     },
     {
       "VOrder": 34,
@@ -269,7 +286,8 @@
       "Position": "Right",
       "Text": "هشدار که توش و توان پیری",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مواظب باش که نیروی جوانی و کوشش باید در دوران جوانی به کار رود، زیرا در دوران پیری این توانایی‌ها کمتر خواهد شد."
     },
     {
       "VOrder": 36,
@@ -283,7 +301,8 @@
       "Position": "Right",
       "Text": "بیهوده چه لرزی ز هر نسیمی",
       "CoupletIndex": 18,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نگران و مضطرب نباش، چرا که هیچ دلیلی برای لرزیدن وجود ندارد؛ مانند چراغی که بدون حباب است و به راحتی آسیب‌پذیر است."
     },
     {
       "VOrder": 38,
@@ -297,7 +316,8 @@
       "Position": "Right",
       "Text": "گر پای نهد بر تو پیل، دانی",
       "CoupletIndex": 19,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر فیل بر تو پا بگذارد، تو می‌دانی که پا گذاشتن او بر تو چقدر می‌تواند تو را در عذاب قرار دهد، همان‌طور که مورچه‌ها در برابر آن فیل در رنج هستند."
     },
     {
       "VOrder": 40,
@@ -311,7 +331,8 @@
       "Position": "Right",
       "Text": "بی شمع، شب این راه پرخطر را",
       "CoupletIndex": 20,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بدون نور شمع، در این شب تاریک و پرخطر قدم نگذار، با این امید که ماه درخشان است و شب را روشن می‌کند."
     },
     {
       "VOrder": 42,
@@ -325,7 +346,8 @@
       "Position": "Right",
       "Text": "تا چند و کی این تیره جسم خاکی",
       "CoupletIndex": 21,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا و تا چه زمانی این بدن خاکی بر روی چهرهٔ درخشان خورشید جان سایه‌افکنی می‌کند؟"
     },
     {
       "VOrder": 44,
@@ -339,7 +361,8 @@
       "Position": "Right",
       "Text": "در زمرهٔ پاکیزگان نباشی",
       "CoupletIndex": 22,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در جمع افراد پاک و باصفا نباشی، آلودگی‌ها و کدورت‌ها بر قلبت سایه می‌افکند."
     },
     {
       "VOrder": 46,
@@ -353,7 +376,8 @@
       "Position": "Right",
       "Text": "پروین، چه حصاد و چه کشتکاری",
       "CoupletIndex": 23,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پروین، در جایی که نه باران می‌بارد و نه آفتاب می‌تابد، نه برداشت خوبی داریم و نه زراعت موفقی."
     },
     {
       "VOrder": 48,

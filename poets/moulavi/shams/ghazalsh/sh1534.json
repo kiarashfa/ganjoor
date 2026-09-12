@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "بیا ما چند کس با هم بسازیم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیایید تعدادی از ما با هم دوستی ایجاد کنیم. وقتی شادابی کم می‌شود، با غم و اندوه کنار هم باشیم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "بیا تا با خدا خلوت گزینیم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیا تا با خدا به تنهایی بپردازیم و مانند عیسی با مریم، ارتباطی نزدیک و صمیمی برقرار کنیم."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "گر از فرزند آدم کس نماند",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر از انسان‌ها دیگر کسی باقی نماند، چه اهمیتی دارد؟ ما می‌توانیم با خود آدم‌ها کنار بیاییم."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "ور آدم نیز از ما گوشه گیرد",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر آدم هم از ما دوری کند، برای تو اینقدر قوی هستیم که بدون او هم می‌توانیم زندگی کنیم."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "یکی جانی است ما را شادی انگیز",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک روح شاداب و خوشحال وجود دارد که باعث خوشحالی ما می‌شود؛ حتی اگر همه‌چیز را از دست بدهیم، می‌توانیم دوباره آن را بسازیم."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "اگر دریا شود آتش بنوشیم",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دریا آتش شود، آن را خواهیم نوشید و اگر آسیبی به ما برسد، مرهمی برای آن درست خواهیم کرد."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "به پیش کعبه رویش بمیریم",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به سمت کعبه می‌رویم و در آنجا به خاطر چاه و چشمه زمزم جان می‌دهیم و خود را فدای آن می‌کنیم."
     },
     {
       "VOrder": 14,

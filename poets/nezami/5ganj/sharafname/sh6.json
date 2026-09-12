@@ -741,7 +741,8 @@
       "Text": "بیا ساقی آن می نشان ده مرا",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "بیا ای ساقی، آن شراب را به من بده، آن شراب و باده که داروی بی‌هشان است."
     },
     {
       "VOrder": 2,
@@ -757,7 +758,8 @@
       "Text": "بدان داروی تلخ بی‌هش کنم",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "با آن داروی تلخ‌، مرا بیهوش و بی‌خود بگردان شاید دمی خود را فراموش کنم."
     },
     {
       "VOrder": 4,
@@ -773,7 +775,8 @@
       "Text": "نظامی بس این صاحب‌آوازگی",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "ای نظامی از این شهرت و صاحب‌آوازگی دست بردار؛ و دست بردار در پیری و کهن‌سالی دم از جوانی زدن."
     },
     {
       "VOrder": 6,
@@ -789,7 +792,8 @@
       "Text": "چو شیران سرپنجه بگشای چنگ",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "همچون شیران قوی حمله کن و خود را همچون روباه به رنگ میارای و حیله را کنار بگذار."
     },
     {
       "VOrder": 8,
@@ -805,7 +809,8 @@
       "Text": "شنیدم که روباه رنگین به روس",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "شنیده‌ام که روباه رنگارنگ و زیبای (ناحیه) روس؛ همچون یک عروس به‌ظاهر خود بسیار توجه می‌کند."
     },
     {
       "VOrder": 10,
@@ -821,7 +826,8 @@
       "Text": "چو باران بوَد روز یا باد و گرد",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "در روزهای بارانی و یا باد و گرد و غبار، از لانه بیرون نمی‌آید. (نورد یعنی طومار یا چیزی که بپیچند)"
     },
     {
       "VOrder": 12,
@@ -837,7 +843,8 @@
       "Text": "به کنجی کند بی‌علف جای خویش",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "در کنجی و بدون غذا می‌نشیند و تنها کاری که می‌کند این‌است که دست و پای خود را می‌لیسد."
     },
     {
       "VOrder": 14,
@@ -853,7 +860,8 @@
       "Text": "پی پوستی خون خود را خورد",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "برای داشتن پوستینی زیبا و رنگ‌آمیز، خون خود را می‌خورد بر عکس دیگران که همه، تن را پرورش می‌دهند او پوست را می‌پرورد."
     },
     {
       "VOrder": 16,
@@ -869,7 +877,8 @@
       "Text": "سرانجام کاید اجل سوی او",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "در نهایت همان پوستین، بلای جان و مرگ و اجل او می‌شود."
     },
     {
       "VOrder": 18,
@@ -885,7 +894,8 @@
       "Text": "بدان موینه قصد خونش کنند",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "برای آن پشم و پوست او را شکار می‌کنند و با رسوایی از سر او در می‌آورند."
     },
     {
       "VOrder": 20,
@@ -901,7 +911,8 @@
       "Text": "بساطی چه باید بر آراستن",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "چرا آدمی بساطی را بیاراید که به‌ناچار و به‌اجبار باید بر‌جای بگذارد و برود؟"
     },
     {
       "VOrder": 22,
@@ -917,7 +928,8 @@
       "Text": "هر آن جانور کاو خودآرای نیست",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هر جانوری که خودآرایی نمی‌کند هیچکس به‌آزار و صدمه رساندن به او طمع نمی‌کند."
     },
     {
       "VOrder": 24,
@@ -933,7 +945,8 @@
       "Text": "برون آی از این پردهٔ هفت رنگ",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "پس تو نیز از این حجاب و پرده هفت‌رنگ و هفت‌قلم بیرون بیا زیرا آینه در زیر زنگار، کدر و زنگی می‌شود."
     },
     {
       "VOrder": 26,
@@ -949,7 +962,8 @@
       "Text": "بس این جادویی‌ها برانگیختن",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "این حیله‌ها را بس کن؛ که همچون فسون و جادو از آدمیان دور گشته‌ای."
     },
     {
       "VOrder": 28,
@@ -965,7 +979,8 @@
       "Text": "نه گوگرد سرخی نه لعل سپید‌!",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "تو نه گوگرد سرخ و کمیاب هستی، و نه گوهر و جواهر سپید نادر که هیچکس امید دسترسی به‌تو را نداشته‌باشد."
     },
     {
       "VOrder": 30,
@@ -981,7 +996,8 @@
       "Text": "به مردم درآمیز اگر مردمی",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "با آدمیان و مردم معاشرت کن اگر آدمی هستی زیرا آدمی، موجودی است اجتماعی."
     },
     {
       "VOrder": 32,
@@ -997,7 +1013,8 @@
       "Text": "اگر کان گنجی چو نایی به‌دست",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "اگر خود کان و معدن گنج و گوهر هستی وقتی که به‌دست نمی‌آیی (چه فایده‌؟) که از این گنج‌ها زیاد در خاک و دل زمین هست."
     },
     {
       "VOrder": 34,
@@ -1013,7 +1030,8 @@
       "Text": "چو دور افتد از میوه‌خور میوه‌دار",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "وقتی که درخت میوه‌دار دور از دست باشد چه خرما بدهد چه خار!"
     },
     {
       "VOrder": 36,
@@ -1029,7 +1047,8 @@
       "Text": "جوانی شد و زندگانی نماند",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "جوانی و شور رفت و با او زندگانی و خوشی نیز رفت؛ بود و نبود جهان، بی‌جوانی یکی‌است."
     },
     {
       "VOrder": 38,
@@ -1045,7 +1064,8 @@
       "Text": "جوانی بوَد خوبی آدمی",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "آنچه آدمی را خوب می‌کند جوانی است وقتی که خوبی رفت کی خوشی و شادی می‌ماند؟"
     },
     {
       "VOrder": 40,
@@ -1061,7 +1081,8 @@
       "Text": "چو پی سست و پوسیده گشت استخوان",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "سخت‌رویی کنایه است از پُررویی"
     },
     {
       "VOrder": 42,
@@ -1077,7 +1098,8 @@
       "Text": "غرور جوانی چو از سر نشست",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "وقتی که غرور و سرزندگی جوانی رفت تو نیز از گستاخ‌کاری و بی‌پروایی دست بردار."
     },
     {
       "VOrder": 44,
@@ -1093,7 +1115,8 @@
       "Text": "بهی چهرهٔ باغ چندان بوَد",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "باغ تا وقتی زیباست که قامت شمشاد و لالهٔ\u00A0سرخ و خندان هست."
     },
     {
       "VOrder": 46,
@@ -1109,7 +1132,8 @@
       "Text": "چو باد خزانی درآید به باغ",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "وقتی که باد پاییز به باغ می‌رسد دست روزگار جای بلبل را به زاغ می‌دهد."
     },
     {
       "VOrder": 48,
@@ -1125,7 +1149,8 @@
       "Text": "شود برگ ریزان ز شاخ بلند",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "برگ‌های درخت از شاخه‌های بلند بر زمین فرو می‌افتد و دل باغبان را پردرد و غمگین می‌سازد."
     },
     {
       "VOrder": 50,
@@ -1141,7 +1166,8 @@
       "Text": "ریاحین ز بستان شود ناپدید",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "گل‌ها از بوستان رخت می‌بندند و دیگر کسی تمایل به رفتن به باغ را ندارد."
     },
     {
       "VOrder": 52,
@@ -1157,7 +1183,8 @@
       "Text": "بنال ای کهن‌بلبل سالخورد",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "ای بلبل پیر و سالخورده بنال و ناله غم سر بده؛ زیرا چهره زیبای گل سرخ، زرد و افسرده گشت."
     },
     {
       "VOrder": 54,
@@ -1173,7 +1200,8 @@
       "Text": "دوتا شد سهی سرو آراسته",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "قامت زیبا و آراسته سرو خم شد و پرنده خوشخوان کدیور دیگر در سایه سرو به آوازخوانی نمی‌پردازد."
     },
     {
       "VOrder": 56,
@@ -1189,7 +1217,8 @@
       "Text": "چو تاریخ پنجه درآمد به سال",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "وقتی که عمرم به پنجاه رسید، حال و روز شتابنده و تیزرو تغییر کرد و عوض شد."
     },
     {
       "VOrder": 58,
@@ -1205,7 +1234,8 @@
       "Text": "سر از بار سنگین درآمد به سنگ",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "و سر (من) از سنگینی بار زندگی به‌سنگ درآمد و شتر جوانی(ام) در راه سخت و دشوار خسته شد."
     },
     {
       "VOrder": 60,
@@ -1221,7 +1251,8 @@
       "Text": "فرو‌ماند دستم ز می خواستن",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "و دست من از باده‌نوشی و می خواستن و شادی فروماند و پایم از برخاستن ضعیف گشت."
     },
     {
       "VOrder": 62,
@@ -1237,7 +1268,8 @@
       "Text": "تنم گونهٔ لاجوردی گرفت",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "تن من گویی تیره و لاجوردی گشت و رخ من از سرخی به زردی گرایید."
     },
     {
       "VOrder": 64,
@@ -1253,7 +1285,8 @@
       "Text": "هیون رونده ز ره مانده باز",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هیون تیزپا و رونده‌ام از راه رفتن بازماند و به بالین و خواب نیاز پیدا کرده‌ام."
     },
     {
       "VOrder": 66,
@@ -1269,7 +1302,8 @@
       "Text": "همان بور چوگانیِ باد‌پای",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "همان اسب بور و تیزتک که مخصوص چوگان بود و همچون باد می‌تاخت اکنون با صد زخم و زحمت از جای نمی‌جنبد."
     },
     {
       "VOrder": 68,
@@ -1285,7 +1319,8 @@
       "Text": "طرب را به میخانه گم شد کلید",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "کلید در شادی و طرب را در میخانه گم‌کردم و نشان غم و پشیمانی در من ظاهر گشته‌است."
     },
     {
       "VOrder": 70,
@@ -1301,7 +1336,8 @@
       "Text": "برآمد ز کوه ابرِ کافور‌بار",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "زمستان پیری فرا رسید و ابرهای سپید بر فراز کوه برآمده‌اند (منظور سپیدی موی است) و مزاج زمین سرد و کافورخوار گشته است."
     },
     {
       "VOrder": 72,
@@ -1317,7 +1353,8 @@
       "Text": "گهی دل به رفتن نیاید به گوش",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: گاهی دل به رفتن راضی نمی‌شود، اما حالا که شرایط تغییر کرده و صراحی (کوزه شراب) خالی شده و ساقی هم سکوت کرده است."
     },
     {
       "VOrder": 74,
@@ -1333,7 +1370,8 @@
       "Text": "سر از لهو پیچید و گوش از سماع",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "سر از شادی‌ها روی‌گردان شده و گوش از شنیدن سماع خسته‌شده زیرا که زمان کوچ و وداع فرارسید."
     },
     {
       "VOrder": 76,
@@ -1349,7 +1387,8 @@
       "Text": "به وقتی چنین، کنج بهتر ز کاخ",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "در چنین روزی گوشه تنهایی بهتر از کاخ است زیرا دست روزگار بسیار دست‌یازی می‌کند."
     },
     {
       "VOrder": 78,
@@ -1365,7 +1404,8 @@
       "Text": "تماشای پروانه چندان بود",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "لذت سیر و خوشی پروانه تا زمانی‌است که شمع شب‌افروز افروخته و خندان است."
     },
     {
       "VOrder": 80,
@@ -1381,7 +1421,8 @@
       "Text": "چو از شمع خالی کنی خانه را",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "وقتی که معشوق را از عاشق بگیری دیگر عاشق را نیز نخواهی دید و او را نیز رفته به‌حساب بیاور."
     },
     {
       "VOrder": 82,
@@ -1397,7 +1438,8 @@
       "Text": "به روز جوانی و نوزادگی",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "در دوران جوانی و نوجوانی‌ام، لاف پیری و تواضع می‌زدم."
     },
     {
       "VOrder": 84,
@@ -1413,7 +1455,8 @@
       "Text": "کنون گر به غم شادمانی کنم",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "اکنون اگر در زمان غم شادی‌نمایم، جوانی در زمان پیری چگونه به‌دست می‌آید؟"
     },
     {
       "VOrder": 86,
@@ -1429,7 +1472,8 @@
       "Text": "چو پوسیده‌چوبی که در کنج باغ",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "همچون چوبی پوسیده که در شبی تاریک در گوشه‌ای از باغ بسوزد."
     },
     {
       "VOrder": 88,
@@ -1445,7 +1489,8 @@
       "Text": "شب‌افروز کرمی که تابد ز دور",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "و یا همچون کرم شب‌تابی که از دور بتابد و در تاریکی خود را خورشید می‌پندارد و لاف خورشیدی می‌زند."
     },
     {
       "VOrder": 90,
@@ -1461,7 +1506,8 @@
       "Text": "اگر دیدمی در خود افزایشی",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: اگر در درون خود احساس افزایش و بهبودی را ببینم، به دنبال جایگاهی برای آرامش و آسایش می‌گردم."
     },
     {
       "VOrder": 92,
@@ -1477,7 +1523,8 @@
       "Text": "به آسودگی عمر نو کردمی",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "به آسودگی و آرامش دوباره زندگی می‌کردم و چیزی جز شادی در پیش نمی‌گرفتم."
     },
     {
       "VOrder": 94,
@@ -1493,7 +1540,8 @@
       "Text": "چو روز جوانی به پایان رسید",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "وقتی که روز جوانی به‌پایان رسید و سپیده‌دم روز پیری از مشرق سر برآورد."
     },
     {
       "VOrder": 96,
@@ -1509,7 +1557,8 @@
       "Text": "به تدبیرِ آنم که سر چون نهم ؟",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "در این اندیشه هستم که چگونه سر بر بالین بگذارم و چگونه قدم از این کار بیرون بگذارم."
     },
     {
       "VOrder": 98,
@@ -1525,7 +1574,8 @@
       "Text": "سری کاو سزاوار باشد به تاج",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "سری شایسته تاج و شاهی است که بالین او باید مشک باشد نه عاج. (در اینجا نیز مشک منظور موی سیاه و جوانی است و عاج یعنی پیری و سپیدمویی)"
     },
     {
       "VOrder": 100,
@@ -1541,7 +1591,8 @@
       "Text": "از آن پیش کاین هفت پرگار تیز",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "پیش از آنکه پرگار قضا و قدر این هفت فلک، عمر مرا ریز‌ریز کند."
     },
     {
       "VOrder": 102,
@@ -1557,7 +1608,8 @@
       "Text": "درآرم به هر زخمه‌ای دست خویش",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "به هر نوا و زخمه‌ای دست می‌زنم که آوازه هست خود را نگه‌دارم."
     },
     {
       "VOrder": 104,
@@ -1573,7 +1625,8 @@
       "Text": "به هر مهره‌ای حقه‌بازی کنم",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "به هر فن و ترفندی و چاره‌ای دست می‌زنم که تا با آنچه از عمرم مانده چه‌کنم؟"
     },
     {
       "VOrder": 106,
@@ -1589,7 +1642,8 @@
       "Text": "چو رهوار گیلیم ازین پل گذشت",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "وقتی که رهوار گیلی و رونده من از این پل بگذرد دیگر قصد برگشت به گیلان دنیا را نخواهم کرد."
     },
     {
       "VOrder": 108,
@@ -1605,7 +1659,8 @@
       "Text": "در این ره چو من خوابَنیده بسیست",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "در این راه‌، خفتگان و درگذشتگان همچون من بسیارند و در آنجا کسی از کسی یاد نمی‌کند."
     },
     {
       "VOrder": 110,
@@ -1621,7 +1676,8 @@
       "Text": "به یادآور ای تازه کبک دری",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "ای جوان و ای کبک خوشخوان و ای شاعر پارسی‌گو، بیاد داشته‌باش وقتی که بر خاک من می‌گذری."
     },
     {
       "VOrder": 112,
@@ -1637,7 +1693,8 @@
       "Text": "گیا بینی از خاکم انگیخته",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "خواهی دید که از قبر من گیاه روییده و بخشی از مزار من کهنه گشته و قسمتی فروریخته است."
     },
     {
       "VOrder": 114,
@@ -1653,7 +1710,8 @@
       "Text": "همه خاک فرش مرا برده باد",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "خاک مزار مرا باد برده و یارانم مرا فراموش کرده‌اند."
     },
     {
       "VOrder": 116,
@@ -1669,7 +1727,8 @@
       "Text": "نهی دست بر شوشه خاک من",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "دست خود را بر سنگ مزار من می‌نهی و از گوهر و جان پاک من یاد کنی."
     },
     {
       "VOrder": 118,
@@ -1685,7 +1744,8 @@
       "Text": "فشانی تو بر من سرشکی ز دور",
       "CoupletIndex": 59,
       "SectionIndex1": 0,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "تو از راه دور بر من اشک می‌ریزی و من از آسمان بر تو نور می‌افشانم."
     },
     {
       "VOrder": 120,
@@ -1701,7 +1761,8 @@
       "Text": "دعای تو بر هر چه دارد شتاب",
       "CoupletIndex": 60,
       "SectionIndex1": 0,
-      "SectionIndex2": 62
+      "SectionIndex2": 62,
+      "CoupletSummary": "دعای تو را بر هر‌چه که شتاب دارد و خواهش دارد، آمین بگویم تا مستجاب شود."
     },
     {
       "VOrder": 122,
@@ -1717,7 +1778,8 @@
       "Text": "درودم رسانی رسانم درود",
       "CoupletIndex": 61,
       "SectionIndex1": 0,
-      "SectionIndex2": 63
+      "SectionIndex2": 63,
+      "CoupletSummary": "به من درود و آفرین و سلامی رسانی و من به تو درود رسانم و از آسمان فرود بیایم."
     },
     {
       "VOrder": 124,
@@ -1733,7 +1795,8 @@
       "Text": "مرا زنده پندار چون خویشتن",
       "CoupletIndex": 62,
       "SectionIndex1": 0,
-      "SectionIndex2": 64
+      "SectionIndex2": 64,
+      "CoupletSummary": "مرا زنده بپندار همچون خود؛ وقتی‌که تو به مزار من بیایی من با جان به‌دیدار تو می‌آیم."
     },
     {
       "VOrder": 126,
@@ -1749,7 +1812,8 @@
       "Text": "مدان خالی از هم‌نشینی مرا",
       "CoupletIndex": 63,
       "SectionIndex1": 0,
-      "SectionIndex2": 65
+      "SectionIndex2": 65,
+      "CoupletSummary": "مپندار که هم‌نشین تو نیستم؛ زیرا من تو را می‌بینم اگر تو مرا نمی‌بینی."
     },
     {
       "VOrder": 128,
@@ -1765,7 +1829,8 @@
       "Text": "لب از خفته‌ای چند خامش مکن",
       "CoupletIndex": 64,
       "SectionIndex1": 0,
-      "SectionIndex2": 66
+      "SectionIndex2": 66,
+      "CoupletSummary": "لب را از چند خفته خاموش مکن؛ و درگذشتگان را فراموش مکن."
     },
     {
       "VOrder": 130,
@@ -1781,7 +1846,8 @@
       "Text": "چو آن‌جا رسی می درافکن به جام",
       "CoupletIndex": 65,
       "SectionIndex1": 0,
-      "SectionIndex2": 67
+      "SectionIndex2": 67,
+      "CoupletSummary": "وقتی‌که آنجا رسیدی در جام، باده و می بریز و به‌سوی آرامگاه نظامی برو."
     },
     {
       "VOrder": 132,
@@ -1797,7 +1863,8 @@
       "Text": "نپنداری ای خضر پیروز‌پی",
       "CoupletIndex": 66,
       "SectionIndex1": 0,
-      "SectionIndex2": 68
+      "SectionIndex2": 68,
+      "CoupletSummary": "ای یار و ای همراه ِ پیروز سرانجام، مپندار که منظور من از می و مستی، باده و شراب است."
     },
     {
       "VOrder": 134,
@@ -1813,7 +1880,8 @@
       "Text": "از آن می همه بی‌خودی خواستم",
       "CoupletIndex": 67,
       "SectionIndex1": 0,
-      "SectionIndex2": 69
+      "SectionIndex2": 69,
+      "CoupletSummary": "از آن باده که نوشیدم قصد من بی‌خویشی بود و با آن بی‌خودی، مجلس‌آرایی کردم."
     },
     {
       "VOrder": 136,
@@ -1829,7 +1897,8 @@
       "Text": "مرا ساقی از وعده ایزدیست",
       "CoupletIndex": 68,
       "SectionIndex1": 0,
-      "SectionIndex2": 70
+      "SectionIndex2": 70,
+      "CoupletSummary": "ساقی من از قول و عهد خدای است و صبوح من از خرابی و باده من از بی‌خویشتنی."
     },
     {
       "VOrder": 138,
@@ -1845,7 +1914,8 @@
       "Text": "وگرنه به یزدان که تا بوده‌ام",
       "CoupletIndex": 69,
       "SectionIndex1": 0,
-      "SectionIndex2": 71
+      "SectionIndex2": 71,
+      "CoupletSummary": "وگرنه به یزدان سوگند که تا بوده‌ام به می و شراب لب نزده‌ام."
     },
     {
       "VOrder": 140,
@@ -1861,7 +1931,8 @@
       "Text": "گر از می شدم هرگز آلوده‌کام",
       "CoupletIndex": 70,
       "SectionIndex1": 0,
-      "SectionIndex2": 72
+      "SectionIndex2": 72,
+      "CoupletSummary": "اگر هرگز می نوشیده‌ام حلال خدا بر من حرام است."
     },
     {
       "VOrder": 142,

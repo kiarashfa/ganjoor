@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "جوانی! رفتی و نایی به سویم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای جوان! تو رفتی و حالا نمی‌دانم چگونه تو را پیدا کنم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "ز فایز پرس و جو احوال پیری",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از فایز درباره احوالات یک فرد سالخورده بپرس تا بتوانم داستانی را برای تو بازگو کنم."
     },
     {
       "VOrder": 4,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "یک تسو و دو تسو و سه تسو",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چند عدد \u0022تسو\u0022 داریم که جمعاً کمتر از یک عدد \u0022تسو\u0022 شود؟ لطفاً توضیح بدهید."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "یک تسو باشد، ولی، ای خواجه‌تاش",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک تسو (قدرت) وجود دارد، اما ای آقای محبوب، هر چه می‌خواهی باش، با ما بد و ناپسند نباش."
     },
     {
       "VOrder": 4,

@@ -181,7 +181,8 @@
       "Text": "آن غریبی را وزارت داد شاه",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: آن بیچاره‌ای که به وزارت رسید، سال‌ها در ضعف و ناداری زندگی کرد و حالا در سایه‌ی مقام و قدرت به زندگی راحت و شرافتی دست یافته است."
     },
     {
       "VOrder": 2,
@@ -197,7 +198,8 @@
       "Text": "عاقبت چون پیری آمد کارگر",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در نهایت، زمانی که سن بالا می‌آید و انسان به پیری می‌رسد، خواسته‌هایی برای خود دارد که ممکن است دستوراتی برای زندگی و کارش باشد."
     },
     {
       "VOrder": 4,
@@ -213,7 +215,8 @@
       "Text": "گفت خواهم کرد عزلت اختیار",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: می‌گوید که تصمیم دارم انزوا را برگزیند، زیرا از مرگ می‌ترسم ای پادشاه."
     },
     {
       "VOrder": 6,
@@ -229,7 +232,8 @@
       "Text": "منع نکند پادشاه سرفراز",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: پادشاه بلندمرتبه مانع نمی‌شود که من از اینجا به سرزمین خودم برگردم."
     },
     {
       "VOrder": 8,
@@ -245,7 +249,8 @@
       "Text": "میگذارم روز و شب در طاعتی",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: هر روز و شب را در عبادت و بندگی سپری می‌کنم، بنابراین هر لحظه برای تو دعا می‌کنم."
     },
     {
       "VOrder": 10,
@@ -261,7 +266,8 @@
       "Text": "شاه گفتش تو که اول آمدی",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: شاه به او گفت: تو که ابتدا به اینجا آمدی، با دست خالی و بدون هیچ ابزار یا دارایی‌ای منتظر ماندی."
     },
     {
       "VOrder": 12,
@@ -277,7 +283,8 @@
       "Text": "هرچه داری جمله کن تسلیم شاه",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که داری، باید به فرمان شاه تسلیم کنی، مانند روز اولی که به این جایگاه رسیدی."
     },
     {
       "VOrder": 14,
@@ -293,7 +300,8 @@
       "Text": "چون تو اینجاآمدی دستی تهی",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: وقتی که تو به اینجا آمدی، بدون هیچ چیزی می‌روی، در حالی که با این همه ثروت و امکانات مواجه هستی."
     },
     {
       "VOrder": 16,
@@ -309,7 +317,8 @@
       "Text": "مرد گفتا گر وزارت ساختم",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: مرد گفت: اگر به مقام وزارت دست یابم، زندگی‌ام را صرف خدمت به تو کرده‌ام."
     },
     {
       "VOrder": 18,
@@ -325,7 +334,8 @@
       "Text": "نقد من با من ده آن خویش گیر",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: نقد من را به خود بپذیر و اگر نمی‌خواهی، به تنهایی خود بچسب و از آن جدا نشو."
     },
     {
       "VOrder": 20,
@@ -341,7 +351,8 @@
       "Text": "کس چه داند تا چه نقدی بس عزیز",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس نمی‌داند چه بهای گرانبهایی را برای عشق تو از دست داده‌ام."
     },
     {
       "VOrder": 22,
@@ -357,7 +368,8 @@
       "Text": "چون همه سرمایه تو عمر بود",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: چون تمام دارایی تو عمرت است، چرا آن را به سادگی از دست می‌دهی؟"
     },
     {
       "VOrder": 24,
@@ -373,7 +385,8 @@
       "Text": "چون چنین سرمایه از دستت برفت",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: وقتی که سرمایه‌ات را از دست دادی، هرچه که داشتی یا هستی، از بین رفته است."
     },
     {
       "VOrder": 26,
@@ -389,7 +402,8 @@
       "Text": "تو چه دانی قدر عمر ای هیچکس",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: تو چه می‌دانی ارزش زندگی چقدر است؟ فقط مردگان هستند که به درستی ارزش عمر را درک می‌کنند."
     },
     {
       "VOrder": 28,
@@ -405,7 +419,8 @@
       "Text": "باز پرس از اهل گورستان تو نیز",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: از کسانی که در گورستان هستند بپرس که درباره عمر گرانبهای انسان چه می‌گویند."
     },
     {
       "VOrder": 30,

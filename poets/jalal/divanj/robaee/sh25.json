@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گویند که ماه روزه نزدیک رسید",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌گویند که ماه رمضان نزدیک است و بعد از آن نمی‌توان به دور باده گشت."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "در آخر شعبان بخورم چندان می",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در پایان ماه شعبان، مقداری می‌نوشم و در ماه رمضان به حالتی سرخوش و مست می‌روم تا به عید برسیم."
     },
     {
       "VOrder": 4,

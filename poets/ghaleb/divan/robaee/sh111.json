@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "یارب تو کجایی که به ما زر ندهی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای خدا، کجایی که به ما کمک نمی‌کنی؟ ای کسی که بی‌درد و رنج هستی، چرا بر ما رحم نمی‌کنی و به ما نعمت نمی‌بخشی؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "نی نی نه تو غایبی و نی بی رحمی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نه تو دوری و نه بی‌رحم هستی، بلکه تو مثل ما بی‌مقدار هستی که به ما ارزشی نمی‌دهی."
     },
     {
       "VOrder": 4,

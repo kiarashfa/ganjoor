@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای جسته دوا از در هر بیماری",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که برای هر بیماری دارو را از دیگران می‌گیری، تا کی می‌خواهی در هر کاری به تقلید از دیگران ادامه دهی؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گر صاحب افسری نیاری گشتن",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی که دارای مقام و قدرت است نتواند کاری انجام دهد، تلاش کن و خود را به او برسانی."
     },
     {
       "VOrder": 4,

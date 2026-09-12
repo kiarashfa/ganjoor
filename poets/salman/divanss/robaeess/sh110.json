@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "شاها به خطای اسب اگر شاه ز زین ",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر شاه به خاطر خطای اسب خود از زین بیفتد و دور شود، چه بر او خواهد گذشت؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "حاشا که تو افتی و نیفتد هرگز ",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرگز ممکن نیست که تو به زمین بیفتی و هیچ‌کس دیگری مانند تو در این دنیا به پا نخواهد خاست."
     },
     {
       "VOrder": 4,

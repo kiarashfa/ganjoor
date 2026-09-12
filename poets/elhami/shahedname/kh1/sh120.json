@@ -341,7 +341,8 @@
       "Text": "پس آنگه دوباره به انصار گفت",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: سپس دوباره به یاران گفت که این راز از شما نیز پنهان نبود."
     },
     {
       "VOrder": 2,
@@ -357,7 +358,8 @@
       "Text": "به هر جا که خواهید زین سرزمین",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: به هر جایی که می‌خواهید، از این سرزمین رهسپار شوید، ای سواران دین."
     },
     {
       "VOrder": 4,
@@ -373,7 +375,8 @@
       "Text": "ازیدر سوی بنگه خود روید",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: اگر به سوی دیگران بروید، من تصمیم ندارم که در این دشت بدون سر (و بی‌هدف) زندگی کنم."
     },
     {
       "VOrder": 6,
@@ -389,7 +392,8 @@
       "Text": "چو زینسان شنیدند آزاده گان",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: آزادگان و افراد با اصالت و نجیب، وقتی این موضوع را شنیدند، بسیار تحت تأثیر قرار گرفتند و واکنش نشان دادند."
     },
     {
       "VOrder": 8,
@@ -405,7 +409,8 @@
       "Text": "سرشک از مژه بررخ افشان شدند",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: اشک‌هایی که از مژه‌ها ریخته می‌شود، به زیبایی چهره او می‌افزاید و همه به خاطر او ستایشگر می‌شوند."
     },
     {
       "VOrder": 10,
@@ -421,7 +426,8 @@
       "Text": "که شاها به پروردگار جهان",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: ای شاه بزرگ، به خدایی که جهان را خلق کرده و از رازها خبر دارد، ایمان دارید."
     },
     {
       "VOrder": 12,
@@ -437,7 +443,8 @@
       "Text": "اگر بد کنش آتش افروزدا",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: اگر او کار بدی کند، آتش خشم خود را بر جان و تن ما بیفروزد و ما را بسوزاند."
     },
     {
       "VOrder": 14,
@@ -453,7 +460,8 @@
       "Text": "نماییم ما مرگ خود آرزوی",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: ما آرزو می‌کنیم که مرگ خود را در پیشگاهی تو بپذیریم و از دیدن تو روی گردان نباشیم."
     },
     {
       "VOrder": 16,
@@ -469,7 +477,8 @@
       "Text": "که ما را بود مرگ خود زنده گی",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: ما در زندگی خود به مرگ می‌انگاریم که شاید بعد از آن زندگی بهتر و جاودانی را تجربه کنیم."
     },
     {
       "VOrder": 18,
@@ -485,7 +494,8 @@
       "Text": "مبین خار برجان نثاران خویش",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: به دیگران زخم و آزار نرسان و دوستان و یاران خود را از خود دور نکن."
     },
     {
       "VOrder": 20,
@@ -501,7 +511,8 @@
       "Text": "کسی کو به دل عشق و مهر تودید",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: کسی که به عشق و محبت تو دل بسته است، از جان و زندگی خود برای تو می‌گذرد."
     },
     {
       "VOrder": 22,
@@ -517,7 +528,8 @@
       "Text": "همه جان نثاریم بر گرد تو",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: ما جان خود را به پای تو فدای کرده‌ایم و در آموختن عشق، شاگرد تو هستیم."
     },
     {
       "VOrder": 24,
@@ -533,7 +545,8 @@
       "Text": "تو استاد عشقی و ما پیروان",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: تو در عشق استاد و راهنما هستی و ما پیروان تو هستیم که به هر سو از تو پیروی می‌کنیم."
     },
     {
       "VOrder": 26,
@@ -549,7 +562,8 @@
       "Text": "تویی مرشد راه و ما رهسپار",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: تو راهنمای ما هستی و ما در مسیر تو حرکت می‌کنیم، معشوق مان هستی و همه ما جان خود را برای تو فدای تو می‌کنیم."
     },
     {
       "VOrder": 28,
@@ -565,7 +579,8 @@
       "Text": "اگر نز پی کارزار آمدیم",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: اگر برای نبرد وارد این میدان شده‌ایم، دلیل حضورمان در اینجا چه چیزی است؟"
     },
     {
       "VOrder": 30,
@@ -581,7 +596,8 @@
       "Text": "به عشق تو ای پادشاه امم",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: به خاطر عشق تو، ای سرور من، از تمام مشکلات و دشواری‌ها عبور کردیم و به نخستین گام رسیدیم."
     },
     {
       "VOrder": 32,
@@ -597,7 +613,8 @@
       "Text": "ز صهبای عشقت چنان بی هشیم",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: ما از شراب عشق تو چنان مست و بی‌خبر شده‌ایم که اگر تو فرمان بدهی، جان خود را هم خواهیم داد."
     },
     {
       "VOrder": 34,
@@ -613,7 +630,8 @@
       "Text": "وگر سوی آتش بگویی رویم",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: اگر به سمت آتش بروی، همه ما مانند سمندر در آن آتش خواهیم غلتید و در آن زندگی خواهیم کرد."
     },
     {
       "VOrder": 36,
@@ -629,7 +647,8 @@
       "Text": "دویی از میان رفته و ما و من",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: هرگونه وجود و هویت جداگانه‌ای به جز تو در ما باقی نمانده است. ما فقط تو را در وجود خود می‌بینیم و بقیه را فراموش کرده‌‌ایم."
     },
     {
       "VOrder": 38,
@@ -645,7 +664,8 @@
       "Text": "چه کس آشنا رانده از خانه اش؟",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: چه کسی یار و آشنا را از خانه‌اش دور کرده است؟ که این دیوانه، دیگر زنجیرهای خود را نمی‌بیند و از آنها رسته است؟"
     },
     {
       "VOrder": 40,
@@ -661,7 +681,8 @@
       "Text": "تو دانی که از خویش بیگانه ایم",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: می‌دانی که همه ما از خود واقعی‌مان دور هستیم و حتی کسانی که به نظر می‌رسد به ما نزدیک‌اند، در واقع غریبه‌اند."
     },
     {
       "VOrder": 42,
@@ -677,7 +698,8 @@
       "Text": "کسی کاندرین خانه بد خانه زاد",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: کسی که در این خانه به دنیا آمده، عادت بیگانه بودن را فراموش کرده است."
     },
     {
       "VOrder": 44,
@@ -693,7 +715,8 @@
       "Text": "درآندم که از برق پیچان سنان",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: در آن لحظه که ستاره‌ای با درخشش و زیبایی از ساق سنان به سمت میدان می‌آید، دیگر نمی‌توان به عقب برگشت و رکاب زد."
     },
     {
       "VOrder": 46,
@@ -709,7 +732,8 @@
       "Text": "نماییم یکسر به قربانگهت",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: تمام وجود خود را به پای تو می‌گذاریم و به قربانگاهت می‌آییم تا جانمان را در راهت فدای تو کنیم."
     },
     {
       "VOrder": 48,
@@ -725,7 +749,8 @@
       "Text": "برجنگی ما زخون شد چو آل",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: ما از جنگ زخمی شده‌ایم، همان‌طور که آل (نسل) هم بر اثر سم اسبان در خون خود غوطه‌ور است."
     },
     {
       "VOrder": 50,
@@ -741,7 +766,8 @@
       "Text": "شود شاد از ما به روز شمار",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: خالق مور و مار، روز به روز به خاطر ما شاد خواهد شد."
     },
     {
       "VOrder": 52,
@@ -757,7 +783,8 @@
       "Text": "همه سرخ رو در بر دادگر",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: همه صورت‌های سرخ را در برابر قاضی و دادگر از خوابگاه تو بیدار می‌کنیم."
     },
     {
       "VOrder": 54,
@@ -773,7 +800,8 @@
       "Text": "زکردار ما پاک پیغمبرا",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: رفتار و اعمال ما باعث می‌شود که پیامبر بزرگوار در روز قیامت با افتخار و سربلندی حاضر شود."
     },
     {
       "VOrder": 56,
@@ -789,7 +817,8 @@
       "Text": "زایشان شه دین چو زینسان شنود",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: هنگامی که پیامبر بزرگ دین این همه ستایش‌ها را از خود شنید، به هر یک از آنها پاسخ مثبت و سخنان نیکو داد."
     },
     {
       "VOrder": 58,
@@ -805,7 +834,8 @@
       "Text": "چو دید آن خداوند فرخنده پی",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: وقتی آن صاحب خوشبختی دید که سالکان چه مسیری را طی کرده‌اند،"
     },
     {
       "VOrder": 60,
@@ -821,7 +851,8 @@
       "Text": "همه غرق یارند و خالی ز خویش",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: همه در عشق محبوب غرق شده‌اند و خود را از وجود خویش خالی می‌دانند. برای آنها، زندگی چون نوشی شیرین و در عین حال، نیشی تلخ است."
     },
     {
       "VOrder": 62,

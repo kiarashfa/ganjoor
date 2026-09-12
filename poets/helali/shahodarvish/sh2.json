@@ -181,7 +181,8 @@
       "Text": "ای دوای درون خسته‌دلان",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای تو درمانی برای دل‌های خسته و رنج‌کشیده، تسکینی برای سینه‌هایی که شکسته‌اند."
     },
     {
       "VOrder": 2,
@@ -197,7 +198,8 @@
       "Text": "مرهمی لطف کن، که خسته‌دلم",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: ای مهربان، به من کمک کن که دل خسته‌ام به تسلایی نیاز دارد، یاری‌ام کن که روح شکسته‌ام به ترمیم نیازمند است."
     },
     {
       "VOrder": 4,
@@ -213,7 +215,8 @@
       "Text": "گرچه من سر به سر گنه کردم",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: اگرچه من تمام زندگی‌ام را پر از معصیت و خطا کردم، اما دفتر اعمالم را پر از سیاهی و گناه گرداندم."
     },
     {
       "VOrder": 6,
@@ -229,7 +232,8 @@
       "Text": "تو درین نامهٔ سیاه مبین",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: در این نوشتهٔ تیره به زیبایی و مهربانی خود توجه نکن، بلکه به اشتباهات و گناهان خود نگریست."
     },
     {
       "VOrder": 8,
@@ -245,7 +249,8 @@
       "Text": "من خود از کرده‌های خود خجلم",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: من به خاطر کارهایی که انجام داده‌ام شرمنده‌ام، تو هم در روز قیامت مرا سرزنش نکن."
     },
     {
       "VOrder": 10,
@@ -261,7 +266,8 @@
       "Text": "با وجود گناه‌کاری‌ها",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: با وجود اینکه خطاها و اشتباهات زیادی کرده‌ام، باز هم به تو امیدوارم و توقع دارم که کمکم کنی."
     },
     {
       "VOrder": 12,
@@ -277,7 +283,8 @@
       "Text": "زانکه بر توست اعتماد همه",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: زیرا به تو اعتماد کامل دارم؛ تو آرزوی من و آرزوی همه هستی."
     },
     {
       "VOrder": 14,
@@ -293,7 +300,8 @@
       "Text": "تو کریمی و بی‌نوای توام",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: تو بزرگوار و سخاوتمندی، و من در وضعیتی نادار و بی‌چیز به سر می‌برم. تو در مقام سلطنت قرار داری و من در مقام فقر و نیاز به تو هستم."
     },
     {
       "VOrder": 16,
@@ -309,7 +317,8 @@
       "Text": "نی گدایی که این و آن خواهم",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: من گدای کسی نیستم که خواسته‌ام را از این و آن تقاضا کنم؛ من آرزوی چیزی عمیق‌تر و مهم‌تر از خواسته‌های زودگذر دارم."
     },
     {
       "VOrder": 18,
@@ -325,7 +334,8 @@
       "Text": "بلکه باشد گدایی‌ام دردی",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: من گدایی هستم که دردی دارم؛ اشک‌هایم سرخ و صورتم زرد است."
     },
     {
       "VOrder": 20,
@@ -341,7 +351,8 @@
       "Text": "تا به راهت ز اهل درد شوم",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: من از مسیر عشق و دلدادگی بالا نمی‌آیم، حتی اگر به خاطر عشق گرد و غبار و سختی‌ها بر بدنم نشیند."
     },
     {
       "VOrder": 22,
@@ -357,7 +368,8 @@
       "Text": "چون به خاک اوفتم به صد خواری",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: زمانی که به خاک او بیفتم و با خواری به او احترام بگذارم، تو با مهربانی مرا از زمین بر می‌داری."
     },
     {
       "VOrder": 24,
@@ -373,7 +385,8 @@
       "Text": "گرچه در خورد آتشم چون شرر",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: هرچند که درون من مانند آتش مشتعل است، اما اگر کسی به من نگاهی کند، آیا این برای او ضرری دارد؟"
     },
     {
       "VOrder": 26,
@@ -389,7 +402,8 @@
       "Text": "من نگویم که لطف و احسان کن",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: من نمی‌گویم که به من محبت و کمک کن، هر کاری که می‌توانی انجام بده."
     },
     {
       "VOrder": 28,
@@ -405,7 +419,8 @@
       "Text": "عاقبت بگسلد چو بند از بند",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: سرانجام، این بندهایی که مرا به هم متصل کرده‌اند، از هم جدا خواهند شد و من به خودم خواهد پیوست."
     },
     {
       "VOrder": 30,

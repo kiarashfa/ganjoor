@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "چون نیست یقین که شب چه خواهد آورد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که نمی‌دانم شب چه اتفاقی برایم خواهد افتاد، نمی‌توانم برای غمی که هنوز نیامده، خود را ناراحت کنم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "فردا چو ندانم که چه خواهد بودن",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فردا را که نمی‌دانم چه خواهد شد، پس امروز هم نمی‌دانم چه باید انجام دهم."
     },
     {
       "VOrder": 4,

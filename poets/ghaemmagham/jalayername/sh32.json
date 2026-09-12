@@ -661,7 +661,8 @@
       "Text": "جلایر کلک گوهرریز کن تیز",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: به تیزی قلم خود، جواهرات را به نمایش بگذار و در راه پادشاه، مرواریدها را به آرامی بچین."
     },
     {
       "VOrder": 2,
@@ -677,7 +678,8 @@
       "Text": "دعا کن بر بقای دولت شاه",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: هر صبحگاه، بر بقای سلطنت پادشاه دعا کن که این کار بر تو واجب است."
     },
     {
       "VOrder": 4,
@@ -693,7 +695,8 @@
       "Text": "ولی عهد شهنشه کز عدالت",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: ولی عهد شاه، که از شدت عدالت نمی‌تواند حتی یک گرگ دشمنی را تحمل کند."
     },
     {
       "VOrder": 6,
@@ -709,7 +712,8 @@
       "Text": "نموده جایگه در چنگل باز",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: در میان جنگل، با وجود آنکه هنوز در کمین است، همان پرنده‌ای که در قفس بود، حالا با باز همگام و هم‌نوا شده است."
     },
     {
       "VOrder": 8,
@@ -725,7 +729,8 @@
       "Text": "به عهد او شبان میش گرگ است",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: در پیمانی که بسته شده، آن کس که باید نگهبان و حافظ باشد، در واقع خود تبدیل به تهدید و خطر شده است. همچنین، داشتن دل غمگین و نگران در این شرایط، نشانه‌ای از گناه و خطا به شمار می‌آید."
     },
     {
       "VOrder": 10,
@@ -741,7 +746,8 @@
       "Text": "همه اهل ممالک شادمانند",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: تمامى مردم کشورها شاد و خوشحال هستند و برای پادشاه دعا می‌کنند و او را ستایش می‌کنند."
     },
     {
       "VOrder": 12,
@@ -757,7 +763,8 @@
       "Text": "ز بعد از نعت او سوی حکایت",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: پس از توصیف او، اکنون به نقل این داستان بپردازید و داستان را از ابتدا شروع کنید."
     },
     {
       "VOrder": 14,
@@ -773,7 +780,8 @@
       "Text": "بگو یک داستانی تازه و نغز",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: یک داستان جدید و جذاب بگو که از عمق و مفهوم کلام لبریز باشد."
     },
     {
       "VOrder": 16,
@@ -789,7 +797,8 @@
       "Text": "دو دولت چون که عهدش تازه گردید",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: زمانی که دو طرف با هم توافق جدیدی کردند، شادی و خوشحالی بی‌حد و اندازه‌ای به وجود آمد."
     },
     {
       "VOrder": 18,
@@ -805,7 +814,8 @@
       "Text": "چو عهد دوستی بستند با روس",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: هنگامی که دوستانی با یکدیگر پیمان دوستی می‌بندند، حسادت‌ورزان فقط با حسرت و افسوس باقی می‌مانند، بدون اینکه بتوانند به دوستی آنان آسیب بزنند."
     },
     {
       "VOrder": 20,
@@ -821,7 +831,8 @@
       "Text": "ولیعهد سخن سنج نکو رای",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: ولیعهد، که سخن سنج و با اندیشه‌ای خوب است، زمانی که در میدان صلح قدم گذاشت، به ناگاه با چالش‌هایی مواجه شد."
     },
     {
       "VOrder": 22,
@@ -837,7 +848,8 @@
       "Text": "صلاح دولتش در صلح دیده",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: خوبی و بهتر شدن روند حکمرانی در آرامش و صلح دیده می‌شود. در واقع، این صلح به نوعی انتخابی خوب و مناسب است."
     },
     {
       "VOrder": 24,
@@ -853,7 +865,8 @@
       "Text": "ز هر سو یک امینی، خیرخواهی",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: در هر گوشه، فردی دلسوز و خیرخواه وجود دارد که در عرصه دانش و خرد، راهی را پیش گرفته است."
     },
     {
       "VOrder": 26,
@@ -869,7 +882,8 @@
       "Text": "جهان دیده، هنرور، آگه از کار",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: شخصی که تجربه و دانایی دارد، از سختی‌ها و آسانی‌های زندگی به خوبی باخبر است و به هنر و مهارت‌هایش آشناست."
     },
     {
       "VOrder": 28,
@@ -885,7 +899,8 @@
       "Text": "یکی از نسل خیرالمرسلین بود",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: او از نسل بهترین پیامبر بود و belongs to the nation of Jesus and followed his teachings."
     },
     {
       "VOrder": 30,
@@ -901,7 +916,8 @@
       "Text": "مقابل حق و باطل گشت با هم",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: حق و باطل در کنار هم قرار گرفتند، مانند روز و شب که هر کدام ویژگی‌های خاص خود را دارند و به نوعی در کنار هم وجود دارند."
     },
     {
       "VOrder": 32,
@@ -917,7 +933,8 @@
       "Text": "یکی از دولت ایران سخن گفت",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: در یک جمع، یکی از نمایندگان ایران راجع به مسائلی صحبت کرد و در همان حال، یکی از شاهان روسیه نیز نظرات خود را بیان کرد."
     },
     {
       "VOrder": 34,
@@ -933,7 +950,8 @@
       "Text": "نشستند و بگفتند و شنیدند",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: آنها دور هم جمع شدند، صحبت کردند و به یکدیگر گوش دادند و روش مناسبی برای رسیدن به صلح انتخاب کردند."
     },
     {
       "VOrder": 36,
@@ -949,7 +967,8 @@
       "Text": "یکی از جانب شاه و ولیعهد",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: از طرف شاه و ولیعهد، توافق و پیمانی درباره صلح برقرار شد و این عهد بسته شد."
     },
     {
       "VOrder": 38,
@@ -965,7 +984,8 @@
       "Text": "مسیحائی قبول از دولت روس",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: مسیحای واقعی از سوی دولت روس، با خوشحالی و به صدا درآوردن طبل جشن، خوشامدگویی کرده است."
     },
     {
       "VOrder": 40,
@@ -981,7 +1001,8 @@
       "Text": "یکی جشنی به پا شد اندر آن روز",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: در آن روز که همزمان با عید نوروز بود، جشنی برپا شد."
     },
     {
       "VOrder": 42,
@@ -997,7 +1018,8 @@
       "Text": "نوشتند صورت تقریر این کار",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: آنها نوشتند که این کار را به زیبایی و با ارزش مانند طلا توصیف کرده‌اند و آن را به صورت طوماری تنظیم کرده‌اند."
     },
     {
       "VOrder": 44,
@@ -1013,7 +1035,8 @@
       "Text": "مفاسد قطع گشت و صلح واقع",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: فسادها برطرف شد و صلح در هر سمت به ثبت رسید و این اتفاقات نوشته شدند."
     },
     {
       "VOrder": 46,
@@ -1029,7 +1052,8 @@
       "Text": "همه آسوده شد اهل دو دولت",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: همه مردم از دو حکومت آرامش یافتند و دشمنی از دل‌ها حذف شد."
     },
     {
       "VOrder": 48,
@@ -1045,7 +1069,8 @@
       "Text": "یقین است صلح بهتر باشد از جنگ",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: صلح همیشه بهتر از جنگ است؛ زیرا جنگ نتیجه نادانی و جهل است، در حالی که صلح از فرهنگ و آگاهی ناشی می‌شود."
     },
     {
       "VOrder": 50,
@@ -1061,7 +1086,8 @@
       "Text": "ولیعهد اهتمام این بفرمود",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: ولیعهد دستور داد که همگان باید به خیر و سود هر دو طرف توجه داشته باشند."
     },
     {
       "VOrder": 52,
@@ -1077,7 +1103,8 @@
       "Text": "شه روسی چو شد ممنون این کار",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: شاه روسی که از این کار سپاسگزار شده بود، یکی از سفیران خود را به سوی او فرستاد."
     },
     {
       "VOrder": 54,
@@ -1093,7 +1120,8 @@
       "Text": "به اعزاز شهنشه سوی ایران",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: شاه به خاطر احترام و عظمت خود با زحمت‌های بسیار به تهران آمد."
     },
     {
       "VOrder": 56,
@@ -1109,7 +1137,8 @@
       "Text": "به همراهش بسی از هدیه داده",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: او به همراه خود هدیه‌های زیادی آورده که این نشانه‌ای از دوستی و محبت اوست."
     },
     {
       "VOrder": 58,
@@ -1125,7 +1154,8 @@
       "Text": "برادر وار نامه از سر مهر",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: نامه‌ای از روی محبت و دوستی نوشته‌ام، همان‌طور که برادران رفتار می‌کنند، به خاطر این دو مهتاب و مهر که در زندگی‌ام وجود دارند."
     },
     {
       "VOrder": 60,
@@ -1141,7 +1171,8 @@
       "Text": "اگر صد شکر گویم اندک آید",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: اگر من هزار بار هم از خوشحالی و شکرگزاری صحبت کنم، باز هم کافی نیست که بگویم خوشبختی و نعمت‌های زندگی به طور همزمان در کنار هم قرار گرفته‌اند."
     },
     {
       "VOrder": 62,
@@ -1157,7 +1188,8 @@
       "Text": "ولی این کار از شهزاده دانم",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: اما می‌دانم که این کار از سوی شاهزاده است، اما ولیعهد را آزاد و مستقل می‌دانم."
     },
     {
       "VOrder": 64,
@@ -1173,7 +1205,8 @@
       "Text": "چو قدر او از این پس بیش باشد",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: اگر از این پس قدر و منزلت او بیشتر شود، چه خوب است که هم پیمان و هم فکر خوبی داشته باشد."
     },
     {
       "VOrder": 66,
@@ -1189,7 +1222,8 @@
       "Text": "غرض ایلچی نموده طی این راه",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: اینجا گفته شده که هدف ایلچی این است که برای شاه روس سفر کند و در این سفر نام او به عنوان شهنشاه شناخته می‌شود. به نوعی، این سفر و مأموریت باعث می‌شود که اعتبار و مقام او افزایش یابد."
     },
     {
       "VOrder": 68,
@@ -1205,7 +1239,8 @@
       "Text": "شرفیاب حضور شاه گردید",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: او به درگاه شاه رفت و تمام خواسته‌هایش برآورده شد."
     },
     {
       "VOrder": 70,
@@ -1221,7 +1256,8 @@
       "Text": "شهنشه کرد او را لطف بسیار",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: او به خاطر لطف و محبت زیادی که نشان داد، مورد احترام قرار گرفت، زیرا هم مهمان بود و هم پیام‌آور ویژه."
     },
     {
       "VOrder": 72,
@@ -1237,7 +1273,8 @@
       "Text": "بلی ایلچی ذوالقدر و مقام است",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: بله، فرستاده‌ای با قدرت و مقام است که این قانون همیشه برقرار و پایدار خواهد بود."
     },
     {
       "VOrder": 74,
@@ -1253,7 +1290,8 @@
       "Text": "سپردش پس به یک مرد نکوئی",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: او را به یک مرد خوب و نیکوکار بسپار، کسی که دارای روحیه‌ای شاد و خوشایند باشد."
     },
     {
       "VOrder": 76,
@@ -1269,7 +1307,8 @@
       "Text": "که مهمان است در پیش شه روس",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: مهمانی که در پیش پادشاه روس آمده، به دلایل خاصی به اینجا آمده و احتمالاً نیت‌های پنهانی دارد."
     },
     {
       "VOrder": 78,
@@ -1285,7 +1324,8 @@
       "Text": "به مهمان داریش گفت آنچه باید",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: در زمان پذیرایی از مهمان، باید به خوبی و با احترام رفتار کرد و هر آنچه لازم است به او عرضه کرد."
     },
     {
       "VOrder": 80,
@@ -1301,7 +1341,8 @@
       "Text": "بباید نوع خوبی کرد رفتار",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: انسان باید در رفتار خود نوعی خوبی و مهربانی نشان دهد تا دیگران بدون هیچ آزار و آسیبی از او راضی و خوشنود باشند."
     },
     {
       "VOrder": 82,
@@ -1317,7 +1358,8 @@
       "Text": "همه گفتند جان راهش ببازیم",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: همه گفتند که جان خود را فدای او کنیم، چون فرمان شاه صادر شد، او را گرامی بداریم."
     },
     {
       "VOrder": 84,
@@ -1333,7 +1375,8 @@
       "Text": "امین‌الدوله کرد عرض این: شهنشاه",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: امین‌الدوله گفت: پادشاه باید بداند که هر کس در مسیر خود چگونه رفتار می‌کند و چه اصولی را باید رعایت کند."
     },
     {
       "VOrder": 86,
@@ -1349,7 +1392,8 @@
       "Text": "هر آن چیزی که باید کرد شاید",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: هر کاری که باید انجام دهم، ممکن است تلاشی برای کاری باشد که از عهده هیچ‌کس دیگر برنمی‌آید."
     },
     {
       "VOrder": 88,
@@ -1365,7 +1409,8 @@
       "Text": "کنم آن خدمتی کز قاف تا قاف",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: من می‌خواهم خدمتی انجام دهم که هیچ ایلچی‌ای از قاف تا قاف، چنین خدمتی نکرده باشد."
     },
     {
       "VOrder": 90,
@@ -1381,7 +1426,8 @@
       "Text": "نباشم ساعتی منفک ز حالش",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: هرگز نمی‌توانم لحظه‌ای از حال و هوای او دور باشم، زیرا افکار دیگری در ذهنش بروز می‌کند."
     },
     {
       "VOrder": 92,
@@ -1397,7 +1443,8 @@
       "Text": "شهنشه خاطر آسوده و شاد",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: پادشاه با خیالی راحت و خوشحال است، پس چرا باید این موضوع را به یاد بیاورید؟"
     },
     {
       "VOrder": 94,
@@ -1413,7 +1460,8 @@
       "Text": "نه مامورم به خدمت‌های کلی",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: من مأمور نیستم که خدمت‌های عمومی انجام دهم، بلکه هدفم این است که به خاطر پاک تو آرامش ببخشم."
     },
     {
       "VOrder": 96,
@@ -1429,7 +1477,8 @@
       "Text": "کنم یک خدمتی شایست او را",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: من هر کاری که شایسته او باشد انجام می‌دهم و هر چیزی که به او تعلق دارد، باید به او داده شود."
     },
     {
       "VOrder": 98,
@@ -1445,7 +1494,8 @@
       "Text": "جدا شهزادگان را شاه فرمود",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: شاه به شهزادگان دستور داد که باید او را از جمله خوشنودان به شمار آورند."
     },
     {
       "VOrder": 100,
@@ -1461,7 +1511,8 @@
       "Text": "مبادا خاطرش رنجیده گردد",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: نگران نباش که مبادا دل او از رفتار کسی که غم دیده، آزار ببیند."
     },
     {
       "VOrder": 102,
@@ -1477,7 +1528,8 @@
       "Text": "نمودند عرض کای شاه جوان بخت",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: ای شاه جوان و خوشبخت، تو را هم تاج و هم تخت، یعنی هم مقام پادشاهی و هم قدرت و عظمت، می‌بخشند."
     },
     {
       "VOrder": 104,
@@ -1493,7 +1545,8 @@
       "Text": "چه حاجت این همه تاکید بسیار",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "هوش مصنوعی: ضرورت ندارد که اینقدر بر روی موضوع تأکید کنیم، زیرا ما هم بندگان هستیم و باید هوشیار باشیم."
     },
     {
       "VOrder": 106,
@@ -1509,7 +1562,8 @@
       "Text": "چنان او را نوازش‌ها نمائیم",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "هوش مصنوعی: ما به او به گونه‌ای محبت و محبت می‌کنیم که در دلش عشق و وفاداری را باز کنیم."
     },
     {
       "VOrder": 108,
@@ -1525,7 +1579,8 @@
       "Text": "که هر کس پرسدش از آخر کار",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "هوش مصنوعی: هرکس از او درباره‌ی نتیجه‌ی نهایی کار بپرسد، ناگهان زبانش بند می‌آید و نمی‌تواند چیزی بگوید."
     },
     {
       "VOrder": 110,
@@ -1541,7 +1596,8 @@
       "Text": "نباشد قدرتش لا و نعم را",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی قدرت داشته باشد، نه به «نه» و نه به «بله» اشاره نمی‌کند و از زیادی یا کمی چیزی شکایت نمی‌کند."
     },
     {
       "VOrder": 112,
@@ -1557,7 +1613,8 @@
       "Text": "غرض چندی برفت از این حکایت",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "هوش مصنوعی: مدتی است که از این ماجرا می‌گذرد که برخی از نمایندگان از آن شکایت کرده‌اند."
     },
     {
       "VOrder": 114,
@@ -1573,7 +1630,8 @@
       "Text": "پس آنگه گشت یک غوغای عامی",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "هوش مصنوعی: پس از آن، یک شور و هیاهوی عمومی به وجود آمد و مردم نادان در هم بر هم ریختند."
     },
     {
       "VOrder": 116,
@@ -1589,7 +1647,8 @@
       "Text": "بسی الواط و عامی بر سرش ریخت",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "هوش مصنوعی: بسیاری از افراد بی‌دانش و نادرست بر سر او جمع شدند و به‌قدری سر و صدا کردند که او را به خاک و خون کشاندند."
     },
     {
       "VOrder": 118,
@@ -1605,7 +1664,8 @@
       "Text": "چهل پنجاه کس کشتند زَاهلش",
       "CoupletIndex": 59,
       "SectionIndex1": 0,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "هوش مصنوعی: چند نفر را به راحتی و بی‌اهمیت از بین بردند و به حساب نیاوردند."
     },
     {
       "VOrder": 120,
@@ -1621,7 +1681,8 @@
       "Text": "چو بعضی بخردان را این خبر شد",
       "CoupletIndex": 60,
       "SectionIndex1": 0,
-      "SectionIndex2": 62
+      "SectionIndex2": 62,
+      "CoupletSummary": "هوش مصنوعی: وقتی برخی از دانایان این خبر را شنیدند، از تاسف و پشیمانی به خاک افتادند و گریبان خود را گرفتند."
     },
     {
       "VOrder": 122,
@@ -1637,7 +1698,8 @@
       "Text": "خبر دادند خاصان خدمت شاه",
       "CoupletIndex": 61,
       "SectionIndex1": 0,
-      "SectionIndex2": 63
+      "SectionIndex2": 63,
+      "CoupletSummary": "هوش مصنوعی: خبرهایی از سوی افراد نزدیک به شاه درباره قتل یک فرستاده از سوی گروهی منحرف به وی رسید."
     },
     {
       "VOrder": 124,
@@ -1653,7 +1715,8 @@
       "Text": "همه شهزادگان افکنده سر پیش",
       "CoupletIndex": 62,
       "SectionIndex1": 0,
-      "SectionIndex2": 64
+      "SectionIndex2": 64,
+      "CoupletSummary": "هوش مصنوعی: همه شاهزادگان به خاطر خجالت و نگرانی، سرشان را پایین انداخته‌اند و در حضور پادشاه سرافکنده هستند."
     },
     {
       "VOrder": 126,

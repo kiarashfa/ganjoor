@@ -53,6 +53,16 @@
     },
     {
       "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ر",
+      "PlainText": "بر عجم گشتند مغلوب از خبر\r\nباز هم یابند بر ایشان ظفر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر عجم گشتند مغلوب از خبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباز هم یابند بر ایشان ظفر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 3,
       "Number": 4,
       "SectionType": "WholePoem",
       "VerseType": "First",
@@ -73,26 +83,6 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 3,
-      "Number": 3,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ر",
-      "PlainText": "بر عجم گشتند مغلوب از خبر\r\nباز هم یابند بر ایشان ظفر",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر عجم گشتند مغلوب از خبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباز هم یابند بر ایشان ظفر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
-    },
-    {
-      "Index": 4,
-      "Number": 4,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ین",
-      "PlainText": "هست از تفسیر و تاریخ این یقین\r\nشرح و تفسیر این حکایت را چنین",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهست از تفسیر و تاریخ این یقین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشرح و تفسیر این حکایت را چنین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
-    },
-    {
       "Index": 4,
       "Number": 4,
       "SectionType": "Couplet",
@@ -111,6 +101,26 @@
       "PlainText": "گفت از غیرت ابوبکر صدیق\r\nشاد زین معنی نباشید ای فریق",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت از غیرت ابوبکر صدیق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاد زین معنی نباشید ای فریق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ین",
+      "PlainText": "هست از تفسیر و تاریخ این یقین\r\nشرح و تفسیر این حکایت را چنین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهست از تفسیر و تاریخ این یقین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشرح و تفسیر این حکایت را چنین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ان",
+      "PlainText": "گشت از پرویز شهریران روان\r\nسوی روم از بهر جنگ رومیان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگشت از پرویز، شهریران روان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسوی روم از بهر جنگ رومیان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 4
     },
     {
       "Index": 5,
@@ -140,26 +150,6 @@
       "RhymeLetters": "ر",
       "PlainText": "میم یعنی مالک است و مقتدر\r\nبر ملوک و ملک اندر جهر و سر",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیم یعنی مالک است و مقتدر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر ملوک و ملک اندر جهر و سرّ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 4
-    },
-    {
-      "Index": 5,
-      "Number": 5,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ان",
-      "PlainText": "گشت از پرویز شهریران روان\r\nسوی روم از بهر جنگ رومیان",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگشت از پرویز، شهریران روان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسوی روم از بهر جنگ رومیان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 4
-    },
-    {
-      "Index": 6,
-      "Number": 6,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "م",
-      "PlainText": "بود شهریران شجاعی از عجم\r\nشد به سرداری به سوی روم هم",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبود شهریران شجاعی از عجم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد به سرداری به سوی روم هم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -193,6 +183,26 @@
       "CoupletsCount": 4
     },
     {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "م",
+      "PlainText": "بود شهریران شجاعی از عجم\r\nشد به سرداری به سوی روم هم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبود شهریران شجاعی از عجم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد به سرداری به سوی روم هم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 4
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "نگ",
+      "PlainText": "رومیان را کرد مغلوب او به جنگ\r\nبد نهم سال این ز مبعث بیدرنگ",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرومیان را کرد مغلوب او به جنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبُد نهم سال این ز مبعث بیدرنگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 4
+    },
+    {
       "Index": 7,
       "Number": 7,
       "SectionType": "Couplet",
@@ -220,26 +230,6 @@
       "RhymeLetters": "تر",
       "PlainText": "رومیان مغلوب گشتند از بتر\r\nدر زمینی بر عرب نزدیک تر",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرومیان مغلوب گشتند از بتر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر زمینی بر عرب نزدیک تر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 4
-    },
-    {
-      "Index": 7,
-      "Number": 7,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "نگ",
-      "PlainText": "رومیان را کرد مغلوب او به جنگ\r\nبد نهم سال این ز مبعث بیدرنگ",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرومیان را کرد مغلوب او به جنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبُد نهم سال این ز مبعث بیدرنگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 4
-    },
-    {
-      "Index": 8,
-      "Number": 8,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ول",
-      "PlainText": "چون شکست رومیان را بر رسول\r\nباز گفتند او شد از این ره ملول",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون شکست رومیان را بر رسول\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباز گفتند او شد از این ره ملول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -273,6 +263,26 @@
       "CoupletsCount": 4
     },
     {
+      "Index": 8,
+      "Number": 8,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ول",
+      "PlainText": "چون شکست رومیان را بر رسول\r\nباز گفتند او شد از این ره ملول",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون شکست رومیان را بر رسول\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباز گفتند او شد از این ره ملول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 4
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اب",
+      "PlainText": "رومیان بودند چون ز اهل کتاب\r\nفارسی مردم مجوس از شیخ و شاب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرومیان بودند چون ز اهل کتاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفارسی مردم مجوس از شیخ و شاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 4
+    },
+    {
       "Index": 9,
       "Number": 9,
       "SectionType": "Couplet",
@@ -303,26 +313,6 @@
       "CoupletsCount": 4
     },
     {
-      "Index": 9,
-      "Number": 9,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "اب",
-      "PlainText": "رومیان بودند چون ز اهل کتاب\r\nفارسی مردم مجوس از شیخ و شاب",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرومیان بودند چون ز اهل کتاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفارسی مردم مجوس از شیخ و شاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 4
-    },
-    {
-      "Index": 10,
-      "Number": 10,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ر",
-      "PlainText": "مشرکان گشتند شاد از این خبر\r\nمژده می دادند زین بر یکدگر",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمشرکان گشتند شاد از این خبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمژده می دادند زین بر یکدگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
-    },
-    {
       "Index": 10,
       "Number": 10,
       "SectionType": "Couplet",
@@ -340,6 +330,26 @@
       "RhymeLetters": "ال",
       "PlainText": "چیست آن بضع سنین اطوار و حال\r\nکاندر آن باشد ترقی بر کمال",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچیست آن بِضْعِ سِنِین اطوار و حال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاندر آن باشد ترقی بر کمال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ر",
+      "PlainText": "مشرکان گشتند شاد از این خبر\r\nمژده می دادند زین بر یکدگر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمشرکان گشتند شاد از این خبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمژده می دادند زین بر یکدگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 11,
+      "Number": 11,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ین",
+      "PlainText": "مر شماتت بودشان بر اهل دین\r\nکه شما اهل کتابید از یقین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمر شماتت بودشان بر اهل دین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه شما اهل کتابید از یقین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -363,26 +373,6 @@
       "CoupletsCount": 3
     },
     {
-      "Index": 11,
-      "Number": 11,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ین",
-      "PlainText": "مر شماتت بودشان بر اهل دین\r\nکه شما اهل کتابید از یقین",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمر شماتت بودشان بر اهل دین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه شما اهل کتابید از یقین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
-    },
-    {
-      "Index": 12,
-      "Number": 12,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ند",
-      "PlainText": "وین چنین گشتید مغلوب و نژند\r\nبر علو خود تفأل می زدند",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوین چنین گشتید مغلوب و نژند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر علوّ خود تفأل می زدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
-    },
-    {
       "Index": 12,
       "Number": 12,
       "SectionType": "Couplet",
@@ -400,6 +390,16 @@
       "RhymeLetters": "ار",
       "PlainText": "حکم باشد جمله از پروردگار\r\nکارها او راست اندر اختیار",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحکم باشد جمله از پروردگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکارها او راست اندر اختیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 12,
+      "Number": 12,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ند",
+      "PlainText": "وین چنین گشتید مغلوب و نژند\r\nبر علو خود تفأل می زدند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوین چنین گشتید مغلوب و نژند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر علوّ خود تفأل می زدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -634,7 +634,8 @@
       "VOrder": 2,
       "Position": "Paragraph",
       "Text": "الم (۱) غُلِبَتِ اَلرُّومُ (۲) فِی أَدْنَی اَلْأَرْضِ وَ هُمْ مِنْ بَعْدِ غَلَبِهِمْ سَیَغْلِبُونَ (۳) فِی بِضْعِ سِنِینَ لِلّٰهِ اَلْأَمْرُ مِنْ قَبْلُ وَ مِنْ بَعْدُ وَ یَوْمَئِذٍ یَفْرَحُ اَلْمُؤْمِنُونَ (۴) بِنَصْرِ اَللّٰهِ یَنْصُرُ مَنْ یَشٰاءُ وَ هُوَ اَلْعَزِیزُ اَلرَّحِیمُ (۵)",
-      "CoupletIndex": 1
+      "CoupletIndex": 1,
+      "CoupletSummary": "هوش مصنوعی: رومی‌ها در نزدیک‌ترین زمین شکست خوردند، اما بعد از این شکست، آن‌ها در چند سال آینده پیروز خواهند شد. همواره امر خداوند قبل و بعد از این وقایع جاری است و در آن روز مؤمنان به پیروزی خداوند شاد خواهند شد. خداوند به هرکه بخواهد یاری می‌رساند و او علی‌الذکر و رحیم است."
     },
     {
       "VOrder": 3,
@@ -646,7 +647,8 @@
       "VOrder": 4,
       "Position": "Paragraph",
       "Text": "الم ، سوگند باین حروف (۱) مغلوب شدند روم (۲) در نزدیکترین زمین و ایشان از بعد مغلوب شدنشان بزودی غالب می‌شوند (۳) در چند سال مر خدا راست امر از پیش و از پس و روزی چنین شاد می‌شوند گروندگان (۴) بیاری خدا یاری می‌کنند آن را که خواهد و اوست غالب مهربان (۵)",
-      "CoupletIndex": 3
+      "CoupletIndex": 3,
+      "CoupletSummary": "هوش مصنوعی: آ، یکی از حروف مقدس، سوگند به این حروف که رومی‌ها در نزدیک‌ترین سرزمین شکست خوردند و به زودی پس از شکست خود پیروز خواهند شد. در چند سال آینده، خداوند آنچه را که از ابتدا و انتها مقدر کرده است، به وقوع خواهد پیوست و مومنان به زودی شاد خواهند شد. آن‌ها به یاری خداوند کمک می‌کنند و هر که بخواهد، به او یاری می‌رسد و او همواره پیروز و مهربان است."
     },
     {
       "VOrder": 5,
@@ -654,7 +656,8 @@
       "Text": "بعد بسم االله الرحمن الرحیم",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: پس از نام خداوند بخشنده و مهربان، می‌خواهم از الف و لام و میم سخن بگویم."
     },
     {
       "VOrder": 6,
@@ -670,7 +673,8 @@
       "Text": "مر الف باشد اشارت بر احد",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که الف به عنوان یک نشانه یا علامت است، اما نشان‌دهنده‌ی وجود یکی نیست. او هیچ آغاز و پایانی ندارد و از نظر وجودی فراتر از این مفاهیم قرار دارد."
     },
     {
       "VOrder": 8,
@@ -686,7 +690,8 @@
       "Text": "لام یعنی گشت لایح شمس حق",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: این بیت به زیبایی به نشان دادن تجلیات نور الهی در دنیای وجود انسان‌ها اشاره دارد. لام، که نماد نور و روشنایی است، بیانگر تأثیرات مثبت و خالق بر زندگی ماست. در اینجا، شمس حق به معنای خورشید حقیقت و واقعیت است که در درون و وجود ما درخشندگی و روشنی می‌بخشد و ما را به شناخت و فهم عمیق‌تری از خود و جهان پیرامون می‌رساند."
     },
     {
       "VOrder": 10,
@@ -702,7 +707,8 @@
       "Text": "میم یعنی مالک است و مقتدر",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: میم به معنای صاحب و سلطانی است که بر پادشاهان و سرزمین‌ها در آشکار و پنهان تسلط دارد."
     },
     {
       "VOrder": 12,
@@ -718,7 +724,8 @@
       "Text": "هر که را خواهد کند مغلوب و پست",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: هر کس را که بخواهد، به راحتی می‌تواند شکست دهد و او را در جایگاهی پایین‌تر قرار دهد، مانند روم که در هنگام شکست از فارس، به این حالت درآمد."
     },
     {
       "VOrder": 14,
@@ -734,7 +741,8 @@
       "Text": "رومیان مغلوب گشتند از بتر",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: رومیان در جنگی شکست خوردند و این شکست در سرزمینی رخ داد که به عرب‌ها نزدیک‌تر بود."
     },
     {
       "VOrder": 16,
@@ -750,7 +758,8 @@
       "Text": "بعد مغلوبی دگر غالب شوند",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: پس از این که یک گروه شکست خورده است، به زودی گروه دیگری بر آنها پیروز خواهد شد، و این تغییر وضعیت در مدت کوتاهی خواهد بود، بدون شک و تردید."
     },
     {
       "VOrder": 18,
@@ -766,7 +775,8 @@
       "Text": "یعنی از سه تا به نه از سالها",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: یعنی در مدت زمان طولانی، وضعیت و حال افراد به طور کلی تغییر می‌کند و از وضعیتی به وضعیت دیگری می‌رود."
     },
     {
       "VOrder": 20,
@@ -780,7 +790,8 @@
       "VOrder": 21,
       "Position": "Paragraph",
       "Text": "« در بیان محاربۀ عجم با رومیان »",
-      "CoupletIndex": 12
+      "CoupletIndex": 12,
+      "CoupletSummary": "هوش مصنوعی: در این متن به توصیف جنگ‌ها و نبردهای بین عجم و رومیان پرداخته می‌شود. این نبردها نشان‌دهنده‌ی تنش‌ها و درگیری‌های تاریخی میان این دو قوم است و تأثیرات فرهنگی، اجتماعی و سیاسی آن‌ها بر یکدیگر را بررسی می‌کند."
     },
     {
       "VOrder": 22,
@@ -788,7 +799,8 @@
       "Text": "بر عجم گشتند مغلوب از خبر",
       "CoupletIndex": 13,
       "SectionIndex1": 1,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: عرب‌ها که بر عجم (ایرانیان) پیروزی یافته‌اند، همچنان از اخبار پیروزی‌های جدید خود مطلع می‌شوند و بار دیگر بر آن‌ها غلبه می‌کنند."
     },
     {
       "VOrder": 23,
@@ -804,7 +816,8 @@
       "Text": "هست از تفسیر و تاریخ این یقین",
       "CoupletIndex": 14,
       "SectionIndex1": 1,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: این جمله به ما می‌گوید که از تفسیر و تاریخ می‌توان به یقین رسید و ما می‌توانیم شرح و توضیح این داستان را به این شکل بیان کنیم."
     },
     {
       "VOrder": 25,
@@ -820,7 +833,8 @@
       "Text": "گشت از پرویز، شهریران روان",
       "CoupletIndex": 15,
       "SectionIndex1": 1,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: پرویز، پادشاه ایران، به سوی روم راهی شد تا با رومی‌ها به جنگ بپردازد."
     },
     {
       "VOrder": 27,
@@ -836,7 +850,8 @@
       "Text": "بود شهریران شجاعی از عجم",
       "CoupletIndex": 16,
       "SectionIndex1": 1,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: یک مرد شجاع از سرزمین عجم به عنوان فرماندهی به سوی روم رفت."
     },
     {
       "VOrder": 29,
@@ -852,7 +867,8 @@
       "Text": "رومیان را کرد مغلوب او به جنگ",
       "CoupletIndex": 17,
       "SectionIndex1": 1,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که او (شخصی به نام) در سال نهم از آغاز رسالت محمد (ص) به جنگ رومیان رفت و آن‌ها را شکست داد."
     },
     {
       "VOrder": 31,
@@ -868,7 +884,8 @@
       "Text": "چون شکست رومیان را بر رسول",
       "CoupletIndex": 18,
       "SectionIndex1": 1,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: وقتی شکست رومیان را به پیامبر خبر دادند، او از این موضوع ناراحت و دلگیر شد."
     },
     {
       "VOrder": 33,
@@ -884,7 +901,8 @@
       "Text": "رومیان بودند چون ز اهل کتاب",
       "CoupletIndex": 19,
       "SectionIndex1": 1,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: رومیان مانند فارسی‌زبانان از اهل کتاب بودند و مردم مجوس از احوال شیخ و جوانان آگاه بودند."
     },
     {
       "VOrder": 35,
@@ -900,7 +918,8 @@
       "Text": "مشرکان گشتند شاد از این خبر",
       "CoupletIndex": 20,
       "SectionIndex1": 1,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: مشرکان از این خبر بسیار خوشحال شدند و به یکدیگر شادباش می‌گفتند."
     },
     {
       "VOrder": 37,
@@ -916,7 +935,8 @@
       "Text": "مر شماتت بودشان بر اهل دین",
       "CoupletIndex": 21,
       "SectionIndex1": 1,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: این جمله به انتقاد از افرادی اشاره دارد که به پیروان دین می‌گویند شما به کتاب‌های آسمانی ایمان دارید و این را به عنوان نقطه ضعفی برای آن‌ها مطرح می‌کنند، در حالی که در واقع دین و ایمان به کتاب‌های آسمانی نشانه‌ای از یقین و اعتقاد عمیق است."
     },
     {
       "VOrder": 39,
@@ -932,7 +952,8 @@
       "Text": "وین چنین گشتید مغلوب و نژند",
       "CoupletIndex": 22,
       "SectionIndex1": 1,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: اینطور شد که شما دچار شکست و اندوه شدید و بر روی مقام و جایگاه خود آینده را پیش‌بینی می‌کردند."
     },
     {
       "VOrder": 41,
@@ -946,7 +967,8 @@
       "VOrder": 42,
       "Position": "Paragraph",
       "Text": "« در بیان گرو بستن ابی ابن خلف با ابوبکر در باب غلبۀ روم با عجم »",
-      "CoupletIndex": 23
+      "CoupletIndex": 23,
+      "CoupletSummary": "هوش مصنوعی: در مورد توافق ابی ابن خلف با ابوبکر درباره پیروزی روم بر عجم، بحثی وجود دارد. این موضوع به روابط و توافق‌های آن دوران اشاره دارد که به نوعی نشان‌دهنده وضعیت جغرافیایی و سیاسی آن زمان است. در این زمینه، نظرات و دیدگاه‌های مختلفی مطرح می‌شود که می‌تواند به فهم بهتر تاریخ و تحولات فرهنگی و اجتماعی آن دوره کمک کند."
     },
     {
       "VOrder": 43,
@@ -954,7 +976,8 @@
       "Text": "گفت از غیرت ابوبکر صدیق",
       "CoupletIndex": 24,
       "SectionIndex1": 2,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: ابوبکر صدیق به خاطر غیرت و ایمانش، خوشحالی و سربلندی را به ارمغان آورده است. پس ای قوم، نباید از این موضوع غافل باشید."
     },
     {
       "VOrder": 44,
@@ -970,7 +993,8 @@
       "Text": "چشمتان روشن مباد از این خبر",
       "CoupletIndex": 25,
       "SectionIndex1": 2,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: چشمانتان روشن نباشد از این خبر که رومیان دوباره برتری پیدا کنند."
     },
     {
       "VOrder": 46,
@@ -986,7 +1010,8 @@
       "Text": "از کجا گفتند گویی این سخن",
       "CoupletIndex": 26,
       "SectionIndex1": 2,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: از کجا معلوم که این سخن از طرف پیامبر راستگو بیان شده است؟"
     },
     {
       "VOrder": 48,
@@ -1002,7 +1027,8 @@
       "Text": "بن خلف کو را نبود از دین فروغ",
       "CoupletIndex": 27,
       "SectionIndex1": 2,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد بن خلف فردی است که در دین و ایمانش ضعیف است و شاید به او گفته شده که ابا الفضل او را دروغ‌گو می‌داند. درواقع، او از هر دو طرف تحت فشار قرار دارد و ممکن است به نظر بیاید که در بین دو گروه متضاد قرار گرفته است."
     },
     {
       "VOrder": 50,
@@ -1018,7 +1044,8 @@
       "Text": "با ابی فرمود صدّیق امین",
       "CoupletIndex": 28,
       "SectionIndex1": 2,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: ابی به صدّیق امین گفت: ای دشمن خدا، دروغی که می‌گویی، توجه کن که نادرست است."
     },
     {
       "VOrder": 52,
@@ -1034,7 +1061,8 @@
       "Text": "گفت ابی گر راست باشد حرف تو",
       "CoupletIndex": 29,
       "SectionIndex1": 2,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: ابی گفت: اگر حرف تو درست باشد، پس در مورد گرو باید مشخص شود."
     },
     {
       "VOrder": 54,
@@ -1050,7 +1078,8 @@
       "Text": "گفت صدّیق نکوفر تا سه سال",
       "CoupletIndex": 30,
       "SectionIndex1": 2,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: صدیق گفت که اگر به مدت سه سال، رومیان بر دیگران غلبه پیدا کنند، نیازی به پرسش نیست."
     },
     {
       "VOrder": 56,
@@ -1066,7 +1095,8 @@
       "Text": "پس گرو بر ده شتر بستند تام",
       "CoupletIndex": 31,
       "SectionIndex1": 2,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: پس بر ده شتر بار بستند، تا بگویند این شخص درستکار با خوبی‌های انسان‌ها همراه است."
     },
     {
       "VOrder": 58,
@@ -1082,7 +1112,8 @@
       "Text": "گفت پیغمبر خطاء کردی تو این",
       "CoupletIndex": 32,
       "SectionIndex1": 2,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: پیامبر فرمود تو اشتباه کردی؛ چرا که این موضوع به سه سال مربوط نمی‌شود."
     },
     {
       "VOrder": 60,
@@ -1098,7 +1129,8 @@
       "Text": "رو به مال و مدت افزا در گرو",
       "CoupletIndex": 33,
       "SectionIndex1": 2,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: به سوی wealth و کثرت زمان رو آورده‌ای، بنابراین به‌طور قطع می‌توان به صداقت وعده و قول تو اعتماد کرد."
     },
     {
       "VOrder": 62,
@@ -1114,7 +1146,8 @@
       "Text": "رفت و کرد او سال را نُه بد ، نَه صد",
       "CoupletIndex": 34,
       "SectionIndex1": 2,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: او مدت نه سال را بیرون رفت و نه دروغ گفت، حالا او از صدق و راستگویی خود بهره برد."
     },
     {
       "VOrder": 64,
@@ -1130,7 +1163,8 @@
       "Text": "روز بدر آمد خبر بر مؤمنان",
       "CoupletIndex": 35,
       "SectionIndex1": 2,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: روز روشنی درخشید و خبر خوشی به مؤمنان رسید، که بر غیر عرب، بر رومیان پیروز شدند."
     },
     {
       "VOrder": 66,
@@ -1146,7 +1180,8 @@
       "Text": "شرح آن را اهل تاریخ این چنین",
       "CoupletIndex": 36,
       "SectionIndex1": 2,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: اهل تاریخ به نوعی خاص و با دقت، قصه و سرگذشت آن را نوشته و ثبت کرده‌اند."
     },
     {
       "VOrder": 68,
@@ -1162,7 +1197,8 @@
       "Text": "چونکه غالب گشته شهریران به روم",
       "CoupletIndex": 37,
       "SectionIndex1": 2,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: زمانی که فرمانروایان بر روم غالب شدند، تمام آن سرزمین را به ویرانه تبدیل کردند."
     },
     {
       "VOrder": 70,
@@ -1178,7 +1214,8 @@
       "Text": "با برادرش آنکه فرخان داشت نام",
       "CoupletIndex": 38,
       "SectionIndex1": 2,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: در یک مهمانی شاد، برادری به نام فرخان حضور داشت و در آنجا جایگاه ویژه‌ای داشت."
     },
     {
       "VOrder": 72,
@@ -1194,7 +1231,8 @@
       "Text": "گفت فرخان خواب دیدم من چنان",
       "CoupletIndex": 39,
       "SectionIndex1": 2,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: فرخ‌ان گفت: من خوابی دیدم که در آن در تخت پرویز نشسته بودم."
     },
     {
       "VOrder": 74,
@@ -1210,7 +1248,8 @@
       "Text": "شد خبر خسرو به شهریران نوشت",
       "CoupletIndex": 40,
       "SectionIndex1": 2,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: خسرو خبری به شهریار نوشت و از او خواست که آن شخص را بکشد، زیرا خواب بدی درباره‌اش دیده بود."
     },
     {
       "VOrder": 76,
@@ -1226,7 +1265,8 @@
       "Text": "شد مکرر بینشان این گفتگو",
       "CoupletIndex": 41,
       "SectionIndex1": 2,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: در میان آن‌ها همواره این بحث پیش می‌آمد که او برای قتل برادرش عذر و توجیهی آورد."
     },
     {
       "VOrder": 78,
@@ -1242,7 +1282,8 @@
       "Text": "این ز شهریران به دل بگرفت شاه",
       "CoupletIndex": 42,
       "SectionIndex1": 2,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: شاهی از زمین‌داران بزرگ، با دل پرخون، نامه‌ای به فرخان نوشت تا کینه‌اش را بیان کند."
     },
     {
       "VOrder": 80,
@@ -1258,7 +1299,8 @@
       "Text": "گر برادر را کشی بنوازمت",
       "CoupletIndex": 43,
       "SectionIndex1": 2,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: اگر برادرت را بکشی، من به تو درود می‌فرستم و برای تو مقام والی فارس را فراهم می‌کنم."
     },
     {
       "VOrder": 82,
@@ -1274,7 +1316,8 @@
       "Text": "او به شهریران بگفت این ماجرا",
       "CoupletIndex": 44,
       "SectionIndex1": 2,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: او به شهریاران گفت که این ماجرا را، هر دو از اشتباه شاه ناراحت شدند."
     },
     {
       "VOrder": 84,
@@ -1290,7 +1333,8 @@
       "Text": "نامه بنوشتند بر سلطان روم",
       "CoupletIndex": 45,
       "SectionIndex1": 2,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: نامه‌ای به سلطان روم نوشتند و در آن اعلام کردند که سرزمین و وطن ما به خاطر تو ویران شده است."
     },
     {
       "VOrder": 86,
@@ -1306,7 +1350,8 @@
       "Text": "نک به ما پرویز داد اینسان جزا",
       "CoupletIndex": 46,
       "SectionIndex1": 2,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهد، ما هم برای او پاداش می‌دهیم، چرا که پرویز به ما اینگونه جزا داده است."
     },
     {
       "VOrder": 88,
@@ -1322,7 +1367,8 @@
       "Text": "لشکری بفرست و بین تا چون کنیم",
       "CoupletIndex": 47,
       "SectionIndex1": 2,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: نیروهایی را بفرست و ببین که چگونه می‌توانیم این سرزمین را از دست او خارج کنیم."
     },
     {
       "VOrder": 90,
@@ -1338,7 +1384,8 @@
       "Text": "گشت شاد او زین خبر اندر زمان",
       "CoupletIndex": 48,
       "SectionIndex1": 2,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: او از این خبر خوشحال شد و در همان زمان، لشکری را آماده کرد و به حرکت درآمد."
     },
     {
       "VOrder": 92,
@@ -1354,7 +1401,8 @@
       "Text": "تاخت شهریران به پرویز از شتاب",
       "CoupletIndex": 49,
       "SectionIndex1": 2,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: پادشاهان به پرویز حمله کردند و به سرعت او را شکست دادند و کشورش را ویران کردند."
     },
     {
       "VOrder": 94,
@@ -1370,7 +1418,8 @@
       "Text": "رومیان گشتند غالب زآن سبب",
       "CoupletIndex": 50,
       "SectionIndex1": 2,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: رومیان به خاطر این دلیل بر عرب غالب شدند که در سرزمین نزدیک‌تری قرار داشتند."
     },
     {
       "VOrder": 96,
@@ -1386,7 +1435,8 @@
       "Text": "حق تعالی داد زین قصه خبر",
       "CoupletIndex": 51,
       "SectionIndex1": 2,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: خداوند از این ماجرا خبر داد و این نشان‌دهنده اعجاز قرآن است که به چشم می‌خورد."
     },
     {
       "VOrder": 98,
@@ -1400,7 +1450,8 @@
       "VOrder": 99,
       "Position": "Paragraph",
       "Text": "« در تأویل آیۀ مبارکه مذکوره »",
-      "CoupletIndex": 52
+      "CoupletIndex": 52,
+      "CoupletSummary": "هوش مصنوعی: در تبیین آیه شریفه اشاره شده، توضیحاتی ارائه می‌شود."
     },
     {
       "VOrder": 100,
@@ -1408,7 +1459,8 @@
       "Text": "چونکه از تفسیر گشتی بهره یاب",
       "CoupletIndex": 53,
       "SectionIndex1": 3,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: وقتی از تفسیر و تحلیل بهره‌مند می‌شوی، خوب است که تأویل و معنا را به درستی بشنوی و بفهمی."
     },
     {
       "VOrder": 101,
@@ -1424,7 +1476,8 @@
       "Text": "روم باشد نیست گر فهم تو پست",
       "CoupletIndex": 54,
       "SectionIndex1": 3,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: اگر روح من به دور باشد، هیچ مهم نیست؛ زیرا اگر درک تو ضعیف باشد، آنچه در این بدن وجود دارد، روح واقعی است."
     },
     {
       "VOrder": 103,
@@ -1440,7 +1493,8 @@
       "Text": "باشد آن مغلوب در اقرب زمین",
       "CoupletIndex": 55,
       "SectionIndex1": 3,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: آن کس که در دنیا مغلوب و شکست‌خورده است، در نزدیک‌ترین مکان به زمین، در عمق نفس و دل، یقین و آگاهی او وجود دارد."
     },
     {
       "VOrder": 105,
@@ -1456,7 +1510,8 @@
       "Text": "بعد مغلوبی شود غالب همی",
       "CoupletIndex": 56,
       "SectionIndex1": 3,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: پس از اینکه کسی شکست خورد، پیروزی بر نیروهای سرکش و پست نفس خود را به دست می‌آورد."
     },
     {
       "VOrder": 107,
@@ -1472,7 +1527,8 @@
       "Text": "در ظهور قلب هنگام رجوع",
       "CoupletIndex": 57,
       "SectionIndex1": 3,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: زمانی که دل به سوی خدا باز می‌گردد، بدون شک وقوع این حالت را درک می‌کند."
     },
     {
       "VOrder": 109,
@@ -1488,7 +1544,8 @@
       "Text": "چیست آن بِضْعِ سِنِین اطوار و حال",
       "CoupletIndex": 58,
       "SectionIndex1": 3,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: این عبارت به توصیف حالاتی می‌پردازد که در طول مدت زمان معینی (چند سال) رخ می‌دهد و در آن زمان، پیشرفت و بهبود به کمال می‌رسد. به عبارت دیگر، این دوره زمانی شامل تغییراتی است که به تدریج حرکت به سوی یک وضعیت عالی‌تر را رقم می‌زند."
     },
     {
       "VOrder": 111,
@@ -1504,7 +1561,8 @@
       "Text": "امر و اذن از قبل و بعد آمد ز حق",
       "CoupletIndex": 59,
       "SectionIndex1": 3,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: فرمان و اجازه از جانب حق آمده است که آغاز و پایان همه چیز را در دست دارد. اوست که خالق و حمایت‌کننده همه چیز است."
     },
     {
       "VOrder": 113,
@@ -1520,7 +1578,8 @@
       "Text": "حکم باشد جمله از پروردگار",
       "CoupletIndex": 60,
       "SectionIndex1": 3,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: همه چیز به خواست و اراده خداوند است و اوست که بر تمام کارها تسلط دارد و اختیار کامل دارد."
     },
     {
       "VOrder": 115,
@@ -1536,7 +1595,8 @@
       "Text": "واندر آن روزی که غالب می شوند",
       "CoupletIndex": 61,
       "SectionIndex1": 3,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: در آن روزی که رومیان بر فارسیان پیروز می‌شوند، بعد از مدتی."
     },
     {
       "VOrder": 117,
@@ -1552,7 +1612,8 @@
       "Text": "شاد آن روزند بی شک مؤمنین",
       "CoupletIndex": 62,
       "SectionIndex1": 3,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: مؤمنان در روزی شادمان خواهند بود که خداوند به یاری دین‌داران بشتابد."
     },
     {
       "VOrder": 119,
@@ -1568,7 +1629,8 @@
       "Text": "هر که را خواهد کند یاری خدا",
       "CoupletIndex": 63,
       "SectionIndex1": 3,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: هر کس را خدا بخواهد یاری کند، او بر دیگران تسلط دارد و بر آنها مهربان است."
     },
     {
       "VOrder": 121,

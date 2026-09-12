@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "از برای محقری ادرار",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما برای چیزی که اهمیت زیادی ندارد، بارها به خاطر درد سرت زحمت کشیده‌ایم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "یک درم زان نمی شود حاصل",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک درم به دست نیاوردم، اما می‌دانم که خبرش را داری."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "یا ز عجزست این توقف تو",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا این توقف تو ناشی از ناتوانی است یا به دلیل خساست توست که از ابراز توانایی خودداری می‌کنی؟"
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "در کلاه تو هیچ پشمی نیست",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کلاهی که بر سر داری هیچ گونه پشمی ندارد، درست مثل سر پدرت."
     },
     {
       "VOrder": 8,

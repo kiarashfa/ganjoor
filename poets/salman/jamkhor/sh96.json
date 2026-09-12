@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "شادی آمد از درون امشب که هان جان می‌رسد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امشب شادی از درونم بیرون آمده و به ملاقات جانم می‌آید؛ چرا که محبوب به سوی من می‌آید."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "یار چون گیسو کشان در پای یار آمد ز در",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوست، مانند گیسویی که در باد می‌رقصد، به در آمد و بشارت می‌دهد که شب عشق و غم به آخر می‌رسد."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "خوش بخند ای دل که اینک صبح خندان می‌دمد",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دل، خوشحال باش و بخند، چرا که صبح با شادی و لطافتش فرا می‌رسد. ای ذره، شادمانه برقص، زیرا نور خورشید با زیبایی‌اش به ما نزدیک می‌شود."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "پریشان و سر و جان داده بر باد",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آدمی در حالی که نگران و بی‌تاب است، جانش را به باد می‌دهد و به مانند مویی که به زمین افتاده، مقام و جایگاهش به خاک می‌افتد."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "گل خندان به زیر پر گرفتش",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گل خوشحال به استقبال او آمد و با آغوش باز او را در آغوش گرفت."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "نشستند آن دو نازک یار با هم",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دو یار دلنواز در آن باغ زیبا و روح‌افزا کنار هم نشسته‌اند، مانند شبنم که بر روی گل‌ها نشسته است."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "بپرسیدند هر دو یکدگر را",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دو نفر از یکدیگر سوال کردند و سپس همدیگر را بوسیدند. مانند بادام و شکر که طعم شیرینی دارند."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "خوشا آن هر دو معشوق موافق",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خوشا به حال آن دو معشوقی که با هم کنار هم نشسته‌اند و همچون دو عاشق واقعی، همگام و هماهنگ هستند."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "به مژگان گفته با هم هر دو صد راز",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با چشمانش به دوستانه‌ای، رازهایی را بیان می‌کند و با ابروهایش، ناز و فریبندگی را به نمایش می‌گذارد."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "ملک را گفت: «ای روی تو روزم",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ملک به او گفت: «ای چهره‌ی تو، روزهای شمیم دلم را به شب تبدیل کرده است.»"
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "مده بر عکس خورشید ای گل اندام",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای گل زیبا، به روشنی خورشید نرو و نمان، که سپاه حسن مانند ماه در شام در حال درخشش است."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "رخ فرخ چرا می‌تابی از روم",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا چهره‌ی زیبایت را از سرزمین روم به سوی من می‌تابانی؟ صبح من را خراب نکن."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "ندانم تا کی ای عمر گداری",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "عمرِ من! نمی‌دانم تا کِیْ می‌گذاری که تنت چنین در سفر فرسوده شود."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "چو مه روز و شب ای زرین شمایل",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای زیبای زرین که مانند ماه در روز و شب درخشان هستی، چرا از قطع و پایان سفرهای ما ناراحت می‌شوی؟"
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "مه و خور گرچه در بر داری از من",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچند که تو ماه و خورشید را در کنار خود داری، اما هیچ بهره‌ای از من نمی‌بری."
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "تو چون زلف ار نبودی فتنه بر روم",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو مانند زلف نبودي، پس چرا منجر به این فتنه در روم شدي و اینقدر سرگردان شدي؟"
     },
     {
       "VOrder": 32,
@@ -255,7 +271,8 @@
       "Position": "Right",
       "Text": "ز حلوایم بجز دودی ندیدی",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جز دود و آسیب از شیرینی‌های من چیزی نچشیدی، سودی هم از این کارها به دست نیاوردی."
     },
     {
       "VOrder": 34,
@@ -269,7 +286,8 @@
       "Position": "Right",
       "Text": "بگفت این و سرشک از دیده افشاند",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او این حرف را گفت و اشک از چشمانش بر زمین ریخت، سپس این شعر زیبا را خواند."
     },
     {
       "VOrder": 36,

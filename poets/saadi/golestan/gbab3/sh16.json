@@ -26,14 +26,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "یکی از عرب در بیابانی از غایتِ تشنگی می‌گفت:",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: یک عرب در بیابانی به خاطر تشنگی شدیدش می‌گفت:"
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "یا لَیْتَ قَبْلَ مَنِیَّتي یَوْماً أَفُوزُ بِمُنْیَتي",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "ای کاش پیش از مرگم روزی به آرزوی خود برسم؛ رودی که موجش بر زانوی من زند و من [در آن] به پر کردنِ مَشکِ خود مشغول گردم."
     },
     {
       "VOrder": 3,

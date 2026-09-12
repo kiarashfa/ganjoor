@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گفتم چه کنم که می گو چه کنم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفتم چه کار می‌توانم بکنم، او گفت چه کار می‌توانی بکنی؟ گفتم می‌جویم، او گفت چه جویی؟ چه کار می‌توانم بکنم؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گفتا می رو چنانکه من می کارم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او گفت: برو به همان شیوه‌ای که من زندگی می‌کنم. من هم پاسخ دادم: اگر نروم، چه کار باید بکنم؟"
     },
     {
       "VOrder": 4,

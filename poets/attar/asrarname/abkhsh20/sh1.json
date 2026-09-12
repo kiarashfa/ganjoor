@@ -511,7 +511,8 @@
       "Text": "چو خواهد شد دورخ در خاک ریزان",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: وقتی که زیبایی‌ها در خاک و غم و اندوهی که به زمین ریخته شده، ناپدید می‌شوند، ای عزیزان، باید مراقب باشید و از این وضعیت آگاه باشید."
     },
     {
       "VOrder": 2,
@@ -527,7 +528,8 @@
       "Text": "براندیشید از آن ساعت که در خاک",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: به یاد داشته باشید از زمانی که دو صورت، مانند برگ گل، در خاک دفن شوند."
     },
     {
       "VOrder": 4,
@@ -543,7 +545,8 @@
       "Text": "در آن ساعت نه بتوانید نالید",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در آن لحظه نه می‌توانید شکایت کنید و نه می‌توانید به خاطر او به زمین بیفتید."
     },
     {
       "VOrder": 6,
@@ -559,7 +562,8 @@
       "Text": "کنون باری شما را قدرتی هست",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: حال، قدرتی در دست شماست که همچنان در طول روز و شب، وجود دارد و به شما اجازه می‌دهد تا در این موقعیت باشید."
     },
     {
       "VOrder": 8,
@@ -575,7 +579,8 @@
       "Text": "چرا در کار حق سستی نمایید",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: چرا در انجام امور درست و خداپسندانه سستی می‌کنید؟ اگر می‌خواهید به هدف‌هایتان برسید، باید با انرژی و جدیت عمل کنید."
     },
     {
       "VOrder": 10,
@@ -591,7 +596,8 @@
       "Text": "بمردی آنگه آید افتخارت",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: آنگاه که به شجاعت تو افزوده می‌شود و در زندگی‌ات کار بزرگی انجام می‌دهی، این امر موجب افتخار تو خواهد بود."
     },
     {
       "VOrder": 12,
@@ -607,7 +613,8 @@
       "Text": "تو خواهی تا بسی طاعت کنی تو",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهی به خوبی فرمانبردار باشی، باید از نادانی ولو به مدت کوتاهی دوری کنی."
     },
     {
       "VOrder": 14,
@@ -623,7 +630,8 @@
       "Text": "نخواهد ماند با تو هیچ هم راه",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: هیچ کدام از همراهان و دوستداران واقعی‌ات در کنارت نمی‌مانند، جز درد و حسرتی که در دل داری و اندوهی که در صبح زود به دل می‌آوری."
     },
     {
       "VOrder": 16,
@@ -639,7 +647,8 @@
       "Text": "تو خود هرگز شبی در درد این کار",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: تو هرگز شب را در رنج این کار به سر نبردی و از خودت غافل هستی تا روزی که به مشکلات برسی."
     },
     {
       "VOrder": 18,
@@ -655,7 +664,8 @@
       "Text": "مخسب ای دوست تا بیدارگردی",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: ای دوست، خواب نرو تا وقتی که بیدار شوی و شایستهٔ فهم اسرار و رموز زندگی گردی."
     },
     {
       "VOrder": 20,
@@ -671,7 +681,8 @@
       "Text": "چرا خفتی تو چون در عمر بسیار",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: چرا خوابیده‌ای؟ تو که مدت زیادی در این دنیا نخواهی بود، پس از خواب مرگ بیدار شو و به خود بیا."
     },
     {
       "VOrder": 22,
@@ -687,7 +698,8 @@
       "Text": "بروبا گورت افکن خواب خود را",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: بروم که خواب خود را فراموش کنی، مگر اینکه خرد را بیدار کنی."
     },
     {
       "VOrder": 24,
@@ -703,7 +715,8 @@
       "Text": "ببین کین آفتاب مانده عاجز",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: نگاه کن که این آفتاب نتوانسته چشم کسی را از خواب بیدار کند و همواره در حال خواب است."
     },
     {
       "VOrder": 26,
@@ -719,7 +732,8 @@
       "Text": "گرت چون آفتاب این درد باشد",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: اگر مانند آفتاب این درد ناشی از بی‌خوابی بر تو باشد، چهره‌ات زرد خواهد بود."
     },
     {
       "VOrder": 28,
@@ -735,7 +749,8 @@
       "Text": "الا ای روز و شب در خواب رفته",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: ای روز و شب که در خواب غفلت فرورفته‌اید، حالا صبح پیری فرارسیده و تو هنوز در خواب هستی."
     },
     {
       "VOrder": 30,
@@ -751,7 +766,8 @@
       "Text": "نمی‌ترسی که مرگت خفته گیرد",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: آیا نمی‌ترسی که مرگ باعث شود قلبت آرام و ناآرام شود؟"
     },
     {
       "VOrder": 32,
@@ -767,7 +783,8 @@
       "Text": "تو درخوابی و بیداران برفتند",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: تو در خواب هستی و کسانی که وفادار و عزیز به تو بودند، از کنار تو رفته‌اند."
     },
     {
       "VOrder": 34,
@@ -783,7 +800,8 @@
       "Text": "تویی در کیسهٔ این دهر خود رای",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: تو همانند نقره‌ای با ارزش در زندگی این دنیا باقی مانده‌ای و باید در راه خود مصمم و با اراده بمانی."
     },
     {
       "VOrder": 36,
@@ -799,7 +817,8 @@
       "Text": "ز غفلت بر سر غوغا بماندی",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: از بی‌توجهی در شلوغی باقی ماندی و ذهنی پر از ادعا و خیال در تو باقی مانده است."
     },
     {
       "VOrder": 38,
@@ -815,7 +834,8 @@
       "Text": "گرفتم شب نخفتی صبح گاهان",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: در این بیت به این موضوع اشاره شده که شب‌ها خواب طویل و عمیق کشیده می‌شود و صبح‌ها به‌سختی از خواب بیدار می‌شود. همچنین بیانگر این است که وقتی به خواب می‌روی، دیرینه از خواب خود آگاه نمی‌شوی. به طور کلی، این شعر حس خواب‌آلودگی و بی‌خبر بودن از زمان را منتقل می‌کند."
     },
     {
       "VOrder": 40,
@@ -831,7 +851,8 @@
       "Text": "مکن در وقت صبح ای دوست سستی",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: دوست من، در صبحگاه وقت را بیهوده تلف نکن، زیرا در این زمان تو از سلامت و امنیت برخورداری."
     },
     {
       "VOrder": 42,
@@ -847,7 +868,8 @@
       "Text": "چو پیدا شد نسیم صبح گاهی",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: وقتی نسیم صبحگاهی به مشام می‌رسد، در آن لحظه می‌توانی هر چیزی را که می‌خواهی پیدا کنی."
     },
     {
       "VOrder": 44,
@@ -863,7 +885,8 @@
       "Text": "هر آن خلعت کزان درگاه پوشند",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: هر بار که لباس خاصی از درگاه دریافت می‌شود، در صبحگاهان، آن را به تن می‌کنند."
     },
     {
       "VOrder": 46,
@@ -879,7 +902,8 @@
       "Text": "چو شب از صبح گردد حلقه درگوش",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: وقتی شب به صبح تبدیل می‌شود، چرخش زندگی مانند حلقه‌ای در گوش ما نمایان می‌شود و ذرات خاک در حرکت و جوش و خروش قرار می‌گیرند."
     },
     {
       "VOrder": 48,
@@ -895,7 +919,8 @@
       "Text": "دلی کو از حقیقت بوی دارد",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: دل‌هایی که از حقیقت بوی خوشی می‌گیرند، در لحظه بیداری، حالتی خاص و شگفت‌انگیز دارند."
     },
     {
       "VOrder": 50,
@@ -911,7 +936,8 @@
       "Text": "ترا گر سوی آن درگاه راهیست",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: اگر تو راهی به آن درگاه داری، در صبحی که خون آلود است، ناله‌ای به گوش می‌رسد."
     },
     {
       "VOrder": 52,
@@ -927,7 +953,8 @@
       "Text": "دلا آن دم دمی از خواب دم زن",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: ای دل! در آن لحظه که از خواب بیدار می‌شوی، با آهی آرام و بی‌صدا به حرم برو."
     },
     {
       "VOrder": 54,
@@ -943,7 +970,8 @@
       "Text": "برآر از سینهٔ پرخون دمی پاک",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: از دل پر از درد و غم خود، لحظه‌ای پاک و خالص برآور که بسیاری از مردم صبح را می‌بینند در حالی که تو هنوز در خاک هستی."
     },
     {
       "VOrder": 56,
@@ -959,7 +987,8 @@
       "Text": "بگیر آن حلقه را در وقت شبگیر",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: در شب که تاریکی فرا می‌گیرد، آن حلقه را به دست بگیر و دل آشفته و شیدایت را به زنجیر کشانده و آرام کن."
     },
     {
       "VOrder": 58,
@@ -975,7 +1004,8 @@
       "Text": "و یا بند از دل دیوانه بر گیر",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: دستت را بر دل دیوانه بگذار و با شادی فریاد بزن."
     },
     {
       "VOrder": 60,
@@ -991,7 +1021,8 @@
       "Text": "زفان بگشای با حق راز می‌گوی",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: از زبان خود را باز کن و با خدا به راز و نیاز بپرداز، و از دردی که مدت‌ها در دل‌دارید سخن بگو."
     },
     {
       "VOrder": 62,
@@ -1007,7 +1038,8 @@
       "Text": "خوشی بگری چو باران در عتابی",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: اگر خوشی مانند باران بر چهره‌ی تو بریزد و از ناراحتی و دل‌نگرانی خارج شوی، ممکن است که این خوشی تو را از مشکلات و موانع قلبی‌ات آزاد کند."
     },
     {
       "VOrder": 64,
@@ -1023,7 +1055,8 @@
       "Text": "در آن دم گر شود آهی میسر",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: زمانی که در آن لحظه بتوانی آهی از دنیا و آنچه در آن است برآوری، خوش‌تر از آن چیزی است که در دنیا وجود دارد."
     },
     {
       "VOrder": 66,
@@ -1039,7 +1072,8 @@
       "Text": "عزیزا عمر شد در یاب آخر",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: ای عزیز، عمرت به سرعت می‌گذرد، پس از فرصتی که داری بهره‌مند شو و در خواب نرو."
     },
     {
       "VOrder": 68,
@@ -1055,7 +1089,8 @@
       "Text": "بشب خواب و بروزت خواب غفلت",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: در شب در خواب هستی و در روز در خواب غفلت به سر می‌بری، شرم بر تو باد که در دنیای غفلت غرق شده‌ای."
     },
     {
       "VOrder": 70,
@@ -1071,7 +1106,8 @@
       "Text": "مخسب ای خفته آخر از گنه بس",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: ای خوابیده، بیدار شو و از گناه دست بردار! چرا مدت زیادی خوابیده‌ای، در حالی که قبر تو محل خواب تو خواهد بود؟"
     },
     {
       "VOrder": 72,
@@ -1087,7 +1123,8 @@
       "Text": "هزاران جان پر نور عزیزان",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: هزاران جان عزیز و روشن، فدای جایی می‌شود که صبح‌خیزان در آن سجده می‌کنند."
     },
     {
       "VOrder": 74,
@@ -1103,7 +1140,8 @@
       "Text": "زهی لذت که در شبهای تاری",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: چه لذتی دارد که در شب‌های تاریک، نیاز خود را به حق تقدیم کنی."
     },
     {
       "VOrder": 76,
@@ -1119,7 +1157,8 @@
       "Text": "خوشی در خاک می‌مالی رخ خویش",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: شادی را در دل خاک مدفون می‌کنی و بر چهره‌ات غم را گذاشته‌ای، اما به خودت پاسخ نمی‌دهی."
     },
     {
       "VOrder": 78,
@@ -1135,7 +1174,8 @@
       "Text": "همه آفاق آرامی گرفته",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: تمام هستی در سکون و آرامش است، زیرا مسیر تو به حقیقتی قطعی و مشخص رسیده است."
     },
     {
       "VOrder": 80,
@@ -1151,7 +1191,8 @@
       "Text": "گشاده پیش او دست نیازی",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: دست نیاز به سوی او دراز می‌کنم، گاه با اشک و گریه و گاه با نماز."
     },
     {
       "VOrder": 82,
@@ -1167,7 +1208,8 @@
       "Text": "بنه پایی که در پیش چنان کس",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: بخواب کسی که مردم دور او خوابیده‌اند و تو تنها او را می‌بینی و هیچ کس دیگری نیست."
     },
     {
       "VOrder": 84,
@@ -1183,7 +1225,8 @@
       "Text": "ببستر غافلان باز اوفتاده",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: از گروه نادانان دور شده‌ای و با حقیقت به یکدیگر نزدیک شده‌اید."
     },
     {
       "VOrder": 86,
@@ -1199,7 +1242,8 @@
       "Text": "چنین شب گر کند یزدان کرامت",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: اگر یزدان در چنین شبی به من لطف و کرامتی عطا کند، من نیز شکر او را تا همیشه به جا می‌آورم."
     },
     {
       "VOrder": 88,
@@ -1215,7 +1259,8 @@
       "Text": "خوشا با حق شب تاریک بودن",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: خوشا به حال کسی که در شب تاریکی، به خدا نزدیک شود و از خودخواهی دور بماند."
     },
     {
       "VOrder": 90,
@@ -1231,7 +1276,8 @@
       "Text": "ازین بهتر چه کار و بار داری",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: بهتر از این که یک شب او را بیدار نگه‌داری، چه کاری می‌توانی انجام دهی؟"
     },
     {
       "VOrder": 92,
@@ -1247,7 +1293,8 @@
       "Text": "چو صد شب از هوا بیدار بودی",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: شما به مدت صد شب بیدار ماندید و در این مدت به لذت‌ها و خوشی‌ها مشغول بودید."
     },
     {
       "VOrder": 94,
@@ -1263,7 +1310,8 @@
       "Text": "شبی بیدار دار آخر خدا را",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: یک شب را بیدار بمان و به یاد خدا باش، حتی اگر در دیگر شب‌ها نفس و زندگی را داشته‌ای."
     },
     {
       "VOrder": 96,

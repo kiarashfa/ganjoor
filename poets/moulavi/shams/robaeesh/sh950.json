@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "درد تو علاج کس پذیرد هرگز",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: درد تو هیچ کس را درمان نمی‌کند و هرگز از تو چیزی به دست نمی‌آید."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گفتی که نهال صبر در دل کشتی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو گفتی که در دل خود صبر را مانند نهالی کاشتم، اما آیا این صبر هرگز رشد خواهد کرد و به ثمر خواهد نشست؟"
     },
     {
       "VOrder": 4,

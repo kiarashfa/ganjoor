@@ -351,7 +351,8 @@
       "Text": "چو آگه شد از هفتواد اردشیر",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: وقتی او از سرنوشت و آینده اردشیر باخبر شد، آن حرف‌ها برایش خوشایند نبود."
     },
     {
       "VOrder": 2,
@@ -367,7 +368,8 @@
       "Text": "سپهبد فرستاد نزدیک اوی",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: فرمانده سپاه، فردی جنگجو و برجسته را به نزد او فرستاد."
     },
     {
       "VOrder": 4,
@@ -383,7 +385,8 @@
       "Text": "چو آگاه شد زان سخن هفتواد",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: هفتواد وقتی از آن سخن باخبر شد، در دلش هیچ خاطره‌ای از آنها نماند."
     },
     {
       "VOrder": 6,
@@ -399,7 +402,8 @@
       "Text": "کمینگاه کرد اندران کنج کوه",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: در گوشه‌ای از کوه کمین کرده بودند و به سمت میدان جنگ آمدند تا با گروهی که در آنجا بودند، مبارزه کنند."
     },
     {
       "VOrder": 8,
@@ -415,7 +419,8 @@
       "Text": "چو لشکر سراسر برآشوفتند",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: وقتی که سپاه به شدت برانگیخته شد، با گرز و تبرزین به شدت ضربه می‌زدند و حمله می‌کردند."
     },
     {
       "VOrder": 10,
@@ -431,7 +436,8 @@
       "Text": "سپاه اندرآمد ز جای کمین",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: سپاه ناگهان از مکان کمین بیرون آمد و بر نامداران زمین هجوم آورد، و نتیجه‌اش این بود که وضعیت بسیار تاریک و وحشتناک شد."
     },
     {
       "VOrder": 12,
@@ -447,7 +453,8 @@
       "Text": "کسی بازنشناخت از پای دست",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس از خودت نشناخت که به سادگی براساس دستانت نمیتوان گفت زمین در اختیار ایشان قرار دارد."
     },
     {
       "VOrder": 14,
@@ -463,7 +470,8 @@
       "Text": "ز کشته چنان شد در و دشت و کوه",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: به‌واسطه کشتن، حالتی به وجود آمد که تمام مناطق اعم از دشت، کوه و در به شدت تحت تأثیر قرار گرفتند، به گونه‌ای که پیروز در این جنگ، از کشتن خسته و ناامید شد."
     },
     {
       "VOrder": 16,
@@ -479,7 +487,8 @@
       "Text": "هرانکس که بد زنده زان رزمگاه",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که به بدی و ناپسندی از آن میدان جنگ دور شد، به نزد شاه رفت."
     },
     {
       "VOrder": 18,
@@ -495,7 +504,8 @@
       "Text": "چو آگاه شد نامدار اردشیر",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: وقتی اردشیر، فرد مشهور، از کشتن و غارت و دستگیری آگاه شد،..."
     },
     {
       "VOrder": 20,
@@ -511,7 +521,8 @@
       "Text": "غمی گشت و لشکر همی باز خواند",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: غم و اندوهی پدید آمد و لشکر دوباره به هم پیوست. به زودی سلاح و پول بر زمین ریخت."
     },
     {
       "VOrder": 22,
@@ -527,7 +538,8 @@
       "Text": "به تندی بیامد سوی هفتواد",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: سرنوشت به سرعت به سوی هفتواد آمد و در آسمان، نشانه‌ای از بدی به وجود آمد."
     },
     {
       "VOrder": 24,
@@ -543,7 +555,8 @@
       "Text": "بیاورد گنج و سلیح از حصار",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: فردی با ثروت و تجهیزات وارد میدان نبرد شد و نتیجه آن این بود که ارتش و جنگ به شدت تضعیف شدند."
     },
     {
       "VOrder": 26,
@@ -559,7 +572,8 @@
       "Text": "جدا بود ازو دور مهتر پسر",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: پسر که از جنگ پدرش خبر داشت، از او دور بود و احساس جدایی می‌کرد."
     },
     {
       "VOrder": 28,
@@ -575,7 +589,8 @@
       "Text": "برآمد ز آرام وز خورد و خواب",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: از خواب و آرامش برخاست و به کشتی آمد تا بر روی آب سفر کند."
     },
     {
       "VOrder": 30,
@@ -591,7 +606,8 @@
       "Text": "جهانجوی را نام شاهوی بود",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: در سرزمین‌ها، فردی به نام شاهوی وجود دارد که مردی باخلق و گفتاری ناپسند و بدعهد است."
     },
     {
       "VOrder": 32,
@@ -607,7 +623,8 @@
       "Text": "ز کشتی بیامد بر هفتواد",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: از کشتی، خبری به هفتواد رسید و دل هفتواد به خاطر پسرش شاد شد."
     },
     {
       "VOrder": 34,
@@ -623,7 +640,8 @@
       "Text": "بیاراست بر میمنه جای خویش",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: سپهبد به همراه لشکرش در سمت راست، جایگاه خود را با زیبایی آماده کرده است."
     },
     {
       "VOrder": 36,
@@ -639,7 +657,8 @@
       "Text": "دو لشکر بشد هر دو آراسته",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: دو گروه جنگجو آماده نبرد شدند، هر یک مملو از دشمنی و خصومت، همچون گنجینه‌ای پربار از خواسته‌ها و آرزوها."
     },
     {
       "VOrder": 38,
@@ -655,7 +674,8 @@
       "Text": "بدیشان نگه کرد شاه اردشیر",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: شاه اردشیر به آن‌ها نگاهی انداخت و دل مرد جوان از رنج پیرمرد به درد آمد."
     },
     {
       "VOrder": 40,
@@ -671,7 +691,8 @@
       "Text": "سپه برکشید از دو رویه دو صف",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: سپاهی از دو طرف به راه افتادند، یکی با تابش خورشید و دیگری با درخشش شمشیر، که نشان‌دهنده‌ی قدرت و اراده‌ی آنان بود."
     },
     {
       "VOrder": 42,
@@ -687,7 +708,8 @@
       "Text": "چو آواز کوس آمد از پشت پیل",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: وقتی صدای طبل از پشت فیل شنیده شد، آن مرد به شدت بهت‌زده و گیج شد."
     },
     {
       "VOrder": 44,
@@ -703,7 +725,8 @@
       "Text": "برآمد خروشیدن گاودم",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: فریاد و سر و صدای گاودم باعث شد که تمام جهان پر از صدای زنگوله شود."
     },
     {
       "VOrder": 46,
@@ -719,7 +742,8 @@
       "Text": "زمین جنب جنبان شد از میخ نعل",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: زمین به خاطر نعل اسب به لرزه درآمد و به دنبال آن، درفش سران درخشان و جذاب شد."
     },
     {
       "VOrder": 48,
@@ -735,7 +759,8 @@
       "Text": "از آواز گوپال وز ترگ و خود",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: از صدای گوپال و از ترانه‌ای که می‌خواند، آسمان و زمین را درود می‌فرستم."
     },
     {
       "VOrder": 50,
@@ -751,7 +776,8 @@
       "Text": "تگ بادپایان زمین را کنان",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: بادهایی که به سرعت و قوت در حرکت هستند، به مناطق مختلف زمین می‌وزند و آن را پر از سر و صدا و هیجان می‌کنند. در این میان، کسانی که در این مسیر قرار دارند، به نوعی سرگشته و بی‌خبر از شرایط خود هستند."
     },
     {
       "VOrder": 52,
@@ -767,7 +793,8 @@
       "Text": "برآن گونه شد لشکر هفتواد",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: لشکر هفتواد به اندازه‌ای منظم و قوی شد که گویا باد قوی‌ای دریا را به حرکت در می‌آورد."
     },
     {
       "VOrder": 54,
@@ -783,7 +810,8 @@
       "Text": "بیابان چنان شد ز هر دو سپاه",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: بیابان به دلیل جنگ و درگیری‌های دو سپاه به شدت خراب و آشفته شده است، به‌طوری‌که حتی برای حشراتی کوچک مثل مور و پشه هم جا برای حرکت باقی نمانده است."
     },
     {
       "VOrder": 56,
@@ -799,7 +827,8 @@
       "Text": "برین گونه تا روز برگشت زرد",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: به این صورت تا روزی که زردی برگشت، شب با چادر آبی خود را نمایان کرد."
     },
     {
       "VOrder": 58,
@@ -815,7 +844,8 @@
       "Text": "ز هر سو سپه باز خواند اردشیر",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: اردشیر از هر سو با سپاه خود احاطه شده است و در پشت او یک دریا جمع شده است."
     },
     {
       "VOrder": 60,
@@ -831,7 +861,8 @@
       "Text": "چو دریای زنگارگون شد سیاه",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: وقتی که دریا به رنگ زنگار درآمد و سیاه شد، نشانه‌ای از هر دو لشکر نمایان شد."
     },
     {
       "VOrder": 62,
@@ -847,7 +878,8 @@
       "Text": "خورش تنگ بد لشکر شاه را",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: شکست خورشید، لشکر شاه بد و دشمنان او را که راه را بسته‌اند، به ناحق در تنگنا قرار داده است."
     },
     {
       "VOrder": 64,

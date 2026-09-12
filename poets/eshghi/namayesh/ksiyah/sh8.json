@@ -200,7 +200,8 @@
       "Text": "بیم و حسرت، دگر این باره چنان آزردم",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: نگرانی و حسرت من به قدری زیاد شده که دیگر توانم را از دست داده‌ام و به شدت افسرده شده‌ام."
     },
     {
       "VOrder": 2,
@@ -216,7 +217,8 @@
       "Text": "سست شد پایم و با سر به زمین برخوردم",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: پایم به قدری سست شد که با سر به زمین افتادم. در آن لحظه، مرده‌ای زنده شد و من، به خاطر ترس از مردم، هنوز زنده‌ام."
     },
     {
       "VOrder": 4,
@@ -232,7 +234,8 @@
       "Text": "خویشتن خواب و یا مرده گمان می بردم",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: من فکر می‌کردم که خودم خواب هستم یا مثل مرده به سر می‌برم."
     },
     {
       "VOrder": 6,
@@ -240,7 +243,8 @@
       "Text": "پس ازین هر چه به خاطر دارم",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: از این به بعد هر چیزی که به یاد می‌آورم، آن را مثل خواب و خیال تصور می‌کنم."
     },
     {
       "VOrder": 7,
@@ -256,7 +260,8 @@
       "Text": "گرچه آن حادثه نی خواب و نه بیداری بود",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: هرچند آن اتفاق نه خواب بود و نه بیداری، حالتی میان بی‌هوشی و هوشیاری به شمار می‌رفت."
     },
     {
       "VOrder": 9,
@@ -272,7 +277,8 @@
       "Text": "نه چو در موقع عادی، نظرم کاری بود",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: در زمان معمولی، نه من به هیچ چیزی توجه می‌کردم و نه جهان اطرافم برایم جالب بود."
     },
     {
       "VOrder": 11,
@@ -288,7 +294,8 @@
       "Text": "در همان حال مرا، در نظر این جاری بود",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: در آن لحظه، در ذهن من تصویری از او وجود داشت."
     },
     {
       "VOrder": 13,
@@ -296,7 +303,8 @@
       "Text": "کان کفن تیره ز جا برجنبید",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: کفن سیاه از جا حرکت کرد و من را با نگاه خیره‌ای مشاهده کرد."
     },
     {
       "VOrder": 14,
@@ -312,7 +320,8 @@
       "Text": "خاست از جای به پا اندک و واپس شد نیز",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: از جا برخاست و کمی به عقب رفت و به این شکل نشان داد که کسی که از من پرهیز دارد."
     },
     {
       "VOrder": 16,
@@ -328,7 +337,8 @@
       "Text": "با یکی ناله لرزنده وحشت انگیز",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: با صدای ناله‌ای ترسناک و لرزان، به کسی که خوابیده و غریبه به نظر می‌رسد می‌گوید: از اینجا بلند شو."
     },
     {
       "VOrder": 18,
@@ -344,7 +354,8 @@
       "Text": "چیست کار تو در این بقعه اسرارآمیز",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: چرا در این مکان رازآلود به کار مشغولی؟"
     },
     {
       "VOrder": 20,
@@ -352,7 +363,8 @@
       "Text": "که پر اسرار در و دیوار است",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: دیوار و در این مکان پر از راز و رمز هستند، و بنیان آنها از خشت و گل، خود را نیز در بر دارد."
     },
     {
       "VOrder": 21,
@@ -368,7 +380,8 @@
       "Text": "این طلسم است نه یک زمره ز آبادانی",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: این یک جادو یا رمز و رازی است که مانند جمعیتی از ساکنان نیست. این طلسمی است که در تاریخ و زمان جدیدی نظیر ندارد."
     },
     {
       "VOrder": 23,
@@ -384,7 +397,8 @@
       "Text": "به طلسم است در آن روز و شب ایرانی",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در آن روز و شب، ایرانی به نوعی گرفتار و در بند است و این وضعیت ناگواری که بر دیار تو حاکم است، نتیجه همان بند و طلسمی است که بر آن حکم‌فرماست."
     },
     {
       "VOrder": 25,
@@ -400,7 +414,8 @@
       "Text": "جامه من کند این دعوی من برهانی",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: لباس من باعث می‌شود که ادعای من اثبات شود."
     },
     {
       "VOrder": 27,
@@ -408,7 +423,8 @@
       "Text": "من هیولای سعادت هستم",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: من موجودی هستم که نماد خوشبختی و سعادت است و برای این خانه تاریک و غم‌انگیز، دل سپرده‌ام."
     },
     {
       "VOrder": 28,
@@ -424,7 +440,8 @@
       "Text": "مر مرا هیچ گنه نیست به جز آنکه زنم",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: من هیچ گناهی ندارم جز این که به خاطر زنده ماندن، در سایه مرگ قرار دارم و همیشه در یاد مرگ هستم."
     },
     {
       "VOrder": 30,
@@ -440,7 +457,8 @@
       "Text": "من سیه پوشم و تا این سیه از تن نکنم",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: من لباس سیاه به تن دارم و تا زمانی که این لباس سیاه را از خود دور نکنم، تو هم به همین شکل بدبختی و بدشانسی را تجربه می‌کنی، زیرا بخت تو به من وابسته است."
     },
     {
       "VOrder": 32,
@@ -456,7 +474,8 @@
       "Text": "منم آنکس که بود بخت تو اسپید کنم",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: من همان کسی هستم که بخت و اقبال تو را بهتر می‌کنم."
     },
     {
       "VOrder": 34,
@@ -464,7 +483,8 @@
       "Text": "من اگر گریم، گریانی تو",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: اگر من بگریم، تو هم خواهی گریست و اگر من بخندم، تو هم بخندی."
     },
     {
       "VOrder": 35,
@@ -480,7 +500,8 @@
       "Text": "بکنم گر ز تن این جامه، گناهست مرا!",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: اگر از این لباس جدا شوم، احساس گناه می‌کنم! اما اگر نکنم، عمرم در این لباس هدر می‌رود!"
     },
     {
       "VOrder": 37,
@@ -496,7 +517,8 @@
       "Text": "چه کنم؟ بخت از این رخت، سیاهست مرا!",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: چه کنم که سرنوشت من بدجوری به هم خورده است؟ زندگی‌ام می‌گذرد و نتیجه‌اش برایم امیدبخش نیست!"
     },
     {
       "VOrder": 39,
@@ -512,7 +534,8 @@
       "Text": "مرگ هر شام و سحر، چشم به راه است مرا!",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: هر شب و روز، منتظر مرگ هستم!"
     },
     {
       "VOrder": 41,
@@ -520,7 +543,8 @@
       "Text": "زحمت مردن من یک قدم است!",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: مردن برای من تنها یک قدم فاصله دارد! تا زمانی که کفن بر تنم است، هنوز در این دنیا هستم!"
     },
     {
       "VOrder": 42,
@@ -536,7 +560,8 @@
       "Text": "فقط از مردنم آئین مماتم باقیست",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: تنها نشانه‌ای که از مرگ من باقی مانده، همین مراسم فاتحه‌خوانی است."
     },
     {
       "VOrder": 44,
@@ -552,7 +577,8 @@
       "Text": "اینکه بینی تو که باز این، رخ ماتم باقیست",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: اگر ببینی که این چهره غم‌انگیز هنوز باقیست، باید بدانی که این یادگاری است از روزهای زندگی‌ام."
     },
     {
       "VOrder": 46,
@@ -568,7 +594,8 @@
       "Text": "گریه و ناله و آه، از حرکاتم باقیست",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: احساسات من به شکل گریه و ناله و آه هنوز در وجودم باقی مانده است."
     },
     {
       "VOrder": 48,
@@ -576,7 +603,8 @@
       "Text": "بهر گور است معطل ماندم",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: منتظر مانده‌ام تا به خاک بسپارندم، در حالی که خودم بر مرگم ندا داده‌ام."
     },
     {
       "VOrder": 49,
@@ -592,7 +620,8 @@
       "Text": "از همان دم که در این تیره دیار آمده ام",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: از زمان حضورم در این دنیای تاریک، با این اندیشه که روزی خواهم مرد، آماده مرگ شده‌ام و به سوی محل آرامش خود آمده‌ام."
     },
     {
       "VOrder": 51,
@@ -608,7 +637,8 @@
       "Text": "همچو موجود جمادی، نه بکار آمده ام",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: همچون چیزی بی‌حرکت و بی‌حیات، در این کیسه که بسته است به کار نیامده‌ام و تنها برای گذر زمان و به دنیا آمدن آمده‌ام."
     },
     {
       "VOrder": 53,
@@ -624,7 +654,8 @@
       "Text": "مردم از زندگی، از بس بفشار آمده ام",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: از زندگی به اندازه‌ای فشاری متحمل شده‌ام که مردم را نمی‌توانم تحمل کنم."
     },
     {
       "VOrder": 55,
@@ -632,7 +663,8 @@
       "Text": "تا درین تیره کفن در شده ام!",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در این عبارت، گوینده از وضعیت خود سخن می‌گوید. او احساس می‌کند که در شرایطی تاریک و غم‌انگیز قرار دارد، جایی که نه زنده است و نه مرده. به نوعی، او در میان زندگی و مرگ به سر می‌برد و به خاطر این وضعیت درد و اندوهی عمیق را تجربه می‌کند."
     },
     {
       "VOrder": 56,
@@ -648,7 +680,8 @@
       "Text": "تا به اکنون که هزار و صد و اندی سال است:",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: تا به حال که بیش از هزار و صد سال از عمرم می‌گذرد، در این مکان و با این وضعیت، همچنان به همین حالتی که هستم ادامه می‌دهم."
     },
     {
       "VOrder": 58,
@@ -664,7 +697,8 @@
       "Text": "غصب از آن، حق حیات من زشت اقبال است",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: این بیت به بیان نارضایتی شاعر از وضعیت خود و زندگی‌اش می‌پردازد. شاعر احساس می‌کند که زندگی‌اش تحت تاثیر ظلم و غصب قرار گرفته و این وضعیت را ناشی از بدشکلی و بداقبالی می‌داند. او از معشوق خود خواسته است که با توجه به بی‌نظیر بودنش، دلی شگفت‌انگیز و عمرش را تحت تاثیر قرار دهد. به عبارتی، شاعر به زیبایی و ویژگی‌های خاص معشوق اشاره می‌کند و از او می‌خواهد که زندگی‌اش را بهبود بخشد."
     },
     {
       "VOrder": 60,
@@ -680,7 +714,8 @@
       "Text": "گوئی این عمر دگر مرگش نه در دنبال است",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد که این زندگی دیگر برای مرگ در پی نیست."
     },
     {
       "VOrder": 62,
@@ -688,7 +723,8 @@
       "Text": "پدر و مادرت آیا که بدند؟",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: آیا پدر و مادرت انسان‌های بدی بودند؟ پس تو چرا هنوز زنده‌ای و آنها چه بر سرشان آمده؟"
     },
     {
       "VOrder": 63,
@@ -704,7 +740,8 @@
       "Text": "بر زبانم بر او، حرف پدر چون آمد",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: وقتی که حرف پدر بر زبانم می‌آید، حال او به کلی تغییر می‌کند."
     },
     {
       "VOrder": 65,
@@ -720,7 +757,8 @@
       "Text": "گوئی این حرف خراشیدش و دل خون آمد",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد که این حرف او را آزرده کرده و دلش را خون کرده است، زیرا به خاطر اندوه بسیارش، مرتب آه و ناله می‌کند."
     },
     {
       "VOrder": 67,
@@ -736,7 +774,8 @@
       "Text": "بوی خون، زان دل خونین شده بیرون آمد",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: عطر خون، از دل جگر سوخته و دردناک بیرون آمد."
     },
     {
       "VOrder": 69,
@@ -744,7 +783,8 @@
       "Text": "هر چه گفتم: چه شدت؟ در پاسخ",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: هر چه پرسیدم که چه شدت و سختی است، او فقط ناله‌ای سر داد و گفت: آه، چه دردناک است."
     },
     {
       "VOrder": 70,
@@ -760,7 +800,8 @@
       "Text": "«من به ویرانه ز ویران شدن ایرانم!",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: من از ویرانی ایران به ویرانه‌ای که تبدیل شده، حسرت می‌خورم! من فرزند این دیار و این کشور خراب شده‌ام!"
     },
     {
       "VOrder": 72,
@@ -776,7 +817,8 @@
       "Text": "آوخ از بخت من غمزده آوخ آوخ",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: افسوس بر حال من که بخت من غمگین و بدشگون است."
     },
     {
       "VOrder": 74,
@@ -784,7 +826,8 @@
       "Text": "دختر خسرو شاهنشه دیرین بودم",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: من دختر خسرو، پادشاه بزرگ و قدیمی هستم و در دامن شیرین، با محبت و نازپروری بزرگ شده‌ام."
     },
     {
       "VOrder": 75,
@@ -800,7 +843,8 @@
       "Text": "حالم این مقبره مسکن شده آوخ آوخ",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: حالم مثل این مقبره شده است؛ افسوس و دریغ."
     },
     {
       "VOrder": 77,
@@ -808,7 +852,8 @@
       "Text": "خانه اول من، گوشه ویرانه نبود",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: خانه‌ی اول من در یک مکان ویران قرار نداشت، زیرا این مکان محل و حرمت اجداد من نبود."
     },
     {
       "VOrder": 78,
@@ -824,7 +869,8 @@
       "Text": "یاد از رفته این دهکده آوخ آوخ",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: یاد و خاطره کسانی که دیگر در این دهکده نیستند، باعث حسرت و اندوه می‌شود."
     },
     {
       "VOrder": 80,
@@ -832,7 +878,8 @@
       "Text": "دخت شاهی که زبم مملکتش تا قافست",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: دختر شاهی که سرزمینش تا دورترین نقاط ویران شده، ای آسمان، آیا این عدالت است؟"
     },
     {
       "VOrder": 81,
@@ -848,7 +895,8 @@
       "Text": "سرد شد آتش آتشکده آوخ آوخ",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: آتشکده خاموش شده و دلی پر از درد و حسرت دارم."
     },
     {
       "VOrder": 83,
@@ -856,7 +904,8 @@
       "Text": "سپس او خیره بماند و من نیز",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: سپس او مدت زیادی به چیزی زل زد و من هم همینطور، به خاطر این داستان رازآلود."
     },
     {
       "VOrder": 84,
@@ -872,7 +921,8 @@
       "Text": "فرط آن خیرگیم حال مجانین آورد",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: خوشحالی و شادی بسیار زیاد من به حدی رسیده که حتی دیوارها و محیط اطرافم را رنگارنگ و زیبا می‌بینم، گویا مانند افرادی دیوانه شده‌ام."
     },
     {
       "VOrder": 86,
@@ -888,7 +938,8 @@
       "Text": "خشت ها در نظرم، شکل شیاطین آورد",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: در نظر من، آجرها به شکل شیاطین درآمدند و بر سرم تأثیر سنگینی گذاشتند."
     },
     {
       "VOrder": 88,
@@ -904,7 +955,8 @@
       "Text": "نظرم خیره شد آخر به سرم این آورد",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: من در نهایت به چیزی جذب شدم که بر سرم آمد."
     },
     {
       "VOrder": 90,
@@ -912,7 +964,8 @@
       "Text": "پیش کز واهمه، از خود بروم",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: در برابر ترس و واهمه‌ای که احساس می‌کنم، بیشتر از خودم دور می‌شوم و این احساس به من اجازه نمی‌دهد به خودم نزدیک شوم."
     },
     {
       "VOrder": 91,

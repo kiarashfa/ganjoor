@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "پرسید مهم که چشم تو مه را دید",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سوالی مطرح شد که آیا چشمان تو، ماه را دیده‌اند؟ من پاسخ دادم که بله، او ماه را دیده و ماه هم از خود می‌پرسید."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گفتا که ز ماه عید می‌پرسم من",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او گفت که من از ماه عید می‌پرسم. من هم پاسخ دادم که بله، عید هم دارد از عید می‌پرسد."
     },
     {
       "VOrder": 4,

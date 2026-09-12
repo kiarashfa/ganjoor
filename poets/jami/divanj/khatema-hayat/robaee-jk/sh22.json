@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "این خانه نه منزل نشاط است و طرب",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این خانه جایی برای شادی و خوشحالی نیست، چون برای رسیدن به آن لذت‌ها باید زحمات زیادی را متحمل شوی."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "هم شب آری به روز و هم روز به شب",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هم در شب و هم در روز باید برای به دست آوردن کمال نفس و یادگیری ادب تلاش کرد."
     },
     {
       "VOrder": 4,

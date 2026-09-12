@@ -541,7 +541,8 @@
       "Text": "دم شیر جاروب راهش شده",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: تنفس شیر به قدری قوی و تاثیرگذار است که می‌توان آن را به عنوان تکیه‌گاهی برای آسمان تصور کرد و ناله‌هایش به گونه‌ای است که مانند تیرهایی به آسمان می‌رسند."
     },
     {
       "VOrder": 2,
@@ -557,7 +558,8 @@
       "Text": "همی گرد بر گرد او ببر و شیر",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: همواره دور او بگرد و شیر و پلنگانی را که شکار آهو می‌کنند، ببین."
     },
     {
       "VOrder": 4,
@@ -573,7 +575,8 @@
       "Text": "ابر گرد او حلقه بسته همه",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: ابر دور او را احاطه کرده و در شب، مانند حیواناتی که دور یک چرنده جمع شده‌اند، درندگان به او نزدیک شده‌اند."
     },
     {
       "VOrder": 6,
@@ -589,7 +592,8 @@
       "Text": "شده چشم گردون نمکدان او",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: چشم آسمان مانند نمکدان او شده و مگس بر روی پای او مانند دم شیر گشته است."
     },
     {
       "VOrder": 8,
@@ -605,7 +609,8 @@
       "Text": "به سر برش و مرغان همه سایه‌دار",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: بر فراز سرش، پرندگان همیشه در سایه‌اش هستند و هر لحظه برای او پرده‌داری می‌کنند."
     },
     {
       "VOrder": 10,
@@ -621,7 +626,8 @@
       "Text": "به هر سو که می‌رفت همره بدید",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: هر جا که می‌رفت، همراه او سرگردان بود و هر لحظه به دور و برش نگاه می‌کرد."
     },
     {
       "VOrder": 12,
@@ -637,7 +643,8 @@
       "Text": "در آن چشمه چشمش به راه پری",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: در چشمان او چشمه‌ای وجود دارد که به سوی پری می‌نگرد، که خبر زهره را از سیاره مشتری می‌آورد."
     },
     {
       "VOrder": 14,
@@ -653,7 +660,8 @@
       "Text": "امیدش که شاید ز غم وا رهد",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: او منتظر است که شاید از غم رهایی یابد و خبر خوشی از رضوان به او برسد."
     },
     {
       "VOrder": 16,
@@ -669,7 +677,8 @@
       "Text": "نه آگاه از گردش روزگار",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: انسان از تغییرات و پیچیدگی‌های روزگار بی‌خبر است و نمی‌داند که زندگی چگونه او را به سمت مسائل و چالش‌های جدید می‌کشاند."
     },
     {
       "VOrder": 18,
@@ -685,7 +694,8 @@
       "Text": "که صد داغ دیگر به داغش نهاد",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: او دلی پر از درد و حسرت دارد و هر روز بر غم و اندوه او افزوده می‌شود. حالا به یاد آن داغ بزرگ می‌افتد و همچنان در پی یادآوری آن است."
     },
     {
       "VOrder": 20,
@@ -701,7 +711,8 @@
       "Text": "وزین سو قمرتاش از درد عشق",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: در اینجا، معشوق به خاطر درد و رنجی که از عشق می‌کشد، حالت غمگینی به چهره‌اش دارد و این حالت نشان از عاطفه و اثر عشق در جان اوست."
     },
     {
       "VOrder": 22,
@@ -717,7 +728,8 @@
       "Text": "شب و روز آرام و خوابش نبود",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: شب و روز او هیچ آرامی نداشت و نمی‌توانست بخوابد، زیرا جز وصال محبوبش هیچ چیز اهمیت نداشت."
     },
     {
       "VOrder": 24,
@@ -733,7 +745,8 @@
       "Text": "همه روز رهوار آن باغ بود",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: هر روز همچون پرنده‌ای آزاد به آن باغ می‌رفتم، در حالی که دلم به خاطر دوری او آکنده از غم و التهابی عمیق بود."
     },
     {
       "VOrder": 26,
@@ -749,7 +762,8 @@
       "Text": "پری‌نوش بر وی در وصل بست",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: زیبایی همچون پری در آغوشش قفل کرده و به کسی کلید وصال او را نداده است."
     },
     {
       "VOrder": 28,
@@ -765,7 +779,8 @@
       "Text": "دگر ره نیامد بر آن بوستان",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: دیگر راهی به آن باغ نمی‌رسد و غم دوستان در دل فراموش شده است."
     },
     {
       "VOrder": 30,
@@ -781,7 +796,8 @@
       "Text": "پس از هفته‌ای سوی بستان شتافت",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: پس از یک هفته، به سوی باغ حرکت کرد، اما وقتی رسید، دختر زیبای پری‌مانند را نیافت."
     },
     {
       "VOrder": 32,
@@ -797,7 +813,8 @@
       "Text": "سراسیمه شد زان پری‌نوش ماه",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: او از دیدن آن پری زیبا به شدت دچار حیرت و اضطراب شد و به همین خاطر، دنیا در مقابل چشمانش تیره و تار شد."
     },
     {
       "VOrder": 34,
@@ -813,7 +830,8 @@
       "Text": "گریبان بدرید مو را بکند",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: او با شدت و غم و اندوه، گریبان خود را پاره کرد و موی سرش را کند، و صدای بلندش به آسمان رسید."
     },
     {
       "VOrder": 36,
@@ -829,7 +847,8 @@
       "Text": "همه بند او را به هم برشکست",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: تمامی محدودیت‌ها و قید و بندهای او فروریخت و او به مانند فردی مست و شاداب به درون اتاق تاریک و عمیق درآمد."
     },
     {
       "VOrder": 38,
@@ -845,7 +864,8 @@
       "Text": "پری رخ پری‌دخت را چون ندید",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: چون نتوانست چهره‌ی دختر پری را ببیند، از شدت اندوه و ناراحتی تمام لباس‌هایش را از تن بیرون آورد."
     },
     {
       "VOrder": 40,
@@ -861,7 +881,8 @@
       "Text": "به ناخن خراشید رخساره ماه",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: به ناخن خود صورت زیبا را خراشید و از آن جای زخم، خون جاری شد و هر دو چشمش سیاه گشت."
     },
     {
       "VOrder": 42,
@@ -877,7 +898,8 @@
       "Text": "ز ایوان به یکباره برخاست جوش",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: از ایوان ناگهان صدای شوق و شادی از دل زیبایی‌ها برخاست و این سر و صدا به آسمان رسید."
     },
     {
       "VOrder": 44,
@@ -893,7 +915,8 @@
       "Text": "همه فال بازیچه‌شان گشت راست",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: همه چیز برای فال گرفتن به خوبی پیش رفت، مانند زمانی که فغفوری چینی درخواست کرد."
     },
     {
       "VOrder": 46,
@@ -909,7 +932,8 @@
       "Text": "خبر شد به فغفور چنین زان صنم",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: خبر به فغفور رسید که آن محبوبه، مانند ماه، از سرداب به بیرون آمده است."
     },
     {
       "VOrder": 48,
@@ -925,7 +949,8 @@
       "Text": "بیامد به ایوان دستور پیر",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: دستور پیر به ایوان آمد، چهره‌اش مانند زر (طلا) درخشید و از اندیشه و تفکر نشانه‌هایی در چهره‌اش نمایان بود."
     },
     {
       "VOrder": 50,
@@ -941,7 +966,8 @@
       "Text": "ز هر سو بگشتند و آن مه نبود",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: از هر طرف جستجو کردند اما آن ماه (عزیز) پیدا نشد، همین باعث شد که جهان در نگاه آن‌ها تیره و تار شود."
     },
     {
       "VOrder": 52,
@@ -957,7 +983,8 @@
       "Text": "که آیا کجا رفت و چون بود کار",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که شخصی در مورد جایی که محبوبش رفته و وضعیت کار او در سردابه (جای خاصی) فکر می‌کند و از این که آن نگار (معشوق) چگونه گم شده، ناراحت است. او به یاد محبوبش افتاده و نگران است که چرا و چگونه او دیگر در دسترس نیست."
     },
     {
       "VOrder": 54,
@@ -973,7 +1000,8 @@
       "Text": "هی گفت فغفور مانا که سام",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: گفته شده که فغفور مانا، مانند ماهی تمام و کامل، از سردابه (محل سکونت) سام بیرون آمده است. این نشان‌دهنده ظهور یا معرفی شخصیتی مهم و برجسته است، که مانند ماه درخشان و کامل، درخشندگی و اهمیت خود را نشان می‌دهد."
     },
     {
       "VOrder": 56,
@@ -989,7 +1017,8 @@
       "Text": "همه چاره ما به هم برشکست",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: تمام راه‌حل‌های ما به نحوی شکست خورد، اما در نهایت باز هم به سادگی به دست آمد."
     },
     {
       "VOrder": 58,
@@ -1005,7 +1034,8 @@
       "Text": "قمرتاش بشنید و با شاه گفت",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: ماه من در دل شب شنید و با پادشاه گفت که این راز را از درون پنهانی بیرون می‌آورم."
     },
     {
       "VOrder": 60,
@@ -1021,7 +1051,8 @@
       "Text": "ببینم که چونست کردار سام",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: نگاهی به رفتار و کردار سام بینداز و بگو درباره آن رئیس و سردار چه فکر می‌کنی."
     },
     {
       "VOrder": 62,
@@ -1037,7 +1068,8 @@
       "Text": "پس آنگه دهم شاه را آگهی",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: سپس به شاه خبر می‌دهم که دل خود را از این درد خالی کنم."
     },
     {
       "VOrder": 64,
@@ -1053,7 +1085,8 @@
       "Text": "بگفت و نشست از بر بادپا",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: او صحبت کرد و سپس به آرامی به سوی لشکر سام یل رفت."
     },
     {
       "VOrder": 66,
@@ -1069,7 +1102,8 @@
       "Text": "درآمد به لشکر قمرتاش چین",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: خبر به لشکر قمر تاش چین رسید که از کار آن نازنین اطلاعاتی کسب کنند."
     },
     {
       "VOrder": 68,
@@ -1085,7 +1119,8 @@
       "Text": "من از پی بسی راه و بیره شدم",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: من در جستجوی راه‌های هموار و روشن هستم، اما به ناچار در پیچ و خم زندگی گمراه می‌شوم."
     },
     {
       "VOrder": 70,
@@ -1101,7 +1136,8 @@
       "Text": "بسی کوه و هامون بگردیده‌ام",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: من در میان کوه‌ها و دشت‌ها بسیار گشته‌ام، اما هیچ نشانی از رهبر و سالار نیافته‌ام."
     },
     {
       "VOrder": 72,
@@ -1117,7 +1153,8 @@
       "Text": "قمرتاش یکسر همه باز گفت",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: ماه درخشان به یکباره همه چیز را فاش کرد و رازی که پنهان بود را نمایان ساخت."
     },
     {
       "VOrder": 74,
@@ -1133,7 +1170,8 @@
       "Text": "ز سردابه و کار و مرگ و ستیز",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: از سردابه و کار و مرگ و نبرد، که از آن جا در دنیا صدها قیامت شکل گرفت."
     },
     {
       "VOrder": 76,
@@ -1149,7 +1187,8 @@
       "Text": "چو قلواد و قلوش شنیدند راز",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: وقتی قلواد و قلوش صدای راز را شنیدند، دانستند که آن گلرخ دلنواز هنوز زنده است."
     },
     {
       "VOrder": 78,
@@ -1165,7 +1204,8 @@
       "Text": "چنین گفت شاید که سام سوار",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: او گفت احتمالش هست که سام سوار بر اسب در دست آن گل خوش‌رنگ به خواب رفته باشد."
     },
     {
       "VOrder": 80,
@@ -1181,7 +1221,8 @@
       "Text": "چرا پس نیامد سوی لشکرش",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: چرا او به سوی سپاهش برنگشت، اگر نه به خاطر این است که سرش به خاطر آن ماه تغییر کرده است؟"
     },
     {
       "VOrder": 82,
@@ -1197,7 +1238,8 @@
       "Text": "به قلوش چنین گفت قلواد شیر",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: به قلوش گفت: من به دنبال شکار می‌روم و آماده‌ام تا طعمه‌ای را به دام بیاندازم."
     },
     {
       "VOrder": 84,
@@ -1213,7 +1255,8 @@
       "Text": "که شاید نشانی به دست آورم",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: شاید بتوانم نشانه‌ای پیدا کنم تا پیروز بر افکار ناامید کننده‌ام شوم."
     },
     {
       "VOrder": 86,
@@ -1229,7 +1272,8 @@
       "Text": "ببینم رخ گرد سالار نیو",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: ببینم چهره زیبا و پرشکوه تو را، اما بی‌توجهی به کارهای شیطانی نکن."
     },
     {
       "VOrder": 88,
@@ -1245,7 +1289,8 @@
       "Text": "که ناگه رها گردد این بدسگال",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: ناگهان این人为 بدخواه از زندان آرزوها رها می‌شود، کسی که در این دنیا همتایی ندارد."
     },
     {
       "VOrder": 90,
@@ -1261,7 +1306,8 @@
       "Text": "قمرتاش و قلواد همره شدند",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: ماه و تاریکی به سرعت در کنار هم حرکت کردند و بر روی مسیر خود به جلو رفتند و به جستجوی چیزی پرداختند."
     },
     {
       "VOrder": 92,
@@ -1277,7 +1323,8 @@
       "Text": "چو سلطان انجم به تیغ و سپر",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: فرمانروای ستاره‌ها با قدرت و شکوه، بر تخت نشسته و با زینت‌ها و زیبایی‌های فراوان خود را آراسته است."
     },
     {
       "VOrder": 94,
@@ -1293,7 +1340,8 @@
       "Text": "جهانی به پیشش به پا خاستند",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: مردم جهان برای او به پا خاستند و آماده شدند تا دنیای خود را زیبا کنند."
     },
     {
       "VOrder": 96,
@@ -1309,7 +1357,8 @@
       "Text": "نهنکال آن نره دیو دمان",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: آن نهنگ بزرگ و نیرومند در شبی، قدرتی فوق‌العاده به دست آورد و به زنجیرهایی سنگین گرفتار شد."
     },
     {
       "VOrder": 98,
@@ -1325,7 +1374,8 @@
       "Text": "چو قلوش چنان دید برداشت گرز",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: وقتی قهرمان آن صحنه را دید، با قدرت و خشم گردن‌کلفت جلوی او را هدف قرار داد و شمشیرش را بالا برد."
     },
     {
       "VOrder": 100,
@@ -1341,7 +1391,8 @@
       "Text": "بزد گرز بر شانه دیو نر",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: با ضربه‌ای محکم بر شانه دیو نر بزن، زیرا که آن موجود بدذات از این موضوع بی‌خبر است."
     },
     {
       "VOrder": 102,

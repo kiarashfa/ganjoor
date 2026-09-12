@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای یار به تو گر دگری بفرستند",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دوست، اگر کسی دیگری را به سوی تو بفرستد، در زندگی خودت نشانه‌ای از خود را برای او بفرست."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "با خویشتنت از دگری نیست خبر",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در حالی که خودت از هیچ چیز خبر نداری، امیدوارم خبرهایی از دیگران به تو برسد."
     },
     {
       "VOrder": 4,

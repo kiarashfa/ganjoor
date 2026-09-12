@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "عقل مست لعل جان افزای توست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عقل، به مانند شرابی که مست می‌کند، ناشی از زیبایی و جذابیت وجود توست؛ دل من، همچون بنده‌ای دلبسته، به چشم‌های زیبای تو عاشقانه وابسته است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "نیکویی را در همه روی زمین",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نیکی و خوبی در تمام زمین وجود دارد، اما اگر کسی بخواهد برترین ویژگی‌ها را ببیند، باید به تو نگاه کند."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "چون کسی را نیست حسن روی تو",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که کسی جز تو زیبایی ندارد، مهر و محبت در دل‌ها به خاطر زیبایی توست."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "نور ذره ذره بخش هر دو کون",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نور خورشید در تمام جهان به خاطر زیبایی چهره توست، که هر ذره از آن را روشن می‌کند."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "در جهان هرجا که هست آرایشی",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در هر جایی از جهان که نگاه می‌کنی، زیبایی و جلوه‌ای که می‌بینی، نتیجه‌ی زیبایی و شکوه توست."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "تا رخت شد ملک‌بخش هر دو کون",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که سرنوشت و مقدرات بر هر دو جهان حاکم است، مالک حقیقی و حقیقی این دنیا و آن دنیا خداوند است."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "خون اگر در آهوی چین مشک شد",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر خون در آهویی از چین به مشک تبدیل شود، باز هم به خاطر زلف‌های خوشبو و زیبای توست."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "گرچه آب خضر جام جم بشد",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچند که آب خضر و جام جم وجود دارند، اما اشتیاق و نیاز به این که تو را داشته باشی و از نعمت‌های تو بهره‌برداری کنم، همچنان در من وجود دارد."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "خلق عالم در رهت سر باختند",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مردم جهان در راه تو جان خود را فدای تو کرده‌اند و اگر کسی هم بتواند به مانند تو باشد، دارای مقام و ارزشی برابر تو نیست."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "آسمان سر بر زمین هر جای تو",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آسمان به دور زمین می‌چرخد و هر کجای تو، نشانی از عشق و ارادت است."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "آفتاب بی سر و بن ذره‌وار",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خورشید، بی‌رحمانه و بدون ریشه، مانند ذره‌ای کوچک، این‌گونه در آرزوی تو سرگردان است."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "این جهان و آن جهان و هرچه هست",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جهان و آن جهان و هر چیز دیگری مانند قطره‌ای است که در برابر دریای بیکران وجود تو، تشنه و نیازمند به توست."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "چون به جز تو در دو عالم نیست کس",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چون غیر از تو هیچ‌کس در این دو جهان نیست، پس در این دو عالم چه کسی می‌تواند همچون تو باشد؟"
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "هر که را هر ذره‌ای چشمی شود",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که به هر چیزی توجه کند و درک کند، اگر بخواهد انصاف را رعایت کند، در واقع از بینش و بصیرت تو بی‌بهره است."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "گر فرید امروز چون شوریده‌ای است",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر فرید امروز مانند شیدا و دیوانه است، بدان که انسان‌های عاقل نیز به اندازه شیداها به تو وابسته‌اند."
     },
     {
       "VOrder": 30,

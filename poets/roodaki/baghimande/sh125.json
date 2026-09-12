@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "آی دریغا! که خردمند را",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آه، چه غصه‌ای! که انسان عاقل صاحب فرزندی می‌شود و فرزندش بیخود و نادان است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "ورچه ادب دارد و دانش پدر",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه پدر ادب و دانش دارد، اما اینها به فرزند به ارث نمی‌رسند."
     },
     {
       "VOrder": 4,

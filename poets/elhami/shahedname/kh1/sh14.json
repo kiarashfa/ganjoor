@@ -211,7 +211,8 @@
       "Text": "درآن بد نوشته که ای نامدار",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: در آن نوشته بد، به نامی بزرگ اشاره شده که از پیشینیان یثرب است."
     },
     {
       "VOrder": 2,
@@ -227,7 +228,8 @@
       "Text": "به شاهی زنو بیعت از بهر من",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: از پادشاهی به خواست من، مانند آنچه که شایسته است، از چهار نفر بیعت می‌گیرند."
     },
     {
       "VOrder": 4,
@@ -243,7 +245,8 @@
       "Text": "چه فرزند بوبکر و پور عمر",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: این جمله به بررسی نسب و ویژگی‌های فرزندان افراد برجسته اشاره دارد. به طور خاص، به فرزندانی که از شخصیت‌های بزرگ تاریخ اسلامی همچون ابوبکر و عمر به دنیا آمده‌اند و همچنین به عبدالله اشاره می‌کند که پدرش زبیر است. به طور کلی، این بیان به ارزش و اهمیت نسل‌های این شخصیت‌ها پرداخته و به تفاخر بر اساس نسب اشاره دارد."
     },
     {
       "VOrder": 6,
@@ -259,7 +262,8 @@
       "Text": "دگر پور دخت رسول خدای",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: دختر پیامبر خدا که پدرش، کسی است که دروازه خیبر را گشود."
     },
     {
       "VOrder": 8,
@@ -275,7 +279,8 @@
       "Text": "نشد هرکه زین چار فرمانپذیر",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: هرکسی که نتواند دستورات را بپذیرد، نباید انتظار داشته باشد که به آسانی از خطرات نجات پیدا کند."
     },
     {
       "VOrder": 10,
@@ -291,7 +296,8 @@
       "Text": "چو آنگونه منشور والی بخواند",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: وقتی والی چنین چیزی را از روی منشور می‌خواند، چنان تعجبی می‌کند که انگشت حیرت را به دندان می‌زند."
     },
     {
       "VOrder": 12,
@@ -307,7 +313,8 @@
       "Text": "به بر خواند مروان و با چشم تر",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: مروان در کنار فرزندش با چشمی پر از اشک به مرگ معاویه خبر می‌دهد."
     },
     {
       "VOrder": 14,
@@ -323,7 +330,8 @@
       "Text": "که تا آن زمان والی نو ولید",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که والی جدید، ولید، تحت فرمان یزید به سر کار بیاید."
     },
     {
       "VOrder": 16,
@@ -339,7 +347,8 @@
       "Text": "همی داشت این راز را در نهفت",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: او این راز را در دل خود نگه داشته بود و تا به حال به کسی درباره‌ی مرگ معاویه چیزی نگفته بود."
     },
     {
       "VOrder": 18,
@@ -355,7 +364,8 @@
       "Text": "سپس رایزن گشت درکار خویش",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: سپس مشاور در کار خود اندیشید و از آن چه که از پادشاه شام به او رسید، فکر کرد."
     },
     {
       "VOrder": 20,
@@ -371,7 +381,8 @@
       "Text": "بدو گفت مروان که ای هوشمند",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: مروان به او گفت: ای فرد دانا، در این نامه هر چه که برایت نوشته شده، همگی به کار تو مربوط می‌شود."
     },
     {
       "VOrder": 22,
@@ -387,7 +398,8 @@
       "Text": "ولید این سخن چون زمروان شنود",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: ولید وقتی این سخن را از زمروان شنید، بلافاصله پیامی به چهار نفر فرستاد."
     },
     {
       "VOrder": 24,
@@ -403,7 +415,8 @@
       "Text": "شبانگه فرستاده شد در حرم",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: در هنگام شب، پیامبری به حرم رفت و آن سه نفر را دید که در آنجا بودند و برتری آن‌ها نسبت به دیگران را مشاهده کرد."
     },
     {
       "VOrder": 26,
@@ -419,7 +432,8 @@
       "Text": "که بنشسته با هم سرایند راز",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: گروهی گرد هم نشسته‌اند و رازی را در کنار قبر پیامبر اسلام می‌خوانند."
     },
     {
       "VOrder": 28,
@@ -435,7 +449,8 @@
       "Text": "به ایشان رسانید بعد از اسلام",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: پس از مسلمان شدن، پیام را از فرمانده مدینه به آن‌ها رسانید."
     },
     {
       "VOrder": 30,
@@ -451,7 +466,8 @@
       "Text": "بدان پیک فرمود فرخنده شاه",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: بدان که پیامبر (پیک) به فرخنده شاه دستور داد تا توزی (خود) را به راه پیمودن بفرستد."
     },
     {
       "VOrder": 32,
@@ -467,7 +483,8 @@
       "Text": "که ما نیز بدرود تربت کنیم",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: ما هم باید از خاک پاک خداحافظی کنیم و به سوی محل کار والی برویم."
     },
     {
       "VOrder": 34,
@@ -483,7 +500,8 @@
       "Text": "چو شد رهسپر پیک با آن سه تن",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: وقتی پیام‌رسان با آن سه نفر به دربار رسید، شهنشاه دین به گفت‌وگو پرداخت و با شوق و حرارت سخن گفت."
     },
     {
       "VOrder": 36,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "با ما نتوان گفت چرا آمده ای",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نمی‌توانیم بگوییم چرا به نزد ما آمده‌ای، تو که خود به چه دلیلی و از کجا آمده‌ای."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "از بس که به بازی و هوا مشغولی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر اینکه خیلی درگیر بازی و خوش گذرانی هستی، انگار فقط برای همین منظور به دنیا آمده‌ای."
     },
     {
       "VOrder": 4,

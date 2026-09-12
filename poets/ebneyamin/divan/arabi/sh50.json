@@ -29,7 +29,8 @@
       "Position": "Right",
       "Text": "بحذر از بلا مجوی خلاص",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از خطر دوری کن و به دنبال نجات نباش، زیرا دوری از خطر خود هدر رفتن است."
     },
     {
       "VOrder": 2,
@@ -43,7 +44,8 @@
       "Position": "Right",
       "Text": "بخدا در بلا پناه طلب",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خداوند پناه ببر در هنگام مشکلات، زیرا تنها اوست که می‌تواند از بلاها جلوگیری کند، نه اینکه تنها با احتیاط کردن از آنها دوری کنی."
     },
     {
       "VOrder": 4,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "مطلوب خود است و طالب خود",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آنچه که در جستجویش هستی، خودش تو را می‌جوید؛ پس جایی برای نگرانی یا امیدواری وجود ندارد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "موجود غرض بگو کدام است",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باید بپرسی که هدف از وجود چیست و چگونه می‌توان غیر از او را شناخت."
     },
     {
       "VOrder": 4,

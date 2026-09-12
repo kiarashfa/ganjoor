@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای بخت بد ای مصاحب جانم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای بخت شوم، ای همراه جانم، ای اینکه وصل تو باعث شده که زندگی‌ام به ناکامی بدل شود."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "ای بی تو نگشته شام یک روزم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بی تو هیچ شبی را سپری نکرده‌ام و با تو هرگز یک لحظه شاد نبوده‌ام."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "ای خرمن عمر از تو بر بادم",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای عمر من که مانند خرمنی از دست رفته‌ای، تمام صبر و تحمل من به خاطر تو خراب و ویران شده است."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "هم کوکب سعد از تو منحوسم",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هم ستاره خوشبختی از تو برای من شگون و فال بد است و هم از تو به جای سود، زیان می‌برم."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "تیغ است تاره و تو جلادم",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تیغی برنده است و تو کسی هستی که می‌توانی با آن آسیب برسانی. زندان زمانه و تو برای من همدم و مونس هستی."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "از روز ازل توئی تو هم راهم",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از ابتدای خلق تاکنون، تو همواره در کنار من هستی و تا پایان دنیایم باز هم تو همراهم خواهی بود."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "چون طوق فشرده تنگ حلقومم",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من همچون طوقی که به گردن می‌فشارد و تنگی ایجاد می‌کند، احساس می‌کنم که کارها و مشکلات به سختی در زندگی‌ام چنگ انداخته‌اند و مرا تحت فشار قرار داده‌اند."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "عمری است که روز و شب همی داری",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مدت زیادی است که شب و روز به خاطر ظلم و بی‌رحمی سرنوشت، در حال تحمل رنج و سختی هستم."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "آن سفله که میزبان بود ندهد،",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن فرد پست‌فطرت که به عنوان میزبان شناخته می‌شود، جز تلخی و ناامیدی چیزی به من نمی‌دهد و تنها حسرت و درد را در دل من می‌آفریند."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "خون سازد اگر دهد دمی آبم",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به من آب بدهی، جانم را زنده می‌کند و اگر لب به نان بگذاری، روح و زندگی‌ام را nourish می‌کند."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "جلاب عسل نداده بگشاید",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عسل به من نمی‌دهد، اما درد و غم مانند نشتر به رگ جانم نفوذ می‌کند و باعث آزارم می‌شود."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "زان سان که سگان به جیفه گرد آیند",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به طرز مشابهی که سگان به دور از چیزهای آلوده و کثیف جمع می‌شوند، من نیز افرادی را که به صفات و رفتارهای ناشایست مبتلا هستند به دور خود جمع می‌کنم و بر سر سفره‌ام می‌نشینم."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "این گاه همی زند به چنگالم",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این زمان، چیزی به دستم می‌آید و در زمان دیگر، چیزی مرا آزار می‌دهد."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "تا چند به خوان چرخ باید برد",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چقدر باید در زندگی تلاش کنم و زیر بار سختی بروم فقط برای به دست آوردن دو لقمه نان که حتی به من وفا نمی‌کنند؟"
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "این سفله که آسمانش می خوانند",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این موجود پست که به آسمان‌ها مربوط می‌شود، می‌دانم که چرا به من چنین رفتاری دارد."
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "قرصی دو فزون ندارد و داند",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در زندگی تنها یک قرص نان کافی نیست و او به خوبی می‌داند که در این دنیا با کمی از برگ و چوب نمی‌توان زندگی را گذراند و نیازها را تأمین کرد."
     },
     {
       "VOrder": 32,
@@ -255,7 +271,8 @@
       "Position": "Right",
       "Text": "ترسد که به کدیه صد معاذالله",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌ترسم که به خاطر کدورتی که پیش آمده، حتی یک لقمه از آن دو قرص نان را بگیرم."
     },
     {
       "VOrder": 34,
@@ -269,7 +286,8 @@
       "Position": "Right",
       "Text": "ای سفله اگر چه من گدا باشم",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای人 پستی، هرچند من فقیر و نیازمند باشم، در روزی که از نعمت‌های پروردگار بهره‌مند می‌شوم، تفاوتی بزرگ با تو دارم."
     },
     {
       "VOrder": 36,
@@ -283,7 +301,8 @@
       "Position": "Right",
       "Text": "من دست طمع ز نان تو شستم",
       "CoupletIndex": 18,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من دیگر به خوراک تو امیدوار نیستم، اما تو هم باید از اذیت کردن من دست برداری."
     },
     {
       "VOrder": 38,
@@ -297,7 +316,8 @@
       "Position": "Right",
       "Text": "صد شکر که بی نیازم از عالم",
       "CoupletIndex": 19,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بسیار خوشحالم که از جهان بی‌نیازم چون خدمتگزار پادشاه زمانه‌ام."
     },
     {
       "VOrder": 40,
@@ -311,7 +331,8 @@
       "Position": "Right",
       "Text": "آن کس که مرا بداد، دندان داد",
       "CoupletIndex": 20,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن کسی که به من بخشش کرد، در حقیقت دندان‌های من را تأمین کرد و من از مایحتاج خود محروم نیستم. من نان را از دست پادشاه ایران می‌گیرم."
     },
     {
       "VOrder": 42,
@@ -325,7 +346,8 @@
       "Position": "Right",
       "Text": "عباس شه آن که از کف رادش",
       "CoupletIndex": 21,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عباس، آن بزرگ مردی است که وقتی یک قطره از دستانش افتاد، به شجاعت و وفاداری خود اشاره کرد و گفت: «من از عمانم»."
     },
     {
       "VOrder": 44,
@@ -339,7 +361,8 @@
       "Position": "Right",
       "Text": "وز عکس فروغ مهر چهرش تافت",
       "CoupletIndex": 22,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از تابش نور چهره او، ذره‌ای نور بیرون آمد و گفت: من خورشید تابانم."
     },
     {
       "VOrder": 46,
@@ -353,7 +376,8 @@
       "Position": "Right",
       "Text": "از ریزه نان خوان او باشد",
       "CoupletIndex": 23,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از خرده نان سفره او، مغز من شکل گرفته که در دل کابینت من است."
     },
     {
       "VOrder": 48,
@@ -367,7 +391,8 @@
       "Position": "Right",
       "Text": "جانم به وجود جود او زنده است",
       "CoupletIndex": 24,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زندگی من به برکت وجود بخشندگی اوست، همانطور که خون در رگ‌ها و شریان‌هایم جریان دارد."
     },
     {
       "VOrder": 50,
@@ -381,7 +406,8 @@
       "Position": "Right",
       "Text": "گر کافر حق نعمتس باشم",
       "CoupletIndex": 25,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر من کافر نعمت‌های خدا باشم، واقعاً درست نیست که ایمان داشته باشم."
     },
     {
       "VOrder": 52,
@@ -395,7 +421,8 @@
       "Position": "Right",
       "Text": "ور منکر فضل و رحمتش گردم",
       "CoupletIndex": 26,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر من نسبت به فضل و رحمت او کفر بورزم، در واقع به لطف و کرم او دروغ گفته‌ام."
     },
     {
       "VOrder": 54,
@@ -409,7 +436,8 @@
       "Position": "Right",
       "Text": "تا دور ندیدم آسمان زان در",
       "CoupletIndex": 27,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی دور آسمان را ندیدم، با خشم و قدرت مانند شیر به سر به سویش دیدم."
     },
     {
       "VOrder": 56,
@@ -423,7 +451,8 @@
       "Position": "Right",
       "Text": "گوئی نه منم همان که می گفتی",
       "CoupletIndex": 28,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد تو نسبت به من نگرش خاصی داشتی و من را فردی با ارزش‌ بیشتری می‌دانستی، اما حالا به نظر می‌رسد که من همان کسی نیستم که تو تصور می‌کردی و از خطرات زندگی شکایت دارم."
     },
     {
       "VOrder": 58,
@@ -437,7 +466,8 @@
       "Position": "Right",
       "Text": "یک دم نه اگر به کام من گردد",
       "CoupletIndex": 29,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر لحظه‌ای خوشبختی به دست آورم، حتی اگر به اوج برسم، باز هم آن را به پستی و پیسی برمی‌گردانم."
     },
     {
       "VOrder": 60,
@@ -451,7 +481,8 @@
       "Position": "Right",
       "Text": "چون شد که کنون زجور و بیدادش",
       "CoupletIndex": 30,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا اکنون صدای ناله و فریاد من به عرش می‌رسد، در حالی که از ظلم و ستم او رنج می‌برم؟"
     },
     {
       "VOrder": 62,
@@ -465,7 +496,8 @@
       "Position": "Right",
       "Text": "ثعبان و اسد صریع من بودند",
       "CoupletIndex": 31,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امروز من به حالت ناتوانی افتاده‌ام و در کنار مشکلاتی که دارم، احساس می‌کنم به نوعی در برابر برخی دشمنان قدرتی ندارم. دیروز با موجودات خطرناک مواجه بودم اما حالا با چالش‌های جدیدی دست و پنجه نرم می‌کنم."
     },
     {
       "VOrder": 64,
@@ -479,7 +511,8 @@
       "Position": "Right",
       "Text": "ای شعبده گر فلک به شب بازی",
       "CoupletIndex": 32,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای جادوگر آسمان، چرا هر شب با بازی‌هایت مرا می‌ترسانی؟"
     },
     {
       "VOrder": 66,
@@ -493,7 +526,8 @@
       "Position": "Right",
       "Text": "من منتر مار و اژدها دارم",
       "CoupletIndex": 33,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از مخلوقاتی مانند مار و اژدها می‌ترسم، اما از عقرب کور خود نمی‌ترسم."
     },
     {
       "VOrder": 68,
@@ -507,7 +541,8 @@
       "Position": "Right",
       "Text": "این خامه شکسته باداگر باشد،",
       "CoupletIndex": 34,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر این قلم شکسته باشد، کمتر از عصای پسر عمران نیست."
     },
     {
       "VOrder": 70,
@@ -521,7 +556,8 @@
       "Position": "Right",
       "Text": "با آن که ثنای شه به روز و شب",
       "CoupletIndex": 35,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با وجود اینکه همیشه و در هر زمانی از ویژگی‌ها و صفات خوب او تعریف می‌کنم و این جملات را به زبان می‌آورم،"
     },
     {
       "VOrder": 72,
@@ -535,7 +571,8 @@
       "Position": "Right",
       "Text": "آن شاه که آسمان زجودش بود",
       "CoupletIndex": 36,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن پادشاهی که آسمان به خاطر بزرگواری‌اش همیشه در خدمت اوست، به من همواره لطف و احسان می‌کند."
     },
     {
       "VOrder": 74,
@@ -549,7 +586,8 @@
       "Position": "Right",
       "Text": "گر رزق جهان ز دخل دیوان داد",
       "CoupletIndex": 37,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر روزی دنیا به حساب دیوان‌ها باشد، فقط من هستم که حق و حقوقم مشخص است."
     },
     {
       "VOrder": 76,
@@ -563,7 +601,8 @@
       "Position": "Right",
       "Text": "دانم که ز راه تربیت خواهد",
       "CoupletIndex": 38,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌دانم که با تربیت درست، راه را صاف و هموار می‌کند و مثل یک نازک‌ناب رسیده خواهد شد."
     },
     {
       "VOrder": 78,
@@ -577,7 +616,8 @@
       "Position": "Right",
       "Text": "نه خام و جمام و خورده و خفته",
       "CoupletIndex": 39,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من نه مثل animals خام و نادان هستم و نه به حالت آماده و پرورده درآمده‌ام، بلکه به نوعی مثل خرها و گاوها زندگی می‌کنم."
     },
     {
       "VOrder": 80,
@@ -591,7 +631,8 @@
       "Position": "Right",
       "Text": "مضمار دهد مرا که پیش آرد",
       "CoupletIndex": 40,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: میدان مسابقه‌ای برای من فراهم می‌کند که در روزی مشخص، برتری خود را نسبت به سایرین نشان دهم."
     },
     {
       "VOrder": 82,
@@ -605,7 +646,8 @@
       "Position": "Right",
       "Text": "اوراقم از آن به اره پیراید",
       "CoupletIndex": 41,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برگ‌هایم را با تیغ تیز پیرایش می‌کند تا از درخت انگور، شاخه‌هایم بگذرد."
     },
     {
       "VOrder": 84,
@@ -619,7 +661,8 @@
       "Position": "Right",
       "Text": "تا رونق و آب من بیفزاید",
       "CoupletIndex": 42,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که زندگی من پررونق‌تر و شکوفا‌تر شود، مانند لعل که به وسیله سوهان صیقلی می‌شود، باید با چرخ روزگار بسازم."
     },
     {
       "VOrder": 86,
@@ -633,7 +676,8 @@
       "Position": "Right",
       "Text": "بیمارم و دردمند و او داند",
       "CoupletIndex": 43,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من بیمار و دردمند هستم و تنها او می‌داند چگونه می‌توان به من کمک کرد و مرا درمان کرد."
     },
     {
       "VOrder": 88,
@@ -647,7 +691,8 @@
       "Position": "Right",
       "Text": "گر تب، تب امتلا بود لاشک",
       "CoupletIndex": 44,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تب بیماری وجود نداشته باشد، پس بی‌شک از آن مراقبت و جلوگیری نمی‌شود و من در بحران و مشکل هستم."
     },
     {
       "VOrder": 90,
@@ -661,7 +706,8 @@
       "Position": "Right",
       "Text": "ورعلت من ز رنج استسقاست",
       "CoupletIndex": 45,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دلیل من از درد و رنج، عطش و نیاز به آب است، پس باید همیشه تشنه باقی بمانم."
     },
     {
       "VOrder": 92,
@@ -675,7 +721,8 @@
       "Position": "Right",
       "Text": "زین جوع و عطش بود اگر آخر",
       "CoupletIndex": 46,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر از این گرسنگی و تشنگی جانم به خطر بیفتد، ممکن است از این دو درد نجات پیدا کنم."
     },
     {
       "VOrder": 94,
@@ -689,7 +736,8 @@
       "Position": "Right",
       "Text": "وین طرفه که روزگار پندارد",
       "CoupletIndex": 47,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا بیان می‌شود که این موضوع جالب است که زمانه فکر می‌کند من به خاطر گرسنگی و تشنگی جانم را از دست می‌دهم."
     },
     {
       "VOrder": 96,
@@ -703,7 +751,8 @@
       "Position": "Right",
       "Text": "وان کور دل آسمان همی راند",
       "CoupletIndex": 48,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آسمان همواره به من بی‌محلی می‌کند و مثل یک سگ گرسنه از سفره‌اش دورم می‌کند."
     },
     {
       "VOrder": 98,
@@ -717,7 +766,8 @@
       "Position": "Right",
       "Text": "ای سفله تو کیستی که می رانی",
       "CoupletIndex": 49,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای بی‌ارزش، تو کیستی که این‌گونه مرا از سفره خاص خود رانده‌ای؟"
     },
     {
       "VOrder": 100,
@@ -731,7 +781,8 @@
       "Position": "Right",
       "Text": "هر چند مقل و مفلسم بینی",
       "CoupletIndex": 50,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچند به نظر می‌رسد که فاقد مال و ثروت هستم و در تنگدستی به سر می‌برم، اما در واقع نه به آب تشنه‌ام و نه به نان گرسنه‌ام."
     },
     {
       "VOrder": 102,
@@ -745,7 +796,8 @@
       "Position": "Right",
       "Text": "صد شکر که در وجود خود هر دم",
       "CoupletIndex": 51,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر لحظه سپاسگزارم که در زندگی‌ام از نعمت‌های گوناگون برخوردارم."
     },
     {
       "VOrder": 104,
@@ -759,7 +811,8 @@
       "Position": "Right",
       "Text": "مرغ دل و آتش غم اینک هست",
       "CoupletIndex": 52,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پرنده‌ی دل و شعله‌های غم اکنون存在 دارند، اگر حرص و طمع بر من چیره شود، پرنده‌ی بریانم."
     },
     {
       "VOrder": 106,
@@ -773,7 +826,8 @@
       "Position": "Right",
       "Text": "با چشمه چشم خون فشان فارغ",
       "CoupletIndex": 53,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با چشمان اشکبارم که همچون چشمه جریان دارد، بی‌نیاز از آب زلال و عطری خوشبو زندگی می‌کنم."
     },
     {
       "VOrder": 108,
@@ -787,7 +841,8 @@
       "Position": "Right",
       "Text": "جز خون جگر مباد در جامم",
       "CoupletIndex": 54,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جز خون دل چیزی دیگری در ظرف من نمانده است، وقتی که به شکرگزاری فکر می‌کنم. اگر بخواهم به سمت خواسته‌ام حرکت کنم."
     },
     {
       "VOrder": 110,
@@ -801,7 +856,8 @@
       "Position": "Right",
       "Text": "چون شاه ز مرحمت قرین آورد",
       "CoupletIndex": 55,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که پادشاه با مهربانی خود، من را در کنار گروهی از فرشتگان قرار داده است، دیگر من از نوع انسان نیستم."
     },
     {
       "VOrder": 112,
@@ -815,7 +871,8 @@
       "Position": "Right",
       "Text": "حیف است که باز حرص وادارد",
       "CoupletIndex": 56,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: متأسفانه که دوباره آدمی به خاطر نیازهای ساده‌اش مانند آب و غذا درگیر حرص و طمع شود، مثل یک حیوان که فقط به فکر بقا است."
     },
     {
       "VOrder": 114,
@@ -829,7 +886,8 @@
       "Position": "Right",
       "Text": "نزجوی مجره جرعه بربایم",
       "CoupletIndex": 57,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از جوی آب قطره‌ای برمی‌دارم و از خوشه‌های آسمان بهره‌مند می‌شوم."
     },
     {
       "VOrder": 116,
@@ -843,7 +901,8 @@
       "Position": "Right",
       "Text": "ای شاه جهان چو اینت فرمان است",
       "CoupletIndex": 58,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای شاه جهانی، چون این دستور تو است، من به عنوان یک بنده به اطاعت از آن اعتراف می‌کنم."
     },
     {
       "VOrder": 118,
@@ -857,7 +916,8 @@
       "Position": "Right",
       "Text": "دامن به دو عالم ار نیفشاندم",
       "CoupletIndex": 59,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دامنم را به دو جهان نیافشانم، شاید از چشمانم اشک بریزد."
     },
     {
       "VOrder": 120,
@@ -871,7 +931,8 @@
       "Position": "Right",
       "Text": "من هر دو جهان بداده بگرفته",
       "CoupletIndex": 60,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من برای دستیابی به مقام و عظمت، هر دو جهان را فدای یک دست از خاکی می‌کنم که در مسیر پادشاهی قرار دارد."
     },
     {
       "VOrder": 122,
@@ -885,7 +946,8 @@
       "Position": "Right",
       "Text": "آن یک کف اگر ز کف رود بالله",
       "CoupletIndex": 61,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر آن یک کف (دست) از دست من برود، قسم به خدا که نه در اندوه این موضوع هستم و نه در اندوه موضوع دیگر."
     },
     {
       "VOrder": 124,
@@ -899,7 +961,8 @@
       "Position": "Right",
       "Text": "پنداشت که بس گران خریدستم",
       "CoupletIndex": 62,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او تصور می‌کند که من آن خریدار را بسیار گران قیمت به دست آورده‌ام، اما در حقیقت او خریدار خوبی است که من از او خرید کرده‌ام."
     },
     {
       "VOrder": 126,
@@ -913,7 +976,8 @@
       "Position": "Right",
       "Text": "شاید که ازین زبون ترم دارد",
       "CoupletIndex": 63,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شاید من از این زبان بی‌زبان‌تر هستم، زیرا نمی‌توانم از آن فرار کنم."
     },
     {
       "VOrder": 128,
@@ -927,7 +991,8 @@
       "Position": "Right",
       "Text": "داند که گریز پا نیم ورنه",
       "CoupletIndex": 64,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌داند که من از او دوری می‌کنم، پس چرا هر بار باید فرار کنم؟"
     },
     {
       "VOrder": 130,
@@ -941,7 +1006,8 @@
       "Position": "Right",
       "Text": "صد بار به بال اگر زند سنگم",
       "CoupletIndex": 65,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر صد بار پرواز کنم، حتی اگر سنگی بر بام بیفتم، پرواز کردن برایم غیرممکن است."
     },
     {
       "VOrder": 132,
@@ -955,7 +1021,8 @@
       "Position": "Right",
       "Text": "سی سال به آستانش خو کردم",
       "CoupletIndex": 66,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سی سال به آستان او عادت کرده‌ام و حالا نمی‌دانم به کجا بروم و به کدام درگاه پناه ببرم."
     },
     {
       "VOrder": 134,
@@ -969,7 +1036,8 @@
       "Position": "Right",
       "Text": "گیرم که روم، کجا توانم رفت؟",
       "CoupletIndex": 67,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر فرض کنیم که من بروم، کجا می‌توانم بروم؟ حتی اگر هزاران دستور از تو به من برسد، باز هم نمی‌دانم کجا باید بروم."
     },
     {
       "VOrder": 136,
@@ -983,7 +1051,8 @@
       "Position": "Right",
       "Text": "من بنده، ولی چه گونه بپذیرم",
       "CoupletIndex": 68,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من بنده هستم، اما چگونه می‌توانم حکمی را بپذیرم که فراتر از توانایی‌ام است؟"
     },
     {
       "VOrder": 138,
@@ -997,7 +1066,8 @@
       "Position": "Right",
       "Text": "این بود سزای من که بفروشی،",
       "CoupletIndex": 69,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مجازاتی که من دریافت کردم این بود که تو گاهی مرا به شخصی و گاهی به شخص دیگری می‌فروشی."
     },
     {
       "VOrder": 140,
@@ -1011,7 +1081,8 @@
       "Position": "Right",
       "Text": "چون راه وفا به راستی رفتم",
       "CoupletIndex": 70,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چون در مسیر وفا و صداقت گام برداشتم، به قدری شایسته و ارزشمند شدم که به اندازه صد هزار فرد دیگر می‌توانم ارزش داشته باشم."
     },
     {
       "VOrder": 142,
@@ -1025,7 +1096,8 @@
       "Position": "Right",
       "Text": "ای خواجه بیا به هیچ بفروشم",
       "CoupletIndex": 71,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دوست، اگرچه بپذیری به بهای ناچیز، من هرگز ارزان نمی‌فروشم و حاضر نیستم چیزی را با این شرایط از دست بدهم."
     },
     {
       "VOrder": 144,
@@ -1039,7 +1111,8 @@
       "Position": "Right",
       "Text": "ای گردش دهر خوار تر خواهم",
       "CoupletIndex": 72,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای روزگار، من تو را حقیرتر می‌خواهم و می‌خواهم که قدرت و قهر تو را دور تر از خودم برانم."
     },
     {
       "VOrder": 146,
@@ -1053,7 +1126,8 @@
       "Position": "Right",
       "Text": "چون شمع به خواهش دل جمعی",
       "CoupletIndex": 73,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مثل شمع، به خاطر خواسته دل، تعدادی از شعله‌های وجودم را فدای عشق می‌کنم."
     },
     {
       "VOrder": 148,
@@ -1067,7 +1141,8 @@
       "Position": "Right",
       "Text": "در آتش دل چو لاله بفروزم",
       "CoupletIndex": 74,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در آتش دل مانند لاله سوزان هستم و اگرچه در درونم خون جاری است، مانند غنچه‌ای که در انتظار رو شدن است، خود را پنهان می‌کنم."
     },
     {
       "VOrder": 150,
@@ -1081,7 +1156,8 @@
       "Position": "Right",
       "Text": "چون ژاله به خاک ره ببندازم",
       "CoupletIndex": 75,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نگذارید اشک‌هایم بر زمین بریزد، مثل قطره‌های باران، و همان‌طور که شراب در خونم جاری است، خود را به گردش درآورم."
     },
     {
       "VOrder": 152,
@@ -1095,7 +1171,8 @@
       "Position": "Right",
       "Text": "ای تیغ بلا ببر نخ عمرم",
       "CoupletIndex": 76,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای شمشیر سختی‌ها، عمر من را قطع کن، ای زهر ستم، به جانم آسیب بزن."
     },
     {
       "VOrder": 154,
@@ -1109,7 +1186,8 @@
       "Position": "Right",
       "Text": "ای خنجر کین بخار حلقومم",
       "CoupletIndex": 77,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای خنجر کین، تو به جانم نفوذ کرده‌ای و ای نشتر غم، در شریان‌های زندگی‌ام را می‌کاوی."
     },
     {
       "VOrder": 156,
@@ -1123,7 +1201,8 @@
       "Position": "Right",
       "Text": "ای خنجر کین بخار حلقومم",
       "CoupletIndex": 78,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای خنجر کین، تو به قلبم نفوذ کرده‌ای و ای درد ناشی از غم، تو شریان‌های وجودم را می‌کنی."
     },
     {
       "VOrder": 158,
@@ -1137,7 +1216,8 @@
       "Position": "Right",
       "Text": "تا من باشم که قدر نعمت را",
       "CoupletIndex": 79,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که من هستم، ارزش نعمت‌ها را در خدمت به درگاه شاه می‌دانم."
     },
     {
       "VOrder": 160,
@@ -1151,7 +1231,8 @@
       "Position": "Right",
       "Text": "یک روز ز خلد حضرت ار، دورم",
       "CoupletIndex": 80,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک روز از بهشت دورم و نزدیک به هزاران آتش و درد و رنج هستم."
     },
     {
       "VOrder": 162,
@@ -1165,7 +1246,8 @@
       "Position": "Right",
       "Text": "هم باز چو بار قرب دریابم",
       "CoupletIndex": 81,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دوباره به بار عشق نزدیک شوم، آتش وجودم خاموش می‌شود و به باغی سرشار از گل و سرسبزی بدل می‌گردم."
     },
     {
       "VOrder": 164,
@@ -1179,7 +1261,8 @@
       "Position": "Right",
       "Text": "ای شاه جهان نه حد من باشد",
       "CoupletIndex": 82,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای پادشاه جهان، من در این جایگاه نیستم که چنین سخنانی را در حضور تو بیان کنم."
     },
     {
       "VOrder": 166,
@@ -1193,7 +1276,8 @@
       "Position": "Right",
       "Text": "لیکن به خدا نمانده با این حال",
       "CoupletIndex": 83,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اما به خدا دیگر نمی‌توانم سکوت کنم و چیزی را پنهان نگه‌دارم."
     },
     {
       "VOrder": 168,
@@ -1207,7 +1291,8 @@
       "Position": "Right",
       "Text": "صد گریه نهفته در گلو دارم",
       "CoupletIndex": 84,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در ظاهر ممکن است شاد و خندان به نظر برسم، اما در درونم دردها و غم‌های زیادی را پنهان کرده‌ام که مانند گریه‌ای در گلویم می‌ماند."
     },
     {
       "VOrder": 170,
@@ -1221,7 +1306,8 @@
       "Position": "Right",
       "Text": "گر رای تو بود این که من یک چند",
       "CoupletIndex": 85,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نظر تو این است که من برای مدتی از این سرزمین دور بمانم، پس..."
     },
     {
       "VOrder": 172,
@@ -1235,7 +1321,8 @@
       "Position": "Right",
       "Text": "بایست به من نهفته فرمائی",
       "CoupletIndex": 86,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باید به من بگویی که از آن روز که تصمیم به رفتن به تهران گرفتم، چه چیزی در دل داشتی."
     },
     {
       "VOrder": 174,
@@ -1249,7 +1336,8 @@
       "Position": "Right",
       "Text": "نه این که به کام دشمنان سازی",
       "CoupletIndex": 87,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تنها این نیست که به خواسته‌ی دشمنان خود، در زمینه فرهنگ و تاریخ ایران و روم، آبرویم را برملا کنم."
     },
     {
       "VOrder": 176,
@@ -1263,7 +1351,8 @@
       "Position": "Right",
       "Text": "من کیستم آخر ای خدا کآرند",
       "CoupletIndex": 88,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من چه کسی هستم، ای خدا، که نامم را به عنوان کسی مهم و بزرگ در برابر پادشاه کیهان ذکر کرده‌اند؟"
     },
     {
       "VOrder": 178,
@@ -1277,7 +1366,8 @@
       "Position": "Right",
       "Text": "وان گاه رسول ناامین باشد",
       "CoupletIndex": 89,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر روزی پیامبری که مورد اعتماد نیست برود، چه ضعیف و بی‌ارزشی که به مادر شما ناسزا می‌گوید."
     },
     {
       "VOrder": 180,
@@ -1291,7 +1381,8 @@
       "Position": "Right",
       "Text": "او ماشطگی نکو همی داند",
       "CoupletIndex": 90,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او به زیبایی و هنر آرایش بسیار آگاه است، اما من از میانه‌روی و تعادل در این کار آگاهی ندارم."
     },
     {
       "VOrder": 182,
@@ -1305,7 +1396,8 @@
       "Position": "Right",
       "Text": "دانم که چو باز گردد از این شهر",
       "CoupletIndex": 91,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌دانم وقتی به این شهر برگردی، دوباره هزاران اتهام و تهمت به من خواهی زد."
     },
     {
       "VOrder": 184,
@@ -1319,7 +1411,8 @@
       "Position": "Right",
       "Text": "چون خادمکی دگر که می گویند",
       "CoupletIndex": 92,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من همچون خادمی دیگر هستم که به گفته‌ها و ویژگی‌های محبوبیت و ارزش خود توجه دارم و به دل مهران وابسته‌ام."
     },
     {
       "VOrder": 186,
@@ -1333,7 +1426,8 @@
       "Position": "Right",
       "Text": "مپسند به من که ناکسی فضاح",
       "CoupletIndex": 93,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نپسند که من شخص ناکس و بی‌ارزشی باشم که به میهمانی بزرگان و شاهان، بی‌احترامی و عیب‌جویی کنم."
     },
     {
       "VOrder": 188,
@@ -1347,7 +1441,8 @@
       "Position": "Right",
       "Text": "از قول تو گوید و نه قول تست",
       "CoupletIndex": 94,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌گوید که از قول تو صحبت می‌کند و نه از قول خودت، قسم به ذات پاک خداوند."
     },
     {
       "VOrder": 190,
@@ -1361,7 +1456,8 @@
       "Position": "Right",
       "Text": "حاشا نکنم که کرده ای سی سال",
       "CoupletIndex": 95,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرگز انکار نمی‌کنم که به مدت سی سال از دریای generosity و بخشش تو سیراب شده‌ام."
     },
     {
       "VOrder": 192,
@@ -1375,7 +1471,8 @@
       "Position": "Right",
       "Text": "زان سان که ز سر گذشت چندین بار",
       "CoupletIndex": 96,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چندین بار به طرز عجیبی خوشی و بخشندگی من همچون سیلابی سرکش از دریا به تلاطم افتاده و از کنترل خارج شده است."
     },
     {
       "VOrder": 194,
@@ -1389,7 +1486,8 @@
       "Position": "Right",
       "Text": "اما نه چنان که قطره ای زان بحر",
       "CoupletIndex": 97,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اما نه به گونه‌ای که مانند یک قطره از آن دریا در گلو فرو رود و پنهان بمانم."
     },
     {
       "VOrder": 196,
@@ -1403,7 +1501,8 @@
       "Position": "Right",
       "Text": "بل بین و فاش آشکار آن سانک",
       "CoupletIndex": 98,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باران به‌گونه‌ای نازل می‌شود که کاملاً واضح و روشن است؛ همچنان که در فصل بهار، ابرها آسمان را می‌پوشانند."
     },
     {
       "VOrder": 198,
@@ -1417,7 +1516,8 @@
       "Position": "Right",
       "Text": "من نیز به سفره کیست کو گوید:",
       "CoupletIndex": 99,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من هم در کنار کسانی هستم که می‌گویند: با تلاش و کوشش تو، من چیزی از سلیمان کمتر ندارم."
     },
     {
       "VOrder": 200,
@@ -1431,7 +1531,8 @@
       "Position": "Right",
       "Text": "یا آن که به صدر ثروت و سامان",
       "CoupletIndex": 100,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا کسی که در اوج ثروت و قدرت است، بهتر از من نیست که از نسل بزرگانی هستم؟"
     },
     {
       "VOrder": 202,
@@ -1445,7 +1546,8 @@
       "Position": "Right",
       "Text": "یا آن که به کاخ غرفه و دیوان",
       "CoupletIndex": 101,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شاید تو در کاخ و دیوان اعلی، یا در مقام خدمتگزار، جایگاه بهتری داشته باشی، اما من از نعمان (که احتمالاً به عنوان یک شخصیت مهم اشاره شده است) کمتر نیستم."
     },
     {
       "VOrder": 204,
@@ -1459,7 +1561,8 @@
       "Position": "Right",
       "Text": "هم خوردم و هم خوراندام از جودت",
       "CoupletIndex": 102,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از سخاوت تو آنقدر خوردم و به دیگران هم خوراندم که حالا مانده‌ام در شماره و حساب همه این نعمت‌ها."
     },
     {
       "VOrder": 206,
@@ -1473,7 +1576,8 @@
       "Position": "Right",
       "Text": "دادم به خلایق و نپرسیدم",
       "CoupletIndex": 103,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به مردم بخشیدم و از آن‌ها نپرسیدم که آیا این کار من به نفع خودم است یا تنها برای کمک به دیگران انجام می‌دهم؟"
     },
     {
       "VOrder": 208,
@@ -1487,7 +1591,8 @@
       "Position": "Right",
       "Text": "زینان که چو گرگ خون من نوشند",
       "CoupletIndex": 104,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که زمانی که افرادی مانند گرگ‌ها خون من را می‌نوشند، دیگر چه کسی وجود دارد که من آنها را گربه بنامم؟ به عبارت دیگر، شاعر به این مسئله اشاره دارد که در میان کسانی که از او آسیب می‌زنند، هیچ کس را نمی‌توان بی‌ضرر یا کوچک دانست. این بیان نشان‌دهنده‌ی احساس تنهایی و خطر است که شاعر در آن احساس می‌کند."
     },
     {
       "VOrder": 210,
@@ -1501,7 +1606,8 @@
       "Position": "Right",
       "Text": "ایشان نه اگر خجل ز من باشند",
       "CoupletIndex": 105,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آنها اگر از من شرمنده باشند، من خودم از حیا و شرمشان خجالت‌زده هستم."
     },
     {
       "VOrder": 212,
@@ -1515,7 +1621,8 @@
       "Position": "Right",
       "Text": "پاداش من است اگر درین گلشن",
       "CoupletIndex": 106,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در این باغ سرسبز بایستم، پاداش من همین است که مانند بهشتیان زندگی کنم."
     },
     {
       "VOrder": 214,
@@ -1529,7 +1636,8 @@
       "Position": "Right",
       "Text": "تا من باشم که خار گلخن را",
       "CoupletIndex": 107,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که من هستم، نمی‌گذارم خار گلخن در باغ مخصوص شاه قرار گیرد."
     },
     {
       "VOrder": 216,
@@ -1543,7 +1651,8 @@
       "Position": "Right",
       "Text": "من هر چه کنم گنه بود لیکن",
       "CoupletIndex": 108,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کاری که انجام دهم، گناه است، اما به خاطر رحمت و لطف تو، منتظر بخشش هستم."
     },
     {
       "VOrder": 218,
@@ -1557,7 +1666,8 @@
       "Position": "Right",
       "Text": "هر چند مرا فزون شود عصیان",
       "CoupletIndex": 109,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با وجود اینکه گناهم زیاد می‌شود، اما بخشش تو از گناه من بیشتر است."
     },
     {
       "VOrder": 220,
@@ -1571,7 +1681,8 @@
       "Position": "Right",
       "Text": "امروز زهر چه کرده ام تا حال",
       "CoupletIndex": 110,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امروز از کارهایی که انجام داده‌ام و همچنین از کارهایی که انجام نداده‌ام، احساس پشیمانی می‌کنم."
     },
     {
       "VOrder": 222,
@@ -1585,7 +1696,8 @@
       "Position": "Right",
       "Text": "افسوس که پیر گشتم و هم باز،",
       "CoupletIndex": 111,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: متأسفانه به زمینۀ زندگی و تجربه‌های گذرانده‌ام نگاهی می‌اندازم و می‌بینم که هنوز هم مانند یک کودک ناآگاه در امور دنیا ناامید و سردرگم هستم."
     },
     {
       "VOrder": 224,
@@ -1599,7 +1711,8 @@
       "Position": "Right",
       "Text": "نه سالک راه و رسم تزویرم",
       "CoupletIndex": 112,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من نه از آنانی هستم که در راه فریب و نیرنگ گام بردارم و نه عالم به تهمت و دروغگویی."
     },
     {
       "VOrder": 226,
@@ -1613,7 +1726,8 @@
       "Position": "Right",
       "Text": "نه فن فساد و فتنه می ورزم",
       "CoupletIndex": 113,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من نه به شیوه‌ای فساد و اختلاف می‌پردازم و نه به یادگیری دروس ریاکاری و جلب توجه دیگران مشغول هستم."
     },
     {
       "VOrder": 228,
@@ -1627,7 +1741,8 @@
       "Position": "Right",
       "Text": "نه منشی کارهای مذمومم",
       "CoupletIndex": 114,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من نه کسی هستم که کارهای ناپسند را ثبت کند و نه عالم به مسائل پنهانی."
     },
     {
       "VOrder": 230,
@@ -1641,7 +1756,8 @@
       "Position": "Right",
       "Text": "نه مانع برگ عیش درویشم",
       "CoupletIndex": 115,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نه چیزی مانع لذت‌بردن من می‌شود و نه کمبود روزی به من آسیب می‌زند. من در جایگاه خودم هستم."
     },
     {
       "VOrder": 232,
@@ -1655,7 +1771,8 @@
       "Position": "Right",
       "Text": "زان است که هر زمان بلائی نو",
       "CoupletIndex": 116,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به همین دلیل هر لحظه مصیبت جدیدی بر من نازل می‌شود، به خاطر ظلم و سختی‌های زمانه‌ای که در آن زندگی می‌کنم."
     },
     {
       "VOrder": 234,
@@ -1669,7 +1786,8 @@
       "Position": "Right",
       "Text": "مانند زری که سکه کم گیرد",
       "CoupletIndex": 117,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مانند زری که سکه کم می‌آورد، من هم همیشه تحت فشار و سختی‌ام."
     },
     {
       "VOrder": 236,
@@ -1683,7 +1801,8 @@
       "Position": "Right",
       "Text": "چون سیم دغل به هر که بدهندم",
       "CoupletIndex": 118,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی را که به او سیمی بدهند، دوباره به روش‌های فریبنده‌اش برمی‌گرداند و آن را به فروشگاه خود برمی‌گرداند."
     },
     {
       "VOrder": 238,
@@ -1697,7 +1816,8 @@
       "Position": "Right",
       "Text": "ناچیزتر از خزف به بازارم",
       "CoupletIndex": 119,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به اندازه‌ای کم اهمیت هستم که مانند چیز بی‌ارزشی به بازار آمده‌ام و از نظر ارزش، از سنگ‌های قیمتی هم بی‌ارزش‌ترم."
     },
     {
       "VOrder": 240,
@@ -1711,7 +1831,8 @@
       "Position": "Right",
       "Text": "از کار معاد خویش مشغولم",
       "CoupletIndex": 120,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در فکر و نگرانی از نتیجه کارهایم هستم، اما در مورد تأمین روزی و زندگی‌ام سردرگم هستم."
     },
     {
       "VOrder": 242,
@@ -1725,7 +1846,8 @@
       "Position": "Right",
       "Text": "در بند وفا ز طبع آزادم",
       "CoupletIndex": 121,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به خاطر وفا و وفاداری در قید و بند هستم، و به دلیل خیانت دوستان در دچار مشکل و سختی شده‌ام."
     },
     {
       "VOrder": 244,
@@ -1739,7 +1861,8 @@
       "Position": "Right",
       "Text": "از بس که زجان خویش دل تنگم",
       "CoupletIndex": 122,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر اینکه از دل به زندگی خود ناراحت و مضطرب هستم، احساس می‌کنم که پوست به تنم مانند زندانی شده است."
     },
     {
       "VOrder": 246,
@@ -1753,7 +1876,8 @@
       "Position": "Right",
       "Text": "وز بس که زهم رهان جفا دیدم",
       "CoupletIndex": 123,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر اینکه به شدت از درد و رنجی که از دیگران کشیده‌ام، اکنون حتی از وجود خودم هم می‌ترسم."
     },
     {
       "VOrder": 248,
@@ -1767,7 +1891,8 @@
       "Position": "Right",
       "Text": "از تیغ جفای چرخ مذبوحم",
       "CoupletIndex": 124,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در جفای روزگار چنان آسیب دیده‌ام که در کوی وفا، جانم را فدای عشق خود می‌کنم."
     },
     {
       "VOrder": 250,
@@ -1781,7 +1906,8 @@
       "Position": "Right",
       "Text": "نه در غم خانمان تبریزم",
       "CoupletIndex": 125,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نه در اندوه خانه‌ام در تبریز هستم و نه در جستجوی کار و معیشت در تهران."
     },
     {
       "VOrder": 252,
@@ -1795,7 +1921,8 @@
       "Position": "Right",
       "Text": "ای شاه جهان بیا ترحم کن",
       "CoupletIndex": 126,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای پادشاه بزرگ، به من رحم کن، زیرا زندگی‌ام تحت تأثیر سختی‌ها و چالش‌ها قرار گرفته است."
     },
     {
       "VOrder": 254,
@@ -1809,7 +1936,8 @@
       "Position": "Right",
       "Text": "امساک اگر کنی به معروفم",
       "CoupletIndex": 127,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دست از خودخواهی برداری و خوبی‌هایت را به وضوح نشان دهی، من هم با نیکی رفتار می‌کنم."
     },
     {
       "VOrder": 256,
@@ -1823,7 +1951,8 @@
       "Position": "Right",
       "Text": "بعد از چل و هفت سال عمر آخر",
       "CoupletIndex": 128,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بعد از چهل و هفت سال زندگی، دیگر چه چیزی از تو پنهان می‌ماند که بخواهم به سمت آن بروم؟"
     },
     {
       "VOrder": 258,
@@ -1837,7 +1966,8 @@
       "Position": "Right",
       "Text": "من قحبه نیم که هر زمان جائی",
       "CoupletIndex": 129,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من آدمی نیستم که هر بار در جایی نشسته و دلبسته کسی شوم."
     },
     {
       "VOrder": 260,
@@ -1851,7 +1981,8 @@
       "Position": "Right",
       "Text": "هر روز مبر به چنگ ضرغامم",
       "CoupletIndex": 130,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر روز در پی نگیری که من مثل شیر قوی و نیرومند هستم، و هر بار هم به کام مارهای خطرناک و مضر نمی‌روم."
     },
     {
       "VOrder": 262,
@@ -1865,7 +1996,8 @@
       "Position": "Right",
       "Text": "شاید که شنیده باشی از خارج",
       "CoupletIndex": 131,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شاید از وضعیت مزارع فراهانم چیزی شنیده باشی."
     },
     {
       "VOrder": 264,
@@ -1879,7 +2011,8 @@
       "Position": "Right",
       "Text": "وان قصه دستجان و ساروقم",
       "CoupletIndex": 132,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این دو داستان من هستند؛ یکی از آن‌ها درباره دستجان و دیگری درباره ساروق. همچنین به بخش‌هایی از کازران و سیران نیز اشاره می‌کنم."
     },
     {
       "VOrder": 266,
@@ -1893,7 +2026,8 @@
       "Position": "Right",
       "Text": "وان غصه کار و بار مغشوشم",
       "CoupletIndex": 133,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: غم و اندوهی که بر دوش دارم، تمام زندگی‌ام را تحت تاثیر قرار داده و وضعی آشفته برایم به وجود آورده است. این درد و دلشکستگی باعث شده خانه‌ام به ویرانه‌ای تبدیل شود."
     },
     {
       "VOrder": 268,
@@ -1907,7 +2041,8 @@
       "Position": "Right",
       "Text": "جانم به ستوه آمد از استو",
       "CoupletIndex": 134,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جانم از تحمل سختی‌ها به تنگ آمده است، پس چه برسد به اینکه بخواهم به کارهای بزرگ و مهم فکر کنم."
     },
     {
       "VOrder": 270,
@@ -1921,7 +2056,8 @@
       "Position": "Right",
       "Text": "جانم به ستوه آمد از استو",
       "CoupletIndex": 135,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زندگی ام به شدت سخت و طاقت‌فرسا شده و دیگر توان ادامه دادن را ندارم، چه برسد به اینکه به جایی بزرگتر و مهم‌تر برسم."
     },
     {
       "VOrder": 272,
@@ -1935,7 +2071,8 @@
       "Position": "Right",
       "Text": "زان پس که هزاوه رفت و مهرآباد",
       "CoupletIndex": 136,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پس از اینکه هزاوه (منظور منطقه‌ای در ایران) رفت و مهرآباد (مناطق دیگر) نماند، من در غم و اندوه همچنان باقی‌ام."
     },
     {
       "VOrder": 274,
@@ -1949,7 +2086,8 @@
       "Position": "Right",
       "Text": "خدام کمین که پیش ازین بودند",
       "CoupletIndex": 137,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خدامی که قبلاً در کاخ و ایوان من مشغول به خدمت بودند، اکنون در حال آمادگی و انتظار برای حضور من هستند."
     },
     {
       "VOrder": 276,
@@ -1963,7 +2101,8 @@
       "Position": "Right",
       "Text": "امروز به بین که چون هجوم آرند",
       "CoupletIndex": 138,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امروز نگاهی بینداز که چگونه بر آب و زمین و باغ و بستانم هجوم می‌آورند."
     },
     {
       "VOrder": 278,
@@ -1977,7 +2116,8 @@
       "Position": "Right",
       "Text": "بستان و سرای من طمع دارند",
       "CoupletIndex": 139,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باغ و خانه من برای دربان امید و آرزو دارند، زیرا که من به آن‌ها زندگی و رونق می‌بخشم."
     },
     {
       "VOrder": 280,
@@ -1991,7 +2131,8 @@
       "Position": "Right",
       "Text": "از اهل وطن خراب شد یک جا",
       "CoupletIndex": 140,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در هر نقطه‌ای از سرزمینم که بنایی خراب شده، دلم برای زادگاهم می‌تپیذ."
     },
     {
       "VOrder": 282,
@@ -2005,7 +2146,8 @@
       "Position": "Right",
       "Text": "بل گرسنه در عراق محصورند",
       "CoupletIndex": 141,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در عراق، مردان و زنان فعلاً در محاصره‌ای گرسنگی قرار دارند."
     },
     {
       "VOrder": 284,
@@ -2019,7 +2161,8 @@
       "Position": "Right",
       "Text": "مگذار چنین به دست نامردان",
       "CoupletIndex": 142,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اجازه نده که کارها به دست افرادی نالایق بیفتد، مگر اینکه این کار را از مردان واقعی بخواهی."
     },
     {
       "VOrder": 286,
@@ -2033,7 +2176,8 @@
       "Position": "Right",
       "Text": "خود جز تو کس دگر کجا باشد",
       "CoupletIndex": 143,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فکر و خیال من فقط به تو مربوط است و هیچ کس دیگری در این زمینه برایم اهمیت ندارد."
     },
     {
       "VOrder": 288,
@@ -2047,7 +2191,8 @@
       "Position": "Right",
       "Text": "آنم که نباشد ایچ غم خواری",
       "CoupletIndex": 144,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من کسی هستم که هیچ غمی برایم وجود ندارد، جز لطف و رحمتی که تو و خدای بزرگ به من دارید."
     },
     {
       "VOrder": 290,
@@ -2061,7 +2206,8 @@
       "Position": "Right",
       "Text": "بعد از پدر و برادر و خویشان",
       "CoupletIndex": 145,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پس از پدر و برادر و دیگر نزدیکان، تنها در منزل غم و اندوه خود مانده‌ام."
     },
     {
       "VOrder": 292,
@@ -2075,7 +2221,8 @@
       "Position": "Right",
       "Text": "تنها شدم و به کام دشمن ها",
       "CoupletIndex": 146,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تنها شدم و به دست دشمنان افتادم، بی‌چاره و بی‌صدا و بی‌ساز و سامان هستم."
     },
     {
       "VOrder": 294,
@@ -2089,7 +2236,8 @@
       "Position": "Right",
       "Text": "آسان ز تو بازگردد این مشکل",
       "CoupletIndex": 147,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این مشکل به راحتی می‌تواند حل شود، چون خود تو نیز برای من آسانی می‌آوری."
     },
     {
       "VOrder": 296,
@@ -2103,7 +2251,8 @@
       "Position": "Right",
       "Text": "با آن که ز صدر عزو جاه از تو",
       "CoupletIndex": 148,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با وجود اینکه مقام و اعتبارم از تو دور شده، اکنون در گوشه‌ای از غم و اندوه نشسته‌ام."
     },
     {
       "VOrder": 298,
@@ -2117,7 +2266,8 @@
       "Position": "Right",
       "Text": "بالله که نخواهم از خدای خود",
       "CoupletIndex": 149,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خدا قسم، تنها چیزی که از خدای خود می‌خواهم این است که جانم فدای تو شود."
     },
     {
       "VOrder": 300,
@@ -2131,7 +2281,8 @@
       "Position": "Right",
       "Text": "گویی همه شیر درد وغم دادم",
       "CoupletIndex": 150,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد که همه درد و غم‌های زندگی را به مادر می‌دهم، چرا که او در حال حاضر تنها تسکین‌دهنده من است و درست مانند زمانی که شیرش را به من می‌دهد."
     },
     {
       "VOrder": 302,
@@ -2145,7 +2296,8 @@
       "Position": "Right",
       "Text": "من واپس کاروان و پیش از من",
       "CoupletIndex": 151,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از کاروان عقب مانده‌ام و برادران و بستگانم پیش از من رفته‌اند."
     },
     {
       "VOrder": 304,
@@ -2159,7 +2311,8 @@
       "Position": "Right",
       "Text": "گر در غم صد چو ماه کنعان بود",
       "CoupletIndex": 152,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در غم و اندوه، صد نفر مثل ماه زیبای کنعان باشند، من می‌گویم که من هم از نسل همین پیر کنعان هستم."
     },
     {
       "VOrder": 306,
@@ -2173,7 +2326,8 @@
       "Position": "Right",
       "Text": "یارب تو، به فضل خویشتن باری،",
       "CoupletIndex": 153,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خدایا، لطف و عنایت خود را نازل کن و مرا از این چاهی که پر از ترس و خطر است نجات بده."
     },
     {
       "VOrder": 308,

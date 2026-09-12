@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "هرچیز که آن برای ما خواهد بود",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچیزی که برای ما مقدر شده است، در حقیقت برای ما سختی و چالش خواهد بود."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "چون تفرقه در بقای ما خواهد بود",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در میان ما تفرقه و جدایی وجود داشته باشد، این موضوع باعث خواهد شد که جمعیت ما به نابودی نزدیک شود."
     },
     {
       "VOrder": 4,

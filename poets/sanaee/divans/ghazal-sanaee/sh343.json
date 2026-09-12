@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "اسب را باز کشیدی در زین",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اسب را رها کردی و راهت را به سمت خانه انتخاب کردی."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "راه بیداری آوردی پیش",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تویی که راه بیداری را به من نشان دادی، اما دل مرا گمراه و غمگین کردی."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "بدل و شق بپوشیدی درع",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو لباس دیگری بر تن کردی و جامی از زوبین (نیزه) به دست گرفتی."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "دست بردی به سوی تیر و کمان",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو به سوی تیر و کمان دستی دراز کردی و به میدان جنگ و کمین نگاه کردی."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "نه براندیشی از کرب زمان",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نه از فکر و تدبیر زمانه بهره‌ای داری، و نه بر انسان‌ها رحم و محبت دلی."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "تا نبینم رخ چون ماه ترا",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که چهره زیبای تو را نبینم، اشک از چشمانم بر چهره پروین می‌ریزم."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "چون بخسبم ز فراق تو مرا",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که بخوابم و دوری تو را حس کنم، غم و اندوه من بیشتر می‌شود و بستر من و بالشم را پر از سردرگمی می‌سازد."
     },
     {
       "VOrder": 14,

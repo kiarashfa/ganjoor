@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "بی کار دلا به کارفرما نرسی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دست به کار نشوی و تلاش نکنی، هرگز به مقصود و هدف خود نخواهی رسید. پس برای موفقیت باید تلاش و کوشش داشته باشی."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "کار خود از امروز به فردا مفکن",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کارهای خود را به فردا موکول نکن، زیرا ممکن است به آن روز نرسی و فرصت را از دست بدهی."
     },
     {
       "VOrder": 4,

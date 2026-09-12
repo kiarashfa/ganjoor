@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای آن‌که طبیب دردهای مایی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که درمانگر دردهای ما هستی، این درد به حدی شدید شده که چه می‌کنی؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "والله اگر هزار معجون داری",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: قسم به خدا، حتی اگر هزار دارو و معجون داشته باشی، من جانم را نخواهم گرفت تا زمانی که تو رویت را به من نشان دهی."
     },
     {
       "VOrder": 4,

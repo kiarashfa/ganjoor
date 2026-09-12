@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "منظور طبیب آنکه بیمار تر است",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: منظور پزشک این است که کسی که بیمارتر است، لیاقت بخشش بیشتری دارد؛ همچنین کسی که گناهکارتر است نیز سزاوار عفو و بخشش است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "از خاک مذلتش مگر بر دارند",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر از خاک ذلتش بلندش کنند، پس حق دارد که به حالت افتادگی باقی بماند."
     },
     {
       "VOrder": 4,

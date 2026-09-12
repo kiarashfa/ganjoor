@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "چو از گشت زمان آلمان و اتریش",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی زمان به جلو رفت، آلمان و اتریش تحت سلطه حزب نازی قرار گرفتند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "بپا گردید جنگی خانمان‌سوز",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جنگی به وجود آمد که بسیار ویرانگر و بی‌سابقه بود و هیچ‌کس نمی‌تواند مانند آن را به یاد بیاورد."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "ز ده کشور فزون در چنگ آلمان",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به دستور یک ضربه، آلمان در صحنه‌ای بزرگ از ده کشور بیشتر به دست آورد و آنها را از چنگ هستی نجات داد."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "عروس دهر پاریس نکو روی",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زیبای پری چهره، عروس زمانه، در عروسی این تازه داماد خوابیده است."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "به پیش این قضای آسمانی",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در برابر تقدیر و سرنوشت آسمانی، تنها در انگلستان است که ایستاده‌ام."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "ولی ملک عراق اندر میانه",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ملک عراق ناگهان دست به یک کودتا زد و همه چیز را تغییر داد."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "«‌رشید عالی‌» از اعیان تازی",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: رشید عالی از افراد برجسته عرب، به تحریک و شورش دست زد."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "وزان پیمان که با انگلستان بود",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در پی توافقی که با انگلستان صورت گرفت، از آن عبور کرد و اعلام جنگ را به صدا درآورد."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "به قصد پادگان انگلستان",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سپاه به منظور ایجاد یک پایگاه نظامی به سوی انگلستان نیروهایی را از همه سو به حرکت درآورد."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "برای یاریش آمد ز محور",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر پروردگارش از محور اصلی دور شد و به سوی هفتاد و هشتاد رفت."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "بپا شد طرفه جنگی کز نهیبش",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک جنگ ناگهانی به راه افتاد که صدای آن باعث شد جوانان و پیران به فریاد بیفتند."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "رشید از ترک‌ و ایران‌ یاوری‌ خواست",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: رشید از ترک‌ها و ایرانی‌ها درخواست یاری کرد و به توافق‌نامه سعدآباد استناد کرد."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "در این اثنا سپاه انگلستان",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این زمان، نیروهای انگلستان موفق و پیروز شدند و این اتفاق در اوایل ماه خرداد رخ داد."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "رشید عالی از بغداد بگریخت",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: رشید عالی از بغداد فرار کرد و با سرعتی بیشتر از باد به جلو رفت."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "سوی خاک عجم از آب بگذشت",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل به سوی خاک ایران رفت و از غم رهایی یافت، در حالی که پر از آتش احساسات است و لب‌ها پر از خشم و نارضایتی هستند."
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "بلی‌ بی‌شک‌ هزیمت جست خواهد",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: قطعاً شکست بر تو چیره خواهد شد، همانطور که شاگرد به دنبال استاد خود می‌گردد."
     },
     {
       "VOrder": 32,
@@ -255,7 +271,8 @@
       "Position": "Right",
       "Text": "نبود این‌، جز یکی آشوب ناچیز",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این وضعیت تنها یک نوع بی‌نظمی و هرج و مرج کوچک است که از یک جنگ بزرگ و شگفت‌انگیز به وجود آمده است."
     },
     {
       "VOrder": 34,
@@ -269,7 +286,8 @@
       "Position": "Right",
       "Text": "هم از این بلعجب‌تر نکته اینست",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نکته جالب‌تر این است که این واقعه به تاریخ «آشوب بغداد» مربوط می‌شود."
     },
     {
       "VOrder": 36,

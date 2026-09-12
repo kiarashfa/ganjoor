@@ -151,7 +151,8 @@
       "Text": "ساقی ار صاف نیست، زان دردی",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای ساقی، اگر نوشیدنی‌ات صاف نیست، یک جرعه به من بده تا از دردی که خوابم را ربوده، آرامش پیدا کنم."
     },
     {
       "VOrder": 2,
@@ -167,7 +168,8 @@
       "Text": "نیست صافی، مهل که جوش کنم",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: هیچ چیز صاف و بی‌نقصی وجود ندارد. صبر کن تا من داغی و جوش دردهایم را بیان کنم و سپس لیوانی از دردهایم به من بده که بنوشم."
     },
     {
       "VOrder": 4,
@@ -183,7 +185,8 @@
       "Text": "صف پیشینه صاف‌ها خوردند",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در صفی که برای صاف کردن دل‌ها بودند، درد و رنجی برای خودم برداشتند و من را به حال خود رها کردند."
     },
     {
       "VOrder": 6,
@@ -199,7 +202,8 @@
       "Text": "درد دل را به درد بنشانم",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهم درد و دل خود را با کسی در میان بگذارم، بهتر است که این درد را در دل نگه‌دارم تا اینکه بخواهم کسی را با آن آزار دهم."
     },
     {
       "VOrder": 8,
@@ -215,7 +219,8 @@
       "Text": "اقتضای زمان ما اینست",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: زمانه ما به گونه‌ای است که نمی‌توانیم کاری از پیش ببریم. آنچه از آن ماست، همین است."
     },
     {
       "VOrder": 10,
@@ -231,7 +236,8 @@
       "Text": "گر چه آن دوستان ز دست شدند",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: با اینکه دوستان از دست رفتند، خوشا به حال کسانی که زود به شوق و شیدایی رسیدند!"
     },
     {
       "VOrder": 12,
@@ -247,7 +253,8 @@
       "Text": "دلم از جان خویش سیر آمد",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: دل من از عشق دوری او خسته و خالی است، هرچقدر هم او به تأخیر بیفتد، بیشتر از این نمی‌توانم تحمل کنم."
     },
     {
       "VOrder": 14,
@@ -263,7 +270,8 @@
       "Text": "مست بگذار در بیابانش",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در بیابان هنگامی که شب می‌شود، او را سرشار از نوشی نشا‌ن بگذار و وقتی صبح می‌رسد، بگذار آرام بخوابد."
     },
     {
       "VOrder": 16,
@@ -279,7 +287,8 @@
       "Text": "جایش این به که جای خوابی هست",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: جای آن است که خوابگاه باشد، اگر هم خواب آلودگی وجود داشته باشد، نوشیدنی‌ای نیز برایش هست."
     },
     {
       "VOrder": 18,
@@ -295,7 +304,8 @@
       "Text": "روز مرگ ار به حال بد باشم",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اگر روز مرگم در حال ناخوشی باشم، این جام را به من بدهید تا به خودم بیایم."
     },
     {
       "VOrder": 20,
@@ -311,7 +321,8 @@
       "Text": "چون اجل در کشد به خود تنگم",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: زمانی که مرگ به سراغم بیاید، این جام را بر روی سنگ بگذارید."
     },
     {
       "VOrder": 22,
@@ -327,7 +338,8 @@
       "Text": "تا چو آید دل از دهان بر لب",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: زمانی که دل از سینه‌ام بیرون بیفتد و به آخرین لحظات زندگی نزدیک شوم، من با در دست داشتن جامی، روی به زندگی خواهم آورد."
     },
     {
       "VOrder": 24,

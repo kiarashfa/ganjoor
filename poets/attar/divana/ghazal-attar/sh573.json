@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "بی رخت در جهان نظر چکنم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بدون وجود تو در دنیا به چه چیز نگاه کنم؟ بدون لبهای تو، کل عالم به شیرینی می‌رسد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "رویت ای ترک اگر نخواهم دید",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نتوانم روی تو را ببینم، پس برای چه زحمت کشیدن برای دیدن چشم‌های هندو را به خودم بدهم؟"
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "چون دریغ آیدم رخت به نظر",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که از دیدنت ناراحت شوم، دیگر نمی‌توانم به چهره‌ات نگاه کنم، زیرا می‌ترسم که به دنبال آن، چهره‌ام آلوده به این احساسات و تأثیرات منفی شود."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "دو جهان گرچه سخت با خطر است",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با وجود اینکه دنیا می‌تواند پر از خطر باشد، من از آن نمی‌ترسم و خودم را در برابر تهدیدها ضعیف نمی‌بینم."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "چون سر موی تو به از دو جهان",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به خاطر زیبایی موی تو، دنیا را فراموش کرده‌ام و نمی‌توانم از کنار کوی تو عبور کنم."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "گر عزیز است عمر مختصر است",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر عمر کوتاه و ارزشمندی دارم، با این عمر کم چه کار کنم؟"
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "همه عالم جمال و آواز است",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تمام وجود جهان زیبایی و صداست، اما اگر کسی چشم و گوشش بسته باشد، چه می‌تواند ببیند یا بشنود؟"
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "چون خبر دادن از تو ممکن نیست",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی نمی‌توانم خبری از تو به دست آورم، حیران و سردرگم چه کاری می‌توانم بکنم؟"
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "گرچه جان موج می‌زند از تو",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچقدر که وجودم به عشق تو پرتلاطم و بی‌تاب است، اما چون نمی‌توانم به درستی سخن بگویم، نمی‌دانم چه باید بکنم."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "چون ز کاهی بسی ضعیف ترم",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه من بسیار ضعیف‌تر از کاه هستم، اما دست به کار می‌شوم و با تمام توانم در مقابل کوه ایستادگی می‌کنم."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "گر کنم صد هزار قرن سجود",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر هزاران سال هم سجده کنم، هیچ فایده‌ای ندارد؛ من فقط به همین اندازه می‌توانم تلاش کنم."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "گفته بودی که خشک و تر در باز",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو گفته بودی که با لب‌های خشک و چشمانی پر از اشک، در را به روی همه باز کنم."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "آتش دل به است بی تو مرا",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من بدون تو مانند آتش می‌سوزد و این درد را با اشک‌هایم تسکین می‌دهم."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "گفتیم بال و پر زن از طلبم",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌گوید وقتی خواستم با عشق و اشتیاق به جلو بروم، ناگهان همه چیز به هم ریخت و حالا نمی‌دانم باید چه کار کنم."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "چون مسافر تویی و من هیچم",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو مسافری و من هیچ و پوچ هستم. در پایان این سفر چه باید بکنم؟"
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "چون تو جویندهٔ خودی بر من",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی تو به دنبال خود هستی، من گم شده و حیران هستم و بی‌خبری را به جان می‌خرم."
     },
     {
       "VOrder": 32,
@@ -255,7 +271,8 @@
       "Position": "Right",
       "Text": "چون درونی تو و برون کس نیست",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی درون و بیرون تو یکی است و هیچ کس دیگری وجود ندارد، من چه چیزی می‌توانم از خودم نشان دهم؟ "
     },
     {
       "VOrder": 34,
@@ -269,7 +286,8 @@
       "Position": "Right",
       "Text": "در درون کش مرا و محرم کن",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مرا درون خود ببر و به من اجازه بده که تنها تو باشی و من دیگر هیچ چیز نکنم."
     },
     {
       "VOrder": 36,
@@ -283,7 +301,8 @@
       "Position": "Right",
       "Text": "محو شد درغم تو فرد فرید",
       "CoupletIndex": 18,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اثر اندوه تو، فردی مانند فردوسی محو و ناپدید شده است. باید در روز قیامت، مرا جمع کنند."
     },
     {
       "VOrder": 38,

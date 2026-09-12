@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "با هر که نشینی و قدح نوش کنی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با هر کسی که بنشینی و مشروب بخوری، مرا از حسادت و دل‌تنگی خراب و بی‌خود می‌کنی."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گفتی که چو می خورم تو را یاد کنم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌گویی وقتی مشغول نوشیدن هستم، به یاد تو می‌افتم. اما می‌ترسم که مست شوم و تو را فراموش کنم."
     },
     {
       "VOrder": 4,

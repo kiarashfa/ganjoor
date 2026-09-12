@@ -29,14 +29,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "هرکه با تو به خشم وکین رود هرآینه از وی دور باش‌",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: هرکس با تو بغض و دشمنی دارد، بی‌تردید باید از او فاصله بگیری."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "رود هرکه با تو به خشم و به کین",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرکسی که نسبت به تو خشمگین و کینه توز است، از او دوری کن و به او نگاه نکن."
     },
     {
       "VOrder": 3,

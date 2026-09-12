@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "درخت اگر متحرک بدی ز جای به جا",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "درخت اگر می‌توانست حرکت کند؛ نه درد ارّه را می‌کشید نه زخم‌های ستم تبر را."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "نه آفتاب و نه مهتاب نور بخشیدی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "آفتاب و ماه نیز نور نمی‌دادند و نمی‌درخشیدند اگر همچون صخره‌ها ثابت بودند."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "فرات و دجله و جیحون چه تلخ بودندی",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "فرات و دجله و جیحون نیز چه تلخ و ناگوار می‌شدند اگر همچون دریا ایستا بودند."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "هوا چو حاقن گردد به چاه زهر شود",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوا اگر در یک چاه بماند همچون زهر، بد و کُشنده می‌شود؛ ببین هوا از ماندن و ایستادن چه‌قدر ضرر کرد!"
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "چو آب بحر سفر کرد بر هوا در ابر",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "وقتی که آب دریا بخار شد و ابر گشت، از تلخی نجات یافت و همچون حلوا شیرین گشت."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "ز جنبش لهب و شعله چون بماند آتش",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "آتش وقتی‌که از جنبش و شعله کشیدن فرو ایستاد، خاکستر شد و مُرد."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "نگر به یوسف کنعان که از کنار پدر",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "ببین یوسف کنعان که وقتی از کنار پدر رفت و به‌مصر سفر کرد، استثنایی شد."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "نگر به موسی عمران که از بر مادر",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "ببین موسی عمران را که از نزد مادر به مدین رفت و از این‌طریق به سروری رسید."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "نگر به عیسی مریم که از دوام سفر",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "ببین عیسی مریم را که از زیادی سیر و سفر همچون چشمه آب زندگانی «زندگی‌بخش» شد."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "نگر به احمد مرسل که مکه را بگذاشت",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "به حضرت احمد مرسل ببین که وقتی از مکه رفت، لشکر کشید و بر مکه والا و برتر گشت."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "چو بر براق سفر کرد در شب معراج",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "وقتی‌که در شب معراج و سوار بر براق، سفر کرد، به مقام «قاب قوسین او ادنی» رسید. (مصرع دوم بخشی است از آیه ۹ سوره نجم)"
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "اگر ملول نگردی یکان یکان شمرم",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "اگر خسته نشوی یکی یکی، دوتا دوتا و بیشتر برای تو، مسافران و روندگان جهان را می‌شمارم و توضیح می‌دهم."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "چو اندکی بنمودم بدان تو باقی را",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "وقتی تعداد کمی را نشان دادم و مثال زدم، بقیه را خود بدان؛ (و با این دانستن) از خوی و منش خود جدا شو و به خوی و خُلق خدا سفر کن."
     },
     {
       "VOrder": 26,

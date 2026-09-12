@@ -211,7 +211,8 @@
       "Text": "از برای تناهی اندر کرد",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: به خاطر محدودیت‌های موجود در جهان مادی، به نظر می‌رسد که این عالم جسمانی پدید آمده است."
     },
     {
       "VOrder": 2,
@@ -227,7 +228,8 @@
       "Text": "متساوی نهاد چون گویی",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: اگر دو نفر از نظر نهاد و بنیاد یکسان باشند، حتی اگر ظاهراً متفاوت به نظر برسند، در واقع از یک ریشه و یک سمت هستند."
     },
     {
       "VOrder": 4,
@@ -243,7 +245,8 @@
       "Text": "هست ممتد جهان و اندر حد",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: جهان به گونه‌ای است که هرچند گسترده و بی‌انتہا به نظر می‌رسد، اما هنوز در چارچوبی مشخص و محدود قرار دارد که به آن جهت می‌دهد."
     },
     {
       "VOrder": 6,
@@ -259,7 +262,8 @@
       "Text": "بعد از آن در ولایت تصویر",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: پس از این، در سرزمین وجود، بدان که مرتبه‌ها نقشی دارند و خود نیز نقش‌پذیر هستند."
     },
     {
       "VOrder": 8,
@@ -275,7 +279,8 @@
       "Text": "ز اوّل جان و آخر مرجان",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: در آغاز زندگی و در پایان آن، وجود و عدم در این دو حالت وجود دارد."
     },
     {
       "VOrder": 10,
@@ -291,7 +296,8 @@
       "Text": "در سرای صفت‌پذیر فنا",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: در دنیای زوال و فانی، به دنبال درجات بالا و ساختن بناها هستیم، اما همه چیز گذراست."
     },
     {
       "VOrder": 12,
@@ -307,7 +313,8 @@
       "Text": "عقل در بند امر بنشسته",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: عقل تحت تأثیر دستورات قرار گرفته و مشغول است، در حالی که نفس با اشتیاق به دنبال خواسته‌ها و آرزوهای خودش می‌باشد. دل هم از این وضعیت خسته و ناآرام است."
     },
     {
       "VOrder": 14,
@@ -323,7 +330,8 @@
       "Text": "صورت از بهر مایه اندر بند",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: ظاهر انسان برای کمک به مادیات آمده است و نه اینکه آسمان به دست هفت کمند (محدودیت‌ها و مشکلات) گرفتار باشد."
     },
     {
       "VOrder": 16,
@@ -339,7 +347,8 @@
       "Text": "وز درون فلک چهار گهر",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: در آسمان چهار گوهر در درون یکدیگر به بند افتاده‌اند و هر کدام در حال خصومت با دیگری هستند."
     },
     {
       "VOrder": 18,
@@ -355,7 +364,8 @@
       "Text": "سه موالید از این چهار ارکان",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: از این چهار عنصر، سه نوع موجود زنده و طبیعی به وجود می‌آید: گیاهان، مواد معدنی و موجودات حیوانی."
     },
     {
       "VOrder": 20,
@@ -371,7 +381,8 @@
       "Text": "چون نباتی غذای حیوان شد",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: هنگامی که گیاهان به خوراک حیوانات تبدیل شدند، حیوانات نیز به خوراک انسان‌ها تبدیل شدند."
     },
     {
       "VOrder": 22,
@@ -387,7 +398,8 @@
       "Text": "نطق انسان چو شد غذای ملک",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: وقتی کلام انسان به غذا و nourishment برای ملائک تبدیل شد، آنگاه به این دلیل، راهی برای ارتباط با آسمان و عالم بالاتر پیدا کرد."
     },
     {
       "VOrder": 24,
@@ -403,7 +415,8 @@
       "Text": "ورنه در عالم یقین و گمان",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: اگر در دنیا فقط بر اساس یقین و گمان عمل می‌کردیم، در واقع خر همان خر بود و حکیم هم همان حکیم باقی می‌ماند."
     },
     {
       "VOrder": 26,
@@ -419,7 +432,8 @@
       "Text": "نطق زیبا ز خامشی بهتر",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: صحبت زیبا از سکوت بهتر است، وگرنه فراموشی در جان بهتر است."
     },
     {
       "VOrder": 28,
@@ -435,7 +449,8 @@
       "Text": "در سخن دُر ببایدت سفتن",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: اگر نتوانی زیبا و حکیمانه صحبت کنی، بهتر است که سکوت کنی تا بار گنگی به دوش نداشته باشی."
     },
     {
       "VOrder": 30,
@@ -451,7 +466,8 @@
       "Text": "گنگ اندر حدیث کم آواز",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: بهتر است در گفتگوها به کم صحبت کردن و مختصر گویی توجه کنیم؛ زیرا سخن زیاد و بی‌مورد فایده‌ای ندارد."
     },
     {
       "VOrder": 32,
@@ -467,7 +483,8 @@
       "Text": "کرد عقلت نصیحتی محکم",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: عقلیت به تو توصیه‌ای جدی کرده است که یا به خوبی سخن بگو یا اصلاً سخن مگوی."
     },
     {
       "VOrder": 34,
@@ -483,7 +500,8 @@
       "Text": "گر نصیحت قبول کردی تو",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: اگر نصیحت را بپذیری، دیگر چگونه می‌توانی خود را بی‌فایده و بی‌معنی بدانی؟"
     },
     {
       "VOrder": 36,

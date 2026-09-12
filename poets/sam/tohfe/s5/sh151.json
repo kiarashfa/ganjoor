@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "به تجارت میگذراند و در عالم سرگردانست",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: قادر به توصیف تجربه‌ای از تجارت است که در حال حاضر در شرایطی مبهم و ناپایدار به سر می‌برد."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "زلفت شب سیاه و رخت روز روشنست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: موهای تو مانند شب تاریک و چهره‌ات مانند روز روشن است، در نهایت، مو و چهره تو تنها روز و شب من را تشکیل می‌دهد."
     },
     {
       "VOrder": 3,

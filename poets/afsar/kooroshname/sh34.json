@@ -341,7 +341,8 @@
       "Text": "شهنشه بیامد بکاخ بهار",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: شاه بزرگ به کاخی زیبا در فصل بهار آمد، همراه با کسانی که نام و آوازه‌ای درخشان دارند."
     },
     {
       "VOrder": 2,
@@ -357,7 +358,8 @@
       "Text": "بگفتا ابا شاه کی شهریار",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: او گفت: ای شاه، آیا روزگاری خوشی برای آن پادشاه بزرگ خواهد آمد؟"
     },
     {
       "VOrder": 4,
@@ -373,7 +375,8 @@
       "Text": "خداداد پوری نکو رو بشاه",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در این بیت، شاعر به زیبایی و زیبایی ظاهری شخصی به نام پوری نکو رو اشاره می‌کند و او را به شاهزادگی تشبیه می‌کند. از طرفی، این زیبایی مانند ماهی درخشان است که در آسمان می‌درخشد و به جذابیت و دلربایی او اشاره دارد. می‌توان گفت که او تمام ویژگی‌های زیبایی را در خود جای داده است."
     },
     {
       "VOrder": 6,
@@ -389,7 +392,8 @@
       "Text": "شهنشه چو بشنید دلشاد شد",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: وقتی پادشاه این خبر را شنید، خوشحال شد و دیگر از درد و غمش رهایی پیدا کرد."
     },
     {
       "VOrder": 8,
@@ -405,7 +409,8 @@
       "Text": "پس آنگه بیامد بمشکوی، شاه",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: سپس او به سمت مشکو، زیبای شاه پریوش آمد، که همچون ماه خود را آراسته بود."
     },
     {
       "VOrder": 10,
@@ -421,7 +426,8 @@
       "Text": "سر تخت بنشسته با تاج زر",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: بر بالای تخت، با تاج زر، فرمانروا نشسته و کنیزان اطرافش ایستاده‌اند."
     },
     {
       "VOrder": 12,
@@ -437,7 +443,8 @@
       "Text": "رخ روشنش چون گل نوبهار",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: چهره درخشان او همچون گل‌های تازه نیمه بهار است و در انتظار آن هستم که پادشاه به میدان بیاید."
     },
     {
       "VOrder": 14,
@@ -453,7 +460,8 @@
       "Text": "غلامان دویدند و گفتند شاه",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: بندگان به سرعت به سوی شاه رفتند و گفتند که او اکنون از کاخ بیرون می‌آید."
     },
     {
       "VOrder": 16,
@@ -469,7 +477,8 @@
       "Text": "چو بانو پذیره بشد شاهرا",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: زمانی که بانویی به استقبال شاه آمد، شاه از دور آن ماه زیبا را مشاهده کرد."
     },
     {
       "VOrder": 18,
@@ -485,7 +494,8 @@
       "Text": "برویش یکی خوش تبسم نمود",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: او به سمت او رفت و با لبخندی دلنواز، با بوسه‌ای که داد، محبتش را بیشتر کرد."
     },
     {
       "VOrder": 20,
@@ -501,7 +511,8 @@
       "Text": "شهنشاه بگرفت دستش بناز",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: پادشاه دست او را گرفت و به آرامی او را به سمت تخت خود راهنمایی کرد."
     },
     {
       "VOrder": 22,
@@ -517,7 +528,8 @@
       "Text": "بفرمود با بانوی ماهرو",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: سخن به زیبایی و مهربانی با دختری زیبا گفته شده که او را به دلیل چهره‌اش ستایش می‌کند."
     },
     {
       "VOrder": 24,
@@ -533,7 +545,8 @@
       "Text": "چگونه است رخسارۀ این پسر",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: این پسر چهره‌اش چگونه است که پدرش را به تماشا می‌آورد؟"
     },
     {
       "VOrder": 26,
@@ -549,7 +562,8 @@
       "Text": "یکی دایه برجست پس پور شاه",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: زنی با ویژگی‌های برجسته، پسر شاه را به دنیا آورد و او را همچون ماهی درخشان و زیبا به همه نشان داد."
     },
     {
       "VOrder": 28,
@@ -565,7 +579,8 @@
       "Text": "شهنشاه چون دید روی پسر",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: پادشاه وقتی صورت پسرش را دید، آن را بوسید و او را در آغوش گرفت."
     },
     {
       "VOrder": 30,
@@ -581,7 +596,8 @@
       "Text": "بگفتا خدا یار این بچه باد",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: خداوند به این کودک کمک کند که به خاطر زیبایی‌اش، دل من شاد شد."
     },
     {
       "VOrder": 32,
@@ -597,7 +613,8 @@
       "Text": "خشاریارشا شد نام آن پور شاه",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: خشاریارشا، نام پسر شاه خداوندی است که او را شاه و سپاه معرفی کردند."
     },
     {
       "VOrder": 34,
@@ -613,7 +630,8 @@
       "Text": "زنانی که بودند خود پارسا",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: زنان پارسا و درستکاری که همیشه سالم و در ارتباط با خداوند بودند."
     },
     {
       "VOrder": 36,
@@ -629,7 +647,8 @@
       "Text": "نگشتند هرگز بگرد دروغ",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: هرگز به دور دروغ نگردید، که ممکن است فرزند پادشاه بی‌فروغ و بدون نور شود."
     },
     {
       "VOrder": 38,
@@ -645,7 +664,8 @@
       "Text": "همه راستگوی و همه نیکزاد",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: همه افراد راستگو و نیکوکار هستند و دل‌هایشان از شادی و خوشحالی در جهان پر شده است."
     },
     {
       "VOrder": 40,
@@ -661,7 +681,8 @@
       "Text": "بدادند از جان بآن بچه شیر",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: به او محبت کردند و جان خود را به پای او گذاشتند، وقتی که او به دو سالگی رسید، به مانند بچه شیر شد."
     },
     {
       "VOrder": 42,
@@ -677,7 +698,8 @@
       "Text": "چو شد هفت ساله چو یکماه شد",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: وقتی که او هفت ساله شد، به اندازه یک ماه به نظر می‌رسید، چه اینکه او مانند پسر خود بود و مانند یک شاه رفتار می‌کرد."
     },
     {
       "VOrder": 44,
@@ -693,7 +715,8 @@
       "Text": "شهنشه بفرمود فرهنگیان",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: شاه دستور داد که فرهنگ‌دانان و ادیبان را از سرزمین‌های روم و عرب bring بیاورند."
     },
     {
       "VOrder": 46,
@@ -709,7 +732,8 @@
       "Text": "ز مصرو ز یونان و از باختر",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: از سرزمین‌های مختلف مانند مصر، یونان و غرب، فرهنگ‌سازان و دانشمندان را به اینجا می‌آورند."
     },
     {
       "VOrder": 48,
@@ -725,7 +749,8 @@
       "Text": "سپردند او را بفرهنگیان",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: او را به اهل فرهنگ سپردند، زیرا نادانی‌اش به او ضرری نخواهد رسانید."
     },
     {
       "VOrder": 50,
@@ -741,7 +766,8 @@
       "Text": "چو شد چهارده ساله آن جوان",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: زمانی که آن جوان به سن چهارده سالگی رسید، او را با فنون تیراندازی و کمانداری آشنا کردند."
     },
     {
       "VOrder": 52,
@@ -757,7 +783,8 @@
       "Text": "ز شمشیر و گرز و زتیر و سپر",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: در میدان جنگ و در هنرهای رزمی، مهارت و توانایی با ابزارهایی مانند شمشیر، گرز، تیر و سپر نشان داده می‌شود."
     },
     {
       "VOrder": 54,
@@ -773,7 +800,8 @@
       "Text": "هم از بزم و از رزم و از کارزار",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: این بیت به توصیف جنبه‌های مختلف زندگی و فعالیت‌های انسانی می‌پردازد، از جمله جشن‌ها و مهمانی‌ها، جنگ و نبرد، و همچنین سرگرمی‌های نظیر سواری و شکار. به طور کلی، اشاره به تجربه‌ها و فعالیت‌هایی دارد که از زندگی پرجنب‌وجوش و متنوع انسان حکایت می‌کند."
     },
     {
       "VOrder": 56,
@@ -789,7 +817,8 @@
       "Text": "چو شد نوزده ساله آن نوجوان",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: وقتی آن جوان به سن نوزده سالگی رسید، نام و آبرویی در دنیا پیدا کرد."
     },
     {
       "VOrder": 58,
@@ -805,7 +834,8 @@
       "Text": "چو شد عید نوروز و آمد بهار",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: وقتی عید نوروز فرا رسید و بهار آمد، خشایار تصمیم به شکار گرفت."
     },
     {
       "VOrder": 60,
@@ -821,7 +851,8 @@
       "Text": "بنزد پدر شد جوان پور شاه",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: جوانی که پسر شاه است، به پیش پدرش رفت و در بارگاه، او را با بوسه‌ای احترام‌آمیز سلام کرد."
     },
     {
       "VOrder": 62,

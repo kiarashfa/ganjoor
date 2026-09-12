@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "به خوش طبعی و ملایی ممتاز بود این مطلع از جمله اشعار اوست :",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: این شعر به خاطر خوش سلیقگی و لطافت خاصش معروف است."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "وه! چه خرامست قد یار را",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وا! چه زیبایی در قامت محبوب است که من مدام به او احترام می‌گذارم و مجذوب آن لحن و رفتار او می‌شوم."
     },
     {
       "VOrder": 3,

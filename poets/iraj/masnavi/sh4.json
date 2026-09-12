@@ -30,7 +30,8 @@
       "Position": "Right",
       "Text": "از مالِ جهان ز کهنه و نو",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از دارایی‌های این دنیا، چه قدیمی و چه جدید، پسری به نام خسرو دارم."
     },
     {
       "VOrder": 2,
@@ -44,7 +45,8 @@
       "Position": "Right",
       "Text": "هر چند که سالِ او چهار است",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با وجود اینکه عمر او فقط چهار سال است، به وضوح مشخص است که این کودک بسیار باهوش و هوشیار است."
     },
     {
       "VOrder": 4,
@@ -58,7 +60,8 @@
       "Position": "Right",
       "Text": "در دیده من چنین نماید",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در چشمان من، این‌گونه به نظر می‌رسد، اما برای دیگران چه خواهد بود؟"
     },
     {
       "VOrder": 6,
@@ -72,7 +75,8 @@
       "Position": "Right",
       "Text": "هر چند که طفل زشت باشد",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچند که فرزند ممکن است از نظر ظاهری زیبا به نظر نرسد، اما در چشم والدینش او همواره بهترین و محبوب‌ترین خواهد بود."
     },
     {
       "VOrder": 8,
@@ -86,7 +90,8 @@
       "Position": "Right",
       "Text": "آری مثل است که قَرَنْبیٰ",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بله، درست همانند اینکه قرنبیط (بروکلی) در چشم مادر زیباست."
     },
     {
       "VOrder": 10,
@@ -100,7 +105,8 @@
       "Position": "Right",
       "Text": "هان ای پسرِ عزیزِ دلبند",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای پسر عزیزم، به نصیحت‌های پدرت گوش کن."
     },
     {
       "VOrder": 12,
@@ -114,7 +120,8 @@
       "Position": "Right",
       "Text": "ز این گفته سعادتِ تو جویم",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از این حرف من به دنبال خوشبختی‌ات باش و با دقت هر چه می‌گویم را یاد بگیر."
     },
     {
       "VOrder": 14,
@@ -128,7 +135,8 @@
       "Position": "Right",
       "Text": "می‌باش به عمرِ خود سحرخیز",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سعی کن در زندگی‌ات صبح زود بیدار شوی و از خوابیدن در صبح‌های زود خودداری کنی."
     },
     {
       "VOrder": 16,
@@ -142,7 +150,8 @@
       "Position": "Right",
       "Text": "اندر نَفَسِ سحر نشاطی است",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در هوای صبحگاهان حال و هوایی شاداب و پرانرژی وجود دارد که به نوعی با روح انسان پیوند می‌خورد."
     },
     {
       "VOrder": 18,
@@ -156,7 +165,8 @@
       "Position": "Right",
       "Text": "دریاب سحر کنارِ جو را",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صبح زود کنار جوی آب را غنیمت بشمار و دستان و صورتت را تمیز کن."
     },
     {
       "VOrder": 20,
@@ -170,7 +180,8 @@
       "Position": "Right",
       "Text": "صابونت اگر بُوَد میسّر",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر صابون در دسترس باشد، شستن دست و صورت راحت‌تر می‌شود و این بهترین وضعیت است."
     },
     {
       "VOrder": 22,
@@ -184,7 +195,8 @@
       "Position": "Right",
       "Text": "با هوله پاک خشک کن رو",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "با یک پارچه (حوله) تمیز صورتت را خشک کن، مو و ابروهای خود را شانه بکش و از آشفتگی خارج کن."
     },
     {
       "VOrder": 24,
@@ -198,7 +210,8 @@
       "Position": "Right",
       "Text": "کن پاک و تمیز گوش و گردن",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "گوش و گردن خود را پاک و تمیز نگه‌دار، زیرا این کار ضروری است."
     },
     {
       "VOrder": 26,
@@ -212,7 +225,8 @@
       "Position": "Right",
       "Text": "تا آن که به پهلویت نشینند",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "که اگر دیگران با تو همنشینی کردند، چهره‌ات را در آلودگی و کثیفی\u00A0 نبینند."
     },
     {
       "VOrder": 28,
@@ -226,7 +240,8 @@
       "Position": "Right",
       "Text": "در پاکیِ دست کوش کز دست",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "به تلاش برای پاک نگه داشتن دست‌هایت بپرداز، زیرا دیگران با توجه به آن، ارزش و مقام تو را می‌شناسند."
     },
     {
       "VOrder": 30,
@@ -240,7 +255,8 @@
       "Position": "Right",
       "Text": "چرکین مگذار بیخِ دندان",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "دندان‌هایت را تمیز نگه‌دار، زیرا در زمان صحبت کردن، آلودگی‌های آن آشکار خواهند شد."
     },
     {
       "VOrder": 32,
@@ -254,7 +270,8 @@
       "Position": "Right",
       "Text": "پیراهنِ خویش کن گزیده",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "پیراهن خود را با دقت انتخاب کن و از تمیز بودن و صاف (اتو کشیده) بودنش مطمئن باش."
     },
     {
       "VOrder": 34,
@@ -268,7 +285,8 @@
       "Position": "Right",
       "Text": "کن کفش و کلاه با بروس پاک",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "کفش و کلاه را برس و فرچه بکش و با دقت گرد و غبار را از پوشش خود بزدا."
     },
     {
       "VOrder": 36,
@@ -282,7 +300,8 @@
       "Position": "Right",
       "Text": "در آینه خویش را نظر کن",
       "CoupletIndex": 18,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "در آینه خودت را با دقت بررسی کن و از میزان بودن لباس خود اطمینان حاصل کن."
     },
     {
       "VOrder": 38,
@@ -296,7 +315,8 @@
       "Position": "Right",
       "Text": "از نرم و خشن هر آنچه پوشی",
       "CoupletIndex": 19,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هر چیزی که می‌پوشی، چه نرم و چه زبر، باید پاک و تمیز باشد."
     },
     {
       "VOrder": 40,
@@ -310,7 +330,8 @@
       "Position": "Right",
       "Text": "گر جامه گلیم یا که دیباست",
       "CoupletIndex": 20,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر چه لباس از گلیم باشد یا از دیبا، اگر پاک و تمیز باشد، زیباست."
     },
     {
       "VOrder": 42,
@@ -324,7 +345,8 @@
       "Position": "Right",
       "Text": "چون غیر به پیشِ خویش بینی",
       "CoupletIndex": 21,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که آدمی در جمع دیگران قرار می‌گیرد و می‌بیند کسانی غیر از خود او هستند، نباید خود را به گونه‌ای نشان دهد که باعث جلب توجه و عیب‌جویی شود."
     },
     {
       "VOrder": 44,
@@ -338,7 +360,8 @@
       "Position": "Right",
       "Text": "دندان برِ کس خلال منمای",
       "CoupletIndex": 22,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به هیچ کس آسیبی نرسان و به امور دیگران دخالت نکن."
     },
     {
       "VOrder": 46,
@@ -352,7 +375,8 @@
       "Position": "Right",
       "Text": "در بزم چنان دهن مدرّان",
       "CoupletIndex": 23,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در مهمانی، وقتی که نوشیدنی‌ای از خوشی زیادی در دهان می‌چرخد، طوری می‌شود که به ته دهان نمایان می‌گردد."
     },
     {
       "VOrder": 48,
@@ -366,7 +390,8 @@
       "Position": "Right",
       "Text": "خمیازه کشید می‌نباید",
       "CoupletIndex": 24,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که خمیازه می‌کشید، باید طوری باشید که دیگران از شما ناراحت نشوند یا احساس نامطلوبی نداشته باشند."
     },
     {
       "VOrder": 50,
@@ -380,7 +405,8 @@
       "Position": "Right",
       "Text": "چون بر سر سفره‌ای نشستی",
       "CoupletIndex": 25,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که بر سر یک سفره نشسته‌ای، مراقب باش که طمع نکن و دست دراز نکن."
     },
     {
       "VOrder": 52,
@@ -394,7 +420,8 @@
       "Position": "Right",
       "Text": "زان کاسه بخور که پیشِ دستست",
       "CoupletIndex": 26,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از آن ظرف غذا بخور که در دست توست و دستت را به ظرف دیگر نبر."
     },
     {
       "VOrder": 54,
@@ -408,7 +435,8 @@
       "Position": "Right",
       "Text": "دِه قوت ز بیش و کم شکم را",
       "CoupletIndex": 27,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در زندگی، به مقدار و اندازه غذا توجه نکن و خود را محدود به کم و زیاد بودن غذا نکن."
     },
     {
       "VOrder": 56,
@@ -422,7 +450,8 @@
       "Position": "Right",
       "Text": "با مادرِ خویش مهربان باش",
       "CoupletIndex": 28,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با مادر خود مهربان باش و آماده باش تا به او خدمت کنی و او را یاری کنی."
     },
     {
       "VOrder": 58,
@@ -436,7 +465,8 @@
       "Position": "Right",
       "Text": "با چشمِ ادب، نگر پدر را",
       "CoupletIndex": 29,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با نگاه محترمانه به پدر توجه کن و از صحبت‌های او منحرف نشو."
     },
     {
       "VOrder": 60,
@@ -450,7 +480,8 @@
       "Position": "Right",
       "Text": "چون این دو شوند از تو خُرسند",
       "CoupletIndex": 30,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که این دو نفر از تو راضی و خوشحال باشند، خداوند نیز از تو خوشحال خواهد شد."
     },
     {
       "VOrder": 62,
@@ -464,7 +495,8 @@
       "Position": "Right",
       "Text": "در کوچه چو می‌روی به مکتب",
       "CoupletIndex": 31,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که در کوچه راه می‌روی، به مدرسه‌ای که علم و ادب را آموزش می‌دهد، توجه کن و خودت نیز به آداب و رفتار مناسب پایبند باش."
     },
     {
       "VOrder": 64,
@@ -478,7 +510,8 @@
       "Position": "Right",
       "Text": "چون با ادب و تمیز باشی",
       "CoupletIndex": 32,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی با ادب و آراستگی رفتار کنی، جایگاه و محبت خاصی در دل‌های دیگران پیدا می‌کنیم."
     },
     {
       "VOrder": 66,
@@ -492,7 +525,8 @@
       "Position": "Right",
       "Text": "در مدرسه ساکت و متین شو",
       "CoupletIndex": 33,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در مدرسه آرام و مؤدب باشید، بی‌خودی صحبت نکنید و حرف‌های بیهوده را هم نشنوید."
     },
     {
       "VOrder": 68,
@@ -506,7 +540,8 @@
       "Position": "Right",
       "Text": "اندر سرِ درس گوش می‌باش",
       "CoupletIndex": 34,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در کلاس درس با دقت گوش کن و با هوش باش و به صحبت‌ها توجه کن."
     },
     {
       "VOrder": 70,
@@ -520,7 +555,8 @@
       "Position": "Right",
       "Text": "می‌کوش که هرچه گوید استاد",
       "CoupletIndex": 35,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تلاش کن که هر چیزی را که می‌گوید از معلم یاد بگیری و همه را به سرعت به خاطر بسپاری."
     },
     {
       "VOrder": 72,
@@ -534,7 +570,8 @@
       "Position": "Right",
       "Text": "کم گوی و مگوی هرچه دانی",
       "CoupletIndex": 36,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کم صحبت کن و هر چیزی را که می‌دانی صرفاً در دل نگه‌دار تا جایی که ممکن است."
     },
     {
       "VOrder": 74,
@@ -548,7 +585,8 @@
       "Position": "Right",
       "Text": "بس سَر که فُتاده زبان است",
       "CoupletIndex": 37,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بسیاری از مشکلات و خسارت‌ها به دلیل کوچک‌ترین اشتباهات زبانی به وجود می‌آید. تنها با یک نقطه ناچیز ممکن است معنی یک کلمه یا جمله به کلی تغییر کند و به ضرر بیان و ارتباط صحیح منجر شود."
     },
     {
       "VOrder": 76,
@@ -562,7 +600,8 @@
       "Position": "Right",
       "Text": "آن قدر رواست گفتنِ آن",
       "CoupletIndex": 38,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌توان گفت که بیان یک حقیقت تا جایی خوب است که افشای آن ضرری به همراه نداشته باشد."
     },
     {
       "VOrder": 78,
@@ -576,7 +615,8 @@
       "Position": "Right",
       "Text": "نادان به سرِ زبان نهد دل",
       "CoupletIndex": 39,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که نادان است، فقط به ظاهر سخن می‌گوید و احساساتش را با کلمات بیان می‌کند، اما شخص عاقل در درون خود یک دل آگاه و عمیق دارد که بر اساس آن عمل می‌کند."
     },
     {
       "VOrder": 80,
@@ -590,7 +630,8 @@
       "Position": "Right",
       "Text": "اندر وسطِ کلامِ مردم",
       "CoupletIndex": 40,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در میان سخن مردم، سخن نگو و زبانت را دراز نکن."
     },
     {
       "VOrder": 82,
@@ -604,7 +645,8 @@
       "Position": "Right",
       "Text": "زنهار مگو سخن بجز راست",
       "CoupletIndex": 41,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: احتیاط کن که جز حقیقت چیزی نگو، حتی اگر در آن راست بودن، به تو ضرر بزند."
     },
     {
       "VOrder": 84,
@@ -618,7 +660,8 @@
       "Position": "Right",
       "Text": "گفتارِ دروغ را اثر نیست",
       "CoupletIndex": 42,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفتن دروغ تأثیری ندارد و در واقع، هیچ چیزی زشت‌تر از دروغ گفتن نیست."
     },
     {
       "VOrder": 86,
@@ -632,7 +675,8 @@
       "Position": "Right",
       "Text": "تا پیشه تست راست‌گویی",
       "CoupletIndex": 43,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرگز دروغ نگو، چون راستگویی شغف توست و اگر راست نگوئی، چهره‌ات سیاه خواهد شد."
     },
     {
       "VOrder": 88,
@@ -646,7 +690,8 @@
       "Position": "Right",
       "Text": "از خجلتِ شرمش ار شود فاش",
       "CoupletIndex": 44,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به خاطر شرم و خجالتش رازها فاش شود، دوباره دروغی نساز و به یادش بیاور."
     },
     {
       "VOrder": 90,
@@ -660,7 +705,8 @@
       "Position": "Right",
       "Text": "چون خوی کند زبان به دشنام",
       "CoupletIndex": 45,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر انسان زبانش را به دشنام باز کند، بهتر است که او هیچ کلامی نگوید."
     },
     {
       "VOrder": 92,
@@ -674,7 +720,8 @@
       "Position": "Right",
       "Text": "از عیبِ کسان زبان فرو بند",
       "CoupletIndex": 46,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از عیب‌های دیگران صحبت نکن و زبانت را در این مورد ببند، چون عیب‌جویی از دیگران به ضرر خودت تمام می‌شود."
     },
     {
       "VOrder": 94,
@@ -688,7 +735,8 @@
       "Position": "Right",
       "Text": "زنهار مده بدان به خود راه",
       "CoupletIndex": 47,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مراقب باش که به سراغ دوستان بد نروی، زیرا ممکن است به بدی دچار شوی و از خدا به پناه خواهی آمد."
     },
     {
       "VOrder": 96,
@@ -702,7 +750,8 @@
       "Position": "Right",
       "Text": "در صحبتِ سِفله چون درآیی",
       "CoupletIndex": 48,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی با افراد پست‌مرتبه گفتگو کنی، خود به خود به پستی و ابتذال گرایش پیدا می‌کنی."
     },
     {
       "VOrder": 98,
@@ -716,7 +765,8 @@
       "Position": "Right",
       "Text": "با مردمِ ذی شرف درآمیز",
       "CoupletIndex": 49,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با افراد با شخصیت و با حیثیت معاشرت کن تا خودت نیز شخصیت و شرافت یابی."
     },
     {
       "VOrder": 100,
@@ -730,7 +780,8 @@
       "Position": "Right",
       "Text": "لبلابِ ضعیف بین که چندی",
       "CoupletIndex": 50,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گیاه ضعیف و نحیف را ببین که چگونه می‌تواند به دور درخت بزرگ و با ارزش پیچیده و خود را به آن نزدیک کند."
     },
     {
       "VOrder": 102,
@@ -744,7 +795,8 @@
       "Position": "Right",
       "Text": "در صحبتِ او بلند گردد",
       "CoupletIndex": 51,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی در گفت‌وگو با او هستی، شخصیت و اهمیت تو هم ارتقا می‌یابد و درخشان می‌شود."
     },
     {
       "VOrder": 104,
@@ -758,7 +810,8 @@
       "Position": "Right",
       "Text": "در عهدِ شباب چند سالی",
       "CoupletIndex": 52,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دوران جوانی، چند سال وقت بگذار و به یادگیری یک هنر و به دست آوردن مهارت بپرداز."
     },
     {
       "VOrder": 106,
@@ -772,7 +825,8 @@
       "Position": "Right",
       "Text": "تا آن که به روزگارِ پیری",
       "CoupletIndex": 53,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که در روزهای پیری در ذلت و فقر به سر نمی‌بری."
     },
     {
       "VOrder": 108,
@@ -786,7 +840,8 @@
       "Position": "Right",
       "Text": "امروز سه سال پیش از این نیست",
       "CoupletIndex": 54,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امروز، سه سال پیش از حالا نیست و بدون دانش جدید نمی‌توان زندگی کرد."
     },
     {
       "VOrder": 110,
@@ -800,7 +855,8 @@
       "Position": "Right",
       "Text": "گر صنعت و حرفتی ندانی",
       "CoupletIndex": 55,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر هنر یا مهارتی نداری، باید در زندگی زحمت بکشید."
     },
     {
       "VOrder": 112,
@@ -814,7 +870,8 @@
       "Position": "Right",
       "Text": "از طبّ و طبیعی و ریاضی",
       "CoupletIndex": 56,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از دانش پزشکی، طبیعی و ریاضی، قلب تو به هر چیزی رضایت دارد و راضی است."
     },
     {
       "VOrder": 114,
@@ -828,7 +885,8 @@
       "Position": "Right",
       "Text": "یک فن بپسند و خاصِ خود کن",
       "CoupletIndex": 57,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک مهارت را انتخاب کن و در آن تخصص پیدا کن و تلاش کن تا به طور خاص به یادگیری و پیشرفت در آن بپردازی."
     },
     {
       "VOrder": 116,
@@ -842,7 +900,8 @@
       "Position": "Right",
       "Text": "چون خوبِ کم از بدِ فزون به",
       "CoupletIndex": 58,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرگاه که خوب بودن کمتر از بد بودن باشد، باید در برابر افراد باتجربه و دارای دانش به دنیا توجه کرد."
     },
     {
       "VOrder": 118,
@@ -856,7 +915,8 @@
       "Position": "Right",
       "Text": "خوانم به تو بیتی از نظامی",
       "CoupletIndex": 59,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به تو شعری از نظامی می‌خوانم، همان شاعر بزرگ و نامی که در هنر سخن‌وری شهرت دارد."
     },
     {
       "VOrder": 120,
@@ -870,7 +930,8 @@
       "Position": "Right",
       "Text": "«پالانگری به غایتِ خود",
       "CoupletIndex": 60,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی در کارش ماهر و کاربلد باشد، بهتر از کسی است که به شکل نامناسب و ضعیف کاری را انجام می‌دهد."
     },
     {
       "VOrder": 122,
@@ -884,7 +945,8 @@
       "Position": "Right",
       "Text": "آن طفل که قدرِ وقت دانست",
       "CoupletIndex": 61,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کودکی که ارزش زمان را درک کرد، توانست به ارزش خود پی ببرد."
     },
     {
       "VOrder": 124,
@@ -898,7 +960,8 @@
       "Position": "Right",
       "Text": "هرچ آن که رود ز دستِ انسان",
       "CoupletIndex": 62,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که از دست انسان خارج شود، ممکن است به راحتی دوباره به دست آید."
     },
     {
       "VOrder": 126,
@@ -912,7 +975,8 @@
       "Position": "Right",
       "Text": "جز وقت که پیشِ کس نپاید",
       "CoupletIndex": 63,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که از دست برود، دیگر به دست نخواهد آمد و نمی‌توان آن را به نزد کسی نگه داشت."
     },
     {
       "VOrder": 128,
@@ -926,7 +990,8 @@
       "Position": "Right",
       "Text": "گر گوهری از کَفَت برون تافت",
       "CoupletIndex": 64,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر الماسی از دستانت بدرخشد، در زمان مناسب می‌توانی آن را پیدا کنی."
     },
     {
       "VOrder": 130,
@@ -940,7 +1005,8 @@
       "Position": "Right",
       "Text": "ور وقت رود ز دستت ارزان",
       "CoupletIndex": 65,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر زمان از دستت برود، هیچ گوهری نمی‌تواند ارزش آن را جبران کند."
     },
     {
       "VOrder": 132,
@@ -954,7 +1020,8 @@
       "Position": "Right",
       "Text": "هر شب که روی به جامه خواب",
       "CoupletIndex": 66,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر شب که به خواب می‌روی، به این موضوع خوب فکر کن و تأمل کن."
     },
     {
       "VOrder": 134,
@@ -968,7 +1035,8 @@
       "Position": "Right",
       "Text": "کان روز به علمِ تو چه افزود",
       "CoupletIndex": 67,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن روز به واسطه علم تو چه چیزهایی به دست آورد و از خود چه بهره‌ای برده‌ای؟"
     },
     {
       "VOrder": 136,
@@ -982,7 +1050,8 @@
       "Position": "Right",
       "Text": "روزی که در آن نکرده‌ای کار",
       "CoupletIndex": 68,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرگز عمر خود را به حساب نیاور، اگر در روزی هیچ کار مفیدی نکرده‌ای."
     },
     {
       "VOrder": 138,
@@ -996,7 +1065,8 @@
       "Position": "Right",
       "Text": "من می‌روم و تو ماند خواهی",
       "CoupletIndex": 69,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از اینجا می‌روم و تو در اینجا خواهی ماند و این درس‌ها را همچنان ادامه خواهی داد."
     },
     {
       "VOrder": 140,
@@ -1010,7 +1080,8 @@
       "Position": "Right",
       "Text": "اینجا چو رسی مرا دعا کن",
       "CoupletIndex": 70,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی به من رسیدی، خواهش می‌کنم برایم دعا کن و با فاتحه‌ای، روح مرا آرامش ببخش."
     },
     {
       "VOrder": 142,

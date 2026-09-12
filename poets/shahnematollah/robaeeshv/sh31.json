@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "همه نیکند هیچ خود بد نیست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همه موجودات خوب هستند و هیچ‌کس بد نیست. کسی که نیکو نیست، در واقع وجود ندارد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "جز یکی نیست در همه عالم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در کل دنیا فقط یک نفر وجود دارد، پس ای عزیز من، از گفتن این که صد نفر هستند، بپرهیز."
     },
     {
       "VOrder": 4,

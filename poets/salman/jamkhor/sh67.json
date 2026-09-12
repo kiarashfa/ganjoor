@@ -161,7 +161,8 @@
       "Text": "چو از اغیار مجلس گشت خالی",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: زمانی که مجلس از دیگران خالی شد، صنم از حال جم پرسید."
     },
     {
       "VOrder": 2,
@@ -177,7 +178,8 @@
       "Text": "که آن مسکین حبیبم را چه حالست",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: حبیب بیچاره‌ام در این دیار غریب چه وضعیتی دارد؟ حال من در این تنهایی و بی‌کسی چه طور است؟"
     },
     {
       "VOrder": 4,
@@ -193,7 +195,8 @@
       "Text": "یکایک قصه جمشید گفتند",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: قصه جمشید را به تفصیل روایت کردند و داستان کوچک‌ترین ذره را نیز در کنار خورشید بیان کردند."
     },
     {
       "VOrder": 6,
@@ -209,7 +212,8 @@
       "Text": "به شیرین قصه فرهاد بردند",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: به فرهاد داستان شیرین را آوردند و نامه‌ای از عذرا به وامق دادند."
     },
     {
       "VOrder": 8,
@@ -225,7 +229,8 @@
       "Text": "چو چشمش بر سواد نامه افتاد",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: وقتی چشمش به خط سیاه نامه افتاد، از روی مژه‌هایش مرواریدهای عشقی را آزاد کرد."
     },
     {
       "VOrder": 10,
@@ -241,7 +246,8 @@
       "Text": "ز نظمش داد جان را قوت و قوت",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: از نظم و ترتیب زندگی، جان انسان نیرو می‌گیرد و این نیرو از اشک‌ها به زیبایی و جلا می‌آید، مانند جواهر لولو که با یاقوت آراسته می‌شود."
     },
     {
       "VOrder": 12,
@@ -257,7 +263,8 @@
       "Text": "ز بویش یافت بوی آشنایی ",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: از رایحه‌اش بوی آشنا را حس کرد و با نگریستن به چهره‌اش، روشنایی و روشنی را دریافت نمود."
     },
     {
       "VOrder": 14,
@@ -273,7 +280,8 @@
       "Text": "سوادش چون سواد دیدگان بود",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: سواد او به تیزی و روشنی چشم‌ها بود و معنای کلماتش زیبا و شیوا بود."
     },
     {
       "VOrder": 16,
@@ -289,7 +297,8 @@
       "Text": "بر او معنی به جای خود نشسته",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: معنی این بیت این است که مانند زنی زیبا که نقابی از مشک بر چهره دارد، معنی و مفهوم در جای خود قرار گرفته است. زیبایی و جذابیت آن، در حالی که هنوز پنهان است، به وضوح دیده می‌شود."
     },
     {
       "VOrder": 18,
@@ -305,7 +314,8 @@
       "Text": "گل اندام از قلم شکر روان کرد",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: با قلم شیرین، زیبایی‌های اندام را توصیف کرد و معانی را با خط زیبا بیان کرد."
     },
     {
       "VOrder": 20,
@@ -321,7 +331,8 @@
       "Text": "بر اوراق سمن ریحان همی کاشت",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: روی برگ‌های درخت سمن و گل ریحان، با قلمش احساسات و حال و هوای جدایی را می‌نویسد."
     },
     {
       "VOrder": 22,
@@ -337,7 +348,8 @@
       "Text": "بر آورد آب حیوان از سیاهی",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: آب حیات از تاریکی به آرامی جاری شد و در چشم ماهی نمایان گردید."
     },
     {
       "VOrder": 24,
@@ -353,7 +365,8 @@
       "Text": "حریر چین به پای خامه پیمود",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: حریر چینی را به پای نوشتاری کشید، سرآغاز آن نامه این بود."
     },
     {
       "VOrder": 26,

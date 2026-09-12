@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای ماه شب است پردهٔ وصل بساز",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای ماه! شب را به پرده‌ای از ارتباط تبدیل کن و ای آسمان، پردهٔ خاقانی را بالا بزن."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "ای شب در صبح‌دم همی دار فراز",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای شب، در ابتدای صبح، به عالم بالا برو و ای صبح، کلید روز را در چاه بینداز."
     },
     {
       "VOrder": 4,

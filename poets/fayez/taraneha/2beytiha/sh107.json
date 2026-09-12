@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "کسی که‌آگه ز حال ما نباشد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی از وضعیت ما چیزی نداند، حتی اگر درباره‌ ما صحبت کند، کاری بی‌مورد نیست."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "بداند هر که بیند آن پری‌رو",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که آن دختر زیبا را ببیند، می‌فهمد که فائز بدون دلیل مورد سرزنش قرار نمی‌گیرد."
     },
     {
       "VOrder": 4,

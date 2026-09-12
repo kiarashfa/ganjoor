@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گر دور زمانه این چنین خواهد بود",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر اوضاع زمانه اینگونه باشد، افرادی نالایق جای افراد شایسته را خواهند گرفت."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "بحران اگر امتداد یابد چندی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر این وضعیت ادامه پیدا کند، اوضاع تو و من از این هم بدتر خواهد شد."
     },
     {
       "VOrder": 4,

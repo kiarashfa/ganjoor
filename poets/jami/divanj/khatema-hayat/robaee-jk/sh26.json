@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "رفتی سوی گشت و نامدی چونست این",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: رفتی به مسافرت و هنوز برنگشتی، حالا که یک هفته از رفتنت گذشته، چرا هنوز خبری از تو نیست؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گفتی که چو هفته ای شود باز آیم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفتی که پس از یک هفته بازخواهم گشت، اما اکنون که هفت روز گذشته، تو هشت شده‌ای و هنوز نیامده‌ای. این یعنی چه؟"
     },
     {
       "VOrder": 4,

@@ -221,7 +221,8 @@
       "Text": "فرستاد مر کوش را خواند پیش",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: او پیامبر را فرستاد تا بگوید، وقتی رسید، او را به نزدیک خود نشاند."
     },
     {
       "VOrder": 2,
@@ -237,7 +238,8 @@
       "Text": "یکی مایه‌ور پایگه ساختش",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: کسی برای او جایگاه و پایه‌ای محکم ساخت و به خاطر او به فراوانی ستایشش کرد و محبتش کرد."
     },
     {
       "VOrder": 4,
@@ -253,7 +255,8 @@
       "Text": "چو برگشت و آمد به نزدیک شاه",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: وقتی او برگشت و به نزدیک شاه رسید، در صبح زود یک لباس زیبا بر تن او پوشانیدند."
     },
     {
       "VOrder": 6,
@@ -269,7 +272,8 @@
       "Text": "ز تخت گرانمایه و تاج زر",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: از تخت و تاج ارزشمند و گرانبها، کسی که از محبوبان حمایت می‌کند و به آنها اهمیت می‌دهد، در حقیقت به زیبایی و لطافت زندگی توجه دارد."
     },
     {
       "VOrder": 8,
@@ -285,7 +289,8 @@
       "Text": "از اسبان تازی و هر گونه ساز",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: از اسبان تازی و سازهای مختلفی که خوبان می‌نوازند و چنگ و بربط به دست دارند، لذت می‌برم."
     },
     {
       "VOrder": 10,
@@ -301,7 +306,8 @@
       "Text": "هزار اشتر ماده پر خواسته",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: هزار شتر ماده که هر کدام زیبایی خاصی دارند، با پارچه‌های گران‌قیمت تزئین شده‌اند."
     },
     {
       "VOrder": 12,
@@ -317,7 +323,8 @@
       "Text": "صد از زرِّناب و صد از بوی‌ها",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: صد نوع رنگ و بوی مختلف، صد نوع لباس و موها با تنوع بسیار."
     },
     {
       "VOrder": 14,
@@ -333,7 +340,8 @@
       "Text": "دگر آلت رزم و ساز یلی",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که سلاح و تجهیزات جنگی به قدری قوی و مؤثر هستند که مانند زره‌ای مقاوم، حماسه‌ای جدید برای مبارزانی پرقدرت به وجود می‌آورند، همانند سلاح‌های برجسته‌ای که سرشار از شجاعت و توانایی هستند."
     },
     {
       "VOrder": 16,
@@ -349,7 +357,8 @@
       "Text": "درفشی گرانمایهٔ پُربها",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: او یک پرچم ارزشمند و گرانبها به او داد که شبیه به بدن یک اژدها بود."
     },
     {
       "VOrder": 18,
@@ -365,7 +374,8 @@
       "Text": "از آن خواسته خیره شد چشم کوش",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: به خاطر آن آرزو، چشمانش پر از شگفتی شد و از شادی، روحش به بالا جست."
     },
     {
       "VOrder": 20,
@@ -381,7 +391,8 @@
       "Text": "ندید و ندارد کس آن را به یاد",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس آن داستان را به خاطر ندارد و نخواهد داشت که خسرو از دیوزاد پیام فرستاد."
     },
     {
       "VOrder": 22,
@@ -397,7 +408,8 @@
       "Text": "ز خورشید دریا چو آمد به جوش",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: زمانی که خورشید به دریا می‌تابد و آن را به جوش می‌آورد، لباس پادشاهی را بر تن می‌پوشد و برای تلاش آماده می‌شود."
     },
     {
       "VOrder": 24,
@@ -413,7 +425,8 @@
       "Text": "بر اسب شهنشاه گیتی نشست",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: بر روی اسب پادشاه عالم نشسته و کمربند را به دور کمر خود بسته و دستانش را باز کرده است."
     },
     {
       "VOrder": 26,
@@ -429,7 +442,8 @@
       "Text": "همی راند با قارن نیکخواه",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: او با نیکخواهی قارن را راند و به درگاه رسیدند."
     },
     {
       "VOrder": 28,
@@ -445,7 +459,8 @@
       "Text": "دو کرسی نهادند در پیش تخت",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: دو کرسی را در مقابل تخت سلطنت گذاشتند و با شاه، دو خوشبخت نشسته‌اند."
     },
     {
       "VOrder": 30,
@@ -461,7 +476,8 @@
       "Text": "به دست خودش خسرو دادگر",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: خسرو دادگر با دستان خودش کمری را از فیروزه به او هدیه داد."
     },
     {
       "VOrder": 32,
@@ -477,7 +493,8 @@
       "Text": "بدو گفت شاه از ره مَرغَوا",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: شاه به او گفت: ای مرغ با خوشبختی و سعادتمند، تو به انصاف و قدرتی که داری، برتری و اقتدار یافته‌ای."
     },
     {
       "VOrder": 34,
@@ -493,7 +510,8 @@
       "Text": "کمر بر میان بست کوش سترگ",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: مردی که با شجاعت و قوت تمام خود را آماده کرده است، به دستور پادشاهی بزرگ و توانمند، آماده‌ی انجام کارهای بزرگ می‌شود."
     },
     {
       "VOrder": 36,
@@ -509,7 +527,8 @@
       "Text": "دو رخ کوش بر خاک تیره پسود",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: دو چهره بر خاک سیاه نهادند و با نیایش خود بر مقام ستایش افزودند."
     },
     {
       "VOrder": 38,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "چند ای خر گدا توان گفتن",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چند نفر می‌توانند بگویند که من همواره شانس و بخت خوبی داشته‌ام، ای خر!"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "پسر آرق وزیرم من",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من پسر آرق وزیر هستم و پدرم وزیر خان بوده است."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "چه کنم زن جلب که یک باری",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من چه کنم که تو زنی داری که یک بار پدرت به دین فلان پیوسته است؟"
     },
     {
       "VOrder": 6,

@@ -241,7 +241,8 @@
       "Text": "عمر چو بدیدش فتاده به خاک",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: زمانی که عمر خود را دید که به زمین افتاده و بدنش از زخم‌های شمشیر و چنگال پاره پاره شده است."
     },
     {
       "VOrder": 2,
@@ -257,7 +258,8 @@
       "Text": "بگفتا که از نازنین پیکرش",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: گفتند که آن پهلوان با زیبایی‌اش را بریدند و از او جدا کردند."
     },
     {
       "VOrder": 4,
@@ -273,7 +275,8 @@
       "Text": "فکندند درلشکر شهریار",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در سپاه پادشاه، به مادر داغدار شیرزنی اشاره می‌شود که داغی بزرگ بر دل دارد."
     },
     {
       "VOrder": 6,
@@ -289,7 +292,8 @@
       "Text": "پسر کشته زن چون سر پور دید",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: پسر کشته، وقتی که چهره‌ی زن را دید، از خوشحالی چهره‌اش مانند گل شکفت."
     },
     {
       "VOrder": 8,
@@ -305,7 +309,8 @@
       "Text": "زمانی به شکرانه لب برگشود",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: روزی در لابلای لب‌هایش، به شکرگزاری خداوند، دعای بسیاری کرد."
     },
     {
       "VOrder": 10,
@@ -321,7 +326,8 @@
       "Text": "همی گفت کای داور دستگیر",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: داور ای خدا! به یاری‌ام بیامد و دست من را بگیر تا این جوان را در آغوش بگیری."
     },
     {
       "VOrder": 12,
@@ -337,7 +343,8 @@
       "Text": "پس آنگه سر نوجوان برگرفت",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: پس از آن، جوان سرش را بالا آورد و به طرف او نگاه کرد و با اندوه شروع به گریه کردن کرد."
     },
     {
       "VOrder": 14,
@@ -353,7 +360,8 @@
       "Text": "ببوسید و لب برلب او نهاد",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: او او را بوسید و لب‌هایش را بر لب‌های او گذاشت و گفت: ای فرزند پاک و باعزت."
     },
     {
       "VOrder": 16,
@@ -369,7 +377,8 @@
       "Text": "مرا این زمان شادمان ساختی",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: این زمان با خوشحالی شادمانم کردی، چون به یاری پادشاه دل باختم."
     },
     {
       "VOrder": 18,
@@ -385,7 +394,8 @@
       "Text": "کنون ای بهار و گلستان من",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اکنون، ای بهار و گلزار من، برای تو شیر و دوش من حلال است."
     },
     {
       "VOrder": 20,
@@ -401,7 +411,8 @@
       "Text": "بچم در بهشت برین سرخ روی",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: فرزندم در بهشت با چهره‌ای تابناک در کنار پیامبر (ص) و خانواده‌اش قرار دارد."
     },
     {
       "VOrder": 22,
@@ -417,7 +428,8 @@
       "Text": "بنه تاج پیروز بختی به سر",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: تاج پیروزی را بر سر عروس بهشتی بگذار و او را در آغوش بگیر."
     },
     {
       "VOrder": 24,
@@ -433,7 +445,8 @@
       "Text": "بگریم براین روی گلگون تو",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: برای چهره زیبای تو اشک می‌ریزم و برای این زخم عمیق که بر دلم نشسته، گله‌مندم."
     },
     {
       "VOrder": 26,
@@ -449,7 +462,8 @@
       "Text": "پس آن شیر زن کردکاری شگفت",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: پس آن زن دلیر کار شگفتی انجام داد و سر فرزند پاکش را برداشت."
     },
     {
       "VOrder": 28,
@@ -465,7 +479,8 @@
       "Text": "فکندش سوی پهنه ی رزمگاه",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: او را به میدان جنگ پرتاب کرد، به خاطر این که از آن سپاه، کسی را به زمین انداخت."
     },
     {
       "VOrder": 30,
@@ -481,7 +496,8 @@
       "Text": "بگفت این به سربازی ازمن نکوست",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: می‌گوید: این کار را که انجام می‌دهم، از جانب من خوب است و نباید به خاطر چیزی که به دوستانم داده‌ام، با کسی سر ناسازگاری داشته باشم."
     },
     {
       "VOrder": 32,
@@ -497,7 +513,8 @@
       "Text": "ستون سراپرده را برکشید",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: ستون چادر را برداشت و با خون پسرش به سوی میدان دوید."
     },
     {
       "VOrder": 34,
@@ -513,7 +530,8 @@
       "Text": "خروشید و مردانه زد بر سپاه",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: با شجاعت و قدرت به میدان آمد و دو نفر را در نبرد نابود کرد."
     },
     {
       "VOrder": 36,
@@ -529,7 +547,8 @@
       "Text": "زدورش چو چشم شهنشاه دید",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: وقتی چشم پادشاه به او افتاد، به سمت خودش اشاره کرد و خبری خوش به او داد."
     },
     {
       "VOrder": 38,
@@ -545,7 +564,8 @@
       "Text": "که ای مادر داغدار وهب",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: ای مادر داغداری که فرزندت وهب با مردانگی تمام جانش را فدای ایمان کرد."
     },
     {
       "VOrder": 40,
@@ -561,7 +581,8 @@
       "Text": "نفرموده یزدان زنان را نبرد",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: خدایی که به ما گفته زنان را به سمت خیمه‌ی خود برنگردانید."
     },
     {
       "VOrder": 42,

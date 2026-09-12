@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "دلم ز ماریه عزم سفر نکرده هنوز",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من هنوز تصمیم به سفر نگرفته و به فکر شهر و دیار دیگری نیست."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "خیال می کشدم گه به شام و، گه به حجاز",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاهی به فکر سفر به شام و حجاز می‌افتم، اما هنوز نتوانسته‌ام از یاد ماریه دست بکشم."
     },
     {
       "VOrder": 4,
@@ -54,7 +56,8 @@
       "Position": "Right",
       "Text": "به اهل بیت پیمبر مگر که مر شریر",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا کسانی که به اهل بیت پیامبر تعلق دارند، هنوز از ناپاکی در کربلا دست نکشیده‌اند؟"
     },
     {
       "VOrder": 6,
@@ -68,7 +71,8 @@
       "Position": "Right",
       "Text": "سرشک دیدهٔ زین العباد خشک نشد",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم‌های زین العابدین هرگز خشک نشدند و همیشه پر از اشک هستند، مگر اینکه حسین هنوز هیچ آبی برای تر کردن لب‌هایش نداشته باشد."
     },
     {
       "VOrder": 8,
@@ -82,7 +86,8 @@
       "Position": "Right",
       "Text": "شراره آه دل، از تشنگی شه، با شمر",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آتش دل و آه جان از تشنگی، آیا هنوز اثر شمر بر دل سنگینش نداشته است؟"
     },
     {
       "VOrder": 10,
@@ -96,7 +101,8 @@
       "Position": "Right",
       "Text": "برهنه سرکند از مشرق آفتاب طلوع",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا ممکن است آفتاب از شرق بیرون بیاید در حالی که زینب هنوز روسری بر سر نکرده باشد؟"
     },
     {
       "VOrder": 12,
@@ -110,7 +116,8 @@
       "Position": "Right",
       "Text": "نوای نالهٔ لیلا ز نینوا آید",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آوای غم‌انگیز لیلا از نینوا به گوش می‌رسد، مگر اینکه هنوز کنار پیکر پسرش نایستاده باشد؟"
     },
     {
       "VOrder": 14,
@@ -124,7 +131,8 @@
       "Position": "Right",
       "Text": "تنور خانهٔ خولی ست بزم مهمانی",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تنور خانهٔ خولی پر از جشن و شادی است، اما آیا هنوز حسین از آنجا سفر نکرده است؟"
     },
     {
       "VOrder": 16,
@@ -138,7 +146,8 @@
       "Position": "Right",
       "Text": "فلک به عترت اطهار در خرابهٔ شام",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا ستاره‌ها هنوز شب غمناک خانواده‌ی پاک را در ویرانه‌های شام روشن نکرده‌اند؟"
     },
     {
       "VOrder": 18,
@@ -152,7 +161,8 @@
       "Position": "Right",
       "Text": "سر بریدهٔ سبط نبی به بزم یزید",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا سر بریدهٔ نوهٔ پیامبر در مهمانی یزید هنوز از ظرف طلا جدا نشده است؟"
     },
     {
       "VOrder": 20,
@@ -166,7 +176,8 @@
       "Position": "Right",
       "Text": "صبا ز کرب وبلا در نجف ز قتل حسین",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باد به نجف از کربلا می‌وزد، آیا خبر قتل حسین به علی نرسیده است؟"
     },
     {
       "VOrder": 22,
@@ -180,7 +191,8 @@
       "Position": "Right",
       "Text": "سرشک دیدهٔ «ترکی» ز سرگذشت ولی",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم‌های «ترکی» به خاطر یاد خاطراتش پر از اشک است، اما از دشت ماریه، خاکی همچنان به سر نداشته و نادیده مانده است."
     },
     {
       "VOrder": 24,

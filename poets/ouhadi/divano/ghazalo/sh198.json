@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "دلم جز تو آهنگ یاری نکرد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من جز تو هیچ‌کس را به دوستی نخواسته و به هیچ‌یک از دیگران تمایلی ندارد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "به طرف چمن در خزانی نرفت",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در فصل پاییز به سمت چمن نرفت و در فصل بهار نیز تماشای گل‌ها را نکرد."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "به راه تو بر هیچ خاکی ندید",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در طول مسیر تو، هیچ زمینی را ندیدم که از اشک‌های من بر آن چیزی هدیه نشده باشد."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "کسی را که با رویت افتاد مهر",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی به خاطر زیبایی‌ات عاشق تو شد و مانند ماه درخشید، دیگر برایش ارزشی نخواهی داشت."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "در آنها که دل مدخلی می‌کنند",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در افرادی که دلشان را به کسی می‌سپارند، جز محبت به تو اختیار دیگری ندارند."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "لبت پیش ما هیچ شغلی ندید",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: لب تو هیچ کار و فعالیتی را ندید که باعث نشود از زحماتش رشته و تارهایی برای خود فراهم کند."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "شبی در فراقت نکردیم روز",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک شب که به خاطر دوری تو خواب را از دست دادیم، روزی نبود که دنیا با ما مهربان باشد و به ما سختی نرساند."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "نمودی که: رویم چه کرد از جفا؟",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به من نشان دادی که چطور از ظلمه و بی‌وفایی رنج می‌برم. وفایی که همیشه دنبالش بودم، هیچ‌گاه به من نرسید."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "خرامنده قدی چنان دلنواز",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شخصی با قدم‌های زیبای خود به‌قدری دلنشین و جذاب است که نیازی به توضیح بیشتری برای درک زیبایی‌اش نیست، زیرا خود وجود او کافی است و هیچ کلامی نمی‌تواند این زیبایی را به درستی بیان کند."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "نگوید کسی شکر ایام عمر",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس از خوبی‌های زندگی و روزهای خوب آن سخنی نمی‌گوید، زیرا هیچ‌کس برای زندگی‌اش تلاش و کوشش نکرده است."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "ز نوشیدنی‌ها می وصل تست",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این نوشیدنی که تو را به وصل می‌رساند، به گونه‌ای است که نوشندگان را مست و غافل نمی‌کند."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "خیال تو پیش من آمد شبی",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک شب خیال تو به سراغم آمد، اما برای نیم ساعت هم نتوانستیم به توافق برسیم."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "دل اوحدی تکیه بر عمر داشت",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل اوحدی به عمرش امید داشت، اما او نیز از دنیا رفت و هیچ کار خاصی انجام نداد."
     },
     {
       "VOrder": 26,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "با گل گفتم ابر چرا می‌گرید",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با گل صحبت می‌کردم و از او پرسیدم که چرا ابرها اشک می‌ریزند، در حالی که به نظر نمی‌رسد برای چیزی غمگین باشند. چرا دارند می‌بارند؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گل گفت اگر راست همی باید گفت",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گل می‌گوید اگر راست بگویم، بر عمر خودم و پیمان شما اشک می‌ریزم."
     },
     {
       "VOrder": 4,

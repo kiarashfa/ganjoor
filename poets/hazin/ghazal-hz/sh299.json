@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "یک ره به سر تربتم از ناز نیامد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک بار هم به سرزمین قبرم نیامد. این جان که از بدن جدا شده، دیگر برنمی‌گردد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "پیغام دروغی که فریبد دل ما را",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پیام نادرستی که قلب ما را فریب می‌دهد، افسوس که از آن گوهر جادویی خبری نیست."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "خونین جگری بی تو نهفتیم ولیکن",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل زخمی و غمگین خود را با وجود تو پنهان کرده‌ایم، اما از گریه کردن، نتوانسته‌ایم رازهای خود را حفظ کنیم."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "رفتم که نویسم من سودا زده حرفی",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: رفتم تا چیزی بنویسم، اما نتوانستم درباره موضوعی که در جست‌وجوی آن هستم، چیزی پیدا کنم و خبری از آن بازنگشت."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "روزی که به دل ناله گره بود حزین را",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در روزی که دل حزین پر از ناله و غم بود، صدای ناقوس معبد به گوش نیامد."
     },
     {
       "VOrder": 10,

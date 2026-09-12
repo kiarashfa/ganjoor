@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "به نبرد بسیار بیندیش که بار گران با تو نباشد.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: به جنگ‌هایی که در آن‌ها بار سنگینی بر دوش تو نیست، فکر کن."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "شوی چون به پیکار جنگاوران",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی به جنگجویان می‌نگری، باید توجه داشته باشی که بار سنگینی بر دوش نداشته باشی."
     },
     {
       "VOrder": 3,

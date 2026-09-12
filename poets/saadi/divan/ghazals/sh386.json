@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "شب دراز به امید صبح بیدارم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در طول شب که طولانی است، به امید رسیدن صبح بیدار مانده‌ام، شاید نسیم صبحگاهی عطر حضور تو را با خود بیاورد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "عجب که بیخ محبت نمی‌دهد بارم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عجیب است که عشق او به من کمک نمی‌کند، در حالی که من با این همه شوق و اشتیاق به او عشق می‌ورزم."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "از آستانهٔ خدمت نمی‌توانم رفت",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من نمی‌توانم از درگاه خدمتت دور شوم، مگر اینکه در منزلت جایی برایم فراهم نکنی."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "به تیغ هجر بکشتی مرا و برگشتی",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با تیغ جدایی من را آزردی و اکنون برگرد و دوباره زندگی ابدی به من ببخش."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "چه روزها به شب آورده‌ام در این امید",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روزهایی را به شب سپری کرده‌ام به این امید که با وجود تو، شبی را به روزی شگفت‌انگیز تبدیل کنم."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "چه جرم رفت که با ما سخن نمی‌گویی؟",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا با من صحبت نمی‌کنی؟ چه خطایی از من سر زده که سزاوار دوری و جدایی تو هستم؟"
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "هنوز با همه بدعهدیت دعاگویم",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با وجود بی‌وفایی‌ات، هنوز برایت دعا می‌کنم و با وجود کم‌توجهی‌ات، همچنان از تو انتظار دارم."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "من از حکایت عشق تو بس کنم؟ هیهات",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "AI: من دیگر نمی‌توانم از داستان عشق تو بگویم، جز این که مرگ بیاید و زبانم را ببندد. (تصحیح\u00A0AI: من دیگر از داستان عشق تو نگویم؟! هرگز! جز این که مرگ بیاید و زبانم را ببندد.)"
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "هنوز قصهٔ هجران و داستان فراق",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "AI: هنوز داستان جدایی و دوری تمام نشده و زندگی‌ام همچنان در حال ادامه است. (تصحیح\u00A0AI: هنوز داستان جدایی و دوری تمام نشده و زندگی‌ام رو به پایان است.)"
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "اگر تو عمر در این ماجرا کنی سعدی",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در این ماجرا عمرت را بگذرانی، تصور نمی‌کنم که داستان عشق تمام شود."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "حدیث دوست نگویم مگر به حضرت دوست",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من درباره دوستی سخن نمی‌گویم مگر با خداوندی که تنها او از رازهایم آگاه است."
     },
     {
       "VOrder": 22,

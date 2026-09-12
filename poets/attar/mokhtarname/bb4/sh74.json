@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "چون نیست، گر از پیش روی، پیشانت",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر چیزی وجود ندارد، حتی اگر از جلو از آن عبور کنی، یا اگر بخواهی از پشت راه را کنی، باز هم به نرسیدن به هدف دچار خواهی شد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "صد راه ز هر ذرّه همی برخیزد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از هر ذره‌ای هزاران راه به وجود می‌آید، تا اینکه جانت به کدام مسیر برود."
     },
     {
       "VOrder": 4,

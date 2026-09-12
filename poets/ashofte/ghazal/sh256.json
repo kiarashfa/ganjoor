@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "مرا جز عشق و سودای تو دین نیست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من هیچ دین و ایینی جز عشق و آرزوی تو ندارم، چون در مکتب ما جز این عشق ارزشی ندارد."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "کمانداری در این لشکر ندیدم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این گروه، من هیچ کمانداری نمی‌بینم که جان خسته‌ای را در تله کمین کرده باشد."
     },
     {
       "VOrder": 4,
@@ -55,7 +57,8 @@
       "Position": "Right",
       "Text": "کجا یارا که پیش حکم و رایش",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کجا کسی هست که بتواند در برابر تصمیم و رأی او صحبت کند و بگوید که اینگونه است و آنگونه نیست؟"
     },
     {
       "VOrder": 6,
@@ -69,7 +72,8 @@
       "Position": "Right",
       "Text": "از آن غم را که به شادی می‌گزینم",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من غم را انتخاب می‌کنم تا شادی را فراموش کنم، زیرا جای تو در دل من تنها با اندوه پر شده است."
     },
     {
       "VOrder": 8,
@@ -83,7 +87,8 @@
       "Position": "Right",
       "Text": "خطا گفتم که چشم مستش آهوست",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اشتباه بودم که گفتم نگاه زیبای او مانند چشم آهوست، زیرا این زیبایی نه در تاتارها دیده می‌شود و نه در چین."
     },
     {
       "VOrder": 10,
@@ -97,7 +102,8 @@
       "Position": "Right",
       "Text": "عجب نبود بر آن لب شور اغیار",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عجیبی نیست که بر آن لب‌های شور و تلخ دیگران، عسل وجود ندارد، زیرا بدون زنبور هیچ‌گاه عسل تولید نمی‌شود."
     },
     {
       "VOrder": 12,
@@ -111,7 +117,8 @@
       "Position": "Right",
       "Text": "نجوشد شهد هرگز از نمکزار",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عسل هرگز از لابه‌لای نمک‌زار نمی‌جوشد، همان‌طور که در میان برگ‌های گل، آب زلال وجود ندارد."
     },
     {
       "VOrder": 14,
@@ -125,7 +132,8 @@
       "Position": "Right",
       "Text": "زدست ساقی ما هر که می خورد",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که از دست ساقی ما می‌نوشد، نباید به فکر نعمت‌های بهشت و زیبایی‌های آن باشد."
     },
     {
       "VOrder": 16,
@@ -139,7 +147,8 @@
       "Position": "Right",
       "Text": "به صورت آدمی لیکن ز نوری",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که انسان به ظاهری شبیه به دیگران است، اما از نور و ویژگی‌هایی برخوردار است که در آب و خاک وجود ندارد. یعنی انسان از جنبه‌های معنوی و الهی برخوردار است که او را از سایر موجودات متمایز می‌کند."
     },
     {
       "VOrder": 18,
@@ -153,7 +162,8 @@
       "Position": "Right",
       "Text": "اگرچه خصم دعوی کرد جا هست",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه دشمن ادعا می‌کند که جایی برای او هست، اما جادو به معجزه نمی‌رسد."
     },
     {
       "VOrder": 20,
@@ -167,7 +177,8 @@
       "Position": "Right",
       "Text": "اگر خاتم ز جم بربود دیوی",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر آن حلقه‌ی جمشید را دیوی بردارد، به این معنا نیست که او صاحب مقام و منزلت است."
     },
     {
       "VOrder": 22,
@@ -181,7 +192,8 @@
       "Position": "Right",
       "Text": "مهل آشفته ساید جبهه بر خاک",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نگذار که چهره‌ام در غم و اندوه بر خاک بیفتد، زیرا جز یاد تو بر forehead من هیچ نشانی نیست."
     },
     {
       "VOrder": 24,
@@ -195,7 +207,8 @@
       "Position": "Right",
       "Text": "علی مولای ما تا صاحب عصر",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: علی، پیشوای ما، تنها کسی است که در تمام زمان‌ها بی‌نظیر و منحصر به فرد است و هیچ‌کس دیگری در مقام او قرار ندارد."
     },
     {
       "VOrder": 26,

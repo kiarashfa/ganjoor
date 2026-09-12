@@ -307,7 +307,8 @@
       "Text": "ز نفست گر شد این سرها ربوده",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: اگر سرها به خاطر جان تو به تب و تاب افتاده‌اند، دیگر هیچ وصفی در تو نخواهد ماند که ناپسند باشد."
     },
     {
       "VOrder": 2,
@@ -323,7 +324,8 @@
       "Text": "چو این اوصاف سبعه جمله اصلند",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: این ویژگی‌های هفت‌گانه، اصول اساسی هستند و سایر صفات به این اصول وابسته‌اند."
     },
     {
       "VOrder": 4,
@@ -339,7 +341,8 @@
       "Text": "مثال کینه و ظلم و عداوت",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: کینه و دشمنی مانند آتش خشم است که در دل دارند."
     },
     {
       "VOrder": 6,
@@ -355,7 +358,8 @@
       "Text": "بدینسان سایر اوصاف دیگر",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: به این ترتیب، ویژگی‌های دیگر نیز به تدریج شکل می‌گیرند و از سرچشمه‌ای تغذیه می‌کنند."
     },
     {
       "VOrder": 8,
@@ -371,7 +375,8 @@
       "Text": "بهر جا نسبت هر یک عیانست",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: هر جا که رابطه و نسبت افراد مشخص و واضح است، من نمی‌انگارم که نیازی به توضیح و بیان اضافی وجود دارد."
     },
     {
       "VOrder": 10,
@@ -387,7 +392,8 @@
       "Text": "اگر یکوصف جائی جلوه‌گر هست",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: اگر در جایی زیبایی یا زشتی وجود داشته باشد، این حالت تأثیراتی از دیگر موجودات و عوامل نیز خواهد داشت."
     },
     {
       "VOrder": 12,
@@ -403,7 +409,8 @@
       "Text": "خصال بد ولیکن جز عرض نیست",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: خصلت‌های بد فقط ظاهری هستند و در واقعیت وجود ندارند، در حالی که خوبی‌ها واقعی و ذاتی هستند."
     },
     {
       "VOrder": 14,
@@ -419,7 +426,8 @@
       "Text": "یکی نفس تو چون اماره آید",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: وقتی نفس تو به سمت بدی‌ها تمایل پیدا کند، تمام زشتی‌ها و گناهان از آنجا سر بر می‌آورند."
     },
     {
       "VOrder": 16,
@@ -435,7 +443,8 @@
       "Text": "و گر لوامه شد از قلب نوری",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: اگر در دل انسان نیرویی از محبت و آگاهی ایجاد شود، نوری از آن در درون او می‌تابد که باعث نزدیک‌تر شدن او به حقیقت و شناخت می‌شود."
     },
     {
       "VOrder": 18,
@@ -451,7 +460,8 @@
       "Text": "باندازه تنبه کانتقالش",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: به اندازه‌ای که انسان باید از خواب غفلت و گمراهی بیدار شود، باید هوشیار باشد."
     },
     {
       "VOrder": 20,
@@ -467,7 +477,8 @@
       "Text": "مردد در میان نور و ظلمت",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: شخصی در حالت تردید میان روشنایی و تاریکی است و در جستجوی حقیقت وجود و آفرینش می‌باشد."
     },
     {
       "VOrder": 22,
@@ -483,7 +494,8 @@
       "Text": "کند گاهی طلب از توبه مفتاح",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: گاهی اوقات درخواست از خداوند می‌تواند درهای توبه را باز کند، شاید به این طریق راهی برای اصلاح و بهبود پیدا کنی."
     },
     {
       "VOrder": 24,
@@ -499,7 +511,8 @@
       "Text": "از آن حیثی که سجینی صفاتست",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: به خاطر ویژگی‌هایی که سجین دارد، همه تمایلات و خواسته‌های او به سمت ستم و سختی است."
     },
     {
       "VOrder": 26,
@@ -515,7 +528,8 @@
       "Text": "وزان وجهی که علیین اساس است",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: از آن جهت که صفات عالیه و ارجمند وجود دارد، فراهم کردن مقدمات و آمادگی برای درک آن هم بر عهده حواس است."
     },
     {
       "VOrder": 28,
@@ -531,7 +545,8 @@
       "Text": "ازو ظاهر شد ار وقتی قباحت",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی با بی‌شرمی و زشت‌سویی خود را نشان دهد، باید خودش را سرزنش کند بخاطر همان بی‌شرمی."
     },
     {
       "VOrder": 30,
@@ -547,7 +562,8 @@
       "Text": "دگر تا نفس را معیار چبود",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: شاید درک و کمال انسان به نفس او وابسته باشد، و برای فهم و آگاهی نیز نیاز به نفس است."
     },
     {
       "VOrder": 32,
@@ -563,7 +579,8 @@
       "Text": "اگر پس جاهلی بر کس عطائی",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی که در گذشته جاهل بوده، حالا به کسی کمک یا موهبتی بدهد، نباید بگویی که این کمک ارزش ندارد."
     },
     {
       "VOrder": 34,
@@ -579,7 +596,8 @@
       "Text": "که سازی از نوا دادن ملولش",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: کسی که موسیقی می‌نوازد، نمی‌داند که نوا دادن او چه تأثیری بر روح دیگران دارد و نفس او، که پر از فریب است، درک درستی از این موضوع ندارد."
     },
     {
       "VOrder": 36,
@@ -595,7 +613,8 @@
       "Text": "بود تکلیف هر کس قدر فهمش",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: هر فرد به اندازه‌ی درک و توانایی‌اش مسئولیت دارد و بر اساس همین قابلیت‌ها، سهمی از حقوق و مسئولیت‌ها به او تعلق می‌گیرد."
     },
     {
       "VOrder": 38,
@@ -611,7 +630,8 @@
       "Text": "عطای او بمحض خود نمائی است",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: نعمت‌های او به محض اینکه جلوه کند، نشان‌دهنده خلوص نیت و دوری از تظاهر هستند."
     },
     {
       "VOrder": 40,
@@ -627,7 +647,8 @@
       "Text": "شود ور نفس یکجا مطمئنه",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: وقتی که نفس انسان در آرامش و اطمینان باشد، دیگر از خیالات و تردیدها رهایی می‌یابد."
     },
     {
       "VOrder": 42,
@@ -643,7 +664,8 @@
       "Text": "ز اخلاق ذمیمه خلع و معذور",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: با دوری از صفات ناپسند و زشت و داشتن ویژگی‌های نیکو، می‌توان به زندگی پربار و خوشی دست یافت."
     },
     {
       "VOrder": 44,
@@ -659,7 +681,8 @@
       "Text": "توجه جمله باشد سوی قلبش",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: همه توجه‌ها به سمت قلب اوست، چرا که او روحی مقدس را به خود جلب کرده است."
     },
     {
       "VOrder": 46,
@@ -675,7 +698,8 @@
       "Text": "کند تشییع قلب اندر ترقی",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: دل به سمت سرزمین مقدس و حقیقت در حال رشد و پیشرفت است."
     },
     {
       "VOrder": 48,
@@ -691,7 +715,8 @@
       "Text": "دو اسبه تازد او تا مالک الله",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: دو اسب براند و به سوی خدا و دست مولایت برو."
     },
     {
       "VOrder": 50,
@@ -707,7 +732,8 @@
       "Text": "صفی هم هست چشمش در رهی باز",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: چشمی در مسیر وجود دارد که به رازها و دانسته‌ها آگاه است و تو می‌دانی که این دانش به چه معناست."
     },
     {
       "VOrder": 52,
@@ -723,7 +749,8 @@
       "Text": "تو می‌دانی که علام الغیوبی",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: تو می‌دانی که تو تنها پناهگاهی هستی و خالق تمامی خوبی‌ها و بدی‌ها."
     },
     {
       "VOrder": 54,
@@ -739,7 +766,8 @@
       "Text": "دعا ما بین رب و عبد غیر است",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: دعای بندۀ خدا با خدای او متفاوت است و در هر حالتی که باشی، خداوند همواره خیر و نیکی را در نظر دارد."
     },
     {
       "VOrder": 56,

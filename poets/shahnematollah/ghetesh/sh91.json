@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "شاها کرمی بکن مکن جنگ",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای پادشاه، لطفی کن و درگیری و جنگ را نکن. از جنگ دوری کن و به صلح و آرامش بیندیش."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گر جنگ کنی ملازمانت",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در جنگ و درگیری باشی، یاران و همراهانت ضعیف و ناامید خواهند شد."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "بشنو سخنی ز نعمت الله",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به سخن نعمت خدا گوش فرا بده، صلح کن و از جنگ دوری کن."
     },
     {
       "VOrder": 6,

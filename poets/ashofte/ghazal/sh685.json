@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "همتی ساقیا که مخمورم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای ساقی، امیدی به تو دارم، چون از می پرم و شادابم، تو بر من منت نگذار و بر دل زخم‌خورده‌ام ترحمی کن."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "درد سر دارم از فسرده‌دلان",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دردی که دارم به خاطر دل‌های ناراحت است، مانند آتشی است که در آب انگور شعله‌ور می‌شود."
     },
     {
       "VOrder": 4,
@@ -55,7 +57,8 @@
       "Position": "Right",
       "Text": "پرده بردار زآتش سینا",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پرده را کنار بزن و آتش عشق را روشن کن تا من نیز با این آتش، حجاب و موانع درونی‌ام را بسوزانم."
     },
     {
       "VOrder": 6,
@@ -69,7 +72,8 @@
       "Position": "Right",
       "Text": "از تو کشف غطاء آید و بس",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از تو پرده‌برداری می‌شود و فقط همین، در چشمانم یقین را روشن می‌کنی."
     },
     {
       "VOrder": 8,
@@ -83,7 +87,8 @@
       "Position": "Right",
       "Text": "بس که شوق عسل به سر دارم",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من آنقدر به عسل علاقه دارم که در خانه‌ام مثل زنبور پر از شوق و ذوق هستم."
     },
     {
       "VOrder": 10,
@@ -97,7 +102,8 @@
       "Position": "Right",
       "Text": "با هوای شکرلبان چه عجب",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با وجود لب‌های شیرینی که دارد، آیا جای تعجب است اگر مورچه‌ای به خانه‌اش راه پیدا کند؟"
     },
     {
       "VOrder": 12,
@@ -111,7 +117,8 @@
       "Position": "Right",
       "Text": "من به چنگال شاهباز غمت",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من مانند پرنده‌ای هستم که به چنگال شاهباز غم تو افتاده و در اسارت او قرار دارم."
     },
     {
       "VOrder": 14,
@@ -125,7 +132,8 @@
       "Position": "Right",
       "Text": "خیز و از خاک راه میخواران",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت دعوت به برخاستن و توجه به زندگی پرشور می‌کند. به نظر می‌رسد که گوینده از شنیدن یا مشاهده‌ امور دل‌انگیز لذت می‌برد و می‌خواهد که یادآور آن نشانه‌های شادی و سرمستی باشد. در این حالت، بر اهمیت غفلت نداشتن و از دست ندادن لحظات خوب زندگی تاکید دارد."
     },
     {
       "VOrder": 16,
@@ -139,7 +147,8 @@
       "Position": "Right",
       "Text": "این هوسناکی‌ام که در سر هست",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این میل و آرزوهایی که در سر دارم، در نهایت مرا از عشق دور می‌کند."
     },
     {
       "VOrder": 18,
@@ -153,7 +162,8 @@
       "Position": "Right",
       "Text": "عذر می‌خواهمت ز بوالهوسی",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از تو عذرخواهی می‌کنم به خاطر اینکه دچار هوسرانی شده‌ام، ای عشق، اگر تو من را ببخشی."
     },
     {
       "VOrder": 20,
@@ -167,7 +177,8 @@
       "Position": "Right",
       "Text": "نافه بگشا صبا از آن سر زلف",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سلام! باد صبا، زلفش را به سمت من باز کن، زیرا زخم عمیق و رنجی که بر دل دارم، بر اثر بی‌مهری اوست."
     },
     {
       "VOrder": 22,
@@ -181,7 +192,8 @@
       "Position": "Right",
       "Text": "آتشی زن ز عشق بر جانم",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مرا از عشق شعله‌ای بزن و جانم را تازه کن، آن گاه که درخشش تو همچون درخشندگی کوه طور است."
     },
     {
       "VOrder": 24,
@@ -195,7 +207,8 @@
       "Position": "Right",
       "Text": "آن بهشتم بیار در مجلس",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مرا به بهشت خود دعوت کن، تا از بهشت و حوری‌ها بی‌نیاز شوم."
     },
     {
       "VOrder": 26,
@@ -209,7 +222,8 @@
       "Position": "Right",
       "Text": "شیخ را گر غرور از عمل است",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر شیخ به خاطر اعمال خود در حال خودپسندی باشد، من به خاطر رحمت و بخشش خداوند مغرورم."
     },
     {
       "VOrder": 28,
@@ -223,7 +237,8 @@
       "Position": "Right",
       "Text": "من آشفته مدح حیدر و آل",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در حمد و ستایش حیدر و خاندان او درگیر و مشغول هستم و جز این فعالیت دیگری از من برنمی‌آید."
     },
     {
       "VOrder": 30,

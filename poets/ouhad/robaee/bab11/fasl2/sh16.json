@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "هر چند کسی نیست که هست الّا او",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچند که هیچ‌کس نیست جز او، اما باید بتوانی خودت را از او متمایز کنی."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "با او بودن خوش است لیکن بی خود",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بودن با او لذت‌بخش است، اما بی‌دلیل و بی‌جهت بودن نیز لذت دارد، هرچند که در کنار او هستی."
     },
     {
       "VOrder": 4,

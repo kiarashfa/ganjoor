@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "هرچند نباشد خبرت از رازی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچند ممکن است از رازی آگاهی نداشته باشی، ولی وقتی زمانش برسد، آماده‌ای که حقیقت‌ها را بشنوی و درک کنی."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "آهنگ و مقام هم اگر نشناسی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو با آهنگ و مقام آشنا نباشی، چه فرقی می‌کند با کسی که فقط صدایی می‌شنود و از آن بی‌خبر است؟"
     },
     {
       "VOrder": 4,

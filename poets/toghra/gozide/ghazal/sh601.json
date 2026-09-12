@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "گر باده می خری، به زر گل خرید کن",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی شراب بخری، بهتر است گل را با طلا بخر. همچنین ساز طرب و بلبل را نیز خریداری کن."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "خالی ز عیب نیست متاع دکان زهد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ کالایی در فروشگاه زهد نیست که عیب نداشته باشد؛ بنابراین بهتر است این کالا را با دقت و تأمل بخری."
     },
     {
       "VOrder": 4,

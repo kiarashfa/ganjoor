@@ -371,7 +371,8 @@
       "Text": "بشنو این نی چون شکایت می‌کند",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "بشنو از نی چون قصه‌ها برای گفتن دارد؛ قصه‌ها و سخن‌هایی که از جدایی‌ها شکایت می‌کند."
     },
     {
       "VOrder": 2,
@@ -387,7 +388,8 @@
       "Text": "کز نِیِستان تا مرا بُبریده‌اند",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "(می‌گوید) که از روزی که از نیستان مرا بریده‌اند‌، مرد و زن با من هم‌نوا گشته‌اند. (مرا نواخته‌اند)"
     },
     {
       "VOrder": 4,
@@ -403,7 +405,8 @@
       "Text": "سینه خواهم شَرحه‌شَرحه از فراق",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "دلی می‌خواهم که از (درد) فراق و دوری پاره‌پاره باشد، تا برای او از درد اشتیاق برای وصال بگویم."
     },
     {
       "VOrder": 6,
@@ -419,7 +422,8 @@
       "Text": "هر کسی کو دور ماند از اصلِ خویش",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هر کسی که از اصل خویش جدا گشت، در پی یافتن روزگار شادی و وصل و بازگشت به اصل خود است."
     },
     {
       "VOrder": 8,
@@ -435,7 +439,8 @@
       "Text": "من به هر جمعیّتی نالان شدم",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "من برای هر دسته و گروهی (و همه نوع آدم) نواختم و با آنها هم‌نوا شدم، هم‌نشین غمگینان و شادان شدم."
     },
     {
       "VOrder": 10,
@@ -451,7 +456,8 @@
       "Text": "هر کسی از ظّن خود شد یار من",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هرکسی که با خودبینی و ظن خود با من یار گشت، نوای درونی مرا درنیافت و نغمه‌ای از من نشنید."
     },
     {
       "VOrder": 12,
@@ -467,7 +473,8 @@
       "Text": "سرِّ من از نالهٔ من دور نیست",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "راز من از نوا و آهنگ من جدا نیست، اما چشم و گوش، آن بصیرت را ندارند که این را ببینند."
     },
     {
       "VOrder": 14,
@@ -483,7 +490,8 @@
       "Text": "تن ز جان و جان ز تن مستور نیست",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "روح از بدن جدا نیست و روح و بدن همواره با هم هستند ولی کسی توان دیدن روح را ندارد. ( یا تن و جان از هم جدا نیستند (اما ما فقط تن را می‌بینیم و) کسی اجازه دیدن جان را ندارد)"
     },
     {
       "VOrder": 16,
@@ -499,7 +507,8 @@
       "Text": "آتش است این بانگِ نای و نیست باد",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "این (سخن) و نوا، آتش (و عشق سوزان) است و به آن به دیده باد منگر؛ هرکسی در او این آتش نیست، نیست بادا!"
     },
     {
       "VOrder": 18,
@@ -515,7 +524,8 @@
       "Text": "آتش عشق است کاندر نی فتاد",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "نوایی که از نی می‌شنوی و\u00A0\u00A0تورا شیدا می‌کند،\u00A0آهنگ عشق است و این نیستی (بی‌منی) که جان تو را مست می‌کند، جوشش عشق است. (یا: آن نغمه و نوایی که در نی هست، آتش عشق است و آن مستی و گرمی که در می هست، آن نیز از آتش عشق است.)"
     },
     {
       "VOrder": 20,
@@ -531,7 +541,8 @@
       "Text": "نِی حریف هر که از یاری بُرید",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "نی، یار و هم‌نشین آنها شد که از یاری جدا شده‌اند؛ و آهنگ‌ها و نواهایش رازهای ما را فاش و عیان کرد."
     },
     {
       "VOrder": 22,
@@ -547,7 +558,8 @@
       "Text": "همچو نی زهری و تَریاقی که دید؟",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "آیا کسی مانند نی هم کشنده و هم درمانگر دیده‌است؟ آیا کسی همانند نی هم غمگسار و هم دردمند دیده‌است؟"
     },
     {
       "VOrder": 24,
@@ -563,7 +575,8 @@
       "Text": "نی حدیثِ راهِ پُر خون می‌کند",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "نی از راه پر‌خون و خطر می‌گوید و قصه‌های عشق مجنون را روایت می‌کند."
     },
     {
       "VOrder": 26,
@@ -579,7 +592,8 @@
       "Text": "مَحرم این هوش جُز بی‌هوش نیست",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "محرم و شنونده این راز و هوشیاری‌، جز بی‌هوش و دور از خود نیست‌؛ همچنانکه فقط گوش، مشتری و شنونده زبان است."
     },
     {
       "VOrder": 28,
@@ -595,7 +609,8 @@
       "Text": "در غمِ ما روزها بیگاه شد",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "در غم‌های فراوان ما روزهای بسیاری سپری شدند و روزهای زیادی با سوز و گریه گذشت."
     },
     {
       "VOrder": 30,
@@ -611,7 +626,8 @@
       "Text": "روزها گر رفت، گو «رو، باک نیست»",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "اگر عمر و روزها گذشت هیچ باک نیست و غمی نیست؛ تو با من بمان ای که چون تو پاک نیست."
     },
     {
       "VOrder": 32,
@@ -627,7 +643,8 @@
       "Text": "هر که جز ماهی ز آبش سیر شد",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هر کسی بجز ماهی از آب سیر شد،هر کسی که بی روزی بود روزش طولانی شد"
     },
     {
       "VOrder": 34,
@@ -643,7 +660,8 @@
       "Text": "در نیابد حالِ پُخته هیچ خام",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "حال یک انسان پخته و بالغ را هیچوقت یک انسان خام که عاشق نشده، درک نمی‌کند؛ پس باید سخن را کوتاه کرد و خاموش شد."
     },
     {
       "VOrder": 36,
@@ -659,7 +677,8 @@
       "Text": "بندْ بگسل، باش آزاد، ای پسر!",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "ای پسر، خود را آزاد کن و از قید و بندها رها شو. تا کی می‌خواهی در بند طلا و نقره (مادیات) بمانی؟"
     },
     {
       "VOrder": 38,
@@ -675,7 +694,8 @@
       "Text": "گر بریزی بحر را در کوزه‌ای",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "اگر بتوانی آب دریا را در کوزه بریزی فقط به اندازه یک روز توست. ( در همه موارد زندگی این اصل ثابت است. به طور مثال هرچقدر هم که ثروتمند باشی جز یک دست لباس نمی‌توانید بپوشید و جز سه وعده غذا گنجایشش را ندارید)"
     },
     {
       "VOrder": 40,
@@ -691,7 +711,8 @@
       "Text": "کوزه‌ٔ چشم حریصان پُر نشد",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "انسان حریص هیچگاه ظرف نگاهش پر نمیشود در حالی که اگر میخواهی به بالاترین مرحله انسانیت برسی باید همچون صدف خودش را محبوس در خویش کند و از غیر چشم پوشی کند تا به مروارید وجود برسد"
     },
     {
       "VOrder": 42,
@@ -707,7 +728,8 @@
       "Text": "هر که را جامه ز عشقی چاک شد",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هر کسی که عاشق شد و درد عشق را چشید، او از حرص و تمام عیب‌ها پاک گشت."
     },
     {
       "VOrder": 44,
@@ -723,7 +745,8 @@
       "Text": "شاد باش ای عشقِ خوش‌سودای ما",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "درود بر تو ای عشق خوش‌سودا و خوش‌فکر ما! ای درمان‌کننده تمام دردهای ما!"
     },
     {
       "VOrder": 46,
@@ -739,7 +762,8 @@
       "Text": "ای دوای نَخوت و ناموس ما",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "ای کسی که درمان غرور و نام و ننگ ما هستی ای درمان‌کننده و دانای بی‌نظیر همچون افلاطون و جالینوس."
     },
     {
       "VOrder": 48,
@@ -755,7 +779,8 @@
       "Text": "جسم خاک از عشق بر افلاک شد",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "جسم خاکی از عشق بود که بر افلاک و به معراج رفت، از عشق بود که کوه به‌رقص درآمد و چابک شد."
     },
     {
       "VOrder": 50,
@@ -771,7 +796,8 @@
       "Text": "عشقْ جانِ طور آمد عاشقا!",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "آنچه که به طور جان بخشید و مست کرد، عشق بود و آنچه همچون صاعقه بر موسی آمد و او را بیهوش کرد، عشق بود. (خرَّ موسی صعقا اشاره است به آیه ۱۴۳ از سوره اعراف)"
     },
     {
       "VOrder": 52,
@@ -787,7 +813,8 @@
       "Text": "با لبِ دمسازِ خود گر جفتمی",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "اگر به همدم و همساز خودم بپیوندم، من هم مانند نی گفتنی‌ها را می‌گفتم و راز دل می‌گشودم"
     },
     {
       "VOrder": 54,
@@ -803,7 +830,8 @@
       "Text": "هر که او از هم‌زبانی شد جدا",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هرکه از یار و هم‌زبانی جدا شد‌، بی‌زبان و خاموش و بی‌نوا گشت؛ اگرچه صد صدا و نوا داشته باشد."
     },
     {
       "VOrder": 56,
@@ -819,7 +847,8 @@
       "Text": "چون که گُل رفت و گلستان درگذشت",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "وقتی که عمر گل به پایان رسید و فصل خرمی گلستان گذشت‌، دیگر از بلبل چیزی نخواهی شنید."
     },
     {
       "VOrder": 58,
@@ -835,7 +864,8 @@
       "Text": "جمله معشوق است و عاشق پَرده‌ای",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هرچه هست معشوق است و عاشق پرده و حجابی بیش نیست، آنچه‌که زنده است معشوق است و عاشق، مرده و بی‌جانی بیش نیست."
     },
     {
       "VOrder": 60,
@@ -851,7 +881,8 @@
       "Text": "چون نباشد عشق را پروای او",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "اگر معشوق و عشق به عاشق توجه نکند وای بر عاشق زیرا او همچون پرنده‌ای بی‌بال و پر می‌شود."
     },
     {
       "VOrder": 62,
@@ -867,7 +898,8 @@
       "Text": "من چگونه هوش دارم پیش و پس",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "اگر نور و عشق یارم همراه من نباشد و یاری نکند آنگاه هوش من چه سود دارد؟"
     },
     {
       "VOrder": 64,
@@ -883,7 +915,8 @@
       "Text": "عشق خواهد کاین سخن بیرون بود",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "عشق از من می‌خواهد که این راز را آشکار کنم، آیینه اگر نگوید و آشکار نکند، کی آیینه باشد؟"
     },
     {
       "VOrder": 66,
@@ -899,7 +932,8 @@
       "Text": "آینه‌ت دانی چرا غمّاز نیست؟",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "آینهٔ\u00A0تو دانی که چرا نمی‌گوید و آشکار نمی‌کند؟ زیرا زنگار از رخ و روی آن، پاک نشده است."
     },
     {
       "VOrder": 68,

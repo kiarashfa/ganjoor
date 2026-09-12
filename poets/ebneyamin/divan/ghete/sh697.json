@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "میندیش در حق مردم بدی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به دیگران بد نگو و در مورد آن‌ها قضاوت نکن، چون ممکن است این کار برای خودت هم پیامدهای ناخوشایند به همراه داشته باشد."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "نبینی که رنج فراوان کشد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نمی‌بینی که برای من چاه‌کن، زحمت زیاد می‌کشد تا چاهی بکند."
     },
     {
       "VOrder": 4,
@@ -55,7 +57,8 @@
       "Position": "Right",
       "Text": "بآخر چو چه را بپایان برد",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آخر کار چه بر سر او خواهد آمد، که تو او را در یک چاه عمیق خواهی دید، نه من."
     },
     {
       "VOrder": 6,

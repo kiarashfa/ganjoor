@@ -127,7 +127,8 @@
       "Text": "این حکایت شنو که در بغداد",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "این داستان را بشنو که در بغداد میان پرچم (درفش) و پرده اختلاف روی داد."
     },
     {
       "VOrder": 2,
@@ -143,7 +144,8 @@
       "Text": "رایت از گردِ راه و رنجِ رکاب",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "پرچم (درفش) با عصبانیت و تندی رو به پرده از خستگی راه و رنج در سفر بودن گفت"
     },
     {
       "VOrder": 4,
@@ -159,7 +161,8 @@
       "Text": "من و تو هر دو خواجه‌تاشانیم",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "ما هر دو تَن دو بنده (غلام) از یک خدایگان هستیم (یعنی هر دو چاکرِ شاهیم)"
     },
     {
       "VOrder": 6,
@@ -175,7 +178,8 @@
       "Text": "من ز خدمت دمی نیاسودم",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "من هرگز از خدمت و کار خود آرامش نگرفتم و در هر زمان در سفر بودم."
     },
     {
       "VOrder": 8,
@@ -191,7 +195,8 @@
       "Text": "تو نه رنج آزموده‌ای نه حصار",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "تو محنتِ جنگ و محاصره را نچشیده و رنجِ سفر در صحرای بی‌آب و گیاه و آسیبِ خاک و طوفان را ندیده‌ای؛\u00A0"
     },
     {
       "VOrder": 10,
@@ -207,7 +212,8 @@
       "Text": "قدمِ من به سعی پیشتر است",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "پای من در میدانِ کوشش از تو فراتر است، پس سبب چیست که تو از من گرامی‌تری؟\u00A0"
     },
     {
       "VOrder": 12,
@@ -223,7 +229,8 @@
       "Text": "تو برِ بندگان مه‌رویی",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "در کنار تو زیبارویان هستند و همنشین غلامان خوش بو هستی"
     },
     {
       "VOrder": 14,
@@ -239,7 +246,8 @@
       "Text": "من فتاده به دستِ شاگردان",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "اما من همیشه در دست سربازانن و همواره در سفر و سرگردان هستم"
     },
     {
       "VOrder": 16,
@@ -255,7 +263,8 @@
       "Text": "گفت: من سر بر آستان دارم",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "پرده پاسخ داد: من سرِ تسلیم بر درگاهِ پادشاه نهاده‌ام نه چون تو به گردن‌کشی قد بر آسمان افراشته‌ام،"
     },
     {
       "VOrder": 18,
@@ -271,7 +280,8 @@
       "Text": "هر که بیهوده گردن افرازد",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هر کس به باطل و ناحق گردن کشد و فخر فروشد خود را به سر به خاکِ ذلّت افکنَد."
     },
     {
       "VOrder": 20,

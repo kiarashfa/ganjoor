@@ -371,7 +371,8 @@
       "Text": "زمخزن برون آمد آن پاک سر",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: از درون خزانه، آن موجود پاک و نیکو بیرون آمد و در جلوی پسر ایستاد."
     },
     {
       "VOrder": 2,
@@ -387,7 +388,8 @@
       "Text": "بفرمود با وی به بانگ بلند",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: او با صدای بلند به او دستور داد که ای پسر نیکو و ارزشمند."
     },
     {
       "VOrder": 4,
@@ -403,7 +405,8 @@
       "Text": "تو را باد از من سلام و درود",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: سلام و درود به تو از سوی من، که اکنون در اوج و مقام بالایی هستی."
     },
     {
       "VOrder": 6,
@@ -419,7 +422,8 @@
       "Text": "من از تو همی ای خلیفه ی خدای",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: من از تو، ای ولی خدا، جدا نیستم و در هر کجا که باشم، همیشه با تو هستم."
     },
     {
       "VOrder": 8,
@@ -435,7 +439,8 @@
       "Text": "سپردم ترا ای پسر هوش خویش",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: ای پسر، عقل و درایت خود را به تو سپردم و با این کار، راهی به سوی بهشت را پیدا کردم."
     },
     {
       "VOrder": 10,
@@ -451,7 +456,8 @@
       "Text": "پسر چونکه بشنید راز پدر",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: پسری وقتی راز پدر را شنید، از شدت حیرت و شگفتی به حالت گیجی درآمد و مانند کسی شد که هوشی از او گرفته شده است."
     },
     {
       "VOrder": 12,
@@ -467,7 +473,8 @@
       "Text": "سر شاه را از میان هوا",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: سر شاه را از میان آسمان برداشت و با صدای دلنشینی بوسید."
     },
     {
       "VOrder": 14,
@@ -483,7 +490,8 @@
       "Text": "به زاری بگفت ای جهانبان پدر",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در حالی که با اندوه صحبت می‌کرد، گفت: ای پدر جهان، که به خاطر تو حق ظاهر شد."
     },
     {
       "VOrder": 16,
@@ -499,7 +507,8 @@
       "Text": "کجا اینچنین گرم رو تاختی",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: کجا چنین با شور و حرارت به سوی من آمدی که مرا در دستان دشمن قرار دادی؟"
     },
     {
       "VOrder": 18,
@@ -515,7 +524,8 @@
       "Text": "هرانکو مرا دیده بی نور کرد",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که مرا بدون محبت و روشنایی خود دید، به همین خاطر از نزدیکی تو به دورم کرد."
     },
     {
       "VOrder": 20,
@@ -531,7 +541,8 @@
       "Text": "به نفرین دادار جان آفرین",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: با نفرین خالق جان آفرین، آن اندیشۀ بد به دام باد گرفتار شده است."
     },
     {
       "VOrder": 22,
@@ -547,7 +558,8 @@
       "Text": "من ایدون روانم به یثرب زمین",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: من اکنون به سوی یثرب می‌روم، جایی که خانه‌ی پیامبر امانتدار است."
     },
     {
       "VOrder": 24,
@@ -563,7 +575,8 @@
       "Text": "بیا تا ببوسم به بدرود تو",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: بیا تا با هم وداع کنیم و لب‌های خونینی از عشق تو را ببوسم که همچون مروارید درخشان هستند."
     },
     {
       "VOrder": 26,
@@ -579,7 +592,8 @@
       "Text": "بگفت این و بر روی شه سود روی",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: او این را گفت و بر روی پادشاه لبخند زد و سپس آن چهره‌ی زیبا و موی طلایی‌اش را بوسید."
     },
     {
       "VOrder": 28,
@@ -595,7 +609,8 @@
       "Text": "برآمد خروش از سر شهریار",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: از دل شاه نالۀ بلندی برخاست و او که در درد و رنج است، آرام و قرار ندارد."
     },
     {
       "VOrder": 30,
@@ -611,7 +626,8 @@
       "Text": "به روی اندرافتاد و از هوش رفت",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: به چهره‌اش نگاه کردی و بی‌هوش شد، انگار که از خوشی و زیبایی‌اش انرژی‌اش را از دست داده است."
     },
     {
       "VOrder": 32,
@@ -627,7 +643,8 @@
       "Text": "سرشاه دین رو به رویش نهاد",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: پادشاه دین، چهره‌اش را به سمت فرزندش آورد و به او بوسه‌ای داد."
     },
     {
       "VOrder": 34,
@@ -643,7 +660,8 @@
       "Text": "چو لختی برآمد سر شهریار",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: به محض اینکه سر حاکم به بیرون آمد، دوباره جای خود را از بر پسر ناتوان گرفت."
     },
     {
       "VOrder": 36,
@@ -659,7 +677,8 @@
       "Text": "چو او رفت بیمار آمد به هوش",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: وقتی او رفت، بیماری و بی‌حالی به سراغم آمد و نتوانستم آن سرو قامت بلند را که از دل به من پاسخ می‌داد، ببینم."
     },
     {
       "VOrder": 38,
@@ -675,7 +694,8 @@
       "Text": "نگویی که بیهوشی شهریار",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: نگویید که به خواب رفتن شاه مانند ما بود و از خرد و اندیشه بی‌خبر شد."
     },
     {
       "VOrder": 40,
@@ -691,7 +711,8 @@
       "Text": "که این بیهشی عین هشیاری است",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: این حالت بی‌خبری در واقع نوعی آگاهی است؛ مانند اینکه خواب پیامبر، خود نوعی بیداری محسوب می‌شود."
     },
     {
       "VOrder": 42,
@@ -707,7 +728,8 @@
       "Text": "جمال خدا چون تجلی نمود",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: وقتی زیبایی خداوند ظهور کند، جسم پادشاه همچون کوه طور در برابر آن می‌درخشد."
     },
     {
       "VOrder": 44,
@@ -723,7 +745,8 @@
       "Text": "چو دیدار یار دل آرا بدید",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: زمانی که محبوب زیبا را دید، قلبش به شدت تحت تأثیر قرار گرفت و به طور کامل از خود بی‌خود شد."
     },
     {
       "VOrder": 46,
@@ -739,7 +762,8 @@
       "Text": "خودی را چو او آستین برفشاند",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: وقتی که انسان خود را به دست خداوند بسپارد و از او مدد گیرد، دیگر به چیزی جز خداوند نیاز نخواهد داشت و هیچ چیز دیگری اهمیت نخواهد داشت."
     },
     {
       "VOrder": 48,
@@ -755,7 +779,8 @@
       "Text": "سراپا همه محو دیدار شد",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: تمام وجود انسان تحت تاثیر زیبایی و جذابیت قرار گرفته و در آن لحظه، خوشا به حال کسی که این حالت را با آگاهی و هشیاری تجربه می‌کند."
     },
     {
       "VOrder": 50,
@@ -771,7 +796,8 @@
       "Text": "چو دید این شگفتی یزید پلید",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: وقتی یزید پلید این معجزه را دید، ترسید و لرزید و وقتی نفسش را گرفت."
     },
     {
       "VOrder": 52,
@@ -787,7 +813,8 @@
       "Text": "بگفت آنچه زایتان به یغما برفت",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: او گفت هر چیزی که از شما به غارت رفته، از لشکر بگیرید و به من بیاورید."
     },
     {
       "VOrder": 54,
@@ -803,7 +830,8 @@
       "Text": "پژوهان به هر سوی بشتافتند",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: دانشمندان به هر طرف هجوم آوردند و هر چیزی که متعلق به شاه بود را جمع‌آوری کردند."
     },
     {
       "VOrder": 56,
@@ -819,7 +847,8 @@
       "Text": "به بر دید نزدیک شاه زمن",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: در آغوش من، نزدیک به شاه، همان پیمان و همان چادری که بر تن داشت و پیرهنش هم همین است."
     },
     {
       "VOrder": 58,
@@ -835,7 +864,8 @@
       "Text": "دگر آنچه برجای بد بیش و کم",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: در نتیجه، آنچه که باقی مانده و از آن کم و زیاد شده است، به مکان مقدس انتقال داده شده است."
     },
     {
       "VOrder": 60,
@@ -851,7 +881,8 @@
       "Text": "سر شاه و یارانش را نیز داد",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: سر شاه و همراهانش را به دست پادشاه خوش‌نسب سپرد."
     },
     {
       "VOrder": 62,
@@ -867,7 +898,8 @@
       "Text": "سپس گفت با شاه آن بد گهر",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: سپس به شاه بدی گفت که از من خواستار خونبهای پدرم است."
     },
     {
       "VOrder": 64,
@@ -883,7 +915,8 @@
       "Text": "من ای شه به پیغمبر و مرتضی",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: من ای فرمانروا، من با پیامبر و علی بن ابی‌طالب آسیب دیده‌ام و هرگز راضی به این کار نیستم."
     },
     {
       "VOrder": 66,
@@ -899,7 +932,8 @@
       "Text": "خدا پور مرجانه را رو سیاه",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: خداوند باعث شود که پور مرجان در این دنیا و آن دنیا به خاطر چنین گناهی شرمنده و رسوا شود."
     },
     {
       "VOrder": 68,

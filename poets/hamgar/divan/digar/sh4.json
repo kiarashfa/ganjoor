@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "شب تا به سحر منم بدین درد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در شب تا صبح به خاطر این درد به شدت ناله می‌زنم، مانند افرادی که ناتوان و بیچاره هستند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گردان گردان به هر در و کوی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در هر کوچه و در هر خیابان، افرادی همچون نگهبانان هستند که در حال گفت‌وگو و تبادل نظر می‌باشند."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "فریاد ز محنت غریبان",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فریاد و ناله‌ی کسانی که در رنج و سختی به سر می‌برند، و به جد روزهای تلخ و حسرت‌آور جوانان را یادآور می‌شود."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "خرمن خرمن سرشک ریزان",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خوشحالی و زیبایی مانند باران مداوم بر روی زمین می‌ریزد و گوهرها مانند قطرات در دامن گل‌ها می‌درخشند."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "جویان جویان به هر بیابان",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسانی که در پی جست و جو هستند، در هر بیابانی حرکت می‌کنند و به دنبال راهنمایان و هدایتگران می‌گردند."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "روز از سر راه بر نخیزم",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در روز برنخواهم خواست، چرا که در مسیر مراقب و نگران هستم مانند نگهبانی که دیده بانی می‌کند."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "گریان گریان شوم پذیره",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در حالتی غمگین و با اشک فراوان، به جستجوی اطلاعاتی درباره کاروان‌ها می‌پردازم و از آن‌ها سوال می‌کنم."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "از نام و نشان نازنینان",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از اسم و نشانه‌های محبوبان و از سرزمین و دیار کسانی که مهربان هستند."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "گویند مرا سرشک کم ریز",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌گویند که اشک‌های کم‌رنگ من، نشانه‌ای از دل سنگین و غمگین کسانی است که سبک‌سر و بی‌وزن هستند."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "نه اشک که خون دل بریزم",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نه تنها اشک، بلکه درد و غم عمیق خود را بر روی خاک ارزشمند آن جوانان می‌ریزم."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "نه آب که دیدگان ببارم",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من نه از آن آب، که اشک‌هایم را بر درد و حسرت عزیزانم بریزم."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "ای باد ببر پیام زارم",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای باد، لطفاً پیام دردمندانه من را به آن‌ها برسان، روزی که به زمینشان برسی."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "بگذار اگر چه بی زبانی",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اجازه بده اگر چه نمی‌توانم به زبان بیاورم، ولی دوباره پیام کسانی را که بی‌زبان هستند، برسانم."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "چون گل برود دگر چه ماند",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که گل برود و از بین برود، تنها خارهای بی‌نظم و زشت در دستان باغبانان باقی می‌ماند."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "در خاک فتاد ‌آب چشمم",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر نگاه و نظرات منفی افرادی که بدگمانند، اشک‌هایم بر روی زمین می‌ریزد."
     },
     {
       "VOrder": 30,

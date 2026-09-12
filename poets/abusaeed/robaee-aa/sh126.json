@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "در کار کس ار قرار میباید هست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در کار کسی ثبات و آرامش لازم است، باید آن دوست یا یار در کنارش حضور داشته باشد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "هجری که به هیچ کار می‌ناید نیست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که هجرت (انتقال) هیچ فایده‌ای ندارد، وصالی که همچون جان (عزیز و حیاتی) به آن نیاز است، وجود دارد."
     },
     {
       "VOrder": 4,

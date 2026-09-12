@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "مرو بیرون ز عشرتخانه دل",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از جایی که شادی و لذت قلبت را می‌آفریند بیرون نرو، زیرا عشق و احساسات عمیق در دل تو همواره در حال جوش و خروش هستند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "شراب و شاهد و ساقی و مطرب",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شادی و لذت‌هایی همچون می و معشوق و موزیک، احساسات درونی و عمیق انسان را از خود رها می‌کنند و او را به دنیای خوشی‌ها می‌برند."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "زمین گیرست سیر آسمانها",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمین در قبال نگریستن به آسمان‌ها و دیدن گردش کاسه دل، تسلیم و وابسته شده است."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "کند در چشم انجم سرمه سایی",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در چشم ستاره‌ها، غباری را می‌سازد که جلوه‌ای دل‌فریب و مست‌کننده دارد."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "ندارد قلزم پر شور امکان",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دریاهای وسیع و پراضطراب، هیچ مکانی برای آرامش و سکوت جز در دل وجود ندارد."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "به منزل می رساند سالکان را",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل‌های ناآرام و مشتاق، سالکانی را به مقصد می‌رسانند."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "پر پروانه گردد پرده خواب",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پر پروانه همچون پرده خواب در هر مکان که بگذرد، داستان و قصه‌های دل را به همراه دارد."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "حجاب آسمانها را بسوزد",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نور درخشان و زنده‌ای که از دل واحد و ناب برمی‌آید، می‌تواند تمامی موانع و حجاب‌های آسمانی را از بین ببرد."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "ز سیلاب فنا بر خود نلرزد",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل باید در برابر سختی‌ها و فناهای دنیا محکم و استوار بماند و نباید از آسیب‌ها و مشکلات، هراسی به دل راه دهد."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "به قدر روزن داغ است روشن",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا اشاره به این است که در دل تاریکی و غم، تنها یک نور کوچک وجود دارد که به اندازه‌ی یک روزنه، گرما و روشنی می‌آورد. این نور، نمایانگر امید یا عشق است که حتی در سخت‌ترین شرایط نیز می‌تواند دل را گرم کند."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "توان چون برق از عالم گذشتن",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: توانایی انسان می‌تواند به اندازه‌ای باشد که همچون برق از این دنیا عبور کند، اگر اراده و عزم استوار داشته باشد."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "مرا بیگانه کرد از هر دو عالم",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من را از هر دو جهان بیگانه کرد، تنها تلاشی که برای رسیدن به معنی و مفهوم کردم، دل را از من دور کرد."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "نگردد سبز هر تخمی که سوزد",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ دانه‌ای در این مزرعه به بار نخواهد نشست، مگر دانه‌ای که از دل نشأت گرفته باشد."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "چراغ مهر و مه خاموش گردد",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر پروانه‌ی دل در جایی ساکن شود، نور عشق و زیبایی از بین می‌رود."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "شود رطل گران سنگ ملامت",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر بی‌خیالی و شجاعت دل دیوانه، بار سنگین سرزنش به دوش می‌کشم."
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "ندارد صید گاه عالم غیب",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دنیای پنهان و غیرقابل دسترسی، جا و مکانی برای شکار دل‌ها وجود ندارد، جز اینکه دل‌ها ویران و خراب شده باشند."
     },
     {
       "VOrder": 32,
@@ -255,7 +271,8 @@
       "Position": "Right",
       "Text": "دل از دست سلیمان می ربایند",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زیبایی‌ها و دلربایی‌های دل‌انگیز باعث می‌شوند که قلب انسان از عشق و محبت سلیمان پر شود."
     },
     {
       "VOrder": 34,
@@ -269,7 +286,8 @@
       "Position": "Right",
       "Text": "چو برگ بید می لرزد ز دهشت",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل در هراس از سرنوشت، مانند برگ بید در حال لرزیدن است، در حالی که در مجلس شاهانه حضور دارد."
     },
     {
       "VOrder": 36,
@@ -283,7 +301,8 @@
       "Position": "Right",
       "Text": "زبون چون کبک در چنگ عقاب است",
       "CoupletIndex": 18,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زبان مانند کبکی است که در چنگال عقاب گرفتار شده است و دنیا در کنترل و تسلط دل‌های شجاع و نیرومند است."
     },
     {
       "VOrder": 38,
@@ -297,7 +316,8 @@
       "Position": "Right",
       "Text": "قیامت می شود هرجا که صائب",
       "CoupletIndex": 19,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر جا که صائب از شدت شوق و عشق دچار حالتی عجیب و غریب شود، آنجا همچون روز قیامت خواهد بود. دل او داستانی جدید و شگفت‌انگیز را رقم می‌زند."
     },
     {
       "VOrder": 40,

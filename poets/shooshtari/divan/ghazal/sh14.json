@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "عشّاق اگر لقای ترا آرزو کنند",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عاشقان اگر بخواهند تا تو را ببینند، باید ابتدا با خون دل خود وضو بگیرند."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "نازم به می کشان محبّت که بهر دوست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به می‌کشان (شراب‌نوشان)‌ی محبت افتخار می‌کنم، زیرا برای دوست در مهمانی عشق، کاسه‌ی سر را به جای ظرف می‌گذارند."
     },
     {
       "VOrder": 4,
@@ -54,7 +56,8 @@
       "Position": "Right",
       "Text": "کفر است در شریعت و آئین عاشقی",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آرزو کردن چیزهایی از دیگری غیر از دوست، در عشق و محبت، نادرست و ناپسند است."
     },
     {
       "VOrder": 6,
@@ -68,7 +71,8 @@
       "Position": "Right",
       "Text": "بعد از هزار سال ز خاک شهید عشق",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پس از گذشت هزار سال، از خاک شهید عشق بوی خون به مشام خواهد رسید، اگر آن خاک بویی از خود به جا بگذارد."
     },
     {
       "VOrder": 8,
@@ -82,7 +86,8 @@
       "Position": "Right",
       "Text": "از جور دوست نیست که گریند عاشقان",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عاشقان به خاطر رفتار نادرست دوستشان نمی‌گریند، بلکه این اشک‌ها برای حفظ آبرو و حیثیتشان جاری می‌شود."
     },
     {
       "VOrder": 10,
@@ -96,7 +101,8 @@
       "Position": "Right",
       "Text": "بسیار سالها که بیاید، دی و بهار",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سال‌های زیادی می‌گذرد که دی و بهار از زندگی ما گاهی با درد و گاهی با شادی عبور می‌کنند."
     },
     {
       "VOrder": 12,
@@ -110,7 +116,8 @@
       "Position": "Right",
       "Text": "ترسم اسیر و عاشق و شیدای خود شوی",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نگرانم که اگر کسی با زیبایی تو روبه‌رو شود، دلبسته و عاشق تو شود."
     },
     {
       "VOrder": 14,
@@ -124,7 +131,8 @@
       "Position": "Right",
       "Text": "زخم خدنگ ناز تو بهبودی اش مباد",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زخم نازک‌نی تو هیچ‌گاه بهبود نمی‌یابد، مگر آن‌که فقط با تار موی تو ترمیم شود."
     },
     {
       "VOrder": 16,
@@ -138,7 +146,8 @@
       "Position": "Right",
       "Text": "چون می زجام وصل تو نوشند عاشقان",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عاشقان وقتی که از جام وصال تو می‌نوشند، به آب خضر و چشمه‌ی حیات نیز توهین می‌کنند."
     },
     {
       "VOrder": 18,
@@ -152,7 +161,8 @@
       "Position": "Right",
       "Text": "این خرقه ی ریا، که مرا هست بایدی",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این لباس ریا و ظاهرسازی که بر تن دارم، باید به می‌نوشان داده شود تا به وسیله نوشیدنی، پاک و تمیز شوم."
     },
     {
       "VOrder": 20,
@@ -166,7 +176,8 @@
       "Position": "Right",
       "Text": "هر موی من ز زلف تو دارد شکایتی",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کدام از موهای من از زلف تو ناله‌ای دارند، منتظر فرصت هستم تا غم تو را به تفصیل بیان کنم."
     },
     {
       "VOrder": 22,
@@ -180,7 +191,8 @@
       "Position": "Right",
       "Text": "تا کی «وفایی» از غم لیلی وشان ترا",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چقدر باید وفایی از غصه لیلی، تو را مجنون بخوانند و در دشت جنون به دنبال تو بگردند؟"
     },
     {
       "VOrder": 24,

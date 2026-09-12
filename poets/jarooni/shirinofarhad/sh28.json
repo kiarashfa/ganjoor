@@ -271,7 +271,8 @@
       "Text": "چو خسرو روز در عشرت به شب کرد",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: وقتی خسرو روز را در خوشی گذراند، وقتی شب فرا رسید، در فکر وصال شیرین بود و آن را آرزو می‌کرد."
     },
     {
       "VOrder": 2,
@@ -287,7 +288,8 @@
       "Text": "ندیمان را به مجلس پیش خود خواند",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: دوستداران خود را به مجلس دعوت کرد و هر یک را در جای مخصوص خود نشاند."
     },
     {
       "VOrder": 4,
@@ -303,7 +305,8 @@
       "Text": "به ساقی گفت تا جام لبالب",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: به ساقی گفتم که تا شب به پایان نرسیده، جام پر را به دور بگرداند."
     },
     {
       "VOrder": 6,
@@ -319,7 +322,8 @@
       "Text": "چو دوری چند بگذشت از می ناب",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: هنگامی که مدت زمانی از نوشیدن شراب خالص بگذرد، خواب مانند لشکری به سراغ انسان می‌آید."
     },
     {
       "VOrder": 8,
@@ -335,7 +339,8 @@
       "Text": "حریفان را ز بس ساغر که دادند",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: بخاطر نوشیدنی‌های زیاد، حریفان آنقدر مست شده‌اند که به جای راه رفتن، سرهایشان را روی زمین می‌کشند."
     },
     {
       "VOrder": 10,
@@ -351,7 +356,8 @@
       "Text": "ز مجلس خاست هر کس کو توانست",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که توانست از مجلس بیرون برود، آنجا را ترک کرد، ولی آن کسی که نتوانست از پا و سر خود آگاهی داشته باشد، همچنان باقی ماند."
     },
     {
       "VOrder": 12,
@@ -367,7 +373,8 @@
       "Text": "ز مستی چشم ساقی نیمه ای باز",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: چشم‌های ساقی نیمه‌باز است و او به دلیل مستی به حال بی‌هوشی رفته، در حالی‌که مطرب در حال نواختن موسیقی است."
     },
     {
       "VOrder": 14,
@@ -383,7 +390,8 @@
       "Text": "به مجلس سازها بد رفته از خویش",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در محفل موسیقی، حالتی ناهنجار به وجود آمده است که تنها صدای نی به گوش می‌رسد و دیگر هیچ سازی نواخته نمی‌شود."
     },
     {
       "VOrder": 16,
@@ -399,7 +407,8 @@
       "Text": "صراحی پنبه ها افکنده از گوش",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: وقتی که لیوان‌های پر از شراب از دست‌ها افتاد و صدای گویندگان به ناگاه قطع شد."
     },
     {
       "VOrder": 18,
@@ -415,7 +424,8 @@
       "Text": "حریفان مست هر سویی فتاده",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: رقیبان مست هر طرف پراکنده‌اند و دوستان چشم‌ها را بر هم گذاشته‌اند."
     },
     {
       "VOrder": 20,
@@ -431,7 +441,8 @@
       "Text": "ملک چون مست شد مجلس چنان دید",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: وقتی که ملک مست شد، به قدری محو و مسحور شد که به زمین افتاد و پای شیرین را بوسید."
     },
     {
       "VOrder": 22,
@@ -447,7 +458,8 @@
       "Text": "پسش گفتا به چشم پر فن تو",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: او به من گفت با چشمی پر از فن و هنر که این دست ما و دامن تو چیست؟"
     },
     {
       "VOrder": 24,
@@ -463,7 +475,8 @@
       "Text": "چنین کامشب ازین دولت منم مست",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: امشب به خاطر این خوشبختی که دارم، شاد و مست هستم و به هیچ قیمتی نمی‌خواهم این خوشبختی را از دست بدهم."
     },
     {
       "VOrder": 26,
@@ -479,7 +492,8 @@
       "Text": "همی گفت این و از آن چشم غماز",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: او در حال صحبت کردن بود و در همین حال، چشمی که همیشه مراقب بود، از او دور می‌شد و دوباره به او برمی‌گشت."
     },
     {
       "VOrder": 28,
@@ -495,7 +509,8 @@
       "Text": "ز نوک دیده مروارید می سفت",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: از گوشه چشمش مرواریدهایی را به زمین می‌پاشید و با این کار چیزی می‌گفت."
     },
     {
       "VOrder": 30,
@@ -511,7 +526,8 @@
       "Text": "درین شب کز قدت بختم بلند است",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: در این شبی که بخاطر وجود تو به من خوشبختی زیادی بخشیده، ناچار نباش که بیگانه باشی چرا که این کار ناپسند و نادرست است."
     },
     {
       "VOrder": 32,
@@ -527,7 +543,8 @@
       "Text": "دو زلفت کز برش تابد مه بدر",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: دو زلف تو مانند ماهی است که در شب قدر می‌درخشد و من به خوبی ارزش و اهمیت آن را می‌شناسم."
     },
     {
       "VOrder": 34,
@@ -543,7 +560,8 @@
       "Text": "به گیسویت که هست آن بخت پیروز",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: به خاطر موهای تو، خوشبختی و شانس خوبی وجود دارد؛ در این شب که از آن بهتر نیست، تو بر من سوار هستی."
     },
     {
       "VOrder": 36,
@@ -559,7 +577,8 @@
       "Text": "میان ما و تو، ما و تویی نیست",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: میان ما و تو هیچ تفاوت و فاصله‌ای وجود ندارد. جای دوگانگی در این ارتباط وجود ندارد."
     },
     {
       "VOrder": 38,
@@ -575,7 +594,8 @@
       "Text": "مکش سر بیش و با من سر در آور",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: سر خود را بیش از حد پایین نیاور و با من به صحبت بپرداز. آرزوها و عشق‌های ناپیدا را به حقیقت تبدیل کن."
     },
     {
       "VOrder": 40,
@@ -591,7 +611,8 @@
       "Text": "مکن امشب به کارم هیچ اهمال",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: امشب در کارم تعلل نکن، چرا که خدا می‌داند فردا وضعیت چگونه خواهد بود."
     },
     {
       "VOrder": 42,
@@ -607,7 +628,8 @@
       "Text": "به شادی بگدران با من جهان را",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: با من شاد باش و از لحظه‌ها استفاده کن، چرا که حضور دوستان ارزشمند است."
     },
     {
       "VOrder": 44,
@@ -623,7 +645,8 @@
       "Text": "یکم امشب به زلف خویش ده جا",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: امشب موهایت را به من نشان بده، زیرا تو می‌دانی که شب، وقت عشق ورزی است."
     },
     {
       "VOrder": 46,
@@ -639,7 +662,8 @@
       "Text": "به خویش آی و مشو بیگانه ما",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: به خودت برگرد و از ما دور نشو، زیرا در خانه ما هیچ کس دیگری وجود ندارد."
     },
     {
       "VOrder": 48,

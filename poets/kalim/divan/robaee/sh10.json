@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "تا تکلیف تو جا مهیا نکند",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که تو وارد جمع نشوی و کار خود را مشخص نکنی، کسی در آن جمع سر جایش نمی‌نشیند یا رفتار درستی ندارد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "بیقدر منم که هر کجا بنشستم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من آنقدر بی‌ارزش هستم که هر جا که نشسته‌ام، دل نخل نمی‌خواهد جایی را به من اختصاص دهد."
     },
     {
       "VOrder": 4,

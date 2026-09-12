@@ -100,7 +100,8 @@
       "Text": "ای مرغک خرد، ز اشیانه",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: ای پرنده کوچک، از لانه‌ات خارج شو و پرواز کردن را بیاموز."
     },
     {
       "VOrder": 2,
@@ -116,7 +117,8 @@
       "Text": "تا کی حرکات کودکانه",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: به چه مدت می‌خواهی به رفتارهای کودکانه و بی‌توجهی در طبیعت و چمن‌زار ادامه دهی؟"
     },
     {
       "VOrder": 4,
@@ -132,7 +134,8 @@
       "Text": "رام تو نمی‌شود زمانه",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: دنیا هرگز به آرامش و اراده تو تسلیم نخواهد شد، پس یاد بگیر چگونه از آن فرار کنی."
     },
     {
       "VOrder": 6,
@@ -148,7 +151,8 @@
       "Text": "مندیش که دام هست یا نه",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: نگران نباش که آیا دام وجود دارد یا نه، بلکه از دیگران یاد بگیر که چگونه باید دیدن را تجربه کرد."
     },
     {
       "VOrder": 8,
@@ -164,7 +168,8 @@
       "Text": "شو روز بفکر آب و دانه",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: در طول روز به فکر تامین معیشت و روزی باش و در شب، استراحت و آرامش را یاد بگیر."
     },
     {
       "VOrder": 10,
@@ -180,7 +185,8 @@
       "Text": "از لانه برون مخسب زنهار",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: از لانه بیرون نرو؛ مراقب باش."
     },
     {
       "VOrder": 12,
@@ -188,7 +194,8 @@
       "Text": "این لانهٔ ایمنی که داری",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: این مکان امنی که اکنون در آن هستی، می‌دانی چگونه به این وضعیت رسیده و ساخته شده است؟"
     },
     {
       "VOrder": 13,
@@ -204,7 +211,8 @@
       "Text": "کردند هزار استواری",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: برای رسیدن به چنین پایه بلندی، هزاران تلاش و کوشش صورت گرفت."
     },
     {
       "VOrder": 15,
@@ -220,7 +228,8 @@
       "Text": "دادند به اوستادکاری",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: او را به استادی سپردند تا از دست صیادان دور بماند و در امان باشد."
     },
     {
       "VOrder": 17,
@@ -236,7 +245,8 @@
       "Text": "تا عمر تو با خوشی گذاری",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که زندگی‌ات را با خوشی سپری می‌کنی و به یاد گذشته‌ها هستی، از عمرت بهره‌مند می‌شوی."
     },
     {
       "VOrder": 19,
@@ -252,7 +262,8 @@
       "Text": "یک روز، تو هم پدید آری",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: یک روز، تو نیز می‌توانی محیطی شاد و آرام برای نوزادان فراهم کنی."
     },
     {
       "VOrder": 21,
@@ -268,7 +279,8 @@
       "Text": "گه دایه شوی، گهی پرستار",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: گاهی نقش پرستار را بر عهده می‌گیری و گاهی دایه و مادر می‌شوی."
     },
     {
       "VOrder": 23,
@@ -276,7 +288,8 @@
       "Text": "این خانهٔ پاک، پیش از این بود",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: این خانهٔ تمیز و زیبا، قبلاً جای امن و خوشایند دو پرندهٔ خوشحال بود."
     },
     {
       "VOrder": 24,
@@ -292,7 +305,8 @@
       "Text": "کرده به گل آشیانه اندود",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: گلی در آشیانه‌ای ساخته شده و دل یکی شده از دو پیمان و ارتباط."
     },
     {
       "VOrder": 26,
@@ -308,7 +322,8 @@
       "Text": "یکرنگ چه در زیان چه در سود",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: انسانی که در هر شرایطی صادق و یکدست باشد، هم در زمان سختی و زیان و هم در زمان خوشی و سود، همواره دچار زحمت و تلاش است و در عین حال، آرزوهایش را نیز دنبال می‌کند."
     },
     {
       "VOrder": 28,
@@ -324,7 +339,8 @@
       "Text": "از گردش روزگار خشنود",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: از تغییرات و وقایع زندگی، خوشحال و راضی به وجود آمده‌اند چندین تخم‌مرغ."
     },
     {
       "VOrder": 30,
@@ -340,7 +356,8 @@
       "Text": "آن یک، پدر هزار مقصود",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که یکی از والدین، سرآغاز و منبع بسیاری از هدف‌ها و آرزوهاست و والد دیگر، از خود چیزهایی را درون دارد که می‌تواند به فرزند منتقل کند. به عبارتی، آن یکی والد الهام‌بخش و حامل آرزوهاست و والد دیگر حاوی رازها و نبوغ‌هایی است که به نسل بعدی می‌رسد."
     },
     {
       "VOrder": 32,
@@ -356,7 +373,8 @@
       "Text": "بس رنج کشید و خورد تیمار",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: او درد و رنج زیادی را تحمل کرد و زحمت‌های فراوانی را متحمل شد."
     },
     {
       "VOrder": 34,
@@ -364,7 +382,8 @@
       "Text": "گاهی نگران ببام و روزن",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: گاهی نگران هستم که بر بام و کنار پنجره نشسته‌ام تا مراقب باشم."
     },
     {
       "VOrder": 35,
@@ -380,7 +399,8 @@
       "Text": "روزی بپرید سوی گلشن",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: روزی به یاد گلستانی زیبا پرواز کن و در اندیشه‌ات نیروی زندگی را احساس کن."
     },
     {
       "VOrder": 37,
@@ -396,7 +416,8 @@
       "Text": "خاشاک بسی ز کوی و برزن",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: بسیاری از خاشاک و زباله‌ها از خیابان‌ها و محله‌ها جمع شده‌اند تا سایه‌ای را ایجاد کنند."
     },
     {
       "VOrder": 39,
@@ -412,7 +433,8 @@
       "Text": "یک چند به لانه کرد مسکن",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: مدتی را در منزل خود به زندگی پرداخت و داستانی از محبت و مهربانی را آموخت."
     },
     {
       "VOrder": 41,
@@ -428,7 +450,8 @@
       "Text": "آنقدر پرش بریخت از تن",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: به قدری اشک از چشمانش سرازیر شد که جانفشانی و فداکاری‌اش را به نمایش گذاشت."
     },
     {
       "VOrder": 43,
@@ -444,7 +467,8 @@
       "Text": "تا راز نهفته شد پدیدار",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: وقتی راز پنهان آشکار شد، همه چیز مشخص می‌شود."
     },
     {
       "VOrder": 45,
@@ -452,7 +476,8 @@
       "Text": "آن بیضه بهم شکست و مادر",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: آن تخمک به دلیل آسیب دیدگی از بین رفت و مادر تو را در آغوش مهر و محبت بزرگ کرد."
     },
     {
       "VOrder": 46,
@@ -468,7 +493,8 @@
       "Text": "چون دید ترا ضعیف و بی پر",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: وقتی تو را ضعیف و بی‌پناه دید، تو را زیر حمایت و سرپرستی خود جای داد."
     },
     {
       "VOrder": 48,
@@ -484,7 +510,8 @@
       "Text": "بس رفت به کوه و دشت و کهسر",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: او به کوه و دشت و مکان‌های مختلف سفر کرده تا بتواند محصولی از قبیل دانه و میوه برایت به ارمغان بیاورد."
     },
     {
       "VOrder": 50,
@@ -500,7 +527,8 @@
       "Text": "چون گشت هوای دهر خوشتر",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: زمانی که شرایط زندگی بهتر و خوشایندتر شد، تو را به آشیانه‌ام دعوت می‌کنم."
     },
     {
       "VOrder": 52,
@@ -516,7 +544,8 @@
       "Text": "بسیار پرید تا که آخر",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: بسیار پرش کردی تا اینکه در نهایت از یک شاخه به شاخه‌ای دیگر منتقل شدی."
     },
     {
       "VOrder": 54,
@@ -532,7 +561,8 @@
       "Text": "آموخت بسیت رسم و رفتار",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: سختی‌ها و تجربیات زیادی را در رفتار و نحوه زندگی‌اش فرا گرفته است."
     },
     {
       "VOrder": 56,
@@ -540,7 +570,8 @@
       "Text": "داد آگهیت چنانکه دانی",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: آگاهت کردم به اندازه‌ای که خودت می‌دانی درباره‌ی زحمت‌های ناشی از حبس و مشکلاتی که دامنگیر انسان می‌شود."
     },
     {
       "VOrder": 57,
@@ -556,7 +587,8 @@
       "Text": "آموخت همی که تا توانی",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: سعی کن تا جایی که می‌توانی، در ساعات نامناسب به خیابان و بام نروید."
     },
     {
       "VOrder": 59,
@@ -572,7 +604,8 @@
       "Text": "هنگام بهار زندگانی",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: در فصل بهار، زندگی پر از سرور و شادابی است و انسان از زیبایی‌های طبیعت لذت می‌برد."
     },
     {
       "VOrder": 61,
@@ -588,7 +621,8 @@
       "Text": "کوشید بسی که در نمانی",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: تلاش زیادی کرد تا در روز عمل و زمان آرامش باقی نماند."
     },
     {
       "VOrder": 63,
@@ -604,7 +638,8 @@
       "Text": "برد اینهمه رنج رایگانی",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: پس از تحمل این همه زحمت و مشقت، حالا که تجربه‌ای به دست آورده‌ای، ارزش آن را می‌دانی."
     },
     {
       "VOrder": 65,
@@ -620,7 +655,8 @@
       "Text": "رفت و به تو واگذاشت این کار",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: او رفت و کار را به تو سپرد."
     }
   ]
 }

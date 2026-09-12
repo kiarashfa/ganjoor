@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "نقطه در دایره نمود و نبود",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نقطه‌ای در دایره وجود دارد که نشان‌دهنده‌ی وجود و عدم وجود است، اما در حقیقت آن نقطه به نوعی شکل دایره را نمایان می‌کند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "نقطه در دور دایره باشد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی دایره‌ای را کامل پیموده باشد، می‌تواند نقطه‌ای را در دور آن مشخص کند."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "اول و آخرش به هم پیوست",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آغاز و پایان آن به هم متصل شده است، مانند اینکه نقطه‌ای که دایره را تمام می‌کند، نشان‌دهنده پیوستگی است."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "دایره چون تمام شد پرگار",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که دایره کامل شد، پرگار بی‌هیچ دغدغه‌ای تمامی اجزای خود را به هم فشرد و آرام گرفت."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "به وجودیم و بی وجود همه",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما وجود داریم و بدون وجود همگی به وجود آمده‌ایم، و تو نیز موجودی هستی."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "همه عالم خیال او گفتم",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تمام جهان را به خیال او دیدم و وقتی دوباره نگاه کردم، دیدم که خود او بود."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "خوشتر از گفته های سید ما",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سخنان سید ما نعمت الله انقدر شیرین و دلپذیر است که هیچ سخن دیگری را نمی‌توان با آن مقایسه کرد."
     },
     {
       "VOrder": 14,

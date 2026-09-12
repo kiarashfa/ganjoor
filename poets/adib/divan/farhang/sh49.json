@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "نام پنج انگشت را در سه زبان آرم به نظم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این بیت شاعر اشاره دارد به این که اگر نام پنج انگشت را به نظم و به زیبایی در سه زبان بنویسیم، این کار ارزشمندتر از طلاست. یعنی ارزش و زیبایی نظم و هنر در بیان مفاهیم از طلا و ثروت نیز بالاتر است."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "اولین ابهام و پس سبابه وسطی بعد از آن",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "نام انگشت‌ها در زبان عربی به ترتیب عبارت است از: ابهام، سبابه، وسطی، خِنصِر و بِنصِر."
     },
     {
       "VOrder": 4,
@@ -55,7 +57,8 @@
       "Position": "Right",
       "Text": "در زبان پارسی شد نامشان بی گفتگو",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "نام انگشت‌ها به فارسی عبارت است از: شست، دشنامی، میانه، بینام و کلیک."
     },
     {
       "VOrder": 6,
@@ -69,7 +72,8 @@
       "Position": "Right",
       "Text": "باز در لفظ فرانسه «پوس»، و «اندکس» آمده",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "نام این انگشت‌ها به ترتیب (از چپ به راست) به فرانسه میشود:\u00A0pouce, index, médius, annulaire \u0026 auriculaire"
     },
     {
       "VOrder": 8,
@@ -83,7 +87,8 @@
       "Position": "Right",
       "Text": "بند انگشتان بود «فالانژ» و انگشتان «دُوا»",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "بند انگشتان\u00A0phalange\u00A0نام دارد و انگشت doigt؛\u00A0ombre\u00A0یعنی سایه،\u00A0couronne\u00A0تاج و\u00A0trône\u00A0تخت [پادشاهی]"
     },
     {
       "VOrder": 10,
@@ -97,7 +102,8 @@
       "Position": "Right",
       "Text": "«اورس» خرس است و «هیِن» کفتار و «پانتر» یوز دان",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "ours\u00A0خرس است،\u00A0hyène\u00A0کفتار و\u00A0panthère\u00A0یوز؛ سوسمار\u00A0lézard\u00A0است و جوجه تیغی\u00A0porc-épic."
     },
     {
       "VOrder": 12,

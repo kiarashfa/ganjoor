@@ -331,7 +331,8 @@
       "Text": "به تسلیم جنی چنین گفت سام",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: سام به جنی گفت: به خاطر جنگ و نبردی که دارم، مانند شکارچی دام را پهن کرده‌ام و تسلیم نمی‌شوم."
     },
     {
       "VOrder": 2,
@@ -347,7 +348,8 @@
       "Text": "ندیدم به میدان چو آن بدکنش",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در میدان نبرد، مانند او را ندیدم که باعث می‌شود دلیران دچار تیره‌روزی و ناامیدی شوند."
     },
     {
       "VOrder": 4,
@@ -363,7 +365,8 @@
       "Text": "یکایک سلیحم برون شد ز دست",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: همه‌ی سلاح‌ها و ابزارهای من یکی یکی از دستم خارج شد و به دلیل فریب و نیرنگ کسی که جادو می‌کند، نتوانستم به هدف خود برسم."
     },
     {
       "VOrder": 6,
@@ -379,7 +382,8 @@
       "Text": "سرانجام از من بشد ناپدید",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: در نهایت آن شخص از من ناپدید شد و جانم از جدایی او بسیار نگران و آشفته شد."
     },
     {
       "VOrder": 8,
@@ -395,7 +399,8 @@
       "Text": "ندانم چه چاره سگالم بدو",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: نمی‌دانم چه راه حلی برای رفع مشکل خود پیدا کنم، اما باید به او بگویم تا بتوانم این کینه و حسد را کنار بگذارم."
     },
     {
       "VOrder": 10,
@@ -411,7 +416,8 @@
       "Text": "به پاسخ بدو گفت کای نامدار",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: به او گفتم، ای فرد معروف، داستانی برایت دارم، گوش کن."
     },
     {
       "VOrder": 12,
@@ -427,7 +433,8 @@
       "Text": "بسی دام دارد ز افسون به دست",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: بسیاری از دام‌ها و ترفندها در دست او وجود دارد، اما هیچ‌کس نمی‌تواند به میدان او قدم بگذارد، حتی اگر مثل فیل مست باشد."
     },
     {
       "VOrder": 14,
@@ -443,7 +450,8 @@
       "Text": "همه سنگ آهن ربا دارد او",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: همهٔ سنگ‌ها خاصیت جذب آهن را دارند، ولی او از این خاصیت برای کاشتن تخم نیرنگ استفاده می‌کند."
     },
     {
       "VOrder": 16,
@@ -459,7 +467,8 @@
       "Text": "بدین گرز و شمشیر و تیر و سنان",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: هیچ کس با استفاده از گرز، شمشیر، تیر و نیزه نمی‌تواند او را در این جهان متوقف کند."
     },
     {
       "VOrder": 18,
@@ -475,7 +484,8 @@
       "Text": "ورا تیغ و گرزی که اندر طلسم",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: او تیغ و گرزی دارد که جمشید، پادشاه خوش‌نام و فرخنده، در جادو و افسون به کار گرفته است."
     },
     {
       "VOrder": 20,
@@ -491,7 +501,8 @@
       "Text": "نوشته برو نام یزدان پاک",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: نام خداوند پاک را بنویس، که جان تو به خاطر او پر از غم و اندوه است."
     },
     {
       "VOrder": 22,
@@ -507,7 +518,8 @@
       "Text": "گر او را به دست اندر آری همی",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: اگر او را به دست بیاری، می‌توانی تمام کارها را با جادو انجام بدهی."
     },
     {
       "VOrder": 24,
@@ -523,7 +535,8 @@
       "Text": "به سوی طلسمت بیاید شدن",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: به سوی جادوی تو می‌آید که آن را بشکند و دوباره به خودش برگردد."
     },
     {
       "VOrder": 26,
@@ -539,7 +552,8 @@
       "Text": "همان گرد قلواد یابد رها",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: بعضی از افراد برای دستیابی به اهداف و آرزوهای خود، ممکن است فقط به ظاهر و چیزهای بی‌ارزش دلخوش باشند، در حالی که برای رسیدن به آن‌ها باید تلاش و سختی‌های زیادی را متحمل شوند. در نهایت، تلاش و رنج کشیدن می‌تواند به دست‌آوردهای واقعی و با ارزش منجر شود."
     },
     {
       "VOrder": 28,
@@ -555,7 +569,8 @@
       "Text": "کنم شمسه را همرهت در زمان",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: من در زمان سختی و شکست، تو را به همسفری خود می‌گیرم و به تو کمک می‌کنم تا از بدگمانی و ناامیدی دور شوی."
     },
     {
       "VOrder": 30,
@@ -571,7 +586,8 @@
       "Text": "رهانی ازین رنج رضوان ما",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: ما را از این درد رهایی ببخش و ما را با خوشبختی و شادکامی، سرافراز و سرزنده کن."
     },
     {
       "VOrder": 32,
@@ -587,7 +603,8 @@
       "Text": "بگوید به تو شمسه کار طلسم",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: به تو خواهد گفت که شمسه (خورشید) تمام اسرار جادو و طلسم را می‌داند."
     },
     {
       "VOrder": 34,
@@ -603,7 +620,8 @@
       "Text": "اگرچه تو ایدر شوی بهر نام",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: هرچند تو در اینجا برای نام و آوازه‌ات حضور داری، اما از دشمنان، به دام می‌افتیم."
     },
     {
       "VOrder": 36,
@@ -619,7 +637,8 @@
       "Text": "گرفتار گردیم پیش شدید",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: ما در مقابل سختی‌ها و مشکلات قرار خواهیم گرفت، اما هیچ آسیبی به ما نخواهد رسید."
     },
     {
       "VOrder": 38,
@@ -635,7 +654,8 @@
       "Text": "درآید سر ما به زنجیر و بند",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: اگر سر ما در زنجیر و بند باشد، وقتی تو خواهی آمد، تن باارزش ما نیز در آنجا خواهد بود."
     },
     {
       "VOrder": 40,
@@ -651,7 +671,8 @@
       "Text": "برآری دمار از تن بدسگال",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: اگر تو در جستجوی شخصی بد و شرور باشی، هیچ کس در دنیا حامی تو نخواهد بود."
     },
     {
       "VOrder": 42,
@@ -667,7 +688,8 @@
       "Text": "خدای جهان یار جان تو باد",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: خداوند جهان همیشه حمایتی برای جان تو باشد و ای کاش مشکلات و سختی‌ها بر بدن کسانی که تو را بدگمان می‌پندارند، فرود آید."
     },
     {
       "VOrder": 44,
@@ -683,7 +705,8 @@
       "Text": "چو بشنید ازو سام خندید سخت",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: سام با شنیدن این خبر خیلی خوشحال شد و به قدری شاد شد که بخت او که مدتی خوابیده بود، دوباره بیدار و فعال گشت."
     },
     {
       "VOrder": 46,
@@ -699,7 +722,8 @@
       "Text": "سه جام از می لعل‌گون نوش کرد",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: سه جام شراب سرخ نوشید و همه صحبت‌های گذشته را فراموش کرد."
     },
     {
       "VOrder": 48,
@@ -715,7 +739,8 @@
       "Text": "پس آنگه بپوشید اسباب جنگ",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: سپس تجهیزات جنگی را آماده کردند و زین و افسار را بر روی اسب بستند."
     },
     {
       "VOrder": 50,
@@ -731,7 +756,8 @@
       "Text": "نشست از بر چرمه ره‌نورد",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: در کنار راه، مسافر خسته‌ای که با خود نور ماه را همراه دارد، استراحت کرد."
     },
     {
       "VOrder": 52,
@@ -747,7 +773,8 @@
       "Text": "همانگه بیامد به سوی طلسم",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: او در همان لحظه به سمت طلسمی که پر از فکر و اندیشه بود آمد تا آن را پیدا کند."
     },
     {
       "VOrder": 54,
@@ -763,7 +790,8 @@
       "Text": "یکی آتشی دید ناگه ز دور",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: ناگهان از دور، آتش درخشانی را دید که مانند چهره نورانی خورشید می‌درخشید."
     },
     {
       "VOrder": 56,
@@ -779,7 +807,8 @@
       "Text": "بدان روشنائی بشد نامدار",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: بدان که روشنایی مشهور شد و آن راه را با آرامش پیمود."
     },
     {
       "VOrder": 58,
@@ -795,7 +824,8 @@
       "Text": "شتابنده با شمسه ماهرو",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: شخصی که با سرعت و انگیزه به سوی هدفش حرکت می‌کند، راهی را که می‌خواهد پیدا می‌کند و به جلو می‌رود."
     },
     {
       "VOrder": 60,

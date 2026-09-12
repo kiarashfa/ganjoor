@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "بیمارم و آن نیم که یک جا افتم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من بیمارم و وقتی به جایی می‌رسم، نمی‌توانم آرام بنشینم و دائم در حال حرکت و گردشم. هر جا که بروم، به همان جا باز می‌گردم."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "از ضعف چنان شدم که در سینه دلم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به قدری ضعیف شده‌ام که اگر دلم بخواهد دوباره تپش کند، از پا می‌افتم."
     },
     {
       "VOrder": 4,

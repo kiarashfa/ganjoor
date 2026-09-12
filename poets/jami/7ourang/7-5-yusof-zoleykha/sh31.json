@@ -331,7 +331,8 @@
       "Text": "چو گردد کشته پنهان ماند این راز",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: زمانی که کسی به طور پنهانی کشته شود، این راز باقی می‌ماند و هرگز از آن کشته صدایی شنیده نمی‌شود."
     },
     {
       "VOrder": 2,
@@ -347,7 +348,8 @@
       "Text": "یکی گفت این به بی دینیست راهی",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: یکی گفت که این راهی که به آن فکر می‌کنیم، بی‌دینی است و منجر به قتل بی‌گناهی می‌شود."
     },
     {
       "VOrder": 4,
@@ -363,7 +365,8 @@
       "Text": "اگر اسب جفا رانیم آخر",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: اگر بر اسب ظلم و ستم کنیم، در نهایت به کشتن مسلمانان می‌انجامد."
     },
     {
       "VOrder": 6,
@@ -379,7 +382,8 @@
       "Text": "غرض زین بقعه بیرون بردن اوست",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: هدف از این مکان، خارج کردن اوست، نه کشتن یا زدن یا بردن او."
     },
     {
       "VOrder": 8,
@@ -395,7 +399,8 @@
       "Text": "همان به کافکنیمش از پدر دور",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: در اینجا اشاره به این است که بهتر است از پدر فاصله بگیریم و به مکانی بی‌کس و دور برویم که عدم امکانات و سکوت آن حس می‌شود."
     },
     {
       "VOrder": 10,
@@ -411,7 +416,8 @@
       "Text": "بیابانی در او جز دام و دد نی",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: این متن اشاره به یک بیابان دارد که تنها موجودات وحشی مانند دام و دد در آن زندگی می‌کنند و خبری از چیزهای خوب و بد نیست. در این بیابان فقط روباه و گرگ وجود دارند، که نشان‌دهنده‌ی محیطی خشن و بی‌رحم هستند."
     },
     {
       "VOrder": 12,
@@ -427,7 +433,8 @@
       "Text": "نباشد آب او جز اشک نومید",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: آب او تنها به شکل اشک‌های ناامیدی است و نان او جز نوری که از خورشید می‌تابد، نیست."
     },
     {
       "VOrder": 14,
@@ -443,7 +450,8 @@
       "Text": "نه در وی سایه ای جز در شب تار",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در او تنها در تاریکی شب سایه‌ای وجود ندارد و هیچ آرامشی جز درد و رنج نیست."
     },
     {
       "VOrder": 16,
@@ -459,7 +467,8 @@
       "Text": "چو یکچند اندر او آرام گیرد",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: وقتی مدتی در جایی آرام بگیرد، به یقین به مرگ خودش نزدیک می‌شود."
     },
     {
       "VOrder": 18,
@@ -475,7 +484,8 @@
       "Text": "نگشته تیغ ما رنگین به خونش",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: ما با تیغ خود به خون او رنگین نشده‌ایم، بلکه از نیروی فریب و حقه‌های او دوری می‌جوئیم."
     },
     {
       "VOrder": 20,
@@ -491,7 +501,8 @@
       "Text": "دگر یک گفت قتل دیگر است این",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: این یکی دیگر از قتل‌هاست که در واقع بدتر از آن چیزی است که قبلاً اتفاق افتاده."
     },
     {
       "VOrder": 22,
@@ -507,7 +518,8 @@
       "Text": "به یکدم زیر خنجر جان سپردن",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: مردن به خاطر تیزی و درد خنجر بهتر از این است که به خاطر گرسنگی یا تشنگی بمیری."
     },
     {
       "VOrder": 24,
@@ -523,7 +535,8 @@
       "Text": "صواب آنست کاندر دور و نزدیک",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: درست این است که در هر دو حال، چه از دور و چه از نزدیک، به دنبال چیزی بگردیم که ممکن است دشوار و ناپیدا باشد."
     },
     {
       "VOrder": 26,
@@ -539,7 +552,8 @@
       "Text": "ز صدر عزت و جاه افکنیمش",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: ما او را از مقام و اعتبارش پایین می‌آوریم و به شدت به ذلت و خواریش می‌افزاییم و در جهالت و پایین‌ترین جایگاه‌ها قرار می‌دهیم."
     },
     {
       "VOrder": 28,
@@ -555,7 +569,8 @@
       "Text": "بود کانجا نشیند کاروانی",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: در آنجا کاروانی وجود دارد که در آنجا مدتی آرام می‌گیرد."
     },
     {
       "VOrder": 30,
@@ -571,7 +586,8 @@
       "Text": "به چاه اندر کسی دلوی گذارد",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: کسی در چاه دلش را می‌گذارد تا به جای آب از چاهش چیزی بیرون بیاورد."
     },
     {
       "VOrder": 32,
@@ -587,7 +603,8 @@
       "Text": "به فرزندیش گیرد یا غلامی",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: کسی به فرزندی او را می‌پذیرد یا به خدمت می‌گیرد و در هنگام حمل او، بسیار سریع و چابک عمل می‌کند."
     },
     {
       "VOrder": 34,
@@ -603,7 +620,8 @@
       "Text": "شود پیوند او زینجا بریده",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: ارتباط او از اینجا قطع می‌شود و از ما هیچ آسیبی به او نخواهد رسید."
     },
     {
       "VOrder": 36,
@@ -619,7 +637,8 @@
       "Text": "چو گفت او قصه چاه پر آسیب",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: وقتی او از داستان چاه گفت، همه آنها دچار آسیب و گرفتاری شدند و در وضعیتی دشوار قرار گرفتند."
     },
     {
       "VOrder": 38,
@@ -635,7 +654,8 @@
       "Text": "ز غور چاه مکر خود نه آگاه",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: در عمق چاه، کسی از نیرنگ خود باخبر نیست و همه بدون هیچ راهی به درون چاه سقوط می‌کنند."
     },
     {
       "VOrder": 40,
@@ -651,7 +671,8 @@
       "Text": "گرفته با پدر در دل نفاقی",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: در دل پدر، نفاقی وجود دارد و بر اساس آن، برنامه‌ریزی و دوگانگی ایجاد شده است."
     },
     {
       "VOrder": 42,
@@ -667,7 +688,8 @@
       "Text": "وز آن پس رو به کار خود نهادند",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: سپس به کار خود پرداختند و وعده دادند که آن کار را فردا انجام خواهند داد."
     },
     {
       "VOrder": 44,
@@ -683,7 +705,8 @@
       "Text": "چو آید مشکلی پیش خردمند",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: وقتی برای فردی با عقل و درایت مشکلی پیش می‌آید، او می‌تواند از آن مشکل بهره‌برداری کند و در کارش پیشرفت کند."
     },
     {
       "VOrder": 46,
@@ -699,7 +722,8 @@
       "Text": "کند عقل دگر با عقل خود یار",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: عقل باید با عقل دیگر همکاری کند تا در حل مشکلات و چالش‌ها به یکدیگر کمک کنند."
     },
     {
       "VOrder": 48,
@@ -715,7 +739,8 @@
       "Text": "ز یک شمعش نگیرد نور خانه",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: نور خانه از یک شمع تامین نمی‌شود، بلکه شمع دیگری هم در وسط می‌سوزد و به روشنی کمک می‌کند."
     },
     {
       "VOrder": 50,
@@ -731,7 +756,8 @@
       "Text": "ولی هست این سخن در راست بینان",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معنی است که در میان افرادی که به حقیقت و واقعیت توجه دارند، این سخن وجود دارد که اصل و بنیاد راستگویی در جایگاه والای خود قرار دارد."
     },
     {
       "VOrder": 52,
@@ -747,7 +773,8 @@
       "Text": "نه در کجرو حریفان کج اندیش",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: نه با کسانی که راه نادرست می‌پیمايند و منششان ناپسند است، همراهی کن؛ چون در نتیجه این همراهی فقط به انحراف و کج‌روی‌های بیشتر دچار خواهی شد."
     },
     {
       "VOrder": 54,
@@ -763,7 +790,8 @@
       "Text": "چو مجلس ساختند اخوان یوسف",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: هنگامی که برادران یوسف دور هم جمع شدند تا دربارهٔ وضعیت یوسف با یکدیگر مشورت کنند."
     },
     {
       "VOrder": 56,
@@ -779,7 +807,8 @@
       "Text": "یکی گفت او ز حسرت خون ما ریخت",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: یکی گفت که آن فرد به خاطر حسرتی که دارد، به ریختن خون ما اقدام کرده است و برای مقابله با خونریزی او باید تدبیر و نقشه‌ای کشید."
     },
     {
       "VOrder": 58,
@@ -795,7 +824,8 @@
       "Text": "ز دشمن ریز خون چون یافتی دست",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: زمانی که از دشمن خود زخم و خون ریزی دیدی، بدان که نمی‌توانی از دست او نجات پیدا کنی."
     },
     {
       "VOrder": 60,

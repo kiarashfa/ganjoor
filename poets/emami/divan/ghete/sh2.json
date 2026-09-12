@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "ثبت فرمای تا شوی واقف",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یادکردی کن تا بدون توقف به نام آن معشوق آشنا شوی."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "پارسی مدام و تازی خواب",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فارسی همیشه مورد توجه است، اما عربی باعث خواب آلودگی می‌شود. یکی از این دو زبان مورد پسند است و دیگری کمتر مورد توجه قرار می‌گیرد."
     },
     {
       "VOrder": 4,

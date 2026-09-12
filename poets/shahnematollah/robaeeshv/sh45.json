@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "مردود بود کسی که مردود وی است",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که مورد قبول نیست، خودش هم مورد پذیرش نیست و کسی که از سوی او ناپسند شناخته شود، به نوعی کشته شده است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "بی جود وجود او وجودی نبود",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وجود او بدون بخشش و کرم، وجودی ندارد. هر چیزی که هست، از وجود او نشأت گرفته است."
     },
     {
       "VOrder": 4,

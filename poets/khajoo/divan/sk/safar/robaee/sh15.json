@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "هر چند فلک ز رتبتت برتر نیست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه آسمان از مقام تو بالاتر نیست، اما هیچ چیز دیگری فراتر از پاکی تو وجود ندارد."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "ابری بجهان همچو کفت در خور نیست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ابر به جهانی مانند کفت (به شدت) وجود ندارد و هیچ کس در این دنیا مثل دل تو را در آغوش ندارد."
     },
     {
       "VOrder": 4,

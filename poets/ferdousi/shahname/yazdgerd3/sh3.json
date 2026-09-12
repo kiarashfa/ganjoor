@@ -391,7 +391,8 @@
       "Text": "فرستادهٔ نیز چون برق و رعد",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "رستم فرستاده‌ای را همچون رعد و برق، با شتاب و تاختان به سوی سعد وقاص فرستاد."
     },
     {
       "VOrder": 2,
@@ -407,7 +408,8 @@
       "Text": "یکی نامه‌ای بر حریر سپید",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "نویسنده، نامه‌ای بر روی پارچه حریر سفید نوشت که همچون خورشید می‌درخشید."
     },
     {
       "VOrder": 4,
@@ -423,7 +425,8 @@
       "Text": "به عنوان بر از پور هرمزد شاه",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "بر روی نامه نوشته بود: از طرف رستم، پسرِ هرمزد، جهان‌پهلوان و نیک‌خواه،"
     },
     {
       "VOrder": 6,
@@ -439,7 +442,8 @@
       "Text": "سوی سعدِ وَقاص جوینده جنگ",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "به سوی سعد وقاص که در جستجوی جنگ است و با این کار، جهان را بر خود تاریک و تنگ کرده است."
     },
     {
       "VOrder": 8,
@@ -455,7 +459,8 @@
       "Text": "سرنامه گفت از جهاندار پاک",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "در آغاز نامه گفت: ما باید همواره از پروردگارِ پاکِ جهان ترس و پروا داشته باشیم؛"
     },
     {
       "VOrder": 10,
@@ -471,7 +476,8 @@
       "Text": "کزویست بر پای گردان سپهر",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "زیرا پایداری این چرخ گردون از اوست و تمام فرمانروایی‌اش بر پایه‌ی عدل و مهربانی است."
     },
     {
       "VOrder": 12,
@@ -487,7 +493,8 @@
       "Text": "ازو باد بر شهریار آفرین",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "از جانب خداوند بر پادشاهِ ما (یزدگرد) آفرین باد؛ پادشاهی که برازنده‌ی تاج، تخت و انگشترِ فرمانروایی است."
     },
     {
       "VOrder": 14,
@@ -503,7 +510,8 @@
       "Text": "که دارد به فر اهرمن راببند",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "پادشاهی که با شکوه و فرّهِ ایزدی‌اش اهریمن را در بند کشیده است و خداوندگارِ شمشیر و تاجِ بلندمرتبه است."
     },
     {
       "VOrder": 16,
@@ -519,7 +527,8 @@
       "Text": "به پیش آمد این ناپسندیده کار",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "اکنون این جنگ و کارزارِ بیهوده و ناپسند پیش آمده است."
     },
     {
       "VOrder": 18,
@@ -535,7 +544,8 @@
       "Text": "به من بازگوی آنک شاه تو کیست",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "به من بگو که پادشاه شما کیست؟ خودت چه مردی هستی و رسم و آیین شما چیست؟"
     },
     {
       "VOrder": 20,
@@ -551,7 +561,8 @@
       "Text": "به نزد که جویی همی دستگاه",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "با تکیه بر چه کسی جویای مقام و قدرت شده‌ای؟ ای فرماندهِ برهنه با سپاهی برهنه!"
     },
     {
       "VOrder": 22,
@@ -567,7 +578,8 @@
       "Text": "به نانی تو سیری و هم گرسنه",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "شما با یک تکه نان هم سیر هستید و هم گرسنه؛ نه فیلی دارید، نه تختی، و نه توشه و بار و بنه‌ای."
     },
     {
       "VOrder": 24,
@@ -583,7 +595,8 @@
       "Text": "به ایران تو را زندگانی بس است",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "برای شما، فقط همین که در ایران زنده بمانید موفقیتِ بزرگی است؛ زیرا تاج و تختِ پادشاهی متعلق به کس دیگری است."
     },
     {
       "VOrder": 26,
@@ -599,7 +612,8 @@
       "Text": "که با پیل و گنجست و با فروجاه",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "متعلق به پادشاهی است که فیل، گنج، شکوه و مقام دارد و نسل اندر نسلش، پادشاه و نامدار بوده‌اند."
     },
     {
       "VOrder": 28,
@@ -615,7 +629,8 @@
       "Text": "به دیدار او بر فلک ماه نیست",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "در آسمان، ماهی به زیبایی چهره‌ی او نیست و روی زمین، پادشاهی به بلندیِ قامت او وجود ندارد."
     },
     {
       "VOrder": 30,
@@ -631,7 +646,8 @@
       "Text": "هر آن گه که در بزم خندان شود",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هرگاه در بزم و مهمانی لب به خنده بگشاید و دندان‌های نقره‌فامش نمایان شود،"
     },
     {
       "VOrder": 32,
@@ -647,7 +663,8 @@
       "Text": "به بخشد بهای سر تازیان",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "ارزشی معادل بهای جانِ تمام اعراب را می‌بخشد و با این حال، هیچ گزندی به خزانه‌ی او نمی‌رسد."
     },
     {
       "VOrder": 34,
@@ -663,7 +680,8 @@
       "Text": "سگ و یوز و بازش ده و دو هزار",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "او دوازده هزار سگ، یوزپلنگ و شاهین شکاری دارد که همگی با زنگوله‌های طلا و گوشواره آراسته شده‌اند."
     },
     {
       "VOrder": 36,
@@ -679,7 +697,8 @@
       "Text": "به سالی همه دشت نیزه وران",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "تمام مردمِ سرزمین‌های عرب‌نشین (دشتِ نیزه‌وران) در طول یک سال، نمی‌توانند آن‌قدر خوراک پیدا کنند..."
     },
     {
       "VOrder": 38,
@@ -695,7 +714,8 @@
       "Text": "که او را به باید به یوز و به سگ",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "...که او فقط برای تغذیه‌ی سگ‌ها و یوزپلنگ‌های شکاری‌اش نیاز دارد تا در دشت بدوند و شکار کنند!"
     },
     {
       "VOrder": 40,
@@ -711,7 +731,8 @@
       "Text": "سگ و یوز او بیشتر زان خورد",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "غذای سگ‌ها و یوزهای او حتی از این هم بیشتر است و پادشاه این هزینه را اصلاً به حساب نمی‌آورد."
     },
     {
       "VOrder": 42,
@@ -727,7 +748,8 @@
       "Text": "شما را به دیده درون شرم نیست",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "آیا در چشمان شما هیچ شرم و حیایی نیست؟ آیا هیچ بویی از خرد، محبت و احترام نبرده‌اید؟"
     },
     {
       "VOrder": 44,
@@ -743,7 +765,8 @@
       "Text": "بدان چهره و زاد و آن مهر و خوی",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "با آن چهره، نژاد، رفتار و خوی، چطور آرزوی رسیدن به چنین تاج و تختی را در سر پرورانده‌ای؟"
     },
     {
       "VOrder": 46,
@@ -759,7 +782,8 @@
       "Text": "جهان گر بر اندازه جویی همی",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "اگر در این جهان به اندازه گلیم خودت پا دراز می‌کردی، هرگز چنین سخنان گزاف و بیهوده‌ای نمی‌گفتی."
     },
     {
       "VOrder": 48,
@@ -775,7 +799,8 @@
       "Text": "سخن گوی مردی برِ ما فرست",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "اکنون مردی سخنور، جهان‌دیده، دلاور و شایسته را نزد ما بفرست؛"
     },
     {
       "VOrder": 50,
@@ -791,7 +816,8 @@
       "Text": "بدان تا بگوید که رای تو چیست",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "تا به ما بگوید که نیت واقعی تو چیست و چه کسی تو را به سمت غصبِ تاج و تخت ایران راهنمایی کرده است."
     },
     {
       "VOrder": 52,
@@ -807,7 +833,8 @@
       "Text": "سواری فرستیم نزدیک شاه",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "تا ما نیز سواری نزد پادشاه بفرستیم و هرآنچه تو می‌خواهی را از او برایت طلب کنیم."
     },
     {
       "VOrder": 54,
@@ -823,7 +850,8 @@
       "Text": "تو جنگ چنان پادشاهی مجوی",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "با چنین پادشاهِ بزرگی نجنگ، زیرا عاقبتِ این کار، بدی و تباهی را برایت به همراه خواهد آورد."
     },
     {
       "VOrder": 56,
@@ -839,7 +867,8 @@
       "Text": "نبیره جهاندار نوشین روان",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "او نبیره‌ی انوشیروانِ جهان‌گشا است؛ پادشاهی که از شدت عدالتش، پیران دوباره جوان می‌شوند."
     },
     {
       "VOrder": 58,
@@ -855,7 +884,8 @@
       "Text": "پدر بر پدر شاه و خود شهریار",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "او نسل اندر نسل پادشاه بوده است و روزگار هرگز یادگاری مانند او به خود ندیده است."
     },
     {
       "VOrder": 60,
@@ -871,7 +901,8 @@
       "Text": "جهانی مکن پر ز نفرین خویش",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "با این جنگ‌افروزی، جهان را پر از نفرین علیه خودت نکن و در مسیر و آیین خودت دچار توهم و گمراهی نشو."
     },
     {
       "VOrder": 62,
@@ -887,7 +918,8 @@
       "Text": "به تخت کیان تا نباشد نژاد",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "انسانی که خردمند و عادل باشد، می‌داند تا کسی از نژاد پادشاهان نباشد، نباید به دنبال تخت پادشاهی کیانیان برود."
     },
     {
       "VOrder": 64,
@@ -903,7 +935,8 @@
       "Text": "نگه کن بدین نامهٔ پندمند",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "به این نامه‌ی پر از نصیحت با دقت نگاه کن و چشم و گوش و عقلت را به روی حقیقت نبند."
     },
     {
       "VOrder": 66,
@@ -919,7 +952,8 @@
       "Text": "چو نامه به مهر اندر آمد به داد",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "وقتی نامه مهر و موم شد، رستم آن را به دست پهلوانی پاک‌نژاد به نام «پیروز شاپور» سپرد."
     },
     {
       "VOrder": 68,
@@ -935,7 +969,8 @@
       "Text": "بر سعد وقاص شد پهلوان",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "آن پهلوان به همراه جمعی از بزرگان و نامدارانِ روشن‌ضمیر ایرانی، به سوی سعد وقاص به راه افتادند؛"
     },
     {
       "VOrder": 70,
@@ -951,7 +986,8 @@
       "Text": "همه غرقه در جوشن و سیم و زر",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "در حالی که همگی غرق در زره، نقره و طلا بودند و سپرهای زرین و کمربندهای طلایی به همراه داشتند (تا شکوه سپاه ایران را به رخ بکشند)."
     },
     {
       "VOrder": 72,

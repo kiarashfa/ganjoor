@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گر کار تو نیکست بتدبیر تو نیست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کار تو خوب باشد، این به خاطر تدبیر تو نیست، و اگر هم بد باشد، به خاطر قصور تو نیست."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "تسلیم و رضا پیشه کن و شاد بزی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در زندگی تسلیم شرایط باش و با شادی زندگی کن، زیرا سرنوشت نیک و بد به دست تو نیست و به تقدیر وابسته است."
     },
     {
       "VOrder": 4,

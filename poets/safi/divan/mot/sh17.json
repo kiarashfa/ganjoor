@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "امروز روز عید غدیر است",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امروز روز عید غدیر است و در این روز، نگاه فقیر به دست شاه است."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "گردون خمیده پیش زمین است",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آسمان در مقابل زمین مانند دایره‌ای خمیده است و دریا در مقایسه با حوض یا آبگیر، به مانند انبوهی از کف و کف‌ها نمایان می‌شود."
     },
     {
       "VOrder": 4,
@@ -54,7 +56,8 @@
       "Position": "Right",
       "Text": "عالم پر از نشاط و سرور است",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جهان مملو از شادی و خوشحالی است و زمین پر از امکانات و تجربه‌های شگفت‌انگیز است."
     },
     {
       "VOrder": 6,

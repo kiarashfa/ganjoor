@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "هر وصف که در شان کلام الله است",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر ویژگی‌ای که برای کلام خدا ذکر شود، به طور کامل در عبارت \u0022بسم الله\u0022 وجود دارد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "آن نقطه که آن در بی بسم الله است",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نقطه‌ای که در آن نشانه‌ای از آغاز نیست، همان زیبایی و جذابیت چهره علی، ولی خداست."
     },
     {
       "VOrder": 4,

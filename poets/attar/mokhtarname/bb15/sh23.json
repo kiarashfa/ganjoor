@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "هرکاو سخنی شنود یکبار از من",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که یک بار سخنی از من را بشنود، به خاطر آن با دشواری‌ها و مسایل زیادی مواجه می‌شود."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "کو مستمعی که بشنود یک ساعت‌؟",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا کسی هست که یک ساعت به حرف‌های من گوش دهد؟ به اندازه صد درد از دل من با زاری و فریاد درونم وجود دارد."
     },
     {
       "VOrder": 4,

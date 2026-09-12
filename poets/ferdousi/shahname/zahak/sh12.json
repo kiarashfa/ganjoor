@@ -721,7 +721,8 @@
       "Text": "جهاندار ضحاک از آن گفت‌گوی",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "ضحاک به خاطر گفتگویی که با کندرو داشت عصبانی شد و آمادهٔ رفتن شد."
     },
     {
       "VOrder": 2,
@@ -737,7 +738,8 @@
       "Text": "چو شب گردش روز پرگار زد",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "فردای آن شب ..."
     },
     {
       "VOrder": 4,
@@ -753,7 +755,8 @@
       "Text": "بفرمود تا برنهادند زین",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "... دستور داد که اسبان تندرو و باهوش را زین کنند و ..."
     },
     {
       "VOrder": 6,
@@ -769,7 +772,8 @@
       "Text": "بیامد دمان با سپاهی گران",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "با سپاهی بزرگ متشکل از نره‌دیوان جنگی راه افتاد."
     },
     {
       "VOrder": 8,
@@ -785,7 +789,8 @@
       "Text": "ز بی‌راه مر کاخ را بام و در",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "از بیراهه وارد کاخ شد و آن را اشغال کرد."
     },
     {
       "VOrder": 10,
@@ -801,7 +806,8 @@
       "Text": "سپاه فریدون چو آگه شدند",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "سپاه فریدون تا فهمیدند همه به سمت آن بیراهه رفتند."
     },
     {
       "VOrder": 12,
@@ -817,7 +823,8 @@
       "Text": "ز اسپان جنگی فرو ریختند",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "از اسب فرود آمدند و در آن گذرگاه تنگ با سپاهیان ضحاک درآویختند."
     },
     {
       "VOrder": 14,
@@ -833,7 +840,8 @@
       "Text": "همه بام و در مردم شهر بود",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "همهٔ پشت‌بامها و گذرگاههای شهر پر از مردمی شد که توان جنگیدن داشتند."
     },
     {
       "VOrder": 16,
@@ -849,7 +857,8 @@
       "Text": "همه در هوای فریدون بدند",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "همهٔ مردم به پشتیبانی فریدون درآمدند چون از ضحاک دلخون بودند."
     },
     {
       "VOrder": 18,
@@ -865,7 +874,8 @@
       "Text": "ز دیوارها خشت وز بام سنگ",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "از دیوارها خشت و از بامها سنگ و از کوچه‌ها تیر و شمشیر ..."
     },
     {
       "VOrder": 20,
@@ -881,7 +891,8 @@
       "Text": "ببارید چون ژاله ز ابر سیاه",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "... مانند باران می‌ریخت و هیچ پیی سالم نماند."
     },
     {
       "VOrder": 22,
@@ -897,7 +908,8 @@
       "Text": "به شهر اندرون هر که برنا بدند",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "\u00A0در شهر، هر جوانی که وجود داشت و افراد پیرتر که در میدان جنگ با دانایی و تجربه بودند ..."
     },
     {
       "VOrder": 24,
@@ -913,7 +925,8 @@
       "Text": "سوی لشکر آفریدون شدند",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "... آنها به سمت لشکر افریدون رفتند و از نیرنگ‌های ضحاک رهایی یافتند."
     },
     {
       "VOrder": 26,
@@ -929,7 +942,8 @@
       "Text": "خروشی برآمد ز آتشکده",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "صدایی از آتشکده بلند شد که حتی اگر شاهی بر تخت نشسته باشد یک کنیز باشد ..."
     },
     {
       "VOrder": 28,
@@ -945,7 +959,8 @@
       "Text": "همه پیر و برناش فرمان بریم",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "... همه مردم، چه پیر و چه جوان، باید از دستورات او پیروی می‌کنند و هیچ‌کدام از سخنانش را نادیده نمی‌گیرند ..."
     },
     {
       "VOrder": 30,
@@ -961,7 +976,8 @@
       "Text": "نخواهیم بر گاه ضحاک را",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "ما به دنبال حکومت ضحاک نیستیم و نمی‌خواهیم که تحت سلطهٔ چنین موجودی ناپاک و شیطانی باشیم."
     },
     {
       "VOrder": 32,
@@ -977,7 +993,8 @@
       "Text": "سپاهی و شهری به کردار کوه",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "مردمان و نظامیان مثل یک کوه عظیم همگی به جنگ آمدند."
     },
     {
       "VOrder": 34,
@@ -993,7 +1010,8 @@
       "Text": "از آن شهر روشن یکی تیره گرد",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "شهر را گرد و خاک آنچنان فراگرفت که خورشید تیره شد."
     },
     {
       "VOrder": 36,
@@ -1009,7 +1027,8 @@
       "Text": "پس آنگاه ضحاک شد چاره‌جوی",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "پس از آن، ضحاک برای پیدا کردن راه‌حل از میدان جنگ به سمت کاخ رفت."
     },
     {
       "VOrder": 38,
@@ -1025,7 +1044,8 @@
       "Text": "به آهن سراسر بپوشید تن",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "زرهی آهنی سرتاسر بدنش پوشید تا کسی او را نشناسد."
     },
     {
       "VOrder": 40,
@@ -1041,7 +1061,8 @@
       "Text": "به چنگ اندرون شست‌یازی کمند",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "یک کمند شصت متری\u00A0 بر بالای کاخ انداخت و بالا رفت."
     },
     {
       "VOrder": 42,
@@ -1057,7 +1078,8 @@
       "Text": "بدید آن سیه نرگس شهرناز",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "در آنجا شهرناز را دید که با فریدون در حال معاشقه بود."
     },
     {
       "VOrder": 44,
@@ -1073,7 +1095,8 @@
       "Text": "دو رخساره روز و دو زلفش چو شب",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "چهرهٔ زیبای سفیدش و موهای سیاهش را باز کرده و از ضحاک بدگویی می‌کند."
     },
     {
       "VOrder": 46,
@@ -1089,7 +1112,8 @@
       "Text": "به مغز اندرش آتش رشک خاست",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "در دل او حسادت شعله‌ور شد و کمند را به سمت ایوان کاخ انداخت."
     },
     {
       "VOrder": 48,
@@ -1105,7 +1129,8 @@
       "Text": "نه از تخت یاد و نه جان ارجمند",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "نه حواسش به پادشاهی و نه به جان خودش بود و از بام کاخ پایین آمد."
     },
     {
       "VOrder": 50,
@@ -1121,7 +1146,8 @@
       "Text": "به دست اندرش آبگون دشنه بود",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "\u00A0در دست او خنجری آبدیده بود و به خون شهرناز زیبارو تشنه بود."
     },
     {
       "VOrder": 52,
@@ -1137,7 +1163,8 @@
       "Text": "ز بالا چو پی بر زمین برنهاد",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "وقتی ضحاک پایش به زمین رسید فریدون مثل باد خود را به او رساند."
     },
     {
       "VOrder": 54,
@@ -1153,7 +1180,8 @@
       "Text": "بر آن گُرزهٔ گاوسر دست برد",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "گرز گاوسارش را بر سر ضحاک آنقدر محکم کوبید که کلاه‌خود ضحاک شکست و خرد شد."
     },
     {
       "VOrder": 56,
@@ -1169,7 +1197,8 @@
       "Text": "بیآمد سروش خجسته دمان",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "\u00A0فرشتهٔ سروش به سرعت ظاهر شد و گفت که زمان مناسب برای مرگ او فرا نرسیده است."
     },
     {
       "VOrder": 58,
@@ -1185,7 +1214,8 @@
       "Text": "همیدون شکسته ببندش چو سنگ",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هم‌اکنون او را محکم ببند و به دره‌ای عمیق میان کوهها ببر."
     },
     {
       "VOrder": 60,
@@ -1201,7 +1231,8 @@
       "Text": "به کوه اندرون به بود بند او",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "بهتر است او را به کوه ببری تا بستگانش دور و برش نباشند."
     },
     {
       "VOrder": 62,
@@ -1217,7 +1248,8 @@
       "Text": "فریدون چو بشنید نآسود دیر",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "فریدون وقتی این را شنید معطل نکرد و بندی از چرم شیر آورد."
     },
     {
       "VOrder": 64,
@@ -1233,7 +1265,8 @@
       "Text": "به تندی ببستش دو دست و میان",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "دستها و کمر ضحاک را به سرعت آنقدر محکم بست که فیل هم نمی‌توانست آن را باز کند."
     },
     {
       "VOrder": 66,
@@ -1249,7 +1282,8 @@
       "Text": "نشست از بر تخت زرین او",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "بر تخت پادشاهی نشست و رسم زشت ضحاک را برانداخت."
     },
     {
       "VOrder": 68,
@@ -1265,7 +1299,8 @@
       "Text": "بفرمود کردن به در بر خروش",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "فرمان داد که جار بزنند که این کسانی که هشیار هستید ..."
     },
     {
       "VOrder": 70,
@@ -1281,7 +1316,8 @@
       "Text": "نباید که باشید با ساز جنگ",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "... نباید دیگر درگیر جنگ باشید."
     },
     {
       "VOrder": 72,
@@ -1297,7 +1333,8 @@
       "Text": "سپاهی نباید که با پیشه‌ور",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "\u00A0نباید سربازان با پیشه‌وران و مردم یه جنگ ادامه دهند( هرکسی به روش خود جنگ را ادامه دهد)"
     },
     {
       "VOrder": 74,
@@ -1313,7 +1350,8 @@
       "Text": "یکی کارورز و یکی گُرزدار",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "یکی پیشه‌ور و دیگری گرزدار (جنگجو) است و هرکس باید وظیفه خودش را انجام بدهد."
     },
     {
       "VOrder": 76,
@@ -1329,7 +1367,8 @@
       "Text": "چو این کار آن جوید آن کار این",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "وقتی مردم عادی دنبال کار سپاهیان باشند یا برعکس نظم دنیا به هم می‌ریزد."
     },
     {
       "VOrder": 78,
@@ -1345,7 +1384,8 @@
       "Text": "به بند اندر است آن که ناپاک بود",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "آن که ناپاک بود یعنی ضحاک هم‌اکنون دستگیر شده است."
     },
     {
       "VOrder": 80,
@@ -1361,7 +1401,8 @@
       "Text": "شما دیر مانید و خرم بوید",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "شما خوش باشید و سراغ کارهای خودتان بروید."
     },
     {
       "VOrder": 82,
@@ -1377,7 +1418,8 @@
       "Text": "شنیدند یکسر سخنهای شاه",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "مردم سخنان فریدون پرهیزگار را شنیدند."
     },
     {
       "VOrder": 84,
@@ -1393,7 +1435,8 @@
       "Text": "وز آن پس همه نامداران شهر",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "بعد از آن همهٔ مردان خوشنام شهر که یا از خاندان شاهی بودند یا پولدار بودند ..."
     },
     {
       "VOrder": 86,
@@ -1409,7 +1452,8 @@
       "Text": "برفتند با رامش و خواسته",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "... با هدایا و دل به فرمان فریدون داده پیش او رفتند."
     },
     {
       "VOrder": 88,
@@ -1425,7 +1469,8 @@
       "Text": "فریدون فرزانه بنواختشان",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "فریدون فرزانه به آنها محبت کرد و به اندازه‌ای که شایسته بود به آنها لطف کرد."
     },
     {
       "VOrder": 90,
@@ -1441,7 +1486,8 @@
       "Text": "همی پندشان داد و کرد آفرین",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "او آن‌ها را نصیحت و تحسین کرد و آنها را به یاد خدا انداخت."
     },
     {
       "VOrder": 92,
@@ -1457,7 +1503,8 @@
       "Text": "همی گفت کاین جایگاه من است",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "او می‌گفت که این جایگاه من از اقبال شماست ...."
     },
     {
       "VOrder": 94,
@@ -1473,7 +1520,8 @@
       "Text": "که یزدان پاک از میان گروه",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "که خداوند پاک ما را از میان مردم برانگیخت و ما را از کوه البرز برانگیخت ..."
     },
     {
       "VOrder": 96,
@@ -1489,7 +1537,8 @@
       "Text": "بدان تا جهان از بد اژدها",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "تا دنیا را از شر ضحاک به وسیلهٔ گرز من آزاد کنیم."
     },
     {
       "VOrder": 98,
@@ -1505,7 +1554,8 @@
       "Text": "چو بخشایش آورد نیکی‌دهش",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "زمانی که خداوند بخشایش می‌کند باید با خوبی آنها را سپاسگزاری کرد."
     },
     {
       "VOrder": 100,
@@ -1521,7 +1571,8 @@
       "Text": "منم کدخدای جهان سر به سر",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "من کدخدای جهان هستم و شایسته نیست که یکجا بنشینم."
     },
     {
       "VOrder": 102,
@@ -1537,7 +1588,8 @@
       "Text": "وگر نه من ایدر همی بودمی",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "اگر اینطور نبود من همینجا با شما می‌ماندم."
     },
     {
       "VOrder": 104,
@@ -1553,7 +1605,8 @@
       "Text": "مهان پیش او خاک دادند بوس",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "بزرگان پیش او تعظیم کردند. از درگاه صدای طبل بلند شد."
     },
     {
       "VOrder": 106,
@@ -1569,7 +1622,8 @@
       "Text": "دمادم برون رفت لشکر ز شهر",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "سپاه فریدون از شهر خارج شد بدون این که غنیمتی از شهر بردارد."
     },
     {
       "VOrder": 108,
@@ -1585,7 +1639,8 @@
       "Text": "ببردند ضحاک را بسته خوار",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "ضحاک را پشت شتر بزرگی به خواری بستند و بردند."
     },
     {
       "VOrder": 110,
@@ -1601,7 +1656,8 @@
       "Text": "همی راند از این گونه تا شیرخوان",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "ضحاک را از آنجا تا شیرخوان (نام جاییست) بردند. زمانی که تو اینها را می‌شنوی باید دنیا را پیر بدانی!"
     },
     {
       "VOrder": 112,
@@ -1617,7 +1673,8 @@
       "Text": "بسا روزگارا که بر کوه و دشت",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "بر کوه و دشت روزگار درازی گذشته و باز هم خواهد گذشت."
     },
     {
       "VOrder": 114,
@@ -1633,7 +1690,8 @@
       "Text": "بر آن گونه ضحاک را بسته سخت",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "فریدون بیداربخت ضحاک را بسته به سوی شیرخوان برد."
     },
     {
       "VOrder": 116,
@@ -1649,7 +1707,8 @@
       "Text": "همی راند او را به کوه اندرون",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "او را به سمت کوه راند. می‌خواست سر او را ببرد."
     },
     {
       "VOrder": 118,
@@ -1665,7 +1724,8 @@
       "Text": "بیآمد هم آن گه خجسته سروش",
       "CoupletIndex": 59,
       "SectionIndex1": 0,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "هوش مصنوعی: سروشی خوش‌خبر و خوش‌آواز آمد و به آرامی رازی را در گوشش گفت."
     },
     {
       "VOrder": 120,
@@ -1681,7 +1741,8 @@
       "Text": "که این بسته را تا دماوند کوه",
       "CoupletIndex": 60,
       "SectionIndex1": 0,
-      "SectionIndex2": 62
+      "SectionIndex2": 62,
+      "CoupletSummary": "فرشته به او گفت که ضحاک را بدون همراهان به کوه دماوند ببر."
     },
     {
       "VOrder": 122,
@@ -1697,7 +1758,8 @@
       "Text": "مبر جز کسی را که نگزیردت",
       "CoupletIndex": 61,
       "SectionIndex1": 0,
-      "SectionIndex2": 63
+      "SectionIndex2": 63,
+      "CoupletSummary": "به جز کسی که مجبوری با خودت ببری کسی را نبر."
     },
     {
       "VOrder": 124,
@@ -1713,7 +1775,8 @@
       "Text": "بیآورد ضحاک را چون نوند",
       "CoupletIndex": 62,
       "SectionIndex1": 0,
-      "SectionIndex2": 64
+      "SectionIndex2": 64,
+      "CoupletSummary": "\u00A0ضحاک را تند و\u00A0 تیز به کوه دماوند آوردند و او را در آنجا به بند کشیدند."
     },
     {
       "VOrder": 126,
@@ -1729,7 +1792,8 @@
       "Text": "به کوه اندرون تنگ جایش گزید",
       "CoupletIndex": 63,
       "SectionIndex1": 0,
-      "SectionIndex2": 65
+      "SectionIndex2": 65,
+      "CoupletSummary": "در کوه، مکانی تنگ و محدود را در غاری که بسیار عمیق بود انتخاب کرد."
     },
     {
       "VOrder": 128,
@@ -1745,7 +1809,8 @@
       "Text": "بیآورد مسمارهای گران",
       "CoupletIndex": 64,
       "SectionIndex1": 0,
-      "SectionIndex2": 66
+      "SectionIndex2": 66,
+      "CoupletSummary": "میخ‌های سنگین و زیادی را آوردند."
     },
     {
       "VOrder": 130,
@@ -1761,7 +1826,8 @@
       "Text": "فرو بست دستش بر آن کوه باز",
       "CoupletIndex": 65,
       "SectionIndex1": 0,
-      "SectionIndex2": 67
+      "SectionIndex2": 67,
+      "CoupletSummary": "دست ضحاک را به کوه محکم بست تا او روزگار درازی آنجا بماند و سختی بکشد."
     },
     {
       "VOrder": 132,
@@ -1777,7 +1843,8 @@
       "Text": "ببستش بر آن گونه آویخته",
       "CoupletIndex": 66,
       "SectionIndex1": 0,
-      "SectionIndex2": 68
+      "SectionIndex2": 68,
+      "CoupletSummary": "او را آویزان بست تا خونش بر زمین بریزد."
     },
     {
       "VOrder": 134,
@@ -1793,7 +1860,8 @@
       "Text": "از او نام ضحاک چون خاک شد",
       "CoupletIndex": 67,
       "SectionIndex1": 0,
-      "SectionIndex2": 69
+      "SectionIndex2": 69,
+      "CoupletSummary": "فریدون نام ضحاک را پست کرد و دنیا از بدیهای او پاک شد."
     },
     {
       "VOrder": 136,
@@ -1809,7 +1877,8 @@
       "Text": "گسسته شد از خویش و پیوند او",
       "CoupletIndex": 68,
       "SectionIndex1": 0,
-      "SectionIndex2": 70
+      "SectionIndex2": 70,
+      "CoupletSummary": "ارتباط ضحاک و خویشان و نزدیکانش قطع شد و او همانطور در بند ماند."
     },
     {
       "VOrder": 138,

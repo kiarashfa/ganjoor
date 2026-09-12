@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "شمع است که همچو سرکشی میخندد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شمعی است که با وجود سرکشی و ناآگاهی‌اش، در آتش می‌خندد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "پس میگرید جملهٔ شب در غم صبح",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تمام شب به خاطر غم صبح، می‌گرید و صبح به خاطر این گریه، به شادی می‌خندد."
     },
     {
       "VOrder": 4,

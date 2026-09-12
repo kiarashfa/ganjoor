@@ -30,7 +30,8 @@
       "Position": "Right",
       "Text": "سخن زید نشنوی بر عمرو",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرگز درباره عمرو از زید چیزی نشنوید تا زمانی که ابتدا با حقیقت و واقعیت موضوع آشنا نشوید."
     },
     {
       "VOrder": 2,
@@ -44,7 +45,8 @@
       "Position": "Right",
       "Text": "گر خلافی میان ایشانست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر میان آنها اختلافی وجود دارد، این سخن بی‌دلیل و بی‌منطق است."
     },
     {
       "VOrder": 4,

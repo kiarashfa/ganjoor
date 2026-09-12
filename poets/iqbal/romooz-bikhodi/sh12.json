@@ -231,7 +231,8 @@
       "Text": "بود معماری ز اقلیم خجند",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: در سرزمین خجند، معمار بزرگی وجود دارد که در هنر تعمیرات مهارت ویژه‌ای دارد و نامش به خاطر این مهارت‌ها بسیار معروف است."
     },
     {
       "VOrder": 2,
@@ -247,7 +248,8 @@
       "Text": "ساخت آن صنعت گر فرهاد زاد",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: فرهاد، هنرمند ماهری، به دستور سلطان مراد، مسجدی زیبا و با ارزش ساخت."
     },
     {
       "VOrder": 4,
@@ -263,7 +265,8 @@
       "Text": "خوش نیامد شاه را تعمیر او",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: شاه از تعمیر و اصلاح او خوشنود نشد و به خاطر اشتباهی که انجام داده بود، خشمگین شد."
     },
     {
       "VOrder": 6,
@@ -279,7 +282,8 @@
       "Text": "آتش سوزنده از چشمش چکید",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: اشک‌های سوزان او مانند آتش می‌ریزد و دست آن بیچاره به خاطر درد و رنجی که می‌کشد، مجروح شده است."
     },
     {
       "VOrder": 8,
@@ -295,7 +299,8 @@
       "Text": "جوی خون از ساعد معمار رفت",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: معمار که در حال ساخت و ساز است، به خاطر مشکلات و ناتوانی‌هایش، خون دل خورده و نزد قاضی رفت تا برای درد و رنج‌هایش عدالت بخواهد."
     },
     {
       "VOrder": 10,
@@ -311,7 +316,8 @@
       "Text": "آن هنرمندی که دستش سنگ سفت",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: آن هنرمند که با مهارت و خلاقیت خود، داستانی قوی و تاثیرگذار را از واقعیت‌های سخت و دشوار زندگی روایت کرد."
     },
     {
       "VOrder": 12,
@@ -327,7 +333,8 @@
       "Text": "گفت ای پیغام حق گفتار تو",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: پیام حق به تو می‌گوید که بر اصول و قوانینی که محمد پایه‌گذاری کرده، پایبند باش و آنها را حفظ کن."
     },
     {
       "VOrder": 14,
@@ -343,7 +350,8 @@
       "Text": "سفته گوش سطوت شاهان نیم",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: نمی‌توانم بر اساس قدرت و سلطه شاهان، به راحتی از نظر قرآن قضاوت کنم."
     },
     {
       "VOrder": 16,
@@ -359,7 +367,8 @@
       "Text": "قاضی عادل بدندان خسته لب",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: قاضی عادل با دندان‌های خسته، پادشاه را در حضور خود طلب کرد."
     },
     {
       "VOrder": 18,
@@ -375,7 +384,8 @@
       "Text": "رنگ شه از هیبت قرآن پرید",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: وقتی که متهمان به محضر قاضی می‌رسند، رنگ صورت شاه به خاطر جلال و عظمت قرآن از ترس تغییر می‌کند."
     },
     {
       "VOrder": 20,
@@ -391,7 +401,8 @@
       "Text": "از خجالت دیده بر پا دوخته",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: از شدت خجالت، چشم‌هایم را به زمین دوخته‌ام و برای زیبا بودن چهره‌اش، لاله‌ها را به جمع کرده‌ام."
     },
     {
       "VOrder": 22,
@@ -407,7 +418,8 @@
       "Text": "یک طرف فریادی دعوی گری",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: در یک سو صدای کسی به دادخواهی بلند است و در سوی دیگر، پادشاه بزرگ و صاحب اقتدار و دنیای وسیع حضور دارد."
     },
     {
       "VOrder": 24,
@@ -423,7 +435,8 @@
       "Text": "گفت شه از کرده خجلت برده ام",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: پادشاه گفت که از کارهای ناخواسته‌ام شرمنده‌ام و به گناه خود اعتراف می‌کنم."
     },
     {
       "VOrder": 26,
@@ -439,7 +452,8 @@
       "Text": "گفت قاضی فی القصاص آمد حیوة",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: قاضی گفت: در تلافی و قصاص، زندگی دوباره‌ای به دست می‌آید و این قانون ثبات و استقرار را به همراه دارد."
     },
     {
       "VOrder": 28,
@@ -455,7 +469,8 @@
       "Text": "عبد مسلم کمتر از احرار نیست",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: هر بنده‌ای که در خدمت و وفاداری خود کوشا باشد، از آزادگان کمتر نیست و خون شهیدان ارزش بیشتری از خونی که برای ساخت و ساز صرف می‌شود، دارد."
     },
     {
       "VOrder": 30,
@@ -471,7 +486,8 @@
       "Text": "چون مراد این آیه ی محکم شنید",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: زمانی که شخص به حقیقت این آیه‌ی محکم پی برد، دستش را از آستینش بیرون آورد."
     },
     {
       "VOrder": 32,
@@ -487,7 +503,8 @@
       "Text": "مدعی را تاب خاموشی نماند",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: مدعی دیگر نمی‌تواند سکوت کند، چون آیه «به عدالت و نیکی عمل کنید» را می‌خواند."
     },
     {
       "VOrder": 34,
@@ -503,7 +520,8 @@
       "Text": "گفت از بهر خدا بخشیدمش",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: گفت به خاطر خدا او را بخشیدم، و برای محبت رسول خدا نیز او را بخشیدم."
     },
     {
       "VOrder": 36,
@@ -519,7 +537,8 @@
       "Text": "یافت موری بر سلیمانی ظفر",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: مورچه‌ای بر سلیمان پیروز شد، چون قدرت و عظمت پیامبر را ببین."
     },
     {
       "VOrder": 38,
@@ -535,7 +554,8 @@
       "Text": "پیش قرآن بنده و مولا یکی است",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: در برابر قرآن، مقام بنده و خداوند هیچ تفاوتی ندارد و فرقی بین انسان‌ها وجود ندارد. هر دو با هم برابر هستند، مانند اینکه پارچه نازک و نرم و فرش گرانبها در ارزش یکسان هستند."
     },
     {
       "VOrder": 40,

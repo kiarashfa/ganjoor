@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "دجود است اینکه بینی یا نمود است",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اینکه تو درخودت می‌بینی یا آنچه نشان می‌دهی، تنها ظاهر کار است. حکیم ما چه مشکلاتی را حل کرده و گشوده است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "کتابی بر فن غواص بنوشت",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کتابی درباره‌ی مهارت غواصی نوشته شده است، اما خود غواصی در دل دریا وجود ندارد."
     },
     {
       "VOrder": 4,

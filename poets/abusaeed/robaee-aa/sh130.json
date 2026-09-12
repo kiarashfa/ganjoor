@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "پرسید ز من کسی که معشوق تو کیست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی از من پرسید معشوق تو کیست، من هم گفتم که فلانی است. بعد از من پرسید که هدف تو از این محبت چیست؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "بنشست و به های‌های بر من بگریست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او نشسته و با صدای بلند به من می‌گرید و می‌گوید از دست کسی مثل تو چگونه می‌توان زندگی کرد؟"
     },
     {
       "VOrder": 4,

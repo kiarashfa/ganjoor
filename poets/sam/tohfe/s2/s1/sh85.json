@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "از سادات ری است و بغایت سیدی فقیر این مطلع از اوست :",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: او از سادات ری است و از خانواده ای سیدی فقیر به شمار می رود."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "خوش آنکه بحالم نظری داشته باشی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوست داشتنی است که به حال من نگاهی بیاندازی و با قلبی شاد و محبت‌آمیز به من توجه کنی."
     },
     {
       "VOrder": 3,

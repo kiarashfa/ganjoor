@@ -215,7 +215,8 @@
       "Text": "ای رویت از فردوس بابی",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: ای چهره‌ات مانند در، زیبا و دلنشین است و موهایت چون سنبل، گلی را زیباتر کرده است."
     },
     {
       "VOrder": 2,
@@ -232,7 +233,8 @@
       "CoupletIndex": 1,
       "SectionIndex1": 0,
       "SectionIndex2": 11,
-      "SectionIndex3": 12
+      "SectionIndex3": 12,
+      "CoupletSummary": "هوش مصنوعی: هر پیچ و تابی که در زندگی‌ام وجود دارد، مانند طنابی بر گردن من است که مرا می‌کشد و تحت فشار می‌گذارد."
     },
     {
       "VOrder": 4,
@@ -249,7 +251,8 @@
       "Text": "از سوز عشق اردم برآرم",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: از شدت عشق، وقتی که می‌سوزم، می‌توانم هفت آسمان را ناگهان شعله‌ور کنم."
     },
     {
       "VOrder": 6,
@@ -266,7 +269,8 @@
       "CoupletIndex": 3,
       "SectionIndex1": 0,
       "SectionIndex2": 11,
-      "SectionIndex3": 13
+      "SectionIndex3": 13,
+      "CoupletSummary": "هوش مصنوعی: از اشک‌های من سیلابی به راه می‌افتد که آسیاب را به گردش درمی‌آورد."
     },
     {
       "VOrder": 8,
@@ -283,7 +287,8 @@
       "Text": "می درده ای گلروی مهوش",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: از زیبایی و دلربایی دلبر، گلی بر روی سبزه‌ای می‌افکند و فضای زیبایی را ایجاد می‌کند."
     },
     {
       "VOrder": 10,
@@ -300,7 +305,8 @@
       "CoupletIndex": 5,
       "SectionIndex1": 0,
       "SectionIndex2": 11,
-      "SectionIndex3": 14
+      "SectionIndex3": 14,
+      "CoupletSummary": "هوش مصنوعی: امیدوارم که از آن آب، به‌سان آتش، بر آتش غم‌ام بریزم."
     },
     {
       "VOrder": 12,
@@ -317,7 +323,8 @@
       "Text": "ساقی ز خواب صبح برخیز",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: ای ساقی، از خواب صبح بیدار شو و با ما لحظاتی شاد و دلنشین را سپری کن."
     },
     {
       "VOrder": 14,
@@ -334,7 +341,8 @@
       "CoupletIndex": 7,
       "SectionIndex1": 0,
       "SectionIndex2": 11,
-      "SectionIndex3": 15
+      "SectionIndex3": 15,
+      "CoupletSummary": "هوش مصنوعی: برخلاف افرادی که از گناه دوری می‌کنند، من از آن شراب خوشمزه لذت می‌برم."
     },
     {
       "VOrder": 16,
@@ -351,7 +359,8 @@
       "Text": "ای یار نوشین لب کجائی",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: ای دوست با لب‌های شیرین، کجا هستی؟ بیا و یک جرعه بنوش که تو زندگی‌ام هستی."
     },
     {
       "VOrder": 18,
@@ -368,7 +377,8 @@
       "CoupletIndex": 9,
       "SectionIndex1": 0,
       "SectionIndex2": 11,
-      "SectionIndex3": 16
+      "SectionIndex3": 16,
+      "CoupletSummary": "هوش مصنوعی: ساقی، هر چه زودتر به من نوشیدنی بده، چون احساس می‌کنم عمرم به سرعت در حال گذر است."
     },
     {
       "VOrder": 20,
@@ -385,7 +395,8 @@
       "Text": "بینم که نوشم با حبیبان",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: می‌بینم که با دوستانم نوشیدنی می‌نوشم و در خوشی و شادی به صدای خوانندگان می‌رقصیم."
     },
     {
       "VOrder": 22,
@@ -402,7 +413,8 @@
       "CoupletIndex": 11,
       "SectionIndex1": 0,
       "SectionIndex2": 11,
-      "SectionIndex3": 17
+      "SectionIndex3": 17,
+      "CoupletSummary": "هوش مصنوعی: اگر از من نصیحت کنند، از این به بعد هیچ چیز نخواهم دید که درست و شایسته باشد."
     },
     {
       "VOrder": 24,
@@ -419,7 +431,8 @@
       "Text": "ای خوش نسیم نوبهاران",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: ای نسیم بهاری، چقدر خوشحالی! حال و احوال دوستداران چگونه است؟"
     },
     {
       "VOrder": 26,
@@ -436,7 +449,8 @@
       "CoupletIndex": 13,
       "SectionIndex1": 0,
       "SectionIndex2": 11,
-      "SectionIndex3": 18
+      "SectionIndex3": 18,
+      "CoupletSummary": "هوش مصنوعی: زندگی بدون لذت و شادی برای دوستان همچون نوشیدن غذایی تلخ است که به هیچ‌وجه مزۀ شیرینی ندارد."
     },
     {
       "VOrder": 28,
@@ -453,7 +467,8 @@
       "Text": "برخاست بانگ نوبت بام",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: صدای نوبت صبح بلند شده است، بیا ای ساقی، باده‌ی تازه را پیش بیاور."
     },
     {
       "VOrder": 30,
@@ -470,7 +485,8 @@
       "CoupletIndex": 15,
       "SectionIndex1": 0,
       "SectionIndex2": 11,
-      "SectionIndex3": 19
+      "SectionIndex3": 19,
+      "CoupletSummary": "هوش مصنوعی: لیوان را پر کن، زیرا هر بار که از جام می‌نوشی، نوری تازه و درخشان به وجود می‌آید."
     },
     {
       "VOrder": 32,
@@ -487,7 +503,8 @@
       "Text": "خواجو نه وقت بوستانست",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: این زمان، زمان لذت بردن از طبیعت نیست، بلکه فرصتی برای بودن در کنار دوستان و ساختن لحظاتی خوش با آنان است."
     },
     {
       "VOrder": 34,
@@ -504,7 +521,8 @@
       "CoupletIndex": 17,
       "SectionIndex1": 0,
       "SectionIndex2": 11,
-      "SectionIndex3": 20
+      "SectionIndex3": 20,
+      "CoupletSummary": "هوش مصنوعی: دوستان عزیز، امشب زمانی نیست که بخواهم در خواب به سر ببرم و چیزی را از دست بدهم."
     },
     {
       "VOrder": 36,

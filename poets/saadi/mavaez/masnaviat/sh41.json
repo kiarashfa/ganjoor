@@ -411,7 +411,8 @@
       "Text": "الا گر بختمند و هوشیاری",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهی به شناخت و آگاهی خود افزوده کنی، باید به سخنان خردمندان توجه کنی."
     },
     {
       "VOrder": 2,
@@ -427,7 +428,8 @@
       "Text": "شنیدم کاَسب سلطانی خطا کرد",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "شنیده‌ام که اسب یک سلطان‌، رم کرد (و چنان تاخت) که گرد و غبار به هوا برخاست."
     },
     {
       "VOrder": 4,
@@ -443,7 +445,8 @@
       "Text": "شه مسکین از اسب افتاد مدهوش",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "شه بیچاره از اسب، بیهوش افتاد و همچون فیل که نمی‌تواند سر بچرخاند، گردنش خشک شده بود."
     },
     {
       "VOrder": 6,
@@ -459,7 +462,8 @@
       "Text": "خردمندان نظر بسیار کردند",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "دانایان\u00A0‌(و طبیبان‌)‌، بسیار جست‌و‌جو کردند اما در درمانش ناتوان ماندند."
     },
     {
       "VOrder": 8,
@@ -475,7 +479,8 @@
       "Text": "حکیمی باز پیچانید رویش",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "حکیمی گردنش را چرخاند و پیچانید و مفاصلش را نرم کرد و از هر دو سو می‌توانست به پشت سر نگاه کند."
     },
     {
       "VOrder": 10,
@@ -491,7 +496,8 @@
       "Text": "دگر روز آمدش پویان به درگاه",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "آن حکیم روز بعد به امید قدردانی به سرای سلطان آمد."
     },
     {
       "VOrder": 12,
@@ -507,7 +513,8 @@
       "Text": "شنیدم کان مخالف‌طبع بد‌خو‌ی",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "شنیده‌ام که آن آدم بد‌خو و ناساز از او قدردانی نکرد و روی از او بگرداند."
     },
     {
       "VOrder": 14,
@@ -523,7 +530,8 @@
       "Text": "حکیم از بختِ بی‌سامان برآشفت",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "حکیم از بخت بی‌سامان شکایت کرد و در حالیکه از سرای سلطان بیرون می‌رفت می‌گفت‌:"
     },
     {
       "VOrder": 16,
@@ -539,7 +547,8 @@
       "Text": "«سرش برتافتم تا عافیت یافت",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "‌«سرش را پیچاندم تا سلامتی خود را بازیافت آنگاه بدبختانه روی از من بگردانید."
     },
     {
       "VOrder": 18,
@@ -555,7 +564,8 @@
       "Text": "چو از چاهش برآوردی و نشناخت",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "اگر کسی را از چاه برآوردی و (قدر) نشناخت آنوقت لازم است رهایش کنی که در چاه بیفتد.‌»"
     },
     {
       "VOrder": 20,
@@ -571,7 +581,8 @@
       "Text": "غلامش را گیاهی داد و فرمود",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "به غلام آن سلطان گیاهی داد و به او گفت که این را در شبستان سلطان دود و بخوُر کن."
     },
     {
       "VOrder": 22,
@@ -587,7 +598,8 @@
       "Text": "وز آنجا کرد عزم رخت بستن",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "و از آن دیار رفت زیرا\u00A0بی‌حرمتی دیدن‌، عاقلانه نیست."
     },
     {
       "VOrder": 24,
@@ -603,7 +615,8 @@
       "Text": "شهنشه بامداد از خواب برخاست",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "شاهنشاه بامداد از خواب برخاست‌؛ گردنش خشک شده بود و نمی‌توانست نه چپ و نه راست رویش را بگرداند."
     },
     {
       "VOrder": 26,
@@ -619,7 +632,8 @@
       "Text": "طلب کردند مرد کاردان را",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "آن طبیب کاردان را جُستند و طلب کردند اما مثل برق و به‌سرعت رفته بود."
     },
     {
       "VOrder": 28,
@@ -635,7 +649,8 @@
       "Text": "پریشان از جفا می‌گفت هر دم",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "سلطان هر دم با درد می‌گفت «کار بدی کردم که نکویی و قدردانی نکردم.‌»"
     },
     {
       "VOrder": 30,
@@ -651,7 +666,8 @@
       "Text": "چو به بودی طبیب از خود میازار",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "وقتی نیازت برطرف شد و سلامتی را یافتی (کار خوب و عاقلانه‌ای نیست‌) که طبیب را از خود بیازاری چون ممکن است باز‌هم بیمار شوی."
     },
     {
       "VOrder": 32,
@@ -667,7 +683,8 @@
       "Text": "چو باران رفت بارانی میفکن",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "وقتی که باران ایستاد آنچه که از باران در پناهش ایستاده بودی را خراب مکن و میفکن و درختی را که از آن میوه خورده‌ای مشکن."
     },
     {
       "VOrder": 34,
@@ -683,7 +700,8 @@
       "Text": "چو خرمن برگرفتی گاو مفروش",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "گاو (شخم‌زن‌ و خرمن‌کوب) را پس از بر‌گرفتن و جمع کردن‌ِ خرمن مفروش (و از آن گاو نگه‌داری کن) که قدرنشناسی کار آدمِ فرومایه است."
     },
     {
       "VOrder": 36,
@@ -699,7 +717,8 @@
       "Text": "منه بر روشنایی دل به یک بار",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: دل روشن خود را به راحتی و یکباره نبر، بلکه چراغی برای تاریکی‌های آینده خود روشن نگه‌دار."
     },
     {
       "VOrder": 38,
@@ -715,7 +734,8 @@
       "Text": "نشاید کآدمی چون کرهٔ خر",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: انسان نباید مانند فرزند یک قاطر باشد که پس از رشد و بزرگ شدن، دیگر به دور مادرش نچرخد و از او دوری کند."
     },
     {
       "VOrder": 40,
@@ -731,7 +751,8 @@
       "Text": "وفاداری کن و نعمت‌شناسی",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "وفادار و اهل وفا باش و قدر‌شناس و نعمت‌شناس که ناسپاسی‌، عاقب و فرجام بدی دارد."
     },
     {
       "VOrder": 42,
@@ -747,7 +768,8 @@
       "Text": "جزای مردمی جز مردمی نیست",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "پاسخ و جزای مردمی و نیکی جز نیکی و خوبی نیست و هر‌آنکس که حق و نعمت را نشناسد آدمی نیست."
     },
     {
       "VOrder": 44,
@@ -763,7 +785,8 @@
       "Text": "وگر دانی که بدخویی کند یار",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "اگر یارانت بدخویی ‌(و بی‌وفایی‌) کردند تو خوی نیکوی خود را رها مکن و نیکو‌خصال باش."
     },
     {
       "VOrder": 46,
@@ -779,7 +802,8 @@
       "Text": "الا تا بر مزاج و طبع عامی",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هرگز مانند عام و عامی مباش‌؛ و خیر‌خواهی و نیک‌نامی را ترک مکن."
     },
     {
       "VOrder": 48,
@@ -795,7 +819,8 @@
       "Text": "من این رمز و مثال از خود نگفتم",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "این رمز و حکایت را که شنیدید از خود نگفتم بلکه حکایتی باارزش و دُری بود که من آن را سُفتم و به‌رشته درآوردم."
     },
     {
       "VOrder": 50,
@@ -811,7 +836,8 @@
       "Text": "ز خُردی تا بدین غایت که هستم",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "از خردسالی تا امروز و این عمر که هستم حدیث دیگران را به خود نبسته‌ام."
     },
     {
       "VOrder": 52,
@@ -827,7 +853,8 @@
       "Text": "حکیمی این حکایت بر زبان راند",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "حکیم و دانایی این حکایت را گفت و من دریغ و حیف دانستم که این حکایت، بی‌فایده بمانَد."
     },
     {
       "VOrder": 54,
@@ -843,7 +870,8 @@
       "Text": "به نظم آوردمش تا دیر مانَد",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "پس آن‌را به نظم درآوردم تا ماندگار شود و شخص خردمند بر آن آفرین بگوید."
     },
     {
       "VOrder": 56,
@@ -859,7 +887,8 @@
       "Text": "الا ای نیکرای نیک‌تدبیر",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "ای آدم نیکو‌رای و خوش‌فکر و ای جوانمرد و بخشنده و بلند‌همّت."
     },
     {
       "VOrder": 58,
@@ -875,7 +904,8 @@
       "Text": "شنیدم قصه‌های دلفروزت",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "حکایت‌ها و قصه‌های روشنی‌بخش تورا شنیدم و امیداوارم که سال و ماه و روزت مبارک و خوش‌پَی باشد."
     },
     {
       "VOrder": 60,
@@ -891,7 +921,8 @@
       "Text": "ندانستند قدر فضل و رایت",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: آن‌ها ارزش علم و بزرگی تو را ندانستند و اگر می‌دانستند، سر خود را به پای تو می‌گذاشتند."
     },
     {
       "VOrder": 62,
@@ -907,7 +938,8 @@
       "Text": "تو نیکویی کن و در دجله انداز",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "تو نیکویی و کار خیر کن و در دجله (که آبی گذران است) بینداز (یعنی چشم و توقع جبران از سوی مردم را نداشته‌باش‌) که ایزد و پروردگار، آن خیر و نیکویی‌ را در بیابان (و روزی که بدان نیاز داری‌) به تو باز خواهد گرداند."
     },
     {
       "VOrder": 64,
@@ -923,7 +955,8 @@
       "Text": "که پیش از ما چو تو بسیار بودند",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "که پیش از این روزگار، همچون تو، آدمیانی نیک‌اندیش و خیرخواه و یا بد‌کردار، بسیار و فراوان زیسته‌اند."
     },
     {
       "VOrder": 66,
@@ -939,7 +972,8 @@
       "Text": "بدی کردند و نیکی با تن خویش",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "بدی‌ها و نیکی‌ها کردند و هرچه کردند با خود کردند پس تو نیکوکار باش و بدخواه مباش و نیک‌پندار باش."
     },
     {
       "VOrder": 68,
@@ -955,7 +989,8 @@
       "Text": "شنیدم هر چه در شیراز گویند",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "شنیده‌ام که هرچه در شیراز گفته شود در هفت‌اقلیم عالم پژواک می‌یابد و باز‌گفته می‌شود."
     },
     {
       "VOrder": 70,
@@ -971,7 +1006,8 @@
       "Text": "که سعدی هر چه گوید پند باشد",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "که سعدی هرچه می‌گوید‌، سخن‌ِ نیک و پند است‌، و او به اندرز‌ دادن و راهنمایی آدمیان خوش‌اقبال‌، حریص است."
     },
     {
       "VOrder": 72,
@@ -987,7 +1023,8 @@
       "Text": "خدایت ناصر و دولت معین باد",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: خداوند تو را یاری کند و پرچم موفقیت‌ات را برافراشته نگه دارد. دعاهای خیرخواهان همیشه با تو باشد."
     },
     {
       "VOrder": 74,
@@ -1003,7 +1040,8 @@
       "Text": "مراد و کام و بختت همنشین باد",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: برای تو خوشبختی و آرزوهایت همواره همراه باشد و هر کسی که چنین آرزویی دارد، همینطور باشد."
     },
     {
       "VOrder": 76,

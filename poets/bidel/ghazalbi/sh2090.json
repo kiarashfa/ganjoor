@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "نه تعین نه ناز می‌رسدم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من نه به خاطر زیبایی و نه به خاطر خاص بودن به تو نزدیک می‌شوم، بلکه به دلیل یک نیاز درونی به تو می‌رسam."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "ناز اقبال نارسایی ها",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که مشکلات و نارسایی‌ها را پشت سر می‌گذارم، به آرزوها و زیبایی‌های خود می‌رسم."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "تا ز خاکسترم اثر پیداست",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از خاکستر من هنوز نشانه‌هایی باقی مانده است؛ بی‌تو دوباره احساس سوختن می‌کنم."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "تا شوم قابل نم اشکی",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من می‌خواهم به جایی برسم که اشکی از چشمم بریزد تا بتوانم دل‌سوخته‌ام را تسکین دهم."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "مژدهٔ وصل و بخت من هیهات",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خبر خوشی دربارهٔ وصل و خوشبختی من نمی‌رسد، نمی‌دانم این صدا از کجا می‌آید و چرا به من می‌رسد."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "نشئهٔ انتظار یعقوبم",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در حال حاضر در حال تجربه یک حس شدید انتظار و longing هستم، که مانند ساغری از چشمم در حال جاری شدن است."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "وارث عبرتم علاجی نیست",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من که وارث تجربه‌هایم، نمی‌توانم از سرنوشت این دنیا فرار کنم و راهی برای نجات ندارم."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "سوی دنیا نبرده‌ام دستی",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من هیچ تلاشی برای به دست آوردن دنیا نکرده‌ام، اما اگر قدمی به جلو بردارم، به آن چیزهایی که می‌خواهم می‌رسم."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "گر همین نفی خویش اثباتست",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر همین نفی خودم در واقع نشانه‌ای از وجود است، پس بدون شک به هدف و مقصود خواهش می‌رسم و به آن دست پیدا می‌کنم."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "سعی اشکم‌ که دیده تا مژگان",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تلاش می‌کنم که اشک‌هایم به گونه‌ای بریزند که از چشمانم تا مژگانم در نوسان باشند و بالا و پایین بروند."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "گر رموز حقیقتم این است",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر حقیقت من این است که هر جا باشم به نوعی به واقعیت می‌رسم، پس معنای واقعی زندگی در هر مکانی وجود دارد."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "نرسیدم به هیچ جا بید‌ل",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به جایی نرسیدم و هنوز نمی‌دانم تا چه زمانی باید به دنبال افتخار و تمایز بگردم."
     },
     {
       "VOrder": 24,

@@ -151,7 +151,8 @@
       "Text": "عاشقی در گوشه ای بنشسته بود",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: عاشقی در گوشه‌ای نشسته بود و به تنهایی با خودش صحبت می‌کرد و به افکارش ادامه می‌داد."
     },
     {
       "VOrder": 2,
@@ -167,7 +168,8 @@
       "Text": "هر دم از نو داستانی ساختی",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: هر لحظه داستان جدیدی را خلق کردی و قصه‌ای ناگفته را به تصویر کشیدی."
     },
     {
       "VOrder": 4,
@@ -183,7 +185,8 @@
       "Text": "گه ز مه گفتی گهی از آفتاب",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: گاهی از ماه سخن می‌گویی، گاهی از آفتاب، و گاهی هم از روی برگ گل سنبل پرده برمی‌داری."
     },
     {
       "VOrder": 6,
@@ -199,7 +202,8 @@
       "Text": "گه ز قد سرو کردی نکته راست",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: گاهی قامت مثل سرو راست و بلند بودی و گاهی از خاک، خس و علفی برمی‌خیزد."
     },
     {
       "VOrder": 8,
@@ -215,7 +219,8 @@
       "Text": "غافلی از دور آن را می شنید",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: او از دور صدای آن شخص را می‌شنید و به خاطر سخنان بی‌محتوا و بی‌ارزشش، دلش ناخوش می‌شد و از شنیدن آنها فرار می‌کرد."
     },
     {
       "VOrder": 10,
@@ -231,7 +236,8 @@
       "Text": "گفت با وی کای به عشقت رفته نام",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: او به او گفت: ای کسی که به خاطر عشق تو، نام عاشق را از زبان معشوق خود دور کرده‌ای."
     },
     {
       "VOrder": 12,
@@ -247,7 +253,8 @@
       "Text": "عاشق و نام کسان گفتن که چه",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: عاشق‌ها و نام افراد را بیان می‌کنند تا بگویند چه دُری را در وصف آدم‌های بی‌ارزش و ناآگاه به دست آورده‌اند."
     },
     {
       "VOrder": 14,
@@ -263,7 +270,8 @@
       "Text": "گفت کای دور از نشان عاشقان",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: بگو، ای کسی که از عشق دوری، تو هرگز نمی‌توانی زبان عاشقان را درک کنی."
     },
     {
       "VOrder": 16,
@@ -279,7 +287,8 @@
       "Text": "ز آفتاب و مه غرض یار من است",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: هدف من از وجود آفتاب و ماه، دوستی و محبت محبوبم است و این موضوع برای آگاهان و دانایان واضح و روشن است."
     },
     {
       "VOrder": 18,
@@ -295,7 +304,8 @@
       "Text": "گل که گفتم لطف رویش خواستم",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: وقتی از گل صحبت می‌کنم، منظورم زیبایی و لطف چهره‌اش است؛ اما به یادم می‌آید که بوی خوش سنبل و زیبایی موی او را هم می‌خواهم."
     },
     {
       "VOrder": 20,
@@ -311,7 +321,8 @@
       "Text": "سرو چه بود قامت رعنای او",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: سرو چه خاصیتی دارد که قامت زیبای او را توصیف کند؟ من دشمنانم به خاطر جمال و زیبایی او از زمین ریشه‌کن شده‌ام."
     },
     {
       "VOrder": 22,
@@ -327,7 +338,8 @@
       "Text": "گر تو واقف از زبان من شوی",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: اگر از زبان من آگاهی پیدا کنی، جز سخنان عشق او چیزی نخواهی شنید."
     },
     {
       "VOrder": 24,

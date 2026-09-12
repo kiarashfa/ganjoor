@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "هر کو ز طریقه ددی دور بود",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که از راه درست و صحیح دور باشد، باید همیشه از کارهای بد و نادرست دوری کند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "هر چیز که بی سؤال خواهی دانست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی را که بدون سوال کردن بخواهی بدانی، دانستن آن از حکمت و خرد دور است."
     },
     {
       "VOrder": 4,

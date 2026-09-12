@@ -151,7 +151,8 @@
       "Text": "چو باز آمد به درگاه سلیمان",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: وقتی که تمام پرنده‌ها به درگاه سلیمان برگشتند، به ترتیب و صف‌صف کنار هم ایستادند."
     },
     {
       "VOrder": 2,
@@ -167,7 +168,8 @@
       "Text": "سر خود بر زمین بنهاد بلبل",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: بلبل سر خود را بر زمین گذاشت و کمربند خود را محکم کرد و سپس زبانش را باز کرد."
     },
     {
       "VOrder": 4,
@@ -183,7 +185,8 @@
       "Text": "سپاس پادشه کرد و دعا گفت",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: شخصی از مقام پادشاه تقدیر و تشکر کرد و همچنین برای سلیمان دعا کرد و جمله‌های زیبایی درباره او بیان نمود."
     },
     {
       "VOrder": 6,
@@ -199,7 +202,8 @@
       "Text": "تو آن شاهی که مار و مور و انسان",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: تو آن پادشاهی هستی که تمام موجودات، از مار و مور گرفته تا انسان و حیوانات وحشی و پریان، زیر فرمان تو هستند."
     },
     {
       "VOrder": 8,
@@ -215,7 +219,8 @@
       "Text": "ترا زیبد به عالم پادشاهی",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: شایسته توست که در جهان فرمانروایی کنی که زیر فرمانت پرنده و ماهی هستند."
     },
     {
       "VOrder": 10,
@@ -231,7 +236,8 @@
       "Text": "نباشد از تو بهتر شهریاری",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: هیچ حاکم و پادشاهی همچون تو که بخشنده و کریم باشد و بر تخت سلطنت نشسته باشد، وجود ندارد."
     },
     {
       "VOrder": 12,
@@ -247,7 +253,8 @@
       "Text": "رسول پادشاه بی‌زوالی",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: پیامبر بزرگ و همیشگی، با تلاش و کوشش، از هر گونه نقص و کمبودی برتر است."
     },
     {
       "VOrder": 14,
@@ -263,7 +270,8 @@
       "Text": "ز کویت تا گل بی‌خار روید",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: از آنجا که تو در کنار من نیستی، هر چیزی که زیبایی و صفایی دارد، همچون گل‌های بی خار، در حضور تو شکوفا می‌شود. اما در غیاب تو، تنها نازیبایی‌ها و چیزهای بی‌ارزش به وجود می‌آید."
     },
     {
       "VOrder": 16,
@@ -279,7 +287,8 @@
       "Text": "تورا کام و مرادت حاصل آمد",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: تو را می‌خواهم و آرزویت برآورده شده است، دلت از نور بزرگی و عزت پر شده است."
     },
     {
       "VOrder": 18,
@@ -295,7 +304,8 @@
       "Text": "تویی مطلوب هر جا طالبی هست",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: تو هدف هر کسی هستی که دنبال تو می‌گردد و دلت از درک حقیقت پر شده و شاداب شده است."
     },
     {
       "VOrder": 20,
@@ -311,7 +321,8 @@
       "Text": "از آن از خدمتت دوری گزیدم",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: به خاطر اینکه خود را شایسته خدمت به تو نمی‌دیدم، از خدمت به تو فاصله گرفتم."
     },
     {
       "VOrder": 22,
@@ -327,7 +338,8 @@
       "Text": "اگر عمرم دهد یزدان ازین پس",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: اگر خدا عمری به من بدهد، از این به بعد می‌خواهم خدمتگزار تو باشم."
     },
     {
       "VOrder": 24,

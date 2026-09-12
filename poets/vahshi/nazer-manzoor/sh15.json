@@ -441,7 +441,8 @@
       "Text": "اسیر درد شبهای جدایی",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: کسی که در شب‌های دوری و جدایی گرفتار درد است، به شدت از فقر و ناتوانی خود شکایت می‌کند."
     },
     {
       "VOrder": 2,
@@ -457,7 +458,8 @@
       "Text": "که شد چون مشعل مهر منور",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: این بیت اشاره به روشنایی و زیبایی دارد، که مانند مشعلی درخشان بر افراز شده و به زیبایی‌های آسمان یا زمین می‌افزاید. این تصویر به نوعی نماد است از روشنی و تأثیری که در زندگی یا محیط اطراف دارد."
     },
     {
       "VOrder": 4,
@@ -473,7 +475,8 @@
       "Text": "برآمد دود از کاشانهٔ خاک",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: از خانه‌ای که در آن خاک و دود است، دود بلند می‌شود و به آسمان می‌رسد."
     },
     {
       "VOrder": 6,
@@ -489,7 +492,8 @@
       "Text": "در آن شب ناظر از هجران منظور",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: در آن شب، ناظر به خاطر جدایی، در گوشه‌ای از تنهایی به تماشای معشوق نشسته و از همراهان خود فاصله گرفته است."
     },
     {
       "VOrder": 8,
@@ -505,7 +509,8 @@
       "Text": "ز روی درد افغان کرد بنیاد",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: از روی درد و رنجی که دارد، به گوشه‌ای پناه برده و از دل پر از غمش ناله‌ای سر می‌دهد."
     },
     {
       "VOrder": 10,
@@ -521,7 +526,8 @@
       "Text": "مرا این درد دل از پا درآورد",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: این درد و رنجی که در دل دارم به حدی است که مرا ناتوان کرده است. از تو می‌خواهم که هیچکس دیگر به این درد مبتلا نشود."
     },
     {
       "VOrder": 12,
@@ -537,7 +543,8 @@
       "Text": "چه می‌داند کسی تا درد من چیست",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس نمی‌داند که من چه دردی دارم و چه کسی می‌تواند درک کند که با چه سختی‌هایی روبرو هستم."
     },
     {
       "VOrder": 14,
@@ -553,7 +560,8 @@
       "Text": "نه همدردی که درد خویش گویم",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: نه کسی هست که درد من را بفهمد و من بتوانم از درد خود بگویم، و نه راهی برای درمان درد خود می‌جویم."
     },
     {
       "VOrder": 16,
@@ -569,7 +577,8 @@
       "Text": "نه همرازی که گویم راز با او",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: هیچ هم‌راز و رفیقی نیست که بتوانم در دل با او راز بگوییم و خود را در کنار او به آرامش برسانم."
     },
     {
       "VOrder": 18,
@@ -585,7 +594,8 @@
       "Text": "نه یاری تا در یاری گشاید",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: هیچ دوستی نیست که در زمان نیاز به یاری، به کمک بیاید."
     },
     {
       "VOrder": 20,
@@ -601,7 +611,8 @@
       "Text": "نمی‌بینم چو کس دمساز با خویش",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: نمی‌توانم کسی را ببینم که با من همدل و همفکر باشد، بنابراین بهتر است که رازهایم را با خودم نگه دارم."
     },
     {
       "VOrder": 22,
@@ -617,7 +628,8 @@
       "Text": "منم در گوشهٔ دوری فتاده",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: من در گوشه‌ای دور از همه چیز نشسته‌ام و سرم را بر روی درد و رنج گذاشته‌ام."
     },
     {
       "VOrder": 24,
@@ -633,7 +645,8 @@
       "Text": "فلک با من ندانم بر سر چیست",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: نمی‌دانم چه بلایی بر سر من آمده است که باید با این سختی‌ها و مشکلات زندگی کنم."
     },
     {
       "VOrder": 26,
@@ -649,7 +662,8 @@
       "Text": "همینش با منست آزار جویی",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس به اندازه‌ی من نمی‌تواند آزارش را تحمل کند، به‌نظر می‌رسد کسی از من دلشکسته‌تر و آسیب‌دیده‌تر نیست."
     },
     {
       "VOrder": 28,
@@ -665,7 +679,8 @@
       "Text": "سپهرا کینه جویی با منت چند",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: در اینجا شاعر به بیان این موضوع می‌پردازد که در میان کینه‌ورزی و دشمنی، حتی با وجود سختی‌ها و مشکلاتی که در یک مسیر ناپسند وجود دارد، انسان باید به روش خود ادامه دهد. او به این نکته اشاره می‌کند که اگر کسی با دلی پر از کینه و دشمنی به دنباله روی این مسیر برود، در نهایت باید با آثار و نتایج رفتار خود روبرو شود."
     },
     {
       "VOrder": 30,
@@ -681,7 +696,8 @@
       "Text": "بگو با جان من چندین جفا چیست",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: بگو چرا اینقدر با من بی‌رحمی؟ چه چیزی از من می‌خواهی و هدف‌ات چیست؟"
     },
     {
       "VOrder": 32,
@@ -697,7 +713,8 @@
       "Text": "به آزارم بسی خود را میزار",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی مرا به زحمت بیندازی، خودت را به زحمت نینداز و اگر می‌خواهی مرا از پا درآوری، کافی است که تیغ بکشیدی."
     },
     {
       "VOrder": 34,
@@ -713,7 +730,8 @@
       "Text": "بکش از خنجر کین بی‌درنگم",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: به سرعت خنجر کین را از نیام بیرون بیاور، چون من هم به شدت از عمر خود خسته شده‌ام."
     },
     {
       "VOrder": 36,
@@ -729,7 +747,8 @@
       "Text": "چه ذوق از جان که بی‌دلدار باشد",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: دل بدون محبوب چه لذتی دارد، وقتی که عمر هم از چنین حالتی دل‌زده است."
     },
     {
       "VOrder": 38,
@@ -745,7 +764,8 @@
       "Text": "بیا ای سیل از چشم تر من",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: ای باران، از چشمانم جاری شو و این خانه‌ی غم را بر روی من بریز."
     },
     {
       "VOrder": 40,
@@ -761,7 +781,8 @@
       "Text": "که آنکو همچو من غمناک باشد",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: هر که مانند من غمگین و افسرده است، بهتر است که در زیر خاک خوابیده باشد."
     },
     {
       "VOrder": 42,
@@ -777,7 +798,8 @@
       "Text": "که آن کو چون من خاکی نشیند",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: هر که مانند من در مقام خاکی قرار بگیرد، بهتر است که کسی او را نبیند و متوجه وجودش نشود."
     },
     {
       "VOrder": 44,
@@ -793,7 +815,8 @@
       "Text": "بدینسان تا به کی بر خاک گردم",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: با این حال، تا چه زمانی باید بر روی خاک بگردم؟ مرگ کی به سراغ من می‌آید تا به دمی آزاد شوم و از این وضعیت رها گردم؟"
     },
     {
       "VOrder": 46,
@@ -809,7 +832,8 @@
       "Text": "در این تاریک شب خود را رساند",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: در این شب تار، به روشنی یک شمع رسیدم که زندگی‌ام را در آن لحظه روشن کرد."
     },
     {
       "VOrder": 48,
@@ -825,7 +849,8 @@
       "Text": "سرا پایم بسان شمع بگداخت",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: تمام وجودم مانند شمعی در حال ذوب شدن است و غم این شب تار مرا از پا انداخت."
     },
     {
       "VOrder": 50,
@@ -841,7 +866,8 @@
       "Text": "شد آخر عمر و شب آخر نگردید",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: در پایان عمر و در آخرین شب، نشانه‌ای از طلوع صبح نمایان نشد."
     },
     {
       "VOrder": 52,
@@ -857,7 +883,8 @@
       "Text": "همای صبح را آیا چه شد حال",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: پرنده صبح چگونه شده است؟ شاید به خاطر تارهای خود بال‌هایش را بستند."
     },
     {
       "VOrder": 54,
@@ -873,7 +900,8 @@
       "Text": "به گردون طفل خور ظاهر نگردید",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: در آسمان، هیچ‌گاه چهرهٔ خورشید به خوبی نمایان نشد مگر اینکه این دیو سیاه (شب) از آن ترسید و کنار کشید."
     },
     {
       "VOrder": 56,
@@ -889,7 +917,8 @@
       "Text": "خروسا نالهٔ شبگیر بردار",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: ای خروس، صدای صبح را به من برسان و در این ناله و دل‌نگرانی تنهایم نگذار."
     },
     {
       "VOrder": 58,
@@ -905,7 +934,8 @@
       "Text": "هم آواز منی بردار فریاد",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: اگر صدای مرا همراهی نمی‌کنی، پس چرا سکوت کردی؟ این سکوت چه معنایی دارد؟"
     },
     {
       "VOrder": 60,
@@ -921,7 +951,8 @@
       "Text": "چه در خوابی چنین برکش نوایی",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: چرا در خواب چنین صداهایی را به گوش می‌رسانی، در آسمان صدایی منتشر کن."
     },
     {
       "VOrder": 62,
@@ -937,7 +968,8 @@
       "Text": "تویی صوفی سرشت زهد پیشه",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: تو همواره در لباس زهد و پارسایی به سر می‌بری و خود را در آن پوشش می‌پوشانی."
     },
     {
       "VOrder": 64,
@@ -953,7 +985,8 @@
       "Text": "به شب خیزی بلند آوازه گشته",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: شخصی که شب‌ها بیدار می‌ماند و به عبادت و یاد خدا مشغول است، به طوری که خواب‌های شیرین و دل‌چسب را از دست می‌دهد، اما در عوض، نامش در بین مردم پرآوازه و مشهور می‌شود."
     },
     {
       "VOrder": 66,
@@ -969,7 +1002,8 @@
       "Text": "ز خرمنگاه گردون غم اندوز",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: هر روز از خرمن آسمان با اندوه به مقدار کمی از دانه‌ها قناعت می‌کنم."
     },
     {
       "VOrder": 68,
@@ -985,7 +1019,8 @@
       "Text": "چرا پیراهن آغشته در خون",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: چرا ای پرنده‌ی بزرگ، پیراهنی که به خون آغشته شده را به دور سرت پیچیدی؟"
     },
     {
       "VOrder": 70,
@@ -1001,7 +1036,8 @@
       "Text": "بگو کاین جامهٔ خونینت از چیست",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: بگو دلیل این که لباس خونین تو چیست و چرا در سحرگاه این‌چنین ناله و فریاد می‌کنی؟"
     },
     {
       "VOrder": 72,
@@ -1017,7 +1053,8 @@
       "Text": "مگر رحم آمدت بر حال زارم",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: آیا به حال زار من رحم خواهی کرد؟ در این حالِ غم و اندوهی که به خاطر یارم دارم، واقعاً در سختی هستم."
     },
     {
       "VOrder": 74,
@@ -1033,7 +1070,8 @@
       "Text": "بیان آتشین جانسوز می‌کرد",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: او با بیانی پرشور و سوزان، به داستانی اشاره می‌کرد که شب را به روز تبدیل می‌کرد."
     },
     {
       "VOrder": 76,
@@ -1049,7 +1087,8 @@
       "Text": "بلایی نیست همچون ماتم هجر",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: هیچ چیزی مانند درد جدایی پیامبر وجود ندارد، خدایا، غم جدایی را هیچ کس نتواند تحمل کند."
     },
     {
       "VOrder": 78,
@@ -1065,7 +1104,8 @@
       "Text": "به بزم وصل اگر عمری درآیی",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: اگر عمری در میهمانی عشق بمانی، ارزشش را ندارد که حتی یک ساعت از جدایی را تجربه کنی."
     },
     {
       "VOrder": 80,
@@ -1081,7 +1121,8 @@
       "Text": "جفای هجر دشوار است بسیار",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: فراق و دوری از محبوب برای کسی که به او عادت کرده، بسیار سخت و دردناک است."
     },
     {
       "VOrder": 82,

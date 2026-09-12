@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گر یک ورق از کتاب ما برخوانی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تنها یک ورق از کتاب ما را بخوانی، تمام عمرت به حیرت و شگفتی خواهد گذشت."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گر یک نفسی به درس دل بنشینی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر فقط یک لحظه به دل و احساسات خود توجه کنی، می‌توانی دیگران را در دروس خود آموزش دهی و از آنها یاد بگیری."
     },
     {
       "VOrder": 4,

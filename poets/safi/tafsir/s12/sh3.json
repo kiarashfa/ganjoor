@@ -377,7 +377,8 @@
       "Text": "سرّ عند مِن عبیده شد پدید",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: راز در دل کسی که در خدمت توست، آشکار شده است. اگر دلت از خودت دور نرود، به امید او حرکت کن."
     },
     {
       "VOrder": 2,
@@ -393,7 +394,8 @@
       "Text": "حُسن چون بر دل زند اورنگ ناز",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: وقتی زیبایی به دل می‌نشیند و جذابیتش را به نمایش می‌گذارد، دیگر جای هیچ شکی نیست که عشق به‌طور کامل و بی‌نقص در دل جاری می‌شود."
     },
     {
       "VOrder": 4,
@@ -409,7 +411,8 @@
       "Text": "چیست شاهی و نبوّت پیش او",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در برابر او، مقاماتی مانند شاهی و پیامبری یا حکومت و ملت هیچ ارزشی ندارند."
     },
     {
       "VOrder": 6,
@@ -425,7 +428,8 @@
       "Text": "نیست ملکی، ملک یکجا ملک اوست",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: در این جهان چیزی از آنِ کسی نیست، بلکه همه چیز متعلق به اوست. وقتی طوفان به پا می‌شود، تنها اوست که در مرکز آرامش قرار دارد."
     },
     {
       "VOrder": 8,
@@ -441,7 +445,8 @@
       "Text": "گر تو را دل بر کمندی بسته نیست",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: اگر دل تو به چیزی وابسته نیست یا توجهی به زیبایی خاصی نداری،"
     },
     {
       "VOrder": 10,
@@ -457,7 +462,8 @@
       "Text": "با تو نبود حرف من و افسانه ام",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: با تو صحبت نمی‌کنم و داستانم را با خودم در میان می‌گذارم، انگار که دیوانه‌ام."
     },
     {
       "VOrder": 12,
@@ -473,7 +479,8 @@
       "Text": "من سخن با خویش گویم سال و ماه",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: من با خودم صحبت می‌کنم و در طول سال و ماه، به دنبال دلخواهی که دارم، به گاه و بی‌گاه می‌روم."
     },
     {
       "VOrder": 14,
@@ -489,7 +496,8 @@
       "Text": "میرود دل من ز پی می خوانمش",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: دل من به دنبالِ شراب می‌رود و من هر بار آن را صدا می‌زنم تا به جای خودش برگردد."
     },
     {
       "VOrder": 16,
@@ -505,7 +513,8 @@
       "Text": "این سخنها با خود و با دل کنم",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: این کلمات را با خودم و در دل خودم می‌زنم، نه اینکه بخواهم آنها را به هر کسی که بی‌خبر است، بگویم."
     },
     {
       "VOrder": 18,
@@ -521,7 +530,8 @@
       "Text": "ور تو با من همدلی مستانه باش",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اگر تو با من به حالت شاد و بی‌خیالی همدل باشی، حال و هوای عشق و یاد معشوق مرا هم دیوانه خواهد کرد."
     },
     {
       "VOrder": 20,
@@ -537,7 +547,8 @@
       "Text": "نیست مر دیوانه را هیچ آگهی",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: دیوانه هیچ گونه آگاهی ندارد که نبوت چیست یا پادشاهی به چه معناست."
     },
     {
       "VOrder": 22,
@@ -553,7 +564,8 @@
       "Text": "وقت آمد هیچ اگر دیوانه ای",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: زمانی که می‌رسد، اگر دیوانه‌ای وجودش را از خود دور کرده باشد و با آن بیگانه باشد."
     },
     {
       "VOrder": 24,
@@ -569,7 +581,8 @@
       "Text": "خواب شاهِ حُسن را تعبیر کن",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: به خواب زیبایی که در دل دارم، تأویل کن و تصویر چهره‌اش را در دل من مجسم کن."
     },
     {
       "VOrder": 26,
@@ -585,7 +598,8 @@
       "Text": "تا که آید مهر و ماهت در سجود",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: زمانی که خورشید و ماه تو به حالت سجده درمی‌آیند، آسمان هم در دیدن تو خم می‌شود."
     },
     {
       "VOrder": 28,
@@ -601,7 +615,8 @@
       "Text": "یوسفا آموزدت ز آدابها",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: یوسف به تو آداب و روش‌های زندگی را یاد می‌دهد، مگر اینکه تفسیری از همه خواب‌ها را بدانی."
     },
     {
       "VOrder": 30,
@@ -617,7 +632,8 @@
       "Text": "آخر این سوره شرح خواب، من",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: در پایان این داستان، من برای تو از خواب و رویاها می‌گویم، نه از ماجرای یوسف."
     },
     {
       "VOrder": 32,
@@ -633,7 +649,8 @@
       "Text": "عشق گوید روز ما و کار ماست",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: عشق به ما می‌گوید که همه روزها و کارهای ما به خاطر اوست و هیچ‌کس نباید در خواب و غفلت باشد، زیرا زندگی و تلاش ما در میدان عشق است."
     },
     {
       "VOrder": 34,
@@ -649,7 +666,8 @@
       "Text": "خواب عاشق چون شب آمد زاری است",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: خواب عاشق مانند شب است که در آن به شدت ناله و گریه می‌کند، غافل از اینکه در حالت خواب است یا بیدار."
     },
     {
       "VOrder": 36,
@@ -665,7 +683,8 @@
       "Text": "دیده گر هیچ آن دو چشم نیم خواب",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: اگر چشمان آدمی حتی در حالتی نیمه خواب باشد، اما دلش در تلاطم و وضعیت آشفته‌ای قرار داشته باشد، آن چشم‌ها قادر به دیدن حقیقت نیستند."
     },
     {
       "VOrder": 38,
@@ -681,7 +700,8 @@
       "Text": "خاصه گر یعقوب غم پرورده است",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: به ویژه اینکه یعقوب از غم و اندوه پر شده است، مانند یوسف که دلربایی را گم کرده است."
     },
     {
       "VOrder": 40,
@@ -697,7 +717,8 @@
       "Text": "گریه کن گو تا به گیتی زنده ای",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: برو و گریه کن، زیرا در این دنیا زنده‌ای و مانند صفی، درد و غم به تو می‌آید."
     },
     {
       "VOrder": 42,
@@ -713,7 +734,8 @@
       "Text": "یوسفا تو شاه حُسنی لاکلام",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: تو همچون یوسف، زیبا و خوش‌خلقتی و نعمت‌های الهی بر تو به کمال و بی‌نقصی نازل شده است."
     },
     {
       "VOrder": 44,
@@ -729,7 +751,8 @@
       "Text": "هر که بیند روی خوبت بنده است",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که چهره زیبایت را ببیند، بنده و غلام تو می‌شود و شایستهٔ نعمت و بزرگی تو است."
     },
     {
       "VOrder": 46,
@@ -745,7 +768,8 @@
       "Text": "بر تو و بر آل یعقوب ای همیم",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: ای تو و خاندان یعقوب، ای همسرای خوش‌نوا، ای بخشنده و نیکوکار که نسل به نسل در نیکویی و کرامت ادامه داری."
     },
     {
       "VOrder": 48,
@@ -761,7 +785,8 @@
       "Text": "حق کند اتمام نعمت در دو کون",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: خداوند تو را در دو جهان به نهایت نعمت می‌رساند و در هر شرایطی، یار و کمک‌کار تو خواهد بود."
     },
     {
       "VOrder": 50,
@@ -777,7 +802,8 @@
       "Text": "همچنان که کرد اتمام نعم",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: همچنان که دو نفر از افراد بخشنده و نیکوکار، نعمت را بر پدران تو تمام کردند و به پایان رساندند."
     },
     {
       "VOrder": 52,
@@ -793,7 +819,8 @@
       "Text": "یعنی ابراهیم و اسحاق ودود",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: ابراهیم و اسحاق و ودود افرادی بودند که همیشه مورد لطف و رحمت خداوند قرار داشتند."
     },
     {
       "VOrder": 54,
@@ -809,7 +836,8 @@
       "Text": "حق بود دانا و هم استوده کار",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: حق برای هر درختی، دانا و مستحق است که کارش را تا زمان باردهی خوب انجام دهد."
     },
     {
       "VOrder": 56,
@@ -825,7 +853,8 @@
       "Text": "آگه است اعنی ز استحقاقها",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: خبر دارد از شایستگی‌ها، تا ببیند که چه کسی سزاوار انتخاب است."
     },
     {
       "VOrder": 58,
@@ -841,7 +870,8 @@
       "Text": "باشد اندر یوسف و اخوان او",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: در داستان یوسف و برادرانش، نشانه‌ها و ویژگی‌هایی وجود دارد که می‌تواند به دقت در مورد آنها برای درخواست‌کنندگان اطلاعات مفید باشد."
     },
     {
       "VOrder": 60,
@@ -857,7 +887,8 @@
       "Text": "گفت یعقوب، ای بُنَی ناور به پیش",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: یعقوب به فرزندش گفت: ای پسرم، خواب‌های خود را با برادرانت در میان بگذار."
     },
     {
       "VOrder": 62,
@@ -873,7 +904,8 @@
       "Text": "زآنکه باشند آگه از تعبیرها",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: به خاطر اینکه آن‌ها از تفسیرها باخبرند، بنا بر حسد و کینه‌توزی، نقشه‌هایی می‌کشند."
     },
     {
       "VOrder": 64,
@@ -889,7 +921,8 @@
       "Text": "پس شنیدند آن خبر اخوان او",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: بعد از شنیدن آن خبر، برادران او از اینکه چنین اشتباهی در حق او شده، حسادت کردند و دلگیر شدند."
     },
     {
       "VOrder": 66,
@@ -905,7 +938,8 @@
       "Text": "هر خبر شایع شود اندر سبب",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: هر خبری که در مورد علتی منتشر شود، وقتی از دو نفر یا از دو زبان بگذرد، تبدیل به شایعه می‌شود."
     },
     {
       "VOrder": 68,
@@ -921,7 +955,8 @@
       "Text": "خواهی ار پوشیده ماند رازها",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی رازهایت پوشیده بماند، باید از دل خود صداها و احساسات را بیرون آوردی و بیان کنی."
     },
     {
       "VOrder": 70,

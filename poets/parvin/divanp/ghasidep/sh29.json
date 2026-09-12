@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "تا ببازار جهان سوداگریم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما در بازار جهان مشغول معامله هستیم، گاهی سود به دست می‌آوریم و گاهی هم ضرر می‌کنیم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گر نکو بازارگانیم از چه روی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر ما بازرگانی خوب هستیم، پس چرا همیشه به سود و زیان خود اهمیت نمی‌دهیم؟"
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "جان زبون گشته است و در بند تنیم",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روح ضعیف شده و در قید جسم گرفتاریم؛ عقل ما خسته و در اندیشه‌ای بی‌پایان به سر می‌برد."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "روح را از ناشتائی میکشیم",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما سفره‌ها را برای تامین نیازهای جسمانی‌مان می‌چینیم، اما روح را با گرسنگی و خلوص می‌پروریم."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "گرچه عقل آئینه کردار ماست",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با اینکه عقل مانند آینه‌ای است که اعمال ما را نشان می‌دهد، اما ما هرگز به آن آینه نگاه نمی‌کنیم."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "گر گرانباریم، جرم چرخ چیست",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر ما سنگینی و مشکلاتی داریم، تقصیر چرخ (دوران) چیست؟ ما خودمان بار رفتار نادرست خود را به دوش می‌کشیم."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "چون سیاهی شده بضاعت دهر را",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به دلیل تیره و تار شدن وضعیت زندگی، ما نیز در این شرایط سخت و ناگوار قرار داریم و زندگی‌مان را با همین وضعیت می‌گذرانیم."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "پند نیکان را نمیداریم گوش",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما به نصیحت‌های خوبان توجه نمی‌کنیم، چون در این فکر هستیم که از آنها بهتر هستیم."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "پهلوان اما بکنج خانه‌ایم",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: قهرمان در خانه محبوس است، اما آتش درون ما خاموش نشده و هنوز شعله‌ای از آن باقی مانده است."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "کاردانان راه دیگر میروند",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسانی که مهارت دارند، از مسیر دیگری عبور می‌کنند، اما ما که دچار مشکل هستیم، راهی متفاوت را طی می‌کنیم."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "گرگ را نشناختستیم از شبان",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما در دشتی که سال‌ها در آن چرا می‌کنیم، نتوانسته‌ایم گرگ را از شبان تشخیص دهیم."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "بر سپهر معرفت کی بر شویم",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی در جستجوی آگاهی و دانش هستیم، آیا به مرحله‌ای می‌رسیم که بتوانیم از محدودیت‌ها و ناتوانی‌های خود عبور کرده و پرواز کنیم، حتی اگر ابزارمان ابتدایی و غیرطبیعی باشد؟"
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "واعظیم اما نه بهر خویشتن",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما موعظه‌کننده‌ایم، اما برای خودمان نیست، بلکه برای دیگران بر منبر می‌رویم."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "آگه از عیب عیان خود نه‌ایم",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما از عیب‌های آشکار خود آگاه نیستیم، اما می‌خواهیم عیب‌های دیگران را پیدا کنیم و عیب‌جویی کنیم."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "سفلگیها میکند نفس زبون",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نفس کم‌ما autoridade de lado پایین ما، این فرد پست را پرورش می‌دهد."
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "بشکنیم از جهل و خود را نشکنیم",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از نادانی رها شویم و خود را نادیده نگیریم، از زندگی و جسم خود بگذریم اما از ارزش‌های انسانی و روح خود عبور نکنیم."
     },
     {
       "VOrder": 32,
@@ -255,7 +271,8 @@
       "Position": "Right",
       "Text": "بادهٔ تحقیق چون خواهیم خورد؟",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کدام بادهٔ حقیقت را می‌توانیم بنوشیم؟ ما که در هر خم و هر جام، سرمست هستیم."
     },
     {
       "VOrder": 34,
@@ -269,7 +286,8 @@
       "Position": "Right",
       "Text": "چونکه هر برزیگری را حاصلی است",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کشاورزی محصولی دارد، نتیجه کار ما چیست اگر ما هم کشاورز باشیم؟"
     },
     {
       "VOrder": 36,
@@ -283,7 +301,8 @@
       "Position": "Right",
       "Text": "چونکه باری گم شدیم اندر رهی",
       "CoupletIndex": 18,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که در مسیر گم شدیم، بهتر است دیگر آن راه را دوباره نپیماییم."
     },
     {
       "VOrder": 38,
@@ -297,7 +316,8 @@
       "Position": "Right",
       "Text": "زان پراکندند اوراق کمال",
       "CoupletIndex": 19,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از آنجایی که اوراق کمال پراکنده شده است، ما باید تلاش کنیم تا آن‌ها را جمع‌آوری کنیم."
     },
     {
       "VOrder": 40,
@@ -311,7 +331,8 @@
       "Position": "Right",
       "Text": "تا بیفشانند بر چینندمان",
       "CoupletIndex": 20,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی زمان و فرصت به ما می‌دهد، باید آنها را با خوشحالی و شکرگزاری استفاده کنیم."
     },
     {
       "VOrder": 42,

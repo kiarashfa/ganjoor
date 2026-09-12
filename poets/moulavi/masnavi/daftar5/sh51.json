@@ -331,7 +331,8 @@
       "Text": "آن یکی می‌گفت من پیغامبرم",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: یک نفر می‌گفت که من پیامبر هستم و از همه پیامبران دیگر برتر و دانا‌تر می‌باشم."
     },
     {
       "VOrder": 2,
@@ -347,7 +348,8 @@
       "Text": "گردنش بستند و بردندش به شاه",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: گردنش را گرفتند و او را به حضور شاه بردند و می‌گوید که من پیام‌آور الهی هستم."
     },
     {
       "VOrder": 4,
@@ -363,7 +365,8 @@
       "Text": "خلق بر وی جمع چون مور و ملخ",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: مردم دور او جمع شده‌اند، مانند مور و ملخ، در حالی که نمی‌دانند او چه نیرنگ‌ها و حیله‌هایی در کار دارد."
     },
     {
       "VOrder": 6,
@@ -379,7 +382,8 @@
       "Text": "گر رسول آنست که آید از عدم",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: اگر پیامبر کسی است که از هیچ (عدم) می‌آید، پس ما همه به نوعی پیام‌آور و با وقار هستیم."
     },
     {
       "VOrder": 8,
@@ -395,7 +399,8 @@
       "Text": "ما از آنجا آمدیم اینجا غریب",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: ما از آنجا به اینجا آمده‌ایم و غریب هستیم، پس چرا تو باید خاص و ویژه باشی ای ادیب؟"
     },
     {
       "VOrder": 10,
@@ -411,7 +416,8 @@
       "Text": "نه شما چون طفل خفته آمدیت",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: شما مانند یک کودک خواب آلود به اینجا آمده‌اید و از مسیر و منزلت خود بی‌خبرید."
     },
     {
       "VOrder": 12,
@@ -427,7 +433,8 @@
       "Text": "از منازل خفته بگذشتید و مست",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: شما از مکان‌های خواب آلود عبور کردید و در حالی که مست بودید، بی‌خبر از مسیر و تفاوت‌های بلندی و پستی."
     },
     {
       "VOrder": 14,
@@ -443,7 +450,8 @@
       "Text": "ما به بیداری روان گشتیم و خوش",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: ما در حال بیداری و شعف هستیم و از دنیای فراتر از سنجش‌های معمول سرشار از خوشحالی هستیم."
     },
     {
       "VOrder": 16,
@@ -459,7 +467,8 @@
       "Text": "دیده منزلها ز اصل و از اساس",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: چشم‌ها مانند یک راهنمای با تجربه و آگاه، می‌توانند نشانه‌ها و مکان‌ها را به درستی تشخیص دهند و از ریشه و اساس وجودشان خبر دارند."
     },
     {
       "VOrder": 18,
@@ -475,7 +484,8 @@
       "Text": "شاه را گفتند اشکنجه‌ش بکن",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: به شاه گفتند که از وی بپرسند چیزی را که در دل می‌گذراند، تا هیچ‌کس نتواند درباره‌اش قضاوت کند."
     },
     {
       "VOrder": 20,
@@ -491,7 +501,8 @@
       "Text": "شاه دیدش بس نزار و بس ضعیف",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: شاه او را بسیار ضعیف و نحیف دید، به حدی که با یک سیلی می‌تواند جان خود را از دست بدهد."
     },
     {
       "VOrder": 22,
@@ -507,7 +518,8 @@
       "Text": "کی توان او را فشردن یا زدن",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: کسی نمی‌تواند او را فشار دهد یا آسیبی به او برساند، زیرا بدنش مانند شیشه شکننده شده است."
     },
     {
       "VOrder": 24,
@@ -523,7 +535,8 @@
       "Text": "لیک با او گویم از راه خوشی",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: اما با او از طریق خوشی صحبت می‌کنم که چرا این‌قدر خود را بزرگ می‌کنی."
     },
     {
       "VOrder": 26,
@@ -539,7 +552,8 @@
       "Text": "که درشتی ناید اینجا هیچ کار",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: در اینجا هیچ چیز به راحتی و نرمی انجام نمی‌شود، حتی اگر کسی بخواهد کاری را با لطافت انجام دهد، مانند سخت‌جان شدن مار در غار."
     },
     {
       "VOrder": 28,
@@ -555,7 +569,8 @@
       "Text": "مردمان را دور کرد از گرد وی",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: مردم را از اطراف خود دور کرد، زیرا او پادشاهی نرم‌خو و مهربان بود."
     },
     {
       "VOrder": 30,
@@ -571,7 +586,8 @@
       "Text": "پس نشاندش باز پرسیدش ز جا",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: پس او را نشاند و دوباره از او پرسید که کجا زندگی می‌کنی و نیازت چیست."
     },
     {
       "VOrder": 32,
@@ -587,7 +603,8 @@
       "Text": "گفت ای شه هستم از دار السلام",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: درود بر تو ای پادشاه، من از سرزمین سلامتی و آرامش آمده‌ام و به این سرزمین پر از عیب و نقص وارد شده‌ام."
     },
     {
       "VOrder": 34,
@@ -603,7 +620,8 @@
       "Text": "نه مرا خانه‌ست و نه یک همنشین",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: نه خانه‌ای برای من وجود دارد و نه کسی برای هم‌نشینی. گویا ماهی هرگز در زمین نمی‌تواند زندگی کند."
     },
     {
       "VOrder": 36,
@@ -619,7 +637,8 @@
       "Text": "باز شه از روی لاغش گفت باز",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: پرنده‌ای از روی لاغری‌اش پرسید که دوباره چه خورده‌ای و چه چیزی برای صبحانه آماده کرده‌ای؟"
     },
     {
       "VOrder": 38,
@@ -635,7 +654,8 @@
       "Text": "اشتهی داری چه خوردی بامداد",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که به آدمی که پر از شادی و خودبزرگ‌بینی است، می‌گویند چه چیزی خورده که اینگونه سرخوش و مغرور شده است. به نوعی نشان‌دهنده‌ی حیرت از حالت خوشی و خودپسندی آن فرد است."
     },
     {
       "VOrder": 40,
@@ -651,7 +671,8 @@
       "Text": "گفت اگر نانم بدی خشک و طری",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: گفت اگر به من نانی خشک و بی‌مزه بدهی، چگونه می‌توانم ادعای پیامبری کنم؟"
     },
     {
       "VOrder": 42,
@@ -667,7 +688,8 @@
       "Text": "دعوی پیغامبری با این گروه",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: ادعای پیامبری در میان این جمعیت، همانند این است که بخواهی از کوه دل و جان به دست آوری."
     },
     {
       "VOrder": 44,
@@ -683,7 +705,8 @@
       "Text": "کس ز کوه و سنگ عقل و دل نجست",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس از کوه و سنگ به عقل و دل نرسیده و نتوانسته است نکته‌های پیچیده را درک کند."
     },
     {
       "VOrder": 46,
@@ -699,7 +722,8 @@
       "Text": "هر چه گویی باز گوید که همان",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: هر چه بگویی، او نیز همان را تکرار می‌کند، افسوس که همچون مسخره‌ها رفتار می‌کند."
     },
     {
       "VOrder": 48,
@@ -715,7 +739,8 @@
       "Text": "از کجا این قوم و پیغام از کجا",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: این قوم از کجا آمده‌اند و پیام آن‌ها از کجاست؟ از حالت بی‌جان چه کسی امید دارد؟"
     },
     {
       "VOrder": 50,
@@ -731,7 +756,8 @@
       "Text": "گر تو پیغام زنی آری و زر",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: اگر تو پیامی برسانی و طلا به دستانت بدهند، تمام نقره و جواهرات نیز به تو تعلق می‌گیرد."
     },
     {
       "VOrder": 52,
@@ -747,7 +773,8 @@
       "Text": "که فلان جا شاهدی می‌خواندت",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: در جایی تو را به عنوان شاهد معرفی می‌کنند و عاشقی که به تو تعلق دارد، تمام جزئیات تو را می‌داند."
     },
     {
       "VOrder": 54,
@@ -763,7 +790,8 @@
       "Text": "ور تو پیغام خدا آری چو شهد",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: اگر تو پیام خدا را بیاوری مانند شهد شیرین، پس به سوی خدا برو، ای کسی که عهد نیکو داری."
     },
     {
       "VOrder": 56,
@@ -779,7 +807,8 @@
       "Text": "از جهان مرگ سوی برگ رو",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: به سمت زندگی برو و از مرگ دوری کن، زیرا اگر چه در این دنیا زندگی ممکن است، نمی‌توانی به فنا دچار شوی."
     },
     {
       "VOrder": 58,
@@ -795,7 +824,8 @@
       "Text": "قصد خون تو کنند و قصد سر",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: آنها به دنبال کشتن تو هستند، اما این کار را نه به خاطر غیرت دینی یا هنر، بلکه به دلایل دیگری انجام می‌دهند."
     },
     {
       "VOrder": 60,

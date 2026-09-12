@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "مرحبا ای برید باد شمال",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سلام باد شمالی! خوش آمدی که نوید پیوستن را به ما می‌آوری."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "چند گویی که خون عاشق مست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چقدر از شوق و دیوانگی عشق می‌گویی که به تأسیس و نظر عالم شهر، خون عاشق حلال شده است."
     },
     {
       "VOrder": 4,
@@ -54,7 +56,8 @@
       "Position": "Right",
       "Text": "عاشق و رند و بی خود و مستم",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من عاشق و بازیگوش و سرمست هستم. اگر می‌خواهی مرا به قتل برسانی، بیا نزدیک‌تر."
     },
     {
       "VOrder": 6,
@@ -68,7 +71,8 @@
       "Position": "Right",
       "Text": "با شراب مروّق لعلت",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در جامی که از شراب زینتی و زیبا پر شده، اشک‌های من به اندازه خون پر شده است."
     },
     {
       "VOrder": 8,
@@ -82,7 +86,8 @@
       "Position": "Right",
       "Text": "گر مرا می کشی به عشوه بکش",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی مرا به طعنه و ناز بکشانی، همین‌جا مکان مناسبی برای این کار است."
     },
     {
       "VOrder": 10,
@@ -96,7 +101,8 @@
       "Position": "Right",
       "Text": "چون تو نقشی دگر نخواهد زد",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که تو دیگر نمی‌توانی تبدیلی ایجاد کنی، قدرت خالق برتر نیز دیگر نخواهد توانست نقشی تازه بیافریند."
     },
     {
       "VOrder": 12,

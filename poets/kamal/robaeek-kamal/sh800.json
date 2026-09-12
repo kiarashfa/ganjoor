@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "بر شخص تو چون کرد زیان بیماری",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بیماری به تو ضرر زده است، از این پس دیگر به تو نزدیک نخواهد شد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "زین بی رسمی که با تو بیماری کرد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از بی‌احترامی که با تو کرد، دچار مشکل شدم و به خاطر آن در نظر خوبان هم بد جلوه کردم."
     },
     {
       "VOrder": 4,

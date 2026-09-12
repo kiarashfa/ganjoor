@@ -651,7 +651,8 @@
       "Text": "چو بشنید این گفته شداد عاد",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: وقتی شداد عاد این گفته را شنید، به پاسخش گفت: ای کسی که نیکو زاده نشده‌ای."
     },
     {
       "VOrder": 2,
@@ -667,7 +668,8 @@
       "Text": "که باشد منوچهر در ایران زمین",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: که در سرزمین ایران، چه کسی می‌تواند مانند منوچهر باشد، کسی که لایق ستایش و تبریک به مقام پادشاهی است."
     },
     {
       "VOrder": 4,
@@ -683,7 +685,8 @@
       "Text": "به درگاه من او یکی بنده است",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در نزد من، او از بندگان من است و در مقابل دیگر بندگانم، خوار و حقیر به نظر می‌رسد."
     },
     {
       "VOrder": 6,
@@ -699,7 +702,8 @@
       "Text": "شنیدی که یزدان کند چاکری",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: شنیده‌ای که خداوند، بر بنده‌اش چاکری کند و او را از مقام خود پایین آورد."
     },
     {
       "VOrder": 8,
@@ -715,7 +719,8 @@
       "Text": "تو چندی چه نازی بدین دست و زور",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: تو مدت زمانی است که با زیبایی و قدرت خود، می‌خواهی چطور من توانم در برابر تو خود را به حیات سیاه بزنم."
     },
     {
       "VOrder": 10,
@@ -731,7 +736,8 @@
       "Text": "به میدان سرو و تن تباهت کنم",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: به میدان می‌آیم و خود را فدای زیبایی تو می‌کنم و همینجا با دل شکستگی‌ام تو را به یاد می‌آورم."
     },
     {
       "VOrder": 12,
@@ -747,7 +753,8 @@
       "Text": "بگفت و برآورد گرز گران",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: او گفت و گرز سنگین را بالا برد و از یک سمت حمله کرد."
     },
     {
       "VOrder": 14,
@@ -763,7 +770,8 @@
       "Text": "بزد بر سر سام فرخنده گرز",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: به زدن گرز بر سر سام، آنقدر قدرت و شدت دارد که مانند پشه‌ای است که بر روی ابرهای کوه برز نشسته است. این تصویر به نوعی نشان‌دهنده قدرت و تسلطی است که بر سام وجود دارد و همچنین به نحوی بیانگر عظمت و بلندی ابرها نیز هست."
     },
     {
       "VOrder": 16,
@@ -779,7 +787,8 @@
       "Text": "سپهبد عمود نریمان کشید",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: سردار نریمان، تیر خود را به سوی او پرتاب کرد و به او گفت: ای دیو زشت و نکبت‌بار، چرا اینجا آمده‌ای؟"
     },
     {
       "VOrder": 18,
@@ -795,7 +804,8 @@
       "Text": "بگیر از کفم گرز در کارزار",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اگر در جنگ به زنده مانی، هرگز به خفا و بی‌محلی نپرداز و به مبارزه بپرداز."
     },
     {
       "VOrder": 20,
@@ -811,7 +821,8 @@
       "Text": "سپر بر سر آورد شداد عاد",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: شداد، سردار عاد، با کلاهی چون سپر بر سر گذاشت و چون آتشی به او روی آورد."
     },
     {
       "VOrder": 22,
@@ -827,7 +838,8 @@
       "Text": "فرو کوفت بر ترکش آنگه عمود",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: فرو انداختن تیر از کمان زمانی اتفاق می‌افتد که صدای تیر به آسمان برسد."
     },
     {
       "VOrder": 24,
@@ -843,7 +855,8 @@
       "Text": "ز نیرو کمرگاه پیلش شکست",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: در اثر نیروی زیاد، کمر شیر شکست و او به زمین افتاد و بر خاک پست افتاد."
     },
     {
       "VOrder": 26,
@@ -859,7 +872,8 @@
       "Text": "سپاهش هجوم آوریدند پاک",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: سپاه دشمن به آسمان حمله کردند و گرد و غبار به هوا رفت."
     },
     {
       "VOrder": 28,
@@ -875,7 +889,8 @@
       "Text": "سپهبد بغرید و زو شد دژم",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: سردار فریاد زد و از آن مقطع غمگین، پرچمش را با شمشیر انتقام به زمین زد."
     },
     {
       "VOrder": 30,
@@ -891,7 +906,8 @@
       "Text": "فرود آمد از پشت ابر سیاه",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: از دل ابرهای تیره، جنگجویی بیرون آمد و با قدرت، تجهیزات خود را بر کمرش بست تا به میدان نبرد برود."
     },
     {
       "VOrder": 32,
@@ -907,7 +923,8 @@
       "Text": "بیازید بر سوی شداد چنگ",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: به مقابله با کینه و دشمنی برخیزید، همچنان که پلنگ با غضب به شکار خود حمله‌ور می‌شود."
     },
     {
       "VOrder": 34,
@@ -923,7 +940,8 @@
       "Text": "ربودش ز جادو زدش بر زمین",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: او را از شدت جادو گرفت و به زمین انداخت و دو دستش را محکم بست. دلیر و شجاع بود."
     },
     {
       "VOrder": 36,
@@ -939,7 +957,8 @@
       "Text": "سپردش به شاپور خم کمند",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: او را به شاپور سپردند تا با یک کمند او را به لشکر ببرد و دلش پر از رنج و اندوه بود."
     },
     {
       "VOrder": 38,
@@ -955,7 +974,8 @@
       "Text": "چو تسلیم جنی بدان‌گونه دید",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: وقتی که جن تسلیم را به آن شکل مشاهده کرد، به سوی شاه طنجه نگاهی کرد."
     },
     {
       "VOrder": 40,
@@ -971,7 +991,8 @@
       "Text": "که در دشت ازین گونه پیکار شد",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: در دشت، جنگی به این شکل رخ داد که شداد، فرزند عاد، به دام افتاد."
     },
     {
       "VOrder": 42,
@@ -987,7 +1008,8 @@
       "Text": "کنون رفت باید سوی لشکرش",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: حالا باید به سوی لشکرش بروم تا همه با هم به کشورش حمله کنیم."
     },
     {
       "VOrder": 44,
@@ -1003,7 +1025,8 @@
       "Text": "رسیدند دیوان تسلیم شاه",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: نمایندگان دیوانی که به خدمت شاه آمده‌اند، با کارهای خود باعث شدند که نور خورشید و ماه هم تحت تاثیر قرار بگیرد."
     },
     {
       "VOrder": 46,
@@ -1019,7 +1042,8 @@
       "Text": "بسی سنگ بارید از آسمان",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: باران شدید سنگی از آسمان نبارید که باعث ایجاد مشکلات و اختلال برای قوم شدادیان شود."
     },
     {
       "VOrder": 48,
@@ -1035,7 +1059,8 @@
       "Text": "همه سنگ مانند البرز کوه",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: همه سنگ‌ها مانند کوه البرز، از یک سنگ، یک لشکر برآمده و خسته شده‌اند."
     },
     {
       "VOrder": 50,
@@ -1051,7 +1076,8 @@
       "Text": "از آن سنگشان اندر آن کارزار",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: در میدان جنگ، سنگ‌های دشمن باعث شدند که هزاران نفر از آن‌ها به خاک افتند و کشته شوند."
     },
     {
       "VOrder": 52,
@@ -1067,7 +1093,8 @@
       "Text": "بگفت و بجنبید از جا سپاه",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: گفت و حرکت کردند، سپاه غریوان به میدان جنگ رسیدند."
     },
     {
       "VOrder": 54,
@@ -1083,7 +1110,8 @@
       "Text": "یکی جنگ برخاست چون رستخیز",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: در پی یک جنگ، جهان پر از درگیری و نبرد شد و همه جا پر از ضربات و حملات سلاح‌ها گردید."
     },
     {
       "VOrder": 56,
@@ -1099,7 +1127,8 @@
       "Text": "زمانه دگر دست از خود بشست",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: زمانه دیگر از آنچه که بود فاصله گرفته و دیگر هیچ‌کس نمی‌تواند به سر و سامان درست و خوشایندی دست پیدا کند."
     },
     {
       "VOrder": 58,
@@ -1115,7 +1144,8 @@
       "Text": "ز هر سو روان گشت سیلاب خون",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: از هر سو سیل خون جاری شد و بسیاری از سروران و بزرگان به سرنوشت شومی دچار شدند."
     },
     {
       "VOrder": 60,
@@ -1131,7 +1161,8 @@
       "Text": "همه دشت از کشته چون پشته شد",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: تمام دشت با خون پر از کشته‌ها شده و مانند توده‌ای انباشته از اجساد گردیده است."
     },
     {
       "VOrder": 62,
@@ -1147,7 +1178,8 @@
       "Text": "به خون سرخ گشته همه بوق و کوس",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: به خاطر حوادث تلخ و ناگوار، همه صداها و زنگ‌ها در فضا به رنگ خون سرخ درآمده است و چهره کسانی که دل‌های بد دارند، مانند چوب‌های معطر و خوشبو به حالت زشت و نامطلوبی درآمده است."
     },
     {
       "VOrder": 64,
@@ -1163,7 +1195,8 @@
       "Text": "کسی را نبد بر کسی هیچ مهر",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس به هیچ‌کس محبتی نداشت و در دل‌ها کینه و نفرت جاری بود، به طوری که زمان و روزگار نیز بر این وضعیت نظارت می‌کرد."
     },
     {
       "VOrder": 66,
@@ -1179,7 +1212,8 @@
       "Text": "ز خون دشت بگرفت سیل فنا",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: سیل نابودی از خون دشت جاری شد و اگر آسیا هم وجود داشت، در آن خون غرق می‌شد."
     },
     {
       "VOrder": 68,
@@ -1195,7 +1229,8 @@
       "Text": "سه روز و سه شب رزم بد در سپاه",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: سه روز و سه شب جنگ سختی در میان سپاه جهانی در گرفت و در نهایت، سربازان بسیاری از بین رفتند."
     },
     {
       "VOrder": 70,
@@ -1211,7 +1246,8 @@
       "Text": "شکست اندر آمد ابر عادیان",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: بارش باران بر کسانی که عادت‌های ناپسند دارند، سبب شکست و نابودی آن‌ها می‌شود، در حالی که افرادی که بر عدالت و درستی پایبندند، در این شرایط زنده می‌مانند."
     },
     {
       "VOrder": 72,
@@ -1227,7 +1263,8 @@
       "Text": "سراپرده و تخت تاراج شد",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: تمام دارایی و اموال بدست آمده و زینت‌ها به ستم گرفته شده و افتخارات و ارزش‌ها از بین رفته است."
     },
     {
       "VOrder": 74,
@@ -1243,7 +1280,8 @@
       "Text": "گرفتار گردید پنجه هزار",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: همه مردم مغرب و پادشاه در دام مشکلات و دشواری‌ها گرفتار شدند."
     },
     {
       "VOrder": 76,
@@ -1259,7 +1297,8 @@
       "Text": "به روز چهارم کشیدند جنگ",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: در روز چهارم، جنگی بر پا شد و سپاهیان از خستگی و نبرد آسوده نبودند."
     },
     {
       "VOrder": 78,
@@ -1275,7 +1314,8 @@
       "Text": "سپهبد نشست از بر گاه شاه",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: سپهبد در مقابل شاه دلیران نشسته است و کلاهی بر سر دارد."
     },
     {
       "VOrder": 80,
@@ -1291,7 +1331,8 @@
       "Text": "ببخشید آن بندیان را همه",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: ببخشید تمام زندانیان را که به خاطر مرگ جانشان، روحشان را برده‌اند."
     },
     {
       "VOrder": 82,
@@ -1307,7 +1348,8 @@
       "Text": "بفرمود شداد را آورند",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: شخصی به نام شداد را خواستند و او را به پای مجازات آوردند تا به خاطر کینه‌ای که داشت، به شدت تنبیه شود."
     },
     {
       "VOrder": 84,
@@ -1323,7 +1365,8 @@
       "Text": "ابا بند و زنجیر شداد عاد",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: جباران و ظالمان با قدرت و خشونت خود، بر کسی که نیرومند و برجسته است، مسلط شدند."
     },
     {
       "VOrder": 86,
@@ -1339,7 +1382,8 @@
       "Text": "نشست از بر خاک بیداد مرد",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: مردی که بر خاک ظلم نشسته است، بدنش به لرزش افتاده و چهره‌اش رنگ پریده و زرد شده است."
     },
     {
       "VOrder": 88,
@@ -1355,7 +1399,8 @@
       "Text": "سپهبد بدو گفت کای مرد شوم",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: سپهبد به او گفت: ای مرد قوی هیکل، از شوم بودن تو، تمام سرزمین و آبادی‌ها ویران شده است."
     },
     {
       "VOrder": 90,
@@ -1371,7 +1416,8 @@
       "Text": "بگفتم که از چنگ من گاه جنگ",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: گفتم که در نبرد من، هرگز نمی‌توانی از چنگ من رهایی یابی و کار تو دشوار خواهد بود."
     },
     {
       "VOrder": 92,
@@ -1387,7 +1433,8 @@
       "Text": "نگفتم که یزدان دادرآورست",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: نگفتم که خداوند همیشه حامی و یاور بندگانش است، در هر جا که باشند."
     },
     {
       "VOrder": 94,
@@ -1403,7 +1450,8 @@
       "Text": "همه جان ستاند همه جان دهد",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که خداوند همه جان‌ها را می‌گیرد و در عین حال به هر درد و مصیبتی که انسان با آن مواجه می‌شود، درمان و چاره‌ای می‌دهد. در واقع، او به زندگی معنا و امید می‌بخشد و در سختی‌ها یاری رسان است."
     },
     {
       "VOrder": 96,
@@ -1419,7 +1467,8 @@
       "Text": "ز فرمان او سر بپیچیده‌ای",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: هر وقت از دستورات او سرپیچی کرده‌ای، به همان اندازه چیزهایی که به خواسته‌ات بوده‌اند، مورد تایید تو قرار گرفته‌اند."
     },
     {
       "VOrder": 98,
@@ -1435,7 +1484,8 @@
       "Text": "کجا رفت آن تخت و اورنگ تو",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: کجاست آن تخت و مقام تو که باعث شد جنگ تو به اینجا برسد؟"
     },
     {
       "VOrder": 100,
@@ -1451,7 +1501,8 @@
       "Text": "شدیدت کجا رفت و چندین سپاه",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: شما که در میدان نبرد حضور دارید و دلیران زیادی در زیر پرچم شما هستند، حالا کجا رفتید و این غافلگیری چیست که بر سر شما سایه افکنده است؟"
     },
     {
       "VOrder": 102,
@@ -1467,7 +1518,8 @@
       "Text": "که اکنون به خم کمند اندری",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: اکنون تو در دام عشقی گرفتار شده‌ای که باعث شده سر، دست و گردنت به زنجیر بیفتد."
     },
     {
       "VOrder": 104,
@@ -1483,7 +1535,8 @@
       "Text": "تو را بند از بند سازم جدا",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "هوش مصنوعی: می‌خواهم تو را از قید و بند آزاد کنم تا دیگر نگویی که من خدا هستم."
     },
     {
       "VOrder": 106,
@@ -1499,7 +1552,8 @@
       "Text": "به پاسخ بدو گفت شداد عاد",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "هوش مصنوعی: شداد عاد به سام می‌گوید که تو ای فرد نیکوکار و خوب، از اصل و نسب خود آگاه باش و به خوبی‌های خود ببال."
     },
     {
       "VOrder": 108,
@@ -1515,7 +1569,8 @@
       "Text": "نیاری که یک موی سازی کمم",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "هوش مصنوعی: شخصی می‌گوید که هیچ کمکی نمی‌کند و حتی یک تار مو هم برای من نخواهد گذاشت، اما من به خودم ایمان دارم و محکم هستم."
     },
     {
       "VOrder": 110,
@@ -1531,7 +1586,8 @@
       "Text": "چه شد گر مرا دست آمد به بند",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "هوش مصنوعی: اگر من گرفتار شوم، چه اشکالی دارد؛ زیرا من خود قاضی آسمان بلند هستم."
     },
     {
       "VOrder": 112,
@@ -1547,7 +1603,8 @@
       "Text": "همانا که گفتم نگویم که نه",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "هوش مصنوعی: من قبلاً گفته‌ام که نمی‌خواهم بگویم که بر آن مسیری که رفته‌ام، برنگردم و نگویم که نه."
     },
     {
       "VOrder": 114,
@@ -1563,7 +1620,8 @@
       "Text": "برآشفت ازو پهلوان دلیر",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "هوش مصنوعی: پهلوان شجاع از این موضوع بی‌تاب شد و سپس به شاپور شیر دستور داد."
     },
     {
       "VOrder": 116,
@@ -1579,7 +1637,8 @@
       "Text": "که ایدر یکی دار بر پای کن",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "هوش مصنوعی: اگر قرار است کسی را به پای خود بیاوری، طوری بگو که کلامت را تغییر ندهد."
     },
     {
       "VOrder": 118,
@@ -1595,7 +1654,8 @@
       "Text": "بفرما به لشکر به تیر و کمان",
       "CoupletIndex": 59,
       "SectionIndex1": 0,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "هوش مصنوعی: بفرما به لشکر که با تیر و کمان بیایند تا بدگمانان را از بین ببرند."
     },
     {
       "VOrder": 120,
@@ -1611,7 +1671,8 @@
       "Text": "ببارند بر جان شداد تیر",
       "CoupletIndex": 60,
       "SectionIndex1": 0,
-      "SectionIndex2": 62
+      "SectionIndex2": 62,
+      "CoupletSummary": "هوش مصنوعی: باران بر جان شداد ببارد و ابرهای تند او را به تیر بزنند."
     },
     {
       "VOrder": 122,
@@ -1627,7 +1688,8 @@
       "Text": "چو بشنید شاپور آمد به در",
       "CoupletIndex": 61,
       "SectionIndex1": 0,
-      "SectionIndex2": 63
+      "SectionIndex2": 63,
+      "CoupletSummary": "هوش مصنوعی: وقتی شاپور خبر را شنید، با کمر بسته و آماده برای انتقام وارد شد."
     },
     {
       "VOrder": 124,

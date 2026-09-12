@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "بوی گلزار هوست قصه عشق",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عطر گلزار تو داستان عشق را به سوی محبوب می‌برد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "میکشد رفته رفته جان از تن",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به آرامی جان را از بدن بیرون می‌کشد و از پوست حقیقت عشق را می‌فهمد."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "ای که صد چاک در دلست ترا",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که دلش صد زخم دارد، تو که زخم دل را درمان می‌کنی، داستان عشق را روایت کن."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "هست در ذکر حق نهان مستی",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در ذکر خداوند، حالتی پنهان و عمیق از عشق و شوق به وجود می‌آید که نشانگر عشق واقعی است. این حالت به گونه‌ای است که می‌توان در عمق آن، زیبایی‌های عشق را مشاهده کرد."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "هر که دارد ز حق بدل شوقی",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که به عشق الهی و دوستی حق نگاهی عمیق و شوق‌انگیز دارد، به سوی معشوق واقعی خود کشیده می‌شود و در این مسیر داستان عشق را تجربه می‌کند."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "دم بدم رو بسوی حق دارد",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کس که با حقیقت گفت و گو دارد، به سوی حق و حقیقت قدم برمی‌دارد و در هر لحظه به یاد عشق و داستان‌های آن است."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "هر سر موی من کند شکری",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر تار موی من نشانی از عشق و زیبایی دارد که داستان عشق من را روایت می‌کند."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "روبروی خدا بود عاشق",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عاشق در حضوری نزدیک به خدا قرار دارد، در حالی که دنیای اطراف او به نوعی ناپایدار و دگرگون شده است. داستان عشق، در این موقعیت، به وضوح نمایان است."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "یکنفس ذکر حق ز دست مده",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به هر حال، ذکر و یاد خداوند را از دست نده، زیرا اگر دوست به یاد تو باشد، داستان عشق را می‌سازد."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "گلستان حق و بوی گل ذکرش",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باغی از حقایق و فضایل وجود دارد که عطر گل‌های آن یاد خدا را در فضا پراکنده کرده است و در این میان داستان عشق نیز جریان دارد."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "خام افسرده بهرهٔ نبرد",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خواب غم‌انگیز کسانی که تجربه‌ای در عشق ندارند، خوب نیست و داستان عشق را باید با دل‌خوشی شنید."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "ذکر حق فیض بوی حق دارد",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ذکر خداوند خوشبو و دل‌انگیز است، همان‌طور که گل‌های باغ عشق او را روایت می‌کنند."
     },
     {
       "VOrder": 24,

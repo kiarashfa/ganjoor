@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "وقت است‌کنیم‌گریه با هم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقت آن رسیده است که با هم گریه کنیم، ای شمع! شب است و روز ما هم به پایان رسیده است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "دوریم جدا زدامن یار",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما از آغوش یار دوریم، مانند دست شکسته‌ای که دیگر نمی‌تواند دعا کند."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "هستی چقدر رعونت انشاست",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وجود چقدر حالت مغرورانه و شکوه دارد، که مانند شمع سرهای زیادی دارد و پا هم در دیوانگی و سرسبزی به حرکت در می‌آید."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "تا زندگیت نفس شمارست",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زندگی‌ات به مانند نفس کشیدن است؛ پس از خود رهایی یاب و با دل شاد به آن بپرداز."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "زین‌گرد نشسته در زمین‌ست",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چیزی که بر زمین نشسته، مانند گرد و غبار است و همانند صبح که بر آسمان است، کم‌کم محو می‌شود."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "خونم چه نشان دهد زدستی",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خون من چه نشانه‌ای خواهد داشت وقتی که از دست دشمن، حنا هم نمی‌گیرد؟"
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "گر سر نکنم نیازتسلیم",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نتوانم نیاز تو را برآورده کنم، مانند اشکی می‌شوم که کلاهم را می‌شکند."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "از کوشش نارسا مپرسید",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از تلاش‌های ناکافی ما نپرسید که نمی‌تواند ما را به هدف برساند."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "هر جا بردیم نقب راحت",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کجا که تلاشی برای دستیابی به آسایش و راحتی کردیم، متوجه شدیم که آنجا جایی برای آرامش نیست."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "بر جوهرتیغ خم منازبد",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که تیغِ خم، که نشان‌دهندهٔ قوهٔ تهاجمی و قدرت است، به زیبایی و جواهر تو حمله نمی‌کند. حتی اگر قد من دو برابر هم باشد، این زیبایی همچنان در خطر نیست. در واقع، زیبایی و ارزش تو آن‌چنان است که هیچ چیزی نمی‌تواند به آن آسیب برساند."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "خاری ندمید ازین بیابان",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این بیابان، از چشمان خواب‌آلود چیزی جز زخم و خاری نمی‌روید؛ تنها با درخشش اشک و کانون خواب می‌توان امیدی به نرمش و زیبایی داشت."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "بیدل چو عرق وفا سرشتان",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیدل، وقتی وفا در دل ما جوشید، از حیا و عبرت درس بگیریم."
     },
     {
       "VOrder": 24,

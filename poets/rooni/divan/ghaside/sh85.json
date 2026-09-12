@@ -231,7 +231,8 @@
       "Text": "ثقة الملک خاص و خازن شاه",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: خازن و اعتماد ویژه‌ی پادشاه، خواجه طاهر، بر تو ناظر و نگهبان است و تو مانند چشم خداوند می‌باشی."
     },
     {
       "VOrder": 2,
@@ -247,7 +248,8 @@
       "Text": "به قدوم عزیز لوهاور",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: با ورود عزیز لوهاور به مصر، عظمت و شکوه او بیشتر از چیزی بود که از مصر انتظار می‌رفت."
     },
     {
       "VOrder": 4,
@@ -263,7 +265,8 @@
       "Text": "نور او نور یوسف چاهی است",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: نور او مانند نور یوسف است که از چاه برمی‌خیزد و مقام او سایه‌ای از چاه نابسوده‌ای است."
     },
     {
       "VOrder": 6,
@@ -279,7 +282,8 @@
       "Text": "صاف فضلش به بذل گشته رهی",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معنی است که او با generosity و بخشندگی خود، مسیر را برای دیگران هموار کرده و نگاهش به شعر به گونه‌ای است که طبق اصول و ارزش‌های اخلاقی و قانونی عمل می‌کند."
     },
     {
       "VOrder": 8,
@@ -295,7 +299,8 @@
       "Text": "دستهای دراز نهی گران",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: دست‌های کسانی که در کار نهی از منکر هستند، با وجود تلاش‌هایشان، دیگر توان و قدرتی برای جلوگیری از wrongdoing ندارند و به نوعی کوتاه آمده‌اند."
     },
     {
       "VOrder": 10,
@@ -311,7 +316,8 @@
       "Text": "میغ دوشا به بازوی و کف او",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: ابر در بازوی خود، شیر آبی را در گلوی گیاه به دوش کشیده است."
     },
     {
       "VOrder": 12,
@@ -327,7 +333,8 @@
       "Text": "حبذا آن زمین که عبره کند",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: ای کاش آن سرزمین که کاروانش اشک بریزد، ابعادش به اندازه‌ی سپاهش باشد."
     },
     {
       "VOrder": 14,
@@ -343,7 +350,8 @@
       "Text": "نه بدو ظلم را کنند مرح",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: نه به او ظلم می‌شود و نه در دوران او کمبودی وجود خواهد داشت."
     },
     {
       "VOrder": 16,
@@ -359,7 +367,8 @@
       "Text": "شیرش ارشیر آسمان باشد",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: اگر شیر آسمان هم باشد، ولی مرگ به سراغش نیاید، هیچ گناهی نمی‌تواند به او آسیب برساند."
     },
     {
       "VOrder": 18,
@@ -375,7 +384,8 @@
       "Text": "کوهش ار کوه کهربا باشد",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اگر کوه او از کهربا ساخته شده باشد، ارزش آن هیچ تاثیری بر طبیعت او نخواهد داشت و او هیچ‌گاه کم نخواهد شد."
     },
     {
       "VOrder": 20,
@@ -391,7 +401,8 @@
       "Text": "شادباش ای چو عدل نوشروان",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: شاد باش ای کسی که مانند نوشروان، صاحب عدل و انصاف هستی. یاد و نام تو باعث سجده و احترام زبان‌هاست."
     },
     {
       "VOrder": 22,
@@ -407,7 +418,8 @@
       "Text": "دیر زی ای چو سد اسکندر",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: ای شجاع و قوی، همچون سد اسکندر، از موانع و دشمنان دوری کن و خود را در برابر بدخواهان حفظ کن."
     },
     {
       "VOrder": 24,
@@ -423,7 +435,8 @@
       "Text": "عین فضلی و روزگار تراست",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: شما به من نیکی می‌کنید و این به خاطر زمان و احوال شماست، زیرا فضای ارتباط با مردم را گسترش می‌دهید."
     },
     {
       "VOrder": 26,
@@ -439,7 +452,8 @@
       "Text": "دور چرخی . . .",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: در اینجا بیان شده که زمانی که مسائل مهم کشور مورد توجه قرار می‌گیرد، سرعت عمل و واکنش می‌تواند به اندازه سرعت ماه باشد. در واقع، به اهمیت و حساسیت موقعیت‌های بحرانی اشاره شده و نیاز به اقدام سریع در چنین مواقعی احساس می‌شود."
     },
     {
       "VOrder": 28,
@@ -455,7 +469,8 @@
       "Text": "هیچ دعوی نکرده همت تو",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: هیچ ادعایی نکرده که نشان دهد تو از دو نیکوکار بزرگ، گواهی گرفته‌ای."
     },
     {
       "VOrder": 30,
@@ -471,7 +486,8 @@
       "Text": "هیچ منزل نکوفت اختر تو",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: هیچ منزل و شرایطی نتوانسته است بر ستاره تو تأثیر منفی بگذارد و دو نیرو یا سپاه نمی‌توانند تو را متوقف کنند."
     },
     {
       "VOrder": 32,
@@ -487,7 +503,8 @@
       "Text": "کسی نگوید که . . .",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: فردی نباید بگوید که تلاش برای پیشرفت یا تغییر را از دست داده است."
     },
     {
       "VOrder": 34,
@@ -503,7 +520,8 @@
       "Text": "تا به زجر و به فال نیک بود",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: اگر دیدن روباه به زحمت و بدی تعبیر شود، احتمالاً نشانه خوبی خواهد بود."
     },
     {
       "VOrder": 36,
@@ -519,7 +537,8 @@
       "Text": "کام کام تو باد در نیکی",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: زندگی‌ات پر از خوشبختی و خوبی باشد، و کارهایت در درگاه الهی با نیکی و خیر انجام گیرد."
     },
     {
       "VOrder": 38,
@@ -535,7 +554,8 @@
       "Text": "قرن عمر تو سی و پنج ولی",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: عمر تو سی و پنج سال است، ولی از نظر تجارب و روزگاری که گذرانده‌ای، انگار سیصد و پنجاه سال زندگی کرده‌ای."
     },
     {
       "VOrder": 40,

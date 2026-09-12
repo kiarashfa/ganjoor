@@ -651,7 +651,8 @@
       "Text": "بده ساقی آن می که خواب آورد",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: به من شرابی بده که تاثیرش به قدری باشد که هم خواب‌آور باشد و هم توانمندی ذهنی‌ام را تحت تاثیر قرار دهد."
     },
     {
       "VOrder": 2,
@@ -667,7 +668,8 @@
       "Text": "میئی کز یکی‌جرعه‌اش پیل مست",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: این بیت اشاره به نوشیدنی دارد که آنقدر قوت دارد که حتی یک جرعه‌اش قادر است موجودی بزرگ مثل فیل را مست کند، در حالی که موجودی کوچک مثل پشه فقط به عنوان وسیله‌ای برای بازی می‌تواند از آن استفاده کند. به عبارتی، این بیت به اثرات متفاوت یک چیز با ارزش بر موجودات مختلف اشاره دارد."
     },
     {
       "VOrder": 4,
@@ -683,7 +685,8 @@
       "Text": "شرابی که گر نوشدش خاره‌سنگ",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: شرابی که اگر سنگی به آن نوشیده شود، نرم‌تر از پارچه ابریشمی خواهد شد."
     },
     {
       "VOrder": 6,
@@ -699,7 +702,8 @@
       "Text": "شرابی که گر نوشد از وی پروس",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: نوشیدن یک جرعه از آن شراب باعث می‌شود که انسان به شدت تحت تأثیر قرار گیرد و عاشق و شیفته شود."
     },
     {
       "VOrder": 8,
@@ -715,7 +719,8 @@
       "Text": "شرابی که گر نوشدش انگلیس",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی این شراب را بنوشد، به دوستی با خداوند آلمانی نائل می‌آید."
     },
     {
       "VOrder": 10,
@@ -731,7 +736,8 @@
       "Text": "شرابی که ولهلم اگر سرکشد",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: اگر ولهلم بخواهد جامی از شراب سر بکشد، دیگر نیازی نیست که نقشه‌های جنگی زیادی کشیده شود."
     },
     {
       "VOrder": 12,
@@ -747,7 +753,8 @@
       "Text": "شرابی که گر روس از او بو کند",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: شرابی که اگر روسی بوی آن را استشمام کند، از جیحون و آمو بیزار خواهد شد."
     },
     {
       "VOrder": 14,
@@ -763,7 +770,8 @@
       "Text": "شرابی که اتریش اگر زان خورد",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی از شراب معروف اتریش بنوشد، به‌قدری درخشان و خاص است که حتی ولیعهد نیز از آن چشم‌پوشی نمی‌کند."
     },
     {
       "VOrder": 16,
@@ -779,7 +787,8 @@
       "Text": "شرابی که گر شد به ژاپون مماس",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: شرابی که اگر به ژاپن برسد، با شرمندگی و درخواست عذرخواهی به چین می‌رود."
     },
     {
       "VOrder": 18,
@@ -795,7 +804,8 @@
       "Text": "شرابی که گر نوشد از روی علم",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: شرابی که اگر کسی از روی دانش بنوشد، به طرف ویلهلم خواهد آمد."
     },
     {
       "VOrder": 20,
@@ -811,7 +821,8 @@
       "Text": "شرابی که گر نوشدش نیکلا",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: شرابی که نیکلا بنوشد، اگر از آزار ما چشم‌پوشی کند."
     },
     {
       "VOrder": 22,
@@ -827,7 +838,8 @@
       "Text": "ز تقسیم ایران بپوشد نظر",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: به دلیل تقسیم ایران، نگران آینده کشور هستیم و باید برای حمایت از آن تلاش کنیم."
     },
     {
       "VOrder": 24,
@@ -843,7 +855,8 @@
       "Text": "شرابی که گرزان ‌«‌سر ادواردکری‌»",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: نوشیدنی که اگر از «سر ادوارد کری» بریزد، می‌تواند به اندازه‌ای ارزش داشته باشد که در صف قضاوت مورد توجه قرار گیرد."
     },
     {
       "VOrder": 26,
@@ -859,7 +872,8 @@
       "Text": "نگوید که ایران به کابین ماست",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: نگو که ایران به ازدواج ما وابسته است، از طوفان‌ها و مشکلات نترسد."
     },
     {
       "VOrder": 28,
@@ -875,7 +889,8 @@
       "Text": "بیا ساقی آن بادهٔ بی‌خودی",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: بیا ای ساقی، آن شراب دیوانه‌کننده را به من بده که دیگر از هوش و خرد خسته شوم و به آرامش برسم."
     },
     {
       "VOrder": 30,
@@ -891,7 +906,8 @@
       "Text": "که‌این بخردی بند و دام من است",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: این فرد دانا و هوشمند، برای من همچون دام و تله‌ای است که به آن گرفتار شده‌ام و از او نتیجه‌ای تلخ و دردناک مانند زهر به دست می‌آورم."
     },
     {
       "VOrder": 32,
@@ -907,7 +923,8 @@
       "Text": "به من ده که از خود فرامش کنم",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: به من بده تا بتوانم به طور ناگهانی خودم را فراموش کنم و از این بار سنگین رهایی یابم."
     },
     {
       "VOrder": 34,
@@ -923,7 +940,8 @@
       "Text": "نگویم که ایران سرای من است",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: نگویم که ایران وطن من است، بلکه همین سرزمین خوشبختی، مکان من است."
     },
     {
       "VOrder": 36,
@@ -939,7 +957,8 @@
       "Text": "به من ده که از رنج سیرم کنی",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: به من عطا کن تا از رنج و آلامی که دارم رهایی یابم و در دل بی‌تفاوتی و نسبت به دیگران بی‌اعتنایی قوی‌تر شوم."
     },
     {
       "VOrder": 38,
@@ -955,7 +974,8 @@
       "Text": "ندانم که دشمن به خاک من است",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: نمی‌دانم که آیا دشمنی در سرزمین من وجود دارد که به غارت حرمت‌های عزیز من مشغول است."
     },
     {
       "VOrder": 40,
@@ -971,7 +991,8 @@
       "Text": "وگر در من این می ندارد اثر",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: اگر این می در من تأثیری ندارد، به یک بیگانه بده تا او نظرش را جلب کند."
     },
     {
       "VOrder": 42,
@@ -987,7 +1008,8 @@
       "Text": "دریغا که بیگانه را مهر نیست",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: افسوس که بیگانه‌ای در دل خود محبت ندارد، او که باید محبت بیافریند، چه کسی است؟"
     },
     {
       "VOrder": 44,
@@ -1003,7 +1025,8 @@
       "Text": "جهان‌ سربسر جای‌ زور است‌ و بس",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: دنیا فقط محلی برای قدرت و زورگویی است و اگر کسی قدرت نداشته باشد، جز مجازات و عواقب بدی چیزی نصیبش نخواهد شد."
     },
     {
       "VOrder": 46,
@@ -1019,7 +1042,8 @@
       "Text": "چو عاجز بگرید بر احوال خویش",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: زمانی که کسی به خاطر ناتوانی و مشکلاتش گریه کند، افرادی که قدرت و توانایی دارند، به او می‌خندند و به حالش تمسخر می‌کنند."
     },
     {
       "VOrder": 48,
@@ -1035,7 +1059,8 @@
       "Text": "مکن گریه چون خورده‌ای نیشتر",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: هرگز گریه نکن، زیرا این کار فقط باعث افزایش درد می‌شود."
     },
     {
       "VOrder": 50,
@@ -1051,7 +1076,8 @@
       "Text": "مهل تا خوری از بداندیش نیش",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: صبر کن تا از نیش بداندیشان آسیب نبینی، اما وقتی آسیب دیدی، تدبیری برای درمان درد خود بیندیش."
     },
     {
       "VOrder": 52,
@@ -1067,7 +1093,8 @@
       "Text": "بده ساقی آن بادهٔ خسروی",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: به من یک لیوان از نوشیدنی با ارزش و دلپذیر بده که از آن، دانش و حکمت قدیمی به دست آید و تازه‌تر و نوتر شود."
     },
     {
       "VOrder": 54,
@@ -1083,7 +1110,8 @@
       "Text": "شرابی کز او کاوهٔ شیرمرد",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: مشروبی که کاوهٔ شیرمرد از آن نوشید و به قهرمان نبرد تبدیل شد."
     },
     {
       "VOrder": 56,
@@ -1099,7 +1127,8 @@
       "Text": "شرابی که از او خشایارشا",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: شرابی که خشایارشا از آن نوشید و باعث شد تا بر جهانیان سلطنت کند."
     },
     {
       "VOrder": 58,
@@ -1115,7 +1144,8 @@
       "Text": "شرابی که دارای اعظم از او",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: این شعر به نوعی به معرفتی عمیق اشاره دارد که از یک نوشیدنی الهی یا معنوی به دست می‌آید. این شراب خاص به حدی قوی و برتر است که پس از نوشیدن آن، فرد به درک و فهمی وسیع دست پیدا می‌کند که می‌تواند نیمی از جهان را درک کند و به روشنایی برساند. به عبارت بهتر، این اشاره‌ای است به تأثیر و تاثیرگذاری علم و معرفت بر روح و ذهن انسان."
     },
     {
       "VOrder": 60,
@@ -1131,7 +1161,8 @@
       "Text": "شرابی که او را هم‌آورد نیست",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: شرابی که او به همراه می‌آورد، قابل مقایسه با شرابی نیست که فقط برای مردان بزرگ و شایسته است."
     },
     {
       "VOrder": 62,
@@ -1147,7 +1178,8 @@
       "Text": "شرابی که گر مرده زان نوشدا",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: شرابی که اگر مرده باشد، از آن چشم‌هایش اشک و خون می‌ریزد."
     },
     {
       "VOrder": 64,
@@ -1163,7 +1195,8 @@
       "Text": "شرابی کزان پشه‌، شیری کند",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: شربتی که از آن پشه‌ای قوی و شیرانی شجاع پیدا می‌شود و حتی یک مورچه لاغر نیز با آن قدرت می‌یابد."
     },
     {
       "VOrder": 66,
@@ -1179,7 +1212,8 @@
       "Text": "شرابی که در سر نیارد دوار",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: شرابی که در لیوان نمی‌چرخد، شرابی است که هرگز مست نمی‌کند."
     },
     {
       "VOrder": 68,
@@ -1195,7 +1229,8 @@
       "Text": "به ایرانیان ده که یاری کنند",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: به ایرانیان کمک کن تا در این میخانه با هم خوش بگذرانند و از خوشی‌های زندگی بهره‌مند شوند."
     },
     {
       "VOrder": 70,
@@ -1211,7 +1246,8 @@
       "Text": "بیا مطرب آن چنگ را سازکن",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: برای شروع، ای نوازنده، آن ساز چنگ را به صدا درآور و با عطر کلام شیرین خود نغمه را آغاز کن."
     },
     {
       "VOrder": 72,
@@ -1227,7 +1263,8 @@
       "Text": "به زبر و بم انباز کن ای پری",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: ای پری، با صدای زیبا و دلنشین خود، مثل آهنگ سغدی، زبر و بم را همگون کن و در دل‌ها زنده‌اش کن."
     },
     {
       "VOrder": 74,
@@ -1243,7 +1280,8 @@
       "Text": "تو آشوب شهری و ماه منی",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: تو در دل این شهری، مانند ماهی که می‌درخشد. اگر قصد داری قشری به هم بریزی، پس نام «شهر آشوب» را بر زبان بیاور."
     },
     {
       "VOrder": 76,
@@ -1259,7 +1297,8 @@
       "Text": "درافکن به‌ سر شور و بیداد کن",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: فریاد و ناله را به جان برآور، و با شعله‌های عشق و درد، به یاد این غزل بپرداز."
     },
     {
       "VOrder": 78,
@@ -1275,7 +1314,8 @@
       "Text": "خوشا مرز آباد ایران‌ زمین",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: از زندگی در سرزمین پر نعمت ایران باید شاد بود و بر زندگی پادشاهانی که در این شهرها حکم‌فرما بوده‌اند، درود فرستاد."
     },
     {
       "VOrder": 80,
@@ -1291,7 +1331,8 @@
       "Text": "خوش آن کاخ‌های نوآراسته",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: خوشا کاخ‌های زیبایی که تزئین شده‌اند و خوشا مجسمه‌های تازه‌ای که به وجود آمده‌اند."
     },
     {
       "VOrder": 82,
@@ -1307,7 +1348,8 @@
       "Text": "خوش آن جویباران به فصل بهار",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: در فصل بهار، جویباران بسیار زیبا و دل‌انگیزند و لاله‌هایی که از کنار این جویباران روییده‌اند، نیز تماشایی و شاداب هستند."
     },
     {
       "VOrder": 84,
@@ -1323,7 +1365,8 @@
       "Text": "خوش آن‌ شهر اصطخر مینونشان",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: شهر اصطخر، جای خوبی است که مردان با شهامت و دلیر در آن زندگی می‌کنند."
     },
     {
       "VOrder": 86,
@@ -1339,7 +1382,8 @@
       "Text": "خوشا اکباتان‌ و خوشا شهر شوش",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: خوشا به حال اکباتان و شهر شوش، و همچنین بلخ خوشبخت که محل حضور سروش است."
     },
     {
       "VOrder": 88,
@@ -1355,7 +1399,8 @@
       "Text": "خوشا هیرکانی و خوشا شهر هری",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: با شادی به یاد هیرکان و شهر هری و همچنین دامغان می‌افتم، که کشوری با زیبایی‌های فراوان است."
     },
     {
       "VOrder": 90,
@@ -1371,7 +1416,8 @@
       "Text": "خوشا دشت البرز و شهر بزرگ",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: سرزمین گسترده البرز و شهر بزرگ آن بسیار زیباست و خوشا به حال کسی که این سرزمین و نگهبان برجسته‌اش را می‌بیند."
     },
     {
       "VOrder": 92,
@@ -1387,7 +1433,8 @@
       "Text": "خوشا دشت‌خوارزم‌ و گرگان خوشا",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: بهشت دشت‌خوارزم و گرگان را می‌ستایم و به شجاعت و دلیری آن مردان بزرگ افتخار می‌کنم."
     },
     {
       "VOrder": 94,
@@ -1403,7 +1450,8 @@
       "Text": "خوشا خاک تبریز مشکین‌ نفس",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: خوشا به حال خاک تبریز که عطر دل‌انگیزی دارد و خوشا به حال سواحل سبز رود ارس."
     },
     {
       "VOrder": 96,
@@ -1419,7 +1467,8 @@
       "Text": "خوشا رود جیحون ، خوشا هیرمند",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: چه خوب است رود جیحون و چه خوب است هیرمند؛ همچنین نشابور و آن کوه‌های بلند!"
     },
     {
       "VOrder": 98,
@@ -1435,7 +1484,8 @@
       "Text": "خوش آن روزگار همایون ما",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: چه روزگار خوبی داشته‌ایم، چه بختی که زنده و پیروزمند بوده‌ایم!"
     },
     {
       "VOrder": 100,
@@ -1451,7 +1501,8 @@
       "Text": "کنون رفته آن تیر از شست ما",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: اکنون آن تیر که از دست ما رفته، تنها باد در دست ما باقی مانده است."
     },
     {
       "VOrder": 102,
@@ -1467,7 +1518,8 @@
       "Text": "کجا رفت‌ هوشنگ‌ و کو زردهشت",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: کجا رفت هوشنگ و کجا رفت زردهشت؟ کجا رفت جمشید، آن کسی که ذاتش نیکو بود؟"
     },
     {
       "VOrder": 104,
@@ -1483,7 +1535,8 @@
       "Text": "کجا رفت آن کاویانی درفش",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "هوش مصنوعی: کجا رفت آن پرچم کاوه‌ای و کجا رفت آن شمشیرهای بنفش؟"
     },
     {
       "VOrder": 106,
@@ -1499,7 +1552,8 @@
       "Text": "کجا رفت آن کاوهٔ نامدار",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "هوش مصنوعی: کجا رفت آن کاوه‌ی مشهور و معروف؟ کجا شد فریدون با شخصیت برجسته و بزرگش؟"
     },
     {
       "VOrder": 108,
@@ -1515,7 +1569,8 @@
       "Text": "کجا شد «‌هکامن» کجا شد مدی",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "هوش مصنوعی: کجا رفت آن قدرت و اقتدار، کجا رفتم، و آن شکوه الهی کجا رفته است؟"
     },
     {
       "VOrder": 110,
@@ -1531,7 +1586,8 @@
       "Text": "کجا رفت آن کورش دادگر",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "هوش مصنوعی: کجا رفته آن دادگستر بزرگ، کجا gone  شده آن کمبوجیه معروف؟"
     },
     {
       "VOrder": 112,
@@ -1547,7 +1603,8 @@
       "Text": "کجا رفت آن داریوش دلیر",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "هوش مصنوعی: کجاست آن داریوش شجاع و دلاور؟ کجاست آن ثروت و گنج و دولت پادشاه اردشیر؟"
     },
     {
       "VOrder": 114,
@@ -1563,7 +1620,8 @@
       "Text": "دلیران ایران کجا رفته‌اند",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "هوش مصنوعی: دلیران ایران کجا رفته‌اند که زینت و زیبایی کشور را رها کرده‌اند؟"
     },
     {
       "VOrder": 116,
@@ -1579,7 +1637,8 @@
       "Text": "بزرگان که در زیر خاک اندراند",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "هوش مصنوعی: افراد بزرگ و معتبری که در زیر زمین آرامیده‌اند، بیایند و بر روی زمین ما عبور کنند."
     },
     {
       "VOrder": 118,
@@ -1595,7 +1654,8 @@
       "Text": "بپرسند از ایدر که ایران کجاست",
       "CoupletIndex": 59,
       "SectionIndex1": 0,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "هوش مصنوعی: اگر از تو بپرسند که ایران کجاست، باید بگویی همان سرزمین دلیران و مردان شجاع است."
     },
     {
       "VOrder": 120,
@@ -1611,7 +1671,8 @@
       "Text": "ببینند کاین‌ جای مانده تهی",
       "CoupletIndex": 60,
       "SectionIndex1": 0,
-      "SectionIndex2": 62
+      "SectionIndex2": 62,
+      "CoupletSummary": "هوش مصنوعی: به تماشا بنشینید که این مکان از تاج و تخت سلطنت خالی و بی‌نصیب مانده است."
     },
     {
       "VOrder": 122,
@@ -1627,7 +1688,8 @@
       "Text": "نه گوی ونه چوگان‌نه میدان نه ‌اسب",
       "CoupletIndex": 61,
       "SectionIndex1": 0,
-      "SectionIndex2": 63
+      "SectionIndex2": 63,
+      "CoupletSummary": "هوش مصنوعی: هیچ چیز از بازی‌های ورزشی، میدان، اسب و حتی آتش‌گشسب (موجود اساطیری) پیدا نیست."
     },
     {
       "VOrder": 124,

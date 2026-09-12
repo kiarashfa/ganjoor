@@ -20,7 +20,7 @@
       "VerseType": "First",
       "RhymeLetters": "راوست",
       "PlainText": "عقرب سر زلف یار و مه پیکر اوست\r\nبا این همه کبر و ناز کاندر سر اوست\r\nشیرین دهنی و شهد در شکر اوست\r\nفرمانده روزگار فرمانبر اوست",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعقرب سر زلف یار و مه پیکر اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا این همه کبر و ناز کاندر سر اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشیرین دهنی و شهد در شکّر اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرماندهِ روزگار فرمانبرِ اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003E\u0022عقرب\u0022 سرِ زلفِ یار و \u0022مَه\u0022 پیکر اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا این همه کبر و ناز کاندر سر اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشیرین‌دهنی و شهد در شِکَّر اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرماندهِ روزگار فرمانبرِ اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -29,9 +29,10 @@
     {
       "VOrder": 1,
       "Position": "Right",
-      "Text": "عقرب سر زلف یار و مه پیکر اوست",
+      "Text": "\u0022عقرب\u0022 سرِ زلفِ یار و \u0022مَه\u0022 پیکر اوست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عقرب سر زلف یار به معنای زیبایی و جذابیت اوست، در حالی که آن زیبایی با زهر و خطر همراه است. این نشان‌دهنده ویژگی‌های خوشایند و در عین حال پیچیده عشق و دلبستگی به معشوق است. با وجود تمام زیبایی و افسونگری، ناز و غرور او نیز حس حذر از آسیب را به همراه دارد."
     },
     {
       "VOrder": 2,
@@ -43,9 +44,10 @@
     {
       "VOrder": 3,
       "Position": "Right",
-      "Text": "شیرین دهنی و شهد در شکّر اوست",
+      "Text": "شیرین‌دهنی و شهد در شِکَّر اوست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شیرینی گفتار و لطافت کلام او باعث جذابیتش شده و در واقع او رهبر و تسلط بر زمان و وقایع دارد."
     },
     {
       "VOrder": 4,

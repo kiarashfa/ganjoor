@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "خوب را گو پلاس در بر کن",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به اهالی خوبی بگو که لباس زیبایی بر تن کنند، زیرا آن‌ها همان معشوقان خوش‌آیند هستند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "زشت را گو هزار حله بپوش",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچقدر هم چیزی زشت را با لباس‌های زیبا بپوشانیم، در نهایت ماهیت آن تغییر نمی‌کند و همچنان زشتی‌اش باقی می‌ماند."
     },
     {
       "VOrder": 4,

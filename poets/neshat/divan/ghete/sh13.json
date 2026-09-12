@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "درون خانه جز بیرون در نیست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در خانه هیچ چیز جز در ورودی وجود ندارد؛ اگر در را ببندند یا بشکنند، دیگر به چیزی دسترسی نخواهیم داشت."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "چه ظلم است این خدا را کاندرین بزم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این چه بی‌عدالتی است که در این مهمانی، حتی توبه‌ام را هم با شکستن ساغر بی‌احترامی کردند؟"
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "تو گر آرام جویی رام شو رام",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی آرامش بیابی، باید تسلیم شوی. تسلیم شو که ما را از ترس و گریختن، آسیب‌های زیادی رساندند."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "دل آهنگ شکستن کرد تا باز",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل به سمت شکستن رفت، اما نمی‌داند کجا باید برود، همان‌جا که چیزی را که قبلاً شکستند، نشان می‌دهد."
     },
     {
       "VOrder": 8,

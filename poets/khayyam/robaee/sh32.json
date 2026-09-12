@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "در پردۀ اسرار کسی را ره نیست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در پرده‌های راز، هیچ‌کس نمی‌تواند وارد شود و از ترتیب و ساختار روح هیچ‌کس اطلاعاتی ندارد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "جز در دلِ خاک هیچ منزلگه نیست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "منزل‌گه‌: مقصد"
     },
     {
       "VOrder": 4,

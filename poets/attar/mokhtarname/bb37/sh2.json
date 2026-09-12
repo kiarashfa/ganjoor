@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای مورچهٔ خط! بدمیدی آخر",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای مورچهٔ خط! تو در نهایت نفسی کشیدی و حالا برمی‌گردی، پس چرا خط را که کشیدی، رها نمی‌کنی؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گویند که در مه نرسد هرگز مور",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌گویند که در مه، مور هرگز نمی‌تواند دیده شود، اما وقتی به ماه رسیدی، دیگر به او تبدیل می‌شوی."
     },
     {
       "VOrder": 4,

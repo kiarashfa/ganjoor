@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "شب تار است ساقی! ساغرت کو؟",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شب است و ای ساقی، ساغر تو کجاست؟ روشنی ماه و نور ستاره‌ات کجا رفته است؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "ز دور آید صدای مرغ شبگیر",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صدای مرغ شبگیر از دور به گوش می‌رسد، کجاست آن نغمه و آواز دل‌انگیز تو؟"
     },
     {
       "VOrder": 4,

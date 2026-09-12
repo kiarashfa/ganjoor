@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "در عهد معالجات تو بیماری",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دوران درمان‌هایی که تو انجام دادی، بیماری دیگر نیازی به آزار دادن مردم ندارد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "نی از پی آزار به سوی تو شتافت",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نی به سوی تو آمد تا از ناراحتی و بی‌کاری‌اش شکایت کند، نه اینکه بخواهد تو را اذیت کند."
     },
     {
       "VOrder": 4,

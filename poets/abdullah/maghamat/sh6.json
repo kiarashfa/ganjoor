@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "تذکر نتیجه تفکر است",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: تذکر نتیجه‌ای است که از اندیشه و تفکر به دست می‌آید."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "دل پر غم دیگران مرا یاد کنی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دل تو پر از غم دیگران است، نگران نباش؛ در مورد خودت بیهوده دچار مشکل می‌شوی."
     },
     {
       "VOrder": 3,

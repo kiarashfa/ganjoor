@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "در هر کاری مشقتی بوده و مزد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در هر کاری که انجام می‌دهیم، زحمتی وجود دارد و عاقلان می‌دانند که اگر کار بی‌فایده باشد، نتیجه‌ای هم نخواهند گرفت."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "بخشد چه نتیجه خدمت بی تکلیف؟",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خدمت بی‌فایده چه سودی دارد؟ ای نادانانی که بدون انجام کار، انتظار پاداش دارید؟"
     },
     {
       "VOrder": 4,

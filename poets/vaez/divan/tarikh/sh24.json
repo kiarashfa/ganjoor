@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "این مبارک عمارت دلکش",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این ساختمان زیبا و خوشایند، در امان است و چشم بد نمی‌تواند به آن آسیب برساند."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "عقل تاریخ نصب آینه اش",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عقل تاریخ به ما نشان می‌دهد که گذشته، تصویری از هدف آینده ماست."
     },
     {
       "VOrder": 4,

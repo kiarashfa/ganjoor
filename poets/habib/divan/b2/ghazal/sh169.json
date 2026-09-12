@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "بنویس نامه گر رقم قتل ما بود",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نامه‌ای بنویسی و در آن به موضوع قتل ما اشاره شود، مثل این است که نقش قلم تو با آن خونبها یکی است."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "گر نام من بنامه بدشنام میبری",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نام من را بد به زبان می‌آوری، بدان که این دشنام از دلت نمی‌آید و در واقع دعاست."
     },
     {
       "VOrder": 4,
@@ -54,7 +56,8 @@
       "Position": "Right",
       "Text": "گر بند میکنی و گر آزاد، بنده ایم",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر ما را محبوس کنی یا رها سازی، ما بنده تو هستیم، اما اینکه بنده خود را به دیگری بفروشیم، کار نادرستی است."
     },
     {
       "VOrder": 6,
@@ -68,7 +71,8 @@
       "Position": "Right",
       "Text": "آخر چرا حواله باغیار میکنی",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا ما را به باغیار می‌سپاری؟ به ما بگو آیا در مذهب عشق، این درست است؟"
     },
     {
       "VOrder": 8,
@@ -82,7 +86,8 @@
       "Position": "Right",
       "Text": "من هر چه میکنی تو سزاوارم از جفا",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من هر چه بدی از تو می‌بینم، به خاطر اعمال خودم سزای آن را می‌دانم، اما بدی‌هایی که تو می‌کنی، به خاطر شخصیت تو نمی‌تواند درست باشد."
     },
     {
       "VOrder": 10,
@@ -96,7 +101,8 @@
       "Position": "Right",
       "Text": "در روی دوست تیر جفایش گر از قفا",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تیر جفای دوست از پشت به من اصابت کند، نشان از این است که عاشق واقعی کسی نیست که به عقب نگاه کند و فرار کند."
     },
     {
       "VOrder": 12,
@@ -110,7 +116,8 @@
       "Position": "Right",
       "Text": "نیکم بگو جواب که هرگز جفا و جور",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نیکو بگو که هیچ بی‌رحمی و ظلمی نمی‌تواند پاداش دوستی و نتیجه وفاداری باشد."
     },
     {
       "VOrder": 14,
@@ -124,7 +131,8 @@
       "Position": "Right",
       "Text": "مثل حبیب حیف بود بنده ای بجور",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر دوستی و محبت، کار من ناروا بود که از بندگی تو، ای دوست، آزاد بمانم."
     },
     {
       "VOrder": 16,
@@ -138,7 +146,8 @@
       "Position": "Right",
       "Text": "مهر توام ببسته لب از ماجرای خویش",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق تو باعث شده که من از داستان‌های خودم سخن نگویم، در حالی که بین ما و تو قصه‌های زیادی وجود دارد."
     },
     {
       "VOrder": 18,
@@ -152,7 +161,8 @@
       "Position": "Right",
       "Text": "باشد هزار بنده ترا خوب تر ز من",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من می‌دانم که هزار نفر بنده برای تو وجود دارند که از من بهتر هستند، اما هیچ‌کدام مانند تو، آقایی برای من نخواهند بود."
     },
     {
       "VOrder": 20,
@@ -166,7 +176,8 @@
       "Position": "Right",
       "Text": "آخر بگو که اینهمه کم التفاتیت",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آخر بفرما چرا اینقدر به من که دردمند و خسته‌ام، بی‌توجهی می‌کنی؟"
     },
     {
       "VOrder": 22,
@@ -180,7 +191,8 @@
       "Position": "Right",
       "Text": "نوک قلم گریست بر احوال زار من",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نوک قلم به خاطر وضعیت بد من اشک ریخت، اما به آن سنگینی که وجود دارد، توجهی نکرد."
     },
     {
       "VOrder": 24,

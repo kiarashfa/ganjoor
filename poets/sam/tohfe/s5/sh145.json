@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "بسیار چرکین و بی طهارت و خمار بود، این مطلع از اوست :",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: بسیار کثیف و ناپاک و مست بود."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "رمضان خوش است ای دل که شبی به بینوایی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ماه رمضان زمان خوبی است، ای دل، زیرا شبی را در فقر و نیاز می‌بینم که با بهانه‌ای از گدایی، به خانه‌ات می‌آیم."
     },
     {
       "VOrder": 3,

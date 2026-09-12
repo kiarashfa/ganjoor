@@ -171,7 +171,8 @@
       "Text": "جلایر نیز اگر طماع باشد",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی بخواهد تنها به دنبال منافع خود باشد، با وجود قدرت و استعدادهایی که دارد، در نهایت به جایی نخواهد رسید."
     },
     {
       "VOrder": 2,
@@ -187,7 +188,8 @@
       "Text": "طمع دارد که با اربابِ بینش",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: او امیدوار است که با صاحبان دید و بینش، که خالقان جهان هستند، ارتباط برقرار کند."
     },
     {
       "VOrder": 4,
@@ -203,7 +205,8 @@
       "Text": "نشیند نکته‌های نغز سنجد",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: اگر نکته‌های زیبا و دلنشین سنجد را به بند بکشند، مانند این است که آن‌ها را از دربان بزدایند و دل او را آزرده کنند."
     },
     {
       "VOrder": 6,
@@ -219,7 +222,8 @@
       "Text": "مثال حضرت مخدوم آفاق",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: شخصیت بزرگ و محترمی که همیشه در ارتباط با مردم است، این کار برای او سخت و دشوار می‌شود."
     },
     {
       "VOrder": 8,
@@ -235,7 +239,8 @@
       "Text": "نخواهد روزگار خویش ضایع",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: روزگار نمی‌گذارد فردی در حال خود غرق شود و به وقایع اطرافش بی‌توجه بماند."
     },
     {
       "VOrder": 10,
@@ -251,7 +256,8 @@
       "Text": "کسی را بار ندهد جز به اکراه",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: کسی به راحتی قبول نمی‌کند که بار مسئولیتی بر دوش بگیرد و همچنان از موقعیت‌ها و مشکلات به دوری و فرار می‌کند."
     },
     {
       "VOrder": 12,
@@ -267,7 +273,8 @@
       "Text": "هجوم مردمان اندر مَسیله",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: مردم همچون سیل و آب جاری به سوی مقصدی حرکت می‌کنند و این حرکتشان شبیه به جویبارهایی است که به یک نقطه می‌رسند."
     },
     {
       "VOrder": 14,
@@ -283,7 +290,8 @@
       "Text": "همه بر یکدگر انبوه گشته",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: همه مردم به هم نزدیک شده‌اند و مانند کوهی بزرگ و انبوه شده‌اند."
     },
     {
       "VOrder": 16,
@@ -299,7 +307,8 @@
       "Text": "کناره کرده زان انبوه، صاحب",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: او از آن شلوغی کناره‌ گرفته و به تنهایی به مکانی خلوت رفته است، بدون هیچ دوست یا همراهی."
     },
     {
       "VOrder": 18,
@@ -315,7 +324,8 @@
       "Text": "گزین کرده وثاق نیک بختی",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: انتخاب کرده‌ام که در سرزمینی بزرگ و پرآب و درخت زندگی کنم که خوشبختی را به ارمغان می‌آورد."
     },
     {
       "VOrder": 20,
@@ -331,7 +341,8 @@
       "Text": "فضائی پاک از ناپاک آنجا",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: جایی وجود دارد که پاک و بدون آلودگی است؛ جایی که نه لایه‌ای از گل و لای است و نه گرد و غبار."
     },
     {
       "VOrder": 22,
@@ -347,7 +358,8 @@
       "Text": "صبا فراش آن بستان سرای است",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: نسیم، مانند خدمت‌کاری در باغ بهشتی است که هزاران نغمه‌ساز در آنجا به نواختن مشغولند و هر یک با ساز خود در حال سرودن موسیقی هستند."
     },
     {
       "VOrder": 24,
@@ -363,7 +375,8 @@
       "Text": "به روی سبزه اش ننشسته گردی",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: روی سبزه ننشین که گردی روان به آب خوشگوار آن حوض سرد می‌افتد."
     },
     {
       "VOrder": 26,
@@ -379,7 +392,8 @@
       "Text": "ز گل‌ها و ریاحین رنگ رنگ است",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: در میان گل‌ها و گیاهان زیبا و رنگارنگ، نه راهی برای رفتن به آنجا وجود دارد و نه جایی برای توقف و ماندن."
     },
     {
       "VOrder": 28,

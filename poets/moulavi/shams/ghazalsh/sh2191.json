@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای رونق نوبهار برگو",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای شکوه و زیبایی بهار، بگو از شادی و خوشی در گلزار."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "بی‌غصه می فروش می‌نوش",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بدون نگرانی و غصه، شراب بنوش و از زحمت و سختی دوری کن. خارها را رها کن و به زندگی لذت ببخش."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "ای بلبل و ای هزاردستان",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای بلبل و ای هزار دستان، تو بگو درباره بهار، از زیبایی‌ها و ویژگی‌های آن بگو."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "ای حلقه به گوش و عاشق گل",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای حلقه به گوش، تو که عاشق گل هستی، پس چرا با سر خود مشکل ایجاد می‌کنی؟"
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "شرح قد سرو و چهره گل",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: قد سرو و چهره گل را بر درختان عرعر و چنار توصیف کن."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "چون رفت خزان و رو نهان کرد",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که پاییز رفت و برگ‌ها را در دل خود پنهان کرد، دیگر درختان سرو با چهره‌ای نمایان به نمایش درآمدند."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "گر پرسندت که جان رز چیست",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر از تو بپرسند که روح گل سرخ چیست، به برگ‌ها نگاه نکن و پاسخ بده."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "صد شیر و هزار گونه خرگوش",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی شکار کنی، باید صد شیر و هزار نوع خرگوش را داشته باشی."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "خواهی که شود قبول عذرت",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی عذرت پذیرفته شود، با چهره زیبا و دلپذیرت صحبت کن و لبخند بزن."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "خواهی که بری قرار مستان",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی آرامش دل را از مستان بگیری، به آن نرگس پرمستی که دارد نگاه کن و بگو."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "امروز سر شراب داریم",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امروز وقت نوشیدن شراب است؛ ای ساقی، بیایید و غذا را بیاورید."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "مستی آمد ملولیت رفت",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مستی پیش آمد و غم و خستگی تو رفت. این احساس را بارها و بارها تجربه کرده‌ام. حالا بگو که چه احساسی داری؟"
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "ای جام شرابدار برگرد",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای جام شراب، لطفاً برگرد و با نرمی به نغمه‌های چنگ دل انگیز بپرداز."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "از بهر ثواب و رحمت حق",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای عارف، برای رسیدن به پاداش و رحمت خدا، بر مطلبی که حق است، بیشتر تکیه کن و آن را بیان کن."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "ما منتظر توایم بشتاب",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما منتظر تو هستیم. سریع‌تر بیا، بدون اینکه زحمتی به ما بدهی."
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "تشنیع مزن که صله‌ای نیست",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به کسی نگو که نیکی‌ها و خوبی‌هایت را بی‌فایده می‌دانی، زیرا من از تو به خاطر کارهای خوبت قدردانی و محبت نشان داده‌ام."
     },
     {
       "VOrder": 32,

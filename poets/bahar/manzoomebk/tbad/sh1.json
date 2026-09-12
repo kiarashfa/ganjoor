@@ -250,7 +250,8 @@
       "Text": "گوش کن ای بلبل شیرین سخن",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: ای بلبل با صدای خوش، به صحبت‌های من گوش بده. ای گل خوشبو، تو نماد زیبایی‌های وطن ما هستی."
     },
     {
       "VOrder": 2,
@@ -266,7 +267,8 @@
       "Text": "ماجرای خویشتن",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: ماجرای خود را بازگو می‌کنم."
     },
     {
       "VOrder": 4,
@@ -274,7 +276,8 @@
       "Text": "روزگار باستان خویش را",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: در گذشته‌های دور، سرگذشت و داستان‌های کهن خود را به یاد می‌آوریم."
     },
     {
       "VOrder": 5,
@@ -290,7 +293,8 @@
       "Text": "سر بسر بشنو ز من",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: به طور کامل به سخنان من گوش بده."
     },
     {
       "VOrder": 7,
@@ -298,7 +302,8 @@
       "Text": "این‌ حکایت‌ از کتاب و نامه نیست",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: این داستان نه از کتاب نوشته شده و نه از کلمات قلم آمده است."
     },
     {
       "VOrder": 8,
@@ -314,7 +319,8 @@
       "Text": "عشق می گوید سخن",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: عشق در حال بیان سخنان خود است."
     },
     {
       "VOrder": 10,
@@ -322,7 +328,8 @@
       "Text": "دفتر راز طبیعت خوی تست",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: کتاب اسرار طبیعت در وجود تو نهفته است و رمز وجود در تارهای موی تو وجود دارد."
     },
     {
       "VOrder": 11,
@@ -338,7 +345,8 @@
       "Text": "روی گیتی سوی تست",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: در این دنیا، همه چیز به تو وابسته است."
     },
     {
       "VOrder": 13,
@@ -346,7 +354,8 @@
       "Text": "مرد را تنها تویی یار قدیم",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: تو تنها یار و رفیق قدیمی من هستی، که همراهم هستی و هم در شادی و هم در غم با من همراهی می‌کنی."
     },
     {
       "VOrder": 14,
@@ -362,7 +371,8 @@
       "Text": "هم رفیق ممتحن",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: دوستان ما در کنار هم در آزمون‌ها فعالیت می‌کنند."
     },
     {
       "VOrder": 16,
@@ -370,7 +380,8 @@
       "Text": "گر طبیعت پیکری گیرد همی",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: اگر طبیعت شکلی بپذیرد، هرگز شکلی غیر از تو را نمی‌پذیرد."
     },
     {
       "VOrder": 17,
@@ -386,7 +397,8 @@
       "Text": "نقش تو گیرد همی",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که تصویر یا تأثیر وجود تو در ذهن من نقش می‌بندد و در خاطر من باقی می‌ماند."
     },
     {
       "VOrder": 19,
@@ -394,7 +406,8 @@
       "Text": "ای طبیعت را نمودار کمال",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: ای طبیعت، تو تجلی کمال هستی که در دگرگونی‌ها، تغییرات و زیبایی‌ها نمودی پیدا می‌کنی."
     },
     {
       "VOrder": 20,
@@ -410,7 +423,8 @@
       "Text": "در قوانین و سنن",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: در قوانین و رسوم اجتماعی، افراد باید به اصول و قواعدی که مشخص شده‌اند، احترام بگذارند و بر اساس آن‌ها عمل کنند."
     },
     {
       "VOrder": 22,
@@ -418,7 +432,8 @@
       "Text": "گه چو سطح آب صافی بی‌غبار",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: گاهی انسان مانند سطح آرام و شفاف آب است که هیچ کدورتی ندارد و گاهی نیز همچون عمق‌های رازآلود دریا، پیچیده و ناگشوده."
     },
     {
       "VOrder": 23,
@@ -434,7 +449,8 @@
       "Text": "مبهم و تاریک و تار",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: این جمله به وضوح نشان‌دهنده یک حالت نامشخص و کم‌نور است. فضای اطراف، نه فقط از نظر فیزیکی بلکه از نظر احساسی نیز می‌تواند احساساتی مانند سردرگمی و ابهام را منتقل کند. در کل، فضایی که فهم آن دشوار و روشنایی‌اش کم است."
     },
     {
       "VOrder": 25,
@@ -442,7 +458,8 @@
       "Text": "گاه چون آیینه اسرارت عیان",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: گاهی رازهایت مانند یک آیینه نمايان می‌شود و گاه پنهان می‌ماند، مانند شانه‌ای که با هزار زبان سخن می‌گوید."
     },
     {
       "VOrder": 26,
@@ -458,7 +475,8 @@
       "Text": "در دو زلف پر شکن",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: در دو زلف لطیف و پرپیچ و خم تو،"
     },
     {
       "VOrder": 28,
@@ -466,7 +484,8 @@
       "Text": "گه به زنجیر شرافت پای‌بند",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: گاهی انسان به زنجیر افتخار و شرافت خود بسته می‌شود، مانند فرشته‌ای پاک و مثل آسمان بلند."
     },
     {
       "VOrder": 29,
@@ -482,7 +501,8 @@
       "Text": "چون ستاره ارجمند",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: مانند ستاره‌ای با ارزش و گرانبها، درخشان و برجسته."
     },
     {
       "VOrder": 31,
@@ -490,7 +510,8 @@
       "Text": "گه ز شهوت اوفتاده در خلاب",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: گاهی انسان به خاطر آرزوها و تمایلاتش به ورطه‌های خطرناک و بی‌نهایتی فرو می‌رود، همانند مار و وزغ که در گل‌ولای تیره و کثیف گرفتار می‌شوند."
     },
     {
       "VOrder": 32,
@@ -506,7 +527,8 @@
       "Text": "پای تا سر غوطه‌زن",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: تمام وجودش در حال غرق شدن است."
     },
     {
       "VOrder": 34,
@@ -514,7 +536,8 @@
       "Text": "گه گشاده بهر بلع خاص و عام",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: زمانی برای هر دو گروه خاص و عام، فرصتی فراهم شده است که مثل آتشکده نمرود، خواسته‌ها و آرزوهایشان را برآورده کنند."
     },
     {
       "VOrder": 35,
@@ -530,7 +553,8 @@
       "Text": "گه شده برد و سلام",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: گاهی اوقات با خوشحالی و سلام به یکدیگر ملاقات می‌کنیم."
     },
     {
       "VOrder": 37,
@@ -538,7 +562,8 @@
       "Text": "گاه گفته بهر طفلی شیرخوار",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: گاه لازم است برای نجات یا حمایت از یک کودک نوزاد، حتی از قوم و دیار و دوستی خود چشم پوشی کنیم."
     },
     {
       "VOrder": 38,
@@ -554,7 +579,8 @@
       "Text": "جسته در کوهی وطن",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: در دل کوه جایگاهی را جستجو می‌کند که منزلگاه او باشد."
     },
     {
       "VOrder": 40,
@@ -562,7 +588,8 @@
       "Text": "گاه موسی‌زاده‌، گاهی سامری",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: گاهی انسان‌هایی مانند موسی که حامل پیام و حقیقت هستند، وجود دارند و گاهی کسانی مثل سامری که به فریب و جادوگری روی می‌آورند. این نشان دهنده تنوع ویژگی‌های انسانی و انتخاب‌های متفاوت در مسیر زندگی است."
     },
     {
       "VOrder": 41,
@@ -578,7 +605,8 @@
       "Text": "گه در پیغمبری",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: در زمان‌هایی، به مقام پیامبری دست می‌یابی."
     },
     {
       "VOrder": 43,
@@ -586,7 +614,8 @@
       "Text": "گه بریده گردن یحیی به‌زار",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: گاهی اوقات یحیی را به قتل می‌رسانند و در مواقع دیگر، مسیحی که مظهر زندگی و پرورش است در کنار او حضور دارد."
     },
     {
       "VOrder": 44,
@@ -602,7 +631,8 @@
       "Text": "اینت پر اسرار زن",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: این زن پر از راز و رمز است."
     },
     {
       "VOrder": 46,
@@ -610,7 +640,8 @@
       "Text": "گاه ‌چون ‌جفت ‌اتابک شوی ‌خواه",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: گاهی اوقات وقتی مانند پرنده‌ای به نام آتابک می‌شوی، باید برای جفتت دست به آبیاری بزنید و تاجی به سر داشته باشی، و گاهی هم باید دستت را بشویی و از جفتت دور شوی."
     },
     {
       "VOrder": 47,
@@ -626,7 +657,8 @@
       "Text": "برده در کاشان پناه",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: در کاشان، پناهی پیدا کرده‌ام که آرامش و امنیت را برایم به ارمغان آورده است."
     },
     {
       "VOrder": 49,
@@ -634,7 +666,8 @@
       "Text": "گاه چون دخت اتابک بی‌وفا",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: گاهی مانند دختر اتابک، بی‌وفا و ناپایدار می‌شود و خود را در جاده‌ی لذت و شهوت گم می‌کند."
     },
     {
       "VOrder": 50,
@@ -650,7 +683,8 @@
       "Text": "زشت نام و شوم تن",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: زشت نام و بدشگون در جسم است."
     },
     {
       "VOrder": 52,
@@ -658,7 +692,8 @@
       "Text": "گاه «کلیوپاتره‌» و گاهی «‌همای‌»",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: گاهی به شکل «کلیوپاتره» و گاهی به صورت «همای» و گاهی هم در نقش «استر» دیده می‌شود که دختری از «مردخای» است."
     },
     {
       "VOrder": 53,
@@ -674,7 +709,8 @@
       "Text": "گه شده زرتشت زای",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: گاهی زرتشت به دنیا آمده است."
     },
     {
       "VOrder": 55,
@@ -682,7 +718,8 @@
       "Text": "گاه چون «کردیه‌» پوشیده زره",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: گاهی مانند «کردیه» که زره بر زره پوشیده و به سختی خود را آماده جنگ کرده، چون مردان دلیر و شجاع عمل می‌کند."
     },
     {
       "VOrder": 56,
@@ -698,7 +735,8 @@
       "Text": "گشته مردی صف‌شکن",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: مردی به سمت جلو آمده و خط را شکسته است."
     },
     {
       "VOrder": 58,
@@ -706,7 +744,8 @@
       "Text": "مختلف طبعی نه‌ای بر یک نمط",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: تو از نظر روحی و خلق و خو تغییرات زیادی نداری و در یک مسیر مشخص و ثابت حرکت می‌کنی، از شدت و ضعف فاصله‌ای نمی‌گیری."
     },
     {
       "VOrder": 59,
@@ -722,7 +761,8 @@
       "Text": "نیستی‌ حد وسط",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: وجود و عدم همیشه در کنار هم هستند؛ هیچ‌کدام نمی‌توانند به تنهایی وجود داشته باشند."
     },
     {
       "VOrder": 61,
@@ -730,7 +770,8 @@
       "Text": "گاه‌ خوب‌ خوبی‌ و گه زشت زشت",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: گاهی انسان خوبی‌های زیبا دارد و گاهی هم کارهای زشت و ناپسند انجام می‌دهد؛ یا به جایی بسیار بد می‌افتد، یا به بالاترین مقام و درجات می‌رسد."
     },
     {
       "VOrder": 62,
@@ -746,7 +787,8 @@
       "Text": ".................................",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: این دو خط به نوعی ابراز عشق و محبت می‌پردازد. شاعر از عشق خود به معشوق سخن می‌گوید و احساسات عمیق و پیوند عاطفی که با او دارد را توصیف می‌کند. عشق به گونه‌ای توصیف شده که گویی زندگی و وجود شاعر به معشوق وابسته است و بدون او، دنیا برایش خالی و بی‌معنی می‌باشد."
     }
   ]
 }

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای به سر برده خیره عمر طویل",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که عمر طولانی را فقط به بیهوده‌گویی و حرف‌های بی‌ارزش گذرانده‌ای."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "خبر آری که این روایت کرد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خبر این است که جعفر از سعد و سعد از اسماعیل این داستان را روایت کرده‌اند."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "که پسر بود دو مر آدم را",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به داستان دو برادر از نسل آدم اشاره دارد. یکی از آن‌ها که قابیل نام داشت، بزرگ‌تر و قوی‌تر بود، در حالی که هابیل، برادر کوچک‌تر، نرم‌خوتر و مهربان‌تر بود. این دو نفر نماد تضادهایی هستند که در زندگی بشر وجود دارد."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "مر کهین را خدای ما بگزید",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خداوند ما را انتخاب کرد تا مرگ وی را به دست حسد قابیل برساند."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "اندر این قصه نفع و فایده چیست؟",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این داستان چه سود و فایده‌ای نهفته است؟ آن را نشان بده و این طولانی‌گویی را کنار بگذار."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "گر مراد تو زین سخن قصه است",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر هدف تو از این سخن داستانی است، باید بگویم که این داستان نه‌تنها زیباست بلکه ارزشمند و ارجمند هم هست."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "چون نخوانی حدیث دعد و رباب",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر داستان دعد و رباب یا داستان بثینه و ان جمیل را نخوانی، چه خواهد شد؟"
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "کان ازین خوشتر است، داده بده",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بهتر از این است که با خوشحالی و آرامش از یکدیگر پذیرایی کنیم، خشم و کینه را کنار بگذاریم و دلیل و منطق را به میان بیاوریم."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "ور ندانی تو یار قابیلی",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نمی‌دانی، دوست من، کسی که در عذاب این دنیا باقی مانده، همچون قابیلی است که برای همیشه در رنج و عذاب زندگی می‌کند."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "نیست آگاهیت که پر مثل است",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای خردمند، آیا نمی‌دانی که همه چیز مانند پر است و بر اساس وحی و الهام نازل شده؟"
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "کعبه را می که خواست کرد خراب؟",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کدام شخصی تصمیم گرفت که کعبه را خراب کند؟ درباره‌ی واقعه‌ی فیل و جزئیات آن توضیح بده."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "گر ندانی که این مثل بر کیست",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نمی‌دانی این سخن درباره چه کسی است، بهتر است از مسیر بدی که به آن اشاره شده، دوری کنی."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "نیست تنزیل سوی عقل مگر",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ پیامی از دانایی به عقل نمی‌رسد مگر اینکه مانند آب زیر کاه، نیاز به تفسیر و تأویل داشته باشد."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "اندر افتی به چاه نادانی",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به دلیلی به درون چاه نادانی افتادی، هرگز نمی‌توانی راهی به سوی علم و دانش پیدا کنی."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "هیچ مردم مگر به نادانی",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ انسانی جز به خاطر جهل و نادانی، بر سر خود سنگ نمی‌زند."
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "هیچ کس دیده‌ای که گفت «منم",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس را نمی‌بینید که بگوید «من دشمن جبرئیل و میکائیل هستم»؟"
     },
     {
       "VOrder": 32,
@@ -255,7 +271,8 @@
       "Position": "Right",
       "Text": "یا چه گوئی سرای پیغمبر",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا می‌توانی بگویی که عقیل چه طور خانه پیامبر را به بی‌خبری و نادانی فروخت؟"
     },
     {
       "VOrder": 34,
@@ -269,7 +286,8 @@
       "Position": "Right",
       "Text": "بفگن از پشت خویش جهل و بدانک",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از پشت خود درک نکنید، زیرا نادانی بار سنگین و زشتی است."
     },
     {
       "VOrder": 36,
@@ -283,7 +301,8 @@
       "Position": "Right",
       "Text": "دل و همت بلند و روشن کن",
       "CoupletIndex": 18,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل را با انگیزه و امید پرنور کن؛ روشنایی آینده چه فایده‌ای دارد اگر قامت تو همچون شوق و آرزو بلند نباشد؟"
     },
     {
       "VOrder": 38,
@@ -297,7 +316,8 @@
       "Position": "Right",
       "Text": "چون نیاموختی چه دانی گفت؟",
       "CoupletIndex": 19,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر چیزی را یاد نگرفته‌ای، چگونه می‌دانی که باید چه بگویی؟ هیچ چیز از ظرف خالی بیرون نمی‌آید."
     },
     {
       "VOrder": 40,
@@ -311,7 +331,8 @@
       "Position": "Right",
       "Text": "کردی از بر قران و پیش ادیب",
       "CoupletIndex": 20,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو از قرآن و ادب دوری کردی و به سمت بی‌سر و سامانی رفتی، مثل سعدی که در کنار آموختن زبان عربی، صرف و نحو را نیز خوانده است."
     },
     {
       "VOrder": 42,
@@ -325,7 +346,8 @@
       "Position": "Right",
       "Text": "وانگهی «قال قال حدثنا»",
       "CoupletIndex": 21,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سپس گفته‌ای که \u0022گفته شد گفته‌اند\u0022 یک میلیون بار تکرار شده و کمتر شده است."
     },
     {
       "VOrder": 44,
@@ -339,7 +361,8 @@
       "Position": "Right",
       "Text": "چه به کار اینت؟ چون ز مشکل‌ها",
       "CoupletIndex": 22,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اینکه برای تو چه اهمیتی دارد؟ وقتی که از مشکلات آگاه نیستی، چه زیاد و چه کم."
     },
     {
       "VOrder": 46,
@@ -353,7 +376,8 @@
       "Position": "Right",
       "Text": "تا نرفتی به حج نه‌ای حاجی",
       "CoupletIndex": 23,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که به سفر حج نرفته‌ای، نمی‌توانی خود را حاجی بنامی، حتی اگر لباسی با رنگ آبی روشن به تن داشته باشی."
     },
     {
       "VOrder": 48,
@@ -367,7 +391,8 @@
       "Position": "Right",
       "Text": "تن به علم و عمل فریشته کن",
       "CoupletIndex": 24,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بدن خود را با دانش و عمل نیکو آراسته کن، تا نام تو همواره در میان نیکان و صالحان باقی بماند."
     },
     {
       "VOrder": 50,
@@ -381,7 +406,8 @@
       "Position": "Right",
       "Text": "تره و سرکه هست و نانت نیست",
       "CoupletIndex": 25,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا اشاره به کمبودها و نواقص است. به نوعی، زندگی با چیزهای ساده‌ای مثل تره و سرکه ادامه پیدا می‌کند، اما نان و قوت اصلی در دسترس نیست. همچنین، در اینجا به بروز نواقص جسمانی و ظاهری فرد اشاره شده که قامت او کوتاه و لباسش بلند است. به طور کلی، تصویری از عدم تناسب و احساس ناکامی در زندگی ارائه می‌دهد."
     },
     {
       "VOrder": 52,
@@ -395,7 +421,8 @@
       "Position": "Right",
       "Text": "آب و قندیل هست با تو ولیک",
       "CoupletIndex": 26,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آب و روشنایی وجود دارد، اما روغن لازم برای روشن نگه داشتن قندیل وجود ندارد."
     },
     {
       "VOrder": 54,
@@ -409,7 +436,8 @@
       "Position": "Right",
       "Text": "لاجرم چونت مرد پیش آید",
       "CoupletIndex": 27,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بنابراین وقتی که مردی در پیش تو قرار گرفت، باید به او توجه کنی و میل خود را به او نشان دهی."
     },
     {
       "VOrder": 56,
@@ -423,7 +451,8 @@
       "Position": "Right",
       "Text": "از تو زایل نگشت علت جهل",
       "CoupletIndex": 28,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عزرائیل، که به عنوان فرشته مرگ شناخته می‌شود، سبب مرگ انسان‌ها می‌گردد. اما حتی با وجود این، علت نادانی و جهل انسان از بین نمی‌رود. به عبارتی، مرگ برای انسان نمی‌تواند سبب آگاهی و دانایی او شود."
     },
     {
       "VOrder": 58,
@@ -437,7 +466,8 @@
       "Position": "Right",
       "Text": "با سبکسار کس مکن صحبت",
       "CoupletIndex": 29,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با افرادی که شخصیت و احترام خود را نمی‌شناسند، صحبت نکن تا در نظر دیگران بی‌ارزش و ذلیل نشوی."
     },
     {
       "VOrder": 60,
@@ -451,7 +481,8 @@
       "Position": "Right",
       "Text": "ز استر و محملت فرود افتی",
       "CoupletIndex": 30,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای پسر، چون بار و مسئولیت‌هایت سبک‌تر شده، به زمین فرود آمده‌ای."
     },
     {
       "VOrder": 62,
@@ -465,7 +496,8 @@
       "Position": "Right",
       "Text": "مگزین چیز بر سخا که ثنا",
       "CoupletIndex": 31,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به هیچ وجه سخاوت را کم ارزش مپندار، زیرا که می‌تواند مانند ستایش یک ماهی باشد و سخاوت در واقع برتر از آن است که به سادگی نادیده گرفته شود."
     },
     {
       "VOrder": 64,
@@ -479,7 +511,8 @@
       "Position": "Right",
       "Text": "دود دوزخ نبیند ایچ سخی",
       "CoupletIndex": 32,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که دستش باز است و به دیگران کمک می‌کند، عذاب‌های سخت را نخواهد دید، اما فرد بخیل و تنگ‌نظر هرگز طعم و بوی بهشت را نخواهد چشید."
     },
     {
       "VOrder": 66,
@@ -493,7 +526,8 @@
       "Position": "Right",
       "Text": "جز که در کار دین و جستن علم",
       "CoupletIndex": 33,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جز در امور دینی و تلاش برای کسب علم، در هیچ کاری عجله نکن."
     },
     {
       "VOrder": 68,
@@ -507,7 +541,8 @@
       "Position": "Right",
       "Text": "چون بود بر حرام وقف تنت",
       "CoupletIndex": 34,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که بدن تو در حال حرام است، زبانت نیز در مسیری اشتباه قرار می‌گیرد."
     },
     {
       "VOrder": 70,
@@ -521,7 +556,8 @@
       "Position": "Right",
       "Text": "به همه عمر مر تو را نبود",
       "CoupletIndex": 35,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شما در طول زندگیتان جز این که دیو زشت و شرور همواره همراه و حامی شما بوده، کسی را نداشته‌اید."
     },
     {
       "VOrder": 72,
@@ -535,7 +571,8 @@
       "Position": "Right",
       "Text": "ذوالجلال از تو هیچ راضی نیست",
       "CoupletIndex": 36,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ذوالجلال از تو هیچ رضایت ندارد، تو چرا در پی جلب رضایت مقام بزرگ هستی؟"
     },
     {
       "VOrder": 74,
@@ -549,7 +586,8 @@
       "Position": "Right",
       "Text": "بنکوهی جهود و ترسا را",
       "CoupletIndex": 37,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این اشاره دارد که به چه دلیل باید بر این دو گروه، یعنی یهودیان و مسیحیان، برتری یا فضیلت قائل شویم. به نوعی، شاعر می‌پرسد که چه دلیلی وجود دارد که بخواهیم این دو را از دیگران متمایز و برتر بدانیم."
     },
     {
       "VOrder": 76,
@@ -563,7 +601,8 @@
       "Position": "Right",
       "Text": "چون ندانی که فضل قرآن چیست",
       "CoupletIndex": 38,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر ندانید که ارزش و برتری قرآن در چیست، پس چه تفاوتی بین قرآن و انجیل برای شما وجود دارد؟"
     },
     {
       "VOrder": 78,
@@ -577,7 +616,8 @@
       "Position": "Right",
       "Text": "سیل مرگ از فراز قصد تو کرد",
       "CoupletIndex": 39,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مرگ به سرعت به سمت تو نزدیک می‌شود، پس برخیز و از مسیر خطرناک خارج شو."
     },
     {
       "VOrder": 80,
@@ -591,7 +631,8 @@
       "Position": "Right",
       "Text": "کرده‌ای هیچ توشه‌ای ره را؟",
       "CoupletIndex": 40,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا هیچ چیزی برای سفر خود آماده کرده‌ای؟ خوب نگاه کن و به خودت فکر کن."
     },
     {
       "VOrder": 82,
@@ -605,7 +646,8 @@
       "Position": "Right",
       "Text": "بنگر آن هول روز را که کند",
       "CoupletIndex": 41,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به آن روز وحشت‌زا نگاهی بینداز که ترس آن، کوه‌ها را هم به لرزه در می‌آورد."
     },
     {
       "VOrder": 84,
@@ -619,7 +661,8 @@
       "Position": "Right",
       "Text": "بد بدل شد به نیکت ار نکنی",
       "CoupletIndex": 42,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر با آنچه که خداوند برگزیده، نیکی نکنی، او به بدی تبدیل می‌شود."
     },
     {
       "VOrder": 86,
@@ -633,7 +676,8 @@
       "Position": "Right",
       "Text": "وز جهان علم دین بری و سخا",
       "CoupletIndex": 43,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از دنیای علم و دین دوری و فقط فراگیری حکمت و نصیحت تو را در مقام جانشینی قرار داده است."
     },
     {
       "VOrder": 88,
@@ -647,7 +691,8 @@
       "Position": "Right",
       "Text": "شعر حجت بدیل حجت‌دار",
       "CoupletIndex": 44,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شعر مانند دلیلی است که به جای دلیل اصلی می‌آید و پر از مفهوم‌های عالی و واژه‌های زیباست."
     },
     {
       "VOrder": 90,

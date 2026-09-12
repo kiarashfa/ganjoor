@@ -191,7 +191,8 @@
       "Text": "در این اندیشه شب را روز کردم",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: در این فکر و نگرانی، شب را به صبح رساندم و بارها برای دل خودم ناله و گریه کردم."
     },
     {
       "VOrder": 2,
@@ -207,7 +208,8 @@
       "Text": "چو از حد افق هنگام شبگیر",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: وقتی که شب به پایان می‌رسد و خورشید از افق بالا می‌آید، نمایی زیبا و شگفت‌انگیز از روشنایی در جهان شکل می‌گیرد."
     },
     {
       "VOrder": 4,
@@ -223,7 +225,8 @@
       "Text": "ز مشرق بر شفق زر می‌فشاندند",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: از سوی مشرق، نوری مانند زر بر افق می‌تاباندند، و با هنری زیبا، رنگ لعل را بر روی زر قرار می‌دادند."
     },
     {
       "VOrder": 6,
@@ -239,7 +242,8 @@
       "Text": "چراغ طالع شب تیره می‌شد",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: در تاریکی شب، روشنایی آینده به تدریج ظاهر می‌شد و سپاهی از روز بر شب غلبه پیدا می‌کرد."
     },
     {
       "VOrder": 8,
@@ -255,7 +259,8 @@
       "Text": "در آن ساعت سخن نوعی دگر شد",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: در آن لحظه، صحبت‌ها به نوع دیگری تبدیل شد و دعاهای صبحگاهی‌ام تاثیرگذار شد."
     },
     {
       "VOrder": 10,
@@ -271,7 +276,8 @@
       "Text": "ز ناگه پیک دولت می‌دوانید",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: به طور ناگهانی، پیام خوشبختی و شادکامی به من رسید و کسی خبر عشق و محبت معشوق را به من آورد."
     },
     {
       "VOrder": 12,
@@ -287,7 +293,8 @@
       "Text": "که دل خوش دار اینک یارت آمد",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: دل شاد باش، چرا که یارت دوباره به سراغت آمده و زندگی دوباره رونق یافته است."
     },
     {
       "VOrder": 14,
@@ -303,7 +310,8 @@
       "Text": "اگر چه مدتی رنجی کشیدی",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: هر چند که مدت زمانی را به زحمت گذراندی و سختی‌ها را تحمل کردی، در نهایت به نعمتی بزرگ و گرانبها رسیدی."
     },
     {
       "VOrder": 16,
@@ -319,7 +327,8 @@
       "Text": "غمی خوردی و غمخواری گرفتی",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: تو برای دیگری غم خوردی و به او محبت و دلداری دادی، در عوض ممکن است خودت هم اندوهی را تجربه کرده باشی."
     },
     {
       "VOrder": 18,
@@ -335,7 +344,8 @@
       "Text": "ز همت دانه‌ای در دام کردی",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: با تلاش و پشتکار خود، دانه‌ای را به دام کشاندی و با این زیابی جادوئی، پری را به اطاعت درآوردی."
     },
     {
       "VOrder": 20,
@@ -351,7 +361,8 @@
       "Text": "نشست آن مشفق دیرینه پیشم",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: عزیز دیرینم که همیشه به من محبت دارد، اکنون در کنار من نشسته است تا دردهایم را درمان کند و زخم‌های روحم را التیام بخشد."
     },
     {
       "VOrder": 22,
@@ -367,7 +378,8 @@
       "Text": "بمن پیغام دلبر باز میگفت",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: دلبرم باز هم پیامی می‌فرستاد و حکایت‌های غم‌انگیزی را برایم تعریف می‌کرد."
     },
     {
       "VOrder": 24,
@@ -383,7 +395,8 @@
       "Text": "زبان چون در پیام یار بگشود",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: وقتی زبانم به گفتن پیام یار باز شد، قلبم شاد و آرامش را در جانم احساس کردم."
     },
     {
       "VOrder": 26,
@@ -399,7 +412,8 @@
       "Text": "قدح از دست در بستان فکندم",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: در باغ قدح شراب را از دست رها کردم و کلاهم را که نماد شادی و نشاط بود از سر برداشتم و بر ایوان گذاشتم."
     },
     {
       "VOrder": 28,
@@ -415,7 +429,8 @@
       "Text": "رمیده بخت من سامان پذیرفت",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: بخت من که همیشه در فرار بود، حالا به آرامش رسیده و بیماری قدیمی من نیز درمان شده است."
     },
     {
       "VOrder": 30,
@@ -431,7 +446,8 @@
       "Text": "گل عیشم به باغ عمر بشکفت",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: در باغ زندگی‌ام گل شادمانی شکوفه زده بود و محبوبم به سراغم می‌آمد و خوشبختی در حال نوید دادن بود."
     },
     {
       "VOrder": 32,

@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "اگر شبها همه قدر بودی، شب قدر بی قدر بودی.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر شب‌ها همیشه قدر و ارزشمند بودند، شب قدر نیز دیگر ارزش خود را از دست می‌داد."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "گر سنگ همه لعل بدخشان بودی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تمام سنگ‌ها مانند لعل‌های بدخشان بودند، در این صورت ارزش لعل و سنگ برابر می‌بود."
     },
     {
       "VOrder": 3,

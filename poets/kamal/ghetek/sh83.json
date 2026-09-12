@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "هر که این هر دو قطعه بر خواند",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که این دو بخش را بخواند، باید آنچه قبلاً نوشتم را به خاطر داشته باشد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "پرسد از من که خواجه نیز ترا",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از من می‌پرسد که آیا خواجه هم مقدار زیادی غله برایت فرستاده است؟"
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "نیک باشد که من جوابش را",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خوب است که من پاسخ او را بنویسم که آیا او نیم‌جو هم به من خواهد داد؟"
     },
     {
       "VOrder": 6,

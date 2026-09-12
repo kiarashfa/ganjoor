@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "هر یکی از شهان بوقت شکار",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر یک از پادشاهان در زمان شکار، به واسطه‌ی شانس و بخت خود، دیگران را شکار می‌کنند."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "شاه یحیی چو عزم صید کند",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی شاه یحیی تصمیم به شکار می‌گیرد، دیگر شاهان از روی تخت خود فرار می‌کنند."
     },
     {
       "VOrder": 4,
@@ -55,7 +57,8 @@
       "Position": "Right",
       "Text": "باد پاینده تا جهان گیرد",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باد پایدار تا وقتی که دنیا برقرار است، با تلاش و کوشش شانس و اراده قوی همراه خواهد بود."
     },
     {
       "VOrder": 6,

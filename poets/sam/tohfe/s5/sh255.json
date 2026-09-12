@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "از دیار ری است و مردی بی تعین، این رباعی از اوست :",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: او از منطقه ری آمده و شخصیتی نامشخص دارد. این رباعی متعلق به اوست: "
     },
     {
       "VOrder": 3,
       "Position": "Right",
       "Text": "ای درد تو سرمایه ی درمان کسی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای درد تو منبع درمان دیگران است و این دل‌های بی‌قرار به خاطر توست."
     },
     {
       "VOrder": 4,
@@ -46,7 +48,8 @@
       "Position": "Right",
       "Text": "فریاد ز دست تو که از سنگدلی",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فریادی می‌زنم از نادانی تو که از بی‌رحمی‌ات حتی یک لحظه هم صدای کسی را نمی‌شنوی."
     },
     {
       "VOrder": 6,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ندانم از چه رو آشفته حالم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نمی‌دانم چرا حال‌ام این‌قدر خراب است و چه چیزی باعث شده که محبوب‌ام از من ناراحت شده است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "طبیبم اوست گاهی حال فایز",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او پزشک من است، اما گاهی حالِ من را نمی‌پرسد، در حالی که من مریض دارم."
     },
     {
       "VOrder": 4,

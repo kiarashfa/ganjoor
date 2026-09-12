@@ -691,7 +691,8 @@
       "Text": "جلایر! بر دعا ختم سخن کن",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای جلایر! سخن را با دعا به پایان برسان و در هر مجمعی از شاه ستایش کن."
     },
     {
       "VOrder": 2,
@@ -707,7 +708,8 @@
       "Text": "اگر حد ثنای او نداری",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: اگر نمی‌توانی او را به خوبی ستایش کنی و ارزشش را درک کنی، بهتر است از خدا بخواهی که او را حفظ کند."
     },
     {
       "VOrder": 4,
@@ -723,7 +725,8 @@
       "Text": "خداوندا وجودش از مکاره",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: خداوندا، وجود او را از بدی‌ها و آسیب‌هایی که ممکن است از ستاره‌ها ناشی شوند، حفظ کن."
     },
     {
       "VOrder": 6,
@@ -739,7 +742,8 @@
       "Text": "همه آمال اورا کن میسر",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: همه آرزوهای او را به حق شفاعت کن در روز قیامت."
     },
     {
       "VOrder": 8,
@@ -755,7 +759,8 @@
       "Text": "حسودش دل غمین خونین کفن باد",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: حسود با دل غمگین و افسرده‌ای که مانند کفن خونین به نظر می‌رسد، در همه جا و در هر جمعی احساس حقارت و خوار بودن می‌کند."
     },
     {
       "VOrder": 10,
@@ -771,7 +776,8 @@
       "Text": "جلایر! هر که دولت خواه باشد",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: ای جلایر! هر کسی که طالب نعمت و خوشبختی باشد، خداوند همواره خوبی و برکت را در کنار او قرار می‌دهد."
     },
     {
       "VOrder": 12,
@@ -787,7 +793,8 @@
       "Text": "چه غم داری ثناخوانی تو بر شاه",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: نگران نباش، زیرا ستودن تو از سوی شاه به خاطر محبت اوست و همین باعث خوشحالی تو می‌شود."
     },
     {
       "VOrder": 14,
@@ -803,7 +810,8 @@
       "Text": "جلایر نظم خوش رفتار آور",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: زیبایی نظم و ترتیب در کلام را مانند درخشندگی و جذابیتی که لؤلؤ دارد، معرفی کن."
     },
     {
       "VOrder": 16,
@@ -819,7 +827,8 @@
       "Text": "دُر ناسفته پر کن دامن خویش",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: گوهرهای ناب را در دامن خود بریز و برای راه محبوب قربانی کن، چه کم باشد و چه زیاد."
     },
     {
       "VOrder": 18,
@@ -835,7 +844,8 @@
       "Text": "حکایت کن یکی از عقل و از جهل",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: داستانی را روایت کن درباره عقل و جهل، که در کجاها عقل، جهل را نادیده و آسان می‌انگارد."
     },
     {
       "VOrder": 20,
@@ -851,7 +861,8 @@
       "Text": "اگر قابل نباشد ذات انسان",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: اگر انسان شایستگی نداشته باشد، به طور حتم از حیوان هم بدتر خواهد بود."
     },
     {
       "VOrder": 22,
@@ -867,7 +878,8 @@
       "Text": "اگر تخم گلی در شوره زاری",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: اگر در یک زمین بی‌ثمر و نامناسب، بذر گل بکاری، هیچ چیز جز خار و علف هرز نخواهد روئید."
     },
     {
       "VOrder": 24,
@@ -883,7 +895,8 @@
       "Text": "اگر خور شد مربی بهر اشیا",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: اگر خورشید برای اشیا تدبیر داشته باشد، در بیابان خشک و بدون آب تلاشش بیهوده خواهد بود."
     },
     {
       "VOrder": 26,
@@ -899,7 +912,8 @@
       "Text": "بجز خاری نروید از زمینش",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: از زمین کسانی که ناپاک و بداندیش هستند، هیچ چیز خوبی نمی‌روید. همنشینی با این افراد نیز خود ناباب و ناپسند است."
     },
     {
       "VOrder": 28,
@@ -915,7 +929,8 @@
       "Text": "نبات از روی ریشه سبز گردد",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: گیاه از ریشه‌اش سبز می‌شود و هرگز به اصل خود بازنمی‌گردد."
     },
     {
       "VOrder": 30,
@@ -931,7 +946,8 @@
       "Text": "گذر زین نقل و رو سوی قلمرو",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: از این نقل و داستان عبور کن و به دنیای جدیدی برو. درباره گذشته صحبت نکن و از نو نظم تازه‌ای بساز."
     },
     {
       "VOrder": 32,
@@ -947,7 +963,8 @@
       "Text": "همه اهل قلمرو جامه صد چاک",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: همه کسانی که در این سرزمین زندگی می‌کنند، به خاطر ظلم و بی‌شرمی و بی‌خود بودن عوامل ستمگر، دچار مشکلات و رنج‌های زیادی هستند."
     },
     {
       "VOrder": 34,
@@ -963,7 +980,8 @@
       "Text": "کلانتر با همه عمال و عباد",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: رئیسی به همراه تمام کارمندان و مردم به اردوگاه آمده است و با شکوه و اقتدار خود را نشان می‌دهد."
     },
     {
       "VOrder": 36,
@@ -979,7 +997,8 @@
       "Text": "به خاک پای شه کردند عرضی",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: بر روی زمین شه، شکایتی کردند، اما چه سودی داشت؟ چون همه چیز در دنیا به نوعی مقدر شده است."
     },
     {
       "VOrder": 38,
@@ -995,7 +1014,8 @@
       "Text": "که صیت عدل تو از مه به ماهی",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: خبر اوصاف عدالت تو به روشنی و زیبایی ماه مشهور شده است و احکامات تو به عنوان شواهدی معتبر شناخته می‌شوند."
     },
     {
       "VOrder": 40,
@@ -1011,7 +1031,8 @@
       "Text": "نه ما از جمله اخلاص کیشیم",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: ما از جمله افراد با اخلاص نیستیم و فقط دعاگو هستیم و در خدمت دیگران قرار داریم."
     },
     {
       "VOrder": 42,
@@ -1027,7 +1048,8 @@
       "Text": "نه ما یکسر وظیفه‌خوار شاهیم",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: ما تنها افراد بی‌مسئولیت در پیشگاه شاه نیستیم، بلکه همه ما خدمتگزارانی پاک و بی‌گناه هستیم."
     },
     {
       "VOrder": 44,
@@ -1043,7 +1065,8 @@
       "Text": "دعا گوئیم بر ذات شهنشاه",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: ما هر روز، هر ماه و در تمام سال برای ذات سلطانی دعا می‌کنیم."
     },
     {
       "VOrder": 46,
@@ -1059,7 +1082,8 @@
       "Text": "شهنشه داده بر کل اختیارت",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: پادشاه تمام اختیاراتش را به عدالت واگذار کرده و در جهان پرچم عدل را برافراشته است."
     },
     {
       "VOrder": 48,
@@ -1075,7 +1099,8 @@
       "Text": "رعایا و برایا راضی از شاه",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: مردم و رعیت از شاه راضی هستند و دیگر دست ظلم از کار افتاده است."
     },
     {
       "VOrder": 50,
@@ -1091,7 +1116,8 @@
       "Text": "عطا کردی به هرکس یک قراری",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: به هر کسی که عطا کردی، یک قرار و پیمان مشخصی را نیز به او داده‌ای که نشان‌دهنده‌ی لیاقت و شایستگی حکومت‌داری است."
     },
     {
       "VOrder": 52,
@@ -1107,7 +1133,8 @@
       "Text": "ولایت را سپردی بر برادر",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: ولایت و رهبری را به برادر سپردی، زیرا او برای تو همانند جانِ تو گران‌قدر و نزدیک بود."
     },
     {
       "VOrder": 54,
@@ -1123,7 +1150,8 @@
       "Text": "به زیر حکم او فرمان ندادی",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: تو زیر حکم او، از فرمان برداری فرار نکردی و درب عدالت و بخشش را بر ما باز کردی."
     },
     {
       "VOrder": 56,
@@ -1139,7 +1167,8 @@
       "Text": "همه شاکر، دعاگو، شاد گشتیم",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: همه ما به خاطر آزادی ظاهری‌ که پیدا کرده‌ایم، شکرگزار و خوشحال هستیم و دعا می‌کنیم."
     },
     {
       "VOrder": 58,
@@ -1155,7 +1184,8 @@
       "Text": "یکی از نوکران آشتیانی",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: یکی از خدمتگزاران آشتیانی که در مورد آن داستان شکایت‌هایی دارم."
     },
     {
       "VOrder": 60,
@@ -1171,7 +1201,8 @@
       "Text": "رئیسش ساختی بر پیر و برنا",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: تو با حکمت و دانایی خود، بر بزرگ و کوچک تأثیر گذاشتی و به واسطه‌ی همین حکمت، بر ما قدرت پیدا کردی."
     },
     {
       "VOrder": 62,
@@ -1187,7 +1218,8 @@
       "Text": "شبان شد بر غنم خوش گرگ پیری",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: در تاریکی شب، گرگی پیر و بی‌مروت بر گوسفندها چیره شده است، که نه از خدا می‌ترسد و نه از شیطان هراسی دارد."
     },
     {
       "VOrder": 64,
@@ -1203,7 +1235,8 @@
       "Text": "لباس میش در بر گرگ عاصی",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: گرگی که لباسی مانند میش به تن دارد، به شکلی خود را در میان مردم پنهان کرده است و مردم از او بدون نگرانی زندگی می‌کنند."
     },
     {
       "VOrder": 66,
@@ -1219,7 +1252,8 @@
       "Text": "چو فرصت یافت دندان تیز کرده",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: وقتی فرصتی به دست آورد، با نیت به دست آوردن اموال و جان افراد، به طرز زیرکانه‌ای پیشرفت کرد."
     },
     {
       "VOrder": 68,
@@ -1235,7 +1269,8 @@
       "Text": "چو خیزد کبک، پیش او شود مات",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: وقتی کبک پرواز می‌کند، هر چیزی که در برابرش باشد به حالت حیرت در می‌آید. آیا این را بارها از من نشنیده‌ای؟"
     },
     {
       "VOrder": 70,
@@ -1251,7 +1286,8 @@
       "Text": "به خون بی گناهان دسترس شد",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: به خاطر خودخواهی و غروری که داشت، به خون بی‌گناهان دسترسی پیدا کرد و تبدیل به کسی شد که خودش را در مقام قضاوت و نظارت بر دیگران می‌بیند."
     },
     {
       "VOrder": 72,
@@ -1267,7 +1303,8 @@
       "Text": "خیانت بر ولی‌نعمت نموده",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: به کسی که به او نیکی کرده‌ای خیانت کرده‌ای و به طور کامل درب ظلم و بی‌عدالتی را باز کرده‌ای."
     },
     {
       "VOrder": 74,
@@ -1283,7 +1320,8 @@
       "Text": "قرار آنچه بدادی از ره جود",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که به من بخشیدی، به خاطر generosity تو، اکنون در هر یک از دروازه‌های عدل بسته شده است."
     },
     {
       "VOrder": 76,
@@ -1299,7 +1337,8 @@
       "Text": "شر و شلتاق کارش صبح تا شام",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که روز و شب، گروهی از افراد در فعالیت‌های نادرست و خرابکاری مشغول هستند و او نیز در میان آن‌ها شاهد و شریک این فساد و ناپختگی است."
     },
     {
       "VOrder": 78,
@@ -1315,7 +1354,8 @@
       "Text": "سرانجام خلایق آخر کار",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: در نهایت، مردم دچار تفرقه و پراکندگی شدند و به نوعی خیانت و نیرنگ دچار گردیدند."
     },
     {
       "VOrder": 80,
@@ -1331,7 +1371,8 @@
       "Text": "تو مپسند ای شها این بدعت نو",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: ای پادشاه، این شیوه تازه را نپسند که دزدی بر سرزمین فرمانروایی می‌کند."
     },
     {
       "VOrder": 82,
@@ -1347,7 +1388,8 @@
       "Text": "نداند نام ام و باب و خویشش",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: او نمی‌داند که من چه کسی هستم و از کجا آمده‌ام و هیچ شرمی هم ندارد. این رفتار و کردار او نشان‌دهنده‌ی تسلیم به وضعیتی است که در آن قرار دارد."
     },
     {
       "VOrder": 84,
@@ -1363,7 +1405,8 @@
       "Text": "به حق آن خدای ذات بی چون",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: به درستی که خداوندی که وجودش بی‌نظیر است، به خاطر فرمانش، آسمان و زمین در حرکت و گردش هستند."
     },
     {
       "VOrder": 86,
@@ -1379,7 +1422,8 @@
       "Text": "به عرض و داد ما رس از عدالت",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: در مورد شکایت و رسیدگی به حق و حقوق ما، به انصاف و عدالت بیندیش که روز قیامت قرار است محاسبه‌ای صورت گیرد."
     },
     {
       "VOrder": 88,
@@ -1395,7 +1439,8 @@
       "Text": "چون بشنید این سخن آن شاه عادل",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: زمانی که آن شاه عادل این سخن را شنید، به خوبی تفاوت میان حق و باطل را درک کرد."
     },
     {
       "VOrder": 90,
@@ -1411,7 +1456,8 @@
       "Text": "ز خویشان بود یحیی خان در این گاه",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: یحیی خان در این زمان در برابر شاه ایستاده و از میان نزدیکانش به حساب می‌آید."
     },
     {
       "VOrder": 92,
@@ -1427,7 +1473,8 @@
       "Text": "بشد حکمش که آن زشت دغل را",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: حکم کرد که آن فرد زشت و مکار را به اردو بیاورند، کسی که دارای نقص‌ها و کاستی‌های بسیاری است."
     },
     {
       "VOrder": 94,
@@ -1443,7 +1490,8 @@
       "Text": "رقم صادر شد و گشت او روانه",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: رقم نوشته شد و او به راه افتاد، در حالیکه شب و روز را همواره می‌پیماید."
     },
     {
       "VOrder": 96,
@@ -1459,7 +1507,8 @@
       "Text": "همدان نارسیده این حکایت",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: همدان قبل از اینکه به مقصد برسد، این داستان را از آغاز تا پایان شنید."
     },
     {
       "VOrder": 98,
@@ -1475,7 +1524,8 @@
       "Text": "چو مجرم بود خوفش در دل افتاد",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: وقتی انسان احساس گناه می‌کند، ترس و نگرانیش در دلش جا می‌گیرد و مانند الاغی که در گل گیر کرده است، در افکار و غصه‌هایش غرق می‌شود."
     },
     {
       "VOrder": 100,
@@ -1491,7 +1541,8 @@
       "Text": "پس آنگه باز از خامی فراری",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: سپس از نادانی و ناپختگی خود فرار کرده و از بدبختی نجات پیدا کرده‌ام."
     },
     {
       "VOrder": 102,
@@ -1507,7 +1558,8 @@
       "Text": "ره امید را گم کرده یکسر",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: امید و هدف خود را از دست داده و کاملاً دور افتاده است، در حالی که در بروجرد به سر می‌برد و از ملایر فاصله گرفته است."
     },
     {
       "VOrder": 104,
@@ -1523,7 +1575,8 @@
       "Text": "حسام السلطنه آگه زکارش",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "هوش مصنوعی: حسام‌السلطنه وقتی متوجه شد که اوضاعش به هم ریخته و نابسامان است، به طور کلی از شرایط زندگی‌اش ناامید و نگران شد."
     },
     {
       "VOrder": 106,
@@ -1539,7 +1592,8 @@
       "Text": "بگفت: ای بی خبر بدبخت بدکار",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "هوش مصنوعی: او گفت: ای بی‌خبر و بدبخت، آیا از اعمال نادرست خود، هیچ احساس شرمساری نمی‌کنی؟"
     },
     {
       "VOrder": 108,
@@ -1555,7 +1609,8 @@
       "Text": "کس از امیدگاه خود گریزد",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "هوش مصنوعی: آیا کسی از جایی که به آن امید دارد فرار می‌کند در حالی که خود به دست خود زندگی‌اش را به خطر می‌اندازد؟"
     },
     {
       "VOrder": 110,
@@ -1571,7 +1626,8 @@
       "Text": "خلایق را پناه و ملجأ آنجا",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "هوش مصنوعی: مردم برای پناه و refuge به آن مکان می‌آیند، اما در واقع حقیقت آنجا فقط فرار تو است و جای واقعی ندارد."
     },
     {
       "VOrder": 112,
@@ -1587,7 +1643,8 @@
       "Text": "که یحیی خان رسیدش پس ز دنبال",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "هوش مصنوعی: یحیی خان به دنبال کسی رفت و وقتی او را دید، متوجه شد که حالش ناخوش و بدبخت است."
     },
     {
       "VOrder": 114,
@@ -1603,7 +1660,8 @@
       "Text": "بگفت: ای نابکار خائن شاه",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "هوش مصنوعی: او گفت: ای خائن و بدذات، چرا راه نیکی‌ها را فراموش کردی و از آن دور شدی؟"
     },
     {
       "VOrder": 116,
@@ -1619,7 +1677,8 @@
       "Text": "ندیدم چون تو کافر نعمت ای مرد",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "هوش مصنوعی: ای مرد، تا به حال کسی را ندیده‌ام که مانند تو ناسپاس باشد. سریعاً از پروردگار روی برمگردان و دقت کن."
     },
     {
       "VOrder": 118,
@@ -1635,7 +1694,8 @@
       "Text": "اگر تو تشنه‌ای این ره سراب است",
       "CoupletIndex": 59,
       "SectionIndex1": 0,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "هوش مصنوعی: اگر تو تشنه‌ای، این مسیر به سراب می‌رسد و آب واقعی در آن نیست. تلاش تو برای یافتن آب در این راه نادرست است."
     },
     {
       "VOrder": 120,
@@ -1651,7 +1711,8 @@
       "Text": "بجز نیکی و احسان‌ها چه دیدی",
       "CoupletIndex": 60,
       "SectionIndex1": 0,
-      "SectionIndex2": 62
+      "SectionIndex2": 62,
+      "CoupletSummary": "هوش مصنوعی: غیر از خوبی‌ها و کارهای نیک، چه چیز دیگری را مشاهده کردی که مانند دیوانگان از آن فراری شده‌ای؟"
     },
     {
       "VOrder": 122,
@@ -1667,7 +1728,8 @@
       "Text": "ندانی عظم و شحم و پوست و مویت",
       "CoupletIndex": 61,
       "SectionIndex1": 0,
-      "SectionIndex2": 63
+      "SectionIndex2": 63,
+      "CoupletSummary": "هوش مصنوعی: آیا نمی‌دانی که مغز و گوشت و پوست و موی تو از این پرورش یافته؟ لعنت بر چهره‌ات!"
     },
     {
       "VOrder": 124,
@@ -1683,7 +1745,8 @@
       "Text": "فراموشت شد این الطاف یک بار",
       "CoupletIndex": 62,
       "SectionIndex1": 0,
-      "SectionIndex2": 64
+      "SectionIndex2": 64,
+      "CoupletSummary": "هوش مصنوعی: فراموش کردی که همیشه محبت و لطف من بوده، حالا که در نهایت از من رو برگرداندی؟"
     },
     {
       "VOrder": 126,
@@ -1699,7 +1762,8 @@
       "Text": "همه دیدند و دانندت چه بودی",
       "CoupletIndex": 63,
       "SectionIndex1": 0,
-      "SectionIndex2": 65
+      "SectionIndex2": 65,
+      "CoupletSummary": "هوش مصنوعی: همه شاهد بودند و می‌دانند که وقتی به آذربایجان وارد شدی، چه ویژگی‌هایی داشتید."
     },
     {
       "VOrder": 128,
@@ -1715,7 +1779,8 @@
       "Text": "کنون چون طاغیان گمراه و سرمست",
       "CoupletIndex": 64,
       "SectionIndex1": 0,
-      "SectionIndex2": 66
+      "SectionIndex2": 66,
+      "CoupletSummary": "هوش مصنوعی: اکنون مانند طاغیان گمراه و سرمست، دم شیر وحشت را در دست گرفته‌ام."
     },
     {
       "VOrder": 130,
@@ -1731,7 +1796,8 @@
       "Text": "به خون خویش آلودی تو دستت",
       "CoupletIndex": 65,
       "SectionIndex1": 0,
-      "SectionIndex2": 67
+      "SectionIndex2": 67,
+      "CoupletSummary": "هوش مصنوعی: تو دستت را به خون خود آلودی و این کار برای تو سودی ندارد، بلکه فقط ضرر خواهد داشت."
     },
     {
       "VOrder": 132,

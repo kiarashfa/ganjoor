@@ -241,7 +241,8 @@
       "Text": "هنون رخصت شد و کرده زمین بوس",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: اکنون اجازه داده شد و زمین را به خاطر معشوق بوسه زد. معشوق گفت: ای خورشید، تو ناموس من هستی."
     },
     {
       "VOrder": 2,
@@ -257,7 +258,8 @@
       "Text": "به پای همت از جا خیز و بخرام",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: برای نشان دادن تلاش و اراده‌ات برخیز و با حرکت و شجاعت پیش برو، تا بتوانم معشوقه‌ام را در آغوش بگیرم و آرامش را در کنار او بیابم."
     },
     {
       "VOrder": 4,
@@ -273,7 +275,8 @@
       "Text": "به عزم وصل بر پشتم بنه پا",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: به قصد رسیدن به وصال معشوق، بر پشت من پا بگذار و در این کشتی سفر کن تا به آسانی از دریا عبور کنیم."
     },
     {
       "VOrder": 6,
@@ -289,7 +292,8 @@
       "Text": "پری گفتا چو جانم رفته باید",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: پری گفت که حالا که جانم رفته، باید بروم، اما چندین چیز مانع این کار می‌شود."
     },
     {
       "VOrder": 8,
@@ -305,7 +309,8 @@
       "Text": "یکی از من چو راون گردد آگاه",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: وقتی یکی از من به حالت هیجان یا شور و شوق بیفتد، سپاهی از توانایی‌ها و امکاناتش می‌تواند بر همه موانع و مشکلات غلبه کند و راه را برایش هموار سازد."
     },
     {
       "VOrder": 10,
@@ -321,7 +326,8 @@
       "Text": "تو تنها یا مرا کردی نگهبان",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: تو یا مرا به عنوان نگهبان خود انتخاب کرده‌ای یا اینکه خودت به قلب دشمنان آسیب می‌زنی."
     },
     {
       "VOrder": 12,
@@ -337,7 +343,8 @@
       "Text": "دویم جستن ز دریا جای بیم است",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: خروج از دریا به معنای ترس است، زیرا بدن تو کوچک و دریا بسیار بزرگ و وسیع است."
     },
     {
       "VOrder": 14,
@@ -353,7 +360,8 @@
       "Text": "ز غرق خود ندارم آن قدر غم",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: از شدت مشکلات و دغدغه‌های خود، به حدی ناراحت نیستم که مرگ برایم آسان‌تر از زندگی باشد."
     },
     {
       "VOrder": 16,
@@ -369,7 +377,8 @@
       "Text": "از آن ترسم چو گشتم غرق در آب",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: می‌ترسم که وقتی در آب غرق شوم، به جای نجات، در آتش هم گرفتار شوم."
     },
     {
       "VOrder": 18,
@@ -385,7 +394,8 @@
       "Text": "سوم گفتا منم همخوابۀ رام",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: سوم گفت: من همسر او هستم که از او زنده است هم ناموس و هم نام."
     },
     {
       "VOrder": 20,
@@ -401,7 +411,8 @@
       "Text": "همین بس نیست عیب روی سیتا",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: این کافی نیست که فقط به زیبایی ظاهری سیتا توجه کنیم، زیرا او آن زیبایی را در دزدی و ربودن به لنکا از دست داده است."
     },
     {
       "VOrder": 22,
@@ -417,7 +428,8 @@
       "Text": "برو مفزای عیب جاودانه",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: به دنبال عیب‌های همیشگی نرو، زیرا ممکن است آن‌ها را به خانه‌ات ببری و زندگی‌ات را تحت تأثیر قرار دهند."
     },
     {
       "VOrder": 24,
@@ -433,7 +445,8 @@
       "Text": "درین غم انتظار رام بینم",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: در این دلتنگی انتظار، خیلی از درد و رنج روزگار را می‌بینم."
     },
     {
       "VOrder": 26,
@@ -449,7 +462,8 @@
       "Text": "گرم بخت موافق یار باشد",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: اگر بخت انسان با همسرش همراه باشد، نسیم خوشبختی و راحتی از جانب معشوق خواهد وزید."
     },
     {
       "VOrder": 28,
@@ -465,7 +479,8 @@
       "Text": "بیاید رام، راون را کُشد زود",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: بیایید آرام باشیم، زیرا روزی که من از سرنوشت خود ناخشنود شوم، دل خوشی را به سرعت از بین می‌برد."
     },
     {
       "VOrder": 30,
@@ -481,7 +496,8 @@
       "Text": "هنون گفتا دو تقریر نخستین",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: او می‌گوید که سخن ابتدایی من منطقی و معقول نیست و نمی‌توان آن را به‌راحتی پذیرفت."
     },
     {
       "VOrder": 32,
@@ -497,7 +513,8 @@
       "Text": "که هستم آن جوان شیر صف آرای",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: من جوانی هستم شجاع و دلیر که می‌توانم سرزمین لنکا را به لرزه درآورم و از جای خود برکنم."
     },
     {
       "VOrder": 34,
@@ -513,7 +530,8 @@
       "Text": "غم دریا و بیم دشمنم نیست",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: غمِ دریا و ترس از دشمن برای من اهمیتی ندارد، زیرا در برابر این مسائل، احساس ناکامی و پستی را نمی‌پذیرم."
     },
     {
       "VOrder": 36,
@@ -529,7 +547,8 @@
       "Text": "چو تقریر پسین از تو شنفتم",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: وقتی آخرین سخنانت را شنیدم، تصمیم گرفتم که تو را ترک کنم و به سمت دیگری بروم."
     },
     {
       "VOrder": 38,
@@ -545,7 +564,8 @@
       "Text": "دم رخصت دعایش را پریزاد",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: در زمان وداع، پری زیبایی دعای خود را به آسمان بلند کرده و او را به عنوان استاد معرفی کرده است."
     },
     {
       "VOrder": 40,
@@ -561,7 +581,8 @@
       "Text": "که تا ماند ز عشق ما فسانه",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: خدایا، خواهش می‌کنم که نام عشق ما همیشه در جهان پایدار بماند و یاد آن زنده بماند."
     },
     {
       "VOrder": 42,

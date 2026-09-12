@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "الهی تا بتو آشنا شدم، از خلق جدا شدم، در دو جهان شیدا شدم، نهان بودم و پیدا شدم",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که به تو نزدیک شدم، از مردم دور شدم و در این دو جهان، شاداب و سرمست شدم. قبلاً در خفا بودم و حالا پیدا شده‌ام."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "نی از تو حیات جاودان می خواهم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از تو زندگی جاویدان نمی‌طلبم و نه از لذت‌ها و خوشی‌های دنیا."
     },
     {
       "VOrder": 3,
@@ -46,7 +48,8 @@
       "Position": "Right",
       "Text": "نی کام دل و راحت جان می خواهم",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من آرامش دل و راحتی جانم را می‌خواهم و هر چیزی که مورد پسند توست، همان را می‌طلبم."
     },
     {
       "VOrder": 5,

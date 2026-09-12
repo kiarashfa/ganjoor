@@ -291,7 +291,8 @@
       "Text": "روزی از آنجا که فراغی رسید",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "روزی که وقت فراغ و تفریح بود، باد سلیمان به شمعی رسید و آن‌را آزرد. (سلیمان بر باد سفر می‌کرده است. همچنین باد کنایه از غرور نیز می‌تواند باشد)"
     },
     {
       "VOrder": 2,
@@ -307,7 +308,8 @@
       "Text": "مملکتش رخت به صحرا نهاد",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "او و همراهانش در صحرا اقامت افکندند و تخت و نشستن‌گاه و خیمه خود را بر تخته مینا گذاشت. (مینا در اینجا منظور سنگ زمرد است که سبز است یعنی بر چمن‌زار و سبزه صحرا)"
     },
     {
       "VOrder": 4,
@@ -323,7 +325,8 @@
       "Text": "دید به‌نوعی که دلش پاره گشت",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "از دیدن برزگر پیری که در آن بیابان ساده و صاف بود‌، دلش غمگین شد."
     },
     {
       "VOrder": 6,
@@ -339,7 +342,8 @@
       "Text": "خانه ز مشتی غله پرداخته",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "مشتی غله را از خانه آورده و در غله‌دان و مزرعه بخشش ریخته بود."
     },
     {
       "VOrder": 8,
@@ -355,7 +359,8 @@
       "Text": "دانه‌فشان گشته به هر گوشه‌ای",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "او هر گوشه را بذر کاشته و دانه‌فشانی کرده بود و از هر دانه خوشه‌ای روییده بود."
     },
     {
       "VOrder": 10,
@@ -371,7 +376,8 @@
       "Text": "پردهٔ\u00A0آن دانه که دهقان گشاد",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "راز آن دانه‌ها که دهقان گشوده بود باعث شد که سلیمان به صحبت بپردازد."
     },
     {
       "VOrder": 12,
@@ -387,7 +393,8 @@
       "Text": "گفت جوانمرد شو ای پیرمرد",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "به او گفت: جوانمرد شو ای پیرمرد، روزی تو همین بود که می‌بایست خوردن."
     },
     {
       "VOrder": 14,
@@ -403,7 +410,8 @@
       "Text": "دام نه‌ای دانه فشانی مکن",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "تو دام نیستی دانه‌افشانی و کشت مکن‌، در برابر همچون منی‌، مرغ‌زبانی مکن."
     },
     {
       "VOrder": 16,
@@ -419,7 +427,8 @@
       "Text": "بیل نداری گِل صحرا مخار",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "بیل نداری‌، گل و خاک صحرا را شخم مزن‌، آب نخواهی یافت جو دهقان را کشت مکن."
     },
     {
       "VOrder": 18,
@@ -435,7 +444,8 @@
       "Text": "ما که به سیراب‌زمین کاشتیم",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "ما که در زمین‌های مرغوب کاشتیم (و این همه داریم)، از آنچه کردیم و کاشتیم، چه بهره بردیم؟"
     },
     {
       "VOrder": 20,
@@ -451,7 +461,8 @@
       "Text": "تا تو درین مزرعهٔ دانه‌سوز",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "تا تو از این مزرعه خشک بدست آوری و با رنج و تشنگی، روزی بدست بیاوری؟"
     },
     {
       "VOrder": 22,
@@ -467,7 +478,8 @@
       "Text": "پیر بدو گفت مرنج از جواب",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "آن پیر به او گفت‌: از پاسخ من مرنج، من از خاک و آب، روزی خود را نمی‌گیرم."
     },
     {
       "VOrder": 24,
@@ -483,7 +495,8 @@
       "Text": "با تر و با خشک مرا نیست کار",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "با تر و خشک و کم و زیاد کاری ندارم، دانه را من می‌کارم و خدا پرورش می‌دهد."
     },
     {
       "VOrder": 26,
@@ -499,7 +512,8 @@
       "Text": "آب من اینک عرق پشت من",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "آب من، عرق زحمت و کار من است و بیل من‌، دست‌ها و انگشت‌هایم."
     },
     {
       "VOrder": 28,
@@ -515,7 +529,8 @@
       "Text": "نیست غم ملک و ولایت مرا",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "در فکر و حسرت ملک و ولایت نیستم، تا روزی که هستم این اندک دانه و غله، مرا کفایت می‌کند."
     },
     {
       "VOrder": 30,
@@ -531,7 +546,8 @@
       "Text": "آنکه بشارت به خودم می‌دهد",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "آن‌کسی که مرا به خودش امید می‌دهد‌، همان او از یک دانه، هفتصد دانه به من می‌دهد."
     },
     {
       "VOrder": 32,
@@ -547,7 +563,8 @@
       "Text": "دانه به انبازی شیطان مکار",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "با شیطان و ابلیس بدکار شریک مشو تا سود ببری و از یک دانه هفتصد، حاصل کنی."
     },
     {
       "VOrder": 34,
@@ -563,7 +580,8 @@
       "Text": "دانهٔ شایسته بباید نخست",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "شرط اول آن است که دانه نیک و شایسته و مناسب بکاری تا خوشه‌ای پربار بدهد و رشد کند."
     },
     {
       "VOrder": 36,
@@ -579,7 +597,8 @@
       "Text": "هر نظری را که برافروختند",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هر دیده و عقلی را که روشن کردند، جامه و لباس او را به‌اندازه‌اش دوختند."
     },
     {
       "VOrder": 38,
@@ -595,7 +614,8 @@
       "Text": "رخت مسیحا نکشد هر خری",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "رخت مسیحا را هر خری نمی‌کشد، محرم و یار نیک‌بختی و سعادت، هر کسی نمی‌شود."
     },
     {
       "VOrder": 40,
@@ -611,7 +631,8 @@
       "Text": "کرگدنی گردن پیلی خورد",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "آنکه گردن پیل می‌خورد کرگدن است و آدم کوچک هم به چیزهای کوچک و حقیر چشم می‌دوزد."
     },
     {
       "VOrder": 42,
@@ -627,7 +648,8 @@
       "Text": "بحر به صد رود شد آرام گیر",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "صد رود به دریا می‌ریزد و دریا آرام است اما جوی کوچک با یک سیل به خروش می‌آید"
     },
     {
       "VOrder": 44,
@@ -643,7 +665,8 @@
       "Text": "هست در این دایرهٔ لاجورد",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "در زیر این فلک و آسمان کبود، قدر و مرتبه هرکس به اندازه شایستگی اوست."
     },
     {
       "VOrder": 46,
@@ -659,7 +682,8 @@
       "Text": "دولتی‌یی باید صاحب درنگ",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "آدم نیک‌بختی لازم است و صبور تا از یک ذره ناز و نعمت مغرور نشود!"
     },
     {
       "VOrder": 48,
@@ -675,7 +699,8 @@
       "Text": "هر نفسی حوصلهٔ\u00A0ناز نیست",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هر کسی صبر و تحمل ناز و نعمت را ندارد، هر سینه‌ای صاحب‌راز نیست!"
     },
     {
       "VOrder": 50,
@@ -691,7 +716,8 @@
       "Text": "ناز نگویم که ز خامی بود",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "چیزی از ناز نمی‌گویم که گفتن آن از خامی است، نازکشی کار و پیشه نظامی است."
     },
     {
       "VOrder": 52,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "یکی شعر سلمان زمن بنده خواست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک نفر از سلمان خواسته که شعری از او را برایش بنویسد، اما او در دفترش چیزی درباره آن شعر پیدا نکرده است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "بدو گفتم آن گفته های چو آب",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به او گفتم که آن گفته‌ها مانند آبی هستند که به هیچ در ورودی به بهشت نمی‌رسند."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "من از بهر تو مینوشتم و لیک",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به خاطر تو می‌نوشتم، اما حرف‌های او برای من هیچ ارزشی ندارد."
     },
     {
       "VOrder": 6,

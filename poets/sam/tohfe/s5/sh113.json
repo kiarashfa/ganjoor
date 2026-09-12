@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "از ابریشم فروشی اوقات میگذراند و گاهی شعر نیز میگوید این مطلع از اوست :",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: او در فروش ابریشم وقت خود را می‌گذراند و گاهی نیز شعر می‌سراید."
     },
     {
       "VOrder": 3,
       "Position": "Right",
       "Text": "جز خیال دهنت هیچ نیاید بنظر",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جز تصور سخن تو چیزی در نظر نمی‌رسد، و دهان تو که کم‌حجم است، جز در تصور چیز دیگری نمی‌تواند باشد."
     },
     {
       "VOrder": 4,

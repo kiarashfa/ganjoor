@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "این چه فرخنده خیمه این چه سر است",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این چه چادر خوش‌یمن و پر برکت است؟ این چه سر و ناز است؟ آسمانی است که از زمین به وجود آمده."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "خانه راحتست و مامن عیش",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خانه آرامش و جایگاه لذت، کعبه مردم یا بهشت خداوند محسوب می‌شود."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "میخش از شاخ طوبی است و سزد",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این شعر به زیبایی و شکوه اشاره دارد. میخ آن از درختی مقدس به نام طوبی ساخته شده و مناسب است که طناب آن از گیسوان زیبای حوریان باشد. در واقع، شاعر با این تعبیر به ارزش و زیبایی آنچه که به عنوان میخ و طناب معرفی شده، اشاره می‌کند."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "همه طرحش خیال خاص بود",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تمام نقشه‌های او خاص و منحصر به فرد بود و این خیال، بهتر از آنچه در ذهن نایدر بود، است."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "بتماشا در آ که گلزارش",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به تماشای آن بپرداز که باغش روشنایی بخش دیدگان بیناست."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "گل باغش که تازه است مدام",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس نمی‌داند که گل‌های تازه‌ی این باغ چگونه و به چه دلایلی سرسبز و زیبا شده‌اند."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "نو بهاریست کز خزان دور است",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بهار جدیدی فرا رسیده که از زمستان دور است و در تمام فصول سال، زیبایی آن شنیده و به نمایش گذاشته می‌شود."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "پیش نقش ختایی یی که دروست",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در برابر تصویر زیبای ختایی، تو که وصف نقاش چین را می‌گویی، باید بدانی که این کار نادرست است."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "سایه چتر شاه بر سر اوست",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چتر شاه بر سر او سایه افکنده است و اگر این سایه بر آسمان نیز بیفتد، جایز و درست است."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "خسرو عهد شاه اسماعیل",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خسرو در زمان شاه اسماعیل کسی است که مانند کیخسرو، بزرگ و با شکوه است، اما در واقعیت، موقعیت او به اندازه یک گدا نیز نیست."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "بار گاهش ز آسمان بگذشت",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هجرت و سفر او از آسمان گذشته است و خیمه‌اش به خاطر مقام و جایگاهش به قدری بلند است که از آنجا بر دیگران سایه افکنده."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "هر کجا خیمه زد بقصد عدو",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر جا که دشمن باشد، تیر و کمان او هم آماده است و نشانه‌گیری می‌کند."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "نیزه او ستون اسلام است",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سلاح او وسیله‌ای برای حمایت از اسلام است و بنیاد قوانین و مذهب به او وابسته است."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "چتر او هر کجا که سایه فکند",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر جا که او سایه افکند، هزاران نفر زیر این سایه آرامش می‌یابند."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "صحن بزمش ر بس زر افشانی",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: محیط جشن او پر از زرق و برق و زیبایی است، مانند چمنی که شادابی و سرزندگی را در فضا منتشر می‌کند."
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "تا ابد باد زیر خیمه چرخ",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا ابد، باد حمایت‌گر و پشتیبان زیر خیمه زندگی‌مان باشد و سایه خوشبختی‌اش همیشه بر سر ما بماند."
     },
     {
       "VOrder": 32,

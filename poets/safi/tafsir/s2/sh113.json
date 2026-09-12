@@ -337,7 +337,8 @@
       "Text": "ای خدا ما را به فضل خود ببخش",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: خدایا، ما را با رحمت خود آمرزش بده و اگر اشتباهات ما از حد گذشته، آنها را نیز ببخش."
     },
     {
       "VOrder": 2,
@@ -353,7 +354,8 @@
       "Text": "گر که نگذشتیم ما از فعل زشت",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: اگر از کار ناپسند ما بگذرند، تو هم باید از رفتار بد برخی افراد بگذری."
     },
     {
       "VOrder": 4,
@@ -369,7 +371,8 @@
       "Text": "تو توانی هر بدی را خوب کرد",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: تو می‌توانی هر زشتی را به زیبایی تغییر دهی و آنچه را که ناپسند است، محبوب و دلپذیر کنی."
     },
     {
       "VOrder": 6,
@@ -385,7 +388,8 @@
       "Text": "گر سرشت ماست بد، نیکوش کن",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: اگر ذات ما بد است، آن را به خوبی تغییر دهیم. اگر منزل ما گلی و کثیف است، پس همانطور که هست، نوشیدن را ادامه بدهیم."
     },
     {
       "VOrder": 8,
@@ -401,7 +405,8 @@
       "Text": "عجز و استدعاست از ما، وز تو جود",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: ما در ناتوانی و درخواست از تو هستیم، پس با generosity و بخشندگی‌ات ما را یاری کن، زیرا وجود ما نتیجه‌ی بخشندگی توست."
     },
     {
       "VOrder": 10,
@@ -417,7 +422,8 @@
       "Text": "ما فقیریم از دو صد ره ای غنی",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: ما فقیر هستیم، اما تو از هر طرف ثروتمند هستی و ثروتت برای تامین امنیت فقیران به کار می‌آید."
     },
     {
       "VOrder": 12,
@@ -433,7 +439,8 @@
       "Text": "احتیاج و فقرِ ما ناید به گفت",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: نیاز و فقر ما نیازی به توضیح ندارد، زیرا تو خود بهتر می‌دانی که در زندگی چیزی مشابه و برابر نداری."
     },
     {
       "VOrder": 14,
@@ -449,7 +456,8 @@
       "Text": "از تو نامد غیر نیکی در عیان",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: از تو جز خوبی‌ها در ظاهر دیده نمی‌شود و از من جز بدی‌ها و اشتباهات و ضررها نمایان نیست."
     },
     {
       "VOrder": 16,
@@ -465,7 +473,8 @@
       "Text": "تو همانی ای خدای فرد پاک",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: تو ای خدای بزرگ و پاک، همان کسی هستی که آفرینش ما را از آب و خاک به وجود آوردی."
     },
     {
       "VOrder": 18,
@@ -481,7 +490,8 @@
       "Text": "من همان خاکم که بودم در نخست",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: من همان خاکی هستم که از ابتدا بوده‌ام، خاکی که همیشه وجود داشت، چه در حالت نادرست باشد و چه درست."
     },
     {
       "VOrder": 20,
@@ -497,7 +507,8 @@
       "Text": "خاک، سر تا پاست عجز و احتیاج",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: زمین و طبیعت، از ابتدا تا انتها نشانگر ناتوانی و نیازمندی‌های ماست؛ نواقص، خطاها و کج‌روی‌ها در آن وجود دارد."
     },
     {
       "VOrder": 22,
@@ -513,7 +524,8 @@
       "Text": "پس به هر گامی بلغزد گر پی ام",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: با هر قدمی که برمی‌دارم، ممکن است لغزشی پیش بیاید. اگر به دنبالم می‌آیی، لطفاً مرا ببخش؛ زیرا من چیزی جز خاک نیستم."
     },
     {
       "VOrder": 24,
@@ -529,7 +541,8 @@
       "Text": "این دعای ما هم از تلقین توست",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: دعای ما نیز به دلیل آموزش‌های توست و اگر تو بخواهی، این دعا به حقیقت می‌پیوندد."
     },
     {
       "VOrder": 26,
@@ -545,7 +558,8 @@
       "Text": "هوش دادی پس زبان و چشم و گوش",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: به تو عقل و شعور بخشیده‌اند، اما زبان و چشم و گوش تو به این دنیا و امور پستش بی‌اعتنا هستند و از خود هیچ نمی‌گویند."
     },
     {
       "VOrder": 28,
@@ -561,7 +575,8 @@
       "Text": "کت بخوانم با هزاران لابه من",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: با تلاش و زحمت بسیار کتاب می‌خوانم، اما با این حال، می‌دانم که چه مشکلاتی در مسیر من وجود دارد."
     },
     {
       "VOrder": 30,
@@ -577,7 +592,8 @@
       "Text": "عقل هم بیگانه زین ادراک بود",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: عقل نیز از این درک بیگانه است، زیرا وجود تو از فکر و تعقل خالی است."
     },
     {
       "VOrder": 32,
@@ -593,7 +609,8 @@
       "Text": "کس نداند جز تو وجه رابطه",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس جز تو نمی‌داند که چه چیزی باعث شده است عقل از وضعیت ناپسند و نادرست جدا شود و به کمال برسد."
     },
     {
       "VOrder": 34,
@@ -609,7 +626,8 @@
       "Text": "تا که داند یا که بشناسد کست",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که کسی نتواند دل را بشناسد یا بفهمد، او از اسرار خدا آگاه نخواهد شد."
     },
     {
       "VOrder": 36,
@@ -625,7 +643,8 @@
       "Text": "مع به قیّومیّتی با ممکنات",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: وجود تو با قادرت بودن برای آفریدن، هیچ تناقضی با پاکی و بی‌نقصی ذاتی‌ات ندارد."
     },
     {
       "VOrder": 38,
@@ -641,7 +660,8 @@
       "Text": "یا که با معلول ربط علت است",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: یا اینکه معلول به علتش ارتباط دارد، یا اینکه حتی این ارتباط هم وجود ندارد و تنها یک وحدت ساده است."
     },
     {
       "VOrder": 40,
@@ -657,7 +677,8 @@
       "Text": "خود تویی یعنی که بر خود عارفی",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: تو خودت هستی، یعنی هیچ کس جز تو نمی‌تواند تو را بشناسد و توصیف کند."
     },
     {
       "VOrder": 42,
@@ -673,7 +694,8 @@
       "Text": "این عدمها که به هست آورده ای",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: این عدم‌هایی که به وجود آورده‌ای، چیزی نیست جز پرده‌ای بر روی حقیقت وجود."
     },
     {
       "VOrder": 44,
@@ -689,7 +711,8 @@
       "Text": "هستی ما نیست جز نقش علم",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: وجود ما فقط تصویر و نمود علم است، که به قلم نقاشی شده و در نظر و اندیشه آمده است."
     },
     {
       "VOrder": 46,
@@ -705,7 +728,8 @@
       "Text": "یک قلم زد عالم و افلاک شد",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: یک قلم از جانب خداوند بر همه جهانیان زده شد و به سبب آن، آسمان‌ها و زمین به خاک تبدیل شدند؛ هیچ چیزی در برابر عظمت تو شایسته نیست."
     },
     {
       "VOrder": 48,
@@ -721,7 +745,8 @@
       "Text": "خاک کی از بود خویش آگاه بود",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: خاک یا زمین هرگز از وجود خود و آنچه هست، آگاه نبوده و نمی‌داند که چگونه به آن درگاه و مقام رسیده است."
     },
     {
       "VOrder": 50,
@@ -737,7 +762,8 @@
       "Text": "خاک را چون را ه دادی ز ابتدا",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: اگر از ابتدا به خاک، که راهی برای کامیابی است،‌ فرصتی دادی، پس آن را به خاطر آلودگی‌های ما ببند."
     },
     {
       "VOrder": 52,
@@ -753,7 +779,8 @@
       "Text": "آنچه از ما شد عیان تقصیر بود",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: آنچه که از ما نمایان شد نقایص و اشتباهات بود، و اگر تقدیر چنین نبود، تو می‌بخشیدی."
     },
     {
       "VOrder": 54,
@@ -769,7 +796,8 @@
       "Text": "کی مقدر بود عصیان بهر کس",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس تقدیر نشده که در مسیر نافرمانی قرار گیرد، بلکه همه چیز به خاطر رحمت و بخشش خداوند است."
     },
     {
       "VOrder": 56,
@@ -785,7 +813,8 @@
       "Text": "پیش از آن کآید گناهی در وجود",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: قبل از اینکه گناهی مرتکب شود، درب رحمت بر روی گنهکاران باز شده است."
     },
     {
       "VOrder": 58,
@@ -801,7 +830,8 @@
       "Text": "باب رحمت باش هر دم بازتر",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: هر لحظه درهای رحمت را به روی گناهکاران بیشتر بگشای و با صدای بلندتری پیغام بخشش و محبت را برسان."
     },
     {
       "VOrder": 60,
@@ -817,7 +847,8 @@
       "Text": "تا درآیند اهل عصیان از درت",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: وقتی که اهل نافرمانی وارد شوند، از درگاه تو نعمت و بخشش فراوانی دریافت خواهند کرد."
     },
     {
       "VOrder": 62,

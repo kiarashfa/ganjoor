@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "امارت گرفت افتخاری دگر",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ساختمان‌سازی موفقیت دیگری به دست آورد و خوشبختی جدیدی را به ارمغان آورد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "زیادت شد از بهر فتح و ظفر",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر پیروزی و موفقیت، نفرات جدیدی در میدان مبارزه اضافه شدند."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "سپهر و ستاره بدین بزمگاه",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آسمان و ستاره‌ها دیگر چیزی جز این جشنگاه انجام ندادند و کار دیگری نکردند."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "به ایزد کزین خوبتر روزگار",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خدایی که هیچ کس در هیچ زمانی بهتر از این روزگار را ندیده است."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "از این گل که در باغ دولت شکفت",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این گل که در باغ خوشبختی شکوفا شده، برای کسانی که بدخواه هستند، دردسر و مشکل دیگری به همراه دارد."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "جهان را فزون گشت در نوبهار",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جهان در فصل بهار به خاطر ملاقات با او، دوباره به شادابی و زیبایی بیشتری دست یافته است."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "جهانش همی بود در انتظار",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جهان همیشه در حال انتظار است تا تغییراتی جدید و کارهای تازه‌ای در آن رخ دهد."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "کنون راست گشت آرزوی جهان",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حال آرزوهای دنیا به حقیقت پیوسته است و دیگر هیچ انتظاری برای جهان باقی نمانده است."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "برایوان شاهی پدیدار شد",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شاهی از دوربا دیدن خود، زیبارویی دیگر پدیدار شد."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "چه خوانی همی رزم اسفندیار",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چه می‌خوانی در مورد جنگ اسفندیار، وقتی که دیگر بار اسفندیار زنده شده است؟"
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "زهی پهلوانی که از بس هنر",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به چه پهلوانی! که به خاطر مهارت‌های تو در دنیا هیچ یاری دیگری وجود ندارد."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "تو اندر حصاری و شهر تو هست",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو در یک محیط محصور قرار داری و این شهر نیز مانند یک دژ است که خود دارای دیوارهای مستحکم‌تری می‌باشد."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "نه مر ملک را پهلوانی چو توست",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نه در میان پادشاهان کسی به بزرگی و شجاعت تو هست و نه در بین مردم، کسی مانند تو به خالقیت و کارسازی است."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "تو را دولت آموزگارست و نیست",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو در آموزش و علم به جایی رسیدی که هیچ چیز بهتر از این آموزش و دانشی که داری، وجود ندارد."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "به یزدان که بویاتر از خلق تو",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خداوندی که از وجود او بخاری معطرتر از مخلوقات تو برنمی‌خیزد."
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "ز فرخنده مولود مسعود تو",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از زادگاه خوشبخت و جذاب تو، این سرزمین موفقیت و افتخار تازه‌ای به دست آورد."
     },
     {
       "VOrder": 32,
@@ -255,7 +271,8 @@
       "Position": "Right",
       "Text": "بر این اختیاری که اقبال کرد",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با توجه به سرنوشت و شانس خوبی که نصیب من شده است، به هیچ وجه گزینه دیگری را انتخاب نخواهم کرد."
     },
     {
       "VOrder": 34,
@@ -269,7 +286,8 @@
       "Position": "Right",
       "Text": "پدید آمد از بهر این موهبت",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر این نعمت، هرکس آرامشی خاص و متفاوت پیدا کرده است."
     },
     {
       "VOrder": 36,
@@ -283,7 +301,8 @@
       "Position": "Right",
       "Text": "به هر خانه ای شادی دیگرست",
       "CoupletIndex": 18,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در هر خانه‌ای شادی و خوشحالی متفاوتی وجود دارد و در هر گوشه‌ای نوعی از نوشیدن باده و خوش‌گذارانی متفاوت است."
     },
     {
       "VOrder": 38,
@@ -297,7 +316,8 @@
       "Position": "Right",
       "Text": "دل و دیده دشمن و دوست را",
       "CoupletIndex": 19,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل و چشم، محبت و تنفر را از او به دست آوردند و نور و آتش تازه‌ای را به وجود آوردند."
     },
     {
       "VOrder": 40,
@@ -311,7 +331,8 @@
       "Position": "Right",
       "Text": "کنون نام مردان زیادت شود",
       "CoupletIndex": 20,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اکنون نام افراد بزرگ و معروف بیشتر می‌شود، چون وقتی یک شخصیت برجسته و جدید ظهور کند، بر شهرت و شناخته‌شدگی دیگران نیز تأثیر می‌گذارد."
     },
     {
       "VOrder": 42,
@@ -325,7 +346,8 @@
       "Position": "Right",
       "Text": "کنون شهر بفزاید اندر جهان",
       "CoupletIndex": 21,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هم اکنون شهر در جهان رونق بیشتری پیدا می‌کند، همان‌طور که وقتی شهریار جدیدی بر آن سرزمین حاکم شود، حال و هوای شهر تغییر می‌کند."
     },
     {
       "VOrder": 44,
@@ -339,7 +361,8 @@
       "Position": "Right",
       "Text": "الا تا به نزدیک اهل شمار",
       "CoupletIndex": 22,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به این معناست که اگر در جمع و نزد کسانی که از تو آگاهی و شناخت دارند نباشی، هیچ کار دیگری نمی‌تواند سودمند باشد. اصل اهمیت در شناخت و حضور در میان افراد با اهمیت است."
     },
     {
       "VOrder": 46,
@@ -353,7 +376,8 @@
       "Position": "Right",
       "Text": "سعادت ز گردون شکار تو باد",
       "CoupletIndex": 23,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خوشبختی و سعادت از آسمان به تو هدیه داده شود، زیرا من نمی‌دانم که شکار دیگری در کار است."
     },
     {
       "VOrder": 48,

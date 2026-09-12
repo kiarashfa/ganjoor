@@ -421,7 +421,8 @@
       "Text": "سپهدار ترکان برآراست کار",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "فرمانده لشکر توران سپاهش را نظم داد و از آنها ده جنگاور برگزید."
     },
     {
       "VOrder": 2,
@@ -437,7 +438,8 @@
       "Text": "ابا اسب و ساز و سلیح تمام",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "همه با اسب و ساز و برگ کامل بودند و دلیر و معروف."
     },
     {
       "VOrder": 4,
@@ -453,7 +455,8 @@
       "Text": "همانگه ز ایران سپه پهلوان",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "در همان زمان فرمانده سپاه ایران ده جنگاور جوان را از لشکر خود فراخواند."
     },
     {
       "VOrder": 6,
@@ -469,7 +472,8 @@
       "Text": "برون تاختند از میان سپاه",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "آنها از میان لشکر بیرون تاختند و به میدان نبرد رفتند."
     },
     {
       "VOrder": 8,
@@ -485,7 +489,8 @@
       "Text": "که دیدار دیده بر ایشان نبود",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "دیده بان نمی توانست آنها را ببیند . دو سپهدار رزم را اینگونه می خوستند ."
     },
     {
       "VOrder": 10,
@@ -501,7 +506,8 @@
       "Text": "ابا هر سواری ز ایران سپاه",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هر سوار و جنگاوری از سپاه ایران در برابر یکی از آن جنگاوران سپاه توران قرار گرفت."
     },
     {
       "VOrder": 12,
@@ -517,7 +523,8 @@
       "Text": "نهادند پس گیو را با گروی",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "گیو را در برابر گروی قرار دادند زیرا هم‌زور و هر دو جنگی بودند."
     },
     {
       "VOrder": 14,
@@ -533,7 +540,8 @@
       "Text": "گروی زره کز میان سپاه",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "گروی زره کسی بود که از همه لشکریان‌، مغضوب‌ترین بود در نزد شاه."
     },
     {
       "VOrder": 16,
@@ -549,7 +557,8 @@
       "Text": "که بگرفت ریش سیاوش به دست",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "همان بود که ریش سیاوش را در دست گرفت و سر او را از تن جدا کرد."
     },
     {
       "VOrder": 18,
@@ -565,7 +574,8 @@
       "Text": "دگر با فریبرز کاوس تفت",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "در سوی دیگر فریبرز کاوس تفت چو کلباد ویسه به نبرد رفت."
     },
     {
       "VOrder": 20,
@@ -581,7 +591,8 @@
       "Text": "چو رهام گودرز با بارمان",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "رهام گودرز در برابر بارمان قرار گرفت و به جنگ هم رفتند."
     },
     {
       "VOrder": 22,
@@ -597,7 +608,8 @@
       "Text": "گرازه بشد با سیامک به جنگ",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "گرازه با سیامک در نبرد درآمد همچون شیر خشمگینی که با نهنگ دمنده بجنگد."
     },
     {
       "VOrder": 24,
@@ -613,7 +625,8 @@
       "Text": "چو گرگین کارآزموده سوار",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "گرگین آن جنگاور باتجربه با اندریمان کارزار کرد."
     },
     {
       "VOrder": 26,
@@ -629,7 +642,8 @@
       "Text": "ابا بیژن گیو رویین گرد",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "رویین گرد چنان با بیژن گیو جنگید که گویی روشنایی از جهان رفت."
     },
     {
       "VOrder": 28,
@@ -645,7 +659,8 @@
       "Text": "چو او خواست با زنگه شاوران",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "چون خواست برای زنگه شاوران حریفی انتخاب شود برته آمد که کهرم از یاوران اوبود."
     },
     {
       "VOrder": 30,
@@ -661,7 +676,8 @@
       "Text": "چو دیگر فروهل بد و زنگله",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "در سویی دیگر فروهل و زنگله از میان سپاهیان برون تاختند و به نبرد هم رفتند."
     },
     {
       "VOrder": 32,
@@ -677,7 +693,8 @@
       "Text": "هجیر و سپهرم به کردار شیر",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هژیر و سپهرم به مانند شیران به میدان نبرد آمدند."
     },
     {
       "VOrder": 34,
@@ -693,7 +710,8 @@
       "Text": "چو گودرز کشواد و پیران به هم",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "گودرز کشواد و پیران قصد نبرد با یکدیگر کردند."
     },
     {
       "VOrder": 36,
@@ -709,7 +727,8 @@
       "Text": "میان بسته هر دو سپهبد به کین",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هر دو سپهبد به دشمنی هم قصد کرده و کمر بستند هم برای پادشاهی و سرزمین بود و هم برای دفاع از دین."
     },
     {
       "VOrder": 38,
@@ -725,7 +744,8 @@
       "Text": "بخوردند سوگند یک با دگر",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هر دو قسم خوردند که جنگ را تا پایان ادامه دهند و متوقف نکنند."
     },
     {
       "VOrder": 40,
@@ -741,7 +761,8 @@
       "Text": "بدان تا که را گردد امروز کار",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "سوگند خوردند که امروز مشخص شود چه کسی به نتیجه می‌رسد و چه کسی از میدان جنگ پیروز بیرون می‌آید."
     },
     {
       "VOrder": 42,
@@ -757,7 +778,8 @@
       "Text": "دو بالا بد اندر دو روی سپاه",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "دو بلندی در دو سوی سپاه بود که می‌توانستی از آنجا اطراف را ببینی."
     },
     {
       "VOrder": 44,
@@ -773,7 +795,8 @@
       "Text": "یکی سوی ایران دگر سوی تور",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "یکی از بلندی‌ها در سوی لشکر ایران بود و دیگری در سوی لشکر توران که از انجا دوردست دیده می‌شد."
     },
     {
       "VOrder": 46,
@@ -789,7 +812,8 @@
       "Text": "به پیش اندرون بود هامون و دشت",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "در مقابل دشت مسطح بود و تا زنده می‌توان از آن گذشت."
     },
     {
       "VOrder": 48,
@@ -805,7 +829,8 @@
       "Text": "سپهدار گودرز کرد آن نشان",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "سپهدار گودرز نشان کرد که هر کسی از جنگاوران"
     },
     {
       "VOrder": 50,
@@ -821,7 +846,8 @@
       "Text": "به زیر آورد دشمنی را چو دود",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "کی از دشمنان را به سرعت بکشد پرچم پیروزی را فورا بالا ببرند."
     },
     {
       "VOrder": 52,
@@ -837,7 +863,8 @@
       "Text": "سپهدار پیران نشانی نهاد",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "سپهدار پیران نیز بر قله دیگر همین را نشان نهاد و قرار را بر این گذاشت."
     },
     {
       "VOrder": 54,
@@ -853,7 +880,8 @@
       "Text": "از آن پس به هامون نهادند سر",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "پس از اینها به دشت هجوم بردند و پهلوانان و گردان به قصد کشتن آمدند."
     },
     {
       "VOrder": 56,
@@ -869,7 +897,8 @@
       "Text": "به تیغ و به گرز و به تیر و کمند",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "به تمام ابزار جنگی شمشیر و گرز و تیر و کمند به جنگ پرداختند و هر گونه بند و ترفندی را آزمودند."
     },
     {
       "VOrder": 58,
@@ -885,7 +914,8 @@
       "Text": "دلیران توران و کنداوران",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "مردان شجاع توران و جنگجویان دلیر نیز با با گرز و شمشیر و پرند به نبرد آمدند."
     },
     {
       "VOrder": 60,
@@ -901,7 +931,8 @@
       "Text": "که گر کوه پیش آمدی روز جنگ",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: اگر در روز جنگ جلوی تو کوهی هم بیاید، نباید در جنگیدن تردید کنی."
     },
     {
       "VOrder": 62,
@@ -917,7 +948,8 @@
       "Text": "همه دستهاشان فروماند پست",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "امادست‌هاشان به ناتوانی افتاد و خدا نیرو و زور را از آنها گرفت."
     },
     {
       "VOrder": 64,
@@ -933,7 +965,8 @@
       "Text": "به دام بلا اندر آویختند",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "به دام بلا گرفتار شدند زیرا به ظلم و ناحق بسیار خون ریخته بودند."
     },
     {
       "VOrder": 66,
@@ -949,7 +982,8 @@
       "Text": "فرومانده اسبان جنگی به جای",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "اسب‌هایشان از حرکت باز ماند گویی که دست و پای اسبان به هم بسته شده بود."
     },
     {
       "VOrder": 68,
@@ -965,7 +999,8 @@
       "Text": "بر ایشان همه راستی شد نگون",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "راستی از آنها روی تافت و روز روشن بر آنها تار شد و خون جوشید."
     },
     {
       "VOrder": 70,
@@ -981,7 +1016,8 @@
       "Text": "چنان خواست یزدان جان‌آفرین",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "خداوند جان‌آفرین آن‌چنان اراده کرد که گویی زمین‌، آن جنگاواران را در خود فرو گرفت و بلعید."
     },
     {
       "VOrder": 72,
@@ -997,7 +1033,8 @@
       "Text": "ز مردی که بودند با بخت خویش",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "از زور و مردی که از اقبال و بخت خود داشتند برای تخت و پادشاهی خود به‌جنگ برآویختند."
     },
     {
       "VOrder": 74,
@@ -1013,7 +1050,8 @@
       "Text": "سران از پی پادشاهی به جنگ",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "نام‌آوران و بزرگان برای گرفتن پادشاهی به جنگ آمدند و جان را برای دفاع از نام و آبروی خود فدا کردند."
     },
     {
       "VOrder": 76,
@@ -1029,7 +1067,8 @@
       "Text": "دمان آمدند اندر آوردگاه",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "خشمگین به میدان نبرد آمدند و با یکدیگر دشمنی و جنگ کردند."
     },
     {
       "VOrder": 78,

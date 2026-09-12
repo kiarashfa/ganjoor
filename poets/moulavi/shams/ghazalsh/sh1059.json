@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گفتی که زیان کنی زیان گیر",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفتی که آسیب زده‌ای، پس خودت آسیب می‌بینی. گفتی که کافر هستی، پس به همین صورت باش."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گفتی که تو روبهی نه‌ای شیر",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو گفتی که من مثل روباه نیستم، اما از استحکام و قدرت شیر ما ناتوانی و موجب پریشانی همه سگ‌ها شده‌ای."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "گفتی که ز دل خبر نداری",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو می‌گویی که از حال دل من خبر نداری، ای همدم دل من، پس چرا زبانی برای بیان احساسات من نمی‌گویی؟"
     },
     {
       "VOrder": 6,

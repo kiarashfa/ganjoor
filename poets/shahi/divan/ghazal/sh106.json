@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای دوست، شبی به کوی ما باش",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دوست، یک شب در کوچه ما باش و به درد و دل ریشی که داریم، تسکین بده."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "ایام وصال، خوش زمانی است",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که در کنار محبوب هستیم، ایام خوشی است، حتی اگر در دوری و جدایی درد و رنجی وجود داشته باشد."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "دادم دل و جان به عذرخواهی",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من دل و جانم را در پای در خانه‌ات گذاشتم و از ته دل عذرخواهی کردم، اما تو هیچ واکنشی نشان ندادی."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "ای زاهد شهر، ما و کویش",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای زاهد شهر، ما بهشت‌های نعیم را در کوی تو می‌دانیم، پس تو چه می‌گویی؟"
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "شاهی، همه عمر می کشیدی",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای پادشاه، تمام عمرت را در تلاش بوده‌ای، اکنون نیز هر روز کمی از راه درست و صحیح فاصله نگیرید."
     },
     {
       "VOrder": 10,

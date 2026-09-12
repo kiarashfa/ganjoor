@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "بیا یارا که آمد وقتِ یاری",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیا دوست، زمان کمک کردن به من فرا رسیده است. تا کی می‌خواهی بدون همراهی و کمک من باقی بمانی؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "به نومیدی چو من بی چاره ای را",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا درست است که کسی مانند من، که در ناامیدی به سر می‌برد، فرصتی را از دست بدهد؟"
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "جفا بردن ز دشمن بر امیدی",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آزار دیدن از دشمن در حالی که امیدی به او داری، بسیار آسان‌تر از ناامید شدن از کسی است."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "بسی جور از فراقت بردم ای دوست",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از دوری تو گرانی‌های زیادی را تحمل کرده‌ام، ای دوست، اما از دشمنی تا کی می‌خواهم صبر کنم؟"
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "مباش آخر بدین نامهربانی",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با بی‌محبتی به دیگران ادامه نده که هرگز یاد دوستان را فراموش نخواهی کرد."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "شکیبایی مدار از من توقّع",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از من توقع صبر و شکیبایی نداشته باش، چون من در این بی‌نظمی و آشفتگی عذر و بهانه دارم."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "ملاقاتی که رویت باز بینم",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دوباره بتوانم چهره‌ات را ببینم، همین برایم کافی است و با دل‌نگرانی از پروردگار خواستار آن هستم."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "به رغبت جان به جانان واسپارم",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با کمال میل جانم را به معشوق می‌سپارم، و این بهترین راهی است که می‌توان در پیش گرفت."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "مقاماتی برون آرم که عشّاق",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوستانم را به مراحل بالای عشق می‌رسانم تا آنها از من بیاموزند چه‌گونه باید جان خود را برای عشق فدا کنند."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "چو من در بی خودی مشهور دهرم",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در حالتی از بی‌خودی و فراموشی شناخته شده‌ام، اما از من انتظار نداشته باشید که بی‌قراری و ناآرامی داشته باشم."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "میازار آخر ای یار دل آزار",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای یار دل‌خسته، دیگر مرا آزار نده، زیرا نمی‌دانم تا چه زمان باید در اندوه و زاری بمانم."
     },
     {
       "VOrder": 22,

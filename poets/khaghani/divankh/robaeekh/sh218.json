@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "در مدرسه‌ها درس غلط فهمیدیم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در مدرسه‌ها به جای درک درست مفاهیم، تنها به حفظ کردن کلمات و عبارات پرداخته‌ایم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "بر دعوی غبن ما که خواهد خندید",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در مورد ادعای زیان ما، چه کسی خواهد خندید؟ هر خطی را که بخوانیم، از یک نکته خاص درک کردیم."
     },
     {
       "VOrder": 4,

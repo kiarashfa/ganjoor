@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "مرا داد گل پیشرس خبر",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گل به من خبر داد که نوروز هفتهٔ آینده می‌رسد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "مرا گفت گذر کن سوی شمال",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به من گفتند که به سمت شمال برو، چون من هم قصد دارم به آنجا بروم."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "چو فارغ شوم از کار نیمروز",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی از کارهای نیمروز فارغ می‌شوم، با شتاب به سوی سرزمین باختر می‌روم."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "به لشکرگه اسفندیار نیو",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به اردوگاه اسفندیار برو و به میهمانی زرتشت معروف برو."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "ز من بخش بهر بوم و بر نوبد",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از من برای سرزمین و دیار نفعی نیست، و خبری از من به سمت هر گلستان نمی‌رسد."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "بگو تا نهلد آفتاب هیچ",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بگو که آفتاب هیچ نشانی از خاطرات غم‌انگیز گذشته را به جا نگذارد."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "همان باد بروبد به کوه و دشت",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن باد هر گونه زباله و گیاهان بی‌ارزش را از کوه و دشت پاک می‌کند و به دور می‌ریزد."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "همان ابر فشاند به راه ما",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همان ابر بوی خوش عطرهای گلاب، مشک و عطرهای دلپذیر را به سوی ما می‌پاشد."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "بگو نرگس بیمار را که هان",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به نرگس بیمار بگو که در برابر سرما و سختی‌های زمستان آگاه باشد و بیش از این از آنچه می‌تواند بترسد."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "که از عدل من ایمن توان غنود",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که به عدالت من اطمینان دارد می‌تواند در هر باغ و زیر هر درختی راحت و آسوده زندگی کند."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "هم از راه به راهی توان گذشت",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌توان از هر مسیری عبور کرد و به هدف رسید، به شرطی که با دقت و زیبایی پیش برویم و از امکانات خوب استفاده کنیم."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "کنون همره خرم بهار، من",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حالا که بهار شادی‌بخش فرارسیده است، من از گل، درخت سرو و سمن بوی خوش صبحگاهی را استشمام می‌کنم."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "فراز آیم و سازم به باغ‌، بزم",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به باغ می‌روم و جشنی برپا می‌کنم، پر از شادی و خوشحالی."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "بگو بلبل خاموش را که خیز",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به بلبل خاموش بگو که به پا خیزد و یک شعر زیبا و دلنواز بگوید."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "کزین پس به‌ دو سه هفته سرخ گل",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پس از دو یا سه هفته، گلی سرخ خواهد روید که چهره‌اش یادآور سفر و دوری است."
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "بسان رخ زوار شاه طوس",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چهره‌اش همچون چهره‌ی زوار شاه طوس است و او از نسل پاک پیامبر است."
     },
     {
       "VOrder": 32,
@@ -255,7 +271,8 @@
       "Position": "Right",
       "Text": "مه برج رسالت که صیت اوست",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ماه درخشان پیامبری که نامش زبانزد خاص و عام است، مانند ماه و خورشید درخشان و شناخته شده است."
     },
     {
       "VOrder": 34,
@@ -269,7 +286,8 @@
       "Position": "Right",
       "Text": "اگر دنیویئی سوی او گرای",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در پی زندگی دنیوی هستی، به سوی خداوند برو و اگر به دنبال آخرتی، نیز به او راه پیدا کن."
     },
     {
       "VOrder": 36,
@@ -283,7 +301,8 @@
       "Position": "Right",
       "Text": "که بر خوان عمیم ولایتش",
       "CoupletIndex": 18,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بر سر سفره‌ی پرنعمت او، خوشبختی و نعمت‌های دو جهان برای ما فراهم است."
     },
     {
       "VOrder": 38,

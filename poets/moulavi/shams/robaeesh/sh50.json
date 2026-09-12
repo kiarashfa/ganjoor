@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "دیدم در خواب ساقیِ زیبا را",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در خواب دیدم که ساقی زیبا، لیوان شراب را در دست دارد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گفتم به خیالش که غلام اوئی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به او گفتم که شاید خیال کند که من از خدمتگزارانش هستم، اما ممکن است که به جای او، من برای شما ارزشمندتر باشم."
     },
     {
       "VOrder": 4,

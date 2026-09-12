@@ -57,7 +57,8 @@
       "Text": "تا هجر تو با منش وصالی باشد",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که دوری تو از من به وصل تبدیل نشود، اگر خیال تو رها شود، من هم دست از انتظار می‌کشم."
     },
     {
       "VOrder": 2,
@@ -73,7 +74,8 @@
       "Text": "از دامن من",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: از دامان من دور نشو و به سوی من بازگرد."
     },
     {
       "VOrder": 4,
@@ -81,7 +83,8 @@
       "Text": "از ساعد سیمین کمری ساز مرا",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: از ساعد باریک و لطیف تو برایم کمری بساز، زیرا اینکه ممکن است از این باری که به دوش دارم، رهایی پیدا کنم."
     },
     {
       "VOrder": 5,
@@ -97,7 +100,8 @@
       "Text": "در گردن من",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: گردن من پر از زردی است."
     }
   ]
 }

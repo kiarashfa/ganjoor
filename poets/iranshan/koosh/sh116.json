@@ -461,7 +461,8 @@
       "Text": "وز آن روی بر آتبین با سپاه",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: از آن طرف بر آتش و سپاه حمله‌ور شدند و کشتی را به دریا و چاه انداختند."
     },
     {
       "VOrder": 2,
@@ -477,7 +478,8 @@
       "Text": "ز دریا شب تیره آمد برون",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: از دریا در شب تاریک، چیزی بیرون آمد و کشتی را در آب مهار کردند."
     },
     {
       "VOrder": 4,
@@ -493,7 +495,8 @@
       "Text": "شبی بود مانندهٔ آبنوس",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در شبی زیبا و دل‌انگیز، نای موسیقی به آهنگ درآمد و صداها به هم آمیخته شدند."
     },
     {
       "VOrder": 6,
@@ -509,7 +512,8 @@
       "Text": "ز دریا برآمد شب تیره میغ",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: از دریا شب تاریکی برخواست و ابرها آتشین شدند، و سوارانش تیغ‌ها را در دست گرفتند."
     },
     {
       "VOrder": 8,
@@ -525,7 +529,8 @@
       "Text": "ز لشکر به گردون برآمد خروش",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: سروصدای لشکر در آسمان بلند شد و سردارِ دلیر از خواب بیدار گشت."
     },
     {
       "VOrder": 10,
@@ -541,7 +546,8 @@
       "Text": "سپاهش چنانچون رمه‌یْ بی‌شبان",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: سپاهیان او مانند رمه‌ای هستند که بدون چوپان هستند؛ به جای اینکه جلوتر بروند و راه را نشان دهند، هیچ کس از آن‌ها محافظت نمی‌کند."
     },
     {
       "VOrder": 12,
@@ -557,7 +563,8 @@
       "Text": "همی هرکس از خواب آسیمه سر",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: هر کسی از خواب پریشان و مضطرب بلند شد و به سرعت به سمت در رفت."
     },
     {
       "VOrder": 14,
@@ -573,7 +580,8 @@
       "Text": "به اسب برهنه برآورد پای",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: اسب لخت و بی‌زین و افسار را به پا می‌زند، نه کلاهی بر سر دارد و نه قبایی بر تن."
     },
     {
       "VOrder": 16,
@@ -589,7 +597,8 @@
       "Text": "دلیران گرفتند راه گریغ",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: شجاعان در یک شب ترسناک، راهی را شروع کردند که در آن، هم از جلو و هم از پشت، خطر و چاقو وجود داشت."
     },
     {
       "VOrder": 18,
@@ -605,7 +614,8 @@
       "Text": "درخشیدن نیزه و تیغ جنگ",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: در اینجا اشاره به این است که نور و درخشندگی نیزه و شمشیر در میدان جنگ، تاریکی شب را کنار می‌زند و رنگ آن را محو می‌کند. به عبارتی، حضور این سلاح‌ها باعث می‌شود که شب از بین برود و روشنایی بیشتری به وجود آید."
     },
     {
       "VOrder": 20,
@@ -621,7 +631,8 @@
       "Text": "شکار دلیران جگر بود و سر",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: شکار برای دلیران چالش بزرگی است، مانند مبارزه‌ای که در آن شمشیر به جان دشمن می‌افتد و نیزه به قلب او می‌نشاند."
     },
     {
       "VOrder": 22,
@@ -637,7 +648,8 @@
       "Text": "سر نیزه و تیغ الماسگون",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: سر نیزه و تیغی که از الماس ساخته شده است، به دریا پاسخی پر از خون و درد را می‌آورد."
     },
     {
       "VOrder": 24,
@@ -653,7 +665,8 @@
       "Text": "بپوشید دیهیم خفتان رزم",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: تاج و لباس رزم را به سر بگذارید و از خواب سنگین بیدار شوید، دل را از شادمانی دور کنید."
     },
     {
       "VOrder": 26,
@@ -669,7 +682,8 @@
       "Text": "ندیدند جای درنگ و پیام",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: آنها فرصتی برای تردید و تأمل ندیدند و انتقام خود را با کشیدن شمشیر آغاز کردند."
     },
     {
       "VOrder": 28,
@@ -685,7 +699,8 @@
       "Text": "برآویختند و برآمیختند",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: دلیران با شجاعت و استقامت خود، به نبرد پرداخته و از خون و جانشان برای پیروزی و آزادی مایه گذاشتند. \n\n"
     },
     {
       "VOrder": 30,
@@ -701,7 +716,8 @@
       "Text": "چو زر آبگون گشت روی زمین",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: زمانی که زمین مانند زر خالص و درخشان شد، سپهسالار چین به آتش درخشانی (شعله‌ای) برخورد کرد."
     },
     {
       "VOrder": 32,
@@ -717,7 +733,8 @@
       "Text": "سپاه انجمن شد بر او ده هزار",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: جمعی از دلیران جنگ آزموده و سوارکاران، به تعداد ده هزار نفر، به دور او گرد آمده‌اند."
     },
     {
       "VOrder": 34,
@@ -733,7 +750,8 @@
       "Text": "برآویخته با گروهی سپاه",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: با جمعی از نیروها به نبرد رفته و سپاه زیادی دارد، اما در مقابل او، قدرتش در حال زوال است."
     },
     {
       "VOrder": 36,
@@ -749,7 +767,8 @@
       "Text": "ز سر، خود برداشت و برگفت نام",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: او از سر خود برداشت و نامی بر زبان آورد، هر یک از آنها دانست که آن نام مربوط به کدام شخص است."
     },
     {
       "VOrder": 38,
@@ -765,7 +784,8 @@
       "Text": "ز زین کوهه گرزِ گران برکشید",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی با زور و قدرت برتر خود به میدان بیاید، هر فردی به نوعی با آن قدرت و شخصیت خود را خواهد شناخت و به عمق وجودش پی می‌برد."
     },
     {
       "VOrder": 40,
@@ -781,7 +801,8 @@
       "Text": "یکی خشت رز آبداده به دست",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: شخصی که حاکی از خشم و کینه است، سنگی مانند خشت که نم‌دار و نرم است، به دست گرفته و مثل فیل مست و سرکش به دنبال انتقام است."
     },
     {
       "VOrder": 42,
@@ -797,7 +818,8 @@
       "Text": "بزد خویشتن را بدان رزمجوی",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: او خود را به میدان جنگ رساند و رو به سوی فرمانده آورد."
     },
     {
       "VOrder": 44,
@@ -813,7 +835,8 @@
       "Text": "زبان را گشاده به دشنام زشت",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: زبان به گونه‌ای ناخوشایند و زشت به دشنام و فحاشی گشوده شد و مانند یالی که به زیر بیفتد، بی‌پروا و بی‌اعتنا عمل کرد."
     },
     {
       "VOrder": 46,
@@ -829,7 +852,8 @@
       "Text": "گذر کرد خشت گران بر سپهر",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: کارگران خشت، به راحتی از زیر آسمان عبور کردند و آسیبی به آن شاهزاده وارد نکردند."
     },
     {
       "VOrder": 48,
@@ -845,7 +869,8 @@
       "Text": "جهانجوی یک زخم زد بر سرش",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: جهانجوی یک آسیب به سرش زد و او به زمین افتاد و helmet و سرپوشش‌اش بر زمین قرار گرفت."
     },
     {
       "VOrder": 50,
@@ -861,7 +886,8 @@
       "Text": "سپهدار را چون سپه کشته دید",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: زمانی که فرمانده سپاه را در میدان جنگ کشته شده دید، بدن او را در خاک و خون آغشته شده یافت."
     },
     {
       "VOrder": 52,
@@ -877,7 +903,8 @@
       "Text": "گریزان شدند آن دلیران همه",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: دلیران مانند گوسفندانی که از گرگ فرار می‌کنند، به سرعت و به شدت فرار کردند."
     },
     {
       "VOrder": 54,
@@ -893,7 +920,8 @@
       "Text": "جهانجوی بر پی همی راند اسب",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: جهانگرد با شتاب، سوار بر اسبش در حالی که گروهی مانند آذرگشسب به همراه او هستند، پیش می‌راند."
     },
     {
       "VOrder": 56,
@@ -909,7 +937,8 @@
       "Text": "همی کشت و چندان که مور و ملخ",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: این جمله به معنای آن است که کشاورزی و زراعت همچنان ادامه دارد، به شکلی که تعداد مورچه‌ها و ملخ‌ها از خون دلیران از بین رفته است. در واقع، این بیان به تلاش و زحمات دلیران اشاره دارد که برای حفاظت از زمین‌های خود و زراعت، باید با چالش‌ها و موانع روبرو شوند."
     },
     {
       "VOrder": 58,
@@ -925,7 +954,8 @@
       "Text": "چو باد دمان اسب آن سروران",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: اسب‌های آن سروران همچون باد سریع و چابک هستند، اما در برابر آن‌ها غول‌های چین شبیه به مادیان‌های کره‌ای به نظر می‌آیند."
     },
     {
       "VOrder": 60,
@@ -941,7 +971,8 @@
       "Text": "ز شمشیر ایشان جز آن کس نَرست",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: تنها کسی از ضربت شمشیر آنها در امان خواهد بود که در حال درخواست آرامش و حفظ جان، از زیر بار حوادث بگریزد."
     },
     {
       "VOrder": 62,
@@ -957,7 +988,8 @@
       "Text": "نهان گشت جایی ز راه گریغ",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: در جایی که از مسیر پنهان شد، چشمی که به زیبایی‌ها نظر کرده بود، ناگهان به تیغی برنده برخورد کرد."
     },
     {
       "VOrder": 64,
@@ -973,7 +1005,8 @@
       "Text": "شبانگاه چون آتبین گشت باز",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: در پایان شب، هنگامی که آتش دوباره روشن شد، او به سوی محل لشکر دشمن بازگشت."
     },
     {
       "VOrder": 66,
@@ -989,7 +1022,8 @@
       "Text": "به تخت سپهدار چین بر نشست",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: او با خوشحالی بر تخت فرمانروای چین نشسته و دستانش را به نشانه شادی بر دلش گذاشته است."
     },
     {
       "VOrder": 68,
@@ -1005,7 +1039,8 @@
       "Text": "همی گفت کینِ گرامی سُوار",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: او می‌گفت که این دارایی ارزشمند را با زحمت به‌دست آورده‌ام و از آن روزگار بهره‌ای برده‌ام."
     },
     {
       "VOrder": 70,
@@ -1021,7 +1056,8 @@
       "Text": "بزرگان طیهوریان را بخواند",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: بزرگان طیهوریان را به نزد خود فرامی‌خواند و در مکان‌هایی خوشایند و دلنشین به آنان جای می‌دهد."
     },
     {
       "VOrder": 72,
@@ -1037,7 +1073,8 @@
       "Text": "از آن کامگاری یکی سور کرد",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: یکی خوشی و شادی به وجود آورد که زحمت و درد را از دل‌های داغدیده دور کند."
     },
     {
       "VOrder": 74,
@@ -1053,7 +1090,8 @@
       "Text": "دگر روز فرمود تا خواسته",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: در روز دیگری به او دستور دادند تا خواسته‌های همه را با زیبایی و نظم ترتیب بدهند."
     },
     {
       "VOrder": 76,
@@ -1069,7 +1107,8 @@
       "Text": "ز چیزی کجا از درِ شاه بود",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: از چیزی که بر در شاه قرار داشت، از سازی که برای راه مناسب بود."
     },
     {
       "VOrder": 78,
@@ -1085,7 +1124,8 @@
       "Text": "جدا کرد و دیگر همه بخش کرد",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: او لشکر را از هم جدا کرد و صورت‌ها را تقسیم کرد و رخش را از خواسته‌اش جدا نمود."
     },
     {
       "VOrder": 80,
@@ -1101,7 +1141,8 @@
       "Text": "ز هشتاد کشتی کجا بار کرد",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: از هشتاد کشتی، کجا بار را پایین آورد؟ چهل تا از آن‌ها تبدیل به درم و دینار شد."
     },
     {
       "VOrder": 82,
@@ -1117,7 +1158,8 @@
       "Text": "چهل پر ز دیبا و از پرنیان",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: چهل پر از پارچه‌های لطیف و نرم به دست ایرانیان ارسال کرد."
     },
     {
       "VOrder": 84,
@@ -1133,7 +1175,8 @@
       "Text": "به نزدیک طیهور کاین بهر توست",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: به نزد پرندگان، این چیز برای توست، هرچند که از این مایه، مال شهر توست."
     },
     {
       "VOrder": 86,

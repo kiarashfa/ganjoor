@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "هرگه که تو با فرشته بین بنشینی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر وقت که با فرشته‌ای هم‌نشینی، باید مانند آن فرشته باشی اگر به دینی آشنا هستی."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گیرم که فرشته را نبینی آخر",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با فرض اینکه نتوانی فرشته را ببینی، اما کسی که فرشته را می‌بیند، تو را می‌بیند."
     },
     {
       "VOrder": 4,

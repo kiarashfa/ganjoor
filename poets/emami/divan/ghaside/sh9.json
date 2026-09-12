@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "فکر بکرم چو روی بنماید",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که فکر من به کار افتد و چهره‌ام را نشان دهد، هوش و فهم از دست عقل و خرد بهتر می‌رود."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "خاصه در مدحت جهان هنر",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به ویژه در ستایش هنر جهان که از شیرینی آن، خود شیرینی به دست می‌آید."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "شرف الدین مظفر، آنکه سپهر",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شرف الدین مظفر، کسی است که به بزرگی و عظمت وجود خود افتخار می‌کند و آسمان وجودش را به خاطر مقام و شأنش می‌ستاید."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "آنکه هر دم هزار سحر حلال",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن کسی که هر لحظه هزاران جادو و شگفتی را با کلام زیبا و منظم خود نشان می‌دهد."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "و آنکه گاه عطا ز دیده ی کان",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن کسی که گاهی با بخشش خود، اشکِ شوق از چشمانش جاری می‌شود، مانند خون لعل (خون قرمز رنگ) را به نمایش می‌گذارد."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "جنبش چرخ با سریر درش",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حرکت چرخ‌ها به آرامی و بی‌صدا صورت می‌گیرد و نباید انتظار داشت که در این مسیر، صدای شگفت‌انگیزی شنیده شود."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "ما در طبع با سحاب کفش",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما به طبیعت خود مانند ابرهایم که با پا بر روی دل دریا می‌زند و به آن زیبایی و زندگی می‌بخشد."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "ای بزرگی که روز اهل هنر",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای بزرگوار، روزی که اهل هنر به نمایش مهارت‌های خود می‌پردازند، جز از خاک و زمین چیزی از تو به وجود نمی‌آید."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "لفظ عذبت چو گوهر افشاند",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که ابر باران را نازل می‌کند، هیچ‌کس جز با اشک و اندوه به آن نگاه نمی‌کند."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "نوک کلکت چو عنبر آمیزد",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی نوک کلاهی که به آن عطری خوشبو می‌زنند، با بویی مانند عنبر آمیخته شود، بوی مشک بر روی چهره گل سمن می‌نشیند."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "روح واله شود چو گاه مسیر",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روح انسان دچار شگفتی و شادمانی می‌شود زمانی که بوی خوش عطر و دنیا را در مسیر نسیم‌های خوش‌بو احساس کند."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "وحی منزل کند چو سحر مبین",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی صبحگاهان حقیقتی آشکار می‌شود، گفتاری بلند و رسا از آن به گوش می‌رسد."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "گر زمین را بسبزه فضل ربیع",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر زمین با سبزه و برکت بهار و تابش خورشید از جایگاه خود آرایش بیابد."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "تو نظر بر زمین فکن، که زمین",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به زمین نگاه کن، زیرا این زمین به خاطر این مقام بلند به آسمان بلند می‌شود."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "ور ضمیرت ز ذره باد آرد",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر ضمیر تو از یک ذره باد باشد، آن ذره از آفتاب خجالت می‌کشد."
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "قلمت دیده ی معانی را",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نوشته‌ات قدرتی دارد که مفاهیم را در دل کلمات بیشتر و روشن‌تر می‌کند."
     },
     {
       "VOrder": 32,
@@ -255,7 +271,8 @@
       "Position": "Right",
       "Text": "کرمت مخزن ایادی را",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کرم و لطف تو به انسان‌ها کمک می‌کند تا امید به زندگی و آینده را پیدا کنند و درهای موفقیت را به رویشان باز کند."
     },
     {
       "VOrder": 34,
@@ -269,7 +286,8 @@
       "Position": "Right",
       "Text": "دست ادراک گرچه نتواند",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه دست فهم و درک انسان نمی‌تواند درخت خوش‌بختی را پرورش دهد، اما این به معنای ناامیدی نیست."
     },
     {
       "VOrder": 36,
@@ -283,7 +301,8 @@
       "Position": "Right",
       "Text": "نو عروس ضمیر من که ز حسن",
       "CoupletIndex": 18,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عروس جدید دل من، که زیبایی‌اش به اندازه‌ای است که نمی‌توان به راحتی از او چشم برداشت."
     },
     {
       "VOrder": 38,
@@ -297,7 +316,8 @@
       "Position": "Right",
       "Text": "باد در حکم مدحت تو کزو،",
       "CoupletIndex": 19,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باد به عنوان ستایشگر تو عمل می‌کند و از آن به یقین، زندگی ابدی به وجود می‌آید."
     },
     {
       "VOrder": 40,
@@ -311,7 +331,8 @@
       "Position": "Right",
       "Text": "تا بسیط زمین ز رنگ ستم",
       "CoupletIndex": 20,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که ظلم و ستم بر روی زمین سایه افکنده، عدالت مانند آینه‌ای می‌تواند آن را پاک کند و نقاب ستم را بردارد."
     },
     {
       "VOrder": 42,
@@ -325,7 +346,8 @@
       "Position": "Right",
       "Text": "بد سگالت در اندهی که مقیم",
       "CoupletIndex": 21,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به بیان احساسات عمیق و تأثر از ناکامی‌ها و غم‌هایی می‌پردازد که در دل وجود دارد. بدی‌ها و مشکلات به قدری ذهن را درگیر کرده که شخص در حالتی از اندوه و حسرت به سر می‌برد و این حالت را به جایگاهی نسبت می‌دهد که حتی اشک‌هایی که از چشمانش می‌ریزد، به نوعی نشانی از این حسرت و غم است."
     },
     {
       "VOrder": 44,
@@ -339,7 +361,8 @@
       "Position": "Right",
       "Text": "دور حکم ترا اساسی باد",
       "CoupletIndex": 22,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حاکمیت تو باید بر اساس و پایه‌ای محکم باشد تا از چرخش‌های زمان و حوادث روزگار آسیب نبیند."
     },
     {
       "VOrder": 46,
@@ -353,7 +376,8 @@
       "Position": "Right",
       "Text": "تو ز رفعت بر آسمان که عدوت،",
       "CoupletIndex": 23,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شاید به خاطر بلندی و مقام تو، دشمنی‌ات بر روی زمین به زمین بیفتد و افت کند."
     },
     {
       "VOrder": 48,

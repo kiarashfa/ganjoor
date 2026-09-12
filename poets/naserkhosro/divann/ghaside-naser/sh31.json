@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "از گردش گیتی گله روا نیست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از تغییرات و دورانی که دنیا دارد نباید شکایت کرد، زیرا حتی اگر برخی از خوبی‌ها و زیبایی‌ها پایدار نباشند، این موضوع طبیعی است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "خوشتر ز بقا چیز نیست ایرا",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ چیزی زیباتر از جاودانگی نیست، زیرا در این دنیا تنها چیزی که برای ما باقی می‌ماند، نفس و حیات است."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "چون تو ز جهان یافتی بقا را",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که تو از این دنیا جاودانگی را به دست آوردی، چگونه ممکن است که این جهان تو را سزاوار ستایش نبیند؟"
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "گیتی به مثل مادر است، مادر",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دنیا همچون مادر است و نمی‌توان به دلیل نواقص یا مشکلاتش، او را مورد سرزنش قرار داد. مادر به خاطر دلسوزی و محبتش، سزاوار بدگویی نیست."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "جانت اثر است از خدای باقی",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روح تو نشانه‌ای از خداوند است و ارزشی ندارد که خود را بی‌اهمیت ببینی."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "فانی نشود هر چه کان بقا یافت",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که ماندگار شده، هرگز زوال نمی‌یابد؛ زیرا ماندگاری، دلیل زوال نیست."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "ترسیدن مردم ز مرگ دردی است",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ترس مردم از مرگ، دردی است که تنها با دانش و آگاهی مذهبی می‌توان آن را درمان کرد."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "نزدیک خرد گوهر بقا را",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نزدیک به فهم و عقل، ارزش ابدی به دست آوردن از طریق دانایی، هیچ گونه جادو یا کیمیاگری نمی‌تواند به آن نزدیک شود."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "الفنج‌گه دانش این سرای است",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این مکان مکانی برای گسترش دانش است؛ پس هرچه که به آن نیاز داری، در اینجا به دنبالش بگرد."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "زین بند چو گشتی رها ازان پس",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که از این بند رهایی یابی، دیگر امیدی برای تلاش و کوشش و همچنین فنجات وجود ندارد."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "گویند قدیم است چرخ و او را",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌گویند که زمان و دنیا از دیرباز وجود داشته و نه شروع خاصی داشته و نه پایان مشخصی دارد."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "ای مرد خرد بر فنای عالم",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای مرد خرد، در جهانی که در حال زوال است، گشتن و چرخش آن که حقیقتاً ثابت نمی‌ماند، به هیچ عنوان درست نیست."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "چون نیست بقا اندرو تو را چه",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که در جهانی که بقا ندارد، تو چرا نگران فنا و پایان آن هستی، چه اگر اصل آن وجود داشته باشد یا نداشته باشد؟"
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "این گردش هموار چرخ ما را",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این گردش آرام و پیوسته چرخ حوادث به ما می‌گوید که اینجا جای شما نیست."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "این پیر چو این هست، پس چه گوئی",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این فرد کهن‌سال همچنان که هست، پس چه چیزی بهتر و برتر از او وجود دارد که بتوانی درباره‌اش صحبت کنی؟"
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "این جای فنا همچو آسیایی است",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اینجا به نوعی دنیای زودگذر و فانی است، اما وقتی به دنیای دیگر نظر می‌افکنیم، می‌بینیم که واقعاً تفاوت زیادی با این دنیا دارد."
     },
     {
       "VOrder": 32,
@@ -255,7 +271,8 @@
       "Position": "Right",
       "Text": "بپسیچ مر آن معدن بقا را",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به آن منبع جاودانگی نگاه کن که این مکان زوال و دگرگونی، بسیار بی وفاست."
     },
     {
       "VOrder": 34,
@@ -269,7 +286,8 @@
       "Position": "Right",
       "Text": "داروی بدی و خطاست توبه",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: توبه می‌تواند برای کسی باشد که خطا کرده و بدی کرده است، اما برای کسی که هیچ خطایی ندارد و بدی در کارش نیست، معنای توبه وجود ندارد."
     },
     {
       "VOrder": 36,
@@ -283,7 +301,8 @@
       "Position": "Right",
       "Text": "روزی است مر این خلق را که آن روز",
       "CoupletIndex": 18,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روزی خواهد آمد که مردم در آن روز حسد، فریب و نیرنگ وجود نخواهد داشت."
     },
     {
       "VOrder": 38,
@@ -297,7 +316,8 @@
       "Position": "Right",
       "Text": "آن روز یکی عادل است قاضی",
       "CoupletIndex": 19,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در آن روز تنها قاضی که عادل است، کسی است که فقط با حقیقت و انصاف حکم می‌کند و چیزی به جز راستادی را قبول ندارد."
     },
     {
       "VOrder": 40,
@@ -311,7 +331,8 @@
       "Position": "Right",
       "Text": "نیکی بدهدمان جزای نیکی",
       "CoupletIndex": 20,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نیکی به کسی کرده‌ایم، جزای آن باید نیکی باشد، نه اینکه بدی کنیم. این دلیلی است که تا زمانی که خوبی کنیم، باید انتظار خوبی داشه باشیم."
     },
     {
       "VOrder": 42,
@@ -325,7 +346,8 @@
       "Position": "Right",
       "Text": "آن روز دو راه است مردمان را",
       "CoupletIndex": 21,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن روز، مردم با دو مسیر متفاوت روبرو هستند، هرچند که هیچ‌یک از این مسیرها محدودیت یا انتهایی ندارد."
     },
     {
       "VOrder": 44,
@@ -339,7 +361,8 @@
       "Position": "Right",
       "Text": "یک راه همه نعمت است و راحت",
       "CoupletIndex": 22,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک راه منتهی به تمامی خوبی‌ها و آسایش‌هاست، در حالی که راه دیگر فقط پر از سختی‌ها و مشکلات است."
     },
     {
       "VOrder": 46,
@@ -353,7 +376,8 @@
       "Position": "Right",
       "Text": "من روز قضا مر تو را هم امروز",
       "CoupletIndex": 23,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من امروز تو را به روز قضا و سرنوشتت می‌شناسانم، اگر در دل تو خیالی از بی‌خبری وجود نداشته باشد."
     },
     {
       "VOrder": 48,
@@ -367,7 +391,8 @@
       "Position": "Right",
       "Text": "بنگر که مر آن را خز است بستر",
       "CoupletIndex": 24,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بنگر که آن چیزهایی که در آنجا وجود دارند، دارای نعمت و زیبایی هستند، اما اینجا مثل زیر حصیر و بی‌کیفیت است."
     },
     {
       "VOrder": 50,
@@ -381,7 +406,8 @@
       "Position": "Right",
       "Text": "وان را که بر آخر ده اسپ تازی است",
       "CoupletIndex": 25,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن کسی که در پایان کار، اسب تازی او بر زمین افتاده است، به پای برادرش نیازی ندارد."
     },
     {
       "VOrder": 52,
@@ -395,7 +421,8 @@
       "Position": "Right",
       "Text": "مسعود همه بر حریر غلطد",
       "CoupletIndex": 26,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مسعود بر روی پارچه لطیف حریر می‌چرخد، در حالی که سعید بر پشت خود از جنس نمد، قبا پوشیده است."
     },
     {
       "VOrder": 54,
@@ -409,7 +436,8 @@
       "Position": "Right",
       "Text": "آن روز هم اینجا تو را نمودم",
       "CoupletIndex": 27,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روزی را که به تو نشان دادم، هرچند در این مکان معنا ندارد."
     },
     {
       "VOrder": 56,
@@ -423,7 +451,8 @@
       "Position": "Right",
       "Text": "مر چشم خرد را، ز علم بهتر،",
       "CoupletIndex": 28,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این گفتار به نوعی بیان کننده ارزش و اهمیت دانش و تجربه در زندگی است. به این معنی که چشم و بصیرت خردمندانه به دانشی که از پدران به ارث رسیده، ارجحیت دارد. در واقع، اشاره به این دارد که تجربه و حکمت در زندگی، از علوم نظری و دانسته‌های سطحی بیشتر ارزشمند است و نباید به راحتی از کنار آن گذشت."
     },
     {
       "VOrder": 58,
@@ -437,7 +466,8 @@
       "Position": "Right",
       "Text": "گر بر دل تو عقل پادشاه است",
       "CoupletIndex": 29,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر عقل بر دل تو حاکم باشد، هیچ کسی در میان مردم نمی‌تواند از تو بالاتر باشد."
     },
     {
       "VOrder": 60,
@@ -451,7 +481,8 @@
       "Position": "Right",
       "Text": "ایزد بفزایاد عقل و هوشت",
       "CoupletIndex": 30,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خداوند بر عقل و هوش تو بیفزاید، از این تندخوئی دوری کن زیرا این حرف ناپسند است."
     },
     {
       "VOrder": 62,
@@ -465,7 +496,8 @@
       "Position": "Right",
       "Text": "دنیا بفریبد به مکر و دستان",
       "CoupletIndex": 31,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دنیا انسان‌ها را با فریب و حقه‌هایش زیر فشار قرار می‌دهد، اما کسانی که به قدرت و دانش خود تکیه دارند، از این فریب‌ها مصون می‌مانند و در حقیقت در برابر آن آسیب‌پذیر نیستند."
     },
     {
       "VOrder": 64,
@@ -479,7 +511,8 @@
       "Position": "Right",
       "Text": "چون دین و خرد هستمان چه باک است",
       "CoupletIndex": 32,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که ایمان و خرد در دست ماست، دیگر چه اهمیتی دارد اگر حکومت دنیا در دست ما نباشد؟"
     },
     {
       "VOrder": 66,
@@ -493,7 +526,8 @@
       "Position": "Right",
       "Text": "شرم از اثر عقل و اصل دین است",
       "CoupletIndex": 33,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر از عقل و اصول دین تاثیر نگیری و شرم نداشته باشی، به راستی دین برای تو معنا ندارد."
     },
     {
       "VOrder": 68,
@@ -507,7 +541,8 @@
       "Position": "Right",
       "Text": "بفروش جهان را به دین که او را",
       "CoupletIndex": 34,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دنیا را به خاطر دین بفروش، زیرا دین هرگز به قیمت نیست و از پرهیز نیز ارزشمندتر است."
     },
     {
       "VOrder": 70,
@@ -521,7 +556,8 @@
       "Position": "Right",
       "Text": "ای گشته رهی شاه را، سوی من",
       "CoupletIndex": 35,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که در جستجوی پادشاه هستی، چرا هنوز افکارت به رویاها و آرزوهای خود نرسیده است؟"
     },
     {
       "VOrder": 72,
@@ -535,7 +571,8 @@
       "Position": "Right",
       "Text": "ای کام دلت دام کرده دین را",
       "CoupletIndex": 36,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دل، به آرامش خود توجه کن و مواظب باش که این مسیر، راه پیامبران نیست."
     },
     {
       "VOrder": 74,
@@ -549,7 +586,8 @@
       "Position": "Right",
       "Text": "نعلین و ردای تو دام دیو است",
       "CoupletIndex": 37,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نعلین و ردای تو یک دام است که نزد من وجود ندارد."
     },
     {
       "VOrder": 76,
@@ -563,7 +601,8 @@
       "Position": "Right",
       "Text": "گر نیست به تقدیر جانت خرسند",
       "CoupletIndex": 38,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تقدیر تو را به خوشی نمی‌رساند، پس نشانه این است که با دانایی و خرد خود آشنا نیستی."
     },
     {
       "VOrder": 78,
@@ -577,7 +616,8 @@
       "Position": "Right",
       "Text": "ما را به قضا چون کنی تو خرسند",
       "CoupletIndex": 39,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به سرنوشت ما راضی باشی و از آن خوشنود، چرا خودت به سرنوشت و تقدیر خود راضی نیستی؟"
     },
     {
       "VOrder": 80,
@@ -591,7 +631,8 @@
       "Position": "Right",
       "Text": "این آرزو، ای خواجه، اژدهائی است",
       "CoupletIndex": 40,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این آرزو، ای آقا، شبیه به یک اژدهای بدخلق و زیان‌آور است که بدتر از آن وجود ندارد."
     },
     {
       "VOrder": 82,
@@ -605,7 +646,8 @@
       "Position": "Right",
       "Text": "ایزد برهانادت از بلاهاش",
       "CoupletIndex": 41,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خداوند تو را از دردسرها نجات دهد، اما دعا کردن برای تو از این طرف به من نمی‌رسد."
     },
     {
       "VOrder": 84,
@@ -619,7 +661,8 @@
       "Position": "Right",
       "Text": "من مانده به یمگان درون ازانم",
       "CoupletIndex": 42,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در درون خودم به حالتی گرفتار شدم که می‌دانم در قلبم هیچ نفاق و ظاهرسازی وجود ندارد."
     },
     {
       "VOrder": 86,
@@ -633,7 +676,8 @@
       "Position": "Right",
       "Text": "آهوی محالات و آرزو را",
       "CoupletIndex": 43,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دل من چرا آرزوهای غیرممکن و دور از دسترس وجود ندارد؟ چرا آن‌ها در من وجود ندارند؟"
     },
     {
       "VOrder": 88,
@@ -647,7 +691,8 @@
       "Position": "Right",
       "Text": "ای خواجه ریا ضد پارسائی است",
       "CoupletIndex": 44,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای آقا، ریاکاری مخالف با پارسایی است، زیرا کسی که ریا دارد، واقعاً پارسا نیست."
     },
     {
       "VOrder": 90,

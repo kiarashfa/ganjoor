@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "طالب علم نیکو اخلاق است و در اشعار تخیلات نیک دارد این مطلع از اوست :",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: دانشجویان با اخلاق هستند و در شعرهای خود تخیلات زیبایی دارند."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "پریروئی چرا از دیده مردم نهان باشد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا زیبایی تو از چشم مردم پنهان باشد، در حالی که شرم تو نمی‌گذارد در جمع مردم حضور داشته باشی؟"
     },
     {
       "VOrder": 3,

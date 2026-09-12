@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گفتم که منم گفت بکن استغفار",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفتم من خودم هستم، او گفت پس استغفار کن. گفتم نه، من خودم هستم، او گفت که پس شکرانه بیاور."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گفتم که من از وجود خود بیزارم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفتم که از وجود خود ناخشنودم، او پاسخ داد که من همه هستی‌ام و تو چه ارتباطی با خودت داری؟"
     },
     {
       "VOrder": 4,

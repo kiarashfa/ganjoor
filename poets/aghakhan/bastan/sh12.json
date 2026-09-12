@@ -151,7 +151,8 @@
       "Text": "چنین تابگاه گو کی نژاد",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس نمی‌تواند بگوید که آن شخص چه نسبتی دارد و از کجا آمده است، مگر کسانی که به دانش و حکمت دست یافته‌اند."
     },
     {
       "VOrder": 2,
@@ -167,7 +168,8 @@
       "Text": "که ارباس کرد مدی نام داشت",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در کوه‌های البرز شخصی به نام ارباس کرد زندگی می‌کرد و در آنجا سکونت داشت."
     },
     {
       "VOrder": 4,
@@ -183,7 +185,8 @@
       "Text": "سپاهی زقوم مدی گرد کرد",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: نیروهایی از قوم مدی جمع شدند و از شهر نینونه بیرون آمدند."
     },
     {
       "VOrder": 6,
@@ -199,7 +202,8 @@
       "Text": "بله زیس که او بود بابل خدای",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: بله، او کسی است که بابل، خدای همه کارها را به عنوان راهنما معرفی کرده است."
     },
     {
       "VOrder": 8,
@@ -215,7 +219,8 @@
       "Text": "زمغلوبی خصم دادش خبر",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: مخالف او از شکست خود خبر داد، زیرا او را همچون ستاره‌ای درخشان می‌دید."
     },
     {
       "VOrder": 10,
@@ -231,7 +236,8 @@
       "Text": "چو از کار نینویه پرداختند",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: پس از آن که از کار نینوا فارغ شدند، یکی از مردم مدی به سلطنت رسید."
     },
     {
       "VOrder": 12,
@@ -247,7 +253,8 @@
       "Text": "پس از شاه ارباس شش تن بدی",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: پس از یاری شاه ارباس، شش نفر از وزرای او به خدمت گرفتند و هر کدام به راهی مقدس و الهی رفتند."
     },
     {
       "VOrder": 14,
@@ -263,7 +270,8 @@
       "Text": "یکی ز آن میان بود نوذر بنام",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در میان آن‌ها فردی به نام نوذر وجود داشت و او با نام و ویژگی‌هایش در بین مردم مشهور بود."
     },
     {
       "VOrder": 16,
@@ -279,7 +287,8 @@
       "Text": "سه دیگر گو اشکش رزم زن",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی بخواهد به جنگ بپردازد، لازم است که چشمانی به اشک آغشته داشته باشد و البته نیازمند نیرویی است که بتواند رئیس و فرمانده‌ای قوی باشد."
     },
     {
       "VOrder": 18,
@@ -295,7 +304,8 @@
       "Text": "به پنجم کرزم آن یل شیر گیر",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: در اینجا شاعر به شخصیتی قوی و شجاع اشاره می‌کند که در مرحله پنجم از چالش‌ها و سختی‌ها، به دلیری و قدرت خود ادامه می‌دهد و در مرحله ششم نیز با تمام وجود آماده است تا بر مشکلات فائق آید."
     },
     {
       "VOrder": 20,
@@ -311,7 +321,8 @@
       "Text": "از ایران بهر گوشه برهم یکی",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: از ایران برای هر گوشه‌ای، کمی از زهر کشورهای دیگر گرفته‌اند."
     },
     {
       "VOrder": 22,
@@ -327,7 +338,8 @@
       "Text": "ز آترپاتن تا به کابل زمین",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: از آترپاتن تا کابل، هیچ چیزی را فراموش نکرده است؛ هر چیزی از آنچه که بوده، یادآوری می‌شود."
     },
     {
       "VOrder": 24,

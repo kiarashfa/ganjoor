@@ -221,7 +221,8 @@
       "Text": "قباد سپهبد چو آمد به هوش",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: وقتی قباد فرمانده به هوش آمد، با ارتش خود شور و هیجان به پا کرد."
     },
     {
       "VOrder": 2,
@@ -237,7 +238,8 @@
       "Text": "که برگاشتن روی بهر چرا؟",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: چرا برگشتن به سرزمین خود را ترک کردی؟ آیا مرده‌ام را رها کرده‌ای؟"
     },
     {
       "VOrder": 4,
@@ -253,7 +255,8 @@
       "Text": "شما را بکوشید از بهر نام",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: سعی کنید برای رسیدن به نامی نیک و معتبر تلاش کنید، زیرا از این طریق شما نیز خوشحال و شادکام خواهید شد."
     },
     {
       "VOrder": 6,
@@ -269,7 +272,8 @@
       "Text": "چه سازم بهانه کنون پیش شاه",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: چه کنم اکنون که در برابر شاه قرار دارم و او می‌پرسد که چرا آن سپاه به عقب برگشته است؟"
     },
     {
       "VOrder": 8,
@@ -285,7 +289,8 @@
       "Text": "مرا کاشک یکباره هوش از تنم",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: اگر یکباره تمام هوش و فکر من از بدنم برود، چه باید بگویم و چه کار کنم؟"
     },
     {
       "VOrder": 10,
@@ -301,7 +306,8 @@
       "Text": "که مردن نکوتر ز ناکرده‌کار",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: مردن به خاطر انجام کارهای نیک بهتر از آن است که بدون انجام هیچ کار مفیدی از دنیا برویم. این نشان‌دهنده‌ی اهمیت عمل و تلاش در زندگی است و اینکه باید به خواسته‌ها و مسئولیت‌هایمان پایبند باشیم."
     },
     {
       "VOrder": 12,
@@ -317,7 +323,8 @@
       "Text": "سپه گفت کاین کار ما کرده‌ایم",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: سپه اعلام کرد که ما این کار را انجام داده‌ایم و تو را دوباره به زندگی بازگردانده‌ایم."
     },
     {
       "VOrder": 14,
@@ -333,7 +340,8 @@
       "Text": "اگر شاه با ما کند آشتی",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: اگر شاه با ما صلح کند، خوب است، اما اگر نه، انتظار نداشته باشی که او راست و درست باشد."
     },
     {
       "VOrder": 16,
@@ -349,7 +357,8 @@
       "Text": "یکایک بگوییم هر کس به شاه",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: بیایید به هر یک از افراد بگوییم که تو از بازگشتن به درگاه شاه بی‌گناه هستی."
     },
     {
       "VOrder": 18,
@@ -365,7 +374,8 @@
       "Text": "چو بخشایش آرد، نورزد همی",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: وقتی که بخشش و رحمت خداوند فرا برسد، گناهان دیگر به سوی ما بازنمی‌گردند."
     },
     {
       "VOrder": 20,
@@ -381,7 +391,8 @@
       "Text": "اگر پهلوان تا سپیده‌دمان",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: اگر قهرمان تا صبح زود به میدان نرود، شانس و توانایی‌اش از دست خواهد رفت."
     },
     {
       "VOrder": 22,
@@ -397,7 +408,8 @@
       "Text": "به شمشیرمان کوش نگذاشتی",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: به خاطر تلاشی که کردیم، سپاهیان را به زانو درآوردی و بر زمین انداختی."
     },
     {
       "VOrder": 24,
@@ -413,7 +425,8 @@
       "Text": "همانا همان دوستر نزد شاه",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: واقعاً همان کسی که زنده از راه دور به سوی شاه می‌رسد، نزد او محبوب‌تر و باارزش‌تر است نسبت به دیگران."
     },
     {
       "VOrder": 26,
@@ -429,7 +442,8 @@
       "Text": "دژم شد سپهبد ز گفتارشان",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: سپهبد به خاطر سخنان و رفتار ناگواری که از آنها شنید، ناراحت و دلگیر شد."
     },
     {
       "VOrder": 28,
@@ -445,7 +459,8 @@
       "Text": "دلش بود از آن بازگشتن دژم",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: او دلش می‌خواست که از آن بازگشتن، ناخرسند باشد و در روز سوم، سپاهیانش به او رسیدند."
     },
     {
       "VOrder": 30,
@@ -461,7 +476,8 @@
       "Text": "به خون دست شسته دلیران همه",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: دلیران با دست‌های خونی خود، به جنگ با دشمنان رفته‌اند و از اسبان آنها دام‌ها و رمه‌ها را گرفته‌اند."
     },
     {
       "VOrder": 32,
@@ -477,7 +493,8 @@
       "Text": "سر نامجویان به فتراک بر",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: سر جست‌وجوگران را از جلو پایش به دام انداختند و بر زمین افکندند."
     },
     {
       "VOrder": 34,
@@ -493,7 +510,8 @@
       "Text": "یکایک بگفتندش از سرگذشت",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: هر یک از آنها به او گفتند که دیگر این ماجرا از یادشان رفته و از نتیجه‌ای که با لشکر چین در دشت اتفاق افتاده، چیزی به خاطر ندارند."
     },
     {
       "VOrder": 36,
@@ -509,7 +527,8 @@
       "Text": "بخندید و شد شادمانه دلش",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: او لبخند زد و با این کار دلش شاد و خنک شد، گلی که پژمرده بود دوباره درخشید."
     },
     {
       "VOrder": 38,

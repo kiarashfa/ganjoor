@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "روز و شب، این دعاست در باغم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در طول روز و شب، دعای من در میان باغ این است که گرمای آتش وجود ندارد و نه بلبل و نه تیهو در آنجا هستند."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "تا بود سرو و گل به باغ مباد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که در باغ سرو و گل وجود دارد، بلبل نباید از گل جدا شود و از سرو دور بماند."
     },
     {
       "VOrder": 4,

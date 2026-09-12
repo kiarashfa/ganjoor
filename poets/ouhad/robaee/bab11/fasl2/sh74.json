@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "ای شب تو علی رغم بدآموز مرو",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای شب، با وجود اینکه می‌توانی تأثیرات بدی بگذاری، اما شمع شادی من را خاموش نکن."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "ای صبح به جان او که امشب تو میا",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای صبح، به جان او قسم که شب گذشته نیایی و ای شب، به زیبایی او قسم که امروز نروی."
     },
     {
       "VOrder": 4,

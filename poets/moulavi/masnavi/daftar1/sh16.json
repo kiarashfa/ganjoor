@@ -411,7 +411,8 @@
       "Text": "دل بدو دادند ترسایان تمام",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "مسیحیان همه دل به او سپردند؛ قدرت تقلید مردمِ عامی همین‌قدر است که هرچه ببینند، همان را می‌پذیرند."
     },
     {
       "VOrder": 2,
@@ -427,7 +428,8 @@
       "Text": "در درون سینه مِهرش کاشتند",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "محبت او را در دلشان نشاندند و گمان کردند جانشین عیسی است."
     },
     {
       "VOrder": 4,
@@ -443,7 +445,8 @@
       "Text": "او به سِر دجّال یک چشم لعین",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "اما او در باطن مانند دجّالِ یک‌چشم و پلید بود.\nخدایا، تو فریادرس و یاری‌دهنده‌ای."
     },
     {
       "VOrder": 6,
@@ -459,7 +462,8 @@
       "Text": "صد هزاران دام و دانه‌ست ای خدا",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "ای خدا، هزاران دام و فریب در دنیا هست و ما مثل پرندگان حریص و بی‌پناهیم."
     },
     {
       "VOrder": 8,
@@ -475,7 +479,8 @@
       "Text": "دم به دم ما بستهٔ دام نویم",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هر لحظه گرفتار دام تازه‌ای می‌شویم، حتی اگر مثل باز یا سیمرغ قوی باشیم."
     },
     {
       "VOrder": 10,
@@ -491,7 +496,8 @@
       "Text": "می‌رهانی هر دمی ما را و باز",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "تو هر لحظه ما را نجات می‌دهی، اما ما دوباره به‌سوی دام دیگری می‌رویم."
     },
     {
       "VOrder": 12,
@@ -507,7 +513,8 @@
       "Text": "ما درین انبار گندم می‌کنیم",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "ما در انبار خود گندم جمع‌ می‌کنیم و گندم های جمع کرده را گم میکنیم"
     },
     {
       "VOrder": 14,
@@ -523,7 +530,8 @@
       "Text": "می‌نیندیشیم آخر ما به هوش",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "ما توجه نمی‌کنیم که\u00A0این نقص از حیلهٔ موشی است که در انبار ماست. موش = نفس، غرور، ریا، خودخواهی، وسوسه"
     },
     {
       "VOrder": 16,
@@ -539,7 +547,8 @@
       "Text": "موش تا انبارِ ما حفره زده است",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: موش به انبار ما راهی پیدا کرده و با کارهایش، انبار ما را خراب کرده است."
     },
     {
       "VOrder": 18,
@@ -555,7 +564,8 @@
       "Text": "اوّل ای جان دفع شَرِّ موش کن",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "اول باید شرّ نفس را دفع کرد، بعد به جمع‌کردن اعمال نیک پرداخت."
     },
     {
       "VOrder": 20,
@@ -571,7 +581,8 @@
       "Text": "بشنو از اخبار آن صدر الصّدور",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: به شنیدن اخبار آن بزرگ مقام بپرداز، زیرا هیچ نمازی کامل نمی‌شود مگر با حضور قلب."
     },
     {
       "VOrder": 22,
@@ -587,7 +598,8 @@
       "Text": "گر نه موشی دزد، در انبار ماست",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: اگر دزدی در انبار ما نباشد، پس نتیجهٔ اعمال سی ساله‌مان کجا رفته است؟"
     },
     {
       "VOrder": 24,
@@ -603,7 +615,8 @@
       "Text": "ریزه‌ریزه صدقِ هر روزه چِرا",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "\u00A0چرا ما هر روز کارهای خیر کوچک و جزئی انجام میدیم ولی\u00A0 اینا در انبار ما جمع نمی‌شود؟"
     },
     {
       "VOrder": 26,
@@ -619,7 +632,8 @@
       "Text": "بس ستارهٔ آتش از آهن جهید",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "برای مثال ، بر اثر برخورد سنگ چخماق ، شراره های بسیاری پدید می آید و دل سوخته ما آن شراره ها را به سوی خود جذب می کند و روشن می شود .– آثار اعمال صالحه و افکار فاضله در آغاز به صورت شراره و جرقه بر باطن آدمی جهیده شود و بر اثر تکرار آن و ثبات و صفای نیت ، تدریجا قوت گیرد و به صور شعله رخشان عشق و ایمان درآید ولی اگر نفس اماره وارد عمل شود نمی گذارد آن شراره به شعله عشق و ایمان و ملکه راسخه در آید"
     },
     {
       "VOrder": 28,
@@ -635,7 +649,8 @@
       "Text": "لیک در ظلمت یکی دزدی نهان",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "ولی یکی در تاریکی، دزدی مخفیانه انگشتش را بر جرقه ها می‌گذارد. [تا آتشی صورت نگیره]"
     },
     {
       "VOrder": 30,
@@ -651,7 +666,8 @@
       "Text": "می‌کُشد استارگان را یک به یک",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: هر ستاره یکی یکی از بین می‌رود تا اینکه چراغی از آسمان نپدید نشود."
     },
     {
       "VOrder": 32,
@@ -667,7 +683,8 @@
       "Text": "گر هزاران دام باشد در قَدم",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: هرچند که هزاران دام و کژراهه در سر راه باشد، اگر تو در کنارم باشی نگران هیچ چیز نخواهم بود."
     },
     {
       "VOrder": 34,
@@ -683,7 +700,8 @@
       "Text": "چون عنایاتت بود با ما مقیم",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: وقتی که لطف و محبت تو همیشه با ماست، دیگر از آن دزد بی‌خود ترسی نداریم."
     },
     {
       "VOrder": 36,
@@ -699,7 +717,8 @@
       "Text": "هر شبی از دام تن ارواح را",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: هر شب، تو ارواح را از بند جسم آزاد می‌کنی و به نوعی نوشته‌ها و آثار را نیز احیا می‌کنی."
     },
     {
       "VOrder": 38,
@@ -715,7 +734,8 @@
       "Text": "می‌رهند ارواح هر شب زین قفس",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: هر شب، ارواح آزاد از این قفس می‌روند، در حالی که نه حاکمی وجود دارد و نه محکومی."
     },
     {
       "VOrder": 40,
@@ -731,7 +751,8 @@
       "Text": "شب ز زندان بی‌خبر زندانیان",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: در شب، زندانیان از زندان خود بی‌خبرند و در همین حال، سلطان‌ها هم از حکومت و قدرت خود اطلاعی ندارند."
     },
     {
       "VOrder": 42,
@@ -747,7 +768,8 @@
       "Text": "نه غم و اندیشهٔ سود و زیان",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: خوشحالی و آرامش را در زندگی پیدا کن و به ضرر و فایده‌های مادی فکر نکن. به دیگران و مقایسه‌ها اهمیت نده و در پی خیال‌پردازی‌های بیهوده نباش."
     },
     {
       "VOrder": 44,
@@ -763,7 +785,8 @@
       "Text": "حالِ عارف این بود بی‌خواب هَم",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: عارف در حالتی است که بی‌خواب است و به خداوند می‌گوید که آرامش و سکون را از این معما به او عطا کند."
     },
     {
       "VOrder": 46,
@@ -779,7 +802,8 @@
       "Text": "خفته از احوال دنیا روز و شب",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: انسانی که در خواب و بی‌خبری از دنیای خود است، مانند قلمی است که در دست شخصی دیگر قرار دارد و هر طور که او بخواهد، تحت تأثیر و تغییر قرار می‌گیرد."
     },
     {
       "VOrder": 48,
@@ -795,7 +819,8 @@
       "Text": "آنکه او پنجه نبیند در رقم",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: او نمی‌تواند به جریان کارها و سرنوشت خود تسلط داشته باشد و فکر می‌کند که می‌تواند با نوشتن یا تصمیم‌گیری، سرنوشتش را تغییر دهد."
     },
     {
       "VOrder": 50,
@@ -811,7 +836,8 @@
       "Text": "شمّه‌ای زین حالِ عارف وانمود",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: عارف نگاهی از درون خود به ما نشان می‌دهد که عقل را نیز در حالتی از خواب و غفلت فرو می‌برد."
     },
     {
       "VOrder": 52,
@@ -827,7 +853,8 @@
       "Text": "رَفته در صحرای بی‌چون جانشان",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: در بیابان بی‌نهایت، جان‌ها آرام و دل‌ها راحت‌اند و جسم‌ها در آسایش به سر می‌برند."
     },
     {
       "VOrder": 54,
@@ -843,7 +870,8 @@
       "Text": "وز صفیری باز دام اندر کشی",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: اگر از نی به سیاهی بگویی، همه را در دام خودت بگرفتی و در قضاوت به آنجا خواهی کشید."
     },
     {
       "VOrder": 56,
@@ -859,7 +887,8 @@
       "Text": "چونکه نور صبحدم سَر بر زند",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: زمانی که نور صبح برخیزد، پرنده‌ای با بال‌های طلایی در آسمان پرواز می‌کند."
     },
     {
       "VOrder": 58,
@@ -875,7 +904,8 @@
       "Text": "فالق الاِصباح اسرافیل‌وار",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: بیدارکننده صبح، مانند اسرافیل، همه را از آن سرزمین با صورت و جلوه‌ای تازه می‌آراید."
     },
     {
       "VOrder": 60,
@@ -891,7 +921,8 @@
       "Text": "روح‌های منبسط را تن کند",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: روح‌های گسترده و آزاد در بدن‌ها می‌توانند تن‌ها را در بر بگیرند و هر یک را آماده‌ی تولد یا پذیرش جدیدی کنند."
     },
     {
       "VOrder": 62,
@@ -907,7 +938,8 @@
       "Text": "اسپِ جان‌ها را کُند عاری ز زین",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: اسب جان‌ها را از زین خالی می‌کند، زیرا سرنوشتی همچون خواب مرگ در انتظار است."
     },
     {
       "VOrder": 64,
@@ -923,7 +955,8 @@
       "Text": "لیک بهر آنکه روز آیند باز",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: اما برای کسانی که روزی دوباره بازگردند، پایشان را با زنجیرهایی طولانی می‌بندند."
     },
     {
       "VOrder": 66,
@@ -939,7 +972,8 @@
       "Text": "تا که روزش واکشد زان مَرغزار",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که خورشید از آن دشت سر بر آورد و او را در زیر باران به چراگاه بیاورد."
     },
     {
       "VOrder": 68,
@@ -955,7 +989,8 @@
       "Text": "کاش چون اصحاب کهف این روح را",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: ای کاش روح من را مانند یاران کهف حفظ می‌کردی یا همچون کشتی نوح که نجات داد."
     },
     {
       "VOrder": 70,
@@ -971,7 +1006,8 @@
       "Text": "تا ازین توفانِ بیداری و هوش",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که از این طوفان بیداری و آگاهی رهایی یابی، این ذهن و چشم و گوش تو به درستی کار خواهند کرد."
     },
     {
       "VOrder": 72,
@@ -987,7 +1023,8 @@
       "Text": "ای بسی اصحابِ کهف اندر جهان",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: ای دوستانی که در زمان خواب و بیداری با هم هستید، در این دنیا افرادی مثل شما وجود دارند که در کنار شما هستند و به شما نزدیکند."
     },
     {
       "VOrder": 74,
@@ -1003,7 +1040,8 @@
       "Text": "یار با او غار با او در سُرود",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: دوست و یار همیشه با اوست و در عشق و محبت، مهر بر چشمان او می‌نشیند و بر گوشش چه فایده‌ای دارد."
     },
     {
       "VOrder": 76,

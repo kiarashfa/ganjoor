@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای دوست! اگر تو دوستدار خویشی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دوست، اگر تو واقعاً دوستدار خودت هستی، تا کی می‌خواهی به دیگران وابسته باشی و خود را تحت تأثیر آنها قرار دهی؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "هر چند که بیشتر همی آموزی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چقدر که بیشتر یاد می‌گیری، باز هم می‌بینمت که در همان حالت گذشته هستی."
     },
     {
       "VOrder": 4,

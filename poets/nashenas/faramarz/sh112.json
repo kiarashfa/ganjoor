@@ -511,7 +511,8 @@
       "Text": "سپه را برانگیخت شیروی گرد",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: سپه را به حرکت درآورد و غباری از گرد و غبار بر روی آن‌ها روانه کرد."
     },
     {
       "VOrder": 2,
@@ -527,7 +528,8 @@
       "Text": "بزد بر سپاه مهارک سپاه",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: سپاه مهارک به سمت دشمن حمله کرد و در نتیجه، رودخانه‌ای از خون در میدان جنگ جاری شد."
     },
     {
       "VOrder": 4,
@@ -543,7 +545,8 @@
       "Text": "سپه را به یک حمله از جا بکند",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: به راحتی می‌توان سپاه را با یک حمله از جا کند و به دروازه شهرشان برساند."
     },
     {
       "VOrder": 6,
@@ -559,7 +562,8 @@
       "Text": "فراوان ز هندو سپه کشته شد",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: در شهر، کشته‌های بیشماری از هندوها به زمین افتاده و مانند توده‌های بزرگ جمع شده‌اند."
     },
     {
       "VOrder": 8,
@@ -575,7 +579,8 @@
       "Text": "مهارک چو افکند خود را به شهر",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: زمانی که او خود را به شهر رها کرد، از شدت غم و اندوهی که داشت، احساس ناراحتی و پریشانی کرد."
     },
     {
       "VOrder": 10,
@@ -591,7 +596,8 @@
       "Text": "ببستند دروازه شهر تنگ",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: دروازه‌های شهر به دلیل بارش سنگ‌های فراوان بسته شد و ورود و خروج به شهر محدود شد."
     },
     {
       "VOrder": 12,
@@ -607,7 +613,8 @@
       "Text": "سپهدار شیر یل نامجوی",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: فرمانده دلاور و شجاعی به نام یل، در کنار دروازه حضور داشت و از ایستادن در آن مکان پرهیز کرد."
     },
     {
       "VOrder": 14,
@@ -623,7 +630,8 @@
       "Text": "سپاه از در شهر بیرون کشید",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: ارتش از دروازهٔ شهر خارج شد و به سمت دشت و زمین‌های وسیع رفت."
     },
     {
       "VOrder": 16,
@@ -639,7 +647,8 @@
       "Text": "کس از شهر بیرون نیامد به جنگ",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: هیچ کس از شهر بیرون نیامد تا بجنگد و برای شجاعت خود به سراغ نام و اعتبار نرفتند."
     },
     {
       "VOrder": 18,
@@ -655,7 +664,8 @@
       "Text": "خردمند شیروی آزاده مرد",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: یک مرد عاقل و آزاد، نامه‌ای به سوی فرامرز یل فرستاد."
     },
     {
       "VOrder": 20,
@@ -671,7 +681,8 @@
       "Text": "نویسنده را خواند نزدیک خود",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: نویسنده را به نزد خود احضار کرد و به او گفت: ای فرد نیکو اندیش و دانا."
     },
     {
       "VOrder": 22,
@@ -687,7 +698,8 @@
       "Text": "چنان چون سزای جهان پهلوان",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: به مانند اینکه برای پهلوان بزرگ جهان، یک نامه‌ای در لحظه‌ای حساس و حیاتی بنویسید."
     },
     {
       "VOrder": 24,
@@ -703,7 +715,8 @@
       "Text": "نخستین که بر نامه بنهاد دست",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: نخستین کسی که آغاز به نوشتن کرد، دستش را بر روی کاغذ گذاشت و نام خدا را نوشت."
     },
     {
       "VOrder": 26,
@@ -719,7 +732,8 @@
       "Text": "ازآن پس فراوان ستایش گرفت",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: پس از آن، فرامرز به شدت مورد ستایش قرار گرفت و مردم برای او دعای خیر کردند."
     },
     {
       "VOrder": 28,
@@ -735,7 +749,8 @@
       "Text": "به جنگ مهارک به روز نخست",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: در نبرد مهارک، در روز اول، راهی را به سمت دروازه شهر جستجو کرد."
     },
     {
       "VOrder": 30,
@@ -751,7 +766,8 @@
       "Text": "کنون شهر کشمیر دارد حصار",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: شهر کشمیر اکنون دیوار و حفاظی ندارد، اما همچنان محلی برای جنگ و نبرد است."
     },
     {
       "VOrder": 32,
@@ -767,7 +783,8 @@
       "Text": "من ایدون در شهر دارم نشست",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: من در این شهر نشسته‌ام، ولی نگرانم که ناخواسته به چیزی یا کسی که نباید برسم."
     },
     {
       "VOrder": 34,
@@ -783,7 +800,8 @@
       "Text": "اگر رای بیند جهان پهلوان",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: اگر خبر بیفتد که قهرمان بزرگ به سوی شهر کشمیر می‌رود، همه توجه‌ها به او جلب می‌شود و مردم دور او جمع می‌شوند."
     },
     {
       "VOrder": 36,
@@ -799,7 +817,8 @@
       "Text": "که من درگمانم که در شهر چین",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: من در خیال خود تصور می‌کنم که در شهر چین، پر از نیروهای نظامی و سلاح‌های فراوان است."
     },
     {
       "VOrder": 38,
@@ -815,7 +834,8 @@
       "Text": "بدین مایه لشکر نیاید به جنگ",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: این جمله بیان می‌کند که با این حجم کم از نیرو و توانایی، حتی لشکری هم قادر به جنگیدن نیست و تنها به همین سرزمین خود توجه دارد، چرا که از دشمن در تنگنا است."
     },
     {
       "VOrder": 40,
@@ -831,7 +851,8 @@
       "Text": "کنون بر هیونی بکردار باد",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: اکنون بر کسی که کردار نیک دارد، باد را فرستاد از میان افرادی که خوشبخت و نیکو زاده هستند."
     },
     {
       "VOrder": 42,
@@ -847,7 +868,8 @@
       "Text": "وز آن سو به روز چهارم پگاه",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: و از آن طرف، در روز چهارم صبح، هنگامی که خورشید از میان گرد و غبار برآمد، آسمان رنگ لاجوردی به خود گرفت."
     },
     {
       "VOrder": 44,
@@ -863,7 +885,8 @@
       "Text": "برون برد از شهر مردان کار",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: مردان کار، از شهر بیرون رفتند تا به جنگ با شیر و دواله‌ها بروند."
     },
     {
       "VOrder": 46,
@@ -879,7 +902,8 @@
       "Text": "سپهدار شیروی با هوش و هنگ",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: سردار شیروانی با intelligence و سرعتش به سرعت آمد و درنگ نکرد."
     },
     {
       "VOrder": 48,
@@ -895,7 +919,8 @@
       "Text": "چنان دان که سالار با هوش و تاب",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: بدان که یک رهبر با inteligencia و استقامت، به خوبی می‌داند کجا باید سرعت را افزایش دهد و از درنگ جلوگیری کند."
     },
     {
       "VOrder": 50,
@@ -911,7 +936,8 @@
       "Text": "به هوشی شکیب و جوانی خرد",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: با درایت و صبر و جوانی هوشمند، می‌توان به موفقیت و تسلط بر دشمان دست یافت."
     },
     {
       "VOrder": 52,
@@ -927,7 +953,8 @@
       "Text": "بدین سان همی بود شیروی گرد",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: این گونه است که شیر، در دل سپاه با شجاعت و تیزی به سمت کسی حمله نمی‌کند."
     },
     {
       "VOrder": 54,
@@ -943,7 +970,8 @@
       "Text": "ولیکن برابر صفی برکشید",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: اما سدی محکم و قوی برابر آن بکشید تا بتوانید دشمن را به عقب بررانید."
     },
     {
       "VOrder": 56,
@@ -959,7 +987,8 @@
       "Text": "نبودش مر آن رزم را آرزوی",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: آن جنگ را آرزویی نیست مگر اینکه پهلوانی در آن حضور یابد."
     },
     {
       "VOrder": 58,
@@ -975,7 +1004,8 @@
       "Text": "وز آن سو فرامرز با رای هند",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: فرامرز با تدبیر و حکمت هند از سمت دیگر به قنوج آمد و از مسیر سند حرکت کرد."
     },
     {
       "VOrder": 60,
@@ -991,7 +1021,8 @@
       "Text": "به شهر اندر آورد رای برین",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: با فکر و نظری که در شهر مطرح شد، به صورتی که شایسته و مناسب بود، مورد تشویق و تمجید قرار گرفت."
     },
     {
       "VOrder": 62,
@@ -1007,7 +1038,8 @@
       "Text": "به مردیش بنشاند بر تخت عاج",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: او را به مقام و جایگاه بزرگی نشاند و تاجی زیبا بر سرش گذاشت که چهره‌اش را درخشان‌تر کند."
     },
     {
       "VOrder": 64,
@@ -1023,7 +1055,8 @@
       "Text": "مسخر شدش بوم هندوستان",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: هندوستان به طرز عجیبی تحت تاثیر قرار گرفت و جادوگرانش به طرز غیرمنتظره‌ای به حقیقت پیوستند."
     },
     {
       "VOrder": 66,
@@ -1039,7 +1072,8 @@
       "Text": "به رامش نشستند با فرهی",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: در یک جشن و میهمانی باشکوه، همه در کنار هم نشسته‌اند و با شادی و خوشحالی از زیبایی‌ها و ظرافت‌های آن محیط لذت می‌برند."
     },
     {
       "VOrder": 68,
@@ -1055,7 +1089,8 @@
       "Text": "شب و روز با گور و نخجیر و می",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: در شب و روز، با شادی و خوشی، زندگی را در کنار مرگ و شکار و نوشیدنی سپری کردند."
     },
     {
       "VOrder": 70,
@@ -1071,7 +1106,8 @@
       "Text": "فرستاده ای کرد شیرو به شب",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: شیرو فرستاده‌ای را به سمت فرامرز فرستاد و او با ادب و احترام به او برخورد کرد."
     },
     {
       "VOrder": 72,
@@ -1087,7 +1123,8 @@
       "Text": "چو آن نامه را بر فرامرز داد",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: وقتی آن نامه را به فرامرز داد، سپهبد یک روحیه و احساس خاصی به خواننده منتقل کرد."
     },
     {
       "VOrder": 74,
@@ -1103,7 +1140,8 @@
       "Text": "ز شیرو چو آگاه شد پهلوان",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: وقتی پهلوان از شیرو باخبر شد، به سمت جنگ رفت و آماده نبرد شد."
     },
     {
       "VOrder": 76,
@@ -1119,7 +1157,8 @@
       "Text": "نباید که با رامش و رود و می",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: نباید کسی که در حال لذت و خوشی است، برآشفته شود؛ زیرا دشمن ممکن است از این آرامش سوءاستفاده کند."
     },
     {
       "VOrder": 78,
@@ -1135,7 +1174,8 @@
       "Text": "بدان گه نشین خرم و شادمان",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: زمانی را در نظر بگیر که با خوشحالی و آرامش زندگی می‌کنی، چرا که در دنیا نشانه‌ای از دشمنی وجود ندارد."
     },
     {
       "VOrder": 80,
@@ -1151,7 +1191,8 @@
       "Text": "همانگه بفرمود تا کوس جنگ",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: در همان لحظه فرمان داد تا طبل جنگ را بزنند و جنگجویان بر اسب و فیل ها سوار شوند."
     },
     {
       "VOrder": 82,
@@ -1167,7 +1208,8 @@
       "Text": "چو آمد به گوش سپه بانگ کوس",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: هنگامی که صدای طبل به گوش رسید، از زیبایی چهره‌اش مانند چهره‌ی ماه، نشانه‌ای نمایان شد."
     },
     {
       "VOrder": 84,
@@ -1183,7 +1225,8 @@
       "Text": "چو شبرنگ مه لعل در زین کشید",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: زمانی که شبرنگ (اسب) مانند مه درخشان و لعل (جواهر قرمز) در زین خود را زیبا می‌سازد، ابرویش را به خاطر خشم به طرز خاصی چین‌دار می‌کند."
     },
     {
       "VOrder": 86,
@@ -1199,7 +1242,8 @@
       "Text": "همی راند روز و شبان با شتاب",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: روز و شب با سرعت در حال گذر هستند، مانند پرنده‌ای که در آسمان پرواز می‌کند و ماهی‌ای که در آب شنا می‌کند."
     },
     {
       "VOrder": 88,
@@ -1215,7 +1259,8 @@
       "Text": "ز منزل شبانگه چو برداشتی",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: هنگامی که از خانه در شب خارج می‌شوی، به سرعت می‌توانی مسافتی طولانی را در یک روز طی کنی و به مقصد برسی."
     },
     {
       "VOrder": 90,
@@ -1231,7 +1276,8 @@
       "Text": "چنان در شب تیره کردی گذر",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: تو به قدری در دل شب تاریکی پیش رفتی که حتی روز هم نتوانست تو را ببیند و از تو عبور کرد."
     },
     {
       "VOrder": 92,
@@ -1247,7 +1293,8 @@
       "Text": "همی تاخت زین گونه شیر ژیان",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: او با قدرت و شجاعت همچون شیری بی‌مانند، نه در آرامش استراحت می‌کند و نه در طول شبانه‌روز آرامش را می‌شناسد."
     },
     {
       "VOrder": 94,
@@ -1263,7 +1310,8 @@
       "Text": "چو تنگ اندر آمد به شیروی گرد",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: زمانی که ایجاد فشار و تنگنایی به وجود بیاید، همگان در کنار هم جمع می‌شوند تا به تسخیر دشمن بپردازند."
     },
     {
       "VOrder": 96,

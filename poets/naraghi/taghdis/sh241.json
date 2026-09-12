@@ -611,7 +611,8 @@
       "Text": "ای پدر هنگام رخصت دیر شد",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای پدر، وقتی که زمان رفتن فرا رسید، قلبم از این خرابی و ویرانی دیگر خسته و دل‌زده شده است."
     },
     {
       "VOrder": 2,
@@ -627,7 +628,8 @@
       "Text": "تا به کی بینم همالان سینه چاک",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: چقدر باید ببینم افرادی را که یکی در خون خود غرق است و دیگری به خاک افتاده است."
     },
     {
       "VOrder": 4,
@@ -643,7 +645,8 @@
       "Text": "تا به کی بینم تو را تنها و فرد",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: چقدر باید منتظر بمانم تا تو را در این بیابان، تنها و جدا از دیگران ببینم، در حالی که در میان صد جنگ و نبرد هستم؟"
     },
     {
       "VOrder": 6,
@@ -659,7 +662,8 @@
       "Text": "رخصتی ده تا کشم تیغ از نیام",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: اجازه‌ای بده تا شمشیر را از قلاف بیرون بکشم و آتش را در میان این مردم پست برافروزم."
     },
     {
       "VOrder": 8,
@@ -675,7 +679,8 @@
       "Text": "شاهزاده پیش آن شاه ایستاد",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: پرنس در برابر پادشاه ایستاد و به خاطر احترام، سرش را برهنه کرد و در برابرش زانو زد."
     },
     {
       "VOrder": 10,
@@ -691,7 +696,8 @@
       "Text": "با پدر می‌گفت کای سلطان من",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: با پدر صحبت می‌کرد و می‌گفت: ای پادشاه من، تو چه سلطان بزرگی هستی، تو جان منی."
     },
     {
       "VOrder": 12,
@@ -707,7 +713,8 @@
       "Text": "جان به لب آمد مرا از انتظار",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: انتظار فرا رسیدن فرصتی تا خسته و بی‌تاب شده‌ام، دیگر صبرم به پایان رسیده و جانم در حال تمام شدن است."
     },
     {
       "VOrder": 14,
@@ -723,7 +730,8 @@
       "Text": "لاابالی گشته‌ام صبرم نماند",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: به راحتی و بدون نگرانی زندگی می‌کنم و دیگر صبر و تحملی برایم نمانده است. این صبری که داشتم، در سختی‌ها و دردهایم بی‌فایده شده است."
     },
     {
       "VOrder": 16,
@@ -739,7 +747,8 @@
       "Text": "ای پدر دیگر نماندم طاقتی",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: ای پدر، دیگر تاب و توانی برایم نمانده است؛ برای خاطر خدا از من خداحافظی کن."
     },
     {
       "VOrder": 18,
@@ -755,7 +764,8 @@
       "Text": "شاهزاده پیش شه در التماس",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: شاهزاده با خواهش و ناله به حضور پادشاه آمده و در ستایش و قدردانی از او به نزد آسمان‌ها به اندازه هفت گردونه دعا می‌کند."
     },
     {
       "VOrder": 20,
@@ -771,7 +781,8 @@
       "Text": "مدتی بد پیش آن شه زین نسق",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: مدتی را به سر می‌بردم در کنار آن پادشاه، در حالی که دل و زندگی‌ام به شدت آشفته و پریشان بود."
     },
     {
       "VOrder": 22,
@@ -787,7 +798,8 @@
       "Text": "چون چنین دیدش شهنشاه جهان",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: وقتی شاه جهان چنین منظره‌ای را مشاهده کرد، نگاه‌ها را به سمت آسمان سوق داد."
     },
     {
       "VOrder": 24,
@@ -803,7 +815,8 @@
       "Text": "کای خدا ای پادشاه جسم و جان",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: ای خدا، ای فرمانروای جسم و روح، تو که هم به آنچه آشکار است و هم به آنچه پنهان است، آگاهی."
     },
     {
       "VOrder": 26,
@@ -819,7 +832,8 @@
       "Text": "گرچه جان من علیِ اکبر است",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: اگرچه زندگی من مانند علی اکبر ارزشمند است، اما جان من در راه تو بیشتر اهمیت دارد."
     },
     {
       "VOrder": 28,
@@ -835,7 +849,8 @@
       "Text": "خوش بود جان در ره تو باختن",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: در اینجا بیان شده که جان انسان در مسیری که دوست دارد، قربانی می‌شود. مانند پروانه‌ای که برای عشقش می‌سوزد و خود را فدای آن می‌کند. این نشان می‌دهد که عشق و ایمان به چیزی می‌تواند باعث فدای جان و از خودگذشتی شود."
     },
     {
       "VOrder": 30,
@@ -851,7 +866,8 @@
       "Text": "پس به رخصت شاه عالم لب گشاد",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: پس اجازهٔ صحبت از سوی پادشاه به او داده شد و او گفت: هر طور که می‌خواهی، خوش بگذران و خیر و نیکی در مسیرت باشد."
     },
     {
       "VOrder": 32,
@@ -867,7 +883,8 @@
       "Text": "هین برو ای نور ظلمت سوز من",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: برو ای روشنی‌بخش تاریکی من، ای تو آن خورشید که هر روز به روشنی می‌افزاید."
     },
     {
       "VOrder": 34,
@@ -883,7 +900,8 @@
       "Text": "هین برو ای راحت من جان من",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: بشتاب، ای مایه آرامش من، ای جان من، ای گل من، ای سرو من، ای خوشبویی من!"
     },
     {
       "VOrder": 36,
@@ -899,7 +917,8 @@
       "Text": "ای تو قربانی و من قربان تو",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: ای تو که خود قربانی عشق هستی و من هم برای تو فدا می‌شوم، من همه چیزم را به خاطر لبخند زیبا و خندان تو تقدیم می‌کنم."
     },
     {
       "VOrder": 38,
@@ -915,7 +934,8 @@
       "Text": "من فدای این گل رخسار تو",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: من جانم را فدای زیبایی چهره‌ات می‌کنم و برای گیسوان خوشبویت جان می‌دهم."
     },
     {
       "VOrder": 40,
@@ -931,7 +951,8 @@
       "Text": "هین بیا تا بوسم آن رخسار را",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: بیا تا چهره‌ی زیبایت را ببوسم و بوی زلف‌های خوشبویت را حس کنم."
     },
     {
       "VOrder": 42,
@@ -947,7 +968,8 @@
       "Text": "گرد آیید ای مقیمان حرم",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: ای کسانی که در حرم حضور دارید، جمع شوید و به بزرگداشت و احترام به این مکان پرده‌داران و خیمه‌نشینان بپردازید."
     },
     {
       "VOrder": 44,
@@ -963,7 +985,8 @@
       "Text": "توشه بردارید ازین روی چو ماه",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: از این دنیا توشه‌برداری کنید و مانند ماه، چشم‌هایتان را با نگاه خود سیراب کنید."
     },
     {
       "VOrder": 46,
@@ -979,7 +1002,8 @@
       "Text": "بعد از این او را امید دید نیست",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: پس از این، او به دیدن دوباره کسی امیدی ندارد و دیگر به بازگشت از این سفر خوشبین نیست."
     },
     {
       "VOrder": 48,
@@ -995,7 +1019,8 @@
       "Text": "پس وداع جمله کرد آن شهریار",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: پس آن پادشاه با همه وداع کرد و سوار بر عقابی که به نسبت باد پرواز می‌کند، شد."
     },
     {
       "VOrder": 50,
@@ -1011,7 +1036,8 @@
       "Text": "گفت از من بر شما بدرود باد",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: او گفت که از من به شما خداحافظی می‌کند و وعده دیدار ما به روز محشر موکول شد."
     },
     {
       "VOrder": 52,
@@ -1027,7 +1053,8 @@
       "Text": "از شما هر کس رسد سوی وطن",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: هر کس به شهر یثرب نزدیک شود، باید به اهل آن بگوید که پیام من از طرف من است."
     },
     {
       "VOrder": 54,
@@ -1043,7 +1070,8 @@
       "Text": "کای شماها شاد و خرم در وطن",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: ای شما که در سرزمین خود شاد و خوشحالید، مرا و روزهای من را به یاد داشته باشید."
     },
     {
       "VOrder": 56,
@@ -1059,7 +1087,8 @@
       "Text": "ای جوانان چون نشینید از نشاط",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: ای جوانان، وقتی که از شادی و نشاط روز و شب کنار هم می‌نشینید و با یکدیگر وقت می‌گذرانید، چطور است؟"
     },
     {
       "VOrder": 58,
@@ -1075,7 +1104,8 @@
       "Text": "از من و دوران من یاد آورید",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: از من و زمانی که در آن زندگی می‌کنم یاد کنید و به یاد لب‌های تشنه‌ام باشید."
     },
     {
       "VOrder": 60,
@@ -1091,7 +1121,8 @@
       "Text": "یاد آرید ای رفیقان وطن",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: ای دوستان وطن، گاهی به یاد من در گلستان‌ها باشید."
     },
     {
       "VOrder": 62,
@@ -1107,7 +1138,8 @@
       "Text": "نوجوانی چون ببینید ای مهان",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: اگر نوجوانی را ببینید، ای بزرگان، یاد وفای او را گرامی بدارید."
     },
     {
       "VOrder": 64,
@@ -1123,7 +1155,8 @@
       "Text": "از من ای مادر فراموشت مباد",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: ای مادر، هرگز فراموشم نکن و صدای من را از گوش‌هایت دور نکن."
     },
     {
       "VOrder": 66,
@@ -1139,7 +1172,8 @@
       "Text": "صبحدم مادر به جای زلف من",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: صبح زود، مادر به جای شانه کردن زلف من، زلف سنبل را با حسرت شانه می‌زند."
     },
     {
       "VOrder": 68,
@@ -1155,7 +1189,8 @@
       "Text": "گر نبینی چشم من را شاد و خَوش",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: اگر چشم من را خوشحال و شادمت ببینی، می‌توانی به یاد من، سرمه‌ای به چشم نرگس بگذاری."
     },
     {
       "VOrder": 70,
@@ -1171,7 +1206,8 @@
       "Text": "گر نظر خواهی به شمشاد قدم",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "اگر می‌خواهی شمشاد قدّ مرا ببینی، یک دم پا در گلستان بگذار."
     },
     {
       "VOrder": 72,
@@ -1187,7 +1223,8 @@
       "Text": "ای پدر از من هزارانت سلام",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: ای پدر، هزاران بار به تو سلام می‌رسانم؛ اگر پیامی برای جدّم داری، آن را بازگو کن."
     },
     {
       "VOrder": 74,
@@ -1203,7 +1240,8 @@
       "Text": "پس عنان را سوی میدان کرد باز",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: سپس کنترل را به سمت میدان برگرداند و از پشت سرش صد هزار چشم به او خیره شدند."
     },
     {
       "VOrder": 76,
@@ -1219,7 +1257,8 @@
       "Text": "آن یکی گفتا که خورشید سماست",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: یکی گفت که این نور همان خورشید است و دیگری پاسخ داد که نه، بلکه این نور متعلق به خداست."
     },
     {
       "VOrder": 78,
@@ -1235,7 +1274,8 @@
       "Text": "این جهان پُر شد ز بانگ آه آه",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: در این دنیا، صداهای دل شکستگی و ناله‌های اندوه به گوش می‌رسد و آسمان پر از ناله‌های افسوس و حسرت شده است."
     },
     {
       "VOrder": 80,
@@ -1251,7 +1291,8 @@
       "Text": "او روان شد سوی میدان جدال",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: او به سمت میدان جنگ رفت و در آنجا برای لحظه‌ای در برابر زیبایی خورشید متوقف شد و مجذوب آن شد."
     },
     {
       "VOrder": 82,
@@ -1267,7 +1308,8 @@
       "Text": "حوریان سر برکشیدند از قصور",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: زنانی زیبا و دل‌فریب از کاخ‌ها بیرون آمدند و در دست‌هایشان جام‌های شفاف و بلوری را داشتند."
     },
     {
       "VOrder": 84,
@@ -1283,7 +1325,8 @@
       "Text": "او همی رفت و دویدش در رکاب",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: او همچنان در حال حرکت بود و در کنار او به سرعت می‌دوید، گویی که اسماعیل قربانی در حال شتاب است."
     },
     {
       "VOrder": 86,
@@ -1299,7 +1342,8 @@
       "Text": "گوییا می‌گفت و می‌رفتش ز پی",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد او در حال گفتن چیزی بود و در عین حال به دنبال نوشیدن بود، گویی می‌گوید: «ای پسر، من برای تو فدای همه چیز می‌شوم»."
     },
     {
       "VOrder": 88,
@@ -1315,7 +1359,8 @@
       "Text": "من فدای چهر مه سیمای تو",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: من فدای چهره زیبا و ماهرویت هستم. ای کاش من جای تو بودم."
     },
     {
       "VOrder": 90,
@@ -1331,7 +1376,8 @@
       "Text": "او روان و صد هزارش دل ز پی",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: او روح و جانش را فدای عشق و محبتش کرده و دل‌های بسیاری را به خاطر او در آتش عشق می‌سوزاند و تمامی جهان در غم و اندوه او به سر می‌برد."
     },
     {
       "VOrder": 92,
@@ -1347,7 +1393,8 @@
       "Text": "تیغ نصرت بر کف و اسپر به دوش",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "شمشیر پیروزی در دست و سپر بر دوش، بر لبش صد خنده و بر ابروانش صد چین."
     },
     {
       "VOrder": 94,
@@ -1363,7 +1410,8 @@
       "Text": "ناگهان از طرف میدان شد عیان",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: ناگهان چیزی از سوی میدان به وضوح ظاهر شد، همچون خورشید که از کنار آسمان نمایان می‌شود."
     },
     {
       "VOrder": 96,
@@ -1379,7 +1427,8 @@
       "Text": "نور وی آن پهنه را روشن نمود",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: نور او آن منطقه را پر از روشنایی کرد و آن فضا را به گونه‌ای زینت بخشید که صد گلستان به چشم می‌آید."
     },
     {
       "VOrder": 98,
@@ -1395,7 +1444,8 @@
       "Text": "ساحت میدان سراسر نور شد",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: میدان به‌طور کامل روشن شد و نور حقیقت در آن تابید، به‌گونه‌ای که کوه طور نیز درخشان گردید."
     },
     {
       "VOrder": 100,
@@ -1411,7 +1461,8 @@
       "Text": "طور سینا یا رب این یا کربلاست",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: ای پروردگار، آیا اینجا طور سیناست یا کربلا؟ آیا اینجا محل حضور شهزاده یا نور الهی است؟"
     },
     {
       "VOrder": 102,
@@ -1427,7 +1478,8 @@
       "Text": "پهنه و پهنا همه انوار شد",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: کربلا به طور کامل از نور پر شده و همه جا روشنایی و جلوه‌های divine را به نمایش گذاشته است."
     },
     {
       "VOrder": 104,
@@ -1443,7 +1495,8 @@
       "Text": "صبح صادق بر سپاه شام تافت",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "هوش مصنوعی: صبح روشنی بر لشکر شام تابید، مانند آفتابی که بر همه چیز می‌تابد و همه را روشن می‌کند."
     },
     {
       "VOrder": 106,
@@ -1459,7 +1512,8 @@
       "Text": "دیده بگشودند ناگه آن سپاه",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "هوش مصنوعی: ناگهان، دیدگانشان را باز کردند و سپاهی را مشاهده کردند که جهانی را پر از نور الهی در برابر خود می‌یافتند."
     },
     {
       "VOrder": 108,
@@ -1475,7 +1529,8 @@
       "Text": "دیده‌هاشان خیره شد از آن جمال",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "هوش مصنوعی: چشمانشان از زیبایی او خیره شده و سینه‌هایشان پر از شور و هیجان است که نشان‌دهنده عظمت آن جمال است."
     },
     {
       "VOrder": 110,
@@ -1491,7 +1546,8 @@
       "Text": "بانگ تکبیر و تبارک زان گروه",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "هوش مصنوعی: صدای تکبیر و تبارک از آن گروه، صدایی پرخروش و شیوایی را در دشت و کوه به وجود آورد."
     },
     {
       "VOrder": 112,
@@ -1507,7 +1563,8 @@
       "Text": "آن یکی گفتا که پیغمبر رسید",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "هوش مصنوعی: یکی گفت که پیامبر آمد و گفت آن یک شیر حقیقت، علی بن ابی‌طالب، رسید."
     },
     {
       "VOrder": 114,
@@ -1523,7 +1580,8 @@
       "Text": "ای امیران بنگرید این شاه کیست",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "هوش مصنوعی: ای امیران! به این شاه توجه کنید که چه کس و چه مقامی است. او کیست و نشانه‌های بزرگی او چگونه است؟"
     },
     {
       "VOrder": 116,

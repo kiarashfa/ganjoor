@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "یا شاه تویی آنکه خدا را شیری",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو ای پادشاه، آیا تو آن کسی نیستی که همچون شیری در خط مقدم نبرد می‌جنگی و دشمنان را یکی پس از دیگری شکست می‌دهی؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "مپسند غلام عاجزت یا مولا",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای مولای من، از اینکه غلام ناتوان تو در این روزها ذلیل و درمانده شود، خوشنود نباش."
     },
     {
       "VOrder": 4,

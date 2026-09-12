@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "عقل را گوشه سرایی هست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عقل در محدوده‌ای خاص و محدود قرار دارد، اما عشق فضای وسیع و بازتری را فراهم می‌کند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "راه عشق است بی نشان، ورنه",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در مسیر عشق نشانی وجود ندارد، اما در مسیر عقل می‌توان ردپایی یافت."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "مرو از ره که این بیابان را",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از این راه نرو، چون در این بیابان ممکن است موج‌ها تو را فریب دهند و مسیر را اشتباه نشان دهند."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "داغ ما زود به نمی گردد",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: درد و رنج ما به زودی تمام نمی‌شود، اما این گل باغ خوشبختی امیدی برای ما دارد."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "بی عوض نیست هر چه می گیرند",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که به دست می‌آید بی‌دلیل و بی‌عوض نیست، زیرا هر چیزی که از آن استفاده می‌شود، در پس‌زمینه‌اش یک نغمه و معنا وجود دارد."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "نیست بی عیب هیچ موجودی",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ موجودی بدون نقص نیست و هر چیزی در صورت ظاهر ممکن است نقصی داشته باشد، مانند آینه که همیشه به یک سمت خود نقصی دارد."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "خانه ای را که نیست دربانی",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر خانه‌ای وجود نداشته باشد که دربانی نداشته باشد، پس ابروهای بوریایی (زیبا و خاص) به آن جا نمی‌آید. به بیان دیگر، وقتی که نگهبانی نیست، زیبایی‌ها هم به آنجا راه نمی‌یابند."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "سایه اهل جود، بال هماست",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سایه کسانی که سخاوت دارند، مانند بال پرنده‌ای است که به پرواز در می‌آید. باده را به من بده، زیرا هنوز فرصتی برای لذت بردن وجود دارد."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "در گریبان ز بوی پیرهنت",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در گریبان تو بوی پیراهن، گل‌هایی را دارد که دل را شاد می‌کند."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "چشم بیمار اگر شفا یابد",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر چشم بیمار بهبود پیدا کند، دل بیمار نیز درمان خواهد شد."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "اگر ز خود برون توانی رفت",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بتوانی از خودت خارج شوی، در دنیای وسیع و زیبایی که وجود دارد، فرصت‌های فراوانی منتظرت است."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "چون قلم، شاهراه معنی را",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من با قلم خود به سراغ مفهوم می‌روم و از آنجا که هنوز در حال تلاش و جستجو هستم، به مسیر خود ادامه می‌دهم."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "وسعت مشربی اگر داری",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دارای بینش و وسعت نظر باشی، هر مکانی می‌تواند تبدیل به محلی زیبا و دل‌انگیز شود."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "برو ای داغ فکر دیگر کن",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برو و از این فکرها دور شو، زیرا در دل کسانی که درد را احساس می‌کنند، همیشه جایی برای پذیرش وجود دارد."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "شعله تا این زمان نمی داند",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شعله تا به حال نمی‌داند که آتش درون من صدایی دارد."
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "صائب ساده دل چه می داند",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صائب، فردی ساده‌اندیش است و از این موضوع بی‌خبر است که ممکن است نشانه‌ها یا بیان خاصی وجود داشته باشد که برخی چیزها را بهتر توضیح دهد."
     },
     {
       "VOrder": 32,

@@ -521,7 +521,8 @@
       "Text": "بود به لفظ فرانسی ایا نگار جمیل",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "ای نگار زیبا! به زبان فرانسه خدا می‌شود\u00A0dieu، پیغمبر\u00A0prophète\u00A0و دلیل guide."
     },
     {
       "VOrder": 2,
@@ -537,7 +538,8 @@
       "Text": "«امی» صحابه، «سیل» آسمان، و غبرا «تِر»",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "ami دوست، ciel آسمان، زمین terre؛ place جای، paradise جنان (بهشت=فردوس)، سَقَر (=دوزخ) enfer."
     },
     {
       "VOrder": 4,
@@ -553,7 +555,8 @@
       "Text": "آتش است و قیامت شمار «سوپرم ژور»",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "آتش است و رستاخیز suprême jour ؛\u00A0visageچهره، poumon \u00A0شُش، سنگین lourd"
     },
     {
       "VOrder": 6,
@@ -569,7 +572,8 @@
       "Text": "«کوئیس» ران و «تالُن» پاشنه است و «لانگ» زبان",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "cuisse ران، talon \u00A0پاشنه، langue \u00A0زبان؛ lèvre لب، نُه neuf، دهان bouche"
     },
     {
       "VOrder": 8,
@@ -585,7 +589,8 @@
       "Text": "«لارنکس» حلق و «ژنو» زانو است و «کو» گردن",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "larnyx خِرخِره،\ngenoux زانو، cou گردن؛ oeil چشم، pied پا، main دست"
     },
     {
       "VOrder": 10,
@@ -601,7 +606,8 @@
       "Text": "«دوو» پر است و «مُئل» مغز و «سورسیل» ابرو",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "؟، moelle مغز، sourcil ابرو؛ oiseau پرنده (مرغ)، oie مرغابی، poil مو"
     },
     {
       "VOrder": 12,
@@ -617,7 +623,8 @@
       "Text": "«پواترین» بودت سینه و «اُریه» گوش",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "poitrine سینه، oreille گوش؛\u00A0tête\u00A0سر، chat گربه، souris موش"
     },
     {
       "VOrder": 14,
@@ -633,7 +640,8 @@
       "Text": "«شوال» اسب بُوَد، «موله» بغل و «شامه» شتر",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "اسب cheval، ؟، شتر chameau؛ ؟، زین selle، مرگ mort"
     },
     {
       "VOrder": 16,
@@ -649,7 +657,8 @@
       "Text": "«ام» است مرد و «فم» آمد زن و «اپو» زوج است",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "مرد homme، زن femme، زوج époux؛ ؟، موج vague"
     },
     {
       "VOrder": 18,
@@ -665,7 +674,8 @@
       "Text": "قنات «آکدک» و «سورس» چشمه، لای چو «فانژ»",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "کاریز (=قنات) aqueduc، چشمه source، لای fange، راستی (=صدق) vérité، پارسا pieux، فرشته ange"
     },
     {
       "VOrder": 20,
@@ -681,7 +691,8 @@
       "Text": "«پرنس» زاده شاه است و پادشاه «روا»",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "شاهزاده prince، پادشاه roi؛ بربط lyre، شهر ville، ماه mois"
     },
     {
       "VOrder": 22,
@@ -697,7 +708,8 @@
       "Text": "دروغ باشد «مانسنژ» و وتر دان «امپر»",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "دروغ mensonge، ؟؛ شایستگی (=حقیق) digne، بگیر prenez، آهن fer"
     },
     {
       "VOrder": 24,
@@ -713,7 +725,8 @@
       "Text": "درآی «انتره»، «سوفرانس» رنج و «دولر» درد",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "درآی (=بیا داخل) entrez، رَنج souffrance، درد douleur؛ سیاه noir، سرخ rouge، زرد jaune"
     },
     {
       "VOrder": 26,
@@ -729,7 +742,8 @@
       "Text": "«فیوْر» تب بُوَد و زیر «سو» و بالا «سور»",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "تب fièvre، زیر sous، بالا sur؛ استخوان os، نقاهت mal، پاک (زَکی) pur"
     },
     {
       "VOrder": 28,
@@ -745,7 +759,8 @@
       "Text": "ولیک پیر «ویو» باشد و جوان «ژُن» شد",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "پیر vieux، جوان jeune؛ روشنایی (=ضیاء) lumière، افق horizon"
     },
     {
       "VOrder": 30,
@@ -761,7 +776,8 @@
       "Text": "«لِژه» سبک بود، «ارژان» لجین، «اِتن» ارزیز",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "سَبُک lèger، نقره argent، ارزیر (=قلع) ètain؛ سُرب plomb، طلا (ذَهَب) or، مَویز (=انگور خشک شده) raisin sec"
     },
     {
       "VOrder": 32,
@@ -777,7 +793,8 @@
       "Text": "«کوئیور» مس شمر و «ویتر» شیشه شد به یقین",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "مس cuivre، شیشه vitre؛ روی zinc، معدن mine"
     },
     {
       "VOrder": 34,
@@ -793,7 +810,8 @@
       "Text": "مَتاع ارزان «بُن مارشه» و گران «شِر» دان",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "کالای ارزان bon marchè، گران cher؛ برادر frère، مادر mère، پدر père"
     },
     {
       "VOrder": 36,
@@ -809,7 +827,8 @@
       "Text": "چو «ارک» قوس و «فلش» تیر و دام می‌دان «پژ»",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "کمان arc، تیر flèche، دام piège؛ باران pluie، ابر nuage، برف niège"
     },
     {
       "VOrder": 38,
@@ -825,7 +844,8 @@
       "Text": "«کُت دُ مای» زره باشد، «اُرنمان» زیور",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "زره [نیم تنه] cotte de maille، زیور ornement؛ شمشیر sabre، سپر bouclier"
     },
     {
       "VOrder": 40,
@@ -841,7 +861,8 @@
       "Text": "غبار «پوسیر» و «نِرف» پی، «تره» پیکان",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "غبار poussière، پی (=عصب) nerf، ؟؛ لگام sangle، عنان bride\u00A0"
     },
     {
       "VOrder": 42,
@@ -857,7 +878,8 @@
       "Text": "بُت «ایدُل» است و شمن «ایدلاتر» و خانه «مِزُن»",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "بت idole، شمن (=بت پرست) idolâtre، خانه maison؛ درب porte، پنبه coton"
     },
     {
       "VOrder": 44,
@@ -873,7 +895,8 @@
       "Text": "کَر است «سورد»، توان «فُرس» و خستگی «مالز»",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "کَر sourd، توان force، خستگی malaise؛ پاره نان tranche، پاره آتش braise"
     },
     {
       "VOrder": 46,
@@ -889,7 +912,8 @@
       "Text": "«بُته» جمال و «لِدر» قُبح و سُرمه «کالامین»",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "زیبایی beautè، زشتی laideur، سرمه calamine؛ جامه habit، اثاث meuble، خمیر (=عجین) pâte"
     },
     {
       "VOrder": 48,
@@ -905,7 +929,8 @@
       "Text": "چو سقف و عرش «پلافُن»، «همید» تر، «سِک» خشک",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "سقف plafond، تَر humide، خشک sec؛ قلم plume، مداد (جوهر!) ancre، مُشک musc"
     },
     {
       "VOrder": 50,
@@ -921,7 +946,8 @@
       "Text": "چو رزق «پرسین» و توشه هست «مونی سین»",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "؟، توشه (ذخیره) munition؛ بزرگ grand، خُرد (کوچک) petit، خوب bon"
     },
     {
       "VOrder": 52,
@@ -937,7 +963,8 @@
       "Text": "خر، «آن» و فیل «الفان» و سمک «پواسن» دان",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "خر âne، فیل éléphant، ماهی poisson؛ زهر poison، مِیْ (نوشیدنی) boisson"
     },
     {
       "VOrder": 54,
@@ -953,7 +980,8 @@
       "Text": "«بف» است گاو نر و «واش» ماده، «سرپان» مار",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "ورزا (گاو نر) bœuf، گاو ماده vache، مار serpent؛ گوساله veaux، گرگ loup، کُرّه خر (آدم احمق) ânnêne"
     },
     {
       "VOrder": 56,
@@ -969,7 +997,8 @@
       "Text": "«پن» است نان و «ویاند» است لحم و عاقل «ساژ»",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "نان pain، گوشت viande، خردمند sage؛ دوغ petit lait، شیر lait، پنیر fromage"
     },
     {
       "VOrder": 58,
@@ -985,7 +1014,8 @@
       "Text": "«باتایه» جنگ و «پِ» صلح است و پُشته شد «کوسن»",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "جنگ bataille، صلح paix، پشتی coussin؛ خارش [پوست] prueriet، خنده [البته لبخند] sourir، پسر عمو cousin"
     },
     {
       "VOrder": 60,
@@ -1001,7 +1031,8 @@
       "Text": "شکار «شاس» بود «ژور» روز، «نوئی» شب",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "شکار chasse، روز jour، شب nuit؛ خورشید soleil، بگو مگو (پرخاش) brouillerie"
     },
     {
       "VOrder": 62,
@@ -1017,7 +1048,8 @@
       "Text": "«اپوز» زوجه، «ماری» شوهر و «دوئر» کابین",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "زن èpouse، شوهر mari، کابین douair؛ تخم (=بذر) semence، شاخه ramèe، بیخ (ریشه) racine"
     },
     {
       "VOrder": 64,
@@ -1033,7 +1065,8 @@
       "Text": "نر است «مال» و «بلِه» گندم است و »میل» ارزن",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "نر mâle، گندم blé، ارزن mil؛ گشاده آب eua-de-vie، شراب vin"
     },
     {
       "VOrder": 66,
@@ -1049,7 +1082,8 @@
       "Text": "«برانش» شاخه با برگ و، میوه دان «فرویی»",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "شاخه branche، میوه fruit؛ ما nous، همه tout، «تو، او و شما» celui"
     },
     {
       "VOrder": 68,
@@ -1065,7 +1099,8 @@
       "Text": "«مِر» است بحر و کنارش «بُر» است و قعرش «فُن»",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "دریا mer، کنار دریا (ساحل) bord، ته دریا font، کشتی vaisseau، نردبان échelle، پُل pont"
     },
     {
       "VOrder": 70,
@@ -1081,7 +1116,8 @@
       "Text": "غزال شوری، «مرس» است خوی و، تر «مویور»",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "غزال [البته بُز] chèvre، خوی (=خُلق) mœrs، تر [تر شدن] mouiller؛ کشتزار shamp، برزگر moissoneure"
     },
     {
       "VOrder": 72,
@@ -1097,7 +1133,8 @@
       "Text": "«تروئه» روزنه، سوزن «اگی» و رشته «سوا»",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "روزنه trouée، سوزن aigguille، رشته soie؛ بِطانه doublure، کوچه route، چوب bois"
     },
     {
       "VOrder": 74,
@@ -1113,7 +1150,8 @@
       "Text": "»ویو» است کهنه و «هاین» دریده و «تمان» رخت",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "کهنه vieux، دریده (منفور) haine، ؟؛ غرفه bar، ؟، درخت arbre"
     },
     {
       "VOrder": 76,
@@ -1129,7 +1167,8 @@
       "Text": "«پلر» سرشکِ بصر دان و «مُرو» آبِ دماغ",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "اشک pleur، آب دماغ movre؛ گذرگاه passage، بارو rempart، باغ jardin"
     },
     {
       "VOrder": 78,
@@ -1145,7 +1184,8 @@
       "Text": "«فوا» جگر بود، «انفینی» بیش و «پُ» اندک",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "جگر foie، بیش infini، اندک peu؛ بسیار infinement، فلک firmament"
     },
     {
       "VOrder": 80,
@@ -1161,7 +1201,8 @@
       "Text": "پلاس «درم»، صف رزم و نامه باشد «لِتر»",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "پلاس dorme، نامه و صف رزم lettre؛ مرد ابله sot، چکمه botte، هستی être"
     },
     {
       "VOrder": 82,
@@ -1177,7 +1218,8 @@
       "Text": "دوات «انکریه»، «کالکول» شمار و حساب",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "دوات encrier، شمار و حساب calcule؛ تمام beaucoup، دور loin، کتاب livre"
     },
     {
       "VOrder": 84,
@@ -1193,7 +1235,8 @@
       "Text": "«رِزن» عنب شد و «وینی» بود درخت رزان",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "انگور raisin، مو (=درخت انگور یا تاک) vigne؛ بهار printemps، خزان automne"
     },
     {
       "VOrder": 86,
@@ -1209,7 +1252,8 @@
       "Text": "«هیور» زمان زمستان و فصل صیف «اِتِه»",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "زمستان hiver، تابستان été؛ گریبان collet، گُنگ muet، کنار côté"
     },
     {
       "VOrder": 88,
@@ -1225,7 +1269,8 @@
       "Text": "قلمتراش «کنیف» است و «کوتُ» باشد کارد",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "قلمتراش canif، کارد couteau، نان‌خورش (وعده غذا) mailles، شور salé، آرد farine"
     },
     {
       "VOrder": 90,
@@ -1241,7 +1286,8 @@
       "Text": "«پُم» است سیب و گلابی «پوار» و «فیگ» انجیر",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "سیب pomme، گلابی poire، انجیر fig؛ انار grenade، دلیر brave"
     },
     {
       "VOrder": 92,
@@ -1257,7 +1303,8 @@
       "Text": "«توبید» دان سِل، «پیلی بلان» شد اسفیدار",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "سل tubide، سپیدار paillé؛ توت mûrier، چنار platane"
     },
     {
       "VOrder": 94,
@@ -1273,7 +1320,8 @@
       "Text": "چو نخل «پالمیه» و برگ «فوی» و «اُرژ» شعیر",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "نخل palm، برگ feuille، جو orge؛ کیسه sachet، آخورگیر mengeoire"
     },
     {
       "VOrder": 96,
@@ -1289,7 +1337,8 @@
       "Text": "شد «آکلاد» تعانُق، مصافحت «بُن ژور»",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "روبوسی accolade، صبح به خیر bon jour؛ ساعت [مُچی یا بغلی] montre، دور کردن (راندن) empêche"
     },
     {
       "VOrder": 98,

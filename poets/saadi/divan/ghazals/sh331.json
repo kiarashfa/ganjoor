@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "هر که هست التفات بر جانش",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هر کس که توجه به جان خود دارد، به او بگو: لاف و ادعای عشق جانان را مزن!"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "درد من بر من از طبیب من است",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دردی که دارم از خود پزشک من است، پس باید به دنبال چه کسی برای درمان و دوا بگردم؟"
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "آن که سر در کمند وی دارد",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که در دام عشق او گرفتار است، نمی‌تواند جز با اجازه و خواست او جایی برود."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "چه کند بنده حقیر فقیر",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "AI: بنده ی کوچک و بی‌چیز چه کار می‌تواند بکند، اگر رییس و فرمانروا نباشد؟ (تصحیح AI: بندهٔ کوچک و بی‌چیز چه کار می‌تواند بکند، اگر گوش به فرمان رییس و فرمانروا نباشد؟)"
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "ناگزیر است یار عاشق را",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یار عاشق ناچارا باید از دوستانش ملامت بشنود."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "وآن که در بحر قلزم است غریق",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که در عمق دریا غرق شده‌است، چه فرقی برایش می‌کند که باران ببارد."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "گل به غایت رسید بگذارید",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "AI: گل به اوج شکوفایی خود رسیده است، بگذارید تا از درد و رنج هزاران دست که به آن رسیده‌اند، ناله کند. (تصحیح AI: گل به اوج شکوفایی خود رسیده است، بگذارید تا بلبل برای آن ناله کند.)"
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "عقل را گر هزار حجت هست",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه عقل دلیل‌های زیادی برای خود دارد، عشق به راحتی می‌تواند آن‌ها را نادیده بگیرد و ادعا کند که عقل در اشتباه است."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "هر که را نوبتی زدند این تیر",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که به او آسیب زدند، نشان آن تیری که به او اصابت کرده، تا مدت‌ها باقی می‌ماند."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "ناله‌ای می‌کند چو گریه طفل",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صدای ناله‌اش شبیه به گریه یک کودک است که کسی به درد واقعی او پی نمی‌برد."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "سخن عشق زینهار مگوی",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در مورد عشق احتیاط کن و درباره‌اش صحبت نکن. اگر هم خواستی صحبت کنی، دلیلی برای آن آماده داشته باش."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "نرود هوشمند در آبی",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ فرد باهوشی در آب نمی‌رود تا زمانی که پایان کار را نبیند."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "سعدیا گر به یک دمت بی‌دوست",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای سعدی، اگر به یک اشاره‌ات تمام دو جهان را به تو بدهند، اما بی دوست باشند، هیچ ارزشی نخواهد داشت."
     },
     {
       "VOrder": 26,

@@ -211,7 +211,8 @@
       "Text": "هستی بر مقیدات از حق",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: وجود به شرایط و محدودیت‌ها وابسته نیست و حقیقت واقعی از قید و بندها آزاد است."
     },
     {
       "VOrder": 2,
@@ -227,7 +228,8 @@
       "Text": "از دو جانب فتاده استلزام",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: نیاز و درخواست ما از دو سو به ما فشار می‌آورد، اما این ضرورت به طور مداوم از یک سمت و به طور مستمر حس می‌شود."
     },
     {
       "VOrder": 4,
@@ -243,7 +245,8 @@
       "Text": "واجب از ممکن است مستغنی",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: چیزی که وجودش ضروری و واجب است، نیازی به هیچ چیز دیگری ندارد و از چیزهای ممکن بی‌نیاز است."
     },
     {
       "VOrder": 6,
@@ -259,7 +262,8 @@
       "Text": "خاصه ممکن افتقار بود",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: به ویژه ممکن است که او از هر نوع و هر شمارتی بی‌نیاز باشد."
     },
     {
       "VOrder": 8,
@@ -275,7 +279,8 @@
       "Text": "از گدا مضحک است، استغنا",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: از فقر و نیاز دلسرد شدن، در حالی که واقعاً هیچ چیز برای از دست دادن نداریم، خنده‌دار است. در واقع، خداوند منبع واقعی ثروت و نعمت است."
     },
     {
       "VOrder": 10,
@@ -291,7 +296,8 @@
       "Text": "لازم مطلق است اگر ممکن",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: این سخن را می‌توان این‌گونه معنا کرد: اگر چیزی ضروری و حتمی است، پس هرگونه شک و تردیدی در مورد آن بی‌معناست، حتی اگر مشاهده شود که ممکن نیست."
     },
     {
       "VOrder": 12,
@@ -307,7 +313,8 @@
       "Text": "نیست لازم مقید مخصوص",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: لزومی ندارد که کسی به شکل خاص و معین دچار محدودیت شود و نتواند به طور کلی به یک موضوع خاص بپردازد."
     },
     {
       "VOrder": 14,
@@ -323,7 +330,8 @@
       "Text": "بدلی چون که نیست مطلق را",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: هیچ چیزی در عالم وجود ندارد که مطلق باشد، زیرا وجود تعدد و کثرت در حقیقت و اصل واحد حق وجود دارد."
     },
     {
       "VOrder": 16,
@@ -339,7 +347,8 @@
       "Text": "قبلهٔ احتیاج ها همه اوست",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: تمام نیازها به او وابسته است و تمامی جزئیات و کلیات زندگی در سایهٔ وجود او قرار دارد."
     },
     {
       "VOrder": 18,
@@ -355,7 +364,8 @@
       "Text": "بی نیازی مطلق از ذات است",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: خداوند به هیچ چیزی احتیاج ندارد و خود کفاست. او مرکزی است که تمام نیازها به سمت او می‌رود."
     },
     {
       "VOrder": 20,
@@ -371,7 +381,8 @@
       "Text": "لیک الوهیت و ربوبیت",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: اما آیا ممکن است که ذات خداوند بدون قید و شرط، شکل و ظاهری داشته باشد؟"
     },
     {
       "VOrder": 22,
@@ -387,7 +398,8 @@
       "Text": "شده شمس ظهور اسمایی",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: شمس به شکلی جلوه‌گری کرده که تمام موجودات خواسته‌ای از او دارند."
     },
     {
       "VOrder": 24,
@@ -403,7 +415,8 @@
       "Text": "طالبیت مقام تفضیل است",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: دوست داشتن و طلب چیزی، نشان‌دهنده‌ی مقام و جایگاه برتر است. حالا باید فهمید که مفهوم جمله‌ای که می‌گوید «دوست داشتم» چیست و چه تأویلی می‌توان از آن داشت."
     },
     {
       "VOrder": 26,
@@ -419,7 +432,8 @@
       "Text": "ذات کامل، کمال خود خواهد",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: وجود کامل تمایلی به رسیدن به کمال خود دارد و هر موجود زیبایی نیز خواهان زیبایی‌اش است."
     },
     {
       "VOrder": 28,
@@ -435,7 +449,8 @@
       "Text": "لاجرم در مظاهر آفاق",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: بنابراین، در جلوه‌های مختلف جهان به طور جامع و بی‌قید و شرط نمایان خواهد شد."
     },
     {
       "VOrder": 30,
@@ -451,7 +466,8 @@
       "Text": "اوج اطلاق و قید تنزیلی",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: اوج مفهوم نامحدود و محدودیت‌های مشخص، به نوعی تقسیم‌بندی کلی و جزئی اشاره دارد."
     },
     {
       "VOrder": 32,
@@ -467,7 +483,8 @@
       "Text": "جمله ابیات من که می خوانی",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: تمام اشعار من که می‌خوانی همه نشانه‌های خداوند است اگر بدانید."
     },
     {
       "VOrder": 34,
@@ -483,7 +500,8 @@
       "Text": "گفتمت از دل معارف زای",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: به تو گفتم که از عمق معارف و دانایی سخن بگو، اما مواظب باش که ناخواسته تصمیم نادرستی نگیری و به لغزش نیفتی."
     },
     {
       "VOrder": 36,

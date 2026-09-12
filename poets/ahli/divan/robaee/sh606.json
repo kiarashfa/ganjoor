@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "پروانه‌صفت اهلی اگر سوخته‌ای",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر مانند پروانه در آتش می‌سوزی، به خاطر این است که به شمع خیره شده‌ای."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "در آتش خویش اگر بسوزی خاموش",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر خودت در آتش درونت بسوزی، دیگر خودت را خاموش نکن. چون این آتش پر از درد و رنجی است که خودت آن را روشن کرده‌ای."
     },
     {
       "VOrder": 4,

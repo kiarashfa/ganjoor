@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "یک سو پسرت نشسته و یک سو زن",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک طرف پسرت نشسته و طرف دیگر همسرت. این دو را در کنار هم قرار بده و از طرف همسرت نیرو بگیر."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "عیسی نتوانست بر افلاک رسید",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عیسی نتوانست به آسمان‌ها سفر کند، زیرا حتی یک سوزن از وسایل دنیا را نیز در اختیار نداشت."
     },
     {
       "VOrder": 4,

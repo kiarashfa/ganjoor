@@ -351,7 +351,8 @@
       "Text": "شیخ را علم شرع باید و دین",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: عالم دینی باید به دانش شرعی مسلط باشد و دین، نوعی حکمت است که باید صحیح و استوار باشد."
     },
     {
       "VOrder": 2,
@@ -367,7 +368,8 @@
       "Text": "نفسی طیب و دمی مشکی",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: رهاییم از نگرانی و تنگی نفس، و زندگی‌ام همچون درختی سرسبز و سالم است، با اندیشه‌ای خالص و دور از کدورت و تیرگی‌ها."
     },
     {
       "VOrder": 4,
@@ -383,7 +385,8 @@
       "Text": "خاطری مطمئن و چشمی سیر",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: ذهنی آرام و چشمی پر از دیدن در میان گفت‌وگوهای بی‌پروا و شجاع."
     },
     {
       "VOrder": 6,
@@ -399,7 +402,8 @@
       "Text": "کارها کرده در خلا و ملا",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: انسان باید در انجام کارهایش دقت کند و از مشکلات و مصایب دوری کند، تا دچار عذاب نشود و از گرفتاری‌ها خلاص باشد."
     },
     {
       "VOrder": 8,
@@ -415,7 +419,8 @@
       "Text": "بوده در حکم مرشدی ز نخست",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: در آغاز، او به عنوان یک راهنما و معلم بوده و همیشه از دستورات او پیروی کرده است."
     },
     {
       "VOrder": 10,
@@ -431,7 +436,8 @@
       "Text": "دل خود را به خون بپرورده",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: دل من از درد و مصیبت پر از غم و اندوه است، چرا که به خاطر نفس و خواسته‌های خودم به مرگ و نابودی رسیده‌ام و حالا باید عواقب آن را بپردازم."
     },
     {
       "VOrder": 12,
@@ -447,7 +453,8 @@
       "Text": "چارهٔ نفس خود توانسته",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: توانسته‌ام راهی برای کنترل نفس خود پیدا کنم و بر اساس دلایل و نشانه‌ها آن را فهمیده‌ام."
     },
     {
       "VOrder": 14,
@@ -463,7 +470,8 @@
       "Text": "فارغ از حجت و قیاس شده",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: شخصیت انسان به طور پنهانی از دلایل و استدلال‌های بیرونی مستقل است و به خوبی شناخته شده است."
     },
     {
       "VOrder": 16,
@@ -479,7 +487,8 @@
       "Text": "کرده دوری ز راه معنی، دور",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: کسی که از حقیقت و معنای واقعی دوری می‌کند، در واقع از مسیر اصلی دور شده و در عوض، با نشانه‌های روشن و نورانی نزدیک‌تر می‌شود."
     },
     {
       "VOrder": 18,
@@ -495,7 +504,8 @@
       "Text": "در ولایت به مسند شاهی",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: در سرزمین خود، کسی که با دانش و آگاهی به مقام سلطنت رسیده است."
     },
     {
       "VOrder": 20,
@@ -511,7 +521,8 @@
       "Text": "نه ز رد خسی دلش رنجه",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: دلش از رد یک خسی آزرده نمی‌شود و هیچ‌گاه به پذیرش کسی که قدرت زیادی ندارد، تمایل نشان نمی‌دهد."
     },
     {
       "VOrder": 22,
@@ -527,7 +538,8 @@
       "Text": "گفته جانش به صبر ایوبی",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: در این بیت به سختی و مقاومت اشاره شده که انسان باید مانند ایوب صبر پیشه کند و در عین حال به زیبایی‌ها و خوبی‌ها توجه داشته باشد، حتی در مواجهه با زشتی‌ها و ناملایمات."
     },
     {
       "VOrder": 24,
@@ -543,7 +555,8 @@
       "Text": "نه کسی را گرفت بر کارش",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: هیچ کس به کار کسی آگاه نیست و در مهارت‌های گفتاری او نیز ایرادی ندارد."
     },
     {
       "VOrder": 26,
@@ -559,7 +572,8 @@
       "Text": "گشته یار از کتاب و از سنت",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: یار از طریق مطالعه و پیروی از روش‌های سنتی، سرشار از تلاش و کوشش بدون انتظار پاداش است."
     },
     {
       "VOrder": 28,
@@ -575,7 +589,8 @@
       "Text": "وقتشان بر سر زبان راند",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: وقتش فرا رسیده بود که گفتند: تنها خدا می‌داند و او می‌خواهد."
     },
     {
       "VOrder": 30,
@@ -591,7 +606,8 @@
       "Text": "بر تو هر مشکلی که گیرد عقد",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: هر مشکلی که برای تو پیش آید، به زودی راه‌حلی برای آن پیدا خواهد شد و دردها و رنج‌های تو روشن و آشکار خواهند شد."
     },
     {
       "VOrder": 32,
@@ -607,7 +623,8 @@
       "Text": "روح در عرش و جسم در زندان",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: روح در آسمان‌ها به پرواز درآمده و جسم در دنیای مادی به بند کشیده شده است. در حالی که چهرهٔ او باز و لبخند بر لب دارد."
     },
     {
       "VOrder": 34,
@@ -623,7 +640,8 @@
       "Text": "اگرش مال کم شود شادست",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: اگر مال و دارایی‌اش کم شود، خوشحال است و اگر زیاد شود، برخودش می‌بالد."
     },
     {
       "VOrder": 36,
@@ -639,7 +657,8 @@
       "Text": "دنیی او ز بهر دین باشد",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: دنیا برای او به خاطر دینش است و حاصل زندگی‌اش برای کسانی که به جمع‌آوری خوبی‌ها مشغولند، فراهم می‌شود."
     },
     {
       "VOrder": 38,
@@ -655,7 +674,8 @@
       "Text": "شهرهٔ شهرها به پاک روی",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: مشهورترین و برجسته‌ترین افراد در بین مردم، با چهره‌ای زیبا و قوی و با اندیشه و اصول اخلاقی محکم، در عرصهٔ زندگی نمایانند."
     },
     {
       "VOrder": 40,
@@ -671,7 +691,8 @@
       "Text": "دل او از ریا بپرهیزد",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: دل او از نفاق دوری می‌کند و روشنایی‌اش از نور بزرگ الهی نشئت می‌گیرد."
     },
     {
       "VOrder": 42,
@@ -687,7 +708,8 @@
       "Text": "هر چه خواهد فلک فراخور او",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که فلک بخواهد، به طور مداوم و در هر لحظه، آن را در اختیار او قرار می‌دهد."
     },
     {
       "VOrder": 44,
@@ -703,7 +725,8 @@
       "Text": "شغل او بهجت و سرور بود",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: او در زندگی اش همیشه شادابی و خوشحالی را به همراه داشته و کارش هدایت مردم یا حضور در جمع آن‌ها بوده است."
     },
     {
       "VOrder": 46,
@@ -719,7 +742,8 @@
       "Text": "از پی جمع ساز و آلت او",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: خداوند برای تامین نیازهای انسان، وسایل و ابزارهای لازم را فراهم کرده است."
     },
     {
       "VOrder": 48,
@@ -735,7 +759,8 @@
       "Text": "مظهر حق و مظهر تحقیق",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: این فرد نمایانگر ذات الهی و حقیقت واقعی است و قلبش نسبت به مردم پر از محبت و مهربانی است."
     },
     {
       "VOrder": 50,
@@ -751,7 +776,8 @@
       "Text": "دیدن و داد او مبارک فال",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: دیدن و شنیدن او مژده‌ای خوش و نویدبخش است و یاد او حال و روز را خوش می‌کند."
     },
     {
       "VOrder": 52,
@@ -767,7 +793,8 @@
       "Text": "روی او هیبت و وقار دهد",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: ظاهر او به قدری باشکوه و با وقار است که انسان را تحت تأثیر قرار می‌دهد، و ویژگی‌های درونی‌اش باعث می‌شود که دیگران را به لطف و محبت وادار کند."
     },
     {
       "VOrder": 54,
@@ -783,7 +810,8 @@
       "Text": "مس به بویش ز دور زر گردد",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: اگر مس بویی داشته باشد، از دور طلا به نظر می‌رسد؛ و اگر خس (چمن) به یاد آن باشد، از مروارید هم با ارزش‌تر می‌شود."
     },
     {
       "VOrder": 56,
@@ -799,7 +827,8 @@
       "Text": "هر که با او نشست شاهی شد",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که با او هم‌نشینی و دوستی کند، به مقام و مرتبه‌ی بلندی دست می‌یابد و اگر از او فاصله بگیرد، دچار مشکل و زیان می‌شود."
     },
     {
       "VOrder": 58,
@@ -815,7 +844,8 @@
       "Text": "گر مرید کسی شوی این کس",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی پیرو کسی شوی، از آن شخص فقط یک چیز را بخواه: اینکه در این دنیا، او کافى است."
     },
     {
       "VOrder": 60,
@@ -831,7 +861,8 @@
       "Text": "این کسان باز دست سلطانند",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: این افراد همچنان در خدمت سلطان هستند، و دیگران مثل مگس دور و برشان می‌چرخند."
     },
     {
       "VOrder": 62,
@@ -847,7 +878,8 @@
       "Text": "به چنین پیر دست شاید داد",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: به چنین فرد باتجربه‌ای می‌توان اعتماد کرد که جوان را از قید و بند زندگی رهایی بخشد."
     },
     {
       "VOrder": 64,

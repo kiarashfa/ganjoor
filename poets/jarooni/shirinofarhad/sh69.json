@@ -151,7 +151,8 @@
       "Text": "جوابش داد کای شاه جوان بخت",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: او پاسخ داد: ای شاه جوان و خوش شانس، امیدوارم که همیشه هم تاج سلطنت و هم تخت پادشاهی را داشته باشی."
     },
     {
       "VOrder": 2,
@@ -167,7 +168,8 @@
       "Text": "غرض از بودن ما نیست جز آن",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: هدف از وجود ما تنها این است که گنجینه‌ای پنهان از ما آشکار شود."
     },
     {
       "VOrder": 4,
@@ -183,7 +185,8 @@
       "Text": "اگر آیینه نبود، چشم محبوب",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: اگر آیینه‌ای وجود نداشت، محبوب چگونه می‌توانست چهره زیبا و دلنواز خود را ببیند؟"
     },
     {
       "VOrder": 6,
@@ -199,7 +202,8 @@
       "Text": "تعین گر یکی ور صد هزار است",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: هر چقدر که تعداد افراد بیشتر شود، در نهایت همه‌ی آن‌ها بازتاب زیبایی و چهره‌ی محبوب هستند."
     },
     {
       "VOrder": 8,
@@ -215,7 +219,8 @@
       "Text": "چو خود را هم به خود آن یار بشناخت",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: وقتی که او خودش را از طریق دوستش شناخت، برای نشان دادن خود و ویژگی‌هایش، آینه‌هایی درست کرد."
     },
     {
       "VOrder": 10,
@@ -231,7 +236,8 @@
       "Text": "که تا هر گه ز خود با خود نشیند",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که هرگاه انسان به تنهایی و به دور از دیگران فکر کند، می‌تواند در هر آیینه‌ای تصویر خود را مشاهده کند و به درون خود نگاهی بیندازد."
     },
     {
       "VOrder": 12,
@@ -247,7 +253,8 @@
       "Text": "مگو کین را نکو، وان چیز بد دید",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: نگو که این شخص خوب است، این را فقط از ظاهرش می‌گویی. او چیزهای بدی را دیده که در هر آینه، در چهره خود نمایان است."
     },
     {
       "VOrder": 14,
@@ -263,7 +270,8 @@
       "Text": "اگر بد گرچه نیکو می‌نماید",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: اگرچه چیزهای بد ممکن است خوب به نظر برسند، اما حقیقت آنها به اندازه‌ی خود آینه نمایان می‌شود."
     },
     {
       "VOrder": 16,
@@ -279,7 +287,8 @@
       "Text": "دگر زآمد شدن مقصود آن است",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: هدف از آمدن دوباره این است که فرد خود را بررسی کند و ببیند وضعیتش چگونه است."
     },
     {
       "VOrder": 18,
@@ -295,7 +304,8 @@
       "Text": "بدان آگه ز بود خویش گردد",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: کسی که از وجود خود آگاه شود، به شناخت و درک بهتری از هویت و ویژگی‌های خود دست می‌یابد."
     },
     {
       "VOrder": 20,
@@ -311,7 +321,8 @@
       "Text": "بداند کوست در کونین مقصود",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: کسی که بداند در جهان، هدف اصلی کیست، به حقیقت می‌رسد که جز او هیچ موجود دیگری وجود ندارد."
     },
     {
       "VOrder": 22,
@@ -327,7 +338,8 @@
       "Text": "اگر کم بیند و گر بیش بیند",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: اگر کمی ببیند یا زیادی ببیند، در هر صورتی به چهره‌ی خود نگاه می‌کند."
     },
     {
       "VOrder": 24,

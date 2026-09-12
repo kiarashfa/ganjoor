@@ -391,7 +391,8 @@
       "Text": "یکی پیک پیکان اجل سوی او",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: یک پیام‌آور از سوی مرگ به او خبر داد که ای پادشاه، حالا وقت بازی و خوش‌گذرانی نیست."
     },
     {
       "VOrder": 2,
@@ -407,7 +408,8 @@
       "Text": "دل‌آرام را چشم بر راه توست",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: دل آرام من همیشه در انتظار توست و همه چیز به شکلی پیش می‌رود که تو بخواهی."
     },
     {
       "VOrder": 4,
@@ -423,7 +425,8 @@
       "Text": "بدان تیر از ترکش بوالحنوق",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: بدان که تیر از کمان بوالحنوق بیرون آمده و بد به بار نشسته است."
     },
     {
       "VOrder": 6,
@@ -439,7 +442,8 @@
       "Text": "بیامد نشست آن سه شاخ اژدها",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: یک موجود سه شاخ شبیه اژدها آمد و در جایی نشست که آنجا محل جستجوی مهر و زیبایی بود."
     },
     {
       "VOrder": 8,
@@ -455,7 +459,8 @@
       "Text": "ز پیشانی پاک شه سیل خون",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: از پیشانی پاک آن پادشاه، خون همچون سیلی سرازیر شد و بر روی مثل خورشیدش جاری گردید."
     },
     {
       "VOrder": 10,
@@ -471,7 +476,8 @@
       "Text": "شهنشه چو آن تیر بیرون کشید",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: وقتی پادشاه آن تیر را از کمان رها کرد، تمام صورت و محاسن را به خون آغشته کرد."
     },
     {
       "VOrder": 12,
@@ -487,7 +493,8 @@
       "Text": "برآورد سر گفت: ای کردگار",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: سر به سوی آسمان بلند کرد و گفت: ای خالق، تو می‌بینی که این مردم کارها و رفتار زشت و ناپسندی دارند."
     },
     {
       "VOrder": 14,
@@ -503,7 +510,8 @@
       "Text": "که از راه تو روی برکاشتند",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: کسانی که به خاطر تو از مسیر خود منحرف شدند، چه مشکلات و سختی‌هایی برای من ایجاد کردند."
     },
     {
       "VOrder": 16,
@@ -519,7 +527,8 @@
       "Text": "مر این ناکسان را پراکنده ساز",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: این بیت به درخواست از خدا یا نیرویی بالاتر اشاره دارد که افراد ناتوان و بی‌اراده را از هم جدا کرده و ریشه و بیخ آن‌ها را از زمین بکند. در واقع، سخن از قطع ارتباط و حضور این افراد در زمین است."
     },
     {
       "VOrder": 18,
@@ -535,7 +544,8 @@
       "Text": "به شمشیر از ایشان برآور دمار",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: با شمشیر به جنگ با آن‌ها برو و از بینشان کشتاری به راه بینداز تا هیچ کس از آن‌ها باقی نماند."
     },
     {
       "VOrder": 20,
@@ -551,7 +561,8 @@
       "Text": "میامرزشان هرگز ای دادگر",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: ای دادگر، هرگز آنها را نادوست دار، روحشان را به سوی دوزخ بفرست."
     },
     {
       "VOrder": 22,
@@ -567,7 +578,8 @@
       "Text": "پس آنگه برآورد آوا بلند",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: سپس آن فرد بزرگ، صدای بلندی برآورد و به لشگر این طور سخن گفت."
     },
     {
       "VOrder": 24,
@@ -583,7 +595,8 @@
       "Text": "که ای بدگهر قوم شیطان‌پرست",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که زادگان قوم شیطان‌پرست هستی، دستت به خون خداوند آغشته شده است."
     },
     {
       "VOrder": 26,
@@ -599,7 +612,8 @@
       "Text": "چه بد پاس فرمان حق داشتید",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: شما چه بد عمل کردید و چقدر سریع از مسیر درست منحرف شدید."
     },
     {
       "VOrder": 28,
@@ -615,7 +629,8 @@
       "Text": "به اولاد پیغمبر خویشتن",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس از امت‌ها به فرزندان پیامبر خود این‌گونه بدی نکرده است."
     },
     {
       "VOrder": 30,
@@ -631,7 +646,8 @@
       "Text": "پیمبر چنین کار فرمودتان‌؟",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: آیا پیامبر شما را به چنین کاری وادار کرده است؟ یا آیا این مسیر را شیطان به شما نشان داده است؟"
     },
     {
       "VOrder": 32,
@@ -647,7 +663,8 @@
       "Text": "پس از کشتن من ز روی جفا",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: پس از اینکه به ناحق مرا بکشند، قصد دارم که از پیروان پیامبر اسلام (ص) بمانم."
     },
     {
       "VOrder": 34,
@@ -663,7 +680,8 @@
       "Text": "بریزید خون‌ها به ناحق بسی",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: خون‌ها را بی‌دلیل بریزید و هیچ توجهی به کشتن کسی نداشته باشید."
     },
     {
       "VOrder": 36,
@@ -679,7 +697,8 @@
       "Text": "از این تیغ و نیزه برافراختن",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: از این شمشیر و نیزه برای آزار من استفاده کردن، به مانند سوارکاری است که با خشم به میدان می‌آید."
     },
     {
       "VOrder": 38,
@@ -695,7 +714,8 @@
       "Text": "گمانتان که من می‌شوم پست و خوار‌؟",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: شما فکر می‌کنید که من بی‌ارزش و حقیر می‌شوم؟ به خدا قسم که این‌طور نخواهد شد."
     },
     {
       "VOrder": 40,
@@ -711,7 +731,8 @@
       "Text": "شما راست خواری‌، شما را بدی",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: شما راستگو هستید، اما چرا از مسیر درست و الهی دور افتاده‌اید؟"
     },
     {
       "VOrder": 42,
@@ -727,7 +748,8 @@
       "Text": "چو من کشته گردم به راه خدا",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: اگر من در راه خدا جان بسپارم، سر پاکم از بدن جدا خواهد شد."
     },
     {
       "VOrder": 44,
@@ -743,7 +765,8 @@
       "Text": "مرا تخت‌گاه خدایی دهند",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: به من یک جایگاه بلند و باعظمت خواهند داد و تاج سلطنتی بر سرم خواهند گذاشت."
     },
     {
       "VOrder": 46,
@@ -759,7 +782,8 @@
       "Text": "دو گیتی ز یزدان شود زان من",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: هر دو جهان به دستور خداوند به وجود آمده است و به همین دلیل بهشت و جهنم نیز تحت اختیار و اراده من قرار دارد."
     },
     {
       "VOrder": 48,
@@ -775,7 +799,8 @@
       "Text": "برم دوستان را به خرم بهشت",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: من دوستانم را به بهشت شاد و خوش می‌برم، اما دشمنانم را به دوزخ عذاب می‌فرستم."
     },
     {
       "VOrder": 50,
@@ -791,7 +816,8 @@
       "Text": "مر این داده سر جان نثاران من",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که دوستان و یاران من که جان خود را فدای من کرده‌اند، در بهشت نیز با من هستند و از من جدا نمی‌شوند."
     },
     {
       "VOrder": 52,
@@ -807,7 +833,8 @@
       "Text": "چو مرغان قدسی همه پر زنان",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: همچون پرندگان آسمانی که با شادی و جنب و جوش در باغ‌های بهشت پرواز می‌کنند."
     },
     {
       "VOrder": 54,
@@ -823,7 +850,8 @@
       "Text": "کشد از شما کیفر اینجا خدای",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: خدا در این دنیا از شما انتقام می‌گیرد و روح‌تان در دنیای دیگر عذاب خواهد کشید."
     },
     {
       "VOrder": 56,
@@ -839,7 +867,8 @@
       "Text": "حصین نمیر سکونی چو دیو",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: محکم بایست و نلغز، چون دیوی که به سوی شاهان فریاد زده است."
     },
     {
       "VOrder": 58,
@@ -855,7 +884,8 @@
       "Text": "بگفتا: که ای زادهٔ\u00A0فاطمه (س)",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: به او گفت: ای فرزند فاطمه (س)، چه چیزی در دل‌ها ایجاد می‌کنی که ترس و وحشت به وجود می‌آورد؟"
     },
     {
       "VOrder": 60,
@@ -871,7 +901,8 @@
       "Text": "ز یزدان کدام است پاداش ما",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: اگر ما به خاطر جنگ و دشمنی، تو را بکشیم، خداوند چه پاداشی به ما خواهد داد؟"
     },
     {
       "VOrder": 62,
@@ -887,7 +918,8 @@
       "Text": "شهنشه بدو گفت: کای بدگهر",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: پادشاه به او گفت: ای فرزند ناپاک، خدایت بین شما کینه و دشمنی ایجاد کند."
     },
     {
       "VOrder": 64,
@@ -903,7 +935,8 @@
       "Text": "که گردید کشته به شمشیر خویش",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: هر کس که به دست خود درگیر خطا و گناه شود، به سرنوشت شومی دچار خواهد شد و هیچ چاره‌ای جز رفتن به جهنم نخواهد داشت."
     },
     {
       "VOrder": 66,
@@ -919,7 +952,8 @@
       "Text": "بمانید پس جاودان در عذاب",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: در عذاب جاودان بمانید و در آتش پرحرارت بسوزید."
     },
     {
       "VOrder": 68,
@@ -935,7 +969,8 @@
       "Text": "چو این گفته شد داور راستین",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: پس از اینکه این سخن بیان شد، قاضی عادل به جنگ نیروها با جدیت و آمادگی می‌پردازد."
     },
     {
       "VOrder": 70,
@@ -951,7 +986,8 @@
       "Text": "علم گشت بر دست او ذوالفقار",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: دانش و علم به اندازه‌ای در اختیار او قرار گرفت که مانند آسمان از آن دوری کرد و از او احتیاط می‌کند."
     },
     {
       "VOrder": 72,

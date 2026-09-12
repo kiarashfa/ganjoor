@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "از کهنه شاعران کاشان بود این مطلع از اوست :",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: این مطلع از یکی از شاعران قدیمی کاشان است."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "خال رخسار تو را در دل نشستی داده ام",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من اثر زیبای تو را در دل جا کرده‌ام و دل خود را به یک معشوق که از دیانت آتش‌پرستی پیروی می‌کند، سپرده‌ام."
     },
     {
       "VOrder": 3,

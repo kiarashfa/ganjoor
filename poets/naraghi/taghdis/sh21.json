@@ -631,7 +631,8 @@
       "Text": "گر نبودی پنبه اندر گوش تو",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: اگر پنبه در گوشتان نبود و اگر هر دو گوشتان می‌شنید، متوجه می‌شدید."
     },
     {
       "VOrder": 2,
@@ -647,7 +648,8 @@
       "Text": "می‌شنیدی نالهٔ پنهان جان",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: صدای ناله‌ی دل را می‌شنیدی و شکایت‌های بی‌پایان آن را می‌فهمیدی."
     },
     {
       "VOrder": 4,
@@ -663,7 +665,8 @@
       "Text": "می‌شنیدی تا چسان گوید سخن",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که تو باید بشنوی و درک کنی که چگونه کسی می‌تواند با دوستان و خانواده‌اش صحبت کند و ارتباط برقرار کند."
     },
     {
       "VOrder": 6,
@@ -679,7 +682,8 @@
       "Text": "نالد و گوید خدا را ای مهان",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: شخصی به شدت از دوری و تنهایی خود شکایت می‌کند و از دیگران می‌خواهد که خداوند را به یاد آورند و او را در این حال ناامیدی فراموش نکنند."
     },
     {
       "VOrder": 8,
@@ -695,7 +699,8 @@
       "Text": "مرغیم اندر قفس افتاده خوار",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: ما همچون پرنده‌ای هستیم که در قفس گرفتار شده و ذلیل شده‌ایم. یادآوری کنید از وفا و ایثار در این دشت و فضا."
     },
     {
       "VOrder": 10,
@@ -711,7 +716,8 @@
       "Text": "سرکشیده زیر پر اندر قفس",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: پرنده‌ای که در قفس است، بال‌هایش را باز کرده و به زیبایی در باغ پرواز می‌کند."
     },
     {
       "VOrder": 12,
@@ -727,7 +733,8 @@
       "Text": "رفته از یادم هوای آشیان",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: بدون توجه به زیبایی‌های محیط و گلزار، آرزوی بازگشت به خانه و آرامش از ذهنم رفته است."
     },
     {
       "VOrder": 14,
@@ -743,7 +750,8 @@
       "Text": "یاد آرید از من ای آزادگان",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: ای آزادگان، شما که در این دنیای سخت و تنگ زندگی می‌کنید، به یاد من باشید و مرا فراموش نکنید وقتی در زندگی‌تان روی به زیبایی‌ها و خوشی‌ها می‌آورید."
     },
     {
       "VOrder": 16,
@@ -759,7 +767,8 @@
       "Text": "ای شما آزادگان شاخسار",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: ای آزادگان خوشحال و شاداب، مانند شاخه‌های درخت که از زیبایی باغ و بهار سرشارند."
     },
     {
       "VOrder": 18,
@@ -775,7 +784,8 @@
       "Text": "یاد آرید از ترحم یک نفس",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: به یاد آورید که با دلسوزی یک لحظه به خاطر این زندانی که در دام و قفس گرفتار است، فکر کنید."
     },
     {
       "VOrder": 20,
@@ -791,7 +801,8 @@
       "Text": "ای شما با یکدگر اندر وطن",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: ای دوستان، در سرزمین خود به یاد داشته باشید که گاهی وفا و دوستی را از من فراموش نکنید."
     },
     {
       "VOrder": 22,
@@ -807,7 +818,8 @@
       "Text": "من هم آنجا آشیانی داشتم",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: من هم در آنجا جایی برای زندگی داشتم و محبوبی مهربان در کنارم بود."
     },
     {
       "VOrder": 24,
@@ -823,7 +835,8 @@
       "Text": "عهد بستم با لب چون قند او",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: عهدی با لب شیرین او بسته‌ام و یاد آن عهد و آن پیوند در دلم باقی است."
     },
     {
       "VOrder": 26,
@@ -839,7 +852,8 @@
       "Text": "یاد باد آن عهد و آن میثاقها",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: به یاد می‌آورم آن زمان‌ها و توافق‌هایی که داشتیم، آن محبت‌ها و لطف‌هایی که به یکدیگر نشان می‌دادیم."
     },
     {
       "VOrder": 28,
@@ -855,7 +869,8 @@
       "Text": "یاد باد ایام وصل دوستان",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: یادمان باشد روزهای خوشی که همراه دوستان گذراندیم و لحظات لذت‌بخش در باغ و بوستان."
     },
     {
       "VOrder": 30,
@@ -871,7 +886,8 @@
       "Text": "وان نشستن با هم اندر مرغزار",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: نشستن با هم در چمنزار و راه رفتن به سمت جویبار."
     },
     {
       "VOrder": 32,
@@ -887,7 +903,8 @@
       "Text": "حبذا آن روزگاران حبذا",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: ای کاش آن روزهای خوب و خوش را دوباره تجربه می‌کردیم، ای کاش آن دشت‌های سرسبز و زیبا را دوباره می‌دیدیم."
     },
     {
       "VOrder": 34,
@@ -903,7 +920,8 @@
       "Text": "حبذا زان دوستاران با وفا",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: چه خوب است دوستان وفادار و چه زیباست باغبانی که با صفاست."
     },
     {
       "VOrder": 36,
@@ -919,7 +937,8 @@
       "Text": "ای خوش آن دوران و آن ایامها",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: این روزها و زمان‌های شاداب بسیار خوشایند و زیبا هستند، مانند صبح‌ها و شام‌های با شکوه."
     },
     {
       "VOrder": 38,
@@ -935,7 +954,8 @@
       "Text": "در جدایی سوختم از اشتیاق",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: من در تنهایی و دوری از تو به شدت در حال سوختن هستم، از شوق و حسرتی که دارم. آه، چه غم‌انگیز است که از هم جدا شده‌ایم!"
     },
     {
       "VOrder": 40,
@@ -951,7 +971,8 @@
       "Text": "آتش هجران دلم را سوخته",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: شعله‌های آتش جدایی دلم را سوزانده و در سینه‌ام آتش‌هایی را روشن کرده است."
     },
     {
       "VOrder": 42,
@@ -967,7 +988,8 @@
       "Text": "آتشی می‌بینم اندر دل نهان",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: در دل من آتشی وجود دارد که به شدت می‌سوزد و باعث درد و رنج من می‌شود."
     },
     {
       "VOrder": 44,
@@ -983,7 +1005,8 @@
       "Text": "آتشی پنهان کنون دارد ظهور",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: آتش پنهانی در وجود من در حال ظهور است. ای کاش این آتش مانند نخل طور باشد."
     },
     {
       "VOrder": 46,
@@ -999,7 +1022,8 @@
       "Text": "آتش پنهانم اکنون فاش شد",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: آتش درونم که پنهان بود، حالا آشکار شده است و مفتی شهر شما هم بی‌ارزش و بی‌اعتبار شده است."
     },
     {
       "VOrder": 48,
@@ -1015,7 +1039,8 @@
       "Text": "آتش پنهانم اکنون برفروخت",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: آتش درونی من اکنون بروز کرده و لباس و عمامه و دفتر را سوزانده است."
     },
     {
       "VOrder": 50,
@@ -1031,7 +1056,8 @@
       "Text": "سبحه و سجاده‌ام را باد برد",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: باد مهر و محبت من را با خود برد و درگیر مسائل و جدل‌های دنیایی نشدم."
     },
     {
       "VOrder": 52,
@@ -1047,7 +1073,8 @@
       "Text": "اجلسونی یاثقاتی اجلسون",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: نشستید و مرا به آرامش دعوت کردید، گویی بر من حالتی از شور و جنون مستولی شده است."
     },
     {
       "VOrder": 54,
@@ -1063,7 +1090,8 @@
       "Text": "بار بربست از دلم هوش و خرد",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: در دل من، هوش و عقل از بین رفته و نمی‌دانم جنونم مرا به کجا می‌برد."
     },
     {
       "VOrder": 56,
@@ -1079,7 +1107,8 @@
       "Text": "بگسلم اکنون دو صد زنجیر را",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: اکنون دو صد زنجیر را می‌شکنم و با چهار بار تکبیر، نقشه‌ام را عملی می‌کنم."
     },
     {
       "VOrder": 58,
@@ -1095,7 +1124,8 @@
       "Text": "آتش اندر سینه پنهان تا به کی",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: آتش سوزان در درونم پنهان است، و تا کی باید این طوفان در دلم مخفی بماند؟"
     },
     {
       "VOrder": 60,
@@ -1111,7 +1141,8 @@
       "Text": "فاش می‌گویم که من دیوانه‌ام",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: به صراحت می‌گویم که من دیوانه‌ام و از عقل و خرد دور هستم."
     },
     {
       "VOrder": 62,
@@ -1127,7 +1158,8 @@
       "Text": "دفتر فرزانگی بر باد رفت",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: سرآمدی که تنها به مصلحت فکر می‌کردم و دانایی و حکمت را فراموش کرده بودم، اکنون در میان مشکلات و سختی‌ها تمام آن دانش و فرزانگی‌ام بی‌فایده شده است."
     },
     {
       "VOrder": 64,
@@ -1143,7 +1175,8 @@
       "Text": "زین سپس با مصلحت کاریم نیست",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: از این به بعد نیازی به کار کردن با مصلحت نداریم و از جنون و دیوانگی خودم هم شرمنده نیستم."
     },
     {
       "VOrder": 66,
@@ -1159,7 +1192,8 @@
       "Text": "عاشقان را عار نبود از جنون",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: عاشقان هیچ خجالتی از دیوانگی ندارند، بله، عشق واقعی دارای جنون و ویژگی‌های منحصر به فرد است."
     },
     {
       "VOrder": 68,
@@ -1175,7 +1209,8 @@
       "Text": "می‌کند مجنون گهی فرزانه را",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: مجنون در برخی مواقع افراد عاقل را دیوانه می‌کند و گاهی نیز دیوانه‌ها را به حالت عقل می‌آورد."
     },
     {
       "VOrder": 70,
@@ -1191,7 +1226,8 @@
       "Text": "فیلسوفی را گهی نادان کند",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: گاه پیش می‌آید که یک فیلسوف با نادانی خود مواجه می‌شود، حتی اگر با کودکی که هنوز الفبا را می‌آموزد هم‌صحبت شود."
     },
     {
       "VOrder": 72,
@@ -1207,7 +1243,8 @@
       "Text": "طفل امی را گهی گردد دلیل",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: گاهی اوقات کودک بی‌سواد می‌تواند دلیلی باشد که فرشتۀ وحی، جبرئیل، از او چیزهایی بیاموزد."
     },
     {
       "VOrder": 74,
@@ -1223,7 +1260,8 @@
       "Text": "اندر آتش افکند گاهی خلیل",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: گاهی آتش برای ابراهیم خلیل می‌شود و زمانی دیگر موسی را به سمت رود نیل می‌برد."
     },
     {
       "VOrder": 76,
@@ -1239,7 +1277,8 @@
       "Text": "تیشه بر کف گه دهد فرهاد را",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: فرهاد با تیشه در دست، صدایم کن که این کوهی که بی‌پایه است را بشکن."
     },
     {
       "VOrder": 78,
@@ -1255,7 +1294,8 @@
       "Text": "بیستون را کندی ای فرهاد راد",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: ای فرهاد، که با تلاش و قدرت خود کوه بیستون را تراشیدی، سلام بر دستان و بازویت باد."
     },
     {
       "VOrder": 80,
@@ -1271,7 +1311,8 @@
       "Text": "تیشه‌ای اکنون به فرق خویش زن",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: حالا زمان آن رسیده که با عزم و اراده، به چالش‌های زندگی روی بیاوری و محدودیت‌های خود را کنار بگذاری. مانند تیشه‌ بر سنگ بیستون، با قدرت به مقابله با دشواری‌ها بپرداز و جایگاه واقعی خویش را پیدا کن."
     },
     {
       "VOrder": 82,
@@ -1287,7 +1328,8 @@
       "Text": "هرکه بر شیرین لبی عاشق شود",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که به محبت و زیبایی یک انسان جذاب دل ببندد، زندگی‌اش شایسته و لایق چه چیزی می‌تواند باشد؟"
     },
     {
       "VOrder": 84,
@@ -1303,7 +1345,8 @@
       "Text": "نیست شو اندر ره عشق ای جوان",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: ای جوان، در راه عشق تردید نکن؛ زیرا با این کار می‌توانی به زندگی ابدی دست پیدا کنی."
     },
     {
       "VOrder": 86,
@@ -1319,7 +1362,8 @@
       "Text": "نیست شو ای من فدای نیستی",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: ای محبوب، در مقابل وجودم هیچ نباش، زیرا که وجود همیشه زنده و پایدار از ما جدا نیست."
     },
     {
       "VOrder": 88,
@@ -1335,7 +1379,8 @@
       "Text": "اقتلونی اصدقائی فی‌الهواه",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: دوستانم، مرا در راه عشق بکشید و جسمم را نزدیک به خودتان بیندازید."
     },
     {
       "VOrder": 90,
@@ -1351,7 +1396,8 @@
       "Text": "می‌دمد اینک صباح روز عید",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: در حال حاضر، صبح روز عید فرا رسیده و من از شما می‌خواهم که برای معشوق خود، جانم را فدای او کنید."
     },
     {
       "VOrder": 92,
@@ -1367,7 +1413,8 @@
       "Text": "یا احبائی لعمری فی‌الفداه",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: ای دوستان، به جانم قسم، جانم فدای شما، من را سر ببرید، من را سر ببرید، مانند قربانی که برای شاه ذبح می‌شود."
     },
     {
       "VOrder": 94,
@@ -1383,7 +1430,8 @@
       "Text": "پس به خون آغشته سازید این تنم",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: پس این بدنم را به خون آغشته کنید و آن را بر روی زمین بیندازید تا در راه شکار قرار دهم."
     },
     {
       "VOrder": 96,
@@ -1399,7 +1447,8 @@
       "Text": "تا بود از روی رحمت یک نظر",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که از روی رحمت، نگاهی به این بدن بی‌پام و بی‌سری بیندازد."
     },
     {
       "VOrder": 98,
@@ -1415,7 +1464,8 @@
       "Text": "وز نگاهی بخشدش عمر ابد",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: با یک نگاه می‌تواند به کسی عمری جاودانه ببخشد و او را از وابستگی به خوب و بد رها کند."
     },
     {
       "VOrder": 100,
@@ -1431,7 +1481,8 @@
       "Text": "ای صفایی مختصر کن این سخن",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: ای زیبا، کمی از این سخن را مختصر کن، زیرا من نمی‌توانم آنچه را نمی‌بینم، درک کنم."
     },
     {
       "VOrder": 102,
@@ -1447,7 +1498,8 @@
       "Text": "باقی احوال دل را باز گوی",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: دل شاد و پر از احساسات را دوباره شرح می‌دهم؛ نکند که از تشنگی بمیرم نزدیک جوی آب."
     },
     {
       "VOrder": 104,
@@ -1463,7 +1515,8 @@
       "Text": "قافیه تنگست زان جو گفتمت",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "هوش مصنوعی: قافیه‌ها برایم محدود است، بنابراین به تو گفتم که به جای آن می‌توانم رود نیل یا جیحون را برایت توصیف کنم."
     },
     {
       "VOrder": 106,
@@ -1479,7 +1532,8 @@
       "Text": "گر نبودی تنگ ما را قافیه",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "هوش مصنوعی: اگر قافیه‌هایمان تنگ و مشکل نمی‌شد، ما نیز به تو به طور ساده و صادقانه می‌گفتیم."
     },
     {
       "VOrder": 108,
@@ -1495,7 +1549,8 @@
       "Text": "عین هم چه‌بْود تو خود دریاستی",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که تو خود مانند دریا هستی و من چه دریایی‌ام که پر از طوفان و هیجان هستی. به عبارت دیگر، وجود تو مانند دریا عمیق و پر از رخدادهاست و در عین حال من هم پر از احساسات و دگرگونی‌ها هستم."
     },
     {
       "VOrder": 110,
@@ -1511,7 +1566,8 @@
       "Text": "در تو از دریای ژرف لامکان",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "هوش مصنوعی: در وجود تو، از عمق بی‌پایان یک دريای بزرگ، دوصد رودخانه‌ی دجله به آرامی جاری است."
     },
     {
       "VOrder": 112,
@@ -1527,7 +1583,8 @@
       "Text": "دجله‌های آب عذب خوشگوار",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "هوش مصنوعی: آب شیرین و خوشگوار دجله همیشه به تو می‌رسد، همانند بهاری که ویژگی‌هایش را به ارمغان می‌آورد."
     },
     {
       "VOrder": 114,
@@ -1543,7 +1600,8 @@
       "Text": "ای تو ما را اوستاد مهربان",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "هوش مصنوعی: ای استاد مهربان ما، لطفاً قطره‌ای از آن دریا بر ما بریز."
     },
     {
       "VOrder": 116,
@@ -1559,7 +1617,8 @@
       "Text": "یاد کردی مردن پیش از ممات",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "هوش مصنوعی: اگر به یاد مرگ بیفتی، پیش از آنکه واقعاً بمیری، این درک و آگاهی از مرگ است که اساس و زیربنای هر زندگی است."
     },
     {
       "VOrder": 118,
@@ -1575,7 +1634,8 @@
       "Text": "راه این مردن به ما بنمای زود",
       "CoupletIndex": 59,
       "SectionIndex1": 0,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "هوش مصنوعی: به ما نشان بده که چگونه می‌توان از این مردن عبور کرد، زیرا اشتیاق این دل‌ها از دست ما خارج شده است."
     },
     {
       "VOrder": 120,

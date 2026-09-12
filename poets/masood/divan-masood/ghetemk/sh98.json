@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "ابرم که همی ز دریا بردارم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من همچون ابری هستم که ابتدا از دریا می‌گیرم و سپس دوباره به دریا بازمی‌گردم."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "از خواجه عمید همی گیرم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از خواجه عمید شعری می‌گیرم که در آن تو را ستایش کرده‌ام."
     },
     {
       "VOrder": 4,
@@ -55,7 +57,8 @@
       "Position": "Right",
       "Text": "مادح شدمش گرچه نه طماعم",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با اینکه به او مدح می‌گوییم و ستایشش می‌کنم، اما به خاطر تمایلات دنیوی این کار را نمی‌کنم. همچنین، به رغم اینکه آزاد و مستقل هستم، احساس بندگی و وابستگی به او را دارم."
     },
     {
       "VOrder": 6,
@@ -69,7 +72,8 @@
       "Position": "Right",
       "Text": "در آفتاب دولت او دایم",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در زیر نور خورشید، مقام و موقعیت او همیشه مانند چرخ بلند و بزرگ است."
     },
     {
       "VOrder": 8,
@@ -83,7 +87,8 @@
       "Position": "Right",
       "Text": "روزی که من نبینم رویش را",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر روزی که من نتوانم دیدار او را داشته باشم، آن روز را از روزهای زندگی‌ام به حساب نمی‌آورم."
     },
     {
       "VOrder": 10,
@@ -97,7 +102,8 @@
       "Position": "Right",
       "Text": "وانگاه بینمش به دو سه روزی",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این مدت کوتاه که من زندگی می‌کنم، او را به مدت چند روز می‌بینم."
     },
     {
       "VOrder": 12,
@@ -111,7 +117,8 @@
       "Position": "Right",
       "Text": "در ره همی نیابم تا یک ره",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در مسیر زندگی نمی‌توانم یک راه درست را پیدا کنم، در حالی که صدها حیله و ترفند برایم وجود دارد."
     },
     {
       "VOrder": 14,
@@ -125,7 +132,8 @@
       "Position": "Right",
       "Text": "دورم چرا کند که نه من جغدم",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا از من دور می‌شوی در حالی که من همانند جغدی در تاریکی نیستم؟ و چرا فرار می‌کنی در حالی که من شبیه ماری خطرناک نیستم؟"
     },
     {
       "VOrder": 16,
@@ -139,7 +147,8 @@
       "Position": "Right",
       "Text": "کردم بر آنکه خامه برگیرم",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بر این فکر بودم که قلم را بردارم و تمام تصوراتی که درباره‌اش دارم را بنویسم."
     },
     {
       "VOrder": 18,
@@ -153,7 +162,8 @@
       "Position": "Right",
       "Text": "کافور و مشک ناب برانگیزم",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من عطر خوش کافور و مشک خالص را به همراه می‌آورم و آن چهره زیبا را نقاشی می‌کنم."
     },
     {
       "VOrder": 20,
@@ -167,7 +177,8 @@
       "Position": "Right",
       "Text": "هر گه که بار بدهد بنشینم",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر بار که فرصتی پیش بیاید، با او نشسته و غم‌های دلم را فراموش می‌کنم."
     },
     {
       "VOrder": 22,
@@ -181,7 +192,8 @@
       "Position": "Right",
       "Text": "ای صاحب موفق فرزانه",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای فردی که موفق و دانا هستی، چرا درک درستی از کار من نداری؟"
     },
     {
       "VOrder": 24,
@@ -195,7 +207,8 @@
       "Position": "Right",
       "Text": "نه نیز بپرسی احوالم",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نه از حال و احوالم سوالی می‌کنی و نه اشعارم را بیشتر می‌خوانی."
     },
     {
       "VOrder": 26,
@@ -209,7 +222,8 @@
       "Position": "Right",
       "Text": "بازار تیز گشت مرا زی تو",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بازار من به خاطر تو پررنگ و شلوغ شده است، زیرا تو به سلیقه من توجه داری و به نوعی خریدار من هستی."
     },
     {
       "VOrder": 28,
@@ -223,7 +237,8 @@
       "Position": "Right",
       "Text": "از من چو جان و دل را بخریدی",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی جان و دل مرا از من خریدی، حالا نزدیک تو تمام کارهایم نابود شده است."
     },
     {
       "VOrder": 30,
@@ -237,7 +252,8 @@
       "Position": "Right",
       "Text": "می جوی مر مرا که نوا جویم",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به دنبال من بیا که دوباره نغمه‌ام را بزنم، به من بازگرد چون دل‌تنگ و آزاردهنده هستم."
     },
     {
       "VOrder": 32,
@@ -251,7 +267,8 @@
       "Position": "Right",
       "Text": "بادت بقا و دولت پیوسته",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای تو آرزوی ماندگاری و نعمت‌های همیشگی دارم و این را از خدای بخشنده می‌خواهم."
     },
     {
       "VOrder": 34,

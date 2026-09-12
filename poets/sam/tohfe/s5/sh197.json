@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "آزاد وار میگردد و گاهی شعری میگوید این مطلع از اوست :",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: آزادانه دور می‌زند و گاهی شعری برای خود می‌سراید."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "بطرف گلستان بودم که ناگه شد دل از دستم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در حالی که به سمت باغ گل می‌رفتم، ناگهان قلبم را گم کردم. به تازگی شاخۀ زیبایی از گل را دیدم و دل به آن سپردم."
     },
     {
       "VOrder": 3,

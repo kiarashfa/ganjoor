@@ -531,7 +531,8 @@
       "Text": "شنیدستم این قصه معتبر",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: من از راویان معتبر شنیده‌ام که این داستان راست و درست است."
     },
     {
       "VOrder": 2,
@@ -547,7 +548,8 @@
       "Text": "که از دست قدرت چه روز نخست",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: قبل از اینکه مردمان به یاد بیاورند، قدرت خدایی از نخستین روزها چگونگی شکل‌گیری گل آدمی را به تصویر کشید."
     },
     {
       "VOrder": 4,
@@ -563,7 +565,8 @@
       "Text": "چو تلبیس ابلیس منظور شد",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: وقتی که شیطان به ترفندهای خود موفق شد، فرشتگان به سجده و اطاعت از او مأمور شدند."
     },
     {
       "VOrder": 6,
@@ -579,7 +582,8 @@
       "Text": "تمامی بدین امر اقرار کرد",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: همه موجودات به این فرمان تسلیم شدند و فقط ابلیس بود که از انجام سجده انکار ورزید."
     },
     {
       "VOrder": 8,
@@ -595,7 +599,8 @@
       "Text": "به خود گفت من ز آتشم او ز خاک",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: به خودم گفتم: من از آتش ساخته شده‌ام و او از خاک است. اگر از سجده‌ی او کنار بکشم، چه اهمیتی دارد؟"
     },
     {
       "VOrder": 10,
@@ -611,7 +616,8 @@
       "Text": "تکبر به سویش چو آورد روی",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: وقتی که کسی با تکبر و خودخواهی به او نزدیک شد، لعنتش مثل گردن‌بند در گلویش گرفتار شد."
     },
     {
       "VOrder": 12,
@@ -627,7 +633,8 @@
       "Text": "چو بر نار نازید او نار شد",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: وقتی که او بر آتش ناز ورزید، آتش به سوی او غران شد و سوزان‌تر گردید."
     },
     {
       "VOrder": 14,
@@ -643,7 +650,8 @@
       "Text": "پس از توسن کبر آمد فرود",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: پس از آنکه اسبِ خودخواهی و تکبر به زمین فرود آمد، گفت: ای موجود پاک و زنده!"
     },
     {
       "VOrder": 16,
@@ -659,7 +667,8 @@
       "Text": "چو میرانیم از درت شرمسار",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: هرگاه که از درگاه تو خارج می‌شوم و شرمنده می‌شوم، به یاد می‌آورم که پاداش اعمال نیکویم چه شده، ای پروردگار."
     },
     {
       "VOrder": 18,
@@ -675,7 +684,8 @@
       "Text": "ندا آمد از داور دادخواه",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: فریادی از سوی قاضی عدالت‌خواه به گوش می‌رسد که ای گناهکار، آنچه را می‌خواهی بخواه."
     },
     {
       "VOrder": 20,
@@ -691,7 +701,8 @@
       "Text": "چنین گفت شیطان که ای کردگار",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: شیطان گفت: ای خدا، از تو سه خواسته دارم."
     },
     {
       "VOrder": 22,
@@ -707,7 +718,8 @@
       "Text": "چنین گفت شیطان که ای کردگار",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: شیطان چنین گفت: ای پروردگار، سه خواسته را برای من انجام بده."
     },
     {
       "VOrder": 24,
@@ -723,7 +735,8 @@
       "Text": "نخست آنکه پاداش این بندگی",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: اولین چیزی که می‌خواهم این است که به من پاداش بندگی‌ام را بدهی، و من زندگی ابدی را از تو طلب می‌کنم."
     },
     {
       "VOrder": 26,
@@ -739,7 +752,8 @@
       "Text": "دوم آنکه راهم دهی رایگان",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: دوم آنکه تو بدون هیچ هزینه‌ای به من راهنمایی کنی، در تمام وجود و وابستگی‌های هر یک از انسان‌ها."
     },
     {
       "VOrder": 28,
@@ -755,7 +769,8 @@
       "Text": "سوم مطلبم ای خدای غفور",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: موضوع سوم من، ای خداوند بخشاینده، بماند برای وقتی که نیاز آن احساس شود."
     },
     {
       "VOrder": 30,
@@ -771,7 +786,8 @@
       "Text": "ندا آمد از حضرت کبریا",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: ندایی از مقام بلند و بزرگی شنیدم که گفت: ما خواسته‌ات را برآورده کردیم."
     },
     {
       "VOrder": 32,
@@ -787,7 +803,8 @@
       "Text": "از آن روز رو کرد آن بدگمان",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: از آن روز، آن بدگمان به دنیا و مردم مشکوک شد و باعث گمراهی و سردرگمی بندگان گردید."
     },
     {
       "VOrder": 34,
@@ -803,7 +820,8 @@
       "Text": "سوم مطلبش شد عیان برملا",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: سومین موضوع به وضوح نمایان شد، همانند ظهور واقعه عاشورا در کربلا."
     },
     {
       "VOrder": 36,
@@ -819,7 +837,8 @@
       "Text": "که فرزند زهرا چو از پشت زین",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: وقتی فرزند زهرا از بالای زین به زمین افتاد، در حالت تنهایی و بی‌کسی قرار گرفت."
     },
     {
       "VOrder": 38,
@@ -835,7 +854,8 @@
       "Text": "غریبانه بر خاک سر بر نهاد",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: او به طور تنها و بی‌خبر از دیگران، سر بر خاک نهاد و آماده بود تا به خاطر شهادت قیام کند."
     },
     {
       "VOrder": 40,
@@ -851,7 +871,8 @@
       "Text": "در آن لحظه شیطان نمود این خیال",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: در آن لحظه، شیطان تصور کرد که اگر این شاه بی‌نظیر کشته شود، چه خواهد شد."
     },
     {
       "VOrder": 42,
@@ -867,7 +888,8 @@
       "Text": "شفاعت در این کار حاصل شود",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: اگر در این کار شفاعتی حاصل شود، تمام تلاش‌های من بی‌فایده و بی‌نتیجه خواهد بود."
     },
     {
       "VOrder": 44,
@@ -883,7 +905,8 @@
       "Text": "رهند عاصیان از عذاب و گناه",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: عاصی‌ها از مجازات و گناه خود می‌گریزند و من همین حالا می‌خواهم با چهره‌ای سیاه و گناهکار در این راه بمانم."
     },
     {
       "VOrder": 46,
@@ -899,7 +922,8 @@
       "Text": "کنم حیله خویش در کار او",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: می‌خواهم با ترفندهایم او را به زحمت بیندازم تا شاید از صبرش خسته شود و ناراحت شود."
     },
     {
       "VOrder": 48,
@@ -915,7 +939,8 @@
       "Text": "بگفت ای خداوند گار مبین",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: بگو ای خداوند، کارهای بزرگ را ببینید که زمان رسیدن به هدف سوم فرارسیده است."
     },
     {
       "VOrder": 50,
@@ -931,7 +956,8 @@
       "Text": "سوم مطلبم این بود بی‌حجاب",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: سومین نکته‌ای که می‌خواهم بگویم این است که وقتی کسی بی‌پوشش و بی‌حجاب وارد شود، مانند این است که آفتاب به آسمان می‌تابد."
     },
     {
       "VOrder": 52,
@@ -947,7 +973,8 @@
       "Text": "نماید تمام حرارت عیان",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: در آن لحظه، تمام حرارت و عشق روشن و واضح به جسم حسین می‌تابد."
     },
     {
       "VOrder": 54,
@@ -963,7 +990,8 @@
       "Text": "چو این آرزو کرد آمد خطاب",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: وقتی که این آرزو را داشت، ناگهان پیامی به او رسید که به نوعی که می‌خواست، به مانند خورشید تابید."
     },
     {
       "VOrder": 56,
@@ -979,7 +1007,8 @@
       "Text": "چنان تافت بر پیکر شاهدین",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: چنان نور و درخشش از وجود معشوق ساطع شد که همچون دود از زمین به آسمان رفت و همه جا را فرا گرفت."
     },
     {
       "VOrder": 58,
@@ -995,7 +1024,8 @@
       "Text": "عطش گشت غالب چنان بر امام",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: امام به شدت تشنه شد، به گونه‌ای که حتی طعم و گفتار او نیز تحت تاثیر این تشنگی قرار گرفت."
     },
     {
       "VOrder": 60,
@@ -1011,7 +1041,8 @@
       "Text": "ز خشکی شدی چون به هم آشنا",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: وقتی با هم آشنا شدی، مانند چیزی خشک و بی‌روح geworden که صدایش از چوب بلند می‌شود."
     },
     {
       "VOrder": 62,
@@ -1027,7 +1058,8 @@
       "Text": "ز هر زخم وی خون درآمد به جوش",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: از هر زخم او خون به جوش آمد و از جمع فرشتگان صدای بلندی برخاست."
     },
     {
       "VOrder": 64,
@@ -1043,7 +1075,8 @@
       "Text": "در آن دم ز درگاه رب جلیل",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: در آن لحظه، جبرئیل از درگاه خداوند بزرگ به سمت زمین حرکت کرد."
     },
     {
       "VOrder": 66,
@@ -1059,7 +1092,8 @@
       "Text": "پر خویش را کرد پس سایبان",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: او بال‌های خود را سایبان قرار داد تا از بدنش که پر از زخم‌های تیر و نیزه است، محافظت کند."
     },
     {
       "VOrder": 68,
@@ -1075,7 +1109,8 @@
       "Text": "شه تشنه لب دیده را کرد باز",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: پادشاهی که تشنه بود، نگاهش را به جبریل دوخت و با تمام نیازش از او خواست."
     },
     {
       "VOrder": 70,
@@ -1091,7 +1126,8 @@
       "Text": "که ای جبرئیل این پرت بر سرم",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: ای جبرئیل، این پرده‌ای که بر سرم است، مانع ارتباط من و محبوبم شده است."
     },
     {
       "VOrder": 72,
@@ -1107,7 +1143,8 @@
       "Text": "مرا روی دل جز به محبوب نیست",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: در این لحظه تنها به محبوبم فکر می‌کنم و هیچ چیز دیگری برایم ارزش ندارد."
     },
     {
       "VOrder": 74,
@@ -1123,7 +1160,8 @@
       "Text": "اگر هست منظورت احسان من",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: اگر منظورت از محبت و کمک، نیکی کردن به من است، پس برو و مانند سایه‌ای بر سر جوانان من باش."
     },
     {
       "VOrder": 76,
@@ -1139,7 +1177,8 @@
       "Text": "برو سایه کن بر علی اکبرم",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: برو و بر روی علی اکبرم سایه بگستر، زیرا به فرزند کوچک‌ترم علی اصغر نیاز دارم."
     },
     {
       "VOrder": 78,
@@ -1155,7 +1194,8 @@
       "Text": "اگر مطلبت هست امداد من",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: اگر چیزی نیاز داری و به کمک من نیازمند هستی، به کسی که به او وابسته‌ام و مورد علاقه‌ام احترام بگذار و به او پناه بیاور."
     },
     {
       "VOrder": 80,
@@ -1171,7 +1211,8 @@
       "Text": "که او را دو آتش نموده کباب",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: او به دو آتش دچار شده؛ یکی آتش حسرت که همیشه داغ و سوزان است و دیگری آفتابی که او را می‌سوزاند و رنجش می‌دهد."
     },
     {
       "VOrder": 82,
@@ -1187,7 +1228,8 @@
       "Text": "گذر بر سر خسرو ناس کن",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: به آرامی از کنار خسرو عبور کن و لحظه‌ای سایه‌ات را بر زخم عباس بیفکن."
     },
     {
       "VOrder": 84,
@@ -1203,7 +1245,8 @@
       "Text": "برو جانب خیمه ای دل غمین",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: برو به سمت خیمه‌ای و دل غمگین خود را زیر سایه عابدان قرار بده."
     },
     {
       "VOrder": 86,
@@ -1219,7 +1262,8 @@
       "Text": "که از سوز تب العطش می‌کند",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: کسی که به شدت تشنه است و به خاطر این شدت عطش، در بستر افتاده و بی‌حال شده است."
     },
     {
       "VOrder": 88,
@@ -1235,7 +1279,8 @@
       "Text": "چو گردد دم دیگر ای جبرئیل",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: وقتی که دم دیگری شود، ای جبرئیل، همسرم در این دشت بی‌ارزش و خوار خواهد بود."
     },
     {
       "VOrder": 90,
@@ -1251,7 +1296,8 @@
       "Text": "نه چادر به سر نی لباسی به تن",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: بدون چادر و لباس، بدنم کاملاً عریان است و همه چیز نمایان است."
     },
     {
       "VOrder": 92,
@@ -1267,7 +1313,8 @@
       "Text": "به هر جا که گردند ایشان مقیم",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: هر جا که این افراد بروند، سایه خود را بر سر کودکان یتیم بیندازند و از آن‌ها حمایت کنند."
     },
     {
       "VOrder": 94,
@@ -1283,7 +1330,8 @@
       "Text": "خصوصاً به ویرانه شهر شام",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: به ویژه به خرابه‌های شهر شام برو، جایی که هیچ سقفی بالای سر نیست و فقط آسمان را می‌بینی."
     },
     {
       "VOrder": 96,
@@ -1299,7 +1347,8 @@
       "Text": "محبت به اطفال دریوش کن",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: به لحظه‌ای به محبت و مهربانی با کودکان داریوش بپرداز و بگذار که آنها در سایه حمایت و محبت تو باشند."
     },
     {
       "VOrder": 98,
@@ -1315,7 +1364,8 @@
       "Text": "اگر شعر (صامت) تو را شد قبول",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: اگر شعر تو مورد تأیید قرار گرفت، آن را در بهشت به پیامبر ارائه کن."
     },
     {
       "VOrder": 100,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "یک یک نفست زمان تو خواهد بود",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر نفس تو نشان از زمان در آن لحظه است و هر قدمی که برمی‌داری، مکان تو را مشخص می‌کند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "هر چیز که در فکرتِ تو میآید",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر آنچه در ذهنت شکل می‌گیرد، همان چیز کل دنیای تو خواهد بود."
     },
     {
       "VOrder": 4,

@@ -761,7 +761,8 @@
       "Text": "وزان جایگه تنگ بسته کمر",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: از آن مکان تنگ و بسته، کمرش پر از کینه و جنگ به سمت او آمده است."
     },
     {
       "VOrder": 2,
@@ -777,7 +778,8 @@
       "Text": "چو رخش اندر آمد بران هفت کوه",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: وقتی اسب چابک و سریع بر روی هفت کوه حرکت کرد، گروهی از دیوان و دیوانگی بر او خیره شدند."
     },
     {
       "VOrder": 4,
@@ -793,7 +795,8 @@
       "Text": "به نزدیکی غار بی‌بن رسید",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در نزدیکی غار، دید که دور و برش لشکری از دیوان قرار دارند."
     },
     {
       "VOrder": 6,
@@ -809,7 +812,8 @@
       "Text": "به اولاد گفت آنچ پرسیدمت",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: به فرزندانش گفت: هرچه از تو پرسیدم، همه چیز را در مسیر درست و حقیقتی که در نظر داشتم، مشاهده کردم."
     },
     {
       "VOrder": 8,
@@ -825,7 +829,8 @@
       "Text": "کنون چون گه رفتن آمد فراز",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: حال که زمان رفتن من فرا رسیده است، مرا راهنمایی کن و اسرار را برایم روشن کن."
     },
     {
       "VOrder": 10,
@@ -841,7 +846,8 @@
       "Text": "بدو گفت اولاد چون آفتاب",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: فرزندان به او گفتند که اگر مانند آفتاب درخشان و گرم شویم، دیو در خواب فرو می‌رود."
     },
     {
       "VOrder": 12,
@@ -857,7 +863,8 @@
       "Text": "بریشان تو پیروز باشی به جنگ",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: شما باید در جنگ پیروز باشید، اما اینک زمان مناسب است که کمی صبر کنید و تاخیر کنید."
     },
     {
       "VOrder": 14,
@@ -873,7 +880,8 @@
       "Text": "ز دیوان نبینی نشسته یکی",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: از دیوان، نشسته‌ای را نخواهی دید جز اینکه پاسبانی از جادوان در کنار او باشد."
     },
     {
       "VOrder": 16,
@@ -889,7 +897,8 @@
       "Text": "بدانگه تو پیروز باشی مگر",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: زمانی که تو در زندگی پیروز شوی، هرگز فراموش نکن که پیروزی واقعی زمانی است که عشق و همراهی در کنارت باشد."
     },
     {
       "VOrder": 18,
@@ -905,7 +914,8 @@
       "Text": "نکرد ایچ رستم به رفتن شتاب",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: رستم بدون عجله و شتاب به سفر نرفت تا اینکه آفتاب بالا آمد و صبح شد."
     },
     {
       "VOrder": 20,
@@ -921,7 +931,8 @@
       "Text": "سراپای اولاد بر هم ببست",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: تمام جوانان را در دام خود گرفتار کرد و سپس بر تخت نشسته است."
     },
     {
       "VOrder": 22,
@@ -937,7 +948,8 @@
       "Text": "برآهیخت جنگی نهنگ از نیام",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: جنگ نهنگ با صدای بلند همچون رعد و برق از نیامش بیرون آمد و نامش را فریاد زد."
     },
     {
       "VOrder": 24,
@@ -953,7 +965,8 @@
       "Text": "میان سپاه اندر آمد چو گرد",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: در میانه میدان جنگ، او مانند گرد در میان جمعیت ظاهر شد و سران را یکی یکی از تنشان جدا کرد."
     },
     {
       "VOrder": 26,
@@ -969,7 +982,8 @@
       "Text": "ناستاد کس پیش او در به جنگ",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس در برابر او به جنگ نپرداخت، زیرا همگان نام و آبرویش را برتر می‌دیدند."
     },
     {
       "VOrder": 28,
@@ -985,7 +999,8 @@
       "Text": "رهش باز دادند و بگریختند",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: راه او را باز کردند و او فرار کرد، به مقابله با او نپرداختند."
     },
     {
       "VOrder": 30,
@@ -1001,7 +1016,8 @@
       "Text": "وزان جایگه سوی دیو سپید",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: از آن مکان به سمت دیو سپید آمد، به صورت و نوری همچون خورشید درخشان."
     },
     {
       "VOrder": 32,
@@ -1017,7 +1033,8 @@
       "Text": "به کردار دوزخ یکی غار دید",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: در دل دوزخ، غاری می‌بینی که در آن، بدن دیو در سایه و تاریکی ناپدید شده است."
     },
     {
       "VOrder": 34,
@@ -1033,7 +1050,8 @@
       "Text": "زمانی همی بود در چنگ تیغ",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: در زمانی که تیغ و جنگ در دست بود، جایی برای دیدار و فرار وجود نداشت."
     },
     {
       "VOrder": 36,
@@ -1049,7 +1067,8 @@
       "Text": "ازان تیرگی جای دیده ندید",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: مدت زمانی زیادی را در تاریکی چشم‌ها زندگی کردم و اکنون در آن مکان آرامش یافته‌ام."
     },
     {
       "VOrder": 38,
@@ -1065,7 +1084,8 @@
       "Text": "چو مژگان بمالید و دیده بشست",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: وقتی پلک‌ها را به هم مالید و چشم‌ها را شست، در آن مکان تاریک لحظه‌ای نگاه کرد."
     },
     {
       "VOrder": 40,
@@ -1081,7 +1101,8 @@
       "Text": "به تاریکی اندر یکی کوه دید",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: در دل تاریکی کوه، غاری را دید که تمام اطرافش را گرفته و در آن پنهان شده است."
     },
     {
       "VOrder": 42,
@@ -1097,7 +1118,8 @@
       "Text": "به رنگ شبه روی و چون شیر موی",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: صورتش به رنگ شب و مویش مانند شیر است؛ جهان از زیبایی و عظمت او پر شده است."
     },
     {
       "VOrder": 44,
@@ -1113,7 +1135,8 @@
       "Text": "سوی رستم آمد چو کوهی سیاه",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: به سمت رستم آمد، مانند کوهی بزرگ و سیاه که از آهن ساخته شده است و دستانش نیز به مانند کلاه آهنین است."
     },
     {
       "VOrder": 46,
@@ -1129,7 +1152,8 @@
       "Text": "ازو شد دل پیلتن پرنهیب",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: دل دلیران از او ترسید و در برابرش به تنگنا افتادند."
     },
     {
       "VOrder": 48,
@@ -1145,7 +1169,8 @@
       "Text": "برآشفت برسان پیل ژیان",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: یکی از فیل‌های جوان بر افروخته شد و تیزی شمشیرش را بر وسط دشمن فرود آورد."
     },
     {
       "VOrder": 50,
@@ -1161,7 +1186,8 @@
       "Text": "ز نیروی رستم ز بالای اوی",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: رستم از قدرت خود، یکی از پای‌های او را به آسانی به زمین انداخت."
     },
     {
       "VOrder": 52,
@@ -1177,7 +1203,8 @@
       "Text": "بریده برآویخت با او به هم",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: در اینجا، شخصیتی قوی و شجاع مانند فیل و شیر به تصویر کشیده شده است، که در مبارزه و جدال با هم به سر می‌زنند. این تصویر نشان‌دهنده‌ی قدرت و استقامت در رویارویی با چالش‌هاست."
     },
     {
       "VOrder": 54,
@@ -1193,7 +1220,8 @@
       "Text": "همی پوست کند این از آن آن ازین",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: از این پوست کنده شدن و جدا شدن، یکی از چیزی و دیگری از چیز دیگر است. در نتیجه، این تغییرات باعث شده که زمین به طور کامل در خون غوطه‌ور شود و به گل و خاک تبدیل شود."
     },
     {
       "VOrder": 56,
@@ -1209,7 +1237,8 @@
       "Text": "به دل گفت رستم گر امروز جان",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: رستم به دلش گفت که اگر امروز جانش باقی بماند، او برای همیشه زنده خواهد بود."
     },
     {
       "VOrder": 58,
@@ -1225,7 +1254,8 @@
       "Text": "همیدون به دل گفت دیو سپید",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: همانطور که از دلش شنید، دیو سپید به او گفت که از زندگی و شادی‌اش ناامید شده است."
     },
     {
       "VOrder": 60,
@@ -1241,7 +1271,8 @@
       "Text": "گر ایدونک از چنگ این اژدها",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: اگر بتوانم از چنگال این اژدها رهایی پیدا کنم و پوست و گوشت او را به دست آورم، آزاد و رها می‌شوم."
     },
     {
       "VOrder": 62,
@@ -1257,7 +1288,8 @@
       "Text": "نه کهتر نه برتر منش مهتران",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: نه من از نظر پایین‌تر هستم و نه بالاتر، مهتران نیز در مازندران به من توجهی ندارند."
     },
     {
       "VOrder": 64,
@@ -1273,7 +1305,8 @@
       "Text": "همی گفت ازین گونه دیو سپید",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: او می‌گفت که این دیو سپید، با این ادعاها دل را به این شکل خوشحال می‌کند."
     },
     {
       "VOrder": 66,
@@ -1289,7 +1322,8 @@
       "Text": "تهمتن به نیروی جان‌آفرین",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: سهراب به نیروی زندگی و استعداد خود تلاش زیادی کرد، هرچند که با درد و دشمنی روبرو بود."
     },
     {
       "VOrder": 68,
@@ -1305,7 +1339,8 @@
       "Text": "بزد دست و برداشتش نره شیر",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: او دستش را بلند کرد و شیر نر را گرفت و سپس آن را به زمین انداخت."
     },
     {
       "VOrder": 70,
@@ -1321,7 +1356,8 @@
       "Text": "فرو برد خنجر دلش بردرید",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: با خنجر به دلش زد و جگرش را از جسمش بیرون کشید."
     },
     {
       "VOrder": 72,
@@ -1337,7 +1373,8 @@
       "Text": "همه غار یکسر پر از کشته بود",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: غار به‌کلی پر از کشته‌ها شده بود و دنیا مانند دریایی از خون به نظر می‌رسید."
     },
     {
       "VOrder": 74,
@@ -1353,7 +1390,8 @@
       "Text": "بیامد ز اولاد بگشاد بند",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: به دنیا آمد و از نسل او، بندها را باز کرد و با ترفندهایش، گرفتارانی را به دام انداخت."
     },
     {
       "VOrder": 76,
@@ -1369,7 +1407,8 @@
       "Text": "به اولاد داد آن کشیده جگر",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: پدر به فرزندانش گفت که سر و جان خود را برای خدمت به شاه کاووس فدای او کنند."
     },
     {
       "VOrder": 78,
@@ -1385,7 +1424,8 @@
       "Text": "بدو گفت اولاد کای نره شیر",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: فرزندان به او گفتند: ای شیر نر، تو جهانی را با شمشیرت به زیر آوردی."
     },
     {
       "VOrder": 80,
@@ -1401,7 +1441,8 @@
       "Text": "نشانهای بند تو دارد تنم",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: تنم نشانه‌های عشق و ارتباطی عمیق را نشان می‌دهد که از بند تو گرفته‌ام. من به نوعی تحت تأثیر و تسلط تو هستم، انگار که در دام محبت تو گرفتار شده‌ام."
     },
     {
       "VOrder": 82,
@@ -1417,7 +1458,8 @@
       "Text": "به چیزی که دادی دلم را امید",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: به چیزی که دل و امیدم را به آن سپردم، دوباره امیدی تازه و نو می‌بخشد."
     },
     {
       "VOrder": 84,
@@ -1433,7 +1475,8 @@
       "Text": "به پیمان شکستن نه اندر خوری",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: به شکستن پیمان نیندیش که تو مانند شیر هستی و هرگز در انتظار صدمه نخواهی بود."
     },
     {
       "VOrder": 86,
@@ -1449,7 +1492,8 @@
       "Text": "بدو گفت رستم که مازندران",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: رستم به او گفت: من مازندران را به تو واگذار می‌کنم، از یک سویش تا سوی دیگرش."
     },
     {
       "VOrder": 88,
@@ -1465,7 +1509,8 @@
       "Text": "ترا زین سپس بی‌نیازی دهم",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: پس از این که از نیازهای تو آزاد شوم، به تو مقام بلندی در مازندران می‌بخشم."
     },
     {
       "VOrder": 90,
@@ -1481,7 +1526,8 @@
       "Text": "یکی کار پیشست و رنج دراز",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: یکی از کارهایی که در پیش داری، سختی و زحمت زیادی به همراه دارد و هم پایین‌ها و هم بالاها را شامل می‌شود."
     },
     {
       "VOrder": 92,
@@ -1497,7 +1543,8 @@
       "Text": "همی شاه مازندران را ز گاه",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: باید پادشاه مازندران را از مکانش به سوی چاه برد و او را در آنجا زندانی کرد."
     },
     {
       "VOrder": 94,
@@ -1513,7 +1560,8 @@
       "Text": "سر دیو جادو هزاران هزار",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: باید برای مقابله با دیو جادو، به شدت و با قاطعیت اقدام کرد و هزاران بار او را مورد هدف قرار داد. در این مبارزه، به کار گرفتن ابزار مناسب و تلاش بسیار ضروری است."
     },
     {
       "VOrder": 96,
@@ -1529,7 +1577,8 @@
       "Text": "ازان پس اگر خاک را بسپرم",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: از آن پس اگر خاک را به کسی بسپارم، هرگز از عهد و پیمان تو نخواهم گذشت."
     },
     {
       "VOrder": 98,
@@ -1545,7 +1594,8 @@
       "Text": "رسید آنگهی نزد کاووس کی",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: سپس یل نیکوکار و مبارز، به نزد کاووس رسید."
     },
     {
       "VOrder": 100,
@@ -1561,7 +1611,8 @@
       "Text": "چنین گفت کای شاه دانش پذیر",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که ای پادشاه، کسی که به علم و دانش احترام می‌گذارد، با مرگ افراد بداندیش و ناپسند، می‌تواند به آرامش و شادی دست یابد."
     },
     {
       "VOrder": 102,
@@ -1577,7 +1628,8 @@
       "Text": "دریدم جگرگاه دیو سپید",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: من جگرگاه دیو سپید را پاره کردم و دیگر امیدی به نجات شاه از او ندارم."
     },
     {
       "VOrder": 104,
@@ -1593,7 +1645,8 @@
       "Text": "ز پهلوش بیرون کشیدم جگر",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "هوش مصنوعی: از پهلوی او جگرم را بیرون آوردم، هر چه شاه پیروز فرمان دهد."
     },
     {
       "VOrder": 106,
@@ -1609,7 +1662,8 @@
       "Text": "برو آفرین کرد کاووس شاه",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "هوش مصنوعی: برو تا کاووس شاه تو را ستایش کند، زیرا بدون تو، نه نگین ارزشمند خواهد بود و نه کلاهی که بر سر گذاشته می‌شود."
     },
     {
       "VOrder": 108,
@@ -1625,7 +1679,8 @@
       "Text": "بران مام کاو چون تو فرزند زاد",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "هوش مصنوعی: تنها فرزندانی شایسته و نیکو متولد می‌شوند که به یاد خداوند و خلق او تربیت یافته باشند."
     },
     {
       "VOrder": 110,
@@ -1641,7 +1696,8 @@
       "Text": "مرا بخت ازین هر دو فرخترست",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "هوش مصنوعی: آنچه در سرنوشت من نهفته است، از این دو حالت بهتر و خوش‌تر است. من ترجیح می‌دهم که در برابر یک فیل بزرگ، کسی که کم‌سن و سال‌تر است، نبرد کنم."
     },
     {
       "VOrder": 112,
@@ -1657,7 +1713,8 @@
       "Text": "به رستم چنین گفت کاووس کی",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "هوش مصنوعی: کاووس به رستم گفت: ای دلاور و خردمند نیکو صفات."
     },
     {
       "VOrder": 114,
@@ -1673,7 +1730,8 @@
       "Text": "به چشم من اندر چکان خون اوی",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "هوش مصنوعی: به چشمان من خون او می‌ریزد و تا زمانی که تو را دوباره نبینم، این وضعیت ادامه خواهد داشت."
     },
     {
       "VOrder": 116,
@@ -1689,7 +1747,8 @@
       "Text": "به چشمش چو اندر کشیدند خون",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "هوش مصنوعی: وقتی خون به چشمش کشیدند، آن دیدگان تیره‌اش همچون خورشید به رنگ خون درآمد."
     },
     {
       "VOrder": 118,
@@ -1705,7 +1764,8 @@
       "Text": "نهادند زیراندرش تخت عاج",
       "CoupletIndex": 59,
       "SectionIndex1": 0,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "هوش مصنوعی: آنها تختی از عاج زیر او قرار دادند و بر روی آن تاجی از عاج آویزان کردند."
     },
     {
       "VOrder": 120,
@@ -1721,7 +1781,8 @@
       "Text": "نشست از بر تخت مازندران",
       "CoupletIndex": 60,
       "SectionIndex1": 0,
-      "SectionIndex2": 62
+      "SectionIndex2": 62,
+      "CoupletSummary": "هوش مصنوعی: رستم و بزرگ‌ترین سرداران در مازندران بر تخت نشسته‌اند."
     },
     {
       "VOrder": 122,
@@ -1737,7 +1798,8 @@
       "Text": "چو طوس و فریبرز و گودرز و گیو",
       "CoupletIndex": 61,
       "SectionIndex1": 0,
-      "SectionIndex2": 63
+      "SectionIndex2": 63,
+      "CoupletSummary": "هوش مصنوعی: در اینجا به شخصیت‌های برجسته و قهرمانان نام‌آور اشاره شده است. این افراد در فرهنگ و ادب فارسی، نماد شجاعت و فداکاری هستند و هر کدام در داستان‌های تاریخ و اسطوره‌ها جایگاه ویژه‌ای دارند. به نوعی از این شخصیت‌ها به عنوان قهرمانان بزرگ و افرادی توانا یاد می‌شود که در نبردها و ماجراهای مختلف نقشی کلیدی بازی کرده‌اند."
     },
     {
       "VOrder": 124,
@@ -1753,7 +1815,8 @@
       "Text": "برین گونه یک هفته با رود و می",
       "CoupletIndex": 62,
       "SectionIndex1": 0,
-      "SectionIndex2": 64
+      "SectionIndex2": 64,
+      "CoupletSummary": "هوش مصنوعی: در اینجا گفته شده که یک هفته را به شادمانی و خوشگذرانی با رود و نوشیدنی سپری کرد. این زمان خوشی و لذت، یادآور کی‌قباد، پادشاه افسانه‌ای ایران، است."
     },
     {
       "VOrder": 126,
@@ -1769,7 +1832,8 @@
       "Text": "به هشتم نشستند بر زین همه",
       "CoupletIndex": 63,
       "SectionIndex1": 0,
-      "SectionIndex2": 65
+      "SectionIndex2": 65,
+      "CoupletSummary": "هوش مصنوعی: در هشتمین مرحله، هماوردان بزرگ و قدرتمند با هم گرد هم آمدند، همچون سوارانی که بر زین نشسته‌اند و در دنیای پرسه می‌زنند."
     },
     {
       "VOrder": 128,
@@ -1785,7 +1849,8 @@
       "Text": "همه برکشیدند گرز گران",
       "CoupletIndex": 64,
       "SectionIndex1": 0,
-      "SectionIndex2": 66
+      "SectionIndex2": 66,
+      "CoupletSummary": "هوش مصنوعی: همه سلاح‌های سنگین خود را از زمین برداشتند و در شهر مازندران پراکنده شدند."
     },
     {
       "VOrder": 130,
@@ -1801,7 +1866,8 @@
       "Text": "برفتند یکسر به فرمان کی",
       "CoupletIndex": 65,
       "SectionIndex1": 0,
-      "SectionIndex2": 67
+      "SectionIndex2": 67,
+      "CoupletSummary": "هوش مصنوعی: همه به یکباره به فرمان او رفتند، مانند آتش که از نی خشک شعله‌ور می‌شود."
     },
     {
       "VOrder": 132,
@@ -1817,7 +1883,8 @@
       "Text": "ز شمشیر تیز آتش افروختند",
       "CoupletIndex": 66,
       "SectionIndex1": 0,
-      "SectionIndex2": 68
+      "SectionIndex2": 68,
+      "CoupletSummary": "هوش مصنوعی: با تیغ تیز جنگ، آتش افروختند و تمامی شهر در آتش سوخت."
     },
     {
       "VOrder": 134,
@@ -1833,7 +1900,8 @@
       "Text": "به لشکر چنین گفت کاووس شاه",
       "CoupletIndex": 67,
       "SectionIndex1": 0,
-      "SectionIndex2": 69
+      "SectionIndex2": 69,
+      "CoupletSummary": "هوش مصنوعی: کاووس شاه به لشکر خود گفت که حالا باید مجازات گناهانی که کرده‌ایم را بپردازیم."
     },
     {
       "VOrder": 136,
@@ -1849,7 +1917,8 @@
       "Text": "چنان چون سزا بد بدیشان رسید",
       "CoupletIndex": 68,
       "SectionIndex1": 0,
-      "SectionIndex2": 70
+      "SectionIndex2": 70,
+      "CoupletSummary": "هوش مصنوعی: بدی‌هایی که به دیگران کرده‌اند، حالا به خودشان رسید و حالا باید از کشتن دست بردارند."
     },
     {
       "VOrder": 138,
@@ -1865,7 +1934,8 @@
       "Text": "بباید یکی مرد با هوش و سنگ",
       "CoupletIndex": 69,
       "SectionIndex1": 0,
-      "SectionIndex2": 71
+      "SectionIndex2": 71,
+      "CoupletSummary": "هوش مصنوعی: باید کسی هوشمند و با تجربه باشد تا بتواند تفاوت بین شتاب و درنگ را تشخیص دهد."
     },
     {
       "VOrder": 140,
@@ -1881,7 +1951,8 @@
       "Text": "شود نزد سالار مازندران",
       "CoupletIndex": 70,
       "SectionIndex1": 0,
-      "SectionIndex2": 72
+      "SectionIndex2": 72,
+      "CoupletSummary": "هوش مصنوعی: سالار مازندران سبب می‌شود که دلش بیدار و آگاه شود و تفکرش عمیق و سنگین گردد."
     },
     {
       "VOrder": 142,
@@ -1897,7 +1968,8 @@
       "Text": "بران کار خشنود شد پور زال",
       "CoupletIndex": 71,
       "SectionIndex1": 0,
-      "SectionIndex2": 73
+      "SectionIndex2": 73,
+      "CoupletSummary": "هوش مصنوعی: پور زال از اینکه بزرگان که در کنار او بودند خوشحال شد و از کارهایی که انجام داده راضی بود."
     },
     {
       "VOrder": 144,
@@ -1913,7 +1985,8 @@
       "Text": "فرستاد نامه به نزدیک اوی",
       "CoupletIndex": 72,
       "SectionIndex1": 0,
-      "SectionIndex2": 74
+      "SectionIndex2": 74,
+      "CoupletSummary": "هوش مصنوعی: او نامه‌ای برای کسی فرستاد که باعث روشن شدن روح او شد و جانش را از تاریکی نجات داد."
     },
     {
       "VOrder": 146,

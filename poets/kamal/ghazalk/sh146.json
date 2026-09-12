@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "بر آمد ز گلزار باد بهاری",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هوا بهاری شده و نسیم خوشبو از میان گل‌ها وزیده است. بیا و قدحی از شراب خوش‌رنگ بیاور، چون چه نیازی به چیز دیگری داریم؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "بر ما ز تقصیرهای گذشته",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از ما چه عذری برای خطاهای گذشته می‌خواهی که بهتر از شراب است؟"
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "چمن از که اندوخت این پادشایی؟",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چمن از چه کسی این زیبایی و پادشاهی را به دست آورده است؟ و نسیم صبحگاهی این نغمه و آهنگ را از که یاد گرفته است؟"
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "ز غنچه دهانی و صد گونه خنده",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از گل غنچه‌ای که لبخندهای مختلفی دارد و از بلبل که با صدای گوناگون ناله می‌کند."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "نسیم سبک دست بر افسر گل",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باد ملایم به آرامی بر روی تاج گل می‌نشیند و به آن زیبایی می‌بخشد."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "زهی شوخ نرگس که با عمر کوته",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نرگس خوش‌چهره‌ای که با عمر کوتاهش، شب‌ها و روزها را در لذت و شادخواری می‌گذرانده، بسیار جالب و خوشایند است."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "بسوک شکوفه هوا هر زمانی",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در هر زمانی که باد بهاری بوزد و شکوفه‌ها را بپوشاند، آسمان نیز به وسیله ابرها پر از آب می‌شود."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "ز بس لطف و دلداری غنچة گل",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر محبت و نوازش‌های فراوانی که غنچة گل به من می‌کند، احساس می‌کنم که دوستانم از غم و اندوه رهایی یافته‌اند."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "خجل گشت نرگس ز رویش ازینست",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نرگس از زیبایی و جذابیت چهره‌اش خجالت می‌کشد و به همین خاطر سرش را از شرم پایین نگه داشته است."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "همی خواست سوسن که تا عذر خواهد",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سوسن می‌خواست عذرخواهی کند، اما زبانش یاری نمی‌کرد و نمی‌توانست صحبت کند."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "سر از خواب مستی کنون بر ندارد",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که دل هوشیار و بیداری دارد، دیگر از خواب و غفلت بیرون نمی‌آید و در حالت مستی و سرگردانی باقی می‌ماند."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "من و سیم و یار و حریف موافق",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این دنیا، من و ساز و یار و دوستان هم‌فکر، خوشا به حال کسی که همراه ما باشد و از این وضعیت بهره‌مند شود."
     },
     {
       "VOrder": 24,

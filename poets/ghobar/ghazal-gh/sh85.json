@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای خوش آن دردی که درمانش توئی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خوشا به حال آن دردی که تنها تو می‌توانی آن را درمان کنی و خوشا به حال راهی که تنها به تو منتهی می‌شود."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گر به سر پویم ره مقصود را",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به هدفم برسم، نگران چیزی نیستم چون در انتها تو هستی."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "کی هوای بوستانش در سر است",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که در دلش یاد و خاطره باغ را داشته باشد، همیشه در تنهایی خود به یاد تو است."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "ای شکنج زلف پرچین نگار",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای زیبای دلربا با موهای پرچین و پر پیچ و تاب، انگار که تو خود آن چوگان هستی که در بازی عشق به دست می‌چرخد."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "ای خوشا آب و هوای آن دیار",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خوشا به حال آن دیاری که در آن، تو مانند درختان سرو بلند و زیبا هستی و خیابان‌هایش به زیبایی تو مزین شده‌اند."
     },
     {
       "VOrder": 10,

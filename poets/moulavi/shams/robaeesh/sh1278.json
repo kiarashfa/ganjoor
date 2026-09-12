@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گر خوب کنی روی مرا خوب توام",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر با من خوبی کنی، من هم نسبت به تو خوب می‌شوم، ولی اگر به من بد کنی، من هم مثل چوب سرد و بی‌روح می‌شوم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گر پاره کنی ز رنج ایوب توام",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر درد و رنج ایوب را پاره کنی، من هم مانند یوسف در زندگی یعقوب تو هستم."
     },
     {
       "VOrder": 4,

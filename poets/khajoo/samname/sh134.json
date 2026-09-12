@@ -441,7 +441,8 @@
       "Text": "به یک دست کوه و به یک دست آب",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: یکی از دست‌ها به کوه اشاره دارد و دست دیگر به آب، و این نشان‌دهنده‌ی تنوع و فراوانی منابع طبیعی در این منطقه است. هر جایی که نگاه کنی، می‌توان نشانه‌هایی از شکار و جشن و جوانی را مشاهده کرد."
     },
     {
       "VOrder": 2,
@@ -457,7 +458,8 @@
       "Text": "بدان دشت یک دم فرود آمدند",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در دشت، لحظه‌ای توقف کردند و به مکان آرامی که تار و پود زندگی آنان در آنجا وجود داشت، رفتند."
     },
     {
       "VOrder": 4,
@@ -473,7 +475,8 @@
       "Text": "سپهبد بخوابید بر روی دشت",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: سپهبد بر روی دشت خوابیده و شاپور، اسبان را به چرا می‌برد."
     },
     {
       "VOrder": 6,
@@ -489,7 +492,8 @@
       "Text": "بخوردند اسبان علف زار را",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: در اینجا، اسبان به سرعت به چراگاه حمله کردند و علف‌ها را خوردند، و دهقان که این صحنه را مشاهده کرد، به شدت متوجه آن وضعیت شد."
     },
     {
       "VOrder": 8,
@@ -505,7 +509,8 @@
       "Text": "بیامد به نزدیک شاپور گرد",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: یک فردی به نزدیک شاپور آمد و به خاطر تندی و تیزی که داشت، به شدت درباره‌اش سخن گفت."
     },
     {
       "VOrder": 10,
@@ -521,7 +526,8 @@
       "Text": "بدو گفت کای بدرگ اهرمن",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: او به او گفت: ای بزرگترین شیطان سوارکاران، چرا در باغ چمن کرده‌ای؟"
     },
     {
       "VOrder": 12,
@@ -537,7 +543,8 @@
       "Text": "ندانی خداوند این کشت کیست",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: نمی‌دانی که در این لحظه چه کسی مالک این کشت است و باید به حال تو گریان شد."
     },
     {
       "VOrder": 14,
@@ -553,7 +560,8 @@
       "Text": "ز بیمش گریزد به دریا نهنگ",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: نهنگ به خاطر ترس از او به دریا پناه می‌برد و پلنگ به خاطر هیبت او چنگال‌هایش را از ترس پایین می‌آورد."
     },
     {
       "VOrder": 16,
@@ -569,7 +577,8 @@
       "Text": "ز سهمش بلرزد تن اژدها",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: از سهم او، بدن اژدها به لرزه درمی‌آید و در این سرزمین و بر فراز ابرها نمی‌چرخد."
     },
     {
       "VOrder": 18,
@@ -585,7 +594,8 @@
       "Text": "بود نام سالار ما قهرمان",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: سالار ما که قهرمان است، به خاطر ترس از تیغ او، به دنبال پناه و امنیت می‌گردد."
     },
     {
       "VOrder": 20,
@@ -601,7 +611,8 @@
       "Text": "اگر بشنود این سخن شهریار",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: اگر شهریار از این کارهای بدکاران باخبر شود، عواقب سختی برای آنها خواهد داشت."
     },
     {
       "VOrder": 22,
@@ -617,7 +628,8 @@
       "Text": "بخندید شاپور ای تیزمغز",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: شاپور، ای باهوش و استعداد، لبخند بزن! بدون تو، هیچ خرد و اندیشه‌ای وجود ندارد و سخنان زیبا و دلنشینی هم در کار نیست."
     },
     {
       "VOrder": 24,
@@ -633,7 +645,8 @@
       "Text": "ندیدی تو سالار ما را مگر",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: آیا تا به حال سالار ما را دیده‌ای؟ اگر نه، پس فقط از قهرمان دیگری برایم حرف بزن."
     },
     {
       "VOrder": 26,
@@ -649,7 +662,8 @@
       "Text": "دلیریست ما را به مانند شیر",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: ما هم همچون شیر شجاعت داریم که می‌توانیم از چرخش دشواری‌های زندگی با غرور و قدرت بگذریم و آنها را به زمین بیافکنیم."
     },
     {
       "VOrder": 28,
@@ -665,7 +679,8 @@
       "Text": "چو بشنید دهقان ازو سرد گفت",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: وقتی دهقان سخنان او را شنید، با بی‌احترامی به فرمانده گفت که او ناجوانمرد است."
     },
     {
       "VOrder": 30,
@@ -681,7 +696,8 @@
       "Text": "برآشفت شاپور چون پیل مست",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: شاپور مانند فیل سر مستی به شدت خشمگین شد و دور سر چوبدستش را چرخاند."
     },
     {
       "VOrder": 32,
@@ -697,7 +713,8 @@
       "Text": "بزد بر سر مرد دهقان پرست",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: به یکباره، مردی که به زمین‌دار احترام می‌گذاشت، به خاک می‌افتد و از بین می‌رود."
     },
     {
       "VOrder": 34,
@@ -713,7 +730,8 @@
       "Text": "چو او را درافکند بر کشتکار",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: وقتی او را بر روی کشاورز انداخت، اسبان در آن مرتع به چرا پرداختند."
     },
     {
       "VOrder": 36,
@@ -729,7 +747,8 @@
       "Text": "خبر شد به نزدیک سقلاب شاه",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: شاه از آن مرد دهقان بیگناه که برای او اتفاقی افتاده بود، آگاه شد."
     },
     {
       "VOrder": 38,
@@ -745,7 +764,8 @@
       "Text": "برآشفت و گفتا ببینید کیست",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: او برآشفته شد و گفت: ببینید این کیست که این‌گونه با تعجب و حیرت به ما نگاه می‌کند و علت این کارش چیست؟"
     },
     {
       "VOrder": 40,
@@ -761,7 +781,8 @@
       "Text": "بیارید آن مرد را در زمان",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: مرد را به اینجا بیاورید و به او بگویید که تو قهرمان خواهی شد."
     },
     {
       "VOrder": 42,
@@ -777,7 +798,8 @@
       "Text": "برفتند آنجا تن هفت و هشت",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: آنها به سوی دشت رفتند، جایی که تن هفت و هشت به نزدیک شاپور بود."
     },
     {
       "VOrder": 44,
@@ -793,7 +815,8 @@
       "Text": "بدان تا بگیرند و بندند دست",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: بدان که کسی که به دنبال گناه و فساد است، به زودی گرفتار خواهد شد و از او خواسته می‌شود که دست از کارهای ناپسند خود بردارد و به ذلت و خاکی افتاده خواهد شد."
     },
     {
       "VOrder": 46,
@@ -809,7 +832,8 @@
       "Text": "شتابان رسیدند در آن مرغزار",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: آنها با عجله به مرغزار رسیدند و شاپور متوجه شد که وضعیت چگونه است."
     },
     {
       "VOrder": 48,
@@ -825,7 +849,8 @@
       "Text": "بیامد سر ره بدیشان گرفت",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: یکی به سر راهشان آمد و آن‌ها را متعجب کرد، به‌طوری که از او ماندند و مردم در شگفتی فرو رفتند."
     },
     {
       "VOrder": 50,
@@ -841,7 +866,8 @@
       "Text": "بدان کتف و بالا و چنگ دراز",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: بدن تو مانند کتف و بال‌های بلند و چنگال‌های دراز است. به قدرتی مانند پیل و در هنگام حمله مثل گراز است."
     },
     {
       "VOrder": 52,
@@ -857,7 +883,8 @@
       "Text": "بتندید ازیشان برآشفته مرد",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: مردی که از آن‌ها خشمگین شده بود، به خاطر افکارش تنش از خون سرد شد و بی‌حرکت ماند."
     },
     {
       "VOrder": 54,
@@ -873,7 +900,8 @@
       "Text": "به تندی بگفتند کای نره دیو",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: به شدت به او گفتند: ای مرد شجاع، اکنون زندگی‌ات را به خطر می‌اندازیم."
     },
     {
       "VOrder": 56,
@@ -889,7 +917,8 @@
       "Text": "چرا کشته‌ای مرد دهقان پیر",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: چرا تو یک مرد سالخورده دهقان را کشتی؟ آیا از قدرت و تسلط رئیس جماعت نمی‌ترسی؟"
     },
     {
       "VOrder": 58,
@@ -905,7 +934,8 @@
       "Text": "که در تن بدرند چرم پلنگ",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: اگر در پوست پلنگی که بر تن داری بخواهند سرت را به سنگ بکوبند، باید به آن فکر کنی که چطور باید از این موقعیت خطرناک نجات پیدا کنی."
     },
     {
       "VOrder": 60,
@@ -921,7 +951,8 @@
       "Text": "ندانی مگر مرز سقلاب روم",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: نمی‌دانی که مرز سرزمین سقلاب روم، چه‌گونه فکر می‌تواند به‌گونه‌ای انعطاف‌پذیر و نرم شود، مانند موم."
     },
     {
       "VOrder": 62,
@@ -937,7 +968,8 @@
       "Text": "چو بشنید شاپور رزم آزما",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: زمانی که شاپور، جنگجوی ماهر، از گفتار آنها شنید، از جای خود بیرون آمد."
     },
     {
       "VOrder": 64,
@@ -953,7 +985,8 @@
       "Text": "برآورد چوب و یکی حمله کرد",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: چوپانی که چوبش را برداشت، به یکباره به گله حمله کرد و هیچ حرفی از خوبی و بدی، یا گرم و سردی نزد."
     },
     {
       "VOrder": 66,
@@ -969,7 +1002,8 @@
       "Text": "سه تن را به یک چوب زد بر زمین",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: سه نفر را به یک چوب بر زمین کوبیدند در حالی که از شدت خشم و نفرت به شدت مضطرب و هیجان‌زده بودند."
     },
     {
       "VOrder": 68,
@@ -985,7 +1019,8 @@
       "Text": "دو دیگر سر و دشت بر هم شکست",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: دست‌ها به هم برخورد کردند و دشت و سرزمین را در هم شکستند، وقتی دیگران آن قدرت را دیدند، حیرت‌زده شدند."
     },
     {
       "VOrder": 70,
@@ -1001,7 +1036,8 @@
       "Text": "تعجب بماندند در کار او",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: شگفتی‌ها از قدرت و عمل او باقی مانده است."
     },
     {
       "VOrder": 72,
@@ -1017,7 +1053,8 @@
       "Text": "فریبنده مردی به همراه بود",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: مردی فریبنده که در کنار او بود، از راه‌های حل مشکلات مردان باخبر بود."
     },
     {
       "VOrder": 74,
@@ -1033,7 +1070,8 @@
       "Text": "کجا نام او بود فرخارنوش",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: کجا کسی وجود دارد که نامش خوشایند و شیرین است و با دارویی که دارد، عقل و اندیشه را از آدمی می‌گیرد؟"
     },
     {
       "VOrder": 76,
@@ -1049,7 +1087,8 @@
       "Text": "به صد چاپلوسی به پیش آمدش",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: با هزار توجیه و تملق به او نزدیک شدی و گفتي که او هم به تو نزدیک شده است."
     },
     {
       "VOrder": 78,
@@ -1065,7 +1104,8 @@
       "Text": "زمین را ببوسید و کرد آفرین",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: زمین را بوسید و به خاطر تلاش و پاکی‌اش در مسیر دین، از او ستایش کرد."
     },
     {
       "VOrder": 80,
@@ -1081,7 +1121,8 @@
       "Text": "شهنشاه ما را نباشد خرد",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: پادشاه ما باید عاقل باشد و نباید همیشه با خشم و تندی به مسائل نگاه کند."
     },
     {
       "VOrder": 82,

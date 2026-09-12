@@ -381,7 +381,8 @@
       "Text": "ای ایاز این مهرها بر چارقی",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای ایاز، چرا این محبت‌ها در وجود تو مانند چارق (کفش سنتی) است؟ آیا مانند عشق بر بت نیست که در دل و جان نفوذ کرده باشد؟"
     },
     {
       "VOrder": 2,
@@ -397,7 +398,8 @@
       "Text": "هم‌چو مجنون از رخ لیلی خویش",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: تو همچون مجنون از روی لیلی‌ات، دین و آیین خود را به یک چارق تبدیل کرده‌ای."
     },
     {
       "VOrder": 4,
@@ -413,7 +415,8 @@
       "Text": "با دو کهنه مهر جان آمیخته",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: دو نشان قدیمی عشق را با جانم در هم آمیخته‌ام و هر دو را در اتاقی آویزان کرده‌ام."
     },
     {
       "VOrder": 6,
@@ -429,7 +432,8 @@
       "Text": "چند گویی با دو کهنه نو سخن",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: چرا مدام درباره‌ی حرف‌های قدیمی صحبت می‌کنی در حالی که هنوز در حال و هوای حال هستی؟"
     },
     {
       "VOrder": 8,
@@ -445,7 +449,8 @@
       "Text": "چون عرب با ربع و اطلال ای ایاز",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: زمانی که عرب به یاد ربع و ویرانه‌ها می‌افتد، ای ایاز، تو نیز از عشق سخن طولانی می‌گویی."
     },
     {
       "VOrder": 10,
@@ -461,7 +466,8 @@
       "Text": "چارقت ربع کدامین آصفست",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: لباس چهارده‌مُور این چقدر زیباست، مانند پوستین گویی که در زمان یوسف بر تن کرده‌اند."
     },
     {
       "VOrder": 12,
@@ -477,7 +483,8 @@
       "Text": "هم‌چو ترسا که شمارد با کشش",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: مانند انسانی که با حرص و طمع، گناه و جرم یک سال خود را در کنار اعمال ناپسند محسوب می‌کند."
     },
     {
       "VOrder": 14,
@@ -493,7 +500,8 @@
       "Text": "تا بیامرزد کشش زو آن گناه",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: برای آنکه بخشایش کند، کشش آن گناه را از او در نظر می‌گیرد و خداوند هم او را مورد بخشش قرار می‌دهد."
     },
     {
       "VOrder": 16,
@@ -509,7 +517,8 @@
       "Text": "نیست آگه آن کشش از جرم و داد",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: عشق و باور همچون جادوگری است که انسان را به خود می‌کشد، اما این جذب به دلیل وزن و اهمیت مادی نیست."
     },
     {
       "VOrder": 18,
@@ -525,7 +534,8 @@
       "Text": "دوستی و وهم صد یوسف تند",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: دوستی و خیال، مانند صد یوسف زیبا و شگفت‌انگیز، از دانش و قدرت هاروت و ماروت سرچشمه می‌گیرد."
     },
     {
       "VOrder": 20,
@@ -541,7 +551,8 @@
       "Text": "صورتی پیدا کند بر یاد او",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: وقتی به یاد او می‌افتی، چهره‌ای زیبا در ذهنت شکل می‌گیرد که در گفتگو با تو حضوری ملموس دارد."
     },
     {
       "VOrder": 22,
@@ -557,7 +568,8 @@
       "Text": "راز گویی پیش صورت صد هزار",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: رازها را باید با کسی در میان گذاشت که هم‌نوا و هم‌دل است، درست مانند اینکه یار، بی‌پروا و با اعتماد در حضور یار خود، از دل و دغدغه‌هایش سخن می‌گوید."
     },
     {
       "VOrder": 24,
@@ -573,7 +585,8 @@
       "Text": "نه بدانجا صورتی نه هیکلی",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: نه آنجا شکلی وجود دارد و نه بدنی که از آن به وجود آمده باشد. حقیقتی است که فقط می‌توان گفت \u0022بله\u0022 و \u0022بله\u0022 به تعداد بسیار."
     },
     {
       "VOrder": 26,
@@ -589,7 +602,8 @@
       "Text": "آن چنان که مادری دل‌برده‌ای",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: شبیه مادران دلسوخته‌ای است که در برابر قبر فرزند از دست رفته‌شان ایستاده‌اند و غم آن را به دوش می‌کشند."
     },
     {
       "VOrder": 28,
@@ -605,7 +619,8 @@
       "Text": "رازها گوید به جد و اجتهاد",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: رازها را با دقت و تلاش بیان می‌کند، و این حقیقت که او به مانند یک چیز بی‌جان در برهه‌ای زنده شده است، نشان‌دهنده‌ی عمق فهم و اندیشه‌اش است."
     },
     {
       "VOrder": 30,
@@ -621,7 +636,8 @@
       "Text": "حی و قایم داند او آن خاک را",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: او زنده و ناظر است و خاک را می‌بیند و می‌شنود، همچنین می‌تواند خاشاک را تشخیص دهد."
     },
     {
       "VOrder": 32,
@@ -637,7 +653,8 @@
       "Text": "پیش او هر ذرهٔ آن خاک گور",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: در حضور او، هر ذره از خاک قبر، آگاه و هوشیار است و در زمان شور و حال، حساسیت خاصی دارد."
     },
     {
       "VOrder": 34,
@@ -653,7 +670,8 @@
       "Text": "مستمع داند به جد آن خاک را",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: شنونده خوب می‌داند که آن خاک را با دقت بنگرد، این عشق سحرآمیز را."
     },
     {
       "VOrder": 36,
@@ -669,7 +687,8 @@
       "Text": "آنچنان بر خاک گور تازه او",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: او به‌قدری با اشک و اندوه بر خاک قبر تازه‌اش می‌نشیند که هر لحظه بر شدت غم و یادش افزوده می‌شود."
     },
     {
       "VOrder": 38,
@@ -685,7 +704,8 @@
       "Text": "که بوقت زندگی هرگز چنان",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: در زمان حیات، هرگز چهره‌ای به زیبانی که جان دارد، بر این دنیای فانی نگذاشته است."
     },
     {
       "VOrder": 40,
@@ -701,7 +721,8 @@
       "Text": "از عزا چون چند روزی بگذرد",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: وقتی کمی از دوره سوگواری بگذرد، هیجان و درد آن عشق آرام می‌گیرد."
     },
     {
       "VOrder": 42,
@@ -717,7 +738,8 @@
       "Text": "عشق بر مرده نباشد پایدار",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: عشق در دل مرده دوام نمی‌یابد، عشق باید بر دل زنده و جان‌دار تکیه کند تا پایدار بماند."
     },
     {
       "VOrder": 44,
@@ -733,7 +755,8 @@
       "Text": "بعد از آن زان گور خود خواب آیدش",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: بعد از مرگ، خواب او به سراغش می‌آید و از حالت بی‌جانید دوباره زندگی به او می‌بخشد."
     },
     {
       "VOrder": 46,
@@ -749,7 +772,8 @@
       "Text": "زانک عشق افسون خود بربود و رفت",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: چون عشق جادو و سحر خود را از من گرفت و رفت، من نیز مانند خاکستری مانده‌ام که آتش آن رفته است."
     },
     {
       "VOrder": 48,
@@ -765,7 +789,8 @@
       "Text": "آنچ بیند آن جوان در آینه",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: هرچه آن جوان در آینه می‌بیند، پیر در دلش و فکرش به صورت خشت و سختی زندگی تجربه کرده و درک می‌کند."
     },
     {
       "VOrder": 50,
@@ -781,7 +806,8 @@
       "Text": "پیر عشق تست نه ریش سپید",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: عاشق قدیمی تو کسی است که با تجربه‌اش می‌تواند به تعداد زیادی از افرادی که ناامید شده‌اند، کمک کند."
     },
     {
       "VOrder": 52,
@@ -797,7 +823,8 @@
       "Text": "عشق صورتها بسازد در فراق",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: عشق می‌تواند در دوری‌ها، شکل‌ها و صورت‌های مختلفی بسازد، اما زمانی که به وصال می‌رسد، این تصاویر و شکل‌ها محو می‌شوند."
     },
     {
       "VOrder": 54,
@@ -813,7 +840,8 @@
       "Text": "که منم آن اصل اصل هوش و مست",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: من همان منبع اصلی هوش و عقل هستم و در اثر زیبایی‌های آن، دچار شگفتی و سرمستی شده‌ام."
     },
     {
       "VOrder": 56,
@@ -829,7 +857,8 @@
       "Text": "پرده‌ها را این زمان برداشتم",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: در این لحظه، پرده‌ها را کنار زدم و حسن را بدون هیچ واسطه‌ای در پیش روی شما قرار دادم."
     },
     {
       "VOrder": 58,
@@ -845,7 +874,8 @@
       "Text": "زانک بس با عکس من در بافتی",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: زیرا به خاطر تصویر من در بافتی، قدرت خالص وجودم را پیدا کردی."
     },
     {
       "VOrder": 60,
@@ -861,7 +891,8 @@
       "Text": "چون ازین سو جذبهٔ من شد روان",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: زمانی که جذبه و کشش من به سمت او جاری می‌شود، او دیگر نمی‌تواند این کشش را در میان خود ببیند."
     },
     {
       "VOrder": 62,
@@ -877,7 +908,8 @@
       "Text": "مغفرت می‌خواهد از جرم و خطا",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: او به دنبال بخشش و آمرزش از گناهان و اشتباهاتش است و به لطف و رحمت خداوند امیدوار است."
     },
     {
       "VOrder": 64,
@@ -893,7 +925,8 @@
       "Text": "چون ز سنگی چشمه‌ای جاری شود",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: زمانی که از دل سنگی آبجوشی به راه بیفتد، دیگر سنگ در برابر آن ناپدید می‌شود."
     },
     {
       "VOrder": 66,
@@ -909,7 +942,8 @@
       "Text": "کس نخواهد بعد از آن او را حجر",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: هیچ کس پس از آن سنگ قیمتی را نخواهد خواست، زیرا از آن سنگ، جواهر باارزشی جاری شده است."
     },
     {
       "VOrder": 68,
@@ -925,7 +959,8 @@
       "Text": "کاسه‌ها دان این صور را واندرو",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: کاسه‌ها معرفت و درک‌های مختلفی از حقایق هستند و هر فردی بر اساس ظرفیت و توانایی خود، از حقیقت بهره‌مند می‌شود."
     },
     {
       "VOrder": 70,

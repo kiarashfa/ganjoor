@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "دیروز که در سرای عالی بودی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دیروز که در آن مکان با شکوه بودی، حرفی رمزی زدی و اشاره‌ای کردی."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گر هست بده ورنه در آن بند مباش",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر چیزی برای گفتن داری، بگو وگرنه در این موضوع صحبت نکن، طوری رفتار کن که انگار از من این حرف‌ها را نشنیدی."
     },
     {
       "VOrder": 4,

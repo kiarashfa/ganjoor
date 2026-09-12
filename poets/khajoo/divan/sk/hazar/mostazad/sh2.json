@@ -187,7 +187,8 @@
       "Text": "کس نیست که گوید ز من آن ترک ختارا",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس نیست که بگوید در مورد من آن دختر زیبا اگر اشتباهی کرده است."
     },
     {
       "VOrder": 2,
@@ -203,7 +204,8 @@
       "Text": "باز آی که داریم توقع ز تو یارا",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: برگرد و به ما امید بده، زیرا ما به تو اعتماد داریم و انتظار وفای به عهدت را داریم."
     },
     {
       "VOrder": 4,
@@ -219,7 +221,8 @@
       "Text": "منداز بنام من دل سوخته فلفل",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: نگذار دل آزرده‌ام را به خاطر نامی سوزانتر از فلفل بر آتش چهره به تصویر بکشد."
     },
     {
       "VOrder": 6,
@@ -235,7 +238,8 @@
       "Text": "کافتاده دل از دانه ی مشکین تو ما را",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: دل ما به خاطر بوی خوش مشک تو در دام مصیبت‌ها گرفتار شده است."
     },
     {
       "VOrder": 8,
@@ -251,7 +255,8 @@
       "Text": "امروز منم چون خم ابروی تو در شهر",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: امروز من به اندازه خم ابروی تو در شهر برجسته و خاص هستم، مانند یک هلال که در آسمان می‌درخشد."
     },
     {
       "VOrder": 10,
@@ -267,7 +272,8 @@
       "Text": "تا دیده ام آن صورت انگشت نما را",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که آن چهره خاص و بی‌نظیر را دیده‌ام، دست به نمایشی زده‌ام."
     },
     {
       "VOrder": 12,
@@ -283,7 +289,8 @@
       "Text": "باز آی که سر در قدمت بازم و جان را",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: برگرد که من همیشه در خدمت تو هستم و جانم را در راه تو فدا می‌کنم."
     },
     {
       "VOrder": 14,
@@ -299,7 +306,8 @@
       "Text": "جون می ندهد دست من بی سر و پا را",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: من به تنهایی و بدون پشتوانه کسی نمی‌توانم جان خود را نجات دهم، جز با استفاده از نعل اسبی که به من کمک کند."
     },
     {
       "VOrder": 16,
@@ -315,7 +323,8 @@
       "Text": "در شهر شما قاعده باشد که نپرسند",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: در شهر شما این رسم برقرار است که از حال و روز آدم‌های غریب خبری نخواهند گرفت."
     },
     {
       "VOrder": 18,
@@ -331,7 +340,8 @@
       "Text": "آخر چه زیان مملکت حسن شما را",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: در نهایت، ضرر مملکت شما از بی‌نظمی و بی‌سر و سامانی چه خواهد بود؟"
     },
     {
       "VOrder": 20,
@@ -347,7 +357,8 @@
       "Text": "تا چند مخالف زنی ای مطرب خوشگوی",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: چقدر باید به مخالف‌خوانی ادامه دهی، ای مطرب خوش‌صدا، در دل عاشقان؟"
     },
     {
       "VOrder": 22,
@@ -363,7 +374,8 @@
       "Text": "بنواز زمانی من بی برگ و نوا را",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: لطفاً لحظه‌ای برای من که بی‌نوا و بدون سرود هستم، نوا بخوان."
     },
     {
       "VOrder": 24,
@@ -379,7 +391,8 @@
       "Text": "زین پیش نهان چند توان داشتن آخر",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: چند بار می‌توان در دل غم جدایی پنهان ماند؟"
     },
     {
       "VOrder": 26,
@@ -395,7 +408,8 @@
       "Text": "دانم که سرایت کند این درد نگارا",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: می‌دانم که این درد و تنهایی به جایی خواهد رسید و در نهایت تاثیری خواهد گذاشت."
     },
     {
       "VOrder": 28,
@@ -411,7 +425,8 @@
       "Text": "در ظلمت اسکندرم از حسرت لعلت",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: در تاریکی و ناامیدی من، به خاطر نبودن تو و زیبایی‌ات، مانند خواجوی حسرت‌زده هستم."
     },
     {
       "VOrder": 30,
@@ -427,7 +442,8 @@
       "Text": "لیکن چکنم چون نبود ملکت دارا",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: اما چه کنم، وقتی که در دست گدایی چیزی ندارم و ثروتمند نیستم؟"
     },
     {
       "VOrder": 32,

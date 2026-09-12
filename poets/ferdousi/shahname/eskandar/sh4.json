@@ -361,7 +361,8 @@
       "Text": "ز عموریه مادرش را بخواند",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "اسکندر مادر خود را از شهر عموریه فراخواند و وقتی آمد، وصیت و سخنان دارا را برای او بازگو کرد."
     },
     {
       "VOrder": 2,
@@ -377,7 +378,8 @@
       "Text": "بدو گفت نزد دلارای شو",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "به مادرش گفت: نزد دل‌آرای برو و با مهربانی و به نیکی، خواستگاری را با او در میان بگذار."
     },
     {
       "VOrder": 4,
@@ -393,7 +395,8 @@
       "Text": "به پرده درون روشنک را ببین",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "در اندرونی و حرم‌سرا، روشنک را ملاقات کن و وقتی او را دیدی، از طرف من به او درود و آفرین بفرست."
     },
     {
       "VOrder": 6,
@@ -409,7 +412,8 @@
       "Text": "ببر طوق با یاره و گوشوار",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "گردنبند، دستبند، گوشواره و یک تاجِ شاهانه و پر از جواهر برای او ببر."
     },
     {
       "VOrder": 8,
@@ -425,7 +429,8 @@
       "Text": "صد اشتر ز گستردنیها ببر",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "صد شتر بارِ فرش و زیرانداز، و صد شتر از انواع پارچه‌های ابریشمیِ زربفت همراه خود ببر."
     },
     {
       "VOrder": 10,
@@ -441,7 +446,8 @@
       "Text": "هم از گنج دینار چو سی هزار",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "همچنین حدود سی‌هزار دینار از خزانه در کیسه‌ها بریز تا به عنوان هدیه و شاباش نثارِ او کنی."
     },
     {
       "VOrder": 12,
@@ -457,7 +463,8 @@
       "Text": "ز رومی کنیزک چو سیصد ببر",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "حدود سیصد کنیزِ رومی و تمامِ چیزهای دیگری که کاملاً لازم و شایسته است، با خود ببر."
     },
     {
       "VOrder": 14,
@@ -473,7 +480,8 @@
       "Text": "یکی جام زر هر یکی را به دست",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "در دستِ هر یک از کنیزان یک جامِ زرین باشد؛ درست طبق رسمِ زیبارویانی که در خدمتِ پادشاهان هستند."
     },
     {
       "VOrder": 16,
@@ -489,7 +497,8 @@
       "Text": "ابا خویشتن خادمان بر براه",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "خدمتگزارانِ بسیاری را در این سفر با خود همراه کن و از هیچ‌یک از آداب و تشریفاتِ پادشاهان کم نگذار."
     },
     {
       "VOrder": 18,
@@ -505,7 +514,8 @@
       "Text": "بشد مادر شاه با ترجمان",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "مادر اسکندر همراه با مترجمان و ده نفر از دانشمندانِ خوش‌بیان به راه افتاد."
     },
     {
       "VOrder": 20,
@@ -521,7 +531,8 @@
       "Text": "چو آمد به نزدیکی اصفهان",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هنگامی که به نزدیکی شهر اصفهان رسید، بزرگانِ بسیاری به استقبالِ او رفتند."
     },
     {
       "VOrder": 22,
@@ -537,7 +548,8 @@
       "Text": "بیامد ز ایوان دلارای پیش",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "دل‌آرای نیز به همراه بزرگان و نامداران، طبق رسوم درباریِ خودشان، از کاخ بیرون آمد و به پیشواز او رفت."
     },
     {
       "VOrder": 24,
@@ -553,7 +565,8 @@
       "Text": "به دهلیز کردند چندان نثار",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "در ورودیِ کاخ آن‌قدر سکه و جواهر نثار کردند که گنج‌های درهم در چشمِ بینندگان بی‌ارزش جلوه کرد."
     },
     {
       "VOrder": 26,
@@ -569,7 +582,8 @@
       "Text": "به ایوان نشستند با رای‌زن",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "در کاخ همراه با مشاوران نشستند و تمام نامداران و بزرگان دور هم جمع شدند."
     },
     {
       "VOrder": 28,
@@ -585,7 +599,8 @@
       "Text": "دلارای برداشت چندان جهیز",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "دل‌آرای آن‌قدر جهیزیه برای دخترش آماده کرد که بازارِ تجارت در جهان پررونق شد."
     },
     {
       "VOrder": 30,
@@ -601,7 +616,8 @@
       "Text": "شتر در شتر رفت فرسنگها",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "کاروان شترها فرسنگ‌ها پشت سر هم به راه افتادند؛ در حالی که حامل اشیای طلایی، نقره‌ای و رنگارنگ بودند."
     },
     {
       "VOrder": 32,
@@ -617,7 +633,8 @@
       "Text": "ز پوشیدنی و ز گستردنی",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "(این بارها شاملِ) انواع لباس‌ها، فرش‌ها، روکش‌ها، و عطریات و جواهراتِ پراکندنی بود."
     },
     {
       "VOrder": 34,
@@ -633,7 +650,8 @@
       "Text": "ز اسپان تازی به زرین ستام",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "اسب‌های عربی با افسارهای طلاکاری‌شده، و شمشیرهای هندی با غلاف‌های زرین."
     },
     {
       "VOrder": 36,
@@ -649,7 +667,8 @@
       "Text": "ز خفتان و از خود و برگستوان",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "انواع زره، کلاه‌خود، پوششِ جنگی اسب‌ها، گرزها و خنجرهای فولادیِ هندی."
     },
     {
       "VOrder": 38,
@@ -665,7 +684,8 @@
       "Text": "چه مایه بریده چه از نابرید",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "مقدار بسیار زیادی پارچه‌های دوخته‌شده و دوخته‌نشده که هیچ‌کس در جهان بیش از آن ندیده بود."
     },
     {
       "VOrder": 40,
@@ -681,7 +701,8 @@
       "Text": "ز ایوان پرستندگان خواستند",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "خدمتکاران را از کاخ فراخواندند و چهل کجاوه‌ی زرین و مجلل را آماده کردند."
     },
     {
       "VOrder": 42,
@@ -697,7 +718,8 @@
       "Text": "یکی مهد با چتر و با خادمان",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "روشنک با شادمانی در یکی از کجاوه‌ها که دارای سایه‌بان و خدمتکارانِ مخصوص بود، نشست."
     },
     {
       "VOrder": 44,
@@ -713,7 +735,8 @@
       "Text": "ز کاخ دلارای تا نیم راه",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "از کاخ دل‌آرای تا نیمه‌ی مسیر، پر از سکه‌های درهم و دینار، و اسب و سپاهیان (جهت همراهی و نثار) بود."
     },
     {
       "VOrder": 46,
@@ -729,7 +752,8 @@
       "Text": "ببستند آذین به شهر اندرون",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "داخل شهر را چراغانی و تزیین کردند؛ مردم در ظاهر می‌خندیدند، اما در دل (به خاطر از دست رفتن پادشاهیِ ایران به دست اسکندر) خون می‌گریستند و غمگین بودند."
     },
     {
       "VOrder": 48,
@@ -745,7 +769,8 @@
       "Text": "بران چتر دیبا درم ریختند",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "بر روی آن کجاوه‌ی ابریشمی سکه می‌ریختند و از بالا مشکِ خالص می‌پاشیدند."
     },
     {
       "VOrder": 50,
@@ -761,7 +786,8 @@
       "Text": "چو ماه اندر آمد به مشکوی شاه",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هنگامی که روشنک (همچون ماه) به قصر اسکندر وارد شد، اسکندر مدتی به او خیره ماند."
     },
     {
       "VOrder": 52,
@@ -777,7 +803,8 @@
       "Text": "بران برز و بالا و آن خوب چهر",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "به آن قد و قامتِ بلند و چهره‌ی زیبا نگاه می‌کرد؛ گویی عقل و خرد او را با عشق و محبت پرورش داده بود."
     },
     {
       "VOrder": 54,
@@ -793,7 +820,8 @@
       "Text": "چو مادرش بر تخت زرین نشاند",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "وقتی مادرِ اسکندر، روشنک را بر تخت طلایی نشاند، اسکندر از فرط عشق جانش را فدای او می‌کرد."
     },
     {
       "VOrder": 56,
@@ -809,7 +837,8 @@
       "Text": "نشستند یک هفته با او به هم",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "یک هفته در کنار هم نشستند (و جشن گرفتند) و پادشاه درباره‌ی تمام مسائل با او مشورت می‌کرد."
     },
     {
       "VOrder": 58,
@@ -825,7 +854,8 @@
       "Text": "نبد جز بزرگی و آهستگی",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "در رفتارِ روشنک چیزی جز وقار، متانت، خردمندی، حیا و شایستگی دیده نمی‌شد."
     },
     {
       "VOrder": 60,
@@ -841,7 +871,8 @@
       "Text": "ببردند ز ایران فراوان نثار",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هدایای بسیاری از جمله دینار و جواهرات شاهانه از طرف ایران (برای اسکندر) بردند."
     },
     {
       "VOrder": 62,
@@ -857,7 +888,8 @@
       "Text": "همه شهر ایران و توران و چین",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "تمام مردم در ایران، توران و چین، بر پادشاهیِ او درود فرستادند."
     },
     {
       "VOrder": 64,
@@ -873,7 +905,8 @@
       "Text": "همه روی گیتی پر از داد شد",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "سرتاسرِ جهان پر از عدل و داد شد و هرکجا ویرانی بود، دوباره آباد گشت."
     },
     {
       "VOrder": 66,

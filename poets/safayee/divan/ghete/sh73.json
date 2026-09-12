@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "سیدهاشم ای ادیب حکیم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سیدهاشم، تو شخصیتی فرزانه و دانا هستی و کمالاتت از هر عیبی پاک و خالص است."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "نورافزای دیده ی توحید",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روشنی بخش دیدهٔ توحید تو، مانند آتش زدن دودهٔ طغیان است."
     },
     {
       "VOrder": 4,
@@ -54,7 +56,8 @@
       "Position": "Right",
       "Text": "آسمان کمال را محور",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آسمان کمال به عنوان مرکز و محور اصلی خاندان جلال و عظمت است."
     },
     {
       "VOrder": 6,
@@ -68,7 +71,8 @@
       "Position": "Right",
       "Text": "حکمای لبیب دانشمند",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حکمای دانا و فرزانه همه در مدرسه تو مثل کسانی هستند که الفبا می‌خوانند."
     },
     {
       "VOrder": 8,
@@ -82,7 +86,8 @@
       "Position": "Right",
       "Text": "دعوی خصم پیش علم تو چیست",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دعوی و ادعای دشمن در برابر علم و آگاهی تو چه ارزشی دارد، چون شیطان از زمان آدم جلوتر رفته و فریب داده است."
     },
     {
       "VOrder": 10,
@@ -96,7 +101,8 @@
       "Position": "Right",
       "Text": "از حضورت ظهور حق ظاهر",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از وجود تو حقیقت نمایان می‌شود و معانی روشن، جایگاه بیان و گفتار مشخص می‌گردد."
     },
     {
       "VOrder": 12,
@@ -110,7 +116,8 @@
       "Position": "Right",
       "Text": "بر تو صادق خصایص بوذر",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خصوصیات نیک بوذر در تو وجود دارد و مکارم اخلاقی سلمان در تو نمایان است."
     },
     {
       "VOrder": 14,
@@ -124,7 +131,8 @@
       "Position": "Right",
       "Text": "همه فعلت نصایح حزقیل",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تمام کارهایت پر از نصیحت‌های حزقیل است و هر گفتارت مانند موعظه‌های لقمان است."
     },
     {
       "VOrder": 16,
@@ -138,7 +146,8 @@
       "Position": "Right",
       "Text": "ای رسومت مرتب از سنت",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای روش تو بر اساس سنت استوار است و علم تو از قرآن مشخص و روشن است."
     },
     {
       "VOrder": 18,
@@ -152,7 +161,8 @@
       "Position": "Right",
       "Text": "ای صراط قویم را رهبر",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای راهنمای من در مسیر درست، ای کسی که نقاط دقیق و ظریف را روشن می‌کنی."
     },
     {
       "VOrder": 20,
@@ -166,7 +176,8 @@
       "Position": "Right",
       "Text": "روی گردان ز رای و شبهه و شک",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از نظر به دوری کن و از تردید و شبهه دوری بجوی، چرا که فکر روشن و درخشان از ظن و خیال و گمان نشأت نمی‌گیرد."
     },
     {
       "VOrder": 22,
@@ -180,7 +191,8 @@
       "Position": "Right",
       "Text": "جز توکشنید ای عدیم المثل",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به جز تو که همچون هیچ کس دیگری نیستی، از روح و جان بر هر کسی که در ظاهر و باطن معروف است، برتر هستی."
     },
     {
       "VOrder": 24,
@@ -194,7 +206,8 @@
       "Position": "Right",
       "Text": "اختری صدفلک فرشته درو",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا به ستاره‌ای اشاره شده که مانند فرشته‌ای در آسمان می‌درخشد و درون آن هزاران انسان قرار دارند. این تصویر به زیبایی و عظمت ستاره‌ها و وجود انسان‌ها در کائنات پرداخته است."
     },
     {
       "VOrder": 26,
@@ -208,7 +221,8 @@
       "Position": "Right",
       "Text": "چون در آرم معانی تو به لفظ",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرگاه بخواهم معنی تو را با کلمات بیان کنم، زبانم از توصیف زیبایی تو ناتوان می‌شود."
     },
     {
       "VOrder": 28,
@@ -222,7 +236,8 @@
       "Position": "Right",
       "Text": "ذره جز خود چه لافد از خورشید",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ موجود کوچک و ناچیزی نمی‌تواند درباره عظمت خورشید صحبت کند، مانند این که یک قطره آب نمی‌تواند از دریا چیزی بگوید."
     },
     {
       "VOrder": 30,
@@ -236,7 +251,8 @@
       "Position": "Right",
       "Text": "ای دریغا که در ثنای توام",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کاش که من بتوانم در وصف و ستایش تو به مدت طولانی صحبت کنم، اما کلمات و زمان را نمی‌توانم به خوبی به کار ببرم."
     },
     {
       "VOrder": 32,
@@ -250,7 +266,8 @@
       "Position": "Right",
       "Text": "دادمی ورنه داد مدحت تو",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو را نمی‌دهم، پس ستایش تو از سخنوری انوری به مراتب برتر از سلمان خواهد بود."
     },
     {
       "VOrder": 34,
@@ -264,7 +281,8 @@
       "Position": "Right",
       "Text": "الغرض خواستت چو صانع ملک",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در نهایت، خواسته‌ات این است که مانند یک هنرمند، بنایی از آب و گل بسازی."
     },
     {
       "VOrder": 36,
@@ -278,7 +296,8 @@
       "Position": "Right",
       "Text": "آمد استاد پیرک ابراهیم",
       "CoupletIndex": 18,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: استاد پیر ابراهیم به همراه دانشی کهن و تجربیاتی از سن و سالش، به سراغ کسی جوان و پرامید می‌رود که دارای بخت و آینده‌ای روشن است."
     },
     {
       "VOrder": 38,
@@ -292,7 +311,8 @@
       "Position": "Right",
       "Text": "اوستاد صنیع نادره صنع",
       "CoupletIndex": 19,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: استاد هنر شگفت‌انگیز، کار بزرگ و بی‌نظیرش را با دقت و دانش بالا مشاهده کرد."
     },
     {
       "VOrder": 40,
@@ -306,7 +326,8 @@
       "Position": "Right",
       "Text": "طرفه طرحی شگرف ریخت رفیع",
       "CoupletIndex": 20,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: درخشان و شگفت‌انگیز، طرحی توسط دوستی عالی‌مرتبه ایجاد شد که هیچ‌کس نمی‌تواند آن را به ساختن یک بنا تبدیل کند."
     },
     {
       "VOrder": 42,
@@ -320,7 +341,8 @@
       "Position": "Right",
       "Text": "دلگشا مأمنی به از مینو",
       "CoupletIndex": 21,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دلگشا جایی بهتر از بهشت است، هیچ‌کس در این دنیا چیزی مانند آن را ندیده است."
     },
     {
       "VOrder": 44,
@@ -334,7 +356,8 @@
       "Position": "Right",
       "Text": "رونق صنع سنماری",
       "CoupletIndex": 22,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زیبایی و شکوه هنری که از دست من ساخته شده، به لطف زمان و با پاکی خاصی نمایان شده است."
     },
     {
       "VOrder": 46,
@@ -348,7 +371,8 @@
       "Position": "Right",
       "Text": "میخ خجلت سپوخت بر بهرام",
       "CoupletIndex": 23,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بهرام به خاطر رفتار ناپسندش به شدت شرمنده و خجالت‌زده است و این خجالت به نوعی بر نعمان نیز تاثیر گذاشته و ننگ و عواقب بدی را بر او تحمیل کرده است."
     },
     {
       "VOrder": 48,
@@ -362,7 +386,8 @@
       "Position": "Right",
       "Text": "کاست شوکت به رتبت از مریخ",
       "CoupletIndex": 24,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شکوه و مقام مریخ از کیوان بیشتر است و در عین حال، مرتبه و جایگاه کیوان هم از نظر بلندی بالاتر است."
     },
     {
       "VOrder": 50,
@@ -376,7 +401,8 @@
       "Position": "Right",
       "Text": "شست رنگ از نگارخانه ی چین",
       "CoupletIndex": 25,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: رنگ و زیبایی از تصویر زیبای چین محو شده و احساس حسرت بر دل فرمانروای آن سرزمین نشسته است."
     },
     {
       "VOrder": 52,
@@ -390,7 +416,8 @@
       "Position": "Right",
       "Text": "راست خواهی بدین بنای بدیع",
       "CoupletIndex": 26,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر حقیقت را بخواهی، این بنای زیبای امروز، نمایانگر و نشانه‌ی این جهان است."
     },
     {
       "VOrder": 54,
@@ -404,7 +431,8 @@
       "Position": "Right",
       "Text": "کیست دار الاماره ی تبریز",
       "CoupletIndex": 27,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که در تبریز مقام و موقعیتی دارد، چه کسی است و در تهران، برجی که نورانی و مشهور است، چه نام دارد؟"
     },
     {
       "VOrder": 56,
@@ -418,7 +446,8 @@
       "Position": "Right",
       "Text": "برد از یاد ساکنین زمین",
       "CoupletIndex": 28,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یاد ساکنین زمین از زیبایی‌های بغداد و نام اصفهان رفته است."
     },
     {
       "VOrder": 58,
@@ -432,7 +461,8 @@
       "Position": "Right",
       "Text": "به تماشا سزد که حورالعین",
       "CoupletIndex": 29,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نگاه کردن به زیبایی‌های حورالعین در کنار دیگر زنان، زیبا و شایسته است."
     },
     {
       "VOrder": 60,
@@ -446,7 +476,8 @@
       "Position": "Right",
       "Text": "در بهشت برین نیارامد",
       "CoupletIndex": 30,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در بهشت بالاتر از این، با این نوع زندگی و مسکن، دیگر جوانان خوش‌چهره‌ای نیامدند."
     },
     {
       "VOrder": 62,
@@ -460,7 +491,8 @@
       "Position": "Right",
       "Text": "پی تعظیم خاک ایوانش",
       "CoupletIndex": 31,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر احترام و ارادت به خاک زیر پایش، تمام قد خم شده‌ام و حتی هفت ایوان بر سرم سنگینی می‌کند."
     },
     {
       "VOrder": 64,
@@ -474,7 +506,8 @@
       "Position": "Right",
       "Text": "فرق دولت به عرش ساید اگر",
       "CoupletIndex": 32,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر روزی قدرت و مقام به بلندای آسمان برسد، این امکان وجود دارد که سرنوشت به یکباره تغییر کند و آنچه را که در دستان تقدیر است، به چالش بکشد."
     },
     {
       "VOrder": 66,
@@ -488,7 +521,8 @@
       "Position": "Right",
       "Text": "با کمال ستایش این خانه",
       "CoupletIndex": 33,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با تمام احترام و ارادت، این خانه تو در اوج زیبایی و درخشش است، مانند ماهی که در برج سرطان در آسمان می‌تابد."
     },
     {
       "VOrder": 68,
@@ -502,7 +536,8 @@
       "Position": "Right",
       "Text": "یا چو بوذر به بنگه ربذه",
       "CoupletIndex": 34,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یا مثل بوذر که در سرزمین ربذه به سر می‌برد، یا مثل سلمان که در بند و اسارت اطرافیانش قرار دارد."
     },
     {
       "VOrder": 70,
@@ -516,7 +551,8 @@
       "Position": "Right",
       "Text": "دانمت قدر و جاه از اینها بیش",
       "CoupletIndex": 35,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من می‌دانم که تو از این چیزها بیشتر از ارزش و مقام داری، پس چرا به دنبال جوی و دریای بی‌پایان هستی؟"
     },
     {
       "VOrder": 72,
@@ -530,7 +566,8 @@
       "Position": "Right",
       "Text": "یونس آسا به کام حوت مقیم",
       "CoupletIndex": 36,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یونس مانند کسی است که در شکم ماهی زندگی می‌کند و یوسف مانند کسی است که در زندان به سر می‌برد."
     },
     {
       "VOrder": 74,
@@ -544,7 +581,8 @@
       "Position": "Right",
       "Text": "همچو احمد به مأمن بوجهل",
       "CoupletIndex": 37,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مانند احمد که در پناه بوجهل قرار دارد، مانند مصحفی که در دامن عثمان است."
     },
     {
       "VOrder": 76,
@@ -558,7 +596,8 @@
       "Position": "Right",
       "Text": "برتو باری مبارک این مکمن",
       "CoupletIndex": 38,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای تو که در جایگاه مبارکی قرار داری، هرگز از مکان خود دور نخواهی شد."
     },
     {
       "VOrder": 78,
@@ -572,7 +611,8 @@
       "Position": "Right",
       "Text": "تن و جان بادت از فسون ایمن",
       "CoupletIndex": 39,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بدن و روحت از جادوی هوس در امان است تا زمانی که در آرامش و آسایش به خواب بروی."
     },
     {
       "VOrder": 80,
@@ -586,7 +626,8 @@
       "Position": "Right",
       "Text": "دل و دستت چو بحر و کان کافی",
       "CoupletIndex": 40,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دل و دستانت مانند دریا باشد، آن‌گاه دریا به‌اندازه‌ای بزرگ و کافی است که می‌تواند با کان (معدن) هم‌معنی باشد."
     },
     {
       "VOrder": 82,
@@ -600,7 +641,8 @@
       "Position": "Right",
       "Text": "عمر و عشرت تو را بود همدوش",
       "CoupletIndex": 41,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عمر و شادی تو به اندازه‌ی مقام و پاکی تو ارزشمند است."
     },
     {
       "VOrder": 84,
@@ -614,7 +656,8 @@
       "Position": "Right",
       "Text": "دوستت سال و ماه در شادی",
       "CoupletIndex": 42,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوستت هر روز و هر ماه در خوشی و خوشحالی باشد، اما دشمن تو هر چه مدت که می‌گذرد، در غم و ناراحتی به سر ببرد."
     },
     {
       "VOrder": 86,
@@ -628,7 +671,8 @@
       "Position": "Right",
       "Text": "پوست بل مغز جو که در معنی",
       "CoupletIndex": 43,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این نکته اشاره دارد که ظاهری که از پوست و جو (گندم) دیده می‌شود، هیچ ارتباطی با وجود واقعی و معنوی یا روح ندارد. به عبارت دیگر، آنچه که در ظاهر دیده می‌شود، تنها یک پوسته است و حقیقت عمیق‌تری در درون وجود دارد که مهم‌تر از ظواهر به شمار می‌آید."
     },
     {
       "VOrder": 88,
@@ -642,7 +686,8 @@
       "Position": "Right",
       "Text": "سال انجام این سرای سره",
       "CoupletIndex": 44,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سالِ ساخت و ایجاد این خانه‌ی بزرگ و باشکوه، به‌طور مشخص و با نام و نشانی ویژه بر جای خواهد ماند."
     },
     {
       "VOrder": 90,
@@ -656,7 +701,8 @@
       "Position": "Right",
       "Text": "خواستیم از صفائیش تاریخ",
       "CoupletIndex": 45,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما خواستیم از پاکی او، تاریخی پیدا کنیم که در آن زیبایی و کمال بیان شده باشد."
     },
     {
       "VOrder": 92,
@@ -670,7 +716,8 @@
       "Position": "Right",
       "Text": "گفت پای زوال از ان کوته",
       "CoupletIndex": 46,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفت که از افت و زوال گرفته شده، این بنیاد را باید از آب و سر زندگی دور نگه داشت."
     },
     {
       "VOrder": 94,
@@ -684,7 +731,8 @@
       "Position": "Right",
       "Text": "۱۳۱۰ق",
       "CoupletIndex": 47,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این دنیا، هر گامی که برمی‌داریم و هر تغییری که در زندگی‌مان به وجود می‌آید، ما را به سمت شناخت بهتر خود و دیگران سوق می‌دهد. این تغییرات ممکن است در ابتدا دشوار به نظر برسند، اما در نهایت منجر به رشد و پیشرفت می‌شوند."
     }
   ]
 }

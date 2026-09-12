@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "وداع یار گرامی نمی توانم کرد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من نمی‌توانم وداع کنم با یار عزیزم، زیرا احتمال سفر او مرا بسیار ناتوان و ناراحت کرده است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "زدوستان شفیقم که می رسد فریاد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به دوستانم می‌گویم که از درد دل به ستوه آمده‌ام و دوباره داستان تلخی در زندگی‌ام پیش آمده است."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "ز کارنامه افعال دل یکی این است",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من از کارنامه‌اش تنها به یک دلیل به یاد می‌آورد که صد بار برای جانم خطر ایجاد کرده است."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "نه سهو می کنم از دست دل نه می نالم",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من نه از روی خطا از دل خود غافل می‌شوم و نه از درد و رنجی که دارم شکایت می‌کنم، چرا که عشق و بلاهای ناشی از آن، مرا به محبت دوستی‌ام وابسته کرده است."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "کنار من چو صدف پر شده ست تا به میان",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کنار من، مثل صدفی پر از گوهر شده است، به خاطر اینکه چشمانم را از شدت اشک زلال پر کرده‌ام."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "مجال صبر ندارم ز روی خویش و عقل",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من دیگر نمی‌توانم صبر کنم و تحملم تمام شده است، و عقل هزار بار مرا در این آزمون مورد آزمایش قرار داده است."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "مگر مربی فطرت چو پرورش می داد",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا ممکن است که مربی سرشت من به جای اینکه احساس محبت را در ذهنم بگنجاند، آن را در وجودم بافته باشد؟"
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "خرد شبی به تفرج در آمد از در ما",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روزی، خرد به تفریح و گشت و گذار از خانه‌ی ما بیرون رفت و لحظه‌ای از دور به تماشای دل من پرداخت."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "چو بازدید مرا گفت حق به جانب تست",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی مرا دید، گفت حق با توست، برو که نمی‌توانم تو را سرزنش کنم."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "رقیب دوست چو دشمن به کار ما برخاست",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: رقیب دوست به ما آسیب زد و اجازه نداد آرام بگیرم، بلکه من را به زحمت انداخت."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "ز شهر گفت نزاری چنان روان کنمت",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نزار می‌گوید: من تو را به گونه‌ای می‌برم که دیگران به تو اعتماد کنند و او نیز به همین شکل مرا برد."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "چو باد می روم اکنون اگر چه یک چندی",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همچون باد در حال حرکت هستم، حتی اگر مدتی طولانی در این دنیا به عنوان کسی که در خاک است زندگی کرده باشم."
     },
     {
       "VOrder": 24,

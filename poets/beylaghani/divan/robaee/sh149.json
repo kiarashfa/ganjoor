@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای غم! تو فراق من گزینی گویی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای غم! به نظر می‌رسد تو همواره در انتخاب جدایی از من هستی، و ای جدایی! انگار تو مثل یک بازیکن در حال چیدن مهره‌ها هستی."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "ای روز شب وصال بینی گویی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای روزی که تو را در کنار محبوب می‌بینم، انگار شب تو در روز من نشسته است."
     },
     {
       "VOrder": 4,

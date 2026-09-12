@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گر در همه شهر یک سر نیشترست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در تمام شهر یک نفر هم چاقو به دست داشته باشد، هیچ کس به پای کسی که فقیرتر و ناتوان‌تر است نمی‌رود."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "با این همه راستی که میزان دارد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با وجود این همه درستی و موازنه‌ای که وجود دارد، گرایش کسی به سمتی است که در آن بیشتر است."
     },
     {
       "VOrder": 4,

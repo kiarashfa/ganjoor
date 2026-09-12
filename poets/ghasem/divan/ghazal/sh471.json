@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "غیر از تو کس دگر نداریم",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما جز تو کسی دیگری نداریم و بدون تو هیچ نفس و زندگی‌ای برای ما نیست."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "ماییم و دلی بهر دو عالم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما فقط دل و وجود خود را برای تو داریم و هیچ مکانی جز کوی تو برای زندگی و آرامش نمی‌شناسیم."
     },
     {
       "VOrder": 4,
@@ -55,7 +57,8 @@
       "Position": "Right",
       "Text": "گویند که: عشق عار و عیبست",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌گویند عشق چیز ناپسند و عیبی است، اما ما جز این هنر و احساس، چیز دیگری نداریم."
     },
     {
       "VOrder": 6,
@@ -69,7 +72,8 @@
       "Position": "Right",
       "Text": "با عقل معاد آشناییم",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما با مفاهیم معنوی و آخرت آشنا هستیم، اما در زندگی روزمره و امور دنیوی شاید به اندازه کافی درک نکنیم."
     },
     {
       "VOrder": 8,
@@ -83,7 +87,8 @@
       "Position": "Right",
       "Text": "ما عاشق جلوهای یاریم",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما به زیبایی‌های محبوب‌مان عشق می‌ورزیم و قسم می‌خوریم که برای لذت بردن از این عشق، نیازی به مادیات نداریم."
     },
     {
       "VOrder": 10,
@@ -97,7 +102,8 @@
       "Position": "Right",
       "Text": "مالامالست جام توحید",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل ما از محبت و یک‌دلی پر شده و دیگر جایی برای چیزهای بی‌اهمیت و کم‌تر از این نداریم."
     },
     {
       "VOrder": 12,
@@ -111,7 +117,8 @@
       "Position": "Right",
       "Text": "قاسم ز غم تو بی خبر شد",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: قاسم شاید از درد و غم تو بی‌خبر شده باشد، زیرا خودمان هم از حال و وضعیت خودمان آگاه نیستیم."
     },
     {
       "VOrder": 14,

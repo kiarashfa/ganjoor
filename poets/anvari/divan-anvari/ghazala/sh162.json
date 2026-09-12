@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "سلام علیک ای جفا پیشه یار",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سلام بر تو ای یار بی وفا، کجایی و حال و روزت چگونه است؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "اگر بخت با من مخالف شدست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دستمگاه من در زندگی خوب نیست، تو هم به آن نپیوست و با بدبختی همراه نشو."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "چه گویم مرا با غم تو خوشست",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من چه می‌توانم بگویم، که غم تو برایم لذت‌بخش است؛ زیرا غیر از این غم، هیچ یادگاری از تو ندارم."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "خطایی که کردم به من برمگیر",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از من نگذرید و اشتباهاتی که مرتکب شدم را ببخشید، لطفا به بدی‌هایم توجه نکنید."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "جواب سلام رهی باز ده",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به سلام من پاسخ بده، ای یار که به من بی‌مهری می‌کنی."
     },
     {
       "VOrder": 10,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "هرچه آید در نظر چون او بود",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که در نظر ما می‌آید، اگر شبیه او باشد، در چشم ما زیبا به نظر می‌رسد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "موج و دریا نزد ما باشد یکی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: موج و دریا در واقعیت نزد ما یکسان هستند، هرچند که نام و خصوصیات آن‌ها متفاوت است."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "گفتم این رشته مگر باشد دو تو",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفتم شاید این پیوند بین ما به خاطر تو باشد، اما وقتی نگاه کردم، دیدم همه چیز فقط به تو مربوط است."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "جز وجود او نمی یابم دگر",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جز او هیچ موجودی را نمی‌بینم و با وجود او، وجود دیگری معنا ندارد."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "بوی دستنبوش می آید ز دست",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که دستش در دست دستمال باشد، بوی آن را از دستانش می‌توان حس کرد."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "وجه او در وجه هر یک رو نمود",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خود او در چهره هر شخصی ظاهر می‌شود و هرکس با دیگری به گونه‌ای مشابه است."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "زلف سید را نمی آری به دست",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زلف سید را به دست نمی‌گیری، چون حجاب تو به باریکی یک موست."
     },
     {
       "VOrder": 14,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "هرچه با من کنی روا باشد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کاری که با من انجام دهی، برایت مجاز است؛ اما برای من، آزار تو چه معنایی دارد؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "چون تو در عیش و خرمی باشی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که تو در شادی و خوشی باشی، حتی اگر راهی وجود نداشته باشد، باز هم همه چیز درست خواهد بود."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "چند گویی که از بلا بگریز",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا مدام می‌گویی که از مشکلات فرار کنی؟ چون در مسیر عشق، دردها و سختی‌ها جزئی از راه هستند."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "از بلای تو چون توان بگریخت",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چطور می‌توانم از مشکل تو فرار کنم، در حالی که دلم به تو وابسته و گرفتار است؟"
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "با بلا و غم تو عرض کنم",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من اگرچه درگیر مشکلات و سختی‌ها هستم، اما اگر تمام جهان هم در اختیارم باشد، باز هم برای تو و غمت عرض ارادت می‌کنم."
     },
     {
       "VOrder": 10,

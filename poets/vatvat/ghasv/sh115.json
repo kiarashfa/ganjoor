@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "هست ایام شمس دین نوروز",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روز نوروز، که به عنوان روز شادابی و سرسبزی شناخته می‌شود، زمان خوشی و خوشحالی است و دل‌ها را با شادابی پر کرده است."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "روز حاسد ز کین او چون شب",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در روزی که حسد او را به کین و دشمنی می‌کشد، شب به مانند یک نصیحتگر با مهر و محبتش می‌تابد."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "چرخ بیدادگر ز هیبت او",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرخ ناپسند از عظمت او، جامه‌ای به رنگ کبود بر تن کرده و قامتش کوتاه شده است."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "سروری با طبیعتش مقرون ",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به زیبایی و والایی طبیعت فرد اشاره دارد، به طوری که ویژگی‌های نیکو و برجسته‌اش به او قدرت و جایگاهی ویژه می‌بخشد. با نگاهی به شخصیت او، می‌توان فهمید که بروز این ویژگی‌ها به شکل طبیعی و درونی است."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "پشت و روی مخالفان گشته ",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مخالفان دچار وضعیت سخت و ناگوار شده‌اند، به‌گونه‌ای که چهره‌هایشان مانند کمان خمیده و رنگی زرد و ناامید به خود گرفته است."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "ای بقدر آسمان مهر آرای",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو به اندازه‌ی آسمان زیبایی و مهرت همانند آفتاب، روشنی و گرما می‌بخشد."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "از نسیم شمایل تو شده ",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نسیم لطف و زیبایی تو بهار را به یاد می‌آورد و مانند گرمای فصل تابستان، دل‌انگیز است."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "نیست با علم تو بعالم در",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: علم تو در برابر اسرار پنهان و نکات رازآلود جهان، بی‌اثر و ناتوان است."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "یافتی هر چه خواستی از بخت ",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چه که می‌خواستی از سرنوشت به دست آوردی، حالا صبر کن، چون این فقط یک نمونه است هنوز."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "سرورا، در مصاف باره بتاز",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای سرور، در میدان نبرد با شجاعت و قدرت به دشمنان حمله کن و به آن‌هایی که بداندیش و کینه‌توز هستند، حمله ببر."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "سینهٔ دشمنان بنیزه بدر",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل دشمنان را با تیر کینه هدف قرار بده و حسادت‌ها را نادیده بگیر."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "گاه کار ولی چو عدو بساز",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر گاه کارها به شکلی پیش می‌رود که باید با دشمن سازش کرد، گاهی هم باید مانند دشمن، به دشمن آسیب رساند."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "تا بسعی بهار هر سالی",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که بهار هر سال فرا می‌رسد، جهان کهن و پیر به شکلی تازه و نو عروسی می‌کند."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "باد بختت همیشه راه نمای",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بخت و اقبال تو همیشه یاری‌گر تو باشد و مسیر زندگیت همیشه پر از نیکی و آموزه‌های خوب باشد."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "زیر سنگ صواعق گیتی ",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زیر فشار سرنوشتی سخت و دشوار، دشمن تو را به شدت مجازات خواهند کرد و آنچنان ضربه‌ای به او خواهد خورد که مانند رعد و برق خواهد بود."
     },
     {
       "VOrder": 30,

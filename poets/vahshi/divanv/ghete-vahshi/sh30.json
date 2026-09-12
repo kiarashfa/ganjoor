@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "به ما خواجه تا چند خواهید گفت",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شما تا چه زمانی می‌خواهید به ما بگویید که debt شما را پرداخت می‌کنم؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "ادای دگر گر چنین می‌کنید",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به همین روش ادامه دهید، من هم به اجازه شما به تمسخر شما می‌پردازم."
     },
     {
       "VOrder": 4,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گر کرده بدی تو آزمون دل من",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو با بدی‌هایت دل من را آزمایش کرده‌ای، باید بدان که بدون دل من هیچ چیزی نداری."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "گر آگاهی از اندرون دل من",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو به درون دل من آگاهی پیدا کنی و برای درک احساساتم تلاش کنی، ممکن است از رنج و اندوهی که در دل دارم مطلع شوی."
     },
     {
       "VOrder": 4,

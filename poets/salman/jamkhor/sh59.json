@@ -291,7 +291,8 @@
       "Text": "همی گردید مهراب از پی جم",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: مهراب به دنبال جم می‌چرخید، مانند جمی که انگشتری‌اش گم شده است."
     },
     {
       "VOrder": 2,
@@ -307,7 +308,8 @@
       "Text": "غلامان گرد کوه و دشت پویان",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: ببخشید، در کوه و دشت، خدمتگزاران به دنبال شاه به هر سو در حال گشت و گذار بودند."
     },
     {
       "VOrder": 4,
@@ -323,7 +325,8 @@
       "Text": "پس از یکماه دیدندش در آن کوه ",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: پس از یک ماه، او را در آن کوه دیدند که مانند ماه نو، باریک و نازک شده بود و نشانه‌ای از اندوه در چهره‌اش نمایان بود."
     },
     {
       "VOrder": 6,
@@ -339,7 +342,8 @@
       "Text": "ز حسرت چشمهایش رفته در غار",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: چشمان او باعث شده‌اند که من در دل غم و اندوهی عمیق فرو بروم و اشک‌هایم همچون باران از چشمانم بریزد."
     },
     {
       "VOrder": 8,
@@ -355,7 +359,8 @@
       "Text": "چو آن سرو سهی را دید مهراب",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: وقتی مهراب آن سرو بلند را دید، مانند آبی شد که زیر پای او افتاده است."
     },
     {
       "VOrder": 10,
@@ -371,7 +376,8 @@
       "Text": "چو اشک آمد رخ و چشمش بپوشید",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: وقتی اشک بر صورتش جاری شد، چشمانش را به خاطر درد دلش پوشاند و به همین دلیل بارها بر زمین افتاد و غلتید."
     },
     {
       "VOrder": 12,
@@ -387,7 +393,8 @@
       "Text": "در آتش نیک پای آورد در چنگ",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: کسی که در سختی‌ها و چالش‌ها صبر و استقامت داشته باشد، در نهایت به کامیابی و موفقیت می‌رسد و از سختی‌ها به ارزش‌های بزرگ دست می‌یابد."
     },
     {
       "VOrder": 14,
@@ -403,7 +410,8 @@
       "Text": "چو لعل از تاج شاهی اوفتاده",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: مانند جواهری قیمتی که از تاج یک پادشاه بر روی سنگی سخت افتاده است، دل من نیز در آنجا قرار گرفته است."
     },
     {
       "VOrder": 16,
@@ -419,7 +427,8 @@
       "Text": "ز بار دل صنوبر خم گرفته",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: به خاطر دل سنگین و غمگین، درخت صنوبر به حالت خمیده درآمده و گل صورتی نیز به علت اندوه و ناراحتی پژمرده شده است."
     },
     {
       "VOrder": 18,
@@ -435,7 +444,8 @@
       "Text": "ز فرش اطلس تن مانده تنها",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: از فرش زیبا و نرم بدن، تنها مانده است و این فرش را به سنگ سخت تبدیل کرده است."
     },
     {
       "VOrder": 20,
@@ -451,7 +461,8 @@
       "Text": "به زاری گفت ای شمع شب افروز",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: شمعی با ناله و گریه گفت: نمی‌دانم چه بلایی به سر تو آمده که به این حال افتاده‌ای."
     },
     {
       "VOrder": 22,
@@ -467,7 +478,8 @@
       "Text": "الا ای نافه مشکین دلبند",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: ای محبوبی که عطر مشکین تو در این بیابان پیچیده است، کدام آهو به خاطر تو در اینجا افتاده و به تو عشق ورزیده است؟"
     },
     {
       "VOrder": 24,
@@ -483,7 +495,8 @@
       "Text": "به چین اول ترا ای مشک اذفر",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: ای مشک خوشبو، تو در چین به دنیا آمده‌ای، و مادر تو با عشق و درد دل به تو رسیدگی کرده است."
     },
     {
       "VOrder": 26,
@@ -499,7 +512,8 @@
       "Text": "هوا زد بر دماغت بوی سودا",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: بوی عشق و احساسات درونت به گونه‌ای برتاثیر گذاشته که مانند نسیمی در فضای باز به حس و حال تو افزوده است."
     },
     {
       "VOrder": 28,
@@ -515,7 +529,8 @@
       "Text": "به بوی دوست از مادر بریدی",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: به خاطر محبت و جذبه دوست، از مادرت جدا شدی و وطن را ترک کردی و به غربت رفتی."
     },
     {
       "VOrder": 30,
@@ -531,7 +546,8 @@
       "Text": "گهی در بحر گردی یا نهنگان",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: گاهی در دریا با نهنگ‌ها زندگی می‌کنی و زمانی دیگر در کوه با پلنگ‌ها."
     },
     {
       "VOrder": 32,
@@ -547,7 +563,8 @@
       "Text": "به شب نالنده چون مرغ شب آویز",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: در شب مانند پرنده‌ای نالان و در روز همچون بادی آشفته و دلسوز هستم."
     },
     {
       "VOrder": 34,
@@ -563,7 +580,8 @@
       "Text": "چو گل بر باد رفتی در جوانی",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: در جوانی مانند گلی که در باد پراکنده می‌شود، از بین رفتی، همان‌طور که در زندگی شیرینی را با تلخی تجربه کرده بودی."
     },
     {
       "VOrder": 36,
@@ -579,7 +597,8 @@
       "Text": "سفر کردی به سودای تجارت",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: به سفر رفتی با هدف تجارت و در این راه بسیاری از ضررها و مشکلات را تجربه کردی."
     },
     {
       "VOrder": 38,
@@ -595,7 +614,8 @@
       "Text": "ز سر بیرون کن این سودای فاسد",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: این خیال بیهوده و خراب را کنار بگذار، چرا که این فکر مثل یک بازار بی‌ثبات و کالاهای خراب است و ارزشی ندارد."
     },
     {
       "VOrder": 40,
@@ -611,7 +631,8 @@
       "Text": "مکن زاری که از زاری و شیون",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: برای غم و زاری کردن، چه فایده‌ای ندارد؟ جز اینکه فقط به خوشحالی دشمن می‌افزاید."
     },
     {
       "VOrder": 42,
@@ -627,7 +648,8 @@
       "Text": "ملک یک دم بر آن گفتار بگریست",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: پادشاه به یاد گفتاری که شنیده بود، لحظه‌ای گریه کرد و سپس در جدایی از یار خود نیز اشک ریخت."
     },
     {
       "VOrder": 44,
@@ -643,7 +665,8 @@
       "Text": "نگار خویش را در خورد خود دید",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: عاشق زیبایی خود را در آینه دید و به خاطر زیبایی‌اش، اشک شوق از چشمانش جاری شد."
     },
     {
       "VOrder": 46,
@@ -659,7 +682,8 @@
       "Text": "بدان امید کان زیبا نگارش",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: بدان که امیدی که به نوشته زیبا و دلنشین او دارم، مثل اشکی است که از چشمانم می‌ریزد وقتی در کنارش هستم."
     },
     {
       "VOrder": 48,
@@ -675,7 +699,8 @@
       "Text": "جوابش داد و گفت ای یار همدرد",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: او پاسخ داد و گفت: ای دوست، همدرد من، نیکو نیست که در برابر این آهن سرد، داغ و پرتنش باشی."
     },
     {
       "VOrder": 50,
@@ -691,7 +716,8 @@
       "Text": "دم گرمت مرا این آتش افروخت",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: نفسم در گرمای تو جان گرفت و این عشق همچون شعلۀ آتش دل مرا سوزانده است."
     },
     {
       "VOrder": 52,
@@ -707,7 +733,8 @@
       "Text": "مرا منع تو افزون می‌کند شوق",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: منع تو باعث می‌شود که شوق من بیشتر شود و این تلخی که در دل دارم، باعث لذت و ذوق بیشتری در من می‌شود."
     },
     {
       "VOrder": 54,
@@ -723,7 +750,8 @@
       "Text": "دل عاشق سلامت برنتابد",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: دل عاشق نمی‌تواند از مشکلات و ملامت‌ها رنج ببرد و به سادگی نمی‌گذارد که دلسرد و ناامید شود."
     },
     {
       "VOrder": 56,

@@ -25,20 +25,23 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "لقمان را گفتند: ادب از که آموختی؟",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: از لقمان پرسیدند: ادب را از چه کسی آموختی؟"
     },
     {
       "VOrder": 2,
       "Position": "Paragraph",
       "Text": "گفت: از بی ادبان؛ هر چه از ایشان در نظرم ناپسند آمد از فعلِ آن پرهیز کردم.",
-      "CoupletIndex": 1
+      "CoupletIndex": 1,
+      "CoupletSummary": "هوش مصنوعی: او گفت: از افراد بی‌ادب؛ هر چیزی که از آن‌ها دیدم که برایم ناخوشایند بود، از انجام آن پرهیز کردم."
     },
     {
       "VOrder": 3,
       "Position": "Right",
       "Text": "نگویند از سر بازیچه حرفی",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "انسانِ هوشمند از سخنی هم که به مسخره و لاغ گفته شود، اندرزی می‌آموزد."
     },
     {
       "VOrder": 4,
@@ -52,7 +55,8 @@
       "Position": "Right",
       "Text": "و گر صد بابِ حکمت پیشِ نادان",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "ولی اگر صد فصل از کتابِ فلسفه برِ نادان بر خوانی، همه را هزل پندارد."
     },
     {
       "VOrder": 6,

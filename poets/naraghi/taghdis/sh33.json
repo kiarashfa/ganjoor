@@ -181,7 +181,8 @@
       "Text": "آنچه خواهد بر تو فرزند و زنت",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "آنچه که زن و فرزندت برای تو می‌خواهند، دشمنت هم نمی‌پسندد."
     },
     {
       "VOrder": 2,
@@ -197,7 +198,8 @@
       "Text": "با رفیق خود یکی گفت ای پسر",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "یکی به دوستش می‌گفت: ای پسر، کاش کسی پدرم را بِکُشد."
     },
     {
       "VOrder": 4,
@@ -213,7 +215,8 @@
       "Text": "تا برم هم ارث و هم گیرم دیت",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "تا هم ارث ببرم و هم دیه بگیرم، که این سودش برای من از پدر بیشتر است."
     },
     {
       "VOrder": 6,
@@ -229,7 +232,8 @@
       "Text": "پاسخش داد آن دگر یک کی قرین",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "آن یکی هم پاسخ داد: ای دوست! من چنین چیزی برای پدرم نمی‌خواهم."
     },
     {
       "VOrder": 8,
@@ -245,7 +249,8 @@
       "Text": "بلکه می خواهم که چشمانش نخست",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "بلکه می‌خواهم که نخست چشمانش را درآورند و من درستی، یک دیه بگیرم."
     },
     {
       "VOrder": 10,
@@ -261,7 +266,8 @@
       "Text": "پس ببرندش دو گوش حق نیوش",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "سپس دو گوش حق نیوش او را بِبُرند و من از بهر آنها دیهٔ دیگری بگیرم."
     },
     {
       "VOrder": 12,
@@ -277,7 +283,8 @@
       "Text": "بینیش را پس ببرند و از آن",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "آنگاه بینی او را ببُرند و سپس لب‌هایش را و آنگاه زبان او را."
     },
     {
       "VOrder": 14,
@@ -293,7 +300,8 @@
       "Text": "پس جدا سازند دستانش ز تن",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "دستانش را از تن جدا کنند و سپس پاهایش را از بدنش جدا کنند."
     },
     {
       "VOrder": 16,
@@ -309,7 +317,8 @@
       "Text": "پس ذکر پس خصیتینش را برند",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "سپس آلت تناسلی و بیضه‌ها را ببُرند و آنگاه او را بکشند و جان مرا آزاد کنند."
     },
     {
       "VOrder": 18,
@@ -325,7 +334,8 @@
       "Text": "تا دیت گیرم برای هر کدام",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "تا برای هرکدام دیه بگیرم و دست آخر ارث او را کامل بستانم."
     },
     {
       "VOrder": 20,
@@ -341,7 +351,8 @@
       "Text": "بر تو ای فرزند بادا آفرین",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "\u00A0برتو آفرین باد ای فرزند! چنین فرزندی می‌توان پرورد!"
     },
     {
       "VOrder": 22,
@@ -357,7 +368,8 @@
       "Text": "می‌توان کردن تن و ایمان و جان",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "ای دوست مهربان!\u00A0می‌توان تن، ایمان و جان را فدای ایشان کرد."
     },
     {
       "VOrder": 24,
@@ -373,7 +385,8 @@
       "Text": "ای خدا پایی عطا کن تندرو",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "خداوندا پایی تند رو به من بده تا خود را از این وابستگی‌ رها کنم."
     },
     {
       "VOrder": 26,
@@ -389,7 +402,8 @@
       "Text": "هم برآرم گردن خود از کمند",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "گردن خود را نیز از کمند برهانم و بند از پای بیندازم."
     },
     {
       "VOrder": 28,
@@ -405,7 +419,8 @@
       "Text": "دوستی با این گروه است ای فلان",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "دوستی با این گروه، مانند دوستی پادشاه با زنگیان است."
     },
     {
       "VOrder": 30,

@@ -401,7 +401,8 @@
       "Text": "بنام آنکه جان را زونشان نیست",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: به نام کسی که روح را نمی‌توان با آن شناخت، و حتی عقل نیز نمی‌تواند به درک آن دست یابد."
     },
     {
       "VOrder": 2,
@@ -417,7 +418,8 @@
       "Text": "بگو تا عقل پیش او چه سنجد",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: بگو ببین عقل چگونه می‌تواند به درک چنین ذاتی بپردازد که فراتر از درک عقل است."
     },
     {
       "VOrder": 4,
@@ -433,7 +435,8 @@
       "Text": "ازان معنی که او عقل آفریده",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: به خاطر معنایی که او (خدا) عقل را خلق کرده، از یک موی (سمبل جزئیات کوچک) هم به درکش رسیده است."
     },
     {
       "VOrder": 6,
@@ -449,7 +452,8 @@
       "Text": "اگرچه عقل داناست و سخنگوی",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: عقل می‌تواند دانش گسترده‌ای داشته باشد و صحبت کند، اما در واقع قادر نیست مفهوم عمیق‌ترین جزئیات را درک کند."
     },
     {
       "VOrder": 8,
@@ -465,7 +469,8 @@
       "Text": "چو عقل جمله در مویست عاجز",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: چون عقل و خرد انسان در مسائل پیچیده و جزئیات کوچک ناتوان است، نمی‌تواند به حقیقت و راه درست دست یابد."
     },
     {
       "VOrder": 10,
@@ -481,7 +486,8 @@
       "Text": "چو ذاتش برترست از هرچه دانیم",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: چون وجود او از هرچه که می‌شناسیم بالاتر است، چگونه می‌توانیم او را توصیف کنیم؟"
     },
     {
       "VOrder": 12,
@@ -497,7 +503,8 @@
       "Text": "چو جمله عاجزیم از برگ کاهی",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: ما همه در برابر چیزهای کوچک و بی‌اهمیت ناتوان هستیم و فراتری از این ناتوانی برای ما راهی وجود ندارد."
     },
     {
       "VOrder": 14,
@@ -513,7 +520,8 @@
       "Text": "خدایی در خداوندی سزاوار",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در این بیت به عظمت و مقام ویژه حضرت عیسی اشاره شده است. شاعر می‌گوید که خداوند، عیسی را به عنوان پیام‌آور خود برگزیده و به او دانشی عمیق و اسراری خاص عطا کرده است. عیسی به نوعی نماد نور و روشنایی در حقیقت‌ها و معارف الهی به حساب می‌آید."
     },
     {
       "VOrder": 16,
@@ -529,7 +537,8 @@
       "Text": "وزان پس گفت کای شاپورگمراه",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: سپس گفت: ای شاپور گمراه، چرا از کینهٔ شاه خارج شده‌ای؟"
     },
     {
       "VOrder": 18,
@@ -545,7 +554,8 @@
       "Text": "سراز فرمان شاه دین کشیدی",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: با پیروی از دستورات پادشاه دین، مسیری را برای خود و دیگران مشخص کردی که تو را به راه درست هدایت کند."
     },
     {
       "VOrder": 20,
@@ -561,7 +571,8 @@
       "Text": "بدزدیدی زن شاه زمین را",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: زن شاه زمین را دزدیده‌ای، حالا تو که مردی، باید این موضوع را جدی بگیری و پای خودت را در این ماجرا محکم نگه‌داری."
     },
     {
       "VOrder": 22,
@@ -577,7 +588,8 @@
       "Text": "که کرد این فعل هرگز در زمانه",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: هرگز در طول تاریخ کسی را ندیدم که به بدی و زشتی این شخص باشد."
     },
     {
       "VOrder": 24,
@@ -593,7 +605,8 @@
       "Text": "تو میدانی که گر من کینه خواهم",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: اگر من بخواهم انتقام بگیرم، تو می‌دانی که نمی‌توانی در برابر نیروی من مقاومت کنی."
     },
     {
       "VOrder": 26,
@@ -609,7 +622,8 @@
       "Text": "اگر لشکر کشم بر کشور تو",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: اگر من به سرزمین تو حمله کنم، نه سرزمین برای تو خواهد ماند و نه نیروی تو."
     },
     {
       "VOrder": 28,
@@ -625,7 +639,8 @@
       "Text": "وگر یک نیزه آرد بر تو زوری",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی با نیرویی بسیار به تو حمله کند، همان‌طور که یک فیل اگر به زمین بیفتد، به اندازه یک مورچه آسیب خواهد دید."
     },
     {
       "VOrder": 30,
@@ -641,7 +656,8 @@
       "Text": "وگر یک مردم آرد روی بر تو",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: اگر انسانی به خاطر نامردی تو از تو روی برگرداند، موهای تو به خاطر این رفتار به جنجال می‌آید."
     },
     {
       "VOrder": 32,
@@ -657,7 +673,8 @@
       "Text": "چو نتوانی تو با ما حرب جویی",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: اگر تو نتوانی با ما به جنگ بیایی، چاره‌ای جز ناز و شیرین‌زبانی نداری."
     },
     {
       "VOrder": 34,
@@ -673,7 +690,8 @@
       "Text": "اگر با ما درشتی پیش گیری",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: اگر با ما رفتار بدی داشته باشی، در واقع به نفع دشمنان خود رفتار کرده‌ای."
     },
     {
       "VOrder": 36,
@@ -689,7 +707,8 @@
       "Text": "مکن، گل را کسی کن ورنه ناکام",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی به گل آسیب بزند، پایان کار او همچون گل خواهد بود که در خون غرق شده است و ناکام خواهد ماند. پس بهتر است این کار را نکنید."
     },
     {
       "VOrder": 38,
@@ -705,7 +724,8 @@
       "Text": "مکن، فرمان شاهان خوار مگذار",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: در برابر قدرت و ثروت شاهان، خود را کوچک نکن و از زیبایی و جذابیت خود غافل نشو. در مسیر زندگی خود، موانع و مشکلات را برطرف کن و اجازه نده که چیزی تو را به زحمت بیندازد."
     },
     {
       "VOrder": 40,
@@ -721,7 +741,8 @@
       "Text": "اگر فرمان کنی، جان سودبینی",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: اگر تو دستور بدهی، می‌توانی به خوبی نتیجه‌ای مثبت بگیری و اگر نه، به سرعت متوجه ضرر و زیان خواهی شد."
     },
     {
       "VOrder": 42,
@@ -737,7 +758,8 @@
       "Text": "غم و شادی و مرگ و زندگانی",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: من غم و شادی و مرگ و زندگی را بیان کرده‌ام و حالا باقی‌اش به تو رسیده است که خودت درک کنی."
     },
     {
       "VOrder": 44,
@@ -753,7 +775,8 @@
       "Text": "چو خطّ نامه نوک خامه بنگاشت",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: زمانی که نوک قلم نوشتۀ نامه را بر روی کاغذ گذاشت، پیک آمد و نامه را برداشت."
     },
     {
       "VOrder": 46,
@@ -769,7 +792,8 @@
       "Text": "قدم میزد چو بادی از ره دور",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: او مانند بادی از دور قدم می‌زد، تا اینکه به طور کلی نزدیک شاپور شد."
     },
     {
       "VOrder": 48,
@@ -785,7 +809,8 @@
       "Text": "بدادش نامه و شاپور برخواند",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: شاپور نامه‌ای را از پیک دریافت کرد و به خاطر خشم آن پیام‌رسان، حالتی ناگوار به او داد."
     },
     {
       "VOrder": 50,
@@ -801,7 +826,8 @@
       "Text": "نهاد آن پیک مسکین پای در راه",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: پس از مدتی، آن پیامبر بی‌نوا به درگاه رسید و در مسیرش قدم گذاشت."
     },
     {
       "VOrder": 52,
@@ -817,7 +843,8 @@
       "Text": "بر خسرو شد وآگاه کردش",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: او به خسرو خبر داد و او را از داستان زندگی آن شاه آگاه کرد."
     },
     {
       "VOrder": 54,
@@ -833,7 +860,8 @@
       "Text": "که آن نامه بدرّید و مرا راند",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: نامه‌ای که من از تو داشتم پاره شد و مرا از خود دور کردی. تو با کردار و رفتار زشت و بدخواهي‌ات، من را سرزنش کردی."
     },
     {
       "VOrder": 56,
@@ -849,7 +877,8 @@
       "Text": "چو شه بشنید ازو برجست ازجای",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: وقتی پادشاه از سخن او آگاه شد، سریعاً از جایش بلند شد و درنگ نکرد و برنگشت."
     },
     {
       "VOrder": 58,
@@ -865,7 +894,8 @@
       "Text": "سپاهی همچو دریا انجمن کرد",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: جمعیتی مانند دریا تشکیل داد و جهانی را در جهانی دیگر به جنبش درآورد."
     },
     {
       "VOrder": 60,
@@ -881,7 +911,8 @@
       "Text": "سپه را جوشن و تیغ و سپر داد",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: سپه به زره و شمشیر و سپر مجهز شد، و به او لباس و جواهرات قیمتی سه ساله نیز داده شد."
     },
     {
       "VOrder": 62,
@@ -897,7 +928,8 @@
       "Text": "چو مور و چون ملخ چندان سپه بود",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: همانند مور و ملخ، سپاهی بزرگ بودند که هیچ‌کس نمی‌توانست از آن عبور کند و راهی باقی نمانده بود."
     },
     {
       "VOrder": 64,
@@ -913,7 +945,8 @@
       "Text": "نبد چندان زمین از مرد خالی",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: زمین هیچ‌گاه از وجود مردان خالی نیست، زیرا تو به خاطر او به بالا نگاه می‌کنی و در حال و هوایش هستی."
     },
     {
       "VOrder": 66,
@@ -929,7 +962,8 @@
       "Text": "ز بسیاری که مرد از جای برخاست",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: بسیاری از مردم به خاطر ترس یا عواقب ناگوار، از جا نمی‌خیزند و حرکت نمی‌کنند."
     },
     {
       "VOrder": 68,
@@ -945,7 +979,8 @@
       "Text": "برامد نالهٔ نای از در شاه",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: صدای نای درباری از در کاخ بلند شد و غبار از پای ماه پاک می‌شد."
     },
     {
       "VOrder": 70,
@@ -961,7 +996,8 @@
       "Text": "روان گشتند لشکر تا خراسان",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: لشکر به سمت خراسان حرکت کردند و دل شاپور از این موضوع نگران و پریشان شد."
     },
     {
       "VOrder": 72,
@@ -977,7 +1013,8 @@
       "Text": "کجا دانست کان آفت ز پی داشت",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: نمی‌دانست که آن پرتو آفتاب چه اندوهی به دنبال دارد، و سودی از آن نمی‌برد."
     },
     {
       "VOrder": 74,

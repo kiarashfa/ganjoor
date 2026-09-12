@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "نه به چشم و دل تنها نگرانیم ترا",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما فقط به ظاهر و دل نگران تو نیستیم، بلکه به مانند یک دام، از همه وجودت نگرانیم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "تو به چندین نظر لطف نبینی در ما",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو از دیدگاه‌های مختلف به ما لطفی نمی‌کنی، اما ما به خاطر محبت تو در هر لحظه از صد جا نگران تو هستیم."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "نیست نظاره رخسار تو مخصوص به چشم",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نگاه کردن به چهره زیبای تو تنها به چشم‌هام محدود نیست، بلکه از سر تا پا در فکر و خیال تو هستم."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "پرده چشم سزاوار تماشای تو نیست",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم‌هایم شایسته دیدن تو نیستند، زیرا اضطراب ما از عمق دل‌هایمان به خاطر توست."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "دل همان می تپد از شوق تماشای رخت",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل به شدت از شوق دیدن تو می‌تپد، حتی اگر صد چشم بینا به تماشای تو خیره شوند."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "فارغیم از هوس سیر خیابان بهشت",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما بی‌خیال آرزوهای پر از رنگ و لعاب زندگی هستیم، چرا که تنها نگران زیبایی و دلربایی تو هستیم."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "نیست مانع در و دیوار نظربازان را",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ مانعی برای دیده‌بانان وجود ندارد؛ آنان همچون جرقه‌ای در دل سنگ سخت، نگران تو هستند."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "چه شود گر به نگاهی دل ما شاد کنی؟",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چه اشکالی دارد اگر با یک نگاه ما را خوشحال کنی؟ ما که نگران دنیای خود هستیم، تو را داریم."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "نیست در دیده حیرت زده مطلب را راه",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در چشم حیران و متعجبم، هیچ خبری نیست. ما با محبت و خواست، نگران تو هستیم و به راهی که باید برویم، می‌اندیشیم."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "دیده از خواب نمالیده روان می گردی",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر چشمانت را از خواب باز کرده‌ای و به راه می‌روی، بهتر است بدانی که ما چه اندازه نگران تو هستیم."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "نرسد دیده بدبین به تو ای وادی عشق",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشمان بدبین به تو نمی‌رسند، ای سرزمین عشق، چون هر زخم و مشکلی که داریم، ما هنوز نگران تو هستیم."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "هست با فکر تو کیفیت دیگر صائب",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با اندیشه تو حالتی متفاوت داریم، صائب، نه به نوشتن و بیان کردن تو نگرانی داریم."
     },
     {
       "VOrder": 24,

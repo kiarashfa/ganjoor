@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ملک بی ملک‌دار باشد، نی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر پادشاهی وجود نداشته باشد، ملک چه ارزشی دارد و اگر پادشاهی نباشد، آن سرزمین پایدار نخواهد بود."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "بی شهنشه بنای ملک جهان",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بدون وجود پادشاه، پایه‌های کشور مستحکم و پایدار نخواهد بود."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "خله ای را که بی خداوندست",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که بدون ارتباط با خداوند باشد، دوام و ثباتش قطعاً ناپایدار است."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "شهر را هیچ حامی و هادی",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شهر بدون وجود فرمانروا و سروری چون پادشاه، هیچ حمایتی نخواهد داشت."
     },
     {
       "VOrder": 8,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ساقیا باده گلرنگ بیار",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای ساقی، شراب خوش رنگی بیاور تا درد دل آرام گیرد و غم‌ها از بین برود."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "روز بزمست نه روز رزمست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امروز روز خوش‌گذرانی و جشن است، نه روز مبارزه و جنگ. جنجال و درگیری را کنار بگذار و شادی را به ارمغان بیاور."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "ای ز تو دردکشان دردکشان",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که از تو دردی به جانم نشسته، دردی را که به تنهایی تحمل می‌کنم و بی‌صدا دارم آن را به دوش می‌کشم، به من بیفزا."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "من ز هر درد نمی‌گردم دنگ",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به خاطر هر دردی نمی‌چرخم و ناراحت نمی‌شوم، بلکه از درد اصلی و مهمی که مرا آزار می‌دهد، شکایت دارم."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "روز جامست نه نام و ناموس",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روز جشن و شادی است، باید نام و اعتبار را کنار بگذاریم و بی‌پروا و با افتخار همگان را دعوت کنیم."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "کیمیایی که کند سنگ عقیق",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به کسی که قدرت تبدیل سنگ عقیق به طلا را دارد، امتحانش کن و در این آزمایش، سنگی را به او بده."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "صیقل آینه نه فلکست",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای شفاف شدن آینه، نیازی به آسمان نیست؛ بلکه باید آهن زنگ‌زده را به آزمایش بکشی و صیقل دهی."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "چشمه خضر تو را می‌خواند",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشمه‌ای که به حیات جاودان اشاره دارد، تو را دعوت می‌کند که برای برداشت از آن، چند فرسنگ دورتر بروی و ظرفی بیاوری."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "پس گردن ز چه رو می‌خاری",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا از شکست می‌خوری؟ تو که شایسته پیروزی هستی، به جلو پیش برو."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "حرف رنگست اگر خوش بویست",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کلمات زیبا و خوشبو باشند، حرف از رنگ و ظاهر معنی ندارد، بلکه باید روحی بدون شكل و رنگ را به ما معرفی کنند."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "کم کنی رنگ بیفزاید روح",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کم کنی، رنگ و روح بیشتری نمایان می‌شود. بوی روح معشوقه‌ای که شاداب و سرزنده است را بیاور."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "لب ببند از دغل و از حیلت",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سکوت کن از فریب و دغل، جانت را بی‌فریب و بدون حیله نگهدار و فرهنگی را به نمایش بگذار."
     },
     {
       "VOrder": 24,

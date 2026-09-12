@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "مردم این دیار را با من",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مردم این سرزمین نسبت به من محبت و توجهی ندارند."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "یا درین قوم نیست معرفتی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این گروه یا کسی شناخت و درک درستی ندارد، یا شاید من هیچ توانایی و قابلیت خاصی ندارم."
     },
     {
       "VOrder": 4,

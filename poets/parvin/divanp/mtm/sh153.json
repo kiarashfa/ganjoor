@@ -150,7 +150,8 @@
       "Text": "صبح آمد و مرغ صبحگاهی",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: صبح فرا رسید و پرنده صبحگاهی آواز سر داد، به یاد روزهای قدیم."
     },
     {
       "VOrder": 2,
@@ -166,7 +167,8 @@
       "Text": "خفاش برفت با سیاهی",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: خفاش به دنیای تاریکی رفت و پرنده‌ای که نماد روز و روشنی است، به رنگ زرین درآمد."
     },
     {
       "VOrder": 4,
@@ -182,7 +184,8 @@
       "Text": "در چشمه، به‌شوق جَست ماهی",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: در چشمه، به‌شادمانی ماهی کنار گل‌ها و گیاهان نشسته و از آرامش شبنم بهره می‌برد."
     },
     {
       "VOrder": 6,
@@ -198,7 +201,8 @@
       "Text": "شد وقت رحیل و مرد راهی",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "راهی‌: مسافر‌."
     },
     {
       "VOrder": 8,
@@ -214,7 +218,8 @@
       "Text": "هر مست که بود، هوشیار است",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که به حالت مستی دچار است، در نهایت هشیار و آگاه به اوضاع خود می‌باشد."
     },
     {
       "VOrder": 10,
@@ -222,7 +227,8 @@
       "Text": "کندند ز باغ، خار و خس را",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: خار و خس را از باغ برداشتند و حالا چمن به رنگ زمردین درآمده است."
     },
     {
       "VOrder": 11,
@@ -238,7 +244,8 @@
       "Text": "دزدید چو دیو شب، نفس را",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: وقتی شب مانند شیطان، نفس را دزدید و خستگی باعث شد که روح بخوابد، مرغ سحر برای بیداری آواز می‌خواند."
     },
     {
       "VOrder": 13,
@@ -254,7 +261,8 @@
       "Text": "هنگام سحر، در قفس را",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: در صبح زود، پرنده‌ای از قفس خارج شد و به پرواز درآمد و احساساتش را آزاد کرد."
     },
     {
       "VOrder": 15,
@@ -270,7 +278,8 @@
       "Text": "بر سر نرسانده این هوس را",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "بر سر نرسانده‌: تمام نکرده.\u00A0 \u00A0 از بیت قبل‌: هنگام سحر صید در‌بند در قفس را شکست و رها شد هنوز طعم رهایی را نچشیده بود که تلخی دیگری چشید و پایش بر سنگ حادثه‌‌ای دیگر رسید."
     },
     {
       "VOrder": 17,
@@ -286,7 +295,8 @@
       "Text": "این عادت دور روزگار است",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: این یک عادت همیشگی زمانه است."
     },
     {
       "VOrder": 19,
@@ -294,7 +304,8 @@
       "Text": "آراست بساط آسمانی",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: آسمان را با زیبایی‌های خود زینت بخشیده، خورشید که دنیا را روشن می‌کند."
     },
     {
       "VOrder": 20,
@@ -310,7 +321,8 @@
       "Text": "بگریخت ستارهٔ یمانی",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: ستارهٔ یمانی از باغ و چمن فرار کرد و مهتاب به هوا پرواز کرد."
     },
     {
       "VOrder": 22,
@@ -326,7 +338,8 @@
       "Text": "رخشنده چو آب زندگانی",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: چشم‌انداز زیبا و شاداب زندگی مانند آبی زلال است که از دل سنگ بیرون می‌جوشد و دل‌انگیزی و حیات را به نمایش می‌گذارد."
     },
     {
       "VOrder": 24,
@@ -342,7 +355,8 @@
       "Text": "وان مست شراب ارغوانی",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: آن مستی که در اثر نوشیدن شراب ارغوانی به حالت خماری افتاده، در خواب عمیقی فرو رفته و در آن باقی مانده است."
     },
     {
       "VOrder": 26,
@@ -358,7 +372,8 @@
       "Text": "مستی شد و نوبت خمار است",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: حالت نشئگی به سر آمده و اکنون زمان آن رسیده که به عواقب آن فکر کنیم."
     },
     {
       "VOrder": 28,
@@ -366,7 +381,8 @@
       "Text": "ای مرغک رام‌گشته در دام",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: ای پرنده‌ای که به دام نشسته‌ای، برخیز و فرار کن چون دیگران دام را شکستند و از آن آزاد شدند."
     },
     {
       "VOrder": 29,
@@ -382,7 +398,8 @@
       "Text": "پر می‌زن و در سپهر بخرام",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: پرواز کن و در آسمان بگرد، چرا که پرشکستن تو باعث شکست پرهای دیگری شده است."
     },
     {
       "VOrder": 31,
@@ -398,7 +415,8 @@
       "Text": "بس چون تو، پرندگان گمنام",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: بسیاری همچون تو، پرندگان ناشناسی هستند که راه نجات را جستجو کرده و به دنبال آزادی هستند."
     },
     {
       "VOrder": 33,
@@ -414,7 +432,8 @@
       "Text": "با کوشش و سعی خود، سرانجام",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: شخصی در نتیجه تلاش و زحمت خود، بالاخره توانسته است به آرامش و آسایش دست یابد و در مکانی مطمئن و راحت قرار بگیرد."
     },
     {
       "VOrder": 35,
@@ -430,7 +449,8 @@
       "Text": "کوشنده همیشه رستگار است",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: کسی که تلاش و کوششی مستمر دارد، در نهایت به موفقیت می‌رسد."
     },
     {
       "VOrder": 37,
@@ -438,7 +458,8 @@
       "Text": "همسایهٔ باغ و بوستان باش",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: با همسایه‌ای که در کنار باغ و فضای سبز زندگی می‌کند، دوست و نزدیک باش. تا کی قرار است از دیگران فاصله بگیری و کناره‌گیری کنی؟"
     },
     {
       "VOrder": 38,
@@ -454,7 +475,8 @@
       "Text": "چون چهرهٔ صبح، شادمان باش",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: تا کی می‌خواهی غمگین و دل‌گیر بمانی؟ خوش باش و شاداب باش مانند چهرهٔ صبح که پر از روشنی و زندگی است."
     },
     {
       "VOrder": 40,
@@ -470,7 +492,8 @@
       "Text": "هم‌صحبت مرغ صبح‌خوان باش",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "مرغ صبح‌خوان‌: بلبل‌."
     },
     {
       "VOrder": 42,
@@ -486,7 +509,8 @@
       "Text": "چالاک و دلیر و کاردان باش",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: در زمان برداشت محصول و جمع‌آوری خوشه‌ها، باید با فعالیت، شجاعت و مهارت عمل کنی."
     },
     {
       "VOrder": 44,
@@ -502,7 +526,8 @@
       "Text": "آسایش کارگر ز کار است",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: آرامش و راحتی کارگر از تلاش و کار او ناشی می‌شود."
     },
     {
       "VOrder": 46,
@@ -510,7 +535,8 @@
       "Text": "آنگونه بپر، که پر نریزی",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: به شیوه‌ای زندگی کن که روزگار دامن‌گیرت نشود و دچار مشکل و دردسر نگردی، زیرا زندگی می‌تواند دشوار و سنگین باشد."
     },
     {
       "VOrder": 47,
@@ -526,7 +552,8 @@
       "Text": "بسیار مکن بلند خیزی",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: بسیار به خودت مغرور نشو و از حد خود فراتر نرو، چون افتادن و شکست خوردن در چنین شرایطی باعث خواهد شد که آبرویت را از دست بدهی و ننگی برایت به همراه داشته باشد."
     },
     {
       "VOrder": 49,
@@ -542,7 +569,8 @@
       "Text": "گر صلح کنی و گر ستیزی",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: اگر با صلح و آرامش رفتار کنی یا درگیری و ستیز داشته باشی، در نهایت این زیبایی‌ها و جلوه‌ها فقط جنبه ظاهری دارند."
     },
     {
       "VOrder": 51,
@@ -558,7 +586,8 @@
       "Text": "گر سر بنهی و گر گریزی",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: اگر به آسمان پرواز کنی یا فرار کنی، در هر صورت، قدرت و درایت آسمان همیشه تیز و قوی است."
     },
     {
       "VOrder": 53,
@@ -574,7 +603,8 @@
       "Text": "صیاد زمانه‌، جان‌شکار است",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: زندگی در این دوران، همچون شکارگاهی است که هر لحظه جان انسان‌ها در خطر است."
     },
     {
       "VOrder": 55,
@@ -582,7 +612,8 @@
       "Text": "بر شاخه سرخ گل، مکن جای",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: بر روی شاخه‌های گل قرمز، نمانید زیرا ثمره‌ی زحمات باغبان است."
     },
     {
       "VOrder": 56,
@@ -598,7 +629,8 @@
       "Text": "منقار ز برگ گل، میارای",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: منقار پرندگان که بر روی گل‌ها نشسته، نباید آن‌ها را تزیین کند، زیرا زیبایی اصلی باغ به خود گل‌هاست."
     },
     {
       "VOrder": 58,
@@ -614,7 +646,8 @@
       "Text": "در نارون‌، آشیانه منمای",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: در درخت نارون، لانه نکن و برگش را نشکن، چون که او سایه‌بان توست."
     },
     {
       "VOrder": 60,
@@ -630,7 +663,8 @@
       "Text": "از بامک پست‌، دانه مربای",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: از ارتفاع پایین، دانه‌ای که به عنوان مربا استفاده می‌شود، برای مرغ‌ها مناسب است."
     },
     {
       "VOrder": 62,
@@ -646,7 +680,8 @@
       "Text": "او طائر بسته در حصار است",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: او مانند پرنده‌ای است که در قفس شده و آزاد نیست."
     },
     {
       "VOrder": 64,
@@ -654,7 +689,8 @@
       "Text": "از میوهٔ باغ‌، چشم بر بند",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: نگاه کردن به میوه‌های باغ و نادیده گرفتن چشمان را بر روی درختی که بار ندارد، کار مناسبی نیست."
     },
     {
       "VOrder": 65,
@@ -670,7 +706,8 @@
       "Text": "با روزی خویش، باش خرسند",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: با روزی که داری، راضی باش و نرو به راهی که برای تو نیست."
     },
     {
       "VOrder": 67,
@@ -686,7 +723,8 @@
       "Text": "آنجا که پر است و حلقه و بند",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: در جایی که ظلم و ستم وجود دارد و بند و زنجیر به پاهاست، قدم نگذار."
     },
     {
       "VOrder": 69,
@@ -702,7 +740,8 @@
       "Text": "فرض است نیازموده را پند",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: باید به کسی که نیاز دارد، آموزش بدهیم و او را نسبت به نکات پنهان آگاه کنیم."
     },
     {
       "VOrder": 71,
@@ -718,7 +757,8 @@
       "Text": "یغماگر و دزد، بی‌شمار است",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: یغماگران و دزدان بسیارند."
     },
     {
       "VOrder": 73,
@@ -726,7 +766,8 @@
       "Text": "آذوقهٔ خویش، کن فراهم",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: محصولات خود را از میوه‌هایی که کشاورز خشک کرده، آماده کن."
     },
     {
       "VOrder": 74,
@@ -742,7 +783,8 @@
       "Text": "گه دانه بود زیاد و گه کم",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: هر زمان که دانه‌ها فراوان بودند و زمانی دیگر نایاب، اما همواره آسمان به یک شکل باقی نمانده است."
     },
     {
       "VOrder": 76,
@@ -758,7 +800,8 @@
       "Text": "بی گل، نشد آشیانه محکم",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: بدون گل، هیچ آشیانه‌ای نمی‌تواند پایدار باشد و بدون پایه، هیچ بنیانی باقی نخواهد ماند."
     },
     {
       "VOrder": 78,
@@ -774,7 +817,8 @@
       "Text": "اندود نکرده‌ای و ترسیم",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: تو خانه‌ات را درست تعمیر نکرده‌ای و به خاطر باران و برف، ممکن است خراب شود."
     },
     {
       "VOrder": 80,
@@ -790,7 +834,8 @@
       "Text": "جاوید نه موسم بهار است",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: جاوید، نه زمان بهار است."
     },
     {
       "VOrder": 82,
@@ -798,7 +843,8 @@
       "Text": "در لانهٔ دیگران منه گام",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: در خانهٔ دیگران قدم نگذار و خودت جای مناسب و خوبی بساز."
     },
     {
       "VOrder": 83,
@@ -814,7 +860,8 @@
       "Text": "بی رنج، کسی نیافت آرام",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس بدون تلاش و زحمت به آرامش نمی‌رسد و پرنده‌ای نیز بدون جست‌وجو و تلاش، دانه‌ای نمی‌خورد."
     },
     {
       "VOrder": 85,
@@ -830,7 +877,8 @@
       "Text": "زشت است ز خلق خواستن وام",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: خواستن وام از مردم ناپسند است، زیرا تا زمانی که ذخیره‌ای در خانه وجود دارد، نیازی به این کار نیست."
     },
     {
       "VOrder": 87,
@@ -846,7 +894,8 @@
       "Text": "از دست مده، به فکرت خام",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: به خاطر داشته باش که امنیت و آرامش سرزمینت را نباید نادیده بگیری و مراقب آن باشی."
     },
     {
       "VOrder": 89,
@@ -862,7 +911,8 @@
       "Text": "این پایهٔ خرد، استوار است",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: این بنیان حکمت و دانش محکم و قابل اعتماد است."
     },
     {
       "VOrder": 91,
@@ -870,7 +920,8 @@
       "Text": "خوش صبحدمی، اگر توانی",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌توانی، در صبحگاهان زیبا، بر دامن چمن بنشین و از زیبایی‌های آن لذت ببر."
     },
     {
       "VOrder": 92,
@@ -886,7 +937,8 @@
       "Text": "چون در ره دور، دیر مانی",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: در مسیر طولانی که در آن قدم گذاشته‌ای، اگر مدت زیادی بمانی، به تو آسیب می‌زنند و رنج می‌دهند."
     },
     {
       "VOrder": 94,
@@ -902,7 +954,8 @@
       "Text": "گر رسم و ره فرار دانی",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اگر راه و رسم فرار را بدانید، زمانی که فتنه به وجود می‌آید، باید خود را آماده کنید و آماده فرار شوید."
     },
     {
       "VOrder": 96,
@@ -918,7 +971,8 @@
       "Text": "این نکته، چو درس زندگانی",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: این نکته را به عنوان یکی از درس‌های زندگی در نظر بگیر و همیشه در ذهنت نگه‌دار، پروین."
     },
     {
       "VOrder": 98,
@@ -934,7 +988,8 @@
       "Text": "در دوستی تو پایدار است",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: دوستی تو همیشه ثابت و پایدار است."
     }
   ]
 }

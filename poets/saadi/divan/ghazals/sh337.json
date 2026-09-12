@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گر یکی از عشق برآرد خروش",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی از عشق فریادی سر دهد، عجیب نیست که در دل آتش احساس جوش و خروش کند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "پیرهنی گر بدرد زاِشتیاق",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "AI: اگر پیراهنی به خاطر اشتیاق و عشق دامن عفیفش را به گناه آلوده کند، آن را بپوشاند. (تصحیح AI: اگر پیراهنی به خاطر اشتیاق و عشق دریده شود، این گناه را با دامن بخشش بپوشان.)"
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "بوی گل آورد نسیم صبا",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باد ملایمی عطر گل را به همراه آورد و بلبل بی‌قرار در سکوت نمی‌تواند بنشیند."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "مطرب اگر پرده از این ره زند",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "AI: اگر مطرب در این مسیر غافل شود و پرده را کنار بزند، دوستان و همپایان دیگر بار به هوش و حواس خود برنمی‌گردند. (تصحیح AI: اگر مطرب در این دستگاه بنوازد، دوستان و همپایان دیگر بار به هوش و حواس خود برنمی‌گردند.)"
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "ساقی اگر باده از این خُم دهد",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای ساقی، اگر از این جام نوشیدنی به ما بدهی، لباس عابدی را که در دست دارد، برمی‌دارم و به می‌فروشی می‌زنم."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "زهر بیاور که ز اجزای من",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زهر بیاور تا از وجود من صدایی برآید که به خاطر محبت تو می‌نوشم."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "از تو نپرسند درازای شب",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسانی که بیدار مانده‌اند، می‌دانند که شب چقدر طولانی است؛ زیرا خواب آن‌ها را از درک زمان بازمی‌دارد."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "حیف بود مردن بی‌عاشقی",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زندگی بدون عشق ارزش نداره؛ تا زمانی که زنده‌ای، تلاش کن تا عشق را تجربه کنی."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "سر که نه در راه عزیزان رود",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر سر به راه عشق و عزیزان نگذاری، زندگی با مشکلات و بارهای سنگین همراه خواهد بود."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "سعدی اگر خاک شود همچنان",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر سعدی به خاک سپرده شود، صدای ناله و اندوه او همچنان در گوش‌ها خواهد پیچید."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "هر که دلی دارد از انفاس او",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که احساس و عاطفه‌ای دارد، تا پایان روز قیامت صدای دل‌تنگی و دردش را می‌شنود."
     },
     {
       "VOrder": 22,

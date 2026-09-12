@@ -191,7 +191,8 @@
       "Text": "خواست یکی کور، زنی زشت روی",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: مردی نابینا تمایل داشت با زنی زشت و بدخلق ارتباط برقرار کند، کسی که با سخنانش به دیگران توهین می‌زد و رفتار زشت و ناپسندی داشت."
     },
     {
       "VOrder": 2,
@@ -207,7 +208,8 @@
       "Text": "از شبه اش، چهره سیه رنگ تر",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: از سایه‌اش، چهره‌اش تیره‌تر شده و از سپرش، پیشانی‌اش پر از علامت و نشان شده است."
     },
     {
       "VOrder": 4,
@@ -223,7 +225,8 @@
       "Text": "گوش کر و پشت کژ و چشم کاژ",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: کسی که بی‌فکر و ناآگاه است، نه به چیزی گوش می‌دهد، نه به درستی نگاه می‌کند و نه درست عمل می‌کند. حرف‌ها و سخنانی که می‌گوید بی‌معنا و بی‌ارزش است."
     },
     {
       "VOrder": 6,
@@ -239,7 +242,8 @@
       "Text": "یک شبی از ناز به آن کور گفت",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: روزی در شب، از روی ناز به آن شخص نابینا گفتم که ای کاش زیبایی من از تو پنهان نمی‌ماند."
     },
     {
       "VOrder": 8,
@@ -255,7 +259,8 @@
       "Text": "طلعت من، خواسته از مه خراج",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: چهره من، از ماه خواسته تا با سادگی و شرم، داستان خود را بر روی عاج (ماده‌ای سخت و با ارزش) بنویسد."
     },
     {
       "VOrder": 10,
@@ -271,7 +276,8 @@
       "Text": "نرگس من، چشم و چراغ چمن",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: نرگس من، روشنایی و زیبایی چمن است و گل لاله من، نمادی از عشق و احساسات عمیق."
     },
     {
       "VOrder": 12,
@@ -287,7 +293,8 @@
       "Text": "از صفت قامت من، کوتهی",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: از ویژگی قامت من، صدای سرو بلند، کوتاه‌تر به نظر می‌رسد."
     },
     {
       "VOrder": 14,
@@ -303,7 +310,8 @@
       "Text": "کور چو افسانه او گوش کرد",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: کسی که در ظلمت جهل به سر می‌برد مانند کسی است که داستانی را می‌شنود. او به خاطر موضوعی جانش پر از درد و غم می‌شود."
     },
     {
       "VOrder": 16,
@@ -319,7 +327,8 @@
       "Text": "گفت، اگر حال چنین بودیت",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: گفت، اگر حال شما این‌گونه است، پس نعمت و خوش‌شانسی همیشه همرا‌ه شماست."
     },
     {
       "VOrder": 18,
@@ -335,7 +344,8 @@
       "Text": "دامن تو، دیده وری داشتی",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: تو به من نگاهی کردی و در دامن محبتت، بذر عشق دیگری را کاشتی."
     },
     {
       "VOrder": 20,
@@ -351,7 +361,8 @@
       "Text": "این همه بیننده ز نزدیک و دور",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: این‌همه تماشاگر از دور و نزدیک، هیچ‌کس آینه را در مقابل نابینا قرار نمی‌دهد."
     },
     {
       "VOrder": 22,
@@ -367,7 +378,8 @@
       "Text": "چشم من ار کور نبودی چنین",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: اگر چشمانم کور نبود، تو این‌گونه به دعوا نمی‌پرداختی و این‌طور به دنبال حقیقت نمی‌رفتی."
     },
     {
       "VOrder": 24,
@@ -383,7 +395,8 @@
       "Text": "بستگی چشمم از اوصاف تو",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: چشم من به زیبایی‌ها و ویژگی‌های تو وابسته است و در تعریف و تمجید تو، خود را به نمایش می‌گذارم."
     },
     {
       "VOrder": 26,
@@ -399,7 +412,8 @@
       "Text": "جامی اگر نقد کمالیت هست",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: اگر جامی، یعنی کسی که حقیقت و کمال را در دست دارد، از چیزی صحبت کند، در پس آن پنهان شده، زیبایی و جلالی وجود دارد که در عالم غیب نهفته است."
     },
     {
       "VOrder": 28,
@@ -415,7 +429,8 @@
       "Text": "بر بصر اهل نظر جلوه ده",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: زیبایی و حقیقت را به کسانی نشان بده که چشم بصیرت دارند، نه به کسانی که درک و دانایی کافی ندارند."
     },
     {
       "VOrder": 30,
@@ -431,7 +446,8 @@
       "Text": "ور نه، ز همت در انصاف زن",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: اگر به انصاف و تلاش خود ادامه ندهی، با خطاهایی که به وجود می‌آوری، بر ورق نادانی خود تنها به لاف زدن ادامه خواهی داد."
     },
     {
       "VOrder": 32,

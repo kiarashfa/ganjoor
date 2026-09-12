@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "هلا ای آب حیوان از نوایی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای آب زندگی، مرا مانند آسیابی به گردش درآور!"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "چنین می‌کن که تا بادا چنین باد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من اینگونه عمل می‌کنم، تا اوضاع به همین منوال باقی بماند؛ دل بی‌قرار و پریشان من به جایی می‌رسد، و من نیز به مقصدی می‌رسم."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "نجنبد شاخ و برگی جز به بادی",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ شاخ و برگی حرکتی نمی‌کند جز اینکه تحت تأثیر باد قرار گیرد و این به خاطر وجود کهربا نیست."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "چو کاهی جز به بادی می‌نجنبد",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مانند کاه که جز با وزش باد حرکت نمی‌کند، جهان نیز بدون وجود هوایی نمی‌تواند تکان بخورد."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "همه اجزای عالم عاشقانند",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دنیای پیرامون ما، تمام عناصر و هستی به نوعی عاشق هستند و هر بخش از جهان به شوق و سرمستی ناشی از یک گونه اتصال و ملاقات قرار دارد."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "ولیک اسرار خود با تو نگویند",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اما رازها را نمی‌توان با هر کسی در میان گذاشت، نباید سر چیزهای مهم را بدون دلایل مناسب فاش کرد."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "چراخواران چراشان هم چراخوار",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا برخی افراد با وجود داشتن لذت‌های زندگی، باز هم دچار سختی و دردسر هستند؟ این نشان می‌دهد که حتی در میهمانی‌ها و خوشی‌ها، برخی مشکلات و نگرانی‌ها وجود دارد."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "نه موران با سلیمان راز گفتند",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نه مورچه‌ها با سلیمان رازهایی در میان گذاشتند و نه با داوود صدایی به هم زدند."
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "اگر این آسمان عاشق نبودی",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر آسمان عاشق نبود، سینه‌اش هیچ‌گاه این‌قدر آرام و دل‌انگیز نمی‌بود."
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "وگر خورشید هم عاشق نبودی",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر خورشید هم عاشق نبود، در زیبایی‌اش هیچ نوری نمی‌دیدیم."
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "زمین و کوه اگر نه عاشق اندی",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر زمین و کوه هم عاشق نیستند، پس چرا از دل هر یک گیاهی می‌روید؟"
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "اگر دریا ز عشق آگه نبودی",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دریا از عشق خبر نداشت، بی‌شک آخر به مکانی می‌رسید."
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "تو عاشق باش تا عاشق شناسی",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق را با تمام وجود تجربه کن و وفاداری را در روابط خود نشان بده تا بتوانی وفاداری واقعی را در دیگران مشاهده کنی."
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "نپذرفت آسمان بار امانت",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آسمان نتوانست بار مسئولیت را بر عهده بگیرد؛ زیرا عاشق بود و از اشتباهی احتمالی می‌ترسید."
     },
     {
       "VOrder": 28,

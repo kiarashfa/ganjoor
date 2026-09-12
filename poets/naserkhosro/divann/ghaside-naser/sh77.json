@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "چون همی بوده‌ها بفرساید",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که همه چیزهایی که بوده‌اند از بین بروند، چگونه چیزی جدید به وجود می‌آید؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "زانکه او بوده نیست و سرمدی است",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چون او وجود ندارد و جاودانه است، هرچه به وجود آید، ماندگار نخواهد بود."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "وانچه نابوده نافزوده بود",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که وجود ندارد و به آن افزوده نشده، چگونه می‌تواند از بین برود یا کاهش یابد؟"
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "پس جهان تا ابد بفرساید",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر جهان از بین برود، تا ابد فرسوده خواهد شد؛ ولی اگر چیزی به آن افزوده نشود، دیگر نیازی به نگرانی نیست."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "گرهی را که دست یزدان بست",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر دشواری و مسئله‌ای که خداوند به وجود آورده، هیچ‌کس نمی‌تواند آن را حل کند."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "ننگری کاین چهار زن هموار",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به این فکر نکن که این چهار زن همیشه از مرد هفت‌خوان زاییده می‌شوند."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "هر کسی جز خدای در عالم",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی غیر از خدا در این دنیا اگر به جای زنان بود، احتمالاً چنین فرقی نمی‌کرد."
     },
     {
       "VOrder": 14,
@@ -129,7 +136,8 @@
       "Position": "Right",
       "Text": "وین کهن گشته گند پیر گران",
       "CoupletIndex": 7,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این پیر کهنه و سنگین‌دل ما چه طور می‌تواند غم‌ها را از دل بزداید؟"
     },
     {
       "VOrder": 16,
@@ -143,7 +151,8 @@
       "Position": "Right",
       "Text": "ای خردمند، پس گمان تو چیست",
       "CoupletIndex": 8,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای خردمند، نظر تو چیست؟ آیا این دو آسیاب آرام خواهند گرفت؟"
     },
     {
       "VOrder": 18,
@@ -157,7 +166,8 @@
       "Position": "Right",
       "Text": "آنگهی کانچه نیست بوده شود",
       "CoupletIndex": 9,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آنگاه که آنچه وجود ندارد، به وجود می‌آید یا اینکه مانند این موجودات، از میان خواهد رفت؟"
     },
     {
       "VOrder": 20,
@@ -171,7 +181,8 @@
       "Position": "Right",
       "Text": "دل به بیهوده‌ای مکن مشغول",
       "CoupletIndex": 10,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل را به چیزهای بی‌فایده مشغول نکن، چون آنچه را که می‌خواهی، بی‌فایده است."
     },
     {
       "VOrder": 22,
@@ -185,7 +196,8 @@
       "Position": "Right",
       "Text": "در طعامی چرا کنی رغبت",
       "CoupletIndex": 11,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا به غذایی تمایل داشته باشی که اگر آن را بخوری، باعث ضررت شود؟"
     },
     {
       "VOrder": 24,
@@ -199,7 +211,8 @@
       "Position": "Right",
       "Text": "گر بماند جهان چه سود تو را؟",
       "CoupletIndex": 12,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر جهان بماند، برای تو چه فایده‌ای دارد؟ و اگر جهان نماند، تو چه نیازی به آن داری؟"
     },
     {
       "VOrder": 26,
@@ -213,7 +226,8 @@
       "Position": "Right",
       "Text": "هر که رغبت کند در این معنی",
       "CoupletIndex": 13,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که بخواهد به این موضوع وارد شود، باید قلبش را از هر آلودگی پاک کند."
     },
     {
       "VOrder": 28,
@@ -227,7 +241,8 @@
       "Position": "Right",
       "Text": "زانکه چون دست پاک باشد سخت",
       "CoupletIndex": 14,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چون دست پاک و خالص باشد، به سختی می‌توان به چیزهای ناپاک و نادرست دست زد."
     },
     {
       "VOrder": 30,
@@ -241,7 +256,8 @@
       "Position": "Right",
       "Text": "گرد این کار جز که دانا را",
       "CoupletIndex": 15,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تنها کسی که دانا است می‌تواند درباره این مسائل قضاوت کند و کسی که نادان است در مورد آن صحبت نمی‌کند."
     },
     {
       "VOrder": 32,
@@ -255,7 +271,8 @@
       "Position": "Right",
       "Text": "وانکه با زشت‌روی دیبه و خز",
       "CoupletIndex": 16,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که با چهره‌ای زشت و لباسی قیمتی همراه است، هرچند خود زیبا به نظر می‌رسد، زیبایی‌اش را نشان نمی‌دهد."
     },
     {
       "VOrder": 34,
@@ -269,7 +286,8 @@
       "Position": "Right",
       "Text": "هر که مر نفس را به آتش عقل",
       "CoupletIndex": 17,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که با استفاده از عقل و تفکر، خطرات و گناهان نفس خود را از بین ببرد و خود را از آنها پاک کند، می‌تواند به موفقیت و رهایی دست یابد."
     },
     {
       "VOrder": 36,
@@ -283,7 +301,8 @@
       "Position": "Right",
       "Text": "شاید آنگه کز این جوال به کیل",
       "CoupletIndex": 18,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شاید به تدریج و به آرامی از این بسته عبور کند."
     },
     {
       "VOrder": 38,
@@ -297,7 +316,8 @@
       "Position": "Right",
       "Text": "وگرش نیست مایه، بر خیره",
       "CoupletIndex": 19,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر چه چیزی برایش نیست، اما آسمان را به بخار هم نمی‌سازد."
     },
     {
       "VOrder": 40,
@@ -311,7 +331,8 @@
       "Position": "Right",
       "Text": "نرسد برچنین معانی آنک",
       "CoupletIndex": 20,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله می‌گوید که عشق به دنیا و زیبایی‌های آن، اجازه نمی‌دهد به چنین معانی عمیق و ارزشمندی دست یابیم. به عبارتی، وابستگی به لذت‌های دنیوی مانع از درک معانی والا و معتبر می‌شود."
     },
     {
       "VOrder": 42,
@@ -325,7 +346,8 @@
       "Position": "Right",
       "Text": "ای گراینده سوی این تلبیس",
       "CoupletIndex": 21,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که به دنبال درک شعر من هستی، این گفته‌ها و بیان من برای تو چه سودی دارد؟"
     },
     {
       "VOrder": 44,
@@ -339,7 +361,8 @@
       "Position": "Right",
       "Text": "تو که بر خویشتن نبخشائی",
       "CoupletIndex": 22,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو که هرگز به خودت رحم نمی‌کنی، چگونه ممکن است دیگران بر تو رحم کنند؟"
     },
     {
       "VOrder": 46,
@@ -353,7 +376,8 @@
       "Position": "Right",
       "Text": "گر دل تو چنانکه من خواهم",
       "CoupletIndex": 23,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دل تو هم مانند دل من اینچنین بیاراید،"
     },
     {
       "VOrder": 48,
@@ -367,7 +391,8 @@
       "Position": "Right",
       "Text": "تبر پند من به جهد و به رفق",
       "CoupletIndex": 24,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تلاش و کوشش من با آرامش و مهربانی، باعث می‌شود که نادانی‌های تو از بین برود و اندیشه‌ات روشن‌تر شود."
     },
     {
       "VOrder": 50,
@@ -381,7 +406,8 @@
       "Position": "Right",
       "Text": "منگر سوی آن کسی که زبانش",
       "CoupletIndex": 25,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به کسی نگاه نکن که تنها حرف‌های بی‌پایه و دروغ می‌زند."
     },
     {
       "VOrder": 52,
@@ -395,7 +421,8 @@
       "Position": "Right",
       "Text": "بخلد پند چشم جهل چنانک",
       "CoupletIndex": 26,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشمی که نادانی را می‌بیند، مانند چهره‌ی بدبخت را در پرده‌ای از ابریشم پنهان می‌کند."
     },
     {
       "VOrder": 54,

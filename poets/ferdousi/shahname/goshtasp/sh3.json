@@ -551,7 +551,8 @@
       "Text": "چو یک چند سالان برآمد برین",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: پس از گذشت چند سال، در زیر این درخت، چیزی از زمین رشد کرد و ظاهر شد."
     },
     {
       "VOrder": 2,
@@ -567,7 +568,8 @@
       "Text": "در ایوان گشتاسپ بر سوی کاخ",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در ایوان گشتاسپ، در کنار کاخ، درختی بزرگ و پر بار وجود داشت که شاخه‌های فراوانی داشت."
     },
     {
       "VOrder": 4,
@@ -583,7 +585,8 @@
       "Text": "همه برگ وی پند و بارش خرد",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: تمامی پیام‌های این شاعر حاکی از حکمت و دانش است. کسی که از خرد و اندیشه بهره‌مند باشد، می‌تواند به درستی در زندگی قدم بردارد."
     },
     {
       "VOrder": 6,
@@ -599,7 +602,8 @@
       "Text": "خجسته پی و نام او زردهشت",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: پیام این بیت به این معناست که نام و ویژگی‌های فردی به نام زردهشت، مبارک و خوب است، زیرا او توانسته آهرمن، که نماینده‌ی بدی و بدکاری است، را از بین ببرد. در واقع، زردشت نشان‌دهنده‌ی رستگاری و مبارزه با نیروهای منفی است."
     },
     {
       "VOrder": 8,
@@ -615,7 +619,8 @@
       "Text": "به شاه کیان گفت پیغمبرم",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: به پادشاه کیان گفتم که من پیامبر هستم و در راستای تو، خرد و حکمت را برایت می‌آورم."
     },
     {
       "VOrder": 10,
@@ -631,7 +636,8 @@
       "Text": "جهان آفرین گفت بپذیر دین",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: آفریننده جهان فرمود که دین را بپذیر و به آسمان و زمین بنگر."
     },
     {
       "VOrder": 12,
@@ -647,7 +653,8 @@
       "Text": "که بی‌خاک و آبش برآورده‌ام",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: من بدون وجود خاک و آب او را خلق کرده‌ام، حال ببین چگونه او را به‌دست آورده‌ام."
     },
     {
       "VOrder": 14,
@@ -663,7 +670,8 @@
       "Text": "نگر تا تواند چنین کرد کس",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: نگاه کن، هیچ کس جز من نمی‌تواند چنین کاری انجام دهد، چون من تنها کسی هستم که بر جهان فرمانروایی می‌کنم."
     },
     {
       "VOrder": 16,
@@ -679,7 +687,8 @@
       "Text": "گر ایدونک دانی که من کردم این",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌دانی که من چه کرده‌ام، پس باید خالق جهان مرا بشناسد."
     },
     {
       "VOrder": 18,
@@ -695,7 +704,8 @@
       "Text": "ز گوینده بپذیر به دین اوی",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: از سخنان دیگران بهره ببر و از آموزه‌های آن‌ها راه و روش زندگی را یاد بگیر."
     },
     {
       "VOrder": 20,
@@ -711,7 +721,8 @@
       "Text": "نگر تا چه گوید بران کار کن",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: مراقب باش که چه می‌گوید، پس عاقلانه عمل کن و در انتخاب‌های خود دقت کن و این جهان را زیر سوال ببر."
     },
     {
       "VOrder": 22,
@@ -727,7 +738,8 @@
       "Text": "بیاموز آیین و دین بهی",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: بیاموز اصول و ارزش‌های نیکو را، چرا که کسی که بدون دین باشد، زندگی‌اش ناخوشایند خواهد بود."
     },
     {
       "VOrder": 24,
@@ -743,7 +755,8 @@
       "Text": "چو بشنید ازو شاه به دین به",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: زمانی که شاه از او سخن را شنید، به دین او رو آورد و راه و آیینش را پذیرفت."
     },
     {
       "VOrder": 26,
@@ -759,7 +772,8 @@
       "Text": "نبرده برادرش فرخ زریر",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: برادر فرخ زریر کجا توانسته‌است که فیل ژنده را به زیر بیاورد؟"
     },
     {
       "VOrder": 28,
@@ -775,7 +789,8 @@
       "Text": "ز شاهان شه پیر گشته به بلخ",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: در بلخ، پادشاهی کهنسال شده و حالا زندگی‌اش به خاطر ناگواری‌های دنیا تلخ و سخت شده است."
     },
     {
       "VOrder": 30,
@@ -791,7 +806,8 @@
       "Text": "شده زار و بیمار و بی‌هوش و توش",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: او به شدت دچار آسیب و ناراحتی شده و حالش بسیار بد است، به طوری که نزدیک او مانند نوشیدنی زهرآلود است."
     },
     {
       "VOrder": 32,
@@ -807,7 +823,8 @@
       "Text": "سران و بزرگان و هر مهتران",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: دانشمندان و بزرگانی که در میان رئیسان و افراد با نفوذ قرار دارند، پزشکان ماهر و شناخته شده‌ای هستند."
     },
     {
       "VOrder": 34,
@@ -823,7 +840,8 @@
       "Text": "بر آن جادوی چارها ساختند",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: آنها بر پایه‌ی جادو و ترفند زندگی کردند، اما از هر تلاشی که کردند، سود و فایده‌ای نبردند."
     },
     {
       "VOrder": 36,
@@ -839,7 +857,8 @@
       "Text": "پس این زردهشت پیمبرش گفت",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که زردشت، پیامبر، اعلام کرد که نمی‌تواند دین خدا را پنهان کند. "
     },
     {
       "VOrder": 38,
@@ -855,7 +874,8 @@
       "Text": "که چون دین پذیرد ز روز نخست",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: زمانی که انسان از آغاز، ایمان و دین را بپذیرد، از رنج‌ها و دردها آزاد می‌شود و به آرامش و صحت دست می‌یابد."
     },
     {
       "VOrder": 40,
@@ -871,7 +891,8 @@
       "Text": "شهنشاه و زین پس زریر سوار",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: شاه و زریر سوار، همه از فرمانروایی پیروی می‌کنند و دین را می‌پذیرند."
     },
     {
       "VOrder": 42,
@@ -887,7 +908,8 @@
       "Text": "همه سوی شاه زمین آمدند",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: همه به سوی پادشاه دنیا آمدند و برای پیوستن به دین، کشتی را آماده کردند."
     },
     {
       "VOrder": 44,
@@ -903,7 +925,8 @@
       "Text": "پدید آمد آن فره ایزدی",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: فرشته‌ای از نور و خوبی نمایان شد و از دل کسانی که فکر و اندیشه‌های بدی دارند، رخت بربست."
     },
     {
       "VOrder": 46,
@@ -919,7 +942,8 @@
       "Text": "پر از نور مینو ببد دخمه‌ها",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: دخمه‌ها پر از نور و زیبایی شدند و دانه‌ها از آلودگی پاک شدند."
     },
     {
       "VOrder": 48,
@@ -935,7 +959,8 @@
       "Text": "پس آزاده گشتاسپ برشد به گاه",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: پس گشتاسپ آزاد شد و در زمانی مشخص، سپاهی به هر سوی کشور فرستاد."
     },
     {
       "VOrder": 50,
@@ -951,7 +976,8 @@
       "Text": "پراگنده اندر جهان موبدان",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: موبدان در سراسر جهان پخش شده‌اند و از بالای آذران، گنبدها را برپا کرده‌اند."
     },
     {
       "VOrder": 52,
@@ -967,7 +993,8 @@
       "Text": "نخست آذر مهربرزین نهاد",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: اول آذر مهربرزین (پرچم) را بر افراشت و نگاهی به کشور انداخت تا ببیند چه رستاخیزی را پایه‌گذاری کرده است."
     },
     {
       "VOrder": 54,
@@ -983,7 +1010,8 @@
       "Text": "یکی سرو آزاده بود از بهشت",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: یک درخت سرو آزاد از بهشت به زمین آمد و در آتش سوخت."
     },
     {
       "VOrder": 56,
@@ -999,7 +1027,8 @@
       "Text": "نبشتی بر زاد سرو سهی",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: درخت سرو بلند و زیبایی را ننوشتی که گشتاسپ دین نیکو را پذیرفت."
     },
     {
       "VOrder": 58,
@@ -1015,7 +1044,8 @@
       "Text": "گوا کرد مر سرو آزاد را",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: این بیت به توصیف زیبایی و استقامت سرو آزاد می‌پردازد که نماد بلندی و شکوه است. به نوعی، از خرد و دانایی در گستردن صفات خوب و ارزشمند در زندگی سخن می‌گوید."
     },
     {
       "VOrder": 60,
@@ -1031,7 +1061,8 @@
       "Text": "چو چندی برآمد برین سالیان",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: چند سالی از عمر گذشته و درخت سرو هنوز استوار و ایستاده است."
     },
     {
       "VOrder": 62,
@@ -1047,7 +1078,8 @@
       "Text": "چنان گشت آزاد سرو بلند",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: سرو بلند به قدری آزاد و رها شد که هیچ کمند و بندی نمی‌تواند او را به عقب بازگرداند."
     },
     {
       "VOrder": 64,
@@ -1063,7 +1095,8 @@
       "Text": "چو بسیار برگشت و بسیار شاخ",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: او بارها و بارها به سمت او بازگشت و بارها تغییر کرد تا اینکه در نهایت یک قصر زیبا برای او ساخت."
     },
     {
       "VOrder": 66,
@@ -1079,7 +1112,8 @@
       "Text": "چهل رش به بالا و پهنا چهل",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: چهل سر و پهنای آن به اندازه چهل اندازه از خاک و آب از زیر (زمین) بالا نیامده است."
     },
     {
       "VOrder": 68,
@@ -1095,7 +1129,8 @@
       "Text": "دو ایوان برآورد از زر پاک",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: او دو ایوان از طلا ساخت و زمینش را از نقره و خاکش را از عطر خوش عنبر تشکیل داد."
     },
     {
       "VOrder": 70,
@@ -1111,7 +1146,8 @@
       "Text": "برو بر نگارید جمشید را",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: برو و به معشوقه جمشید بگو که او پرستنده ماه و خورشید است."
     },
     {
       "VOrder": 72,
@@ -1127,7 +1163,8 @@
       "Text": "فریدونش را نیز با گاوسار",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: فریدون نیز به گاوسار دستور داد که دختر زیبا را به آنجا ببرد."
     },
     {
       "VOrder": 74,
@@ -1143,7 +1180,8 @@
       "Text": "همه مهتران را بر آن‌جا نگاشت",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: تمام بزرگان و سرآمدان را در آنجا بنگر که چگونه به موفقیت و کامیابی دست یافته‌اند."
     },
     {
       "VOrder": 76,
@@ -1159,7 +1197,8 @@
       "Text": "چو نیکو شد آن نامور کاخ زر",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: وقتی که آن کاخ زرین به زیبایی ساخته شد، گنج‌های ارزشمند بر دیوارهای آن نصب شد."
     },
     {
       "VOrder": 78,
@@ -1175,7 +1214,8 @@
       "Text": "به گردش یکی باره کرد آهنین",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: به دور خود گردشی کرد و بر روی آن نشسته، شاه زمین را در بر گرفت."
     },
     {
       "VOrder": 80,
@@ -1191,7 +1231,8 @@
       "Text": "فرستاد هرسو به کشور پیام",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: فرستاد در چهار گوشه جهان پیام داد که مانند سرو کاشمر در دنیا کدام کس هست؟"
     },
     {
       "VOrder": 82,
@@ -1207,7 +1248,8 @@
       "Text": "ز مینو فرستاد زی من خدای",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: این بیت به معنای این است که، خداوند به من فرمود که به دنیای زیبای مینو (بهشت) برو."
     },
     {
       "VOrder": 84,
@@ -1223,7 +1265,8 @@
       "Text": "کنون هرک این پند من بشنوید",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: الان هرکس که این نصیحت مرا بشنود، باید به سمت درخت سرو کشمر برود."
     },
     {
       "VOrder": 86,
@@ -1239,7 +1282,8 @@
       "Text": "بگیرید پند ار دهد زردهشت",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: اگر نصیحتی از زرتشت دریافت کردید، روی خود را به سمت بت چین برگردانید."
     },
     {
       "VOrder": 88,
@@ -1255,7 +1299,8 @@
       "Text": "به برز و فر شاه ایرانیان",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: در دشت و زمین شاه ایرانیان، کشتی‌ها را در میانه آب‌ها رها کنید."
     },
     {
       "VOrder": 90,
@@ -1271,7 +1316,8 @@
       "Text": "در آیین پیشینیان منگرید",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: به رفتار و آداب گذشتگان نگاه نکنید و از این سایه درخت سروبن گذر کنید."
     },
     {
       "VOrder": 92,
@@ -1287,7 +1333,8 @@
       "Text": "سوی گنبد آذر آرید روی",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: به سوی گنبد آتشین بروید و به فرمان پیامبر راست بگویید."
     },
     {
       "VOrder": 94,
@@ -1303,7 +1350,8 @@
       "Text": "پراگنده فرمانش اندر جهان",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: فرمان او در سراسر جهان به نام‌آوران و بزرگان می‌رسد."
     },
     {
       "VOrder": 96,
@@ -1319,7 +1367,8 @@
       "Text": "همه نامداران به فرمان اوی",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: تمام نام‌آوران و بزرگان تحت فرمان او، به سوی درختان سرو کشمر روی آوردند."
     },
     {
       "VOrder": 98,
@@ -1335,7 +1384,8 @@
       "Text": "پرستشکده گشت زان سان که پشت",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: ناگهان معبد تبدیل به جایی شد که دیو را از آن دور کردند و این باعث شد که محیط آنجا از هر نوع آسیب و خطر پاک شود."
     },
     {
       "VOrder": 100,
@@ -1351,7 +1401,8 @@
       "Text": "بهشتیش خوان ار ندانی همی",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: اگر نمی‌دانی بهشت چیست، چرا او را به نام \u0022سرو کشمر\u0022 می‌خوانی؟"
     },
     {
       "VOrder": 102,
@@ -1367,7 +1418,8 @@
       "Text": "چراکش نخوانی نهال بهشت",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: چرا نهال بهشت را زشت بخوانی، در حالی که پادشاه کیان آن را در سرزمین کشمر نابود کرد؟"
     },
     {
       "VOrder": 104,

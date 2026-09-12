@@ -191,7 +191,8 @@
       "Text": "در برابر امیر کیکاوس",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: مقابل امیر کیکاوس، فردی با زیبایی و جلوه‌ای زیبا مثل طاووس نشسته است."
     },
     {
       "VOrder": 2,
@@ -207,7 +208,8 @@
       "Text": "مایه عشرتست و کان طرب",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: منبع شادی و لذت، چیزی جز درخواست خوشی و مفرّح بودن نیست."
     },
     {
       "VOrder": 4,
@@ -223,7 +225,8 @@
       "Text": "پیل زوری که چون کند کشتی",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: اژدهای قوی که وقتی به کشتی نزدیک می‌شود، قدرت او به آن کشتی حمایت می‌دهد."
     },
     {
       "VOrder": 6,
@@ -239,7 +242,8 @@
       "Text": "شیر زخمی که چون برانگیزد",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: شیر زخم‌خورده‌ای که وقتی خشمگین می‌شود، دیگر شیران جنگل از او دوری می‌کنند."
     },
     {
       "VOrder": 8,
@@ -255,7 +259,8 @@
       "Text": "با چنین قوت و چنین مردی",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: با چنین نیرویی و چنین شخصیتی که همت و جوانمردی داشته باشد، هر چیزی ممکن است."
     },
     {
       "VOrder": 10,
@@ -271,7 +276,8 @@
       "Text": "نیست خالی ز جنس جنس علوم",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: هیچ چیزی از علم و دانش خالی نیست. او در زمینه‌های مختلفی مانند شعر و نجوم اطلاعاتی دارد."
     },
     {
       "VOrder": 12,
@@ -287,7 +293,8 @@
       "Text": "نیست عیبش چو آنکه بی سیم است",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: زمانی که فردی از نظر مالی یا اجتماعی وضعیت خوبی ندارد، نمی‌توان به او ایراد گرفت؛ زیرا تمام امید او به حمایت پدرش است و در عین حال از او نگرانی‌هایی دارد."
     },
     {
       "VOrder": 14,
@@ -303,7 +310,8 @@
       "Text": "چون شود تنگدست و درماند",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: زمانی که شخصی در سختی و تنگدستی قرار گیرد، ممکن است از مسیر صلح و آرامش دور شود و حتی نسبت به پدر خود که می‌تواند راهنمایی و پشتیبانی‌اش باشد، روی برگرداند."
     },
     {
       "VOrder": 16,
@@ -319,7 +327,8 @@
       "Text": "یله گردد شهر و گیرد راه",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: شهر به آرامی رها می‌شود و به سمت روستا حرکت می‌کند؛ ناگهان سپاهی به سوی دهقان می‌آید."
     },
     {
       "VOrder": 18,
@@ -335,7 +344,8 @@
       "Text": "گوید از عجز بر ضیاع پدر",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: او می‌گوید که به رغم ناتوانی‌اش، به دور پدرش جمع می‌شود و این نشان‌دهنده ارتباط و وابستگی عمیق خانوادگی است."
     },
     {
       "VOrder": 20,
@@ -351,7 +361,8 @@
       "Text": "منزل او به نو نهاله کند",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: خانه او را با جوانه‌ها و نو نهال‌ها زینت ببخشد تا شاید از آن‌ها بهره‌مند شود و خوراکی به دست آورد."
     },
     {
       "VOrder": 22,
@@ -367,7 +378,8 @@
       "Text": "آنگه آید به دیه کل هری",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: نمی‌توان انتظار داشت که در روستا همه چیز مرتب و آرام باشد، مگر اینکه از مشکلات و ناهنجاری‌ها سخن نگوییم."
     },
     {
       "VOrder": 24,
@@ -383,7 +395,8 @@
       "Text": "گر همه یک دو من کرنج دهند",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: اگر همه به من دو هزار کرنج بدهند و همین مقدار برنج هم بپردازند، "
     },
     {
       "VOrder": 26,
@@ -399,7 +412,8 @@
       "Text": "از پس آنکه مرد بگراید",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: پس از آنکه انسان بمیرد، زینت و اندوهی بزرگ و ویرانگر بروز می‌کند."
     },
     {
       "VOrder": 28,
@@ -415,7 +429,8 @@
       "Text": "این همه پر دلی به کار آرد",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: این همه شجاعت و دل‌سپاری به چه درد می‌خورد اگر فقط بر روی زمین خشک و بی‌ثمر باقی بماند؟"
     },
     {
       "VOrder": 30,
@@ -431,7 +446,8 @@
       "Text": "آرد گیلانش از براش بود",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: گل و دشت گیلان به خاطر بارش‌های مکرر، سرسبز و خرّم است. در این طبیعت زیبا تنها دو مشت ماش یکی از نعمت‌هایی است که می‌توان از آن بهره‌مند شد."
     },
     {
       "VOrder": 32,

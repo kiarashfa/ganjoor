@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای دیده ز هر طرف که برخیزد خس",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای چشم! هر جا که نگاه کنی، چیزی به جز زیبایی تو را نمی‌بیند و با هیچ‌کس غیر از تو درآمیخته نیست."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "هشدار که تا با تو کم آمیزد خس",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هشدار که به راحتی با تو نزدیک نشود آن خس (گیاه بد) زیرا همه کسانی که تجربه دارند، آن را در زیر آب می‌ریزند."
     },
     {
       "VOrder": 4,

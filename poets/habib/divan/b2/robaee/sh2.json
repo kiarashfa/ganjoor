@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "آن یک گوید که چرس و تریاک خوش است",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یکی می‌گوید مصرف مواد مخدر مثل حشیش و تریاک لذت‌بخش است و دیگری می‌گوید نوشیدن شراب خوشایندتر است."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "از من بشنو که هر دو آلودگیست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به من گوش کن که هر دو حالت ناپاکی است. دامن زهر، ناپاکی‌اش بهتر از حالت دیگر است."
     },
     {
       "VOrder": 4,

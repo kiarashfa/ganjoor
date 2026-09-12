@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "چشم آگاه را به هیچ چیز گرو منه‌.",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم آگاه را به هیچ چیز وابسته نکن."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "کسی کش به چیز تو چشمست تیز",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که به چیزی که تو داری، با تیزبینی و دقت نگاه می‌کند، نباید هیچ چیزی را به او بدهی و گارانتی نکنی."
     },
     {
       "VOrder": 3,

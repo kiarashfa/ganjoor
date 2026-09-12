@@ -32,16 +32,6 @@
     },
     {
       "Index": 2,
-      "Number": 2,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ید",
-      "PlainText": "از پی تفسیر قرآن مجید\r\nباشد از حق عمر و توفیقم امید",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز پی تفسیر قرآن مجید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباشد از حق عمر و توفیقم امید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 2,
       "Number": 3,
       "SectionType": "WholePoem",
       "VerseType": "First",
@@ -52,14 +42,14 @@
       "CoupletsCount": 19
     },
     {
-      "Index": 3,
-      "Number": 3,
+      "Index": 2,
+      "Number": 2,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ست",
-      "PlainText": "گویم از هستی بیانی در نخست\r\nتا بیابی ره به گفتارم درست",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویم از هستی بیانی در نخست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بیابی ره به گفتارم درست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
+      "RhymeLetters": "ید",
+      "PlainText": "از پی تفسیر قرآن مجید\r\nباشد از حق عمر و توفیقم امید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز پی تفسیر قرآن مجید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباشد از حق عمر و توفیقم امید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
     },
     {
       "Index": 3,
@@ -72,11 +62,21 @@
       "CoupletsCount": 2
     },
     {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ست",
+      "PlainText": "گویم از هستی بیانی در نخست\r\nتا بیابی ره به گفتارم درست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویم از هستی بیانی در نخست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بیابی ره به گفتارم درست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
       "Index": 4,
       "Number": 4,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "اب",
+      "RhymeLetters": "روزکرد",
       "PlainText": "ابتداء از نام خویش اندر کتاب\r\nبا رسول رحمت آمد در خطاب\r\nدانش هستی بود باب سرای\r\nفهم هستی کن ز در آنگه درآی\r\nخلق اشیاء جمله را شش روز کرد\r\nروز خلق از شش جهت فیروز کرد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eابتداء از نام خویش اندر کتاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا رسول رحمت آمد در خطاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدانش هستی بود باب سرای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفهم هستی کن ز در آنگه درآی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخلق اشیاء جمله را شش روز کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروز خلق از شش جهت فیروز کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
@@ -96,7 +96,7 @@
       "Number": 4,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "روزکرد",
+      "RhymeLetters": "اب",
       "PlainText": "ابتداء از نام خویش اندر کتاب\r\nبا رسول رحمت آمد در خطاب\r\nدانش هستی بود باب سرای\r\nفهم هستی کن ز در آنگه درآی\r\nخلق اشیاء جمله را شش روز کرد\r\nروز خلق از شش جهت فیروز کرد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eابتداء از نام خویش اندر کتاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا رسول رحمت آمد در خطاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدانش هستی بود باب سرای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفهم هستی کن ز در آنگه درآی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخلق اشیاء جمله را شش روز کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروز خلق از شش جهت فیروز کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
@@ -106,9 +106,9 @@
       "Number": 5,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ک",
-      "PlainText": "گر تو را گوید کس از وسواس و شک\r\nروز و شب باشد ز مقدار فلک",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر تو را گوید کس از وسواس و شک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروز و شب باشد ز مقدار فلک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "یم",
+      "PlainText": "باب گنج علم خود ذات قدیم\r\nکرد بسم الله الرحمن الرحیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباب گنج علم خود ذات قدیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکرد «بسم الله الرحمن الرحیم»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -126,9 +126,9 @@
       "Number": 5,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "یم",
-      "PlainText": "باب گنج علم خود ذات قدیم\r\nکرد بسم الله الرحمن الرحیم",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباب گنج علم خود ذات قدیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکرد «بسم الله الرحمن الرحیم»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ک",
+      "PlainText": "گر تو را گوید کس از وسواس و شک\r\nروز و شب باشد ز مقدار فلک",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر تو را گوید کس از وسواس و شک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروز و شب باشد ز مقدار فلک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -136,7 +136,7 @@
       "Number": 6,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "از",
+      "RhymeLetters": "وز",
       "PlainText": "باب رحمت را به خلقان کرد باز\r\nتا به رحمت سوی او گیرند ساز\r\nپای ادراکت بود همواره لنگ\r\nپس به حبل هستی اول زن تو چنگ\r\nاندر آن حضرت نه شب بود و نه روز\r\nبد بهاری بی خریف و بی تموز",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباب رحمت را به خلقان کرد باز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا به رحمت سوی او گیرند ساز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپای ادراکت بود همواره لنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس به حبل هستی، اوّل زن تو چنگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاندر آن حضرت نه شب بود و نه روز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبُد بهاری بی‌خریف و بی‌تموز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
@@ -156,7 +156,7 @@
       "Number": 6,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "وز",
+      "RhymeLetters": "از",
       "PlainText": "باب رحمت را به خلقان کرد باز\r\nتا به رحمت سوی او گیرند ساز\r\nپای ادراکت بود همواره لنگ\r\nپس به حبل هستی اول زن تو چنگ\r\nاندر آن حضرت نه شب بود و نه روز\r\nبد بهاری بی خریف و بی تموز",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباب رحمت را به خلقان کرد باز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا به رحمت سوی او گیرند ساز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپای ادراکت بود همواره لنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس به حبل هستی، اوّل زن تو چنگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاندر آن حضرت نه شب بود و نه روز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبُد بهاری بی‌خریف و بی‌تموز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
@@ -166,9 +166,9 @@
       "Number": 7,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "یست",
-      "PlainText": "پس مراد از خلقت شش روز چیست\r\nکاندر آنجا شب نباشد روز نیست",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس مراد از خلقت شش روز چیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاندر آنجا شب نباشد روز نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ب",
+      "PlainText": "این اشارت بود یعنی در سبب\r\nرحمت او سابق آمد بر غضب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین اشارت بود یعنی در سبب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرحمت او سابق آمد بر غضب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -186,9 +186,9 @@
       "Number": 7,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ب",
-      "PlainText": "این اشارت بود یعنی در سبب\r\nرحمت او سابق آمد بر غضب",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین اشارت بود یعنی در سبب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرحمت او سابق آمد بر غضب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "یست",
+      "PlainText": "پس مراد از خلقت شش روز چیست\r\nکاندر آنجا شب نباشد روز نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس مراد از خلقت شش روز چیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاندر آنجا شب نباشد روز نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -197,8 +197,8 @@
       "SectionType": "Couplet",
       "VerseType": "Second",
       "RhymeLetters": "ام",
-      "PlainText": "بهر شرح این سه نام با نظام\r\nمر صفی آمد به گفتار و کلام",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهر شرح این سه نام با نظام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمر صفی آمد به گفتار و کلام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "گو مراد از سته باشد شش مقام\r\nکاندر آن شش رتبه شد خلقت تمام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگو مراد از «ستّه» باشد شش مقام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاندر آن شش رتبه شد خلقت تمام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -217,8 +217,8 @@
       "SectionType": "Couplet",
       "VerseType": "Second",
       "RhymeLetters": "ام",
-      "PlainText": "گو مراد از سته باشد شش مقام\r\nکاندر آن شش رتبه شد خلقت تمام",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگو مراد از «ستّه» باشد شش مقام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاندر آن شش رتبه شد خلقت تمام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "بهر شرح این سه نام با نظام\r\nمر صفی آمد به گفتار و کلام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهر شرح این سه نام با نظام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمر صفی آمد به گفتار و کلام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -227,8 +227,8 @@
       "SectionType": "Couplet",
       "VerseType": "Second",
       "RhymeLetters": "ات",
-      "PlainText": "رتبۀ اول شد اسماء و صفات\r\nثانی اعیان تمام ممکنات",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرتبۀ اول شد اسماء و صفات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eثانی اعیان تمام ممکنات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "سابق از ایجاد کل ممکنات\r\nکنز مخفی بود آن سلطان ذات",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسابق از ایجاد کل ممکنات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکنز مخفی بود آن سلطان ذات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -247,8 +247,8 @@
       "SectionType": "Couplet",
       "VerseType": "Second",
       "RhymeLetters": "ات",
-      "PlainText": "سابق از ایجاد کل ممکنات\r\nکنز مخفی بود آن سلطان ذات",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسابق از ایجاد کل ممکنات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکنز مخفی بود آن سلطان ذات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "رتبۀ اول شد اسماء و صفات\r\nثانی اعیان تمام ممکنات",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرتبۀ اول شد اسماء و صفات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eثانی اعیان تمام ممکنات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -256,9 +256,9 @@
       "Number": 10,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ون",
-      "PlainText": "هستی او بود در عین کمون\r\nز اسم و رسم و شرط و بی شرطی برون",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهستی او بود در عین کمون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز اسم و رسم و شرط و بی شرطی برون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "وح",
+      "PlainText": "سیمین جبروت و رابع در فتوح\r\nهست ملکوت ار به تن داری تو روح",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسیّمین جبروت و رابع در فتوح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهست ملکوت ار به تن داری تو روح\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -276,20 +276,10 @@
       "Number": 10,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "وح",
-      "PlainText": "سیمین جبروت و رابع در فتوح\r\nهست ملکوت ار به تن داری تو روح",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسیّمین جبروت و رابع در فتوح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهست ملکوت ار به تن داری تو روح\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ون",
+      "PlainText": "هستی او بود در عین کمون\r\nز اسم و رسم و شرط و بی شرطی برون",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهستی او بود در عین کمون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز اسم و رسم و شرط و بی شرطی برون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
-    },
-    {
-      "Index": 11,
-      "Number": 11,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "سم",
-      "PlainText": "رتبۀ پنجم مثال آمد به اسم\r\nدر ششم ملک شهود اعنی که جسم",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرتبۀ پنجم مثال آمد به اسم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر ششم مُلک شهود اعنی که جسم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
     },
     {
       "Index": 11,
@@ -302,13 +292,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 12,
-      "Number": 12,
+      "Index": 11,
+      "Number": 11,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "اتاوست",
-      "PlainText": "هستی دیگر که ظل ذات اوست\r\nدر تجلی اولین آیات اوست",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهستی دیگر که ظل ذات اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر تجلّی اولین آیات اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "سم",
+      "PlainText": "رتبۀ پنجم مثال آمد به اسم\r\nدر ششم ملک شهود اعنی که جسم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرتبۀ پنجم مثال آمد به اسم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر ششم مُلک شهود اعنی که جسم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -322,13 +312,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 13,
-      "Number": 13,
+      "Index": 12,
+      "Number": 12,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "انیای",
-      "PlainText": "نکتۀ بکر خوش و روحانی ای\r\nبا تو گویم گر به فهم ارزانی ای",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنکتۀ بکرِ خوش و روحانی ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا تو گویم گر به فهم ارزانی ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "اتاوست",
+      "PlainText": "هستی دیگر که ظل ذات اوست\r\nدر تجلی اولین آیات اوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهستی دیگر که ظل ذات اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر تجلّی اولین آیات اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -339,6 +329,16 @@
       "RhymeLetters": "ات",
       "PlainText": "موج اول باشد از دریای ذات\r\nشد مسمی او به اسماء و صفات",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eموج اول باشد از دریای ذات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد مسمی او به اسماء و صفات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 13,
+      "Number": 13,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "انیای",
+      "PlainText": "نکتۀ بکر خوش و روحانی ای\r\nبا تو گویم گر به فهم ارزانی ای",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنکتۀ بکرِ خوش و روحانی ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا تو گویم گر به فهم ارزانی ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -513,7 +513,8 @@
       "VOrder": 2,
       "Position": "Paragraph",
       "Text": "بنام خداوند بخشندۀ مهربان (۱)",
-      "CoupletIndex": 1
+      "CoupletIndex": 1,
+      "CoupletSummary": "هوش مصنوعی: با نام خداوند بخشنده و مهربان"
     },
     {
       "VOrder": 3,
@@ -521,7 +522,8 @@
       "Text": "از پی تفسیر قرآن مجید",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: من در پی درک و تفسیر قرآن کریم هستم و از خداوند عمر و توفیق می‌خواهم."
     },
     {
       "VOrder": 4,
@@ -537,7 +539,8 @@
       "Text": "تا به شکر آنکه دادم نطق و کام",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: من شکرگزارم که توانستم سخن بگوییم و به کمک آن، مفهوم قرآن را به نظم درآورم و همه چیز را به طور کامل بیان کنم."
     },
     {
       "VOrder": 6,
@@ -553,7 +556,8 @@
       "Text": "ابتداء از نام خویش اندر کتاب",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در ابتدا، در کتاب، نام خود را بیان کرده و با پیامبر رحمت در ارتباط است."
     },
     {
       "VOrder": 8,
@@ -569,7 +573,8 @@
       "Text": "باب گنج علم خود ذات قدیم",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: این بیت اشاره به آفرینش و آغاز علم و دانش دارد. با ذکر نام خداوند، به نوعی بیان می‌شود که علم و دانش از ذات و وجودی قدیم سرچشمه می‌گیرد و تحت توجه الهی قرار دارد. "
     },
     {
       "VOrder": 10,
@@ -585,7 +590,8 @@
       "Text": "باب رحمت را به خلقان کرد باز",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: خداوند دروازه‌های رحمت را به روی بندگانش گشوده تا آن‌ها با رحمت او ارتباط برقرار کنند."
     },
     {
       "VOrder": 12,
@@ -601,7 +607,8 @@
       "Text": "این اشارت بود یعنی در سبب",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: این اشاره به این معناست که رحمت خداوند بر خشم او پیشی گرفته است."
     },
     {
       "VOrder": 14,
@@ -617,7 +624,8 @@
       "Text": "بهر شرح این سه نام با نظام",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: به خاطر توضیح این سه نام، یک انسان با نظم و ترتیب به گفتار و کلام آمده است."
     },
     {
       "VOrder": 16,
@@ -633,7 +641,8 @@
       "Text": "سابق از ایجاد کل ممکنات",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: قبل از اینکه تمامی موجودات به وجود بیایند، آن ذات مقدس و پادشاه واقعی، به عنوان یک راز نهان وجود داشت."
     },
     {
       "VOrder": 18,
@@ -649,7 +658,8 @@
       "Text": "هستی او بود در عین کمون",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: وجود او در درون و باطن خود، فراتر از نام‌ها و ظواهر و همچنین شرایط خاص و بی‌شرط است."
     },
     {
       "VOrder": 20,
@@ -663,7 +673,8 @@
       "VOrder": 21,
       "Position": "Paragraph",
       "Text": "« بیان مراتب وجود »",
-      "CoupletIndex": 11
+      "CoupletIndex": 11,
+      "CoupletSummary": "هوش مصنوعی: این عبارت به توصیف مراحل و درجات مختلف وجود یا هستی می‌پردازد. به عبارتی، می‌خواهد نشان دهد که چطور وجود می‌تواند در سطوح و وضعیت‌های مختلف ظهور کند و مشخصات هر یک از این سطوح چیست. این مفهوم می‌تواند شامل مراحل مختلفی باشد که از موجودات ساده‌تر شروع شده و به موجودات پیچیده‌تر و کامل‌تر ختم می‌شود."
     },
     {
       "VOrder": 22,
@@ -671,7 +682,8 @@
       "Text": "گویم از هستی بیانی در نخست",
       "CoupletIndex": 12,
       "SectionIndex1": 1,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در ابتدا چیزی از وجود می‌گویم که با فهمیدن آن، بتوانی به صحبت‌هایم به درستی پی ببری."
     },
     {
       "VOrder": 23,
@@ -687,7 +699,8 @@
       "Text": "دانش هستی بود باب سرای",
       "CoupletIndex": 13,
       "SectionIndex1": 1,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: آگاهی به وجود، دروازه‌ای است به دنیای درک و فهم. از در وارد شو و به دقت به آنچه می‌بینی توجه کن."
     },
     {
       "VOrder": 25,
@@ -703,7 +716,8 @@
       "Text": "گر نداری ره به تحقیق وجود",
       "CoupletIndex": 14,
       "SectionIndex1": 1,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: اگر به حقیقت وجود دیگر دسترسی نداری، پس تفسیر و برداشت تو چه فایده‌ای دارد؟"
     },
     {
       "VOrder": 27,
@@ -719,7 +733,8 @@
       "Text": "پای ادراکت بود همواره لنگ",
       "CoupletIndex": 15,
       "SectionIndex1": 1,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: به دامان ادراک و فهم خود همیشه ناتوان و ناقص بوده‌ای. پس برای اینکه وجودت را به درستی تجربه کنی، ابتدا باید به موضوع‌ها و واقعیت‌ها چنگ بزنید و آنها را به دست آورید."
     },
     {
       "VOrder": 29,
@@ -735,7 +750,8 @@
       "Text": "ذات باری هستی مطلق بود",
       "CoupletIndex": 16,
       "SectionIndex1": 1,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: وجود خداوند به عنوان وجودی مطلق و بی‌نهایت است و نام‌ها و صفاتی که به او نسبت داده می‌شود، از این وجود خالص ناشی می‌شود."
     },
     {
       "VOrder": 31,
@@ -751,7 +767,8 @@
       "Text": "هستی مطلق بود ذات الاحد",
       "CoupletIndex": 17,
       "SectionIndex1": 1,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: وجود مطلق به گونه‌ای است که ذات یگانه در آن را نمی‌توان به وصف یا حدی محدود کرد."
     },
     {
       "VOrder": 33,
@@ -767,7 +784,8 @@
       "Text": "مطلق از شرط است و پاک از چند و چون",
       "CoupletIndex": 18,
       "SectionIndex1": 1,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این مفهوم اشاره دارد که حقیقت واقعی و مطلق از هر گونه قید و شرط آزاد است و از هر نوع تفکیک و تردید دور است. این حقیقت بالاتر از تمامی ویژگی‌ها و شرایطی است که می‌توان برای آن در نظر گرفت."
     },
     {
       "VOrder": 35,
@@ -783,7 +801,8 @@
       "Text": "قید و اطلاق است دور از حضرتش",
       "CoupletIndex": 19,
       "SectionIndex1": 1,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: در اینجا گفته شده که فاصله گرفتن از محدودیت‌ها و قید و بندها نزد او، بالاتر و ارزشمندتر از هر چیزی است که در مقایسه با او قرار دارد. به عبارتی، نزد او بودن و رهایی از قیود، مرتبه و مقام بالاتری دارد."
     },
     {
       "VOrder": 37,
@@ -799,7 +818,8 @@
       "Text": "نیست او را هیچ شرطی در وجود",
       "CoupletIndex": 20,
       "SectionIndex1": 1,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: او هیچ گونه شرطی برای وجود ندارد و فقط به حالت خود باقی است، همانطور که بود."
     },
     {
       "VOrder": 39,
@@ -815,7 +835,8 @@
       "Text": "هستی دیگر که ظل ذات اوست",
       "CoupletIndex": 21,
       "SectionIndex1": 1,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: وجودی دیگر که در سایه‌ی ذات او قرار دارد، در بروز اولیه‌ی نشانه‌های اوست."
     },
     {
       "VOrder": 41,
@@ -831,7 +852,8 @@
       "Text": "موج اول باشد از دریای ذات",
       "CoupletIndex": 22,
       "SectionIndex1": 1,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: این جمله نشان می‌دهد که نخستین تجلی و ظهور از ذات بیکران خداوند، به واسطه نام‌ها و صفات او شکل می‌گیرد. به عبارت دیگر، اولین موج از عمق وجود خداوند، به مشخصات و ویژگی‌هایی که به او نسبت داده می‌شود، ایجاد می‌شود."
     },
     {
       "VOrder": 43,
@@ -847,7 +869,8 @@
       "Text": "بحر اللّهیت آمد چون به موج",
       "CoupletIndex": 23,
       "SectionIndex1": 1,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: معنای این بیت به این صورت است که وقتی دریای الهی (یا خداوند) به وجود آمد، خلق و انسان‌ها به گونه‌ای از آن جاری شدند و همانند گروه‌های بزرگ، به سوی آن حرکت کردند. به عبارت دیگر، وجود الهی موجی از خلقت را به راه انداخت که انسان‌ها و مخلوقات به سمت آن می‌روند."
     },
     {
       "VOrder": 45,
@@ -863,7 +886,8 @@
       "Text": "در مقام علم عین ممکنات",
       "CoupletIndex": 24,
       "SectionIndex1": 1,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: در دنیای علم، تمامی موجودات ممکن با هم به بررسی و تحلیل پرداخته‌اند و به ثبات و استحکام رسیده‌اند."
     },
     {
       "VOrder": 47,
@@ -879,7 +903,8 @@
       "Text": "عقل اول گشت پیدا در وجود",
       "CoupletIndex": 25,
       "SectionIndex1": 1,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: عقل اولیه در وجود انسان آشکار شد و به خاطر احترام به حقیقت و خداوند، در حال سجده قرار گرفت."
     },
     {
       "VOrder": 49,
@@ -895,7 +920,8 @@
       "Text": "نفس و افلاک و عناصر، روح و جسم",
       "CoupletIndex": 26,
       "SectionIndex1": 1,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: نفس و آسمان‌ها و عناصر، روح و جسم همه به وجود آمده‌اند و هر یک با نام و نشانی خاص شناخته می‌شوند."
     },
     {
       "VOrder": 51,
@@ -911,7 +937,8 @@
       "Text": "شمس رحمانیّتش افکند ظل",
       "CoupletIndex": 27,
       "SectionIndex1": 1,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: نور مهر شمس باعث شد که هر موجودی سایه‌ای از وجود خود بیافکند و به قدری مستقل شود که خود را نشان دهد."
     },
     {
       "VOrder": 53,
@@ -927,7 +954,8 @@
       "Text": "بحر رحمت ، کِشتِ خود را داد آب",
       "CoupletIndex": 28,
       "SectionIndex1": 1,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: دریای رحمت، با آب فراوان به گیاهان و محصولات خود زندگی بخشید و هر چیزی از نعمت‌های آن بهره‌مند شد."
     },
     {
       "VOrder": 55,
@@ -943,7 +971,8 @@
       "Text": "معنی رحمان علی العرش استوی",
       "CoupletIndex": 29,
       "SectionIndex1": 1,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که اگر به مفهوم عمیق و واقعی «رحمان» توجه داشته باشی، درک می‌کنی که او در جایگاه والایی قرار دارد. "
     },
     {
       "VOrder": 57,
@@ -957,7 +986,8 @@
       "VOrder": 58,
       "Position": "Paragraph",
       "Text": "« در تحقیق فی ستة ایام »",
-      "CoupletIndex": 30
+      "CoupletIndex": 30,
+      "CoupletSummary": "هوش مصنوعی: موضوع مورد بررسی در این تحقیق، به چگونگی انجام کارها و فعالیت‌ها در طول شش روز مربوط می‌شود. این بررسی می‌تواند شامل جنبه‌های مختلفی مانند سازماندهی زمان، خصوصیات انجام کارها و تأثیرات آن‌ها بر روی افراد و محیط باشد. هدف اصلی این تحقیق ممکن است بهبود روند کار و افزایش کارایی در این بازه زمانی باشد."
     },
     {
       "VOrder": 59,
@@ -965,7 +995,8 @@
       "Text": "خلق اشیاء جمله را شش روز کرد",
       "CoupletIndex": 31,
       "SectionIndex1": 2,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: خداوند در شش روز تمام موجودات را آفرید و روزی که آفریدن آنها به پایان رسید، آن را به دلایل مختلف روشن و خوش‌یمن قرار داد."
     },
     {
       "VOrder": 60,
@@ -981,7 +1012,8 @@
       "Text": "گر تو را گوید کس از وسواس و شک",
       "CoupletIndex": 32,
       "SectionIndex1": 2,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی به تو بگوید که وسواس و شک باعث مشکل و نگرانی می‌شود، باید بدانی که این احساسات می‌تواند روز و شب تو را آزار بدهد و ذهن تو را از آرامش دور کند."
     },
     {
       "VOrder": 62,
@@ -997,7 +1029,8 @@
       "Text": "اندر آن حضرت نه شب بود و نه روز",
       "CoupletIndex": 33,
       "SectionIndex1": 2,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: در آن مکان نه شب وجود داشت و نه روز، بلکه بهاری بود که نه خریف داشت و نه تموز."
     },
     {
       "VOrder": 64,
@@ -1013,7 +1046,8 @@
       "Text": "پس مراد از خلقت شش روز چیست",
       "CoupletIndex": 34,
       "SectionIndex1": 2,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: مراد از خلق کردن در شش روز چیست، در حالی که در آن‌جا نه شب وجود دارد و نه روز."
     },
     {
       "VOrder": 66,
@@ -1029,7 +1063,8 @@
       "Text": "گو مراد از «ستّه» باشد شش مقام",
       "CoupletIndex": 35,
       "SectionIndex1": 2,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: اگر منظور از «ستّه» شش مقام باشد، آنگاه در این شش رتبه، آفرینش به کمال خود رسیده است."
     },
     {
       "VOrder": 68,
@@ -1045,7 +1080,8 @@
       "Text": "رتبۀ اول شد اسماء و صفات",
       "CoupletIndex": 36,
       "SectionIndex1": 2,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: اسماء و صفات در مرتبه اول قرار دارند و موجودات دیگر در مرتبه‌های بعدی به وجود آمده‌اند."
     },
     {
       "VOrder": 70,
@@ -1061,7 +1097,8 @@
       "Text": "سیّمین جبروت و رابع در فتوح",
       "CoupletIndex": 37,
       "SectionIndex1": 2,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: در دنیای معنوی، اگر روح را در وجود خود داری، قدرتهای عظیم و پیروزی‌های بزرگ به دست می‌آوری. در حقیقت، سروری و سلطنت در عالم ملکوت به این وابسته است که روحی در وجود تو باشد."
     },
     {
       "VOrder": 72,
@@ -1077,7 +1114,8 @@
       "Text": "رتبۀ پنجم مثال آمد به اسم",
       "CoupletIndex": 38,
       "SectionIndex1": 2,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: در مرتبه پنجم، مثال‌هایی به نام وجود دارد که در مرتبه ششم، مربوط به ملک شهود و معنای جسم هستند."
     },
     {
       "VOrder": 74,
@@ -1093,7 +1131,8 @@
       "Text": "از بیان «ستّه» مقصود این شش است",
       "CoupletIndex": 39,
       "SectionIndex1": 2,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: مقصود از این سخن، چیزی است مرتبط با شش خاصیت یا ویژگی، که نور حقیقت از این شش جهت می‌تابد و درخشندگی دارد."
     },
     {
       "VOrder": 76,
@@ -1109,7 +1148,8 @@
       "Text": "نکتۀ بکرِ خوش و روحانی ای",
       "CoupletIndex": 40,
       "SectionIndex1": 2,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: اگر بتوانی به درستی درک کنی، نکته‌ای تازه و زیبا برایت دارم که از روحانیت و لطافت خاصی برخوردار است."
     },
     {
       "VOrder": 78,
@@ -1125,7 +1165,8 @@
       "Text": "«هو» که باشد نام آن ذات الاحد",
       "CoupletIndex": 41,
       "SectionIndex1": 2,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: «هو» نامی است برای آن موجود یکتایی که در عالم وجود دارد، اگر به عدد دقت کنی، به عدد یازده می‌رسد."
     },
     {
       "VOrder": 80,
@@ -1141,7 +1182,8 @@
       "Text": "شش برابر چون یکی با ده شود",
       "CoupletIndex": 42,
       "SectionIndex1": 2,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: وقتی که شش برابر به یکی تبدیل شود، به حقیقت مطلق دست می‌یابیم و فقط خداوند باقی می‌ماند."
     },
     {
       "VOrder": 82,
@@ -1157,7 +1199,8 @@
       "Text": "مظهر الله عین خاتم است",
       "CoupletIndex": 43,
       "SectionIndex1": 2,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: این شعر به وجود شخصیتی اشاره دارد که تجلی‌گاه خداوند است و به نوعی آخرین حلقه و مرکزیت عالم به شمار می‌رود. او مرکز روح و جان جهان محسوب می‌شود و نقشی اساسی در هستی دارد."
     },
     {
       "VOrder": 84,
@@ -1173,7 +1216,8 @@
       "Text": "هستی کون و مکان ز اِنعام اوست",
       "CoupletIndex": 44,
       "SectionIndex1": 2,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: وجود جهان و مکان به خاطر بخشندگی و نعمت اوست و نام احمد (پیامبر اسلام) در این دور و زمانه، بر سر زبان‌هاست."
     },
     {
       "VOrder": 86,
@@ -1189,7 +1233,8 @@
       "Text": "فیض رحمانی بر اشیاء شد چو تام",
       "CoupletIndex": 45,
       "SectionIndex1": 2,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: پس از اینکه فیض رحمانی به همه چیز رسید، گفت: از فیض رحیمی بر مخلوقات نیکوکار بهره‌مند شد."
     },
     {
       "VOrder": 88,
@@ -1205,7 +1250,8 @@
       "Text": "فیض رحمانی بر اشیاء شد عمیم",
       "CoupletIndex": 46,
       "SectionIndex1": 2,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: رحمت و لطف الهی به همه موجودات جاری است، ولی این نعمت خاص پیامبر احمد (ص) است که به صورت ویژه‌ای مورد توجه قرار دارد و نشانه رحمت خاص اوست."
     },
     {
       "VOrder": 90,
@@ -1221,7 +1267,8 @@
       "Text": "رحمت رحمانیش بر ممکنات",
       "CoupletIndex": 47,
       "SectionIndex1": 2,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: خداوند با رحمت وسیع خود به تمام موجودات زندگی و وجود بخشیده است، هر کجا که ثابت و استوار باشند."
     },
     {
       "VOrder": 92,
@@ -1237,7 +1284,8 @@
       "Text": "رحمت خاص رحیمی بر خواص",
       "CoupletIndex": 48,
       "SectionIndex1": 2,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: رحمت ویژه‌ای از سوی خداوند بر افرادی خاص در مسیر بالا رفتن و پیشرفت نازل شده است."
     },
     {
       "VOrder": 94,
@@ -1253,7 +1301,8 @@
       "Text": "مجملی بود این ز شرح بسمله",
       "CoupletIndex": 49,
       "SectionIndex1": 2,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: این گفته به این معناست که برای شرح و توضیح یک موضوع که به نظر مختصر و ساده می‌آید، نیاز به صرف زمان و حوصله بیشتری داریم تا بتوانیم آن را به طور کامل و دقیق بیان کنیم."
     },
     {
       "VOrder": 96,

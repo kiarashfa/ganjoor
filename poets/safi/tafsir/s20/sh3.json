@@ -45,9 +45,9 @@
       "Number": 3,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "و",
-      "PlainText": "روزی اندر کودکی برکند او\r\nدر کنارش ریش فرعون عدو",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروزی اندر کودکی برکند او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر کنارش ریش فرعون عدو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ر",
+      "PlainText": "مر فرو ریزم بدان برگ از شجر\r\nاز برای گوسفندان گاه خور",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمر فرو ریزم بدان برگ از شجر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز برای گوسفندان گاه خور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -55,19 +55,9 @@
       "Number": 3,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ر",
-      "PlainText": "مر فرو ریزم بدان برگ از شجر\r\nاز برای گوسفندان گاه خور",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمر فرو ریزم بدان برگ از شجر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز برای گوسفندان گاه خور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
-    },
-    {
-      "Index": 4,
-      "Number": 4,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ان",
-      "PlainText": "هست حاجت های دیگر هم بدان\r\nبهر من در این عصا از هر نشان",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهست حاجت های دیگر هم بدان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهر من در این عصا از هر نشان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "و",
+      "PlainText": "روزی اندر کودکی برکند او\r\nدر کنارش ریش فرعون عدو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروزی اندر کودکی برکند او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر کنارش ریش فرعون عدو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -81,13 +71,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 5,
-      "Number": 5,
+      "Index": 4,
+      "Number": 4,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "یه",
-      "PlainText": "بینم او را این نشان در ناصیه\r\nعذر پس زو خواست در دم آسیه",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبینم او را این نشان در ناصیه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعذر پس زو خواست در دم آسیه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ان",
+      "PlainText": "هست حاجت های دیگر هم بدان\r\nبهر من در این عصا از هر نشان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهست حاجت های دیگر هم بدان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهر من در این عصا از هر نشان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -101,13 +91,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 6,
-      "Number": 6,
+      "Index": 5,
+      "Number": 5,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ر",
-      "PlainText": "می شتابید از هر آن سو چون شتر\r\nهر کسی از دیدنش بد زهره بر",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی شتابید از هر آن سو چون شتر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر کسی از دیدنش بُد زهره بُر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "یه",
+      "PlainText": "بینم او را این نشان در ناصیه\r\nعذر پس زو خواست در دم آسیه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبینم او را این نشان در ناصیه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعذر پس زو خواست در دم آسیه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -121,13 +111,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 7,
-      "Number": 7,
+      "Index": 6,
+      "Number": 6,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "است",
-      "PlainText": "دست افکند این نشان کودکی است\r\nور نه خصمی با تو اش در یاد نیست",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدست افکند این نشان کودکی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور نه خصمی با تو اش در یاد نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ر",
+      "PlainText": "می شتابید از هر آن سو چون شتر\r\nهر کسی از دیدنش بد زهره بر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی شتابید از هر آن سو چون شتر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر کسی از دیدنش بُد زهره بُر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -141,13 +131,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 8,
-      "Number": 8,
+      "Index": 7,
+      "Number": 7,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "یز",
-      "PlainText": "چونکه موسی دید آن جنبنده نیز\r\nرو نهاد از دیدن او بر گریز",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچونکه موسی دید آن جنبنده نیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرو نهاد از دیدن او بر گریز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "است",
+      "PlainText": "دست افکند این نشان کودکی است\r\nور نه خصمی با تو اش در یاد نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدست افکند این نشان کودکی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور نه خصمی با تو اش در یاد نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -161,13 +151,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 9,
-      "Number": 9,
+      "Index": 8,
+      "Number": 8,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "رش",
-      "PlainText": "آتش آوردند و لؤلؤ در برش\r\nبرد کف جبریل سوی آذرش",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآتش آوردند و لؤلؤ در برش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرد کف جبریل سوی آذرش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "یز",
+      "PlainText": "چونکه موسی دید آن جنبنده نیز\r\nرو نهاد از دیدن او بر گریز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچونکه موسی دید آن جنبنده نیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرو نهاد از دیدن او بر گریز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -181,13 +171,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 10,
-      "Number": 10,
+      "Index": 9,
+      "Number": 9,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "یش",
-      "PlainText": "مطمین شد زآن خطاب و رفت پیش\r\nبرگرفتش شد همان بر شکل خویش",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمطمئن شد زآن خطاب و رفت پیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرگرفتش شد همان بر شکل خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "رش",
+      "PlainText": "آتش آوردند و لؤلؤ در برش\r\nبرد کف جبریل سوی آذرش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآتش آوردند و لؤلؤ در برش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرد کف جبریل سوی آذرش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -201,13 +191,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 11,
-      "Number": 11,
+      "Index": 10,
+      "Number": 10,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ست",
-      "PlainText": "در تکلم بود زآن آزار سست\r\nکس نفهمیدی کلامش را درست",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر تکلم بود زآن آزار، سست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکس نفهمیدی کلامش را درست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "یش",
+      "PlainText": "مطمین شد زآن خطاب و رفت پیش\r\nبرگرفتش شد همان بر شکل خویش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمطمئن شد زآن خطاب و رفت پیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرگرفتش شد همان بر شکل خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -221,13 +211,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 12,
-      "Number": 12,
+      "Index": 11,
+      "Number": 11,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ا",
-      "PlainText": "که گریزی از عصای خود چرا\r\nاین همان باشد که بودت متکا",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه گریزی از عصای خود چرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین همان باشد که بودت متکا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ست",
+      "PlainText": "در تکلم بود زآن آزار سست\r\nکس نفهمیدی کلامش را درست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر تکلم بود زآن آزار، سست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکس نفهمیدی کلامش را درست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -241,13 +231,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 13,
-      "Number": 13,
+      "Index": 12,
+      "Number": 12,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ن",
-      "PlainText": "هم مرا گردان وزیری ز اهل من\r\nتا که باشد پشت من در هر محن",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم مرا گردان وزیری ز اهل من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا که باشد پشت من در هر محن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ا",
+      "PlainText": "که گریزی از عصای خود چرا\r\nاین همان باشد که بودت متکا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه گریزی از عصای خود چرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین همان باشد که بودت متکا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -261,13 +251,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 14,
-      "Number": 14,
+      "Index": 13,
+      "Number": 13,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "یش",
-      "PlainText": "بر فرو بر پهلوی خود دست خویش\r\nپس برون آید سفید آن نی چو پیش",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر فرو بر پهلوی خود دست خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس برون آید سفید آن نی چو پیش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ن",
+      "PlainText": "هم مرا گردان وزیری ز اهل من\r\nتا که باشد پشت من در هر محن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم مرا گردان وزیری ز اهل من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا که باشد پشت من در هر محن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -281,13 +271,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 15,
-      "Number": 15,
+      "Index": 14,
+      "Number": 14,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "یک",
-      "PlainText": "تا که اندر کار من باشد شریک\r\nبهر خود زو به نبینم یار نیک",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا که اندر کار من باشد شریک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهر خود زو بِه نبینم یار نیک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "یش",
+      "PlainText": "بر فرو بر پهلوی خود دست خویش\r\nپس برون آید سفید آن نی چو پیش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر فرو بر پهلوی خود دست خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس برون آید سفید آن نی چو پیش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -298,6 +288,16 @@
       "RhymeLetters": "ص",
       "PlainText": "هم به غیر سوء یعنی نه از برص\r\nباشد آنت آیت دیگر به نص",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم به غَیرِ سُوء یعنی نه از برص\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباشد آنت آیت دیگر به نص\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 15,
+      "Number": 15,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یک",
+      "PlainText": "تا که اندر کار من باشد شریک\r\nبهر خود زو به نبینم یار نیک",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا که اندر کار من باشد شریک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهر خود زو بِه نبینم یار نیک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -406,13 +406,15 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "وَ مٰا تِلْکَ بِیَمِینِکَ یٰا مُوسیٰ (۱۷) قٰالَ هِیَ عَصٰایَ أَتَوَکَّؤُا عَلَیْهٰا وَ أَهُشُّ بِهٰا عَلیٰ غَنَمِی وَ لِیَ فِیهٰا مَآرِبُ أُخْریٰ (۱۸) قٰالَ أَلْقِهٰا یٰا مُوسیٰ (۱۹) فَأَلْقٰاهٰا فَإِذٰا هِیَ حَیَّةٌ تَسْعیٰ (۲۰) قٰالَ خُذْهٰا وَ لاٰ تَخَفْ سَنُعِیدُهٰا سِیرَتَهَا اَلْأُولیٰ (۲۱) وَ اُضْمُمْ یَدَکَ إِلیٰ جَنٰاحِکَ تَخْرُجْ بَیْضٰاءَ مِنْ غَیْرِ سُوءٍ آیَةً أُخْریٰ (۲۲) لِنُرِیَکَ مِنْ آیٰاتِنَا اَلْکُبْریٰ (۲۳) اِذْهَبْ إِلیٰ فِرْعَوْنَ إِنَّهُ طَغیٰ (۲۴) قٰالَ رَبِّ اِشْرَحْ لِی صَدْرِی (۲۵) وَ یَسِّرْ لِی أَمْرِی (۲۶) وَ اُحْلُلْ عُقْدَةً مِنْ لِسٰانِی (۲۷) یَفْقَهُوا قَوْلِی (۲۸) وَ اِجْعَلْ لِی وَزِیراً مِنْ أَهْلِی (۲۹) هٰارُونَ أَخِی (۳۰) اُشْدُدْ بِهِ أَزْرِی (۳۱) وَ أَشْرِکْهُ فِی أَمْرِی (۳۲) کَیْ نُسَبِّحَکَ کَثِیراً (۳۳) وَ نَذْکُرَکَ کَثِیراً (۳۴) إِنَّکَ کُنْتَ بِنٰا بَصِیراً (۳۵)",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: خدا از موسی پرسید که در دست راستت چه چیزی داری؟ موسی گفت: این عصای من است که به آن تکیه می‌زنم و با آن بر گوسفندانم می‌زنم و کارهای دیگری نیز با آن انجام می‌دهم. خدا به او گفت: آن را بینداز. وقتی موسی عصا را انداخت، ناگهان تبدیل به یک مار بزرگ شد. خدا به او گفت: آن را بگیر و نترس، ما آن را به حالت اولش برمی‌گردانیم. همچنین دستت را به زیر بغل خود بگذار تا بدون آسیب، سفید و درخشان بیرون آید، این هم نشانه‌ای دیگر است تا نشانه‌های بزرگ ما را به تو نشان دهیم. سپس خدا به موسی فرمود که به سوی فرعون برو، او طغیانگر شده است. موسی از خدا درخواست کرد که صدایش را باز کند و کارش را آسان کند و گره‌ای از زبانش باز کند تا مردم سخنانش را درک کنند. او همچنین خواست که برایش یک وزیر از خانواده‌اش، یعنی هارون برادرش، قرار دهد تا او را در کارهایش یاری کند و با هم لحظات زیادی خدا را تسبیح و یاد کنند، زیرا خدا به حال آنها آگاه است."
     },
     {
       "VOrder": 2,
       "Position": "Paragraph",
       "Text": "و چیست اینکه در دست راست تو است ای موسی (۱۷) گفت آن عصای من است تکیه می‌کنم بر آن و فرو می‌ریزم برگ درختان را بر گوسفندم و مراست در آن مطالب دیگر (۱۸) گفت بیندازش ای موسی (۱۹) پس انداخت آن را پس آن‌گاه ماری بود که می‌شتافت (۲۰) گفت بگیرش و مترس زود باشد که باز دهیم او را خلقتش را که اول بود (۲۱) و به‌بند دستت را ببالت یا گریبانت که بیرون می‌آید سفید نورانی از غیر بدی که آیت دیگر است (۲۲) تا بنمایم ترا از آیتهای ما که بزرگ است (۲۳) برو بسوی فرعون بدرستی که او زیاده‌روی در عصیان (۲۴) گفت پروردگارا گشاده کن برای من سینه‌ام را (۲۵) و آسان کن برای من کارم را (۲۶) و بگشای گره از زبان من (۲۷) که بفهمند گفتار مرا (۲۸) و بگردان برای من وزیری از اهلم (۲۹) هارون برادرام را (۳۰) قوی ساز باو پشتم را (۳۱) و انباز کن او را در کار من (۳۲) تا تسبیح گوئیم ترا بسیار (۳۳) و یاد کنیم ترا بسیار (۳۴) بدرستی که تو هستی بحال ما بینا (۳۵)",
-      "CoupletIndex": 1
+      "CoupletIndex": 1,
+      "CoupletSummary": "هوش مصنوعی: ای موسی، آنچه در دست راست توست چیست؟ موسی جواب داد: این عصای من است که بر آن تکیه می‌زنم و با آن برگ‌های درختان را بر گوسفندم می‌ریزم. همچنین شما در آن چیزهای دیگری هم می‌بینید. به او گفتند: آن را بیفکن. موسی عصا را انداخت و ناگهان آن تبدیل به ماری شد که به سرعت حرکت می‌کرد. به او گفتند: آن را بگیر و نترس، ما به زودی آن را به شکل اولیه‌اش برمی‌گردانیم. همچنین دستت را به سینه‌ات بچسبان، وقتی خارج می‌شود، سفید و درخشان خواهد بود، بدون اینکه عیب و نقصی داشته باشد. این یک آیت دیگر است تا نشانه‌های بزرگ ما را به تو نشان دهیم. به سوی فرعون برو، زیرا او در راه گمراهی به حد افراطی رسیده است. موسی گفت: پروردگارا، سینه‌ام را برای من گشاده کن و کارم را برایم آسان ساز. گره از زبان من باز کن تا سخنانم را درک کنند. همچنین برای من وزیری از خانواده‌ام برگزین، یعنی هارون برادرانم را. او را تقویت کن تا به من کمک کند و تا به تسبیح تو بپردازیم و بسیار به یاد تو باشیم، زیرا تو بر حال ما آگاه هستی."
     },
     {
       "VOrder": 3,
@@ -420,7 +422,8 @@
       "Text": "چیست ای موسی تو را بر دست راست",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای موسی، چه چیزی باعث شده که به سمت راست اشاره کنی؟ موسی پاسخ می‌دهد که تکیه‌گاه من عصای من است."
     },
     {
       "VOrder": 4,
@@ -436,7 +439,8 @@
       "Text": "مر فرو ریزم بدان برگ از شجر",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: من به خاطر گوسفندان، برگ‌های درخت را به زمین می‌ریزم تا آنها در هنگام خوراکشان از آن بهره ببرند."
     },
     {
       "VOrder": 6,
@@ -452,7 +456,8 @@
       "Text": "هست حاجت های دیگر هم بدان",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در این عصا نشانه‌های دیگری هم وجود دارد که برای من اهمیت دارد و نیازهای دیگری نیز دارم."
     },
     {
       "VOrder": 8,
@@ -468,7 +473,8 @@
       "Text": "گفت ای موسی بینداز این عصا",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: گفتند ای موسی، این عصا را بینداز. وقتی او عصا را انداخت، در همان لحظه به اژدهایی تبدیل شد."
     },
     {
       "VOrder": 10,
@@ -484,7 +490,8 @@
       "Text": "می شتابید از هر آن سو چون شتر",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: همه از هر طرف به سرعت می‌آمدند و مانند شتر شتاب می‌کردند، زیرا هر کسی که او را می‌دید، غرق در حیرت و شگفتی می‌شد."
     },
     {
       "VOrder": 12,
@@ -500,7 +507,8 @@
       "Text": "زیر پایش نرم گشتی سنگ سخت",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: زیر پای او، سنگ‌های سخت نرم شدند و به ریشه درختان آسیب رساندند تا آنها را از بین ببرند."
     },
     {
       "VOrder": 14,
@@ -516,7 +524,8 @@
       "Text": "چونکه موسی دید آن جنبنده نیز",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: وقتی موسی آن موجود را دید، آن موجود به خاطر دیدن او فرار کرد."
     },
     {
       "VOrder": 16,
@@ -532,7 +541,8 @@
       "Text": "قَالَ خُذهَا لَاتَخَف باشد که زود",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: فرمود: بگیرش، نترس، زیرا به زودی آن را به حالت اولش برمی‌گردانم."
     },
     {
       "VOrder": 18,
@@ -548,7 +558,8 @@
       "Text": "مطمئن شد زآن خطاب و رفت پیش",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: او از آن پیام مطمئن شد و رفت جلو، و وقتی برگشت، به همان شکل قبلی خود درآمد."
     },
     {
       "VOrder": 20,
@@ -564,7 +575,8 @@
       "Text": "هست مروی کرد چون موسی فرار",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: مرو به مانند موسی، از اژدها فرار می‌کند. در آن لحظه، خداوند به او گفت."
     },
     {
       "VOrder": 22,
@@ -580,7 +592,8 @@
       "Text": "که گریزی از عصای خود چرا",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: چرا از عصای خود فرار کنی، در حالی که همین چیز است که برای تو همانند بالش می‌باشد؟"
     },
     {
       "VOrder": 24,
@@ -596,7 +609,8 @@
       "Text": "تا بدانی جز به حق در هر نمط",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: برای اینکه متوجه شوی، فقط با حقیقت می‌توان در هر موضوعی اعتماد کرد، و گرنه پیمان بستن به چیزهای دیگر فقط به نواقص و اشتباهات می‌انجامد."
     },
     {
       "VOrder": 26,
@@ -612,7 +626,8 @@
       "Text": "بر فرو بر پهلوی خود دست خویش",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: با دست بر پهلو گذاشتن خود، نی سفید رنگی از آن بیرون می‌آید همان‌طور که قبلاً نیز دیده شده است."
     },
     {
       "VOrder": 28,
@@ -628,7 +643,8 @@
       "Text": "هم به غَیرِ سُوء یعنی نه از برص",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: این شعر به معنای این است که وجود تو نشانه‌ای از خوبی و زیبایی است و نه از عیب و نقص. در واقع، تو از آنچه که می‌تواند بد باشد، مبرایی و نمونه‌ای از کمال و نیکویی هستی."
     },
     {
       "VOrder": 30,
@@ -644,7 +660,8 @@
       "Text": "تا که بنماییمت از آیات خویش",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: من به تو نشانه‌هایی از قدرت خود را نشان خواهم داد که باعث شگفتی و حیرت تو شود."
     },
     {
       "VOrder": 32,
@@ -660,7 +677,8 @@
       "Text": "رو به این دو معجزه بهر رشد",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: این دو معجزه به سمت پیشرفت و رشد در حال حرکت است و فرعون از مرزها و محدودیت‌های خود عبور کرده است."
     },
     {
       "VOrder": 34,
@@ -676,7 +694,8 @@
       "Text": "با خود اندیشید موسی کز عناد",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: موسی به این فکر کرد که چگونه می‌تواند در برابر تعصب و لجاجت من مقاومت کند."
     },
     {
       "VOrder": 36,
@@ -692,7 +711,8 @@
       "Text": "با چنین لکنت که دارم بر زبان",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: با وجود لکنتی که دارم، نمی‌توانم به خوبی صحبت کنم و احساس ناتوانی و فقر می‌کنم."
     },
     {
       "VOrder": 38,
@@ -708,7 +728,8 @@
       "Text": "گفت یا رب شرح صدرم ده که تا",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: خداوندا، به من وسیع‌صدر بده تا بتوانم رازها و نکته‌های فراوانی را در درون خود جای دهم."
     },
     {
       "VOrder": 40,
@@ -724,7 +745,8 @@
       "Text": "طاقت و صبرم شود یعنی فزون",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: تحمل و صبرم به حدی می‌رسد که توانم را بیشتر می‌کند و باعث می‌شود که کافر را ذلیل و شکست‌خورده کنم."
     },
     {
       "VOrder": 42,
@@ -740,7 +762,8 @@
       "Text": "نزد سختیها نگردم تنگدل",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: در برابر دشواری‌ها دلسرد نخواهم شد و از مسائل مهم زندگی بازنخواهم ماند."
     },
     {
       "VOrder": 44,
@@ -756,7 +779,8 @@
       "Text": "هم تو آسان ساز بر من کار من",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: هم تو برای من کارهایم را آسان کن و هم سخنانم را به خوبی به آنها منتقل کن."
     },
     {
       "VOrder": 46,
@@ -772,7 +796,8 @@
       "Text": "از زبانم عقده بگشا تا کنند",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: می‌گوید که از زبانی که دارم، رازها و نگرانی‌هایم را بیرون بیاور تا دیگران بتوانند سخن‌هایم را به گونه‌ای جذاب و دلنشین درک کنند."
     },
     {
       "VOrder": 48,
@@ -786,7 +811,8 @@
       "VOrder": 49,
       "Position": "Paragraph",
       "Text": "« در بیان کندن موسی(ع) ریش فرعون را در کودکی »",
-      "CoupletIndex": 25
+      "CoupletIndex": 25,
+      "CoupletSummary": "هوش مصنوعی: روزی که موسی(ع) در دوران کودکی، به دربار فرعون رفت، اتفاق عجیبی افتاد. او در حین بازی با دیگر بچه‌ها، به طرف فرعون رفت و ناگهان ریش او را کشید. این عمل، نشانه‌ای از قدرت و اراده الهی بود که می‌خواست نشان دهد موسی آینده‌ای بزرگ خواهد داشت و باید با فرعون که به ظلم و فساد شناخته می‌شود، مقابله کند. این حادثه به عنوان نشانه‌ای از حکمت و نصرت خداوند تلقی شد که تاثیرات عمیقی بر سرنوشت موسی و مصر خواهد داشت."
     },
     {
       "VOrder": 50,
@@ -794,7 +820,8 @@
       "Text": "روزی اندر کودکی برکند او",
       "CoupletIndex": 26,
       "SectionIndex1": 1,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: روزی در دوران کودکی، او توانست ریش فرعون، دشمن خود را بکند."
     },
     {
       "VOrder": 51,
@@ -810,7 +837,8 @@
       "Text": "گفت این است آنکه گویند از نجوم",
       "CoupletIndex": 27,
       "SectionIndex1": 1,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: او گفت که این همان چیزی است که در نجوم می‌گویند؛ دشمن من به قدرتی می‌رسد که بر من حمله‌ور خواهد شد."
     },
     {
       "VOrder": 53,
@@ -826,7 +854,8 @@
       "Text": "بینم او را این نشان در ناصیه",
       "CoupletIndex": 28,
       "SectionIndex1": 1,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: من او را می‌بینم که در پیشانیش نشانه‌ای از عذر و بخشش وجود دارد، پس از او در آن لحظه درخواست بخشایش می‌کنم."
     },
     {
       "VOrder": 55,
@@ -842,7 +871,8 @@
       "Text": "کاین بود کودک چه داند مهر و کین",
       "CoupletIndex": 29,
       "SectionIndex1": 1,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: کودک چه می‌داند از عشق و نفرت، این حالتی که تو داری ناشی از پر بودن جواهراتت است."
     },
     {
       "VOrder": 57,
@@ -858,7 +888,8 @@
       "Text": "دست افکند این نشان کودکی است",
       "CoupletIndex": 30,
       "SectionIndex1": 1,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: این شعر به این معناست که اگر کسی به تو بی‌احترامی می‌کند یا خصومتی با تو دارد، باید بدانید که این رفتار ناشی از ناپختگی اوست و او در واقع هیچ دشمنی با تو ندارد. این نشان می‌دهد که به سادگی و بی‌تجربگی او توجه کن و از رفتار او آزرده نشو."
     },
     {
       "VOrder": 59,
@@ -874,7 +905,8 @@
       "Text": "آتش ار باشد کند دست اندر آن",
       "CoupletIndex": 31,
       "SectionIndex1": 1,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: اگر آتش باشد و کسی دست به آن بزند، چون شعله‌اش را واضح ببیند، باید احتیاط کند."
     },
     {
       "VOrder": 61,
@@ -890,7 +922,8 @@
       "Text": "آتش آوردند و لؤلؤ در برش",
       "CoupletIndex": 32,
       "SectionIndex1": 1,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: آتش را به همراه لؤلؤ (مروارید) آوردند و جبریل (فرشته مقرب) به سمت آتش رفت."
     },
     {
       "VOrder": 63,
@@ -906,7 +939,8 @@
       "Text": "در دهان برد و زبانش سوخت زآن",
       "CoupletIndex": 33,
       "SectionIndex1": 1,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: او در دلش یک ناراحتی و عقده ای دارد که باعث می‌شود وقتی درباره‌اش صحبت می‌کند، زبانش به زحمت می‌افتد و خود را اذیت می‌کند."
     },
     {
       "VOrder": 65,
@@ -922,7 +956,8 @@
       "Text": "در تکلم بود زآن آزار، سست",
       "CoupletIndex": 34,
       "SectionIndex1": 1,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: در صحبت کردن، زیرا که آزار می‌داد، هیچ کس نتوانست به درستی حرف او را درک کند."
     },
     {
       "VOrder": 67,
@@ -938,7 +973,8 @@
       "Text": "گفت زآن یا رب تو بگشا این گِره",
       "CoupletIndex": 35,
       "SectionIndex1": 1,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: ای پروردگار، این مشکل را حل کن و زبان من را به گونه‌ای باز کن که بتوانم سخن بگویم."
     },
     {
       "VOrder": 69,
@@ -954,7 +990,8 @@
       "Text": "هم مرا گردان وزیری ز اهل من",
       "CoupletIndex": 36,
       "SectionIndex1": 1,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: مرا به عنوان وزیری از میان نزدیکانم برگزین تا در هر سختی و مشکلی پشتوانه‌ام باشد."
     },
     {
       "VOrder": 71,
@@ -970,7 +1007,8 @@
       "Text": "هست هارونم برادر زآن مرا",
       "CoupletIndex": 37,
       "SectionIndex1": 1,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: من نیز مانند هارون برادرم هستم، پس از من حمایت کن و در این ماجرا به من کمک کن."
     },
     {
       "VOrder": 73,
@@ -986,7 +1024,8 @@
       "Text": "تا که اندر کار من باشد شریک",
       "CoupletIndex": 38,
       "SectionIndex1": 1,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که کسی در کار من شریک باشد و به فکر من نباشد، من هیچ دوستی را خوب نمی‌بینم."
     },
     {
       "VOrder": 75,
@@ -1002,7 +1041,8 @@
       "Text": "کَی نُسَبِّحَکَ وَ نَذکُرَکَ کَثِیره",
       "CoupletIndex": 39,
       "SectionIndex1": 1,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: کی وقت آن است که ما با شوق و زبانی پر از یاد تو، تو را ستایش کنیم و به یاد تو بپردازیم؟ زیرا تو، ای پروردگار ما، همیشه به احوال ما آگاه بوده‌ای."
     },
     {
       "VOrder": 77,

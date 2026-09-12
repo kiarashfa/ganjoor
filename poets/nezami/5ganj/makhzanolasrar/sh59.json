@@ -181,7 +181,8 @@
       "Text": "در چمن باغ چو گلبن شکفت",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هنگامی که بوته گل شکفت‌، بلبلی به باز گفت."
     },
     {
       "VOrder": 2,
@@ -197,7 +198,8 @@
       "Text": "کز همه مرغان توی‌ِ خاموش‌سار",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "در میان همه مرغان چرا تو که خاموشی‌، گوی شاهی ربوده‌ای؟"
     },
     {
       "VOrder": 4,
@@ -213,7 +215,8 @@
       "Text": "تا توی لب‌بسته گشادی نفس",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "از روزی که بوده‌ای یک سخن بدیع نگفته‌ای"
     },
     {
       "VOrder": 6,
@@ -229,7 +232,8 @@
       "Text": "منزل تو دستگه سنجری",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "اما جای تو بر دست شاه است و خوراکت سینه کبک."
     },
     {
       "VOrder": 8,
@@ -245,7 +249,8 @@
       "Text": "من که به یک چشم‌زد از کان غیب",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "ولی من که در یک آن از نهان غیب‌، گوهرهای بدیع بیرون می‌کشم."
     },
     {
       "VOrder": 10,
@@ -261,7 +266,8 @@
       "Text": "طعمهٔ من کرم شکاری چراست‌؟",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "چرا خوراک من کرم است و لانه من بر سر خار؟"
     },
     {
       "VOrder": 12,
@@ -277,7 +283,8 @@
       "Text": "باز بدو گفت همه گوش باش",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "باز او را گفت‌: بشنو، خامشی مرا ببین و خاموش باش."
     },
     {
       "VOrder": 14,
@@ -293,7 +300,8 @@
       "Text": "من که شدم کارشناس اندکی",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "من که اندکی دانا شدم، صد کنم و باز نگویم یکی را."
     },
     {
       "VOrder": 16,
@@ -309,7 +317,8 @@
       "Text": "رو که تویی شیفتهٔ روزگار",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "رو که تو شیفته و فریب‌خورده دنیای زود‌گذر شده‌ای؛ یکی ناکرده و هزار گویی."
     },
     {
       "VOrder": 18,
@@ -325,7 +334,8 @@
       "Text": "من که همه معنیَم، این صیدگاه",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "من که با همه وجود‌، معنا شده‌ام‌، این شکارگاه، مرا دست شاه و سینه کبک داده است."
     },
     {
       "VOrder": 20,
@@ -341,7 +351,8 @@
       "Text": "چون تو همه زخم زبانی تمام",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "چون تو همه زخم‌زبان و طعنه هستی‌، کرم خور و بر خار نشین‌، تمام."
     },
     {
       "VOrder": 22,
@@ -357,7 +368,8 @@
       "Text": "خطبه چو بر نام فریدون کنند",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "وقتی خطبه شاهی فریدون را بخوانند، آواز دهل شحنه خاموش می‌شود."
     },
     {
       "VOrder": 24,
@@ -373,7 +385,8 @@
       "Text": "صبح که با بانگ خروس است و بس",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "صبح اول که با بانگ خروس است خنده‌ای از راه فسوس است."
     },
     {
       "VOrder": 26,
@@ -389,7 +402,8 @@
       "Text": "چرخ که در معرض فریاد نیست",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "فلک که در معرض فریاد نیست هیچ‌سر از چنبرش آزاد نشد."
     },
     {
       "VOrder": 28,
@@ -405,7 +419,8 @@
       "Text": "بر مکش آوازهٔ نظم بلند",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "همچون نظامی بلندآوازه مشو تا گرفتار نشوی."
     },
     {
       "VOrder": 30,

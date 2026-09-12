@@ -441,7 +441,8 @@
       "Text": "ای به زمین بر چو فلک نازنین",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "ای کسی که بر زمین هستی اما همچون آسمان، بلندمرتبه و نازنین هستی؛ هم زمین ناز تو را می‌کشد‌، هم آسمان."
     },
     {
       "VOrder": 2,
@@ -457,7 +458,8 @@
       "Text": "کار تو ز‌آنجا که خبر داشتی",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "کار و قسمت تو از آنچه که می‌دانستی و از آنچه تصور می‌کردی، بهتر شد."
     },
     {
       "VOrder": 4,
@@ -473,7 +475,8 @@
       "Text": "اول از آن دایه که پرورده‌ای",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "(اول سعادتی که یافتی این بود) که از آن دایه که تو را پرورد، شیر نخوردی بلکه شیری همچون شکر خوردی (یا شیر و شکر خوردی)"
     },
     {
       "VOrder": 6,
@@ -489,7 +492,8 @@
       "Text": "نیکویی‌ات باید که‌افزون بود",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "(طبیعی است و کمتر از این از تو انتظار نمی‌رفت) که نیکویی و تناسب و زیبایی تو زیاد باشد؛ آیا بهتر از این می‌شد که هستی؟"
     },
     {
       "VOrder": 8,
@@ -505,7 +509,8 @@
       "Text": "کز سر آن خامه که خاریده‌اند",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "از همان اول و از اولین قلم که تو را نقاشی کردند، بت و نگاری نغز و زیبا خلق کردند"
     },
     {
       "VOrder": 10,
@@ -521,7 +526,8 @@
       "Text": "رشتهٔ\u00A0جان بر جگر‌ت بسته‌اند",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "رشته جان به جگر تو بستند (تو را دوست‌داشتنی آفریدند) و گوهر تن را بر کمر تو بستند. (یعنی هم از جان و هم از تن بهرمند هستی)"
     },
     {
       "VOrder": 12,
@@ -537,7 +543,8 @@
       "Text": "به که ضعیفی که درین مرغزار",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "در این مَرغزار و بیشه هستی، ضعیفی بهتر است زیرا آهوی قوی و آهوی مریض با هم نمی‌دوند."
     },
     {
       "VOrder": 14,
@@ -553,7 +560,8 @@
       "Text": "جانور‌انی که غلام تواند",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "موجوداتی که تحت فرمان تو هستند، همگی در دام و دست تو گرفتار هستند."
     },
     {
       "VOrder": 16,
@@ -569,7 +577,8 @@
       "Text": "چون تو همایی شرف کار باش",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "پس وقتی که هما و شاه هستی، شایستگی نشان بده؛ کم بخور‌، کم بگوی و کم‌آزار باش."
     },
     {
       "VOrder": 18,
@@ -585,7 +594,8 @@
       "Text": "هر که تو بینی ز سپید و سیاه",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هرچه در این دنیا می‌بینی از سفید و سیاه، همگی حکمتی دارند و وظیفه‌ای را انجام می‌دهند."
     },
     {
       "VOrder": 20,
@@ -601,7 +611,8 @@
       "Text": "جغد که شوم است به افسانه در",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "جغد (بوف) که در داستان‌ها نماد شومی و نحسی است؛ در ویرانه نشان گنج است و در آنجا بلبل است!"
     },
     {
       "VOrder": 22,
@@ -617,7 +628,8 @@
       "Text": "هر که در این پرده نشانیش هست",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هر کسی و چیزی که در این پرده و نقاشی هستی دیده می‌شود، در حد خود، شایسته و لیاقت داشتن جان را دارد."
     },
     {
       "VOrder": 24,
@@ -633,7 +645,8 @@
       "Text": "گرچه ز بحرِ تو به گوهر کمند",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "اگرچه (موجودات دیگر) در این دریای هستی از تو پایین‌تر هستند‌، اما همه مانند تو صاحب‌گوهر هستند و ارزش دارند."
     },
     {
       "VOrder": 26,
@@ -649,7 +662,8 @@
       "Text": "بیش و کمی را که کشی در شمار",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "وقتی قضاوت می‌کنی و بیشی و کمی موجودات را می‌سنجی؛\u00A0رنج به قدر دیَتَش چشم دار"
     },
     {
       "VOrder": 28,
@@ -665,7 +679,8 @@
       "Text": "نیک و بد ملک به کار تواند",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "تمام این کم و بیش‌ها و این نیک و بدها، در خدمت تو هستند؛ و در بد و نیک خدمت‌گزار تو هستند. (آینه‌دار به معنی غلام و خدمت‌کار است اما در اینجا یعنی هر کاری کنی، مانند آینه همان را به‌تو بر می‌گردانند)"
     },
     {
       "VOrder": 30,
@@ -681,7 +696,8 @@
       "Text": "کفش دهی‌، باز دهندت کلاه",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "اگر کفش دهی (احترام بگذاری) به تو کلاه می‌دهند (تو را آبرومند می‌کنند)؛ اگر پرده‌دری کنی (و تحقیر کنی و آبرو ببری) آبرویت را می‌برند (آشکار همچون ماه آسمان)"
     },
     {
       "VOrder": 32,
@@ -697,7 +713,8 @@
       "Text": "خیز و مکن پرده‌دری صبح‌وار",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "تلاش کن و پرده‌دری مکن و آبروی کسی را مبر؛ تا همچون «شب» تو را پوشاننده عیب بدانند و تو را پرده‌دار بدانند."
     },
     {
       "VOrder": 34,
@@ -713,7 +730,8 @@
       "Text": "پردهٔ\u00A0زنبور گل سوری است",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "کارهای تو در این دنیا آشکارتر و هویداتر از یک زنبور است زیرا پردهٔ\u00A0زنبور، گل سرخ است ولی پردهٔ\u00A0تو این آسمان زنبوری و توری است که همه چیز از پشت آن هویدا‌ست."
     },
     {
       "VOrder": 36,
@@ -729,7 +747,8 @@
       "Text": "چند پری چون مگس از بهر قوت‌؟",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "تا کی برای قوت و غذای بدن، در این دنیا که مثل دام عنکبوت است\u00A0می‌پری و می‌گردی؟ (تنه یعنی تنیده که منظور تار عنکبوت است)\u00A0"
     },
     {
       "VOrder": 38,
@@ -745,7 +764,8 @@
       "Text": "پردگیانی که جهان داشتند",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "پردگیان و فرشتگانی که جهان را گرداندند و می‌گردانند، راز تو را بر ملا نکردند."
     },
     {
       "VOrder": 40,
@@ -761,7 +781,8 @@
       "Text": "از ره این پرده فزون آمدی",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: با عبور از این حجاب و پرده، تو به مرحله‌ای رسیدی که اکنون از آن پرده خارج شده‌ای."
     },
     {
       "VOrder": 42,
@@ -777,7 +798,8 @@
       "Text": "دل که نه در پرده‌، وداعش مکن",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "آدمی که رازدار نیست و بی‌حیاست را ترک کن (حتی بدون وداع و خداحافظی)؛ هرچه که زیبا نیست و آهنگی که ناموزون است شایسته رقص و سماع نیست."
     },
     {
       "VOrder": 44,
@@ -793,7 +815,8 @@
       "Text": "شعبده‌بازی که در این پرده هست",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "شعبده‌باز و چیره‌دستی که در پس این پرده عالم هست این نقش را برای سرگرمی و بی‌خود به تو نداد."
     },
     {
       "VOrder": 46,
@@ -809,7 +832,8 @@
       "Text": "دست جز این پرده به جایی مزن",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "جز این پرده و مقام (که داری، به چیزی کمتر) مشغول مشو، همیشه در این مایه زیبا و متناسب (شان خود) بنواز."
     },
     {
       "VOrder": 48,
@@ -825,7 +849,8 @@
       "Text": "بشنو از این پرده و بیدار شو",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "این راز را بشنو و از این نوا بشنو و از خواب بیدار شو؛ و با بیداری، محرم و یار پرده اسرار شو."
     },
     {
       "VOrder": 50,
@@ -841,7 +866,8 @@
       "Text": "جسمت را پاک‌تر از جان کنی",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی جسمت از روح هم پاک‌تر شود، باید چهل روز خودت را تحت انضباط و دوری از دنیا قرار دهی."
     },
     {
       "VOrder": 52,
@@ -857,7 +883,8 @@
       "Text": "مرد به زندان شرف آرد به دست",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "مرد در زندان (و ریاضت) شرف به‌دست\u00A0می‌آورد؛ از این رو بود که\u00A0یوسف به زندان نشست."
     },
     {
       "VOrder": 54,
@@ -873,7 +900,8 @@
       "Text": "قدر دل و پایهٔ\u00A0جان یافتن",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "برای دانستن ارزش دل و مرتبه جان، جز ریاضت راهی نیست."
     },
     {
       "VOrder": 56,
@@ -889,7 +917,8 @@
       "Text": "سیم طبایع به ریاضت سپار",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "نقره طبایع (خواهش‌های نفسانی) را به ریاضت بسپار و پاک کن؛ زر و گنج سرشت را از راه ریاضت به‌دست آور."
     },
     {
       "VOrder": 58,
@@ -905,7 +934,8 @@
       "Text": "تا ز ریاضت به مقامی رسی",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "تا از راه ریاضت و سختی جایگاهی شایسته بیابی و این ناکسی به شرف و بزرگی برسد."
     },
     {
       "VOrder": 60,
@@ -921,7 +951,8 @@
       "Text": "توسنی طبع چو رامت شود",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "نفس سرکش و توسن را وقتی که رام کردی آنگاه پادشاه تقوی خواهی شد و سکه اخلاص و پاکی به‌نام تو می‌شود."
     },
     {
       "VOrder": 62,
@@ -937,7 +968,8 @@
       "Text": "عقل و طبیعت که تو‌را یار شد",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "وقتی که عقل و طبیعت هر دو یار تو شوند آنگاه شبیه کار آهنگر و عطار می‌شود."
     },
     {
       "VOrder": 64,
@@ -953,7 +985,8 @@
       "Text": "کاین ز تبش آینه‌روی‌ت کند",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "از بیت قبل: وقتی که عقل و طبیعت در اثر ریاضت یار تو شوند این، مثل آهنگر که آینه جلا می‌دهد از آتشش تو را زیبا کند و آن، مانند عطار تو را خوش‌عطر. (غالیه ترکیبی است عنبر و مشک و ...)"
     },
     {
       "VOrder": 66,
@@ -969,7 +1002,8 @@
       "Text": "در بُنهِ طبع نجات اندکی است",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "نفس و بدن چیزی ندارد که به‌تو بدهد و در بُنه و کیسه او توشه‌ای نیست که تو را نجات دهد؛ در قفس تن (که پرنده جان هست)، زندگی کوتاه است."
     },
     {
       "VOrder": 68,
@@ -985,7 +1019,8 @@
       "Text": "هر چه خلاف‌آمدِ عادت بوَد",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "آنچه که برخلاف عادت و امیال نفسانی است؛ همان، راهنما و قافله‌سالار تو به خوشبختی و سعادت است."
     },
     {
       "VOrder": 70,
@@ -1001,7 +1036,8 @@
       "Text": "سر ز هوا تافتن از سروری است",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "سرپیچی از هوا و هوس نشان بزرگی و سروری است؛ ترک هوا از جنس قوّت و نیروی پیامبران است."
     },
     {
       "VOrder": 72,
@@ -1017,7 +1053,8 @@
       "Text": "گر نفسی نفس به فرمان توست",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "اگر دمی نفس را به‌زیر فرمان درآوری، پس بی‌درنگ کفش بیاور و حرکت کن که بهشت در انتظار توست."
     },
     {
       "VOrder": 74,
@@ -1033,7 +1070,8 @@
       "Text": "از جرس نفس برآور غریو",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "نفْس را بکوب و از او بانگی بلند همچون زنگ و جرس دربیاور؛ بنده و رهرو دین باش نه نوکر دیو."
     },
     {
       "VOrder": 76,
@@ -1049,7 +1087,8 @@
       "Text": "در حرم دین به حمایت گریز",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "به دین پناه ببر و از حمایت دین بهرمند شو تا از دردسرها و مجازات قیامت در امان بمانی."
     },
     {
       "VOrder": 78,
@@ -1065,7 +1104,8 @@
       "Text": "ز‌آتش دوزخ که چنان غالب است",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "از آن آتش دوزخ که بسیار بزرگ و شعله‌ور است، عطر رسول اکرم، از ابوطالب محافظت خواهد کرد."
     },
     {
       "VOrder": 80,
@@ -1081,7 +1121,8 @@
       "Text": "هست حقیقت نظر مقبلان",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "(آنچه می‌گویند) نظر مقبلان و سعادتمندان از آدمی محافظت می‌کند، حقیقت دارد؛ زره پناه‌دهنده صاحب‌دلان پاکدل (حقیقت دارد)"
     },
     {
       "VOrder": 82,

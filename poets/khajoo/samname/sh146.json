@@ -911,7 +911,8 @@
       "Text": "چو بشنید این گفته تسلیم شاه",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: وقتی این سخن را شنید، شاه دستور داد که همه سربازان حاضر شوند."
     },
     {
       "VOrder": 2,
@@ -927,7 +928,8 @@
       "Text": "همه گرد شد لشکرش سر به سر",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: تمامی لشکر او از دیوان و پری‌ها گرد هم آمده‌اند و هر یک آماده نبرد شده‌اند."
     },
     {
       "VOrder": 4,
@@ -943,7 +945,8 @@
       "Text": "چنین گفت تسلیم با لشکرش",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: تسلیم به همراه سپاهش اینگونه به بزرگان آن سرزمین گفت:"
     },
     {
       "VOrder": 6,
@@ -959,7 +962,8 @@
       "Text": "که انده مدارید از نیم تن",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: نگران نباشید از نیمه‌ای که به ما مربوط می‌شود، بروید و همه‌چیز را کنار بزنید."
     },
     {
       "VOrder": 8,
@@ -975,7 +979,8 @@
       "Text": "یکی چاره باید که سام سوار",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: باید راه حلی پیدا شود که سام سوار از این جادو و کارهای نامطلوب رهایی یابد."
     },
     {
       "VOrder": 10,
@@ -991,7 +996,8 @@
       "Text": "پس آنگه نه سر ماند او را نه گوش",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: سپس نه سَر و نه گوش او باقی ماند و صدای او به آسمان نرسید."
     },
     {
       "VOrder": 12,
@@ -1007,7 +1013,8 @@
       "Text": "یکی پیر و دانای با فر وکام",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: یک پیر فرزانه و دانا بود که نامش رضوان بود و در جستجوی سام قرار داشت."
     },
     {
       "VOrder": 14,
@@ -1023,7 +1030,8 @@
       "Text": "بسی مهربان بد به سام دلیر",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در دل سام دلیر، مهربانی زیادی وجود دارد و او در برابر دشمنان همچون شیری قدرتمند و نیرومند می‌جنگد."
     },
     {
       "VOrder": 16,
@@ -1039,7 +1047,8 @@
       "Text": "نگردد ز مغرب چو سازد کمین",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: وقتی کسی در مغرب زمین کمین کند و با جادو فعالیت کند، دیگر به عقب باز نخواهد گشت."
     },
     {
       "VOrder": 18,
@@ -1055,7 +1064,8 @@
       "Text": "طلسمات جمشید را بشکند",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: طلسمات جمشید را نابود کند و سر جادوگران را از تنشان جدا نماید."
     },
     {
       "VOrder": 20,
@@ -1071,7 +1081,8 @@
       "Text": "چنین گفت رضوان به تسلیم شاه",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: رضوان به شاه گفت که اینجا برای کمک، تمام نیروها آماده‌ایم."
     },
     {
       "VOrder": 22,
@@ -1087,7 +1098,8 @@
       "Text": "مکن هیچ اندیشه از نیم تن",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: به هیچ‌وجه به فکر نباش که با کسی که در کنار ماست، جنگ و نبردی در جریان است."
     },
     {
       "VOrder": 24,
@@ -1103,7 +1115,8 @@
       "Text": "یکی چاره باید به تنبل نمود",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: برای درمان تنبلی، باید راه حلی پیدا کرد؛ سپس می‌توان آتش را از دود نجات داد."
     },
     {
       "VOrder": 26,
@@ -1119,7 +1132,8 @@
       "Text": "چو یابد رهائی تن سام شیر",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: زمانی که انسان به آزادی برسد، روح و جسمش از قید و بندهایی که او را محدود کرده رهایی می‌یابد و این آزادی باعث می‌شود که از زندگی و جهان پیرامونش بیشتر لذت ببرد."
     },
     {
       "VOrder": 28,
@@ -1135,7 +1149,8 @@
       "Text": "مگر تنبل آید ز چاره به دام",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: تنبل نمی‌تواند به راه‌حل‌ها برسد و اگر هم بیفتد، دیگر نام و جایگاهش از بین می‌رود."
     },
     {
       "VOrder": 30,
@@ -1151,7 +1166,8 @@
       "Text": "مگر داشت رضوان نکودختری",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: آیا نمی‌شود که بهشت دختری زیبا و نیکو داشته باشد که نامش شمسه است و در دل‌ربایی شهرت دارد؟"
     },
     {
       "VOrder": 32,
@@ -1167,7 +1183,8 @@
       "Text": "به رضوان به هم خورده بودند شیر",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: در باغ بهشت، شیر، مهربان و دلسوز بود و با سام شیر، دوستی و ارتباط خوبی داشتند."
     },
     {
       "VOrder": 34,
@@ -1183,7 +1200,8 @@
       "Text": "بدو گفت رضوان یکی چاره کن",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: رضوان به او گفت که چاره‌ای بیندیشد تا این تن را از درد و ناراحتی رهایی بخشد و آن را به گونه‌ای پاره کند که آرامش یابد."
     },
     {
       "VOrder": 36,
@@ -1199,7 +1217,8 @@
       "Text": "چنان کن که نامش نماند به دهر",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: آنچنان عمل کن که نامش در جهان باقی نماند و از ظرف تریاق زهر را جدا کن."
     },
     {
       "VOrder": 38,
@@ -1215,7 +1234,8 @@
       "Text": "بدو شمسه گفتا که فرمان برم",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: به او گفتم که فرمان را اجرا کنم، زیرا برای سام فرخنده مانند یک خدمتکار هستم."
     },
     {
       "VOrder": 40,
@@ -1231,7 +1251,8 @@
       "Text": "یکی دام سازم بدان نیم‌تن",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: من دامی درست می‌کنم برای آن نیمه‌ی تن، که بر او تمام جمعیت به گریه خواهند افتاد."
     },
     {
       "VOrder": 42,
@@ -1247,7 +1268,8 @@
       "Text": "یکی خنجری داشت برداشت زود",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: شخصی خنجری را سریعاً برداشت و به طور مخفیانه خارج شد، همچون دودی که ناپدید می‌شود."
     },
     {
       "VOrder": 44,
@@ -1263,7 +1285,8 @@
       "Text": "چنین گفت رضوان به تسلیم شاه",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: رضوان این گونه گفت که در شب‌هنگام، شاه باید سپاه را از اینجا بیرون ببرد."
     },
     {
       "VOrder": 46,
@@ -1279,7 +1302,8 @@
       "Text": "همه لشکرش گشته آراسته",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: تمامی لشکرش به زیبایی آماده شده است، از دیوان و پریان همه به زینت آراسته‌اند."
     },
     {
       "VOrder": 48,
@@ -1295,7 +1319,8 @@
       "Text": "پری بر زمین دیو بر آسمان",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: یک پری بر زمین و یک دیو در آسمان در حال حرکت هستند و به طرف نیمه تنان می‌روند."
     },
     {
       "VOrder": 50,
@@ -1311,7 +1336,8 @@
       "Text": "سپاهش ندانست کس را شمار",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس از شمار سپاه خبر نداشت جز خداوندی که روزگار را آفریده است."
     },
     {
       "VOrder": 52,
@@ -1327,7 +1353,8 @@
       "Text": "زمین و زمان گشته یکسر سپاه",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: زمین و آسمان به کلی در حال جنگ هستند و چهره‌ی خورشید و ماه را پوشانده‌اند."
     },
     {
       "VOrder": 54,
@@ -1343,7 +1370,8 @@
       "Text": "به روی هوا دید بربسته نخ",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: در آسمان یک نخی را دید که به زمین بسته شده و همچون مور و ملخ در حرکت است."
     },
     {
       "VOrder": 56,
@@ -1359,7 +1387,8 @@
       "Text": "به سوی جزیره بیاراست جنگ",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: به سمت جزیره‌ای زیبا و آراسته حرکت می‌کند، جنگی که همان شاه با شکوه و عظمتش به آن تسلیم شده است."
     },
     {
       "VOrder": 58,
@@ -1375,7 +1404,8 @@
       "Text": "یکی دیو بودش به مانند پیل",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: در این بیت، شاعر به توصیف موجودی شبیه به یک دیو بزرگ می‌پردازد که همانند یک فیل است. این موجود به قدری بزرگ و ترسناک است که رنگ زمین را به رنگ کبود و سورمه‌ای درآورده است."
     },
     {
       "VOrder": 60,
@@ -1391,7 +1421,8 @@
       "Text": "نشسته بر آن دیو تسلیم شاه",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: دیو تسلیم در برابر شاه نشسته و به سوی چهره‌اش که مانند کافور درخشان است، نظر می‌کند."
     },
     {
       "VOrder": 62,
@@ -1407,7 +1438,8 @@
       "Text": "به گردش هزاران هزاران پری",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: در اینجا بیان شده است که در میان هزاران و هزاران پری، همه با دقت و توجه در حال بررسی و قضاوت هستند."
     },
     {
       "VOrder": 64,
@@ -1423,7 +1455,8 @@
       "Text": "همه رخ چو خورشید رخشان شده",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: همه چهره‌ها مانند خورشید درخشان شده‌اند و زمانه همچون لعل قرمز بدخشان گل کرده است."
     },
     {
       "VOrder": 66,
@@ -1439,7 +1472,8 @@
       "Text": "زمانه سراسر همه لاله‌زار",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: دنیا همچون باغی پر از گل‌های زیبای لاله است، به مانند چهره دلنشین و جذاب آن معشوقانی که پوست و موی نقره‌ای دارند."
     },
     {
       "VOrder": 68,
@@ -1455,7 +1489,8 @@
       "Text": "بنفشه همه دست بگشاده باز",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: بنفشه‌ها به زیبایی دست خود را باز کرده‌اند و نرگس‌ها نیز با طراوت، تیغ‌های خود را به نمایش گذاشته‌اند."
     },
     {
       "VOrder": 70,
@@ -1471,7 +1506,8 @@
       "Text": "کشیده کماندار هندو دو صف",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: کشیده کماندار هندو با یک نگاه دل‌انگیز و زیبا، تیرهایی از عشق و اشتیاق را به سمت دل‌ها می‌فرستد."
     },
     {
       "VOrder": 72,
@@ -1487,7 +1523,8 @@
       "Text": "تو گفتی زمانه گلستان بود",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: تو گفتی که زمانه شبیه به گلستان است و در آن باغ، آرامش و راحتی جان وجود دارد."
     },
     {
       "VOrder": 74,
@@ -1503,7 +1540,8 @@
       "Text": "ز عنبر جهانی معطر شده",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: دنیا به بویی خوش مانند عطر عنبر آغشته شده و مانند الماس و جواهر درخشان و زیبا شده است."
     },
     {
       "VOrder": 76,
@@ -1519,7 +1557,8 @@
       "Text": "ز هر سوی صد کاروان تتار",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: از هر طرف صدها کاروان از تیرها و عطرهای خوشبو در حال آمدن هستند."
     },
     {
       "VOrder": 78,
@@ -1535,7 +1574,8 @@
       "Text": "زمین گشته روشن زمانی رکود",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: در این زمین، در زمانی که همه چیز ساکن و بی‌تحرک به نظر می‌رسد، نور چراغ‌ها خاموش و زلف دود در هوا در هم تنیده شده است."
     },
     {
       "VOrder": 80,
@@ -1551,7 +1591,8 @@
       "Text": "فرو مرده شمع فلک را چراغ",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: شمع آسمان خاموش شده و چراغ ملک به واسطه آن معطر و خوشبو گشته است."
     },
     {
       "VOrder": 82,
@@ -1567,7 +1608,8 @@
       "Text": "فلک تیره از گرد پر پیچ و تاب",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: جهان تاریک و پر از پیچ و خم به زیر نور آفتاب می‌تابد."
     },
     {
       "VOrder": 84,
@@ -1583,7 +1625,8 @@
       "Text": "ز عنبرفروشان زمین مشک‌بیز",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: از عطر فروش‌های زمین، بوی خوشی مثل مشک پخش شده و همه جا را پر کرده است، به طوری که مانند تیزی یک شمشیر، همه چیز درخشندگی و جاذبه دارد."
     },
     {
       "VOrder": 86,
@@ -1599,7 +1642,8 @@
       "Text": "به بالای سر نره دیوان چو ابر",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: مثل اینکه ابرهای تیره و سنگین در آسمان جمع شده‌اند، و در دل این ابرها، خطر و قدرتی وجود دارد که باعث می‌شود همه چیز را تحت تأثیر قرار دهد. مثل زمانی که دیوانه‌ای به بالای سر می‌رسد، فضایی پر از هیجان و ترس ایجاد می‌شود."
     },
     {
       "VOrder": 88,
@@ -1615,7 +1659,8 @@
       "Text": "غریوان چو شد از ایشان همان",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: وقتی غریبان از آن‌ها جدا شدند، در دل و جان انسان‌ها هم گاهی تاریکی و هم گاهی روشنی به وجود آمد."
     },
     {
       "VOrder": 90,
@@ -1631,7 +1676,8 @@
       "Text": "شده ابر غران به پیکار جنگ",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: ابرهای سیاه و تند به سوی جنگ آمده‌اند و همه جا را پر از سنگ‌ریزه کرده‌اند، به‌طوری که دامن کوه‌ها نیز پر از آن‌ها شده است."
     },
     {
       "VOrder": 92,
@@ -1647,7 +1693,8 @@
       "Text": "همی سنگ بارید همچو تگرگ",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: سنگ‌ها همچون تگرگ سقوط می‌کنند، تگرگی که هر کدام به نوعی می‌تواند موجب مرگ شود."
     },
     {
       "VOrder": 94,
@@ -1663,7 +1710,8 @@
       "Text": "زمین و زمان گشت جویای سام",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: زمین و زمان به دنبال سام می‌گردند، و در این راه، نیمه ابر زندگی و روحش تیره و تار می‌شود، همچنین نام و آرزوهایش تحت تأثیر قرار می‌گیرد."
     },
     {
       "VOrder": 96,
@@ -1679,7 +1727,8 @@
       "Text": "ز گیتی برآمد سراسر خروش",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: از تمام دنیا صدایی بلند برخاست و به گوش‌ها خبرهایی رسید."
     },
     {
       "VOrder": 98,
@@ -1695,7 +1744,8 @@
       "Text": "که تسلیم جنی درآمد به جنگ",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: جنی در برابر جنگ با دنیا و زمان تسلیم شد و از او رنگی مانند قیر به خود گرفت."
     },
     {
       "VOrder": 100,
@@ -1711,7 +1761,8 @@
       "Text": "شب و روز گوئی درآمد به کین",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: روز و شب از شدت این دشمنی می‌گویند که آسمان و زمین تحت تأثیر آن تیره و تار شده‌اند."
     },
     {
       "VOrder": 102,
@@ -1727,7 +1778,8 @@
       "Text": "بفرمود پس گوش کاید سپاه",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: پس فرمان داد تا گوش به فرمان شوند، و سپاه جهان را به تسلیم وادارند."
     },
     {
       "VOrder": 104,
@@ -1743,7 +1795,8 @@
       "Text": "یکی چاره کردند نیمه تنان",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "هوش مصنوعی: عده‌ای در تلاش بودند تا برای نجات نیمه‌تنان راه حلی پیدا کنند و در این راستا تصمیم گرفتند تا نیروی اهریمنی را نابود کنند."
     },
     {
       "VOrder": 106,
@@ -1759,7 +1812,8 @@
       "Text": "بخسبید بر هم دو تن شد یکی",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "هوش مصنوعی: دو نفر در کنار هم خوابشان برد و به‌نوعی یکی شدند، مثل اینکه یک سپاه آماده شده‌اند، سپس بعد از مدت کوتاهی."
     },
     {
       "VOrder": 108,
@@ -1775,7 +1829,8 @@
       "Text": "سراسر برون آمدند از جزیر",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "هوش مصنوعی: تمام جادوگران از جزیره خارج شدند و به صف ایستادند تا فرار کنند."
     },
     {
       "VOrder": 110,
@@ -1791,7 +1846,8 @@
       "Text": "چنین تا که گیتی شد آئینه وار",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که دنیا به مانند آینه‌ای شده، زمانه نیز همچون آینه‌ای در حال تغییر و بازتاب است."
     },
     {
       "VOrder": 112,
@@ -1807,7 +1863,8 @@
       "Text": "پریزاد گیتی چو رخ را نمود",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "هوش مصنوعی: در دنیا، زمانی که چهره پریزاد مانند نمایان شد، دیو شب به طور پنهانی مانند دود ناپدید گردید."
     },
     {
       "VOrder": 114,
@@ -1823,7 +1880,8 @@
       "Text": "درآمد زمانه از ایشان به جوش",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "هوش مصنوعی: در زمانه‌ای که به طور طبیعی نگرانی‌ها و چالش‌ها افزایش می‌یابد، او با صدای بلند برای دیگران سخن می‌گوید و به آنها گوشزد می‌کند."
     },
     {
       "VOrder": 116,
@@ -1839,7 +1897,8 @@
       "Text": "که از جا درآئید و جنگ آورید",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "هوش مصنوعی: از جا برخیزید و به جنگ با دیوان و پری‌ها بروید و آنان را در تنگنا قرار دهید."
     },
     {
       "VOrder": 118,
@@ -1855,7 +1914,8 @@
       "Text": "ز بالا و از زیرشان جنگ خاست",
       "CoupletIndex": 59,
       "SectionIndex1": 0,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "هوش مصنوعی: زمانه به گونه‌ای شد که در جنگ‌ها و نبردها، هم از بالا و هم از پایین، همه جا درگیر بودند و اوضاع به شب و تاریکی مشابهت پیدا کرد."
     },
     {
       "VOrder": 120,
@@ -1871,7 +1931,8 @@
       "Text": "همه آتش و سنگ در کارزار",
       "CoupletIndex": 60,
       "SectionIndex1": 0,
-      "SectionIndex2": 62
+      "SectionIndex2": 62,
+      "CoupletSummary": "هوش مصنوعی: در میدان نبرد، همه آتش و سنگ بر سر هر دو دسته که به تعداد بسیار زیادی هستند، بریزید."
     },
     {
       "VOrder": 122,
@@ -1887,7 +1948,8 @@
       "Text": "بسی کشته آمد ز دیو و پری",
       "CoupletIndex": 61,
       "SectionIndex1": 0,
-      "SectionIndex2": 63
+      "SectionIndex2": 63,
+      "CoupletSummary": "هوش مصنوعی: بسیاری از مردم به خاطر دیوانگی و شرارت‌های موجود در دنیا جان خود را از دست داده‌اند و تو می‌گویی که دنیا به طور کلی تغییر خواهد کرد."
     },
     {
       "VOrder": 124,
@@ -1903,7 +1965,8 @@
       "Text": "به یک دم روان گشت دریای خون",
       "CoupletIndex": 62,
       "SectionIndex1": 0,
-      "SectionIndex2": 64
+      "SectionIndex2": 64,
+      "CoupletSummary": "هوش مصنوعی: در یک لحظه، دریایی از خون به وجود آمد و پریان تبدیل به موجوداتی غرق در خون شدند."
     },
     {
       "VOrder": 126,
@@ -1919,7 +1982,8 @@
       "Text": "فزونی نمودند نیمه‌تنان",
       "CoupletIndex": 63,
       "SectionIndex1": 0,
-      "SectionIndex2": 65
+      "SectionIndex2": 65,
+      "CoupletSummary": "هوش مصنوعی: نیمه‌تنان (نیمه‌جان‌ها) به شدت افزایش یافتند و در نتیجه، شکست به اهریمنان (نیروهای شر) وارد شد."
     },
     {
       "VOrder": 128,
@@ -1935,7 +1999,8 @@
       "Text": "ز افسون ایشان در آن رزمگاه",
       "CoupletIndex": 64,
       "SectionIndex1": 0,
-      "SectionIndex2": 66
+      "SectionIndex2": 66,
+      "CoupletSummary": "هوش مصنوعی: به خاطر جاذبه و سحر آن‌ها در میدان جنگ، جهان به محیطی تاریک و وحشتناک تبدیل شد که شیاطین و روح‌ها در آن حاکم بودند."
     },
     {
       "VOrder": 130,
@@ -1951,7 +2016,8 @@
       "Text": "پری زیر پی گشته در خون چمان",
       "CoupletIndex": 65,
       "SectionIndex1": 0,
-      "SectionIndex2": 67
+      "SectionIndex2": 67,
+      "CoupletSummary": "هوش مصنوعی: یک پری که در زیر پایش خون جاری است، به آرامی در حال حرکت است، مثل خورشید که در سپیده‌دم به تدریج ناپدید می‌شود."
     },
     {
       "VOrder": 132,
@@ -1967,7 +2033,8 @@
       "Text": "و یا همچو گل گشتشان سینه چاک",
       "CoupletIndex": 66,
       "SectionIndex1": 0,
-      "SectionIndex2": 68
+      "SectionIndex2": 68,
+      "CoupletSummary": "هوش مصنوعی: شاید مانند گلی شده‌اند که در دلش چاک‌هایی افتاده و دو برگش بر روی زمین زیر ابرها افتاده‌اند."
     },
     {
       "VOrder": 134,
@@ -1983,7 +2050,8 @@
       "Text": "تن سیمگون گشت مرجان به رنگ",
       "CoupletIndex": 67,
       "SectionIndex1": 0,
-      "SectionIndex2": 69
+      "SectionIndex2": 69,
+      "CoupletSummary": "هوش مصنوعی: به رنگ مرجان، تن او شبیه به سیمی زیبا شده است و مانند کمان شکسته‌ای است که تیرش به زمین افتاده است."
     },
     {
       "VOrder": 136,
@@ -1999,7 +2067,8 @@
       "Text": "همه تیر مژگان فتاده ز کار",
       "CoupletIndex": 68,
       "SectionIndex1": 0,
-      "SectionIndex2": 70
+      "SectionIndex2": 70,
+      "CoupletSummary": "هوش مصنوعی: همه تیرهای مژگان از کار افتاده‌اند و دیگر اثر ندارند، مانند اینکه زیبایی و قامت بلند افراد زیبا نیز تحت تأثیر قرار گرفته است."
     },
     {
       "VOrder": 138,
@@ -2015,7 +2084,8 @@
       "Text": "همه عقد درگشته بیجاده رنگ",
       "CoupletIndex": 69,
       "SectionIndex1": 0,
-      "SectionIndex2": 71
+      "SectionIndex2": 71,
+      "CoupletSummary": "هوش مصنوعی: همه مشکلات و سختی‌ها به واسطه‌ی رنگ و لعابی که به زندگی‌مان داده‌ایم، به روح و مزاج‌مان مانند تلخی نوشیدنی‌ای بد و ناگوار تبدیل شده است."
     },
     {
       "VOrder": 140,
@@ -2031,7 +2101,8 @@
       "Text": "شده سیب سیمین همه لاله‌گون",
       "CoupletIndex": 70,
       "SectionIndex1": 0,
-      "SectionIndex2": 72
+      "SectionIndex2": 72,
+      "CoupletSummary": "هوش مصنوعی: سیب نقره‌ای رنگ تبدیل به لاله‌های زیبا شده و باغ دل پر از خون است."
     },
     {
       "VOrder": 142,
@@ -2047,7 +2118,8 @@
       "Text": "همه گرد آن خون آوردگاه",
       "CoupletIndex": 71,
       "SectionIndex1": 0,
-      "SectionIndex2": 73
+      "SectionIndex2": 73,
+      "CoupletSummary": "هوش مصنوعی: تمامی اطراف میدان نبرد پر از خون است و همه ستاره‌ها به دور ماه جمع شده‌اند."
     },
     {
       "VOrder": 144,
@@ -2063,7 +2135,8 @@
       "Text": "تن سیم در نار بگداخته",
       "CoupletIndex": 72,
       "SectionIndex1": 0,
-      "SectionIndex2": 74
+      "SectionIndex2": 74,
+      "CoupletSummary": "هوش مصنوعی: سیم در آتش ذوب شده و یا نوری که در آتش تابیده شده است."
     },
     {
       "VOrder": 146,
@@ -2079,7 +2152,8 @@
       "Text": "فتاده ز تن ساعد سیمگون",
       "CoupletIndex": 73,
       "SectionIndex1": 0,
-      "SectionIndex2": 75
+      "SectionIndex2": 75,
+      "CoupletSummary": "هوش مصنوعی: دست نقره‌ای او به زمین افتاده، مانند ماهی که به دریایی از خون بیفتد."
     },
     {
       "VOrder": 148,
@@ -2095,7 +2169,8 @@
       "Text": "همه پنجه مهر مرجان شده",
       "CoupletIndex": 74,
       "SectionIndex1": 0,
-      "SectionIndex2": 76
+      "SectionIndex2": 76,
+      "CoupletSummary": "هوش مصنوعی: همه جای آسمان مملو از رنگ و لطافت مهر و محبت شده و حالا این فضا پر از غم و اندوه گردیده است."
     },
     {
       "VOrder": 150,
@@ -2111,7 +2186,8 @@
       "Text": "ز مشاطه مرگ بسته نگار",
       "CoupletIndex": 75,
       "SectionIndex1": 0,
-      "SectionIndex2": 77
+      "SectionIndex2": 77,
+      "CoupletSummary": "هوش مصنوعی: از زیبایی و فریبندگی مرگ، همه چیز در زندگی تحت تاثیر قرار گرفته و از خون و زخم‌های گذشته ساخته شده است."
     },
     {
       "VOrder": 152,
@@ -2127,7 +2203,8 @@
       "Text": "شده جفت با جانشان تیغ تیز",
       "CoupletIndex": 76,
       "SectionIndex1": 0,
-      "SectionIndex2": 78
+      "SectionIndex2": 78,
+      "CoupletSummary": "هوش مصنوعی: در یک لحظه، جان‌های آنها به هم پیوند خورد و با هم در حالت جدال و نبرد قرار گرفتند، همانند تیغ تیزی که به یکباره به سمت هدفی پرتاب می‌شود."
     },
     {
       "VOrder": 154,
@@ -2143,7 +2220,8 @@
       "Text": "چو پیلان تن نره دیوان مست",
       "CoupletIndex": 77,
       "SectionIndex1": 0,
-      "SectionIndex2": 79
+      "SectionIndex2": 79,
+      "CoupletSummary": "هوش مصنوعی: چون فیل‌ها، تن نر بزرگ و دیوانه‌ای در اثر مستی، بر روی خاکی پست افتاده است."
     },
     {
       "VOrder": 156,
@@ -2159,7 +2237,8 @@
       "Text": "به هر سو درافتاد تن کوه‌کوه",
       "CoupletIndex": 78,
       "SectionIndex1": 0,
-      "SectionIndex2": 80
+      "SectionIndex2": 80,
+      "CoupletSummary": "هوش مصنوعی: بدن کوه مانند تکه‌ای بزرگ به هر طرف می‌افتد و از آن نیمه، تنها و خسته شده است."
     },
     {
       "VOrder": 158,
@@ -2175,7 +2254,8 @@
       "Text": "بریده همه دست دیوان ز تن",
       "CoupletIndex": 79,
       "SectionIndex1": 0,
-      "SectionIndex2": 81
+      "SectionIndex2": 81,
+      "CoupletSummary": "هوش مصنوعی: در آن جمع، دست دیوان از بدن بریده و در خون افتاده است."
     },
     {
       "VOrder": 160,
@@ -2191,7 +2271,8 @@
       "Text": "به مانند خرطوم پیلان نر",
       "CoupletIndex": 80,
       "SectionIndex1": 0,
-      "SectionIndex2": 82
+      "SectionIndex2": 82,
+      "CoupletSummary": "هوش مصنوعی: مانند خرطوم فیل نر که دست مرگ آن را از بدنش جدا کرده باشد."
     },
     {
       "VOrder": 162,
@@ -2207,7 +2288,8 @@
       "Text": "همه حمله کردند نیمه تنان",
       "CoupletIndex": 81,
       "SectionIndex1": 0,
-      "SectionIndex2": 83
+      "SectionIndex2": 83,
+      "CoupletSummary": "هوش مصنوعی: همه به صورت دسته‌جمعی حمله‌ور شدند، افراد نیمه‌تن هم جفت‌جفت به عنوان روستاییان سرکش آمده‌اند."
     },
     {
       "VOrder": 164,
@@ -2223,7 +2305,8 @@
       "Text": "دو تن همچو یک تن نمودی به جنگ",
       "CoupletIndex": 82,
       "SectionIndex1": 0,
-      "SectionIndex2": 84
+      "SectionIndex2": 84,
+      "CoupletSummary": "هوش مصنوعی: دو نفر مانند یک نفر به جنگ آمدند و تمامی ابزارهای سحر و جادویشان را در دست داشتند."
     },
     {
       "VOrder": 166,
@@ -2239,7 +2322,8 @@
       "Text": "چو شد رزم تیر و کمانشان پدید",
       "CoupletIndex": 83,
       "SectionIndex1": 0,
-      "SectionIndex2": 85
+      "SectionIndex2": 85,
+      "CoupletSummary": "هوش مصنوعی: وقتی نبرد آغاز شد، یکی کمان را بلند کرد و دیگری زه کمان را کشید."
     },
     {
       "VOrder": 168,
@@ -2255,7 +2339,8 @@
       "Text": "چو تیر از کمانشان برون آمدی",
       "CoupletIndex": 84,
       "SectionIndex1": 0,
-      "SectionIndex2": 86
+      "SectionIndex2": 86,
+      "CoupletSummary": "هوش مصنوعی: زمانی که تیر از کمان رها می‌شود، سرنوشت نامداری به زمین می‌افتد."
     },
     {
       "VOrder": 170,
@@ -2271,7 +2356,8 @@
       "Text": "جهان تیره شد پیش شاه پری",
       "CoupletIndex": 85,
       "SectionIndex1": 0,
-      "SectionIndex2": 87
+      "SectionIndex2": 87,
+      "CoupletSummary": "هوش مصنوعی: جهان به خاطر موجودات شرور و منفی تیره و تار شده و حالا زیبایی و روشنی در آن از بین رفته است. "
     },
     {
       "VOrder": 172,
@@ -2287,7 +2373,8 @@
       "Text": "سراسیمه شد شاه تسلیم ازو",
       "CoupletIndex": 86,
       "SectionIndex1": 0,
-      "SectionIndex2": 88
+      "SectionIndex2": 88,
+      "CoupletSummary": "هوش مصنوعی: شاه در برابر او نگران و مضطرب شد و از شکست خود آگاه گردید، به همین دلیل به میدان جنگ آمد."
     },
     {
       "VOrder": 174,
@@ -2303,7 +2390,8 @@
       "Text": "زمین و زمان زخم شمشیر بود",
       "CoupletIndex": 87,
       "SectionIndex1": 0,
-      "SectionIndex2": 89
+      "SectionIndex2": 89,
+      "CoupletSummary": "هوش مصنوعی: زمین و زمان با شمشیر دچار آسیب بودند و دل مرگ به خاطر ترس از آن‌ها پیری را تجربه کرده بود."
     },
     {
       "VOrder": 176,

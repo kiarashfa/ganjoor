@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای من همه بد کرده و دیده ز تو نیک",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در تمام عمر کارهای بدی کرده‌ام، اما هرگز از تو بدی نشنیده‌ام و فقط از تو خوبی دیده‌ام."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "حد بدی و غایت نیکی این است",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بدترین حالت و بهترین حالت این است که بدی‌ای که از من به تو رسیده، به من نیکی‌ای از تو رسیده باشد."
     },
     {
       "VOrder": 4,

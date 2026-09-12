@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "توان گریخت به جایی ز دشمنان لیکن",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌توانم از دشمنانم فرار کنم، اما وقتی خودم دشمن خودم هستم، چه طور می‌توانم فرار کنم؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "ز خویش لاجرمم چون‌‌ گریز ممکن نیست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چون نمی‌توانم از خودم فرار کنم، جز این راهی نیست که مدام با خودم درگیر باشم."
     },
     {
       "VOrder": 4,

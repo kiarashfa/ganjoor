@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای بی تو دلِ مرا قراری نی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بی تو، دل من هیچ آرامشی ندارد و هیچ جایی از تو دور نمی‌شوم."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "انصاف که عمر می کند ضایع",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که انصافاً کسی که عمرش را بیهوده می‌گذرانید، اگر دستی مثل تو نداشته باشد که به او یاری رساند، مسلماً در ضرر خواهد بود. در واقع، عمر خود را در راهی هدر می‌دهد که هیچ بهره‌ای از آن نمی‌برد."
     },
     {
       "VOrder": 4,
@@ -59,7 +61,8 @@
       "Position": "Right",
       "Text": "از وصلِ رقیب بهره می یابد",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما از وصال رقیب لذت می‌بریم و از تو انتظار زیاد نداریم."
     },
     {
       "VOrder": 6,
@@ -73,7 +76,8 @@
       "Position": "Right",
       "Text": "گر دریابی دمی دل ما را",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر لحظه‌ای به دل ما پی ببری، هیچ چیز دیگر از این راز و کار بهتر نیست."
     },
     {
       "VOrder": 8,
@@ -87,7 +91,8 @@
       "Position": "Right",
       "Text": "گر بار دهی وگرنه بر جانم",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به من حمایت کنی یا نکنى، در هر حال، عشق تو به من کمکى نمى‌کند و من در درد و رنج خواهم ماند."
     },
     {
       "VOrder": 10,
@@ -101,7 +106,8 @@
       "Position": "Right",
       "Text": "دریاب نزاریِ به زاری را",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به فردی که در عشق تو غمگین و دلشکسته است، توجه کن و حال او را درک کن؛ زیرا او نیز مانند تو در درد عشق به سر می‌برد."
     },
     {
       "VOrder": 12,
@@ -115,7 +121,8 @@
       "Position": "Right",
       "Text": "بل تا به کرشمه ای شود خوش دل",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که با ناز و کرشمه‌ای دل مرا شاد کنی، فقط همین قدر که بگویی \u0022آری\u0022، کافی است."
     },
     {
       "VOrder": 14,

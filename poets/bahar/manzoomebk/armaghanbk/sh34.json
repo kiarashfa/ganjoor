@@ -25,14 +25,16 @@
       "VOrder": 1,
       "Position": "Paragraph",
       "Text": "‌پیشگاه مرد دانا را گرامی دار و از وی سخن پرس و سخنش بشنو",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: به احترام فرد با دانش بایست و از او سوال کن و به صحبت‌هایش گوش بده."
     },
     {
       "VOrder": 2,
       "Position": "Right",
       "Text": "بر مرد داننده خاموش باش",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در کنار فرد عاقل و با دانش، ساکت باش و فقط سوال کن و به سخنان او گوش فرا بده."
     },
     {
       "VOrder": 3,
@@ -46,7 +48,8 @@
       "Position": "Right",
       "Text": "خردمند استاده در پیشگاه",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: انسان خردمند باید هوشیار باشد و در هر زمان و مکان مراقب سخنانش باشد، زیرا هر کلامی که بگوید می‌تواند تأثیرات زیادی داشته باشد."
     },
     {
       "VOrder": 5,

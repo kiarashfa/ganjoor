@@ -191,7 +191,8 @@
       "Text": "باز این دیوانه ی بگسسته بند",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: این فرد دیوانه که به شدت ناآرام است، پیامش را با صدای بلند و به وضوح بیان می‌کند."
     },
     {
       "VOrder": 2,
@@ -207,7 +208,8 @@
       "Text": "در همه عالم نبینم غیر دوست",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در تمام دنیا جز دوست را نمی‌بینم، اگر او نباشد، دنیا اصلاً وجود ندارد."
     },
     {
       "VOrder": 4,
@@ -223,7 +225,8 @@
       "Text": "کافر است این عاشق شوریده حال",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: این عاشق دیوانه در حقیقت کافر است، ای مسلمانان که عادت دارید کافران را بکشید، به او بیندیشید."
     },
     {
       "VOrder": 6,
@@ -239,7 +242,8 @@
       "Text": "اقتلونی کیف ماشاء الحبیب",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: هرطور که دوست دارد، مرا بکشید و هر جا که دوست دارد بیاورد، به آنجا پرتابم کنید."
     },
     {
       "VOrder": 8,
@@ -255,7 +259,8 @@
       "Text": "عشق اگر کفر است بیشک کافرم",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: اگر عشق به حقیقت کفر باشد، من با کمال میل کافر هستم. اگر باید من را به خاطر کفرم بکشی، من آماده‌ام."
     },
     {
       "VOrder": 10,
@@ -271,7 +276,8 @@
       "Text": "طایری را از قفس آزاد کن",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: پرنده‌ای را که در قفس حبس شده است، آزاد کن و با این کار دل کسی را که غمگین است شاد کن."
     },
     {
       "VOrder": 12,
@@ -287,7 +293,8 @@
       "Text": "مرغ دامی را سوی بستان فرست",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: پرنده‌ای که در قفس است را به باغ بفرست و آن کسی را که تشنه است به عمان بفرست."
     },
     {
       "VOrder": 14,
@@ -303,7 +310,8 @@
       "Text": "من نمیگویم که عاشق کافراست",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: من نمی‌گویم که عاشق از کافرهاست، بلکه عشق واقعی فراتر از این تعصبات است."
     },
     {
       "VOrder": 16,
@@ -319,7 +327,8 @@
       "Text": "کافرم ترسم اگر از کشتنم",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: من کافر هستم و می‌ترسم اگر مرا بکشند، نمی‌توانند مرا مانند بنده‌ای از شاه در بند تنم نگه‌دارند."
     },
     {
       "VOrder": 18,
@@ -335,7 +344,8 @@
       "Text": "این تن خاکی قرین خاک به",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: این جسم خاکی به خاک وابسته است و از جان پاکی که در آن وجود دارد، دور است."
     },
     {
       "VOrder": 20,
@@ -351,7 +361,8 @@
       "Text": "این سرادر خورد ویران کردن است",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: این سرایند گیج کننده و پر از مشکل است و این محدودیت‌ها و بندها ارزش شکستن را دارند."
     },
     {
       "VOrder": 22,
@@ -367,7 +378,8 @@
       "Text": "مرغ را خوشتر چه باشد از چمن",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: پرنده را چه چیزی از زندگی در چمن بهتر خواهد بود، چرا که تن من برای او مانند یک زندان است."
     },
     {
       "VOrder": 24,
@@ -383,7 +395,8 @@
       "Text": "جان سلیمان است و این دل خاتم است",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: این دل مانند سلیمان است و در آن نشان نام بزرگ وجود دارد."
     },
     {
       "VOrder": 26,
@@ -399,7 +412,8 @@
       "Text": "وین تن مشؤومم آن دیو لعین",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: این جسم بدشگون من، آن روح پلید است که انگشتری از سلیمان را ربوده است."
     },
     {
       "VOrder": 28,
@@ -415,7 +429,8 @@
       "Text": "آن حواس باطن و ظاهر همه",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: تمامی حواس درونی و بیرونی او به نوعی تحت فرمان و کنترل او درآمده‌اند."
     },
     {
       "VOrder": 30,
@@ -431,7 +446,8 @@
       "Text": "مرگ کو تاداد جان گیرد ز تن",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: مرگ چه زمانی می‌تواند جان را از بدن جدا کند، زمانی که خاتم جم از دستان اهریمن گرفته شود."
     },
     {
       "VOrder": 32,

@@ -181,7 +181,8 @@
       "Text": "چو شه سوی آرامگه شد چمان",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: وقتی شاه به سوی محل آرامش خود رفت، مروان که والی بود، به شدت نگران و مضطرب شد."
     },
     {
       "VOrder": 2,
@@ -197,7 +198,8 @@
       "Text": "که ای بی خرد مرد ناهوشمند",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: ای انسان نادان و بی‌خود! هرچه من به تو گفتم، برای تو خوشایند نبود."
     },
     {
       "VOrder": 4,
@@ -213,7 +215,8 @@
       "Text": "همی خوار مایه گرفتی تو کار",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: تو که از بی‌پایه و بی‌ارزش چیزها بهره می‌گیری، چگونه می‌توانی بر افکار و اراده دیگران تسلط یابی؟"
     },
     {
       "VOrder": 6,
@@ -229,7 +232,8 @@
       "Text": "نبینی کز اینت چه آید همی",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: اینکه نمی‌بیند چه نتایج و عواقبی از این کار به دست می‌آید و چه مشکلات و ناراحتی‌ها از آن به وجود می‌آید."
     },
     {
       "VOrder": 8,
@@ -245,7 +249,8 @@
       "Text": "بدو گفت والی که ای تیره بخت",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: والی به او گفت: ای بدبخت، می‌بینم که دلت همچون فولاد محکم و سخت است."
     },
     {
       "VOrder": 10,
@@ -261,7 +266,8 @@
       "Text": "بترس از جهاندار یزدان پاک",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: از قدرت و حاکمیت خدای پاک بترس، زیرا در این دنیا هر چه بخواهی، به هلاکتت خواهد انجامید."
     },
     {
       "VOrder": 12,
@@ -277,7 +283,8 @@
       "Text": "به دارنده ی آشکار و نهان",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: به کسی که تمامی رازها و اسرار را می‌داند و قادر است که هر چیزی را ببخشد، حتی اگر تمام ملک و ثروت دنیا را به او بدهم، باز هم فایده‌ای ندارد."
     },
     {
       "VOrder": 14,
@@ -293,7 +300,8 @@
       "Text": "نجویم ره فتنه انگیختن",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: من به دنبال راهی نیستم که با تحریک و ایجاد فتنه، به فرزند پیامبر آسیب برسانم."
     },
     {
       "VOrder": 16,
@@ -309,7 +317,8 @@
       "Text": "تو خواهی که پور پیمبر شهید",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: تو می‌خواهی که پسر پیمبر (پیامبر اسلام) قربانی شود تا یزید خشنود گردد."
     },
     {
       "VOrder": 18,
@@ -325,7 +334,8 @@
       "Text": "هرآنکس که ریزد زکین خون او",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: هر کس که در زندگی‌اش غیرت و شجاعت داشته باشد و از حق و عدالت دفاع کند، در روز قیامت با سر افراشته و رو سفید خواهد بود."
     },
     {
       "VOrder": 20,
@@ -341,7 +351,8 @@
       "Text": "بدو گفت مروان پر از خشم و کین",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: مروان با خشم و کینه گفت: اگر اکنون پاس دین را حفظ نمی‌کنی، باید به کجا بروی؟"
     },
     {
       "VOrder": 22,
@@ -357,7 +368,8 @@
       "Text": "نکو کردی ای میر فرمان تراست",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: تو خوب عمل کردی، ای فرمانده‌ی ما، حالا بر اساس آنچه که می‌دانی، به کارهایی که شایسته است بپرداز."
     },
     {
       "VOrder": 24,
@@ -373,7 +385,8 @@
       "Text": "اگر آشکارا چنین کرد یاد",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی به وضوح و آشکارا رفتار بدی کند، در آن صورت یادش در دل دیگران متفاوت خواهد بود؛ زیرا عملکرد ناپسند او بر سرشت بدش تأثیری دیگر خواهد گذاشت."
     },
     {
       "VOrder": 26,
@@ -389,7 +402,8 @@
       "Text": "چو مروان پلیدی به گیتی نبود",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: مروان، فردی پلید و ناپاک بود و در دنیا مثل او وجود نداشت. از نسل پیامبر (ص)، این فرد چگونه ظاهر شد و نمایان شد؟"
     },
     {
       "VOrder": 28,
@@ -405,7 +419,8 @@
       "Text": "چو رفت از جهان زاده ی پور صخر",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: زمانی که فرزند پور صخر از این جهان رفت، او به خاطر کشتن شاه دین به خودش می‌بالمی کرد."
     },
     {
       "VOrder": 30,

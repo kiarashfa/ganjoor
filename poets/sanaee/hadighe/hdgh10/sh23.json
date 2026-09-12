@@ -191,7 +191,8 @@
       "Text": "آن شنیدی که مرغکی در شخ",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: مرغکی در میان شاخ‌ها، چیزی را زیر ریگ‌ها مشاهده کرد که به نظرش زیبا و خاص می‌آمد."
     },
     {
       "VOrder": 2,
@@ -207,7 +208,8 @@
       "Text": "گفت تو کیستی چنین بد حال",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: سوالی از شخصی درباره وضعیت نامناسبش شد و او پاسخ داد که من کسی هستم که در نظر دیگران، ستوده و مورد احترام هستم."
     },
     {
       "VOrder": 4,
@@ -223,7 +225,8 @@
       "Text": "چیست این زه که بر میان داری",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: چه چیزی است این نغمه‌ای که در میان تو قرار دارد و به چه معنا آن را در دل پنهان کرده‌ای؟"
     },
     {
       "VOrder": 6,
@@ -239,7 +242,8 @@
       "Text": "گفت این زه نگاه‌دار من است",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که آن شخص می‌گوید: نگاهی که دارم، همیشه همراه من است و در هر شرایطی، چه خوب و چه بد، دوست و یار من خواهد بود."
     },
     {
       "VOrder": 8,
@@ -255,7 +259,8 @@
       "Text": "من میان بسته بهر طاعت را",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: من در زندگی خود، به دوری از دنیا و مشغله‌های آن پرداخته‌ام و در عوض، به رضایت از داشته‌هایم و قناعت اهمیت می‌دهم."
     },
     {
       "VOrder": 10,
@@ -271,7 +276,8 @@
       "Text": "گفت این گندم از برای چراست",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: گفت این گندم برای چرا دادن دام‌هاست، در حالی که در میان دو چیز قرار دارد؛ یکی در سمت چپ و دیگری در سمت راست."
     },
     {
       "VOrder": 12,
@@ -287,7 +293,8 @@
       "Text": "گفت هستم به قوت حاجتمند",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: من می‌گویم که نیازم به زور و قدرت است، همچنان که حیوانی به نیرو و قدرت برای زنده ماندن وابسته است."
     },
     {
       "VOrder": 14,
@@ -303,7 +310,8 @@
       "Text": "راتبم گندمیست هر روزی",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: من هر روز از محبت و حمایت یک انسان خداترس و دلسوز روزی می‌خورم که روزی‌ام از زراعت گندم است."
     },
     {
       "VOrder": 16,
@@ -319,7 +327,8 @@
       "Text": "هیچ بازت ندارم ار بخوری",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: اگر تو بخواهی، هیچ چیز دیگری از من نمی‌ماند و حتی روزمرگی‌ام را هم از من می‌گیری."
     },
     {
       "VOrder": 18,
@@ -335,7 +344,8 @@
       "Text": "سر فرو کرد و گندمک برکند",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: سرش را پایین آورد و دانه‌های گندم را چید، او همچنان در دام ماند."
     },
     {
       "VOrder": 20,
@@ -351,7 +361,8 @@
       "Text": "مرغ گفتا که من شدم باری",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: پرنده گفت: من اکنون به مرحله‌ای رسیدم که نمی‌توانم دیگر پرواز کنم، زیرا کسی که مرا خرید، من را به این حال انداخت."
     },
     {
       "VOrder": 22,
@@ -367,7 +378,8 @@
       "Text": "هیچ فاسق مرا ز راه نبرد",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: هیچ نیروی بدی نتوانست مرا از راه درست منحرف کند، حتی زاهدی که با تهمت به من، احساس ناتوانی و خفت به من داد."
     },
     {
       "VOrder": 24,
@@ -383,7 +395,8 @@
       "Text": "به خدایم فریفت مکّاری",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: به خدا من را فریب دادند، این شخص ناپاک و خیانتکاری چنین عمل می‌کند."
     },
     {
       "VOrder": 26,
@@ -399,7 +412,8 @@
       "Text": "هرکه او بهر لقمه شد پویان",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که به خاطر لقمه‌ای نان تلاش و حرکت می‌کند، مانند من سرانجام بی‌روح و بی‌جان خواهد شد."
     },
     {
       "VOrder": 28,
@@ -415,7 +429,8 @@
       "Text": "کرده‌ام اختیار غفلت و جهل",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: من خودم به عمد در دام غفلت و نادانی گرفتار شده‌ام، در دنیایی این‌چنینی پر از افرادی نااهل و بی‌کفایت."
     },
     {
       "VOrder": 30,
@@ -431,7 +446,8 @@
       "Text": "من وفایی ندیده‌ام ز خسان",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: من از بی‌وفایی انسان‌ها آگاه هستم، اما اگر تو چنین وفایی را دیده‌ای، سلام مرا به او برسان."
     },
     {
       "VOrder": 32,

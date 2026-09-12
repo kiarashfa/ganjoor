@@ -91,7 +91,8 @@
       "Text": "در این صورت بیا معنی طلب کن",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: در این حالت، بیایید درخواست کنید که برداشتی از این سخن را ارائه دهیم، به عبارتی دیگر، بیان کن که چه می‌خواهی."
     },
     {
       "VOrder": 2,
@@ -107,7 +108,8 @@
       "Text": "به هر صورت که بنماید جمالش",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: هر طور که ظاهر شود، زیبایی او زیباست و آن تصویر خیال او نیز دلربا است."
     },
     {
       "VOrder": 4,
@@ -123,7 +125,8 @@
       "Text": "گذر کن بر سر بازار جنّت",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: به باغ بهشت برو و زیبایی‌ها و معناهای عمیق آن را مشاهده کن؛ چون در این مکان، چیزهای معنوی و حقیقت‌های زیبا خود را به تو نشان می‌دهند."
     },
     {
       "VOrder": 6,
@@ -139,7 +142,8 @@
       "Text": "به هر صورت تو را حسنی نماید",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: به هر حال، زیبایی‌ای که در تو نهفته است، از ظاهر تو می‌افزاید و معنای عمیق‌تری به تو می‌بخشد."
     },
     {
       "VOrder": 8,
@@ -155,7 +159,8 @@
       "Text": "بود هر صورتی آئینه‌ای خوب",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: هر شکلی مانند آینه‌ای است که زیبایی محبوب را به تو نشان می‌دهد."
     },
     {
       "VOrder": 10,
@@ -171,7 +176,8 @@
       "Text": "تو را در جنّت و ما را همین جا",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: در بهشت تو زندگی می‌کنی و ما همین‌جا زندگی می‌کنیم، ای عزیزم!"
     },
     {
       "VOrder": 12,

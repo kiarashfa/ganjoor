@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای در سر هر کس از تو سودای دگر",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای آن که در ذهن هر کسی خیالی دیگر داری، در مسیر تو هر گروهی نظر و رأی متفاوتی دارند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "چیزی ز تو هر کسی تمنا دارد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی چیزی از تو می‌خواهد، اما ما جز تو هیچ خواسته و آرزویی نداریم."
     },
     {
       "VOrder": 4,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "یک نیمه جهان سراو باغ شاه است",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نیمه‌ای از جهان متعلق به باغ شاه است و نیمه دیگر به لشکرگاه اختصاص دارد."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "لشکر که بزیر خیمه و خرگاه است",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زیر چادر و سایبان، جای پر از شیر و پلنگ و زیبایی‌های شب است."
     },
     {
       "VOrder": 4,

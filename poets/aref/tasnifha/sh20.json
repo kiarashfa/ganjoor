@@ -46,7 +46,8 @@
       "Text": "امشب از آسیا، اروپا رفتی",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: امشب با وجود اینکه به اروپا سفر کردی، کار درستی نکردی که بدون من به آنجا رفتی."
     },
     {
       "VOrder": 2,
@@ -62,7 +63,8 @@
       "Text": "الهی دختر گیوار بمیره",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 1
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: خداوندا، دختر گیوار از دنیا رفته و ما را تنها گذاشتی، رفتی و جلفا را ترک کردی."
     },
     {
       "VOrder": 4,
@@ -78,7 +80,8 @@
       "Text": "(ما را تنها گذاشتی، جلفا رفتی)",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: تو ما را تنها گذاشتی و به جلفا رفتی."
     }
   ]
 }

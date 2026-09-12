@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "تو بدی میکنی و میخواهی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو در رفتار ناپسند می‌کنی، اما امیدوار هستی که همیشه برایت خوبی پیش بیاید."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "نیک پاداش بد نخواهد شد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پاداش خوب هرگز نتیجه‌ی بدی نخواهد داشت، پس ای بزرگوار، از خیال‌های غیرممکن عبور کن."
     },
     {
       "VOrder": 4,

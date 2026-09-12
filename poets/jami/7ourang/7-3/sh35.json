@@ -191,7 +191,8 @@
       "Text": "پور موفق که به توفیق حق",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: فرزند موفق که به برکت حق، از هر پیر موفق پیشی گرفته است."
     },
     {
       "VOrder": 2,
@@ -207,7 +208,8 @@
       "Text": "بادیه کعبه بسی می برید",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: اینجا اشاره به سفرهایی است که افراد برای رسیدن به کعبه انجام می‌دهند. در این مسیر، مشکلات و سختی‌های زیادی وجود دارد که مسافران با آن‌ها روبرو می‌شوند. اما با وجود این دشواری‌ها، عزم و اراده آن‌ها از بین نمی‌رود و با پشتکار و تلاش به مقصد خود می‌رسند."
     },
     {
       "VOrder": 4,
@@ -223,7 +225,8 @@
       "Text": "روزی از آنجا که دلی داشت تنگ",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: روزی شخصی به شدت نگران و غمگین به در کعبه رفت و در حالی که دلش پر از درد و ناامیدی بود، سرش را به سنگ زد."
     },
     {
       "VOrder": 6,
@@ -239,7 +242,8 @@
       "Text": "گفت خدایا پس هر محنتی",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: خدایا، هر مشکلی که باشد، آن را به من بده و به من با رحمتت نگاه کن."
     },
     {
       "VOrder": 8,
@@ -255,7 +259,8 @@
       "Text": "راه حج و عمره بسی رفته ام",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: من سفرهای زیادی به حج و عمره انجام داده‌ام، اما این سفرها تنها برای تو بوده و نه برای کسی دیگر."
     },
     {
       "VOrder": 10,
@@ -271,7 +276,8 @@
       "Text": "دل به وفای تو گرو بوده ام",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: من به وفاداری تو دل سپرده‌ام و برای تو همیشه در تلاش و جنب و جوش بوده‌ام."
     },
     {
       "VOrder": 12,
@@ -287,7 +293,8 @@
       "Text": "زین سفرم نیست به کف حاصلی",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: از این سفر چیزی به دست نیاورده‌ام، نه برای خودم چیزی که ارزنده باشد و نه دل آرامی که خواستارم."
     },
     {
       "VOrder": 14,
@@ -303,7 +310,8 @@
       "Text": "هیچ ندانم که مرا حال چیست",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: نمی‌دانم حال درونی‌ام چگونه است و نمی‌دانم چه چیزی باعث خوشبختی و شانس من شده است."
     },
     {
       "VOrder": 16,
@@ -319,7 +327,8 @@
       "Text": "شب چو درین درد فرو شد به خواب",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: در شب که درد و غم بر او چیره شد، ناگهان خوابش برد و از سوی خداوند بی‌نظیر، ندایی به او رسید."
     },
     {
       "VOrder": 18,
@@ -335,7 +344,8 @@
       "Text": "کای به رهم پای ز سر ساخته",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که بر من قدم گذاشته‌ای و به خاطر همه‌ی زحماتی که کشیده‌ام، سرم را سرافراز کرده‌ای."
     },
     {
       "VOrder": 20,
@@ -351,7 +361,8 @@
       "Text": "گر نه تو را خواستمی کی چنین",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: اگر تو را نمی‌خواستم، آیا چنین راهی به سوی این سرزمین به تو می‌دادم؟"
     },
     {
       "VOrder": 22,
@@ -367,7 +378,8 @@
       "Text": "هر که نه مایل به سوی وی شوی",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: هرکس که تمایل ندارد به سمت او بروی، چگونه می‌توانی او را به راه خود هدایت کنی؟"
     },
     {
       "VOrder": 24,
@@ -383,7 +395,8 @@
       "Text": "حاصلت این بس که تو را خواستم",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: نتیجه‌ای که از خواستن تو به دست آمد این است که باطن تو به خاطر عشق و اشتیاقی که نسبت به تو دارم، زیبا و آراسته شده است."
     },
     {
       "VOrder": 26,
@@ -399,7 +412,8 @@
       "Text": "ره به سوی خانه خود دادمت",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: من راه را به سوی خانه‌ات نشان دادم، اما تو را به دست هر کسی نسپردم."
     },
     {
       "VOrder": 28,
@@ -415,7 +429,8 @@
       "Text": "یارب از آنجا که کرم آن توست",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: خداوندا، به خاطر رحمت و لطفی که داری، همه منتظر بخشش و نیکی‌های تو هستند."
     },
     {
       "VOrder": 30,
@@ -431,7 +446,8 @@
       "Text": "جامی اگر چند نه صاحبدلیست",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: اگرچه جامی شاعرانی چون تو را دارد، اما امید دارد که به چنین ثمری برسد."
     },
     {
       "VOrder": 32,

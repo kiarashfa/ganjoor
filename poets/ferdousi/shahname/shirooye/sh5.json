@@ -621,7 +621,8 @@
       "Text": "هر آنکس که بد کرد با شهریار",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "تمام کسانی که به پادشاه (خسروپرویز) بدی و خیانت کرده بودند، شب و روز از چرخشِ روزگار (و بازگشت او به قدرت) در ترس و وحشت بودند."
     },
     {
       "VOrder": 2,
@@ -637,7 +638,8 @@
       "Text": "چو شیروی ترسنده و خام بود",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "از آنجا که شیرویه فردی ترسو و بی‌تجربه (خام) بود، آن تاج‌وتختی که پیشِ رویش قرار داشت، مانند دامی برای او بود (و استقلالی نداشت)."
     },
     {
       "VOrder": 4,
@@ -653,7 +655,8 @@
       "Text": "بدانست اختر شمر هرک دید",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "هر ستاره‌شناس و آینده‌نگری که اوضاع را می‌دید، می‌دانست که دیگر روزگارِ خوشِ بزرگان و نامداران فرا نخواهد رسید."
     },
     {
       "VOrder": 6,
@@ -669,7 +672,8 @@
       "Text": "برفتند هرکس که بد کرده بود",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "تمام کسانی که خیانت کرده و در این کودتا و شورش دست داشتند..."
     },
     {
       "VOrder": 8,
@@ -685,7 +689,8 @@
       "Text": "ز درگاه یکسر به نزد قباد",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "...مستقیماً از درگاهِ کاخ به پیش «قباد» (شیرویه) رفتند و دوباره از آن کار نادرست سخن به میان آوردند."
     },
     {
       "VOrder": 10,
@@ -701,7 +706,8 @@
       "Text": "که یک بار گفتیم و این دیگرست",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "که ما یک بارِ دیگر هم این موضوع را گفته بودیم؛ انگار تو در سرت قصد و تصمیمِ دیگری داری."
     },
     {
       "VOrder": 12,
@@ -717,7 +723,8 @@
       "Text": "نشسته به یک شهر بی بر دو شاه",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "دو پادشاه بی‌کار و بی‌حاصل در این مملکت نشسته‌اند؛ یکی روی تختِ شاهی است و آن یکی زیرِ تخت (در جایگاهِ اسارت)!"
     },
     {
       "VOrder": 14,
@@ -733,7 +740,8 @@
       "Text": "چو خویشی فزاید پدر با پسر",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "اگر مهر و پیوندِ خویشاوندی میان پدر و پسر (تو و خسرو) دوباره جان بگیرد، سرِ همه‌ی ما زیردستان و خدمتگزاران را خواهید برید."
     },
     {
       "VOrder": 16,
@@ -749,7 +757,8 @@
       "Text": "نییم اندرین کار همداستان",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "ما با این وضعیت موافق نیستیم؛ از این به بعد دیگر برای ما بهانه نیاور و قصه‌بافی نکن."
     },
     {
       "VOrder": 18,
@@ -765,7 +774,8 @@
       "Text": "بترسید شیروی و ترسنده بود",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "شیرویه به شدت ترسید و ذاتاً هم ترسو بود، چرا که در چنگالِ این شورشیان، تفاوتی با یک برده و اسیر نداشت."
     },
     {
       "VOrder": 20,
@@ -781,7 +791,8 @@
       "Text": "چنین داد پاسخ که سرسوی دام",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "شیرویه (برای تبرئه خود) پاسخ داد: «هیچ‌کس جز انسان‌های بدنام و تبهکار، سر به دام نمی‌دهد."
     },
     {
       "VOrder": 22,
@@ -797,7 +808,8 @@
       "Text": "شما را سوی خانه باید شدن",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "شما باید به خانه‌هایتان بروید و برای رسیدن به این آرزویی که دارید (کشتن خسرو)، چاره‌ای بیندیشید."
     },
     {
       "VOrder": 24,
@@ -813,7 +825,8 @@
       "Text": "به جویید تا کیست اندر جهان",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "بگردید و ببینید در این جهان چه کسی پیدا می‌شود که بتواند در خفا، این رنج و مشکل را برای ما تمام کند.»"
     },
     {
       "VOrder": 26,
@@ -829,7 +842,8 @@
       "Text": "کشنده همی‌جست بدخواه شاه",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "دشمنانِ پادشاه به دنبال یک قاتل می‌گشتند تا خسروپرویز را به صورت پنهانی نابود کنند."
     },
     {
       "VOrder": 28,
@@ -845,7 +859,8 @@
       "Text": "کس اندر جهان زهرهٔ آن نداشت",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "اما هیچ‌کس در جهان جرئت و زَهره‌ی چنین کاری را نداشت؛ و کسی آن‌قدر جسارت نداشت که دست به چنین کاری بزند."
     },
     {
       "VOrder": 30,
@@ -861,7 +876,8 @@
       "Text": "که خون چنان خسروی ریختی",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "چرا که ریختنِ خونِ پادشاهِ بزرگی همچون خسرو، مانند این بود که کوهی از گناه را به گردنِ خود بیاویزی."
     },
     {
       "VOrder": 32,
@@ -877,7 +893,8 @@
       "Text": "ز هر سو همی‌جست بدخواه شاه",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "بدخواهانِ شاه در هر سو جست‌وجو می‌کردند، تا اینکه در راه، مردی را دیدند..."
     },
     {
       "VOrder": 34,
@@ -893,7 +910,8 @@
       "Text": "دو چشمش کبود و در خساره زرد",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "که چشمانش کبود (آبی‌رنگ، که در آن زمان نماد شومی بود) و چهره‌اش زرد بود؛ بدنی لاغر و پرمو داشت و رنگِ صورتش تیره (لاجوردی) بود."
     },
     {
       "VOrder": 36,
@@ -909,7 +927,8 @@
       "Text": "پر از خاک پای و شکم گرسنه",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "پاهایش پر از خاک، شکمش گرسنه و بدنِ این مردِ تبهکار، لخت و برهنه بود. "
     },
     {
       "VOrder": 38,
@@ -925,7 +944,8 @@
       "Text": "ندانست کس نام او در جهان",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "هیچ‌کس در این جهان نام او را نمی‌دانست؛ نه در میان مردمِ عادی و نه در میان بزرگان."
     },
     {
       "VOrder": 40,
@@ -941,7 +961,8 @@
       "Text": "بر زاد فرخ شد این مرد زشت",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "این مردِ زشت‌رو، که امیدوارم هرگز روی بهشتِ سرسبز را نبیند، به پیش «زادفرّخ» (یکی از رهبران شورش) رفت."
     },
     {
       "VOrder": 42,
@@ -957,7 +978,8 @@
       "Text": "بدو گفت کاین رزم کارمنست",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "به زادفرخ گفت: «این کشتار، تخصصِ من است؛ اگر شکمم را سیر کنی، این پادشاه شکارِ من خواهد بود.»"
     },
     {
       "VOrder": 44,
@@ -973,7 +995,8 @@
       "Text": "بدو گفت روگر توانی بکن",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "زادفرخ به او گفت: «برو و اگر می‌توانی این کار را انجام بده، و دیگر بیش از این دهانت را برای حرف زدن باز نکن."
     },
     {
       "VOrder": 46,
@@ -989,7 +1012,8 @@
       "Text": "یکی کیسه دینار دادم تو را",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "من یک کیسه سکه‌ی طلا به تو می‌دهم، و حمایتِ فرزندِ او (شیرویه) را نیز پشتوانه‌ی تو می‌کنم.»"
     },
     {
       "VOrder": 48,
@@ -1005,7 +1029,8 @@
       "Text": "یکی خنجری تیز دادش چوآب",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "زادفرخ خنجری که مانند آبِ زلال صیقلی و برّنده بود به او داد؛ و آن قاتل با سرعت و شتاب به راه افتاد."
     },
     {
       "VOrder": 50,
@@ -1021,7 +1046,8 @@
       "Text": "چو آن بدکنش رفت نزدیک شاه",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "وقتی آن مردِ بدکار به نزد پادشاه رسید، شاه را در آن جایگاه با پاهای زنجیرشده دید."
     },
     {
       "VOrder": 52,
@@ -1037,7 +1063,8 @@
       "Text": "بلرزید خسرو چو او را بدید",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "خسروپرویز با دیدنِ چهره‌ی او لرزید و قطراتِ اشک از مژگانش بر روی گونه‌هایش چکید."
     },
     {
       "VOrder": 54,
@@ -1053,7 +1080,8 @@
       "Text": "بدو گفت کای زشت نام تو چیست",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "پادشاه به او گفت: «ای مردِ زشت‌رو، نام تو چیست؟ مادری که تو را زاییده است باید به حالِ تو گریه کند!»"
     },
     {
       "VOrder": 56,
@@ -1069,7 +1097,8 @@
       "Text": "مرا مِهرهرمزد خوانند گفت",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "قاتل گفت: «مرا \u0022مِهر هُرمُزد\u0022 می‌نامند؛ من در این شهر غریب هستم و هیچ یار و همدمی ندارم.»"
     },
     {
       "VOrder": 58,
@@ -1085,7 +1114,8 @@
       "Text": "چنین گفت خسرو که آمد زمان",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "خسرو گفت: «پایانِ عمرِ من فرا رسیده است، آن هم به دستِ یک انسانِ پست، فرومایه و بدسرشت."
     },
     {
       "VOrder": 60,
@@ -1101,7 +1131,8 @@
       "Text": "به مردم نماند همی‌چهراو",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "چهره‌ی او اصلاً به انسان‌ها شباهتی ندارد و در تمامِ جهان، هیچ‌کس به دنبال دوستی و محبتِ او نیست.»"
     },
     {
       "VOrder": 62,
@@ -1117,7 +1148,8 @@
       "Text": "یکی ریدکی پیش او بد بپای",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "پسرکِ خدمتکاری (ریدَک) در پیشگاه خسرو ایستاده بود؛ خسرو به او گفت: «ای راهنما (خدمتکار)..."
     },
     {
       "VOrder": 64,
@@ -1133,7 +1165,8 @@
       "Text": "بروتشت آب آر و مشک و عبیر",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "...برو یک تشت آب، به همراه مُشک و عَبیر و یک دست لباسِ تمیز و پاکیزه بیاور.»"
     },
     {
       "VOrder": 66,
@@ -1149,7 +1182,8 @@
       "Text": "پرستنده بشنید آواز اوی",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "خدمتکار صدای او را شنید، اما آن کودک از رازِ پادشاه (آماده شدن برای مرگ) بی‌خبر بود."
     },
     {
       "VOrder": 68,
@@ -1165,7 +1199,8 @@
       "Text": "ز پیشش بیامد پرستار خرد",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "آن خدمتکارِ کوچک از پیش او رفت و یک تشتِ طلایی برای پادشاه آورد."
     },
     {
       "VOrder": 70,
@@ -1181,7 +1216,8 @@
       "Text": "ابا جامه و آبدستان وآب",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "همراه با لباسِ تمیز، آفتابه (آبدستان) و آب؛ و خسرو او را برای آوردنِ این وسایل عجله می‌داد."
     },
     {
       "VOrder": 72,
@@ -1197,7 +1233,8 @@
       "Text": "چو برسم بدید اندر آمد بواژ",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "هنگامی که خسرو «بَرسُم» (شاخه‌های مقدس زرتشتی) را دید، شروع به خواندن «واژ» (دعای زیرلب) کرد؛ دیگر زمانِ حرف زدن و سخنانِ بیهوده نبود."
     },
     {
       "VOrder": 74,
@@ -1213,7 +1250,8 @@
       "Text": "چو آن جامه‌ها را بپوشید شاه",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "وقتی پادشاه آن لباس‌های تمیز را پوشید، با زمزمه‌ی دعا، از گناهانِ خود به درگاهِ خداوند توبه کرد."
     },
     {
       "VOrder": 76,
@@ -1229,7 +1267,8 @@
       "Text": "یکی چادر نو به سر در کشید",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "سپس چادری نو بر روی سر و صورتِ خود کشید، تا چهره‌ی آن قاتلِ جان‌ستان را نبیند."
     },
     {
       "VOrder": 78,
@@ -1245,7 +1284,8 @@
       "Text": "بشد مهر هرمزد خنجر بدست",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "مهر هرمزد با خنجری در دست پیش آمد و درِ اتاقِ پادشاه را بست."
     },
     {
       "VOrder": 80,
@@ -1261,7 +1301,8 @@
       "Text": "سبک رفت و جامه ازو در کشید",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "سریعاً جلو رفت، لباس را از بدن خسرو کنار زد و پهلو و جگرگاهِ پادشاهِ جهان را با خنجر شکافت."
     },
     {
       "VOrder": 82,
@@ -1277,7 +1318,8 @@
       "Text": "بپیچید و بر زد یکی سرد باد",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "خسرو به خود پیچید، آهی سرد از سینه برآورد و با زاری، بر روی همان لباس‌های تمیز جان سپرد."
     },
     {
       "VOrder": 84,
@@ -1293,7 +1335,8 @@
       "Text": "برین گونه گردد جهان جهان",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "(پند فردوسی): چرخشِ این جهانِ مادی به همین شکل است؛ او همیشه رازها و بازی‌هایش را از تو پنهان نگه می‌دارد."
     },
     {
       "VOrder": 86,
@@ -1309,7 +1352,8 @@
       "Text": "سخن سنج بی‌رنج گر مرد لاف",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "چه انسانِ خردمند و سنجیده‌گو باشی و چه انسانِ لاف‌زن، از کارهای این جهان چیزی جز بیهودگی و کارهای گزاف نخواهی دید."
     },
     {
       "VOrder": 88,
@@ -1325,7 +1369,8 @@
       "Text": "اگر گنج داری و گر گُرم و رنج",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "چه صاحب گنج و ثروت باشی، و چه گرفتار اندوه (گُرم) و رنج، در این دنیایِ موقت (سرای سپنج) ماندگار نخواهی بود."
     },
     {
       "VOrder": 90,
@@ -1341,7 +1386,8 @@
       "Text": "بی‌آزاری و راستی برگزین",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "پس آزار نرساندن به دیگران و راستگویی را انتخاب کن، اگر می‌خواهی به خاطرِ عدالت و نیکی‌ات مورد تحسین قرار بگیری."
     },
     {
       "VOrder": 92,
@@ -1357,7 +1403,8 @@
       "Text": "چو آگاهی آمد به بازار و راه",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "وقتی خبر به کوچه‌ها و بازارهای شهر رسید که خسرو این‌گونه ناجوانمردانه کشته شده است..."
     },
     {
       "VOrder": 94,
@@ -1373,7 +1420,8 @@
       "Text": "همه بدگمانان به زندان شدند",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "تمامِ توطئه‌گران و بدخواهان به سوی زندان و به سراغ آن شاهزادگانِ بی‌گناه و بیچاره رفتند."
     },
     {
       "VOrder": 96,
@@ -1389,7 +1437,8 @@
       "Text": "گرامی ده و پنج فرزند بود",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "پانزده فرزندِ عزیز و گرامی از خسروپرویز در آن ایوان (زندان) گرفتار و دربند بودند."
     },
     {
       "VOrder": 98,
@@ -1405,7 +1454,8 @@
       "Text": "به زندان بکشتندشان بی‌گناه",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "شورشیان تمام آن‌ها را در زندان بی‌گناه به قتل رساندند؛ همانطور که بخت و اقبال از پادشاه برگشته بود."
     },
     {
       "VOrder": 100,
@@ -1421,7 +1471,8 @@
       "Text": "جهاندار چیزی نیارست گفت",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "پادشاه (شیرویه) جرئت نکرد در برابر این جنایت حرفی بزند و فقط اندوهش را در دل پنهان کرد."
     },
     {
       "VOrder": 102,
@@ -1437,7 +1488,8 @@
       "Text": "چو بشنید شیرویه چندی گریست",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "شیرویه وقتی خبر کشته شدن برادرانش را شنید، مدتی گریه کرد و سپس بیست نگهبان فرستاد..."
     },
     {
       "VOrder": 104,
@@ -1453,7 +1505,8 @@
       "Text": "بدان تا زن و کودکانشان نگاه",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "...تا از زنان و کودکانِ خردسالِ برادرانش، پس از مرگِ آن پادشاهِ مقتول، محافظت کنند."
     },
     {
       "VOrder": 106,
@@ -1469,7 +1522,8 @@
       "Text": "شد آن پادشاهی و چندان سپاه",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "آن پادشاهیِ عظیم، آن ارتشِ بی‌شمار، و آن همه بزرگی، جوانمردی و قدرت نابود شد..."
     },
     {
       "VOrder": 108,
@@ -1485,7 +1539,8 @@
       "Text": "که کس را ز شاهنشهان آن نبود",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "شکوهی که هیچ‌یک از شاهنشاهانِ تاریخ نظیرِ آن را نداشتند و حتی از نامدارانِ گذشته نیز چنین قدرتی شنیده نشده بود."
     },
     {
       "VOrder": 110,
@@ -1501,7 +1556,8 @@
       "Text": "یکی گشت با آنک نانی فراخ",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "خسروپرویز با آن انسانِ فقیری که یک نانِ راحت برای خوردن پیدا نمی‌کند و صاحب هیچ زمین و کاخی نیست، کاملاً برابر و یکی شد."
     },
     {
       "VOrder": 112,
@@ -1517,7 +1573,8 @@
       "Text": "خردمند گوید نیارد بها",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "انسانِ خردمند می‌گوید: هر کس که خود را از گزندِ اژدهای مرگ و روزگار در امان بداند، هیچ قدر و ارزشی ندارد."
     },
     {
       "VOrder": 114,
@@ -1533,7 +1590,8 @@
       "Text": "جهان رامخوان جز دلاور نهنگ",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "این جهان را چیزی جز یک نهنگِ (تمساحِ) درنده و بی‌رحم ندان؛ که وقتی تو را در چنگال خود بگیرد، با دندان‌هایش خُردت می‌کند."
     },
     {
       "VOrder": 116,
@@ -1549,7 +1607,8 @@
       "Text": "سرآمد کنون کار پرویز شاه",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "اکنون داستان و کارنامه خسروپرویز به پایان رسید؛ و تمام آن تاج‌وتخت، گنجینه‌ها و ارتشِ نامدار از بین رفت."
     },
     {
       "VOrder": 118,
